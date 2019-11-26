@@ -1,12 +1,17 @@
 <template>
-  <div class="home">
-    <h1>home page</h1>
-  </div>
+  <main class="home py-5">
+    <ThemesList />
+  </main>
 </template>
 
 <script>
+import ThemesList from "../components/ThemesList";
+
 export default {
   name: "home",
-  components: {}
+
+  components: {
+    ThemesList
+  }
 };
 </script>
