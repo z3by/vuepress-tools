@@ -8,16 +8,14 @@
         <h3 class="text-white">
           {{ theme.name }}
         </h3>
-        <p class="text-light">
-          {{ theme.description }}
-        </p>
         <div class="card-action">
           <b-button
             variant="outline-light"
-            class="rounded btn-sm px-3 bg-transparent"
-            v-b-modal.modal-xl
-            >Show</b-button
+            class="rounded btn-sm px-3 mt-3 bg-transparent"
+            v-b-modal.theme-details
           >
+            Show
+          </b-button>
         </div>
       </div>
       <div class="overlay-links w-100 p-3">

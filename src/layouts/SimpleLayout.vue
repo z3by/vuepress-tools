@@ -10,7 +10,7 @@
     </main>
     <footer class="text-center bg-light p-5">
       <p class="m-0">
-        made with ❤️ by <a href="https://ahmadmostafa.com">@z3by</a>
+        Made with ❤️ by <a href="https://ahmadmostafa.com">@z3by</a>
       </p>
     </footer>
   </div>

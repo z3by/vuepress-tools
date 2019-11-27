@@ -35,20 +35,20 @@
         <ThemeCard :theme="theme" />
       </b-col>
     </b-row>
-    <b-modal id="modal-xl" size="xl" title="Extra Large Modal"
-      >Hello Extra Large Modal!</b-modal
-    >
+    <ThemeDetails />
   </b-container>
 </template>
 
 <script>
 import ThemeCard from "./ThemeCard";
+import ThemeDetails from "./ThemeDetails";
 import ThemifyIcon from "vue-themify-icons";
 
 export default {
   components: {
     ThemeCard,
-    ThemifyIcon
+    ThemifyIcon,
+    ThemeDetails
   },
 
   data() {
