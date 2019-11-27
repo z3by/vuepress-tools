@@ -81,3 +81,9 @@ export default {
   }
 };
 </script>
+
+<style>
+.screenshot-list .image {
+  background-size: cover;
+}
+</style>
