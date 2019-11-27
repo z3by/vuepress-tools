@@ -1,142 +1,17 @@
 [
     {
         "id": "1",
-        "name": "Theme name",
-        "type": "docs",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic illo eos quia",
-        "image": "https://picsum.photos/400/400/?image=20",
-        "github": "https://github.com/z3by/vuepress-theme-modern-blog",
-        "link": "https://github.com/z3by/vuepress-theme-modern-blog",
-        "screenShots": [
-          "https://picsum.photos/400/300/?image=1",
-          "https://picsum.photos/400/300/?image=20",
-          "https://picsum.photos/400/300/?image=30",
-          "https://picsum.photos/400/300/?image=40",
-          "https://picsum.photos/400/300/?image=50",
-          "https://picsum.photos/400/300/?image=60",
-          "https://picsum.photos/400/300/?image=70",
-          "https://picsum.photos/400/300/?image=80",
-          "https://picsum.photos/400/300/?image=90"
-        ]
-    },
-    {
-        "id": "2",
-        "name": "Theme name",
-        "type": "docs",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic illo eos quia",
-        "image": "https://picsum.photos/400/400/?image=20",
-        "github": "https://github.com/z3by/vuepress-theme-modern-blog",
-        "link": "https://github.com/z3by/vuepress-theme-modern-blog",
-        "screenShots": [
-          "https://picsum.photos/400/300/?image=1",
-          "https://picsum.photos/400/300/?image=20",
-          "https://picsum.photos/400/300/?image=30",
-          "https://picsum.photos/400/300/?image=40",
-          "https://picsum.photos/400/300/?image=50",
-          "https://picsum.photos/400/300/?image=60",
-          "https://picsum.photos/400/300/?image=70",
-          "https://picsum.photos/400/300/?image=80",
-          "https://picsum.photos/400/300/?image=90"
-        ]
-    },
-    {
-        "id": "3",
-        "name": "Theme name",
+        "name": "Modern blog",
         "type": "blog",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic illo eos quia",
-        "image": "https://picsum.photos/400/400/?image=20",
+        "description": "Modern blog theme for VuePress.",
+        "image": "/img/screenshots/modern-blog-3.png",
         "github": "https://github.com/z3by/vuepress-theme-modern-blog",
-        "link": "https://github.com/z3by/vuepress-theme-modern-blog",
+        "link": "https://vp-modern.z3by.com/",
         "screenShots": [
-          "https://picsum.photos/400/300/?image=1",
-          "https://picsum.photos/400/300/?image=20",
-          "https://picsum.photos/400/300/?image=30",
-          "https://picsum.photos/400/300/?image=40",
-          "https://picsum.photos/400/300/?image=50",
-          "https://picsum.photos/400/300/?image=60",
-          "https://picsum.photos/400/300/?image=70",
-          "https://picsum.photos/400/300/?image=80",
-          "https://picsum.photos/400/300/?image=90"
-        ]
-    },
-    {
-        "id": "4",
-        "name": "Theme name",
-        "type": "blog",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic illo eos quia",
-        "image": "https://picsum.photos/400/400/?image=20",
-        "github": "https://github.com/z3by/vuepress-theme-modern-blog",
-        "link": "https://github.com/z3by/vuepress-theme-modern-blog",
-        "screenShots": [
-          "https://picsum.photos/400/300/?image=1",
-          "https://picsum.photos/400/300/?image=20",
-          "https://picsum.photos/400/300/?image=30",
-          "https://picsum.photos/400/300/?image=40",
-          "https://picsum.photos/400/300/?image=50",
-          "https://picsum.photos/400/300/?image=60",
-          "https://picsum.photos/400/300/?image=70",
-          "https://picsum.photos/400/300/?image=80",
-          "https://picsum.photos/400/300/?image=90"
-        ]
-    },
-    {
-        "id": "5",
-        "name": "Theme name",
-        "type": "docs",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic illo eos quia",
-        "image": "https://picsum.photos/400/400/?image=20",
-        "github": "https://github.com/z3by/vuepress-theme-modern-blog",
-        "link": "https://github.com/z3by/vuepress-theme-modern-blog",
-        "screenShots": [
-          "https://picsum.photos/400/300/?image=1",
-          "https://picsum.photos/400/300/?image=20",
-          "https://picsum.photos/400/300/?image=30",
-          "https://picsum.photos/400/300/?image=40",
-          "https://picsum.photos/400/300/?image=50",
-          "https://picsum.photos/400/300/?image=60",
-          "https://picsum.photos/400/300/?image=70",
-          "https://picsum.photos/400/300/?image=80",
-          "https://picsum.photos/400/300/?image=90"
-        ]
-    },
-    {
-        "id": "6",
-        "name": "Theme name",
-        "type": "portfolio",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic illo eos quia",
-        "image": "https://picsum.photos/400/400/?image=20",
-        "github": "https://github.com/z3by/vuepress-theme-modern-blog",
-        "link": "https://github.com/z3by/vuepress-theme-modern-blog",
-        "screenShots": [
-          "https://picsum.photos/400/300/?image=1",
-          "https://picsum.photos/400/300/?image=20",
-          "https://picsum.photos/400/300/?image=30",
-          "https://picsum.photos/400/300/?image=40",
-          "https://picsum.photos/400/300/?image=50",
-          "https://picsum.photos/400/300/?image=60",
-          "https://picsum.photos/400/300/?image=70",
-          "https://picsum.photos/400/300/?image=80",
-          "https://picsum.photos/400/300/?image=90"
-        ]
-    },
-    {
-        "id": "7",
-        "name": "Theme name",
-        "type": "portfolio",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic illo eos quia",
-        "image": "https://picsum.photos/400/400/?image=20",
-        "github": "https://github.com/z3by/vuepress-theme-modern-blog",
-        "link": "https://github.com/z3by/vuepress-theme-modern-blog",
-        "screenShots": [
-          "https://picsum.photos/400/300/?image=1",
-          "https://picsum.photos/400/300/?image=20",
-          "https://picsum.photos/400/300/?image=30",
-          "https://picsum.photos/400/300/?image=40",
-          "https://picsum.photos/400/300/?image=50",
-          "https://picsum.photos/400/300/?image=60",
-          "https://picsum.photos/400/300/?image=70",
-          "https://picsum.photos/400/300/?image=80",
-          "https://picsum.photos/400/300/?image=90"
+          "/img/screenshots/modern-blog-1.png",
+          "/img/screenshots/modern-blog-2.png",
+          "/img/screenshots/modern-blog-3.png",
+          "/img/screenshots/modern-blog-4.png"
         ]
     }
 ]
