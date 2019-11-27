@@ -29,7 +29,7 @@ export default {
 @import url("https://raw.githubusercontent.com/daneden/animate.css/master/animate.css");
 
 .rounded {
-  border-radius: 15px !important;
+  border-radius: 20px !important;
 }
 
 .btn-primary,

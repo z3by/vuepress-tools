@@ -9,6 +9,19 @@
 
     <b-collapse id="nav-collapse" is-nav>
       <b-navbar-nav class="ml-auto">
+        <b-nav-item
+          href="https://github.com/arab-open-source/vuepress-themes/edit/master/themes.json"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <b-button
+            v-b-popover.hover.bottom="'Submit Your theme'"
+            variant="primary"
+            class="mx-3 rounded-circle"
+          >
+            <ThemifyIcon icon="plus" />
+          </b-button>
+        </b-nav-item>
         <b-nav-form>
           <b-form-input
             size="sm"
