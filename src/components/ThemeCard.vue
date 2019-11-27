@@ -1,5 +1,9 @@
 <template>
-  <b-card no-body class="overflow-hidden rounded" style="max-width: 540px;">
+  <b-card
+    no-body
+    class="overflow-hidden rounded card-wrapper"
+    style="max-width: 540px;"
+  >
     <b-card-img :src="theme.image" class="rounded-0"></b-card-img>
     <div class="card-overlay h-100 w-100">
       <div
@@ -13,6 +17,7 @@
             variant="outline-light"
             class="rounded btn-sm px-3 mt-3 bg-transparent"
             v-b-modal.theme-details
+            @click="$store.commit('setCurrentTheme', theme)"
           >
             Show
           </b-button>
@@ -54,46 +59,3 @@ export default {
   props: ["theme"]
 };
 </script>
-
-<style>
-.card-overlay {
-  background: linear-gradient(#3494e6, #ec6ead);
-  position: absolute;
-  top: 0;
-  left: 0;
-  opacity: 0;
-  transition: all 0.3s ease;
-}
-
-.card-overlay:hover {
-  opacity: 0.95;
-}
-
-.overlay-links,
-.overlay-info {
-  z-index: 2;
-  position: absolute;
-  left: 0;
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  align-items: flex-start;
-}
-
-.overlay-links {
-  top: 0;
-}
-
-.overlay-info {
-  bottom: 0;
-}
-
-.overlay-links .icon {
-  font-size: 2rem;
-  text-decoration: none;
-}
-
-.card-action {
-  z-index: 10;
-}
-</style>

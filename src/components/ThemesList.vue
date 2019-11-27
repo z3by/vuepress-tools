@@ -1,40 +1,34 @@
 <template>
-  <b-container>
+  <b-container class="my-3">
     <div class="filter-types text-center">
       <b-button
+        v-for="filter in headerFilters"
+        :key="filter.type"
         class="rounded-circle mx-2"
+        :class="{ active: $store.state.currentType == filter.type }"
         variant="outline-primary"
-        v-b-popover.hover.top="'Documentation themes'"
+        @click="filterByType(filter.type)"
+        v-b-popover.hover.top="filter.hint"
       >
-        <ThemifyIcon icon="book" />
-      </b-button>
-      <b-button
-        class="rounded-circle mx-2"
-        variant="outline-primary"
-        v-b-popover.hover.top="'Blog themes'"
-      >
-        <ThemifyIcon icon="write" />
-      </b-button>
-      <b-button
-        class="rounded-circle mx-2"
-        variant="outline-primary"
-        v-b-popover.hover.top="'Portfolio themes'"
-      >
-        <ThemifyIcon icon="user" />
-      </b-button>
-      <b-button
-        class="rounded-circle mx-2"
-        variant="outline-primary"
-        v-b-popover.hover.top="'Other themes'"
-      >
-        <ThemifyIcon icon="more" />
+        <ThemifyIcon :icon="filter.icon" />
       </b-button>
     </div>
-    <b-row>
+    <b-row class="my-4" v-if="themes.length">
       <b-col md="6" lg="4" v-for="theme in themes" :key="theme.id" class="my-3">
-        <ThemeCard :theme="theme" />
+        <ThemeCard :theme="theme" :key="theme.id" />
       </b-col>
     </b-row>
+    <div v-else class="my-5 py-5">
+      <img
+        src="../assets/not-found.svg"
+        alt=""
+        style="max-width: 400px"
+        class="d-block mx-auto"
+      />
+      <h2 class="text-center text-muted text-monospace mt-4">
+        No Themes found!
+      </h2>
+    </div>
     <ThemeDetails />
   </b-container>
 </template>
@@ -50,92 +44,47 @@ export default {
     ThemifyIcon,
     ThemeDetails
   },
-
   data() {
     return {
-      themes: [
+      headerFilters: [
         {
-          id: "1",
-          name: "Theme name",
-          type: "docs",
-          description:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic illo eos quia",
-          image: "https://picsum.photos/400/400/?image=20",
-          github: "https://github.com/z3by/vuepress-theme-modern-blog",
-          link: "https://github.com/z3by/vuepress-theme-modern-blog"
+          type: "all",
+          hint: "All themes",
+          icon: "home"
         },
         {
-          id: "2",
-          name: "Theme name",
           type: "docs",
-          description:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic illo eos quia",
-          image: "https://picsum.photos/400/400/?image=20",
-          github: "https://github.com/z3by/vuepress-theme-modern-blog",
-          link: "https://github.com/z3by/vuepress-theme-modern-blog"
+          hint: "Documentation themes",
+          icon: "book"
         },
         {
-          id: "3",
-          name: "Theme name",
           type: "blog",
-          description:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic illo eos quia",
-          image: "https://picsum.photos/400/400/?image=20",
-          github: "https://github.com/z3by/vuepress-theme-modern-blog",
-          link: "https://github.com/z3by/vuepress-theme-modern-blog"
+          hint: "Blogs themes",
+          icon: "write"
         },
         {
-          id: "4",
-          name: "Theme name",
-          type: "blog",
-          description:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic illo eos quia",
-          image: "https://picsum.photos/400/400/?image=20",
-          github: "https://github.com/z3by/vuepress-theme-modern-blog",
-          link: "https://github.com/z3by/vuepress-theme-modern-blog"
-        },
-        {
-          id: "5",
-          name: "Theme name",
-          type: "docs",
-          description:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic illo eos quia",
-          image: "https://picsum.photos/400/400/?image=20",
-          github: "https://github.com/z3by/vuepress-theme-modern-blog",
-          link: "https://github.com/z3by/vuepress-theme-modern-blog"
-        },
-        {
-          id: "6",
-          name: "Theme name",
           type: "portfolio",
-          description:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic illo eos quia",
-          image: "https://picsum.photos/400/400/?image=20",
-          github: "https://github.com/z3by/vuepress-theme-modern-blog",
-          link: "https://github.com/z3by/vuepress-theme-modern-blog"
+          hint: "Portfolio themes",
+          icon: "user"
         },
         {
-          id: "7",
-          name: "Theme name",
-          type: "portfolio",
-          description:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic illo eos quia",
-          image: "https://picsum.photos/400/400/?image=20",
-          github: "https://github.com/z3by/vuepress-theme-modern-blog",
-          link: "https://github.com/z3by/vuepress-theme-modern-blog"
-        },
-        {
-          id: "8",
-          name: "Theme name",
           type: "others",
-          description:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic illo eos quia",
-          image: "https://picsum.photos/400/400/?image=20",
-          github: "https://github.com/z3by/vuepress-theme-modern-blog",
-          link: "https://github.com/z3by/vuepress-theme-modern-blog"
+          hint: "Other themes",
+          icon: "more"
         }
       ]
     };
+  },
+
+  computed: {
+    themes() {
+      return this.$store.state.themes;
+    }
+  },
+  methods: {
+    filterByType(type) {
+      this.$store.commit("filterByType", type);
+    }
   }
 };
 </script>

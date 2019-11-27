@@ -1,6 +1,6 @@
 <template>
   <main class="home py-5">
-    <ThemesList />
+    <ThemesList class="animated fast fadeIn" />
   </main>
 </template>
 
@@ -15,3 +15,9 @@ export default {
   }
 };
 </script>
+
+<style>
+.home {
+  min-height: 90vh;
+}
+</style>

@@ -1,63 +1,83 @@
 <template>
   <b-modal
     id="theme-details"
+    ref="theme-details"
     size="lg"
     :title="theme.name"
     centered
     hide-footer
   >
-    <b-row>
-      <b-col>
-        <b-carousel id="carousel-no-animation" controls class="pb-2">
-          <b-carousel-slide
-            class="rounded overflow-hidden"
-            img-src="https://picsum.photos/1024/480/?image=10"
-          ></b-carousel-slide>
-          <b-carousel-slide
-            class="rounded overflow-hidden"
-            img-src="https://picsum.photos/1024/480/?image=12"
-          ></b-carousel-slide>
-          <b-carousel-slide
-            class="rounded overflow-hidden"
-            img-src="https://picsum.photos/1024/480/?image=22"
-          ></b-carousel-slide>
-          <b-carousel-slide
-            class="rounded overflow-hidden"
-            img-src="https://picsum.photos/1024/480/?image=23"
-          ></b-carousel-slide>
-        </b-carousel>
-      </b-col>
-      <b-col>
-        <p>{{ theme.description }}</p>
-      </b-col>
-    </b-row>
+    <div class="theme-info">
+      <p>{{ theme.description }}</p>
+      <b-button
+        variant="outline-primary"
+        class="rounded btn-sm mx-1"
+        @click="handleTypeClick"
+      >
+        #{{ theme.type }}
+      </b-button>
+      <a
+        :href="theme.github"
+        target="_blank"
+        rel="noopener noreferrer"
+        class="btn btn-outline-primary rounded btn-sm mx-1"
+      >
+        <ThemifyIcon icon="github" />
+      </a>
+      <a
+        :href="theme.link"
+        target="_blank"
+        rel="noopener noreferrer"
+        class="btn btn-outline-primary rounded btn-sm mx-1"
+      >
+        <ThemifyIcon icon="link"
+      /></a>
+    </div>
+    <gallery
+      :images="theme.screenShots"
+      :index="index"
+      @close="index = null"
+    ></gallery>
+    <div class="screenshot-list mt-3 d-flex rounded">
+      <div
+        class="image mr-1"
+        v-for="(image, imageIndex) in theme.screenShots"
+        :key="imageIndex"
+        @click="index = imageIndex"
+        :style="{
+          backgroundImage: 'url(' + image + ')',
+          width: '300px',
+          height: '200px'
+        }"
+      ></div>
+    </div>
   </b-modal>
 </template>
 
 <script>
+import VueGallery from "vue-gallery";
+import ThemifyIcon from "vue-themify-icons";
+
 export default {
+  components: {
+    gallery: VueGallery,
+    ThemifyIcon
+  },
   data() {
     return {
-      theme: {
-        id: "1",
-        name: "Theme name",
-        type: "docs",
-        description:
-          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic illo eos quia",
-        image: "https://picsum.photos/400/400/?image=20",
-        github: "https://github.com/z3by/vuepress-theme-modern-blog",
-        link: "https://github.com/z3by/vuepress-theme-modern-blog"
-      }
+      index: null
     };
+  },
+  computed: {
+    theme() {
+      return this.$store.state.currentTheme;
+    }
+  },
+  methods: {
+    handleTypeClick() {
+      this.$store.commit("filterByType", this.theme.type);
+      this.$refs["theme-details"].hide();
+    }
   }
 };
 </script>
-
-<style>
-.modal-content {
-  border-radius: 2rem;
-  overflow: scroll;
-  background: rgba(255, 255, 255, 0.9);
-  min-height: 16rem;
-}
-</style>

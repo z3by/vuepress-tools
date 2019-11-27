@@ -2395,6 +2395,11 @@ bluebird@^3.1.1, bluebird@^3.5.5:
   resolved "https://registry.npm.taobao.org/bluebird/download/bluebird-3.7.1.tgz#df70e302b471d7473489acf26a93d63b53f874de"
   integrity sha1-33DjArRx10c0iazyapPWO1P4dN4=
 
+blueimp-gallery@^2.33.0:
+  version "2.36.0"
+  resolved "https://registry.yarnpkg.com/blueimp-gallery/-/blueimp-gallery-2.36.0.tgz#1775d6f480a5f18da5392519bc132fe3ada2a038"
+  integrity sha512-bicE9gIFXWjX0LButGDLhCRA0+XRBEjAtswnJSt2nHVPUx4Gd8WufNFl65P28YCevooO51KaTFGcbE2oeb8DbQ==
+
 bn.js@^4.0.0, bn.js@^4.1.0, bn.js@^4.1.1, bn.js@^4.4.0:
   version "4.11.8"
   resolved "https://registry.npm.taobao.org/bn.js/download/bn.js-4.11.8.tgz#2cde09eb5ee341f484746bb0309b3253b1b1442f"
@@ -7102,8 +7107,8 @@ lodash.uniq@^4.5.0:
 
 lodash@4.17.15, lodash@^4.0.0, lodash@^4.17.10, lodash@^4.17.11, lodash@^4.17.12, lodash@^4.17.13, lodash@^4.17.14, lodash@^4.17.15, lodash@^4.17.3, lodash@^4.17.4, lodash@^4.17.5, lodash@~4.17.10:
   version "4.17.15"
-  resolved "https://registry.npm.taobao.org/lodash/download/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
-  integrity sha1-tEf2ZwoEVbv+7dETku/zMOoJdUg=
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
+  integrity sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==
 
 log-symbols@2.2.0, log-symbols@^2.2.0:
   version "2.2.0"
@@ -11179,6 +11184,14 @@ vue-functional-data-merge@^3.1.0:
   version "3.1.0"
   resolved "https://registry.npm.taobao.org/vue-functional-data-merge/download/vue-functional-data-merge-3.1.0.tgz#08a7797583b7f35680587f8a1d51d729aa1dc657"
   integrity sha1-CKd5dYO381aAWH+KHVHXKaodxlc=
+
+vue-gallery@^2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/vue-gallery/-/vue-gallery-2.0.1.tgz#351bcd2982da593f83bd6af97a5a10ec468bf7e6"
+  integrity sha512-e6PADJlb4tcrPP7rmkYHDZI7KeDW//CIYRt7ZtcEvbc9eg0msyW/s9K+ZIWzSUyujnhKroePq/wQuh6BvXbxLA==
+  dependencies:
+    blueimp-gallery "^2.33.0"
+    opencollective-postinstall "^2.0.2"
 
 vue-hot-reload-api@^2.3.0:
   version "2.3.4"
