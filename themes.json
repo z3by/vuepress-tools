@@ -4,14 +4,15 @@
         "name": "Modern blog",
         "type": "blog",
         "description": "Modern blog theme for VuePress.",
-        "image": "/img/screenshots/modern-blog-3.png",
+        "image": "/img/screenshots/modern-blog-2.jpeg",
         "github": "https://github.com/z3by/vuepress-theme-modern-blog",
         "link": "https://vp-modern.z3by.com/",
         "screenShots": [
-          "/img/screenshots/modern-blog-1.png",
-          "/img/screenshots/modern-blog-2.png",
-          "/img/screenshots/modern-blog-3.png",
-          "/img/screenshots/modern-blog-4.png"
+          "/img/screenshots/modern-blog-1.jpeg",
+          "/img/screenshots/modern-blog-2.jpeg",
+          "/img/screenshots/modern-blog-3.jpeg",
+          "/img/screenshots/modern-blog-4.jpeg",
+          "/img/screenshots/modern-blog-5.jpeg"
         ]
     }
 ]

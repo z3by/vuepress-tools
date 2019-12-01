@@ -4,7 +4,7 @@
     class="overflow-hidden rounded card-wrapper"
     style="max-width: 540px;"
   >
-    <b-card-img :src="theme.image" class="rounded-0"></b-card-img>
+    <b-card-img :src="theme.image" class="rounded-0 my-auto"></b-card-img>
     <div class="card-overlay h-100 w-100">
       <div
         class="center-text text-center d-flex flex-column justify-content-center h-100"
