@@ -1,5 +1,5 @@
 <template>
-  <b-navbar toggleable="lg" type="light" variant="light">
+  <b-navbar toggleable="lg" type="light" variant="white" class="shadow-sm">
     <b-navbar-brand href="/">
       <img src="../assets/logo.png" alt="vuepress themes" width="40px" />
       Vuepress Themes
@@ -31,8 +31,7 @@
             placeholder="Search"
           ></b-form-input>
           <b-button
-            size="sm"
-            class="my-2 my-sm-0 rounded-circle"
+            class="my-2 my-sm-0 rounded-circle px-auto"
             variant="outline-primary"
             @click="search"
           >

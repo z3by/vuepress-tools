@@ -82,5 +82,44 @@
       "/img/screenshots/simple-1.jpeg",
       "/img/screenshots/simple-2.jpeg"
     ]
+  },
+  {
+    "id": "7",
+    "name": "portfolio",
+    "type": "portfolio",
+    "description": "VuePress site with portfolio and blogging pages ready to deploy, and configured for Forestry",
+    "image": "/img/screenshots/portfolio.jpeg",
+    "github": "https://github.com/forestryio/portfolio-vuepress",
+    "link": "https://vuepress-portfolio.netlify.com/",
+    "screenShots": [
+      "/img/screenshots/portfolio.jpeg"
+    ]
+  },
+  {
+    "id": "8",
+    "name": "API",
+    "type": "docs",
+    "description": "An api-friendly theme for VuePress.",
+    "image": "/img/screenshots/api.jpeg",
+    "github": "https://github.com/sqrthree/vuepress-theme-api",
+    "link": "https://blog.sqrtthree.com/vuepress-theme-api/",
+    "screenShots": [
+      "/img/screenshots/api.jpeg"
+    ]
+  },
+  {
+    "id": "9",
+    "name": "ktquez",
+    "type": "blog",
+    "description": "A blog theme for VuePress by Ktquez.",
+    "image": "/img/screenshots/ktquez-1.jpeg",
+    "github": "https://github.com/ktquez/vuepress-theme-ktquez",
+    "link": "https://ktquez-play.web.app/en/",
+    "screenShots": [
+      "/img/screenshots/ktquez-1.jpeg",
+      "/img/screenshots/ktquez-2.jpeg",
+      "/img/screenshots/ktquez-3.jpeg",
+      "/img/screenshots/ktquez-4.jpeg"
+    ]
   }
 ]

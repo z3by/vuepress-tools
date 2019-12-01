@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="bg-light">
     <header>
       <Navbar />
     </header>
@@ -8,9 +8,16 @@
         <router-view></router-view>
       </transition>
     </main>
-    <footer class="text-center bg-light p-5">
-      <p class="m-0">
-        Made with ❤️ by <a href="https://ahmadmostafa.com">@z3by</a>
+    <footer class="text-center bg-white p-3 shadow">
+      <p class="m-0 text-muted">
+        Made with ❤️ by
+        <a
+          href="https://ahmadmostafa.com"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          @z3by
+        </a>
       </p>
     </footer>
   </div>
@@ -35,7 +42,7 @@ export default {
 .btn-primary,
 .btn-outline-primary.active {
   background: linear-gradient(#6a82fb, #fc5c7d);
-  border-color: #fc5c7d;
+  border-color: lightgrey;
 }
 
 .btn-outline-primary {
@@ -45,7 +52,7 @@ export default {
 
 .btn-outline-primary:hover {
   background: linear-gradient(#6a82fb, #fc5c7d);
-  border-color: #fc5c7d;
+  border-color: lightgrey;
 }
 
 .btn-outline-light:hover {
@@ -119,6 +126,7 @@ export default {
 }
 .image {
   min-width: 300px;
+  cursor: zoom-in;
 }
 a.next,
 a.prev {
