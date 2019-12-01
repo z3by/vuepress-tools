@@ -1,18 +1,86 @@
 [
-    {
-        "id": "1",
-        "name": "Modern blog",
-        "type": "blog",
-        "description": "Modern blog theme for VuePress.",
-        "image": "/img/screenshots/modern-blog-2.jpeg",
-        "github": "https://github.com/z3by/vuepress-theme-modern-blog",
-        "link": "https://vp-modern.z3by.com/",
-        "screenShots": [
-          "/img/screenshots/modern-blog-1.jpeg",
-          "/img/screenshots/modern-blog-2.jpeg",
-          "/img/screenshots/modern-blog-3.jpeg",
-          "/img/screenshots/modern-blog-4.jpeg",
-          "/img/screenshots/modern-blog-5.jpeg"
-        ]
-    }
+  {
+    "id": "1",
+    "name": "Modern blog",
+    "type": "blog",
+    "description": "Modern blog theme for VuePress.",
+    "image": "/img/screenshots/modern-blog-2.jpeg",
+    "github": "https://github.com/z3by/vuepress-theme-modern-blog",
+    "link": "https://vp-modern.z3by.com/",
+    "screenShots": [
+      "/img/screenshots/modern-blog-1.jpeg",
+      "/img/screenshots/modern-blog-2.jpeg",
+      "/img/screenshots/modern-blog-3.jpeg",
+      "/img/screenshots/modern-blog-4.jpeg",
+      "/img/screenshots/modern-blog-5.jpeg"
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Reco",
+    "type": "blog",
+    "description": "A simple and beautiful vuepress Blog & Doc theme.",
+    "image": "/img/screenshots/reco-1.jpeg",
+    "github": "https://github.com/vuepress-reco/vuepress-theme-reco",
+    "link": "https://vuepress-theme-reco.recoluan.com/",
+    "screenShots": [
+      "/img/screenshots/reco-1.jpeg",
+      "/img/screenshots/reco-2.jpeg"
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Egoist",
+    "type": "blog",
+    "description": "A simple and beautiful vuepress Blog & Doc theme.",
+    "image": "/img/screenshots/egoist-1.jpeg",
+    "github": "https://github.com/ulivz/vuepress-theme-egoist",
+    "link": "https://egoist.ulivz.com/",
+    "screenShots": [
+      "/img/screenshots/egoist-1.jpeg",
+      "/img/screenshots/egoist-2.jpeg",
+      "/img/screenshots/egoist-3.jpeg"
+    ]
+  },
+  {
+    "id": "4",
+    "name": "yubisaki",
+    "type": "blog",
+    "description": "A blog theme for vuepress",
+    "image": "/img/screenshots/yubisaki-3.jpeg",
+    "github": "https://github.com/Yubisaki/vuepress-theme-yubisaki",
+    "link": "https://wuwaki.me/yubisaki/intro.html",
+    "screenShots": [
+      "/img/screenshots/yubisaki-1.jpeg",
+      "/img/screenshots/yubisaki-2.jpeg",
+      "/img/screenshots/yubisaki-3.jpeg"
+    ]
+  },
+  {
+    "id": "5",
+    "name": "meteorlxy",
+    "type": "blog",
+    "description": "VuePress Blog Theme",
+    "image": "/img/screenshots/meteorlxy-1.jpeg",
+    "github": "https://github.com/meteorlxy/vuepress-theme-meteorlxy",
+    "link": "https://vuepress-theme-meteorlxy.meteorlxy.cn/",
+    "screenShots": [
+      "/img/screenshots/meteorlxy-1.jpeg",
+      "/img/screenshots/meteorlxy-2.jpeg",
+      "/img/screenshots/meteorlxy-3.jpeg"
+    ]
+  },
+  {
+    "id": "6",
+    "name": "simple",
+    "type": "blog",
+    "description": "Very Simple Blog Theme for VuePress",
+    "image": "/img/screenshots/simple-1.jpeg",
+    "github": "https://github.com/simple/vuepress-theme-simple",
+    "link": "https://vuepress-theme-simple.simple.cn/",
+    "screenShots": [
+      "/img/screenshots/simple-1.jpeg",
+      "/img/screenshots/simple-2.jpeg"
+    ]
+  }
 ]

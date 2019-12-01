@@ -53,7 +53,7 @@ export default {
 }
 
 .card-wrapper {
-  height: 21rem;
+  height: 15rem;
 }
 .card-overlay {
   background: linear-gradient(#6a82fb, #fc5c7d);
@@ -65,7 +65,7 @@ export default {
 }
 
 .card-overlay:hover {
-  opacity: 0.95;
+  opacity: 1;
 }
 
 .overlay-links,
@@ -100,7 +100,7 @@ export default {
   border-radius: 2rem;
   border: none;
   overflow: hidden;
-  background: rgba(255, 255, 255, 0.9);
+  background: rgba(255, 255, 255, 1);
   min-height: 16rem;
 }
 
@@ -115,7 +115,6 @@ export default {
 }
 
 .screenshot-list {
-  width: 1140px;
   overflow-x: auto;
 }
 .image {

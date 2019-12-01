@@ -1,9 +1,5 @@
 <template>
-  <b-card
-    no-body
-    class="overflow-hidden rounded card-wrapper"
-    style="max-width: 540px;"
-  >
+  <b-card no-body class="overflow-hidden rounded card-wrapper">
     <b-card-img :src="theme.image" class="rounded-0 my-auto"></b-card-img>
     <div class="card-overlay h-100 w-100">
       <div

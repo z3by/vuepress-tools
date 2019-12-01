@@ -7,7 +7,7 @@
     centered
     hide-footer
   >
-    <div class="theme-info">
+    <div class="theme-info p-3">
       <p>{{ theme.description }}</p>
       <b-button
         variant="outline-primary"
@@ -33,23 +33,25 @@
         <ThemifyIcon icon="link"
       /></a>
     </div>
-    <gallery
-      :images="theme.screenShots"
-      :index="index"
-      @close="index = null"
-    ></gallery>
-    <div class="screenshot-list mt-3 d-flex rounded">
-      <div
-        class="image mr-1"
-        v-for="(image, imageIndex) in theme.screenShots"
-        :key="imageIndex"
-        @click="index = imageIndex"
-        :style="{
-          backgroundImage: 'url(' + image + ')',
-          width: '300px',
-          height: '200px'
-        }"
-      ></div>
+    <div class="p-3">
+      <gallery
+        :images="theme.screenShots"
+        :index="index"
+        @close="index = null"
+      ></gallery>
+      <div class="screenshot-list d-flex rounded">
+        <div
+          class="image mr-1 border"
+          v-for="(image, imageIndex) in theme.screenShots"
+          :key="imageIndex"
+          @click="index = imageIndex"
+          :style="{
+            backgroundImage: 'url(' + image + ')',
+            width: '200px',
+            height: '160px'
+          }"
+        ></div>
+      </div>
     </div>
   </b-modal>
 </template>
