@@ -63,11 +63,6 @@ export default {
           icon: "write"
         },
         {
-          type: "portfolio",
-          hint: "Portfolio themes",
-          icon: "user"
-        },
-        {
           type: "others",
           hint: "Other themes",
           icon: "more"

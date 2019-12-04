@@ -17,8 +17,22 @@
   },
   {
     "id": "2",
+    "name": "BriteCore",
+    "type": "docs",
+    "description": "BriteCore docs theme for Vuepress",
+    "image": "/img/screenshots/britecore-1.jpeg",
+    "github": "https://github.com/z3by/vuepress-theme-britecore",
+    "link": "https://vp-britecore.z3by.com/",
+    "screenShots": [
+      "/img/screenshots/britecore-1.jpeg",
+      "/img/screenshots/britecore-2.jpeg",
+      "/img/screenshots/britecore-3.jpeg"
+    ]
+  },
+  {
+    "id": "3",
     "name": "Reco",
-    "type": "blog",
+    "type": "docs",
     "description": "A simple and beautiful vuepress Blog & Doc theme.",
     "image": "/img/screenshots/reco-1.jpeg",
     "github": "https://github.com/vuepress-reco/vuepress-theme-reco",
@@ -29,7 +43,7 @@
     ]
   },
   {
-    "id": "3",
+    "id": "4",
     "name": "Egoist",
     "type": "blog",
     "description": "A simple and beautiful vuepress Blog & Doc theme.",
@@ -43,7 +57,7 @@
     ]
   },
   {
-    "id": "4",
+    "id": "5",
     "name": "yubisaki",
     "type": "blog",
     "description": "A blog theme for vuepress",
@@ -57,7 +71,7 @@
     ]
   },
   {
-    "id": "5",
+    "id": "6",
     "name": "meteorlxy",
     "type": "blog",
     "description": "VuePress Blog Theme",
@@ -71,7 +85,7 @@
     ]
   },
   {
-    "id": "6",
+    "id": "7",
     "name": "simple",
     "type": "blog",
     "description": "Very Simple Blog Theme for VuePress",
@@ -84,9 +98,9 @@
     ]
   },
   {
-    "id": "7",
+    "id": "8",
     "name": "portfolio",
-    "type": "portfolio",
+    "type": "others",
     "description": "VuePress site with portfolio and blogging pages ready to deploy, and configured for Forestry",
     "image": "/img/screenshots/portfolio.jpeg",
     "github": "https://github.com/forestryio/portfolio-vuepress",
@@ -96,7 +110,7 @@
     ]
   },
   {
-    "id": "8",
+    "id": "9",
     "name": "API",
     "type": "docs",
     "description": "An api-friendly theme for VuePress.",
@@ -108,7 +122,7 @@
     ]
   },
   {
-    "id": "9",
+    "id": "10",
     "name": "ktquez",
     "type": "blog",
     "description": "A blog theme for VuePress by Ktquez.",
@@ -120,6 +134,78 @@
       "/img/screenshots/ktquez-2.jpeg",
       "/img/screenshots/ktquez-3.jpeg",
       "/img/screenshots/ktquez-4.jpeg"
+    ]
+  },
+  {
+    "id": "11",
+    "name": "ououe",
+    "type": "blog",
+    "description": "A blog theme for VuePress by Ououe.",
+    "image": "/img/screenshots/ououe-5.jpeg",
+    "github": "https://github.com/tolking/vuepress-theme-ououe",
+    "link": "https://ououe.com/",
+    "screenShots": [
+      "/img/screenshots/ououe-1.jpeg",
+      "/img/screenshots/ououe-2.jpeg",
+      "/img/screenshots/ououe-3.jpeg",
+      "/img/screenshots/ououe-4.jpeg",
+      "/img/screenshots/ououe-5.jpeg"
+    ]
+  },
+  {
+    "id": "12",
+    "name": "yuicer",
+    "type": "blog",
+    "description": "A blog theme for VuePress by yuicer.",
+    "image": "/img/screenshots/yuicer-1.jpeg",
+    "github": "https://github.com/yuicer/vuepress-theme-yuicer",
+    "link": "https://blog.yuicer.com",
+    "screenShots": [
+      "/img/screenshots/yuicer-1.jpeg",
+      "/img/screenshots/yuicer-2.jpeg"
+    ]
+  },
+  {
+    "id": "13",
+    "name": "resume",
+    "type": "others",
+    "description": "A resume vuepress theme By Wannaxiao",
+    "image": "/img/screenshots/resume-1.jpeg",
+    "github": "https://github.com/wannaxiao/vuepress-theme-resume",
+    "link": "https://wannaxiao.github.io/vuepress-theme-resume/example/dist/",
+    "screenShots": [
+      "/img/screenshots/resume-1.jpeg"
+    ]
+  },
+  {
+    "id": "14",
+    "name": "default prefers color scheme",
+    "type": "docs",
+    "description": "add prefers-color-scheme for vuepress default theme.",
+    "image": "/img/screenshots/color-scheme-1.jpeg",
+    "github": "https://github.com/tolking/vuepress-theme-default-prefers-color-scheme",
+    "link": "https://tolking.github.io/vuepress-theme-default-prefers-color-scheme/",
+    "screenShots": [
+      "/img/screenshots/color-scheme-1.jpeg",
+      "/img/screenshots/color-scheme-2.jpeg"
+    ]
+  },
+  {
+    "id": "15",
+    "name": "yur",
+    "type": "blog",
+    "description": "A simple, powerful vuepress blog theme",
+    "image": "/img/screenshots/yur-1.jpeg",
+    "github": "https://github.com/cnguu/vuepress-theme-yur",
+    "link": "https://gleehub.com/",
+    "screenShots": [
+      "/img/screenshots/yur-1.jpeg",
+      "/img/screenshots/yur-2.jpeg",
+      "/img/screenshots/yur-3.jpeg",
+      "/img/screenshots/yur-4.jpeg",
+      "/img/screenshots/yur-5.jpeg",
+      "/img/screenshots/yur-6.jpeg",
+      "/img/screenshots/yur-7.jpeg"
     ]
   }
 ]
