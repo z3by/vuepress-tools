@@ -11,8 +11,9 @@
       <p>{{ theme.description }}</p>
       <b-button
         variant="outline-primary"
-        class="rounded btn-sm mx-1"
+        size="sm"
         @click="handleTypeClick"
+        class="rounded px-2 pb-1 pt-0"
       >
         #{{ theme.type }}
       </b-button>

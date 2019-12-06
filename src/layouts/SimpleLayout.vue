@@ -35,13 +35,16 @@ export default {
 <style>
 @import url("https://raw.githubusercontent.com/daneden/animate.css/master/animate.css");
 
+html {
+  scroll-behavior: smooth;
+}
 .rounded {
   border-radius: 20px !important;
 }
 
 .btn-primary,
 .btn-outline-primary.active {
-  background: linear-gradient(#6a82fb, #fc5c7d);
+  background: linear-gradient(to top left, #aa82fb, #fc5c9a);
   border-color: lightgrey;
 }
 
@@ -51,7 +54,7 @@ export default {
 }
 
 .btn-outline-primary:hover {
-  background: linear-gradient(#6a82fb, #fc5c7d);
+  background: linear-gradient(to top left, #aa82fb, #fc5c9a);
   border-color: lightgrey;
 }
 
@@ -63,16 +66,16 @@ export default {
   height: 15rem;
 }
 .card-overlay {
-  background: linear-gradient(#6a82fb, #fc5c7d);
+  background: linear-gradient(to top left, #aa82fb, #fc5c9a);
   position: absolute;
   top: 0;
   left: 0;
   opacity: 0;
-  transition: all 0.3s ease;
+  transition: all 0.4s cubic-bezier(0.455, 0.03, 0.515, 0.955);
 }
 
 .card-overlay:hover {
-  opacity: 1;
+  opacity: 0.9;
 }
 
 .overlay-links,
@@ -112,7 +115,7 @@ export default {
 }
 
 .modal-header {
-  background: linear-gradient(to right, #6a82fb, #fc5c7d);
+  background: linear-gradient(to right, #aa82fb, #fc5c9a);
   border: none;
   color: white;
 }
