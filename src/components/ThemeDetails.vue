@@ -3,6 +3,7 @@
     id="theme-details"
     ref="theme-details"
     size="lg"
+    v-if="theme"
     :title="theme.name"
     centered
     hide-footer

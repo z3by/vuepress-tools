@@ -9,6 +9,7 @@
         variant="outline-primary"
         @click="filterByType(filter.type)"
         v-b-popover.hover.top="filter.hint"
+        :to="filter.type"
       >
         <ThemifyIcon :icon="filter.icon" />
       </b-button>
