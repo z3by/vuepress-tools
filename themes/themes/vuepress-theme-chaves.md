@@ -1,0 +1,99 @@
+---
+archive_url: https://api.github.com/repos/chavesgu/vuepress-theme-chaves/{archive_format}{/ref}
+archived: false
+assignees_url: https://api.github.com/repos/chavesgu/vuepress-theme-chaves/assignees{/user}
+blobs_url: https://api.github.com/repos/chavesgu/vuepress-theme-chaves/git/blobs{/sha}
+branches_url: https://api.github.com/repos/chavesgu/vuepress-theme-chaves/branches{/branch}
+clone_url: https://github.com/chavesgu/vuepress-theme-chaves.git
+collaborators_url: https://api.github.com/repos/chavesgu/vuepress-theme-chaves/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/chavesgu/vuepress-theme-chaves/comments{/number}
+commits_url: https://api.github.com/repos/chavesgu/vuepress-theme-chaves/commits{/sha}
+compare_url: https://api.github.com/repos/chavesgu/vuepress-theme-chaves/compare/{base}...{head}
+contents_url: https://api.github.com/repos/chavesgu/vuepress-theme-chaves/contents/{+path}
+contributors_url: https://api.github.com/repos/chavesgu/vuepress-theme-chaves/contributors
+created_at: '2019-02-26T09:36:31Z'
+default_branch: master
+deployments_url: https://api.github.com/repos/chavesgu/vuepress-theme-chaves/deployments
+description: null
+disabled: false
+downloads_url: https://api.github.com/repos/chavesgu/vuepress-theme-chaves/downloads
+events_url: https://api.github.com/repos/chavesgu/vuepress-theme-chaves/events
+fork: false
+forks: 0
+forks_count: 0
+forks_url: https://api.github.com/repos/chavesgu/vuepress-theme-chaves/forks
+full_name: chavesgu/vuepress-theme-chaves
+git_commits_url: https://api.github.com/repos/chavesgu/vuepress-theme-chaves/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/chavesgu/vuepress-theme-chaves/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/chavesgu/vuepress-theme-chaves/git/tags{/sha}
+git_url: git://github.com/chavesgu/vuepress-theme-chaves.git
+has_downloads: true
+has_issues: true
+has_pages: false
+has_projects: true
+has_wiki: true
+homepage: null
+hooks_url: https://api.github.com/repos/chavesgu/vuepress-theme-chaves/hooks
+html_url: https://github.com/chavesgu/vuepress-theme-chaves
+id: 172681332
+issue_comment_url: https://api.github.com/repos/chavesgu/vuepress-theme-chaves/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/chavesgu/vuepress-theme-chaves/issues/events{/number}
+issues_url: https://api.github.com/repos/chavesgu/vuepress-theme-chaves/issues{/number}
+keys_url: https://api.github.com/repos/chavesgu/vuepress-theme-chaves/keys{/key_id}
+labels_url: https://api.github.com/repos/chavesgu/vuepress-theme-chaves/labels{/name}
+language: Vue
+languages_url: https://api.github.com/repos/chavesgu/vuepress-theme-chaves/languages
+license:
+  key: mit
+  name: MIT License
+  node_id: MDc6TGljZW5zZTEz
+  spdx_id: MIT
+  url: https://api.github.com/licenses/mit
+merges_url: https://api.github.com/repos/chavesgu/vuepress-theme-chaves/merges
+milestones_url: https://api.github.com/repos/chavesgu/vuepress-theme-chaves/milestones{/number}
+mirror_url: null
+name: vuepress-theme-chaves
+node_id: MDEwOlJlcG9zaXRvcnkxNzI2ODEzMzI=
+notifications_url: https://api.github.com/repos/chavesgu/vuepress-theme-chaves/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
+owner:
+  avatar_url: https://avatars0.githubusercontent.com/u/20633606?v=4
+  events_url: https://api.github.com/users/chavesgu/events{/privacy}
+  followers_url: https://api.github.com/users/chavesgu/followers
+  following_url: https://api.github.com/users/chavesgu/following{/other_user}
+  gists_url: https://api.github.com/users/chavesgu/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/chavesgu
+  id: 20633606
+  login: chavesgu
+  node_id: MDQ6VXNlcjIwNjMzNjA2
+  organizations_url: https://api.github.com/users/chavesgu/orgs
+  received_events_url: https://api.github.com/users/chavesgu/received_events
+  repos_url: https://api.github.com/users/chavesgu/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/chavesgu/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/chavesgu/subscriptions
+  type: User
+  url: https://api.github.com/users/chavesgu
+private: false
+pulls_url: https://api.github.com/repos/chavesgu/vuepress-theme-chaves/pulls{/number}
+pushed_at: '2019-02-27T09:41:56Z'
+releases_url: https://api.github.com/repos/chavesgu/vuepress-theme-chaves/releases{/id}
+score: 18.342943
+size: 214
+ssh_url: git@github.com:chavesgu/vuepress-theme-chaves.git
+stargazers_count: 0
+stargazers_url: https://api.github.com/repos/chavesgu/vuepress-theme-chaves/stargazers
+statuses_url: https://api.github.com/repos/chavesgu/vuepress-theme-chaves/statuses/{sha}
+subscribers_url: https://api.github.com/repos/chavesgu/vuepress-theme-chaves/subscribers
+subscription_url: https://api.github.com/repos/chavesgu/vuepress-theme-chaves/subscription
+svn_url: https://github.com/chavesgu/vuepress-theme-chaves
+tags_url: https://api.github.com/repos/chavesgu/vuepress-theme-chaves/tags
+teams_url: https://api.github.com/repos/chavesgu/vuepress-theme-chaves/teams
+trees_url: https://api.github.com/repos/chavesgu/vuepress-theme-chaves/git/trees{/sha}
+updated_at: '2019-02-27T09:41:58Z'
+url: https://api.github.com/repos/chavesgu/vuepress-theme-chaves
+watchers: 0
+watchers_count: 0
+---

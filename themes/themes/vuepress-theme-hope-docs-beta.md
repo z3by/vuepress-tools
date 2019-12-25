@@ -1,0 +1,94 @@
+---
+archive_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope-docs-beta/{archive_format}{/ref}
+archived: false
+assignees_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope-docs-beta/assignees{/user}
+blobs_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope-docs-beta/git/blobs{/sha}
+branches_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope-docs-beta/branches{/branch}
+clone_url: https://github.com/Mister-Hope/vuepress-theme-hope-docs-beta.git
+collaborators_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope-docs-beta/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope-docs-beta/comments{/number}
+commits_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope-docs-beta/commits{/sha}
+compare_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope-docs-beta/compare/{base}...{head}
+contents_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope-docs-beta/contents/{+path}
+contributors_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope-docs-beta/contributors
+created_at: '2019-10-24T06:36:07Z'
+default_branch: gh-pages
+deployments_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope-docs-beta/deployments
+description: Docs for vuepress-theme-hope@beta
+disabled: false
+downloads_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope-docs-beta/downloads
+events_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope-docs-beta/events
+fork: false
+forks: 0
+forks_count: 0
+forks_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope-docs-beta/forks
+full_name: Mister-Hope/vuepress-theme-hope-docs-beta
+git_commits_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope-docs-beta/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope-docs-beta/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope-docs-beta/git/tags{/sha}
+git_url: git://github.com/Mister-Hope/vuepress-theme-hope-docs-beta.git
+has_downloads: true
+has_issues: true
+has_pages: true
+has_projects: true
+has_wiki: true
+homepage: null
+hooks_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope-docs-beta/hooks
+html_url: https://github.com/Mister-Hope/vuepress-theme-hope-docs-beta
+id: 217228633
+issue_comment_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope-docs-beta/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope-docs-beta/issues/events{/number}
+issues_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope-docs-beta/issues{/number}
+keys_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope-docs-beta/keys{/key_id}
+labels_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope-docs-beta/labels{/name}
+language: HTML
+languages_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope-docs-beta/languages
+license: null
+merges_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope-docs-beta/merges
+milestones_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope-docs-beta/milestones{/number}
+mirror_url: null
+name: vuepress-theme-hope-docs-beta
+node_id: MDEwOlJlcG9zaXRvcnkyMTcyMjg2MzM=
+notifications_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope-docs-beta/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
+owner:
+  avatar_url: https://avatars0.githubusercontent.com/u/33315834?v=4
+  events_url: https://api.github.com/users/Mister-Hope/events{/privacy}
+  followers_url: https://api.github.com/users/Mister-Hope/followers
+  following_url: https://api.github.com/users/Mister-Hope/following{/other_user}
+  gists_url: https://api.github.com/users/Mister-Hope/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/Mister-Hope
+  id: 33315834
+  login: Mister-Hope
+  node_id: MDQ6VXNlcjMzMzE1ODM0
+  organizations_url: https://api.github.com/users/Mister-Hope/orgs
+  received_events_url: https://api.github.com/users/Mister-Hope/received_events
+  repos_url: https://api.github.com/users/Mister-Hope/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/Mister-Hope/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/Mister-Hope/subscriptions
+  type: User
+  url: https://api.github.com/users/Mister-Hope
+private: false
+pulls_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope-docs-beta/pulls{/number}
+pushed_at: '2019-11-07T15:06:22Z'
+releases_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope-docs-beta/releases{/id}
+score: 17.699083
+size: 1371
+ssh_url: git@github.com:Mister-Hope/vuepress-theme-hope-docs-beta.git
+stargazers_count: 0
+stargazers_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope-docs-beta/stargazers
+statuses_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope-docs-beta/statuses/{sha}
+subscribers_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope-docs-beta/subscribers
+subscription_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope-docs-beta/subscription
+svn_url: https://github.com/Mister-Hope/vuepress-theme-hope-docs-beta
+tags_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope-docs-beta/tags
+teams_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope-docs-beta/teams
+trees_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope-docs-beta/git/trees{/sha}
+updated_at: '2019-11-07T15:06:25Z'
+url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope-docs-beta
+watchers: 0
+watchers_count: 0
+---

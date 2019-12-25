@@ -1,0 +1,96 @@
+---
+archive_url: https://api.github.com/repos/cdswyda/vuepress-theme-cola/{archive_format}{/ref}
+archived: false
+assignees_url: https://api.github.com/repos/cdswyda/vuepress-theme-cola/assignees{/user}
+blobs_url: https://api.github.com/repos/cdswyda/vuepress-theme-cola/git/blobs{/sha}
+branches_url: https://api.github.com/repos/cdswyda/vuepress-theme-cola/branches{/branch}
+clone_url: https://github.com/cdswyda/vuepress-theme-cola.git
+collaborators_url: https://api.github.com/repos/cdswyda/vuepress-theme-cola/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/cdswyda/vuepress-theme-cola/comments{/number}
+commits_url: https://api.github.com/repos/cdswyda/vuepress-theme-cola/commits{/sha}
+compare_url: https://api.github.com/repos/cdswyda/vuepress-theme-cola/compare/{base}...{head}
+contents_url: https://api.github.com/repos/cdswyda/vuepress-theme-cola/contents/{+path}
+contributors_url: https://api.github.com/repos/cdswyda/vuepress-theme-cola/contributors
+created_at: '2019-08-31T05:21:42Z'
+default_branch: master
+deployments_url: https://api.github.com/repos/cdswyda/vuepress-theme-cola/deployments
+description: A theme for vuepress
+disabled: false
+downloads_url: https://api.github.com/repos/cdswyda/vuepress-theme-cola/downloads
+events_url: https://api.github.com/repos/cdswyda/vuepress-theme-cola/events
+fork: false
+forks: 0
+forks_count: 0
+forks_url: https://api.github.com/repos/cdswyda/vuepress-theme-cola/forks
+full_name: cdswyda/vuepress-theme-cola
+git_commits_url: https://api.github.com/repos/cdswyda/vuepress-theme-cola/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/cdswyda/vuepress-theme-cola/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/cdswyda/vuepress-theme-cola/git/tags{/sha}
+git_url: git://github.com/cdswyda/vuepress-theme-cola.git
+has_downloads: true
+has_issues: true
+has_pages: false
+has_projects: true
+has_wiki: true
+homepage: null
+hooks_url: https://api.github.com/repos/cdswyda/vuepress-theme-cola/hooks
+html_url: https://github.com/cdswyda/vuepress-theme-cola
+id: 205499497
+issue_comment_url: https://api.github.com/repos/cdswyda/vuepress-theme-cola/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/cdswyda/vuepress-theme-cola/issues/events{/number}
+issues_url: https://api.github.com/repos/cdswyda/vuepress-theme-cola/issues{/number}
+keys_url: https://api.github.com/repos/cdswyda/vuepress-theme-cola/keys{/key_id}
+labels_url: https://api.github.com/repos/cdswyda/vuepress-theme-cola/labels{/name}
+language: null
+languages_url: https://api.github.com/repos/cdswyda/vuepress-theme-cola/languages
+license: null
+merges_url: https://api.github.com/repos/cdswyda/vuepress-theme-cola/merges
+milestones_url: https://api.github.com/repos/cdswyda/vuepress-theme-cola/milestones{/number}
+mirror_url: null
+name: vuepress-theme-cola
+node_id: MDEwOlJlcG9zaXRvcnkyMDU0OTk0OTc=
+notifications_url: https://api.github.com/repos/cdswyda/vuepress-theme-cola/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
+owner:
+  avatar_url: https://avatars3.githubusercontent.com/u/13060680?v=4
+  events_url: https://api.github.com/users/cdswyda/events{/privacy}
+  followers_url: https://api.github.com/users/cdswyda/followers
+  following_url: https://api.github.com/users/cdswyda/following{/other_user}
+  gists_url: https://api.github.com/users/cdswyda/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/cdswyda
+  id: 13060680
+  login: cdswyda
+  node_id: MDQ6VXNlcjEzMDYwNjgw
+  organizations_url: https://api.github.com/users/cdswyda/orgs
+  received_events_url: https://api.github.com/users/cdswyda/received_events
+  repos_url: https://api.github.com/users/cdswyda/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/cdswyda/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/cdswyda/subscriptions
+  type: User
+  url: https://api.github.com/users/cdswyda
+private: false
+pulls_url: https://api.github.com/repos/cdswyda/vuepress-theme-cola/pulls{/number}
+pushed_at: '2019-08-31T05:21:43Z'
+releases_url: https://api.github.com/repos/cdswyda/vuepress-theme-cola/releases{/id}
+score: 19.737265
+size: 0
+ssh_url: git@github.com:cdswyda/vuepress-theme-cola.git
+stargazers_count: 0
+stargazers_url: https://api.github.com/repos/cdswyda/vuepress-theme-cola/stargazers
+statuses_url: https://api.github.com/repos/cdswyda/vuepress-theme-cola/statuses/{sha}
+subscribers_url: https://api.github.com/repos/cdswyda/vuepress-theme-cola/subscribers
+subscription_url: https://api.github.com/repos/cdswyda/vuepress-theme-cola/subscription
+svn_url: https://github.com/cdswyda/vuepress-theme-cola
+tags_url: https://api.github.com/repos/cdswyda/vuepress-theme-cola/tags
+teams_url: https://api.github.com/repos/cdswyda/vuepress-theme-cola/teams
+trees_url: https://api.github.com/repos/cdswyda/vuepress-theme-cola/git/trees{/sha}
+updated_at: '2019-08-31T05:21:45Z'
+url: https://api.github.com/repos/cdswyda/vuepress-theme-cola
+watchers: 0
+watchers_count: 0
+---
+# vuepress-theme-cola
+A theme for vuepress

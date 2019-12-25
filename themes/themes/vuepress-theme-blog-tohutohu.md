@@ -1,0 +1,100 @@
+---
+archive_url: https://api.github.com/repos/tohutohu/vuepress-theme-blog-tohutohu/{archive_format}{/ref}
+archived: false
+assignees_url: https://api.github.com/repos/tohutohu/vuepress-theme-blog-tohutohu/assignees{/user}
+blobs_url: https://api.github.com/repos/tohutohu/vuepress-theme-blog-tohutohu/git/blobs{/sha}
+branches_url: https://api.github.com/repos/tohutohu/vuepress-theme-blog-tohutohu/branches{/branch}
+clone_url: https://github.com/tohutohu/vuepress-theme-blog-tohutohu.git
+collaborators_url: https://api.github.com/repos/tohutohu/vuepress-theme-blog-tohutohu/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/tohutohu/vuepress-theme-blog-tohutohu/comments{/number}
+commits_url: https://api.github.com/repos/tohutohu/vuepress-theme-blog-tohutohu/commits{/sha}
+compare_url: https://api.github.com/repos/tohutohu/vuepress-theme-blog-tohutohu/compare/{base}...{head}
+contents_url: https://api.github.com/repos/tohutohu/vuepress-theme-blog-tohutohu/contents/{+path}
+contributors_url: https://api.github.com/repos/tohutohu/vuepress-theme-blog-tohutohu/contributors
+created_at: '2018-12-31T17:57:21Z'
+default_branch: master
+deployments_url: https://api.github.com/repos/tohutohu/vuepress-theme-blog-tohutohu/deployments
+description: null
+disabled: false
+downloads_url: https://api.github.com/repos/tohutohu/vuepress-theme-blog-tohutohu/downloads
+events_url: https://api.github.com/repos/tohutohu/vuepress-theme-blog-tohutohu/events
+fork: false
+forks: 0
+forks_count: 0
+forks_url: https://api.github.com/repos/tohutohu/vuepress-theme-blog-tohutohu/forks
+full_name: tohutohu/vuepress-theme-blog-tohutohu
+git_commits_url: https://api.github.com/repos/tohutohu/vuepress-theme-blog-tohutohu/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/tohutohu/vuepress-theme-blog-tohutohu/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/tohutohu/vuepress-theme-blog-tohutohu/git/tags{/sha}
+git_url: git://github.com/tohutohu/vuepress-theme-blog-tohutohu.git
+has_downloads: true
+has_issues: true
+has_pages: false
+has_projects: true
+has_wiki: true
+homepage: null
+hooks_url: https://api.github.com/repos/tohutohu/vuepress-theme-blog-tohutohu/hooks
+html_url: https://github.com/tohutohu/vuepress-theme-blog-tohutohu
+id: 163688285
+issue_comment_url: https://api.github.com/repos/tohutohu/vuepress-theme-blog-tohutohu/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/tohutohu/vuepress-theme-blog-tohutohu/issues/events{/number}
+issues_url: https://api.github.com/repos/tohutohu/vuepress-theme-blog-tohutohu/issues{/number}
+keys_url: https://api.github.com/repos/tohutohu/vuepress-theme-blog-tohutohu/keys{/key_id}
+labels_url: https://api.github.com/repos/tohutohu/vuepress-theme-blog-tohutohu/labels{/name}
+language: null
+languages_url: https://api.github.com/repos/tohutohu/vuepress-theme-blog-tohutohu/languages
+license:
+  key: mit
+  name: MIT License
+  node_id: MDc6TGljZW5zZTEz
+  spdx_id: MIT
+  url: https://api.github.com/licenses/mit
+merges_url: https://api.github.com/repos/tohutohu/vuepress-theme-blog-tohutohu/merges
+milestones_url: https://api.github.com/repos/tohutohu/vuepress-theme-blog-tohutohu/milestones{/number}
+mirror_url: null
+name: vuepress-theme-blog-tohutohu
+node_id: MDEwOlJlcG9zaXRvcnkxNjM2ODgyODU=
+notifications_url: https://api.github.com/repos/tohutohu/vuepress-theme-blog-tohutohu/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
+owner:
+  avatar_url: https://avatars2.githubusercontent.com/u/19851537?v=4
+  events_url: https://api.github.com/users/tohutohu/events{/privacy}
+  followers_url: https://api.github.com/users/tohutohu/followers
+  following_url: https://api.github.com/users/tohutohu/following{/other_user}
+  gists_url: https://api.github.com/users/tohutohu/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/tohutohu
+  id: 19851537
+  login: tohutohu
+  node_id: MDQ6VXNlcjE5ODUxNTM3
+  organizations_url: https://api.github.com/users/tohutohu/orgs
+  received_events_url: https://api.github.com/users/tohutohu/received_events
+  repos_url: https://api.github.com/users/tohutohu/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/tohutohu/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/tohutohu/subscriptions
+  type: User
+  url: https://api.github.com/users/tohutohu
+private: false
+pulls_url: https://api.github.com/repos/tohutohu/vuepress-theme-blog-tohutohu/pulls{/number}
+pushed_at: '2018-12-31T17:57:23Z'
+releases_url: https://api.github.com/repos/tohutohu/vuepress-theme-blog-tohutohu/releases{/id}
+score: 18.402506
+size: 1
+ssh_url: git@github.com:tohutohu/vuepress-theme-blog-tohutohu.git
+stargazers_count: 0
+stargazers_url: https://api.github.com/repos/tohutohu/vuepress-theme-blog-tohutohu/stargazers
+statuses_url: https://api.github.com/repos/tohutohu/vuepress-theme-blog-tohutohu/statuses/{sha}
+subscribers_url: https://api.github.com/repos/tohutohu/vuepress-theme-blog-tohutohu/subscribers
+subscription_url: https://api.github.com/repos/tohutohu/vuepress-theme-blog-tohutohu/subscription
+svn_url: https://github.com/tohutohu/vuepress-theme-blog-tohutohu
+tags_url: https://api.github.com/repos/tohutohu/vuepress-theme-blog-tohutohu/tags
+teams_url: https://api.github.com/repos/tohutohu/vuepress-theme-blog-tohutohu/teams
+trees_url: https://api.github.com/repos/tohutohu/vuepress-theme-blog-tohutohu/git/trees{/sha}
+updated_at: '2018-12-31T17:57:24Z'
+url: https://api.github.com/repos/tohutohu/vuepress-theme-blog-tohutohu
+watchers: 0
+watchers_count: 0
+---
+# vuepress-theme-blog-tohutohu

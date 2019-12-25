@@ -1,0 +1,103 @@
+---
+archive_url: https://api.github.com/repos/cityseer/vuepress-theme-cityseer/{archive_format}{/ref}
+archived: false
+assignees_url: https://api.github.com/repos/cityseer/vuepress-theme-cityseer/assignees{/user}
+blobs_url: https://api.github.com/repos/cityseer/vuepress-theme-cityseer/git/blobs{/sha}
+branches_url: https://api.github.com/repos/cityseer/vuepress-theme-cityseer/branches{/branch}
+clone_url: https://github.com/cityseer/vuepress-theme-cityseer.git
+collaborators_url: https://api.github.com/repos/cityseer/vuepress-theme-cityseer/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/cityseer/vuepress-theme-cityseer/comments{/number}
+commits_url: https://api.github.com/repos/cityseer/vuepress-theme-cityseer/commits{/sha}
+compare_url: https://api.github.com/repos/cityseer/vuepress-theme-cityseer/compare/{base}...{head}
+contents_url: https://api.github.com/repos/cityseer/vuepress-theme-cityseer/contents/{+path}
+contributors_url: https://api.github.com/repos/cityseer/vuepress-theme-cityseer/contributors
+created_at: '2019-02-21T20:48:30Z'
+default_branch: master
+deployments_url: https://api.github.com/repos/cityseer/vuepress-theme-cityseer/deployments
+description: Cityseer theme for vuepress
+disabled: false
+downloads_url: https://api.github.com/repos/cityseer/vuepress-theme-cityseer/downloads
+events_url: https://api.github.com/repos/cityseer/vuepress-theme-cityseer/events
+fork: false
+forks: 0
+forks_count: 0
+forks_url: https://api.github.com/repos/cityseer/vuepress-theme-cityseer/forks
+full_name: cityseer/vuepress-theme-cityseer
+git_commits_url: https://api.github.com/repos/cityseer/vuepress-theme-cityseer/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/cityseer/vuepress-theme-cityseer/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/cityseer/vuepress-theme-cityseer/git/tags{/sha}
+git_url: git://github.com/cityseer/vuepress-theme-cityseer.git
+has_downloads: true
+has_issues: true
+has_pages: false
+has_projects: true
+has_wiki: true
+homepage: null
+hooks_url: https://api.github.com/repos/cityseer/vuepress-theme-cityseer/hooks
+html_url: https://github.com/cityseer/vuepress-theme-cityseer
+id: 171943001
+issue_comment_url: https://api.github.com/repos/cityseer/vuepress-theme-cityseer/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/cityseer/vuepress-theme-cityseer/issues/events{/number}
+issues_url: https://api.github.com/repos/cityseer/vuepress-theme-cityseer/issues{/number}
+keys_url: https://api.github.com/repos/cityseer/vuepress-theme-cityseer/keys{/key_id}
+labels_url: https://api.github.com/repos/cityseer/vuepress-theme-cityseer/labels{/name}
+language: CSS
+languages_url: https://api.github.com/repos/cityseer/vuepress-theme-cityseer/languages
+license:
+  key: mit
+  name: MIT License
+  node_id: MDc6TGljZW5zZTEz
+  spdx_id: MIT
+  url: https://api.github.com/licenses/mit
+merges_url: https://api.github.com/repos/cityseer/vuepress-theme-cityseer/merges
+milestones_url: https://api.github.com/repos/cityseer/vuepress-theme-cityseer/milestones{/number}
+mirror_url: null
+name: vuepress-theme-cityseer
+node_id: MDEwOlJlcG9zaXRvcnkxNzE5NDMwMDE=
+notifications_url: https://api.github.com/repos/cityseer/vuepress-theme-cityseer/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
+owner:
+  avatar_url: https://avatars2.githubusercontent.com/u/37114348?v=4
+  events_url: https://api.github.com/users/cityseer/events{/privacy}
+  followers_url: https://api.github.com/users/cityseer/followers
+  following_url: https://api.github.com/users/cityseer/following{/other_user}
+  gists_url: https://api.github.com/users/cityseer/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/cityseer
+  id: 37114348
+  login: cityseer
+  node_id: MDEyOk9yZ2FuaXphdGlvbjM3MTE0MzQ4
+  organizations_url: https://api.github.com/users/cityseer/orgs
+  received_events_url: https://api.github.com/users/cityseer/received_events
+  repos_url: https://api.github.com/users/cityseer/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/cityseer/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/cityseer/subscriptions
+  type: Organization
+  url: https://api.github.com/users/cityseer
+private: false
+pulls_url: https://api.github.com/repos/cityseer/vuepress-theme-cityseer/pulls{/number}
+pushed_at: '2019-10-06T20:13:45Z'
+releases_url: https://api.github.com/repos/cityseer/vuepress-theme-cityseer/releases{/id}
+score: 19.77381
+size: 302
+ssh_url: git@github.com:cityseer/vuepress-theme-cityseer.git
+stargazers_count: 1
+stargazers_url: https://api.github.com/repos/cityseer/vuepress-theme-cityseer/stargazers
+statuses_url: https://api.github.com/repos/cityseer/vuepress-theme-cityseer/statuses/{sha}
+subscribers_url: https://api.github.com/repos/cityseer/vuepress-theme-cityseer/subscribers
+subscription_url: https://api.github.com/repos/cityseer/vuepress-theme-cityseer/subscription
+svn_url: https://github.com/cityseer/vuepress-theme-cityseer
+tags_url: https://api.github.com/repos/cityseer/vuepress-theme-cityseer/tags
+teams_url: https://api.github.com/repos/cityseer/vuepress-theme-cityseer/teams
+trees_url: https://api.github.com/repos/cityseer/vuepress-theme-cityseer/git/trees{/sha}
+updated_at: '2019-10-06T20:13:22Z'
+url: https://api.github.com/repos/cityseer/vuepress-theme-cityseer
+watchers: 1
+watchers_count: 1
+---
+# vuepress-theme-cityseer
+Cityseer theme for vuepress
+
+Example: [Cityseer docs](https://cityseer.github.io/cityseer/)

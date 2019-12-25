@@ -1,0 +1,102 @@
+---
+archive_url: https://api.github.com/repos/cperezcapote/vuepress-theme-gocommons/{archive_format}{/ref}
+archived: false
+assignees_url: https://api.github.com/repos/cperezcapote/vuepress-theme-gocommons/assignees{/user}
+blobs_url: https://api.github.com/repos/cperezcapote/vuepress-theme-gocommons/git/blobs{/sha}
+branches_url: https://api.github.com/repos/cperezcapote/vuepress-theme-gocommons/branches{/branch}
+clone_url: https://github.com/cperezcapote/vuepress-theme-gocommons.git
+collaborators_url: https://api.github.com/repos/cperezcapote/vuepress-theme-gocommons/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/cperezcapote/vuepress-theme-gocommons/comments{/number}
+commits_url: https://api.github.com/repos/cperezcapote/vuepress-theme-gocommons/commits{/sha}
+compare_url: https://api.github.com/repos/cperezcapote/vuepress-theme-gocommons/compare/{base}...{head}
+contents_url: https://api.github.com/repos/cperezcapote/vuepress-theme-gocommons/contents/{+path}
+contributors_url: https://api.github.com/repos/cperezcapote/vuepress-theme-gocommons/contributors
+created_at: '2019-02-07T04:53:40Z'
+default_branch: master
+deployments_url: https://api.github.com/repos/cperezcapote/vuepress-theme-gocommons/deployments
+description: A custom Vuepress theme for GO!Commons partners applications.
+disabled: false
+downloads_url: https://api.github.com/repos/cperezcapote/vuepress-theme-gocommons/downloads
+events_url: https://api.github.com/repos/cperezcapote/vuepress-theme-gocommons/events
+fork: false
+forks: 0
+forks_count: 0
+forks_url: https://api.github.com/repos/cperezcapote/vuepress-theme-gocommons/forks
+full_name: cperezcapote/vuepress-theme-gocommons
+git_commits_url: https://api.github.com/repos/cperezcapote/vuepress-theme-gocommons/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/cperezcapote/vuepress-theme-gocommons/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/cperezcapote/vuepress-theme-gocommons/git/tags{/sha}
+git_url: git://github.com/cperezcapote/vuepress-theme-gocommons.git
+has_downloads: true
+has_issues: true
+has_pages: false
+has_projects: true
+has_wiki: true
+homepage: null
+hooks_url: https://api.github.com/repos/cperezcapote/vuepress-theme-gocommons/hooks
+html_url: https://github.com/cperezcapote/vuepress-theme-gocommons
+id: 169520972
+issue_comment_url: https://api.github.com/repos/cperezcapote/vuepress-theme-gocommons/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/cperezcapote/vuepress-theme-gocommons/issues/events{/number}
+issues_url: https://api.github.com/repos/cperezcapote/vuepress-theme-gocommons/issues{/number}
+keys_url: https://api.github.com/repos/cperezcapote/vuepress-theme-gocommons/keys{/key_id}
+labels_url: https://api.github.com/repos/cperezcapote/vuepress-theme-gocommons/labels{/name}
+language: Vue
+languages_url: https://api.github.com/repos/cperezcapote/vuepress-theme-gocommons/languages
+license:
+  key: mit
+  name: MIT License
+  node_id: MDc6TGljZW5zZTEz
+  spdx_id: MIT
+  url: https://api.github.com/licenses/mit
+merges_url: https://api.github.com/repos/cperezcapote/vuepress-theme-gocommons/merges
+milestones_url: https://api.github.com/repos/cperezcapote/vuepress-theme-gocommons/milestones{/number}
+mirror_url: null
+name: vuepress-theme-gocommons
+node_id: MDEwOlJlcG9zaXRvcnkxNjk1MjA5NzI=
+notifications_url: https://api.github.com/repos/cperezcapote/vuepress-theme-gocommons/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
+owner:
+  avatar_url: https://avatars1.githubusercontent.com/u/35213792?v=4
+  events_url: https://api.github.com/users/cperezcapote/events{/privacy}
+  followers_url: https://api.github.com/users/cperezcapote/followers
+  following_url: https://api.github.com/users/cperezcapote/following{/other_user}
+  gists_url: https://api.github.com/users/cperezcapote/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/cperezcapote
+  id: 35213792
+  login: cperezcapote
+  node_id: MDQ6VXNlcjM1MjEzNzky
+  organizations_url: https://api.github.com/users/cperezcapote/orgs
+  received_events_url: https://api.github.com/users/cperezcapote/received_events
+  repos_url: https://api.github.com/users/cperezcapote/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/cperezcapote/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/cperezcapote/subscriptions
+  type: User
+  url: https://api.github.com/users/cperezcapote
+private: false
+pulls_url: https://api.github.com/repos/cperezcapote/vuepress-theme-gocommons/pulls{/number}
+pushed_at: '2019-05-28T03:20:23Z'
+releases_url: https://api.github.com/repos/cperezcapote/vuepress-theme-gocommons/releases{/id}
+score: 18.340733
+size: 376
+ssh_url: git@github.com:cperezcapote/vuepress-theme-gocommons.git
+stargazers_count: 0
+stargazers_url: https://api.github.com/repos/cperezcapote/vuepress-theme-gocommons/stargazers
+statuses_url: https://api.github.com/repos/cperezcapote/vuepress-theme-gocommons/statuses/{sha}
+subscribers_url: https://api.github.com/repos/cperezcapote/vuepress-theme-gocommons/subscribers
+subscription_url: https://api.github.com/repos/cperezcapote/vuepress-theme-gocommons/subscription
+svn_url: https://github.com/cperezcapote/vuepress-theme-gocommons
+tags_url: https://api.github.com/repos/cperezcapote/vuepress-theme-gocommons/tags
+teams_url: https://api.github.com/repos/cperezcapote/vuepress-theme-gocommons/teams
+trees_url: https://api.github.com/repos/cperezcapote/vuepress-theme-gocommons/git/trees{/sha}
+updated_at: '2019-02-25T15:28:31Z'
+url: https://api.github.com/repos/cperezcapote/vuepress-theme-gocommons
+watchers: 0
+watchers_count: 0
+---
+# vuepress-theme-gocommons
+
+A custom Vuepress theme for GO!Commons partner applications.

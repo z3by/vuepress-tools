@@ -1,0 +1,97 @@
+---
+archive_url: https://api.github.com/repos/claustres/vuepress-theme-nature-aventure/{archive_format}{/ref}
+archived: false
+assignees_url: https://api.github.com/repos/claustres/vuepress-theme-nature-aventure/assignees{/user}
+blobs_url: https://api.github.com/repos/claustres/vuepress-theme-nature-aventure/git/blobs{/sha}
+branches_url: https://api.github.com/repos/claustres/vuepress-theme-nature-aventure/branches{/branch}
+clone_url: https://github.com/claustres/vuepress-theme-nature-aventure.git
+collaborators_url: https://api.github.com/repos/claustres/vuepress-theme-nature-aventure/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/claustres/vuepress-theme-nature-aventure/comments{/number}
+commits_url: https://api.github.com/repos/claustres/vuepress-theme-nature-aventure/commits{/sha}
+compare_url: https://api.github.com/repos/claustres/vuepress-theme-nature-aventure/compare/{base}...{head}
+contents_url: https://api.github.com/repos/claustres/vuepress-theme-nature-aventure/contents/{+path}
+contributors_url: https://api.github.com/repos/claustres/vuepress-theme-nature-aventure/contributors
+created_at: '2018-06-19T12:29:13Z'
+default_branch: master
+deployments_url: https://api.github.com/repos/claustres/vuepress-theme-nature-aventure/deployments
+description: Theme VuePress du site du Club Nature-Aventure de Castelnaudary
+disabled: false
+downloads_url: https://api.github.com/repos/claustres/vuepress-theme-nature-aventure/downloads
+events_url: https://api.github.com/repos/claustres/vuepress-theme-nature-aventure/events
+fork: false
+forks: 0
+forks_count: 0
+forks_url: https://api.github.com/repos/claustres/vuepress-theme-nature-aventure/forks
+full_name: claustres/vuepress-theme-nature-aventure
+git_commits_url: https://api.github.com/repos/claustres/vuepress-theme-nature-aventure/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/claustres/vuepress-theme-nature-aventure/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/claustres/vuepress-theme-nature-aventure/git/tags{/sha}
+git_url: git://github.com/claustres/vuepress-theme-nature-aventure.git
+has_downloads: true
+has_issues: true
+has_pages: false
+has_projects: true
+has_wiki: true
+homepage: null
+hooks_url: https://api.github.com/repos/claustres/vuepress-theme-nature-aventure/hooks
+html_url: https://github.com/claustres/vuepress-theme-nature-aventure
+id: 137888560
+issue_comment_url: https://api.github.com/repos/claustres/vuepress-theme-nature-aventure/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/claustres/vuepress-theme-nature-aventure/issues/events{/number}
+issues_url: https://api.github.com/repos/claustres/vuepress-theme-nature-aventure/issues{/number}
+keys_url: https://api.github.com/repos/claustres/vuepress-theme-nature-aventure/keys{/key_id}
+labels_url: https://api.github.com/repos/claustres/vuepress-theme-nature-aventure/labels{/name}
+language: Vue
+languages_url: https://api.github.com/repos/claustres/vuepress-theme-nature-aventure/languages
+license: null
+merges_url: https://api.github.com/repos/claustres/vuepress-theme-nature-aventure/merges
+milestones_url: https://api.github.com/repos/claustres/vuepress-theme-nature-aventure/milestones{/number}
+mirror_url: null
+name: vuepress-theme-nature-aventure
+node_id: MDEwOlJlcG9zaXRvcnkxMzc4ODg1NjA=
+notifications_url: https://api.github.com/repos/claustres/vuepress-theme-nature-aventure/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
+owner:
+  avatar_url: https://avatars1.githubusercontent.com/u/2647117?v=4
+  events_url: https://api.github.com/users/claustres/events{/privacy}
+  followers_url: https://api.github.com/users/claustres/followers
+  following_url: https://api.github.com/users/claustres/following{/other_user}
+  gists_url: https://api.github.com/users/claustres/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/claustres
+  id: 2647117
+  login: claustres
+  node_id: MDQ6VXNlcjI2NDcxMTc=
+  organizations_url: https://api.github.com/users/claustres/orgs
+  received_events_url: https://api.github.com/users/claustres/received_events
+  repos_url: https://api.github.com/users/claustres/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/claustres/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/claustres/subscriptions
+  type: User
+  url: https://api.github.com/users/claustres
+private: false
+pulls_url: https://api.github.com/repos/claustres/vuepress-theme-nature-aventure/pulls{/number}
+pushed_at: '2019-06-11T20:45:00Z'
+releases_url: https://api.github.com/repos/claustres/vuepress-theme-nature-aventure/releases{/id}
+score: 18.356293
+size: 21
+ssh_url: git@github.com:claustres/vuepress-theme-nature-aventure.git
+stargazers_count: 0
+stargazers_url: https://api.github.com/repos/claustres/vuepress-theme-nature-aventure/stargazers
+statuses_url: https://api.github.com/repos/claustres/vuepress-theme-nature-aventure/statuses/{sha}
+subscribers_url: https://api.github.com/repos/claustres/vuepress-theme-nature-aventure/subscribers
+subscription_url: https://api.github.com/repos/claustres/vuepress-theme-nature-aventure/subscription
+svn_url: https://github.com/claustres/vuepress-theme-nature-aventure
+tags_url: https://api.github.com/repos/claustres/vuepress-theme-nature-aventure/tags
+teams_url: https://api.github.com/repos/claustres/vuepress-theme-nature-aventure/teams
+trees_url: https://api.github.com/repos/claustres/vuepress-theme-nature-aventure/git/trees{/sha}
+updated_at: '2019-06-11T20:45:02Z'
+url: https://api.github.com/repos/claustres/vuepress-theme-nature-aventure
+watchers: 0
+watchers_count: 0
+---
+# vuepress-theme-nature-aventure
+
+Theme VuePress du site du Club Nature-Aventure de Castelnaudary

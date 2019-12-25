@@ -1,0 +1,94 @@
+---
+archive_url: https://api.github.com/repos/zsirfs/vuepress-theme-next/{archive_format}{/ref}
+archived: false
+assignees_url: https://api.github.com/repos/zsirfs/vuepress-theme-next/assignees{/user}
+blobs_url: https://api.github.com/repos/zsirfs/vuepress-theme-next/git/blobs{/sha}
+branches_url: https://api.github.com/repos/zsirfs/vuepress-theme-next/branches{/branch}
+clone_url: https://github.com/zsirfs/vuepress-theme-next.git
+collaborators_url: https://api.github.com/repos/zsirfs/vuepress-theme-next/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/zsirfs/vuepress-theme-next/comments{/number}
+commits_url: https://api.github.com/repos/zsirfs/vuepress-theme-next/commits{/sha}
+compare_url: https://api.github.com/repos/zsirfs/vuepress-theme-next/compare/{base}...{head}
+contents_url: https://api.github.com/repos/zsirfs/vuepress-theme-next/contents/{+path}
+contributors_url: https://api.github.com/repos/zsirfs/vuepress-theme-next/contributors
+created_at: '2018-05-01T14:46:43Z'
+default_branch: master
+deployments_url: https://api.github.com/repos/zsirfs/vuepress-theme-next/deployments
+description: vuepress next theme
+disabled: false
+downloads_url: https://api.github.com/repos/zsirfs/vuepress-theme-next/downloads
+events_url: https://api.github.com/repos/zsirfs/vuepress-theme-next/events
+fork: false
+forks: 0
+forks_count: 0
+forks_url: https://api.github.com/repos/zsirfs/vuepress-theme-next/forks
+full_name: zsirfs/vuepress-theme-next
+git_commits_url: https://api.github.com/repos/zsirfs/vuepress-theme-next/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/zsirfs/vuepress-theme-next/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/zsirfs/vuepress-theme-next/git/tags{/sha}
+git_url: git://github.com/zsirfs/vuepress-theme-next.git
+has_downloads: true
+has_issues: true
+has_pages: false
+has_projects: true
+has_wiki: true
+homepage: null
+hooks_url: https://api.github.com/repos/zsirfs/vuepress-theme-next/hooks
+html_url: https://github.com/zsirfs/vuepress-theme-next
+id: 131724705
+issue_comment_url: https://api.github.com/repos/zsirfs/vuepress-theme-next/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/zsirfs/vuepress-theme-next/issues/events{/number}
+issues_url: https://api.github.com/repos/zsirfs/vuepress-theme-next/issues{/number}
+keys_url: https://api.github.com/repos/zsirfs/vuepress-theme-next/keys{/key_id}
+labels_url: https://api.github.com/repos/zsirfs/vuepress-theme-next/labels{/name}
+language: null
+languages_url: https://api.github.com/repos/zsirfs/vuepress-theme-next/languages
+license: null
+merges_url: https://api.github.com/repos/zsirfs/vuepress-theme-next/merges
+milestones_url: https://api.github.com/repos/zsirfs/vuepress-theme-next/milestones{/number}
+mirror_url: null
+name: vuepress-theme-next
+node_id: MDEwOlJlcG9zaXRvcnkxMzE3MjQ3MDU=
+notifications_url: https://api.github.com/repos/zsirfs/vuepress-theme-next/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
+owner:
+  avatar_url: https://avatars2.githubusercontent.com/u/22249411?v=4
+  events_url: https://api.github.com/users/zsirfs/events{/privacy}
+  followers_url: https://api.github.com/users/zsirfs/followers
+  following_url: https://api.github.com/users/zsirfs/following{/other_user}
+  gists_url: https://api.github.com/users/zsirfs/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/zsirfs
+  id: 22249411
+  login: zsirfs
+  node_id: MDQ6VXNlcjIyMjQ5NDEx
+  organizations_url: https://api.github.com/users/zsirfs/orgs
+  received_events_url: https://api.github.com/users/zsirfs/received_events
+  repos_url: https://api.github.com/users/zsirfs/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/zsirfs/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/zsirfs/subscriptions
+  type: User
+  url: https://api.github.com/users/zsirfs
+private: false
+pulls_url: https://api.github.com/repos/zsirfs/vuepress-theme-next/pulls{/number}
+pushed_at: '2018-05-01T14:46:44Z'
+releases_url: https://api.github.com/repos/zsirfs/vuepress-theme-next/releases{/id}
+score: 19.830711
+size: 0
+ssh_url: git@github.com:zsirfs/vuepress-theme-next.git
+stargazers_count: 0
+stargazers_url: https://api.github.com/repos/zsirfs/vuepress-theme-next/stargazers
+statuses_url: https://api.github.com/repos/zsirfs/vuepress-theme-next/statuses/{sha}
+subscribers_url: https://api.github.com/repos/zsirfs/vuepress-theme-next/subscribers
+subscription_url: https://api.github.com/repos/zsirfs/vuepress-theme-next/subscription
+svn_url: https://github.com/zsirfs/vuepress-theme-next
+tags_url: https://api.github.com/repos/zsirfs/vuepress-theme-next/tags
+teams_url: https://api.github.com/repos/zsirfs/vuepress-theme-next/teams
+trees_url: https://api.github.com/repos/zsirfs/vuepress-theme-next/git/trees{/sha}
+updated_at: '2018-05-01T14:46:43Z'
+url: https://api.github.com/repos/zsirfs/vuepress-theme-next
+watchers: 0
+watchers_count: 0
+---

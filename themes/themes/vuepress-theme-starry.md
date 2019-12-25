@@ -1,0 +1,96 @@
+---
+archive_url: https://api.github.com/repos/YunYouJun/vuepress-theme-starry/{archive_format}{/ref}
+archived: false
+assignees_url: https://api.github.com/repos/YunYouJun/vuepress-theme-starry/assignees{/user}
+blobs_url: https://api.github.com/repos/YunYouJun/vuepress-theme-starry/git/blobs{/sha}
+branches_url: https://api.github.com/repos/YunYouJun/vuepress-theme-starry/branches{/branch}
+clone_url: https://github.com/YunYouJun/vuepress-theme-starry.git
+collaborators_url: https://api.github.com/repos/YunYouJun/vuepress-theme-starry/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/YunYouJun/vuepress-theme-starry/comments{/number}
+commits_url: https://api.github.com/repos/YunYouJun/vuepress-theme-starry/commits{/sha}
+compare_url: https://api.github.com/repos/YunYouJun/vuepress-theme-starry/compare/{base}...{head}
+contents_url: https://api.github.com/repos/YunYouJun/vuepress-theme-starry/contents/{+path}
+contributors_url: https://api.github.com/repos/YunYouJun/vuepress-theme-starry/contributors
+created_at: '2019-01-25T03:03:45Z'
+default_branch: master
+deployments_url: https://api.github.com/repos/YunYouJun/vuepress-theme-starry/deployments
+description: wait vuepress release 1.0
+disabled: false
+downloads_url: https://api.github.com/repos/YunYouJun/vuepress-theme-starry/downloads
+events_url: https://api.github.com/repos/YunYouJun/vuepress-theme-starry/events
+fork: false
+forks: 0
+forks_count: 0
+forks_url: https://api.github.com/repos/YunYouJun/vuepress-theme-starry/forks
+full_name: YunYouJun/vuepress-theme-starry
+git_commits_url: https://api.github.com/repos/YunYouJun/vuepress-theme-starry/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/YunYouJun/vuepress-theme-starry/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/YunYouJun/vuepress-theme-starry/git/tags{/sha}
+git_url: git://github.com/YunYouJun/vuepress-theme-starry.git
+has_downloads: true
+has_issues: true
+has_pages: false
+has_projects: true
+has_wiki: true
+homepage: null
+hooks_url: https://api.github.com/repos/YunYouJun/vuepress-theme-starry/hooks
+html_url: https://github.com/YunYouJun/vuepress-theme-starry
+id: 167475922
+issue_comment_url: https://api.github.com/repos/YunYouJun/vuepress-theme-starry/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/YunYouJun/vuepress-theme-starry/issues/events{/number}
+issues_url: https://api.github.com/repos/YunYouJun/vuepress-theme-starry/issues{/number}
+keys_url: https://api.github.com/repos/YunYouJun/vuepress-theme-starry/keys{/key_id}
+labels_url: https://api.github.com/repos/YunYouJun/vuepress-theme-starry/labels{/name}
+language: null
+languages_url: https://api.github.com/repos/YunYouJun/vuepress-theme-starry/languages
+license: null
+merges_url: https://api.github.com/repos/YunYouJun/vuepress-theme-starry/merges
+milestones_url: https://api.github.com/repos/YunYouJun/vuepress-theme-starry/milestones{/number}
+mirror_url: null
+name: vuepress-theme-starry
+node_id: MDEwOlJlcG9zaXRvcnkxNjc0NzU5MjI=
+notifications_url: https://api.github.com/repos/YunYouJun/vuepress-theme-starry/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
+owner:
+  avatar_url: https://avatars3.githubusercontent.com/u/25154432?v=4
+  events_url: https://api.github.com/users/YunYouJun/events{/privacy}
+  followers_url: https://api.github.com/users/YunYouJun/followers
+  following_url: https://api.github.com/users/YunYouJun/following{/other_user}
+  gists_url: https://api.github.com/users/YunYouJun/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/YunYouJun
+  id: 25154432
+  login: YunYouJun
+  node_id: MDQ6VXNlcjI1MTU0NDMy
+  organizations_url: https://api.github.com/users/YunYouJun/orgs
+  received_events_url: https://api.github.com/users/YunYouJun/received_events
+  repos_url: https://api.github.com/users/YunYouJun/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/YunYouJun/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/YunYouJun/subscriptions
+  type: User
+  url: https://api.github.com/users/YunYouJun
+private: false
+pulls_url: https://api.github.com/repos/YunYouJun/vuepress-theme-starry/pulls{/number}
+pushed_at: '2019-01-25T03:03:47Z'
+releases_url: https://api.github.com/repos/YunYouJun/vuepress-theme-starry/releases{/id}
+score: 18.408278
+size: 0
+ssh_url: git@github.com:YunYouJun/vuepress-theme-starry.git
+stargazers_count: 0
+stargazers_url: https://api.github.com/repos/YunYouJun/vuepress-theme-starry/stargazers
+statuses_url: https://api.github.com/repos/YunYouJun/vuepress-theme-starry/statuses/{sha}
+subscribers_url: https://api.github.com/repos/YunYouJun/vuepress-theme-starry/subscribers
+subscription_url: https://api.github.com/repos/YunYouJun/vuepress-theme-starry/subscription
+svn_url: https://github.com/YunYouJun/vuepress-theme-starry
+tags_url: https://api.github.com/repos/YunYouJun/vuepress-theme-starry/tags
+teams_url: https://api.github.com/repos/YunYouJun/vuepress-theme-starry/teams
+trees_url: https://api.github.com/repos/YunYouJun/vuepress-theme-starry/git/trees{/sha}
+updated_at: '2019-01-25T03:03:48Z'
+url: https://api.github.com/repos/YunYouJun/vuepress-theme-starry
+watchers: 0
+watchers_count: 0
+---
+# vuepress-theme-starry
+wait vuepress release 1.0

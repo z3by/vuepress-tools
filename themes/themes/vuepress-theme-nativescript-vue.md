@@ -1,0 +1,94 @@
+---
+archive_url: https://api.github.com/repos/nativescript-vue/vuepress-theme-nativescript-vue/{archive_format}{/ref}
+archived: false
+assignees_url: https://api.github.com/repos/nativescript-vue/vuepress-theme-nativescript-vue/assignees{/user}
+blobs_url: https://api.github.com/repos/nativescript-vue/vuepress-theme-nativescript-vue/git/blobs{/sha}
+branches_url: https://api.github.com/repos/nativescript-vue/vuepress-theme-nativescript-vue/branches{/branch}
+clone_url: https://github.com/nativescript-vue/vuepress-theme-nativescript-vue.git
+collaborators_url: https://api.github.com/repos/nativescript-vue/vuepress-theme-nativescript-vue/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/nativescript-vue/vuepress-theme-nativescript-vue/comments{/number}
+commits_url: https://api.github.com/repos/nativescript-vue/vuepress-theme-nativescript-vue/commits{/sha}
+compare_url: https://api.github.com/repos/nativescript-vue/vuepress-theme-nativescript-vue/compare/{base}...{head}
+contents_url: https://api.github.com/repos/nativescript-vue/vuepress-theme-nativescript-vue/contents/{+path}
+contributors_url: https://api.github.com/repos/nativescript-vue/vuepress-theme-nativescript-vue/contributors
+created_at: '2018-11-19T12:49:38Z'
+default_branch: master
+deployments_url: https://api.github.com/repos/nativescript-vue/vuepress-theme-nativescript-vue/deployments
+description: NativeScript-Vue theme for VuePress
+disabled: false
+downloads_url: https://api.github.com/repos/nativescript-vue/vuepress-theme-nativescript-vue/downloads
+events_url: https://api.github.com/repos/nativescript-vue/vuepress-theme-nativescript-vue/events
+fork: false
+forks: 1
+forks_count: 1
+forks_url: https://api.github.com/repos/nativescript-vue/vuepress-theme-nativescript-vue/forks
+full_name: nativescript-vue/vuepress-theme-nativescript-vue
+git_commits_url: https://api.github.com/repos/nativescript-vue/vuepress-theme-nativescript-vue/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/nativescript-vue/vuepress-theme-nativescript-vue/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/nativescript-vue/vuepress-theme-nativescript-vue/git/tags{/sha}
+git_url: git://github.com/nativescript-vue/vuepress-theme-nativescript-vue.git
+has_downloads: true
+has_issues: true
+has_pages: false
+has_projects: false
+has_wiki: true
+homepage: null
+hooks_url: https://api.github.com/repos/nativescript-vue/vuepress-theme-nativescript-vue/hooks
+html_url: https://github.com/nativescript-vue/vuepress-theme-nativescript-vue
+id: 158221864
+issue_comment_url: https://api.github.com/repos/nativescript-vue/vuepress-theme-nativescript-vue/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/nativescript-vue/vuepress-theme-nativescript-vue/issues/events{/number}
+issues_url: https://api.github.com/repos/nativescript-vue/vuepress-theme-nativescript-vue/issues{/number}
+keys_url: https://api.github.com/repos/nativescript-vue/vuepress-theme-nativescript-vue/keys{/key_id}
+labels_url: https://api.github.com/repos/nativescript-vue/vuepress-theme-nativescript-vue/labels{/name}
+language: JavaScript
+languages_url: https://api.github.com/repos/nativescript-vue/vuepress-theme-nativescript-vue/languages
+license: null
+merges_url: https://api.github.com/repos/nativescript-vue/vuepress-theme-nativescript-vue/merges
+milestones_url: https://api.github.com/repos/nativescript-vue/vuepress-theme-nativescript-vue/milestones{/number}
+mirror_url: null
+name: vuepress-theme-nativescript-vue
+node_id: MDEwOlJlcG9zaXRvcnkxNTgyMjE4NjQ=
+notifications_url: https://api.github.com/repos/nativescript-vue/vuepress-theme-nativescript-vue/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
+owner:
+  avatar_url: https://avatars2.githubusercontent.com/u/32681046?v=4
+  events_url: https://api.github.com/users/nativescript-vue/events{/privacy}
+  followers_url: https://api.github.com/users/nativescript-vue/followers
+  following_url: https://api.github.com/users/nativescript-vue/following{/other_user}
+  gists_url: https://api.github.com/users/nativescript-vue/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/nativescript-vue
+  id: 32681046
+  login: nativescript-vue
+  node_id: MDEyOk9yZ2FuaXphdGlvbjMyNjgxMDQ2
+  organizations_url: https://api.github.com/users/nativescript-vue/orgs
+  received_events_url: https://api.github.com/users/nativescript-vue/received_events
+  repos_url: https://api.github.com/users/nativescript-vue/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/nativescript-vue/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/nativescript-vue/subscriptions
+  type: Organization
+  url: https://api.github.com/users/nativescript-vue
+private: false
+pulls_url: https://api.github.com/repos/nativescript-vue/vuepress-theme-nativescript-vue/pulls{/number}
+pushed_at: '2018-11-19T12:53:29Z'
+releases_url: https://api.github.com/repos/nativescript-vue/vuepress-theme-nativescript-vue/releases{/id}
+score: 30.105967
+size: 14
+ssh_url: git@github.com:nativescript-vue/vuepress-theme-nativescript-vue.git
+stargazers_count: 4
+stargazers_url: https://api.github.com/repos/nativescript-vue/vuepress-theme-nativescript-vue/stargazers
+statuses_url: https://api.github.com/repos/nativescript-vue/vuepress-theme-nativescript-vue/statuses/{sha}
+subscribers_url: https://api.github.com/repos/nativescript-vue/vuepress-theme-nativescript-vue/subscribers
+subscription_url: https://api.github.com/repos/nativescript-vue/vuepress-theme-nativescript-vue/subscription
+svn_url: https://github.com/nativescript-vue/vuepress-theme-nativescript-vue
+tags_url: https://api.github.com/repos/nativescript-vue/vuepress-theme-nativescript-vue/tags
+teams_url: https://api.github.com/repos/nativescript-vue/vuepress-theme-nativescript-vue/teams
+trees_url: https://api.github.com/repos/nativescript-vue/vuepress-theme-nativescript-vue/git/trees{/sha}
+updated_at: '2019-07-25T11:46:14Z'
+url: https://api.github.com/repos/nativescript-vue/vuepress-theme-nativescript-vue
+watchers: 4
+watchers_count: 4
+---

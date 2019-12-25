@@ -4,17 +4,17 @@
   "description": "Best Vuepress themes for your Vuepress project",
   "main": "index.js",
   "authors": {
-    "name": "z3by",
+    "name": "Ahmad Mostafa",
     "email": "zoaby.am@gmail.com"
   },
   "repository": "arab-open-source/vuepress-themes/vuepress-themes",
   "scripts": {
-    "dev": "vuepress dev docs",
-    "build": "vuepress build docs"
+    "dev": "vuepress dev themes",
+    "build": "vuepress build themes"
   },
   "license": "MIT",
   "devDependencies": {
-    "vuepress": "^1.0.0",
+    "vuepress": "^1.2.0",
     "@vuepress/plugin-back-to-top": "^1.0.0",
     "@vuepress/plugin-medium-zoom": "^1.0.0"
   }

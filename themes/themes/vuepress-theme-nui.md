@@ -1,0 +1,94 @@
+---
+archive_url: https://api.github.com/repos/Wizard67/vuepress-theme-nui/{archive_format}{/ref}
+archived: false
+assignees_url: https://api.github.com/repos/Wizard67/vuepress-theme-nui/assignees{/user}
+blobs_url: https://api.github.com/repos/Wizard67/vuepress-theme-nui/git/blobs{/sha}
+branches_url: https://api.github.com/repos/Wizard67/vuepress-theme-nui/branches{/branch}
+clone_url: https://github.com/Wizard67/vuepress-theme-nui.git
+collaborators_url: https://api.github.com/repos/Wizard67/vuepress-theme-nui/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/Wizard67/vuepress-theme-nui/comments{/number}
+commits_url: https://api.github.com/repos/Wizard67/vuepress-theme-nui/commits{/sha}
+compare_url: https://api.github.com/repos/Wizard67/vuepress-theme-nui/compare/{base}...{head}
+contents_url: https://api.github.com/repos/Wizard67/vuepress-theme-nui/contents/{+path}
+contributors_url: https://api.github.com/repos/Wizard67/vuepress-theme-nui/contributors
+created_at: '2018-08-31T07:30:40Z'
+default_branch: master
+deployments_url: https://api.github.com/repos/Wizard67/vuepress-theme-nui/deployments
+description: vuepress theme
+disabled: false
+downloads_url: https://api.github.com/repos/Wizard67/vuepress-theme-nui/downloads
+events_url: https://api.github.com/repos/Wizard67/vuepress-theme-nui/events
+fork: false
+forks: 0
+forks_count: 0
+forks_url: https://api.github.com/repos/Wizard67/vuepress-theme-nui/forks
+full_name: Wizard67/vuepress-theme-nui
+git_commits_url: https://api.github.com/repos/Wizard67/vuepress-theme-nui/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/Wizard67/vuepress-theme-nui/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/Wizard67/vuepress-theme-nui/git/tags{/sha}
+git_url: git://github.com/Wizard67/vuepress-theme-nui.git
+has_downloads: true
+has_issues: true
+has_pages: false
+has_projects: true
+has_wiki: true
+homepage: null
+hooks_url: https://api.github.com/repos/Wizard67/vuepress-theme-nui/hooks
+html_url: https://github.com/Wizard67/vuepress-theme-nui
+id: 146857867
+issue_comment_url: https://api.github.com/repos/Wizard67/vuepress-theme-nui/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/Wizard67/vuepress-theme-nui/issues/events{/number}
+issues_url: https://api.github.com/repos/Wizard67/vuepress-theme-nui/issues{/number}
+keys_url: https://api.github.com/repos/Wizard67/vuepress-theme-nui/keys{/key_id}
+labels_url: https://api.github.com/repos/Wizard67/vuepress-theme-nui/labels{/name}
+language: null
+languages_url: https://api.github.com/repos/Wizard67/vuepress-theme-nui/languages
+license: null
+merges_url: https://api.github.com/repos/Wizard67/vuepress-theme-nui/merges
+milestones_url: https://api.github.com/repos/Wizard67/vuepress-theme-nui/milestones{/number}
+mirror_url: null
+name: vuepress-theme-nui
+node_id: MDEwOlJlcG9zaXRvcnkxNDY4NTc4Njc=
+notifications_url: https://api.github.com/repos/Wizard67/vuepress-theme-nui/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
+owner:
+  avatar_url: https://avatars1.githubusercontent.com/u/20972092?v=4
+  events_url: https://api.github.com/users/Wizard67/events{/privacy}
+  followers_url: https://api.github.com/users/Wizard67/followers
+  following_url: https://api.github.com/users/Wizard67/following{/other_user}
+  gists_url: https://api.github.com/users/Wizard67/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/Wizard67
+  id: 20972092
+  login: Wizard67
+  node_id: MDQ6VXNlcjIwOTcyMDky
+  organizations_url: https://api.github.com/users/Wizard67/orgs
+  received_events_url: https://api.github.com/users/Wizard67/received_events
+  repos_url: https://api.github.com/users/Wizard67/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/Wizard67/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/Wizard67/subscriptions
+  type: User
+  url: https://api.github.com/users/Wizard67
+private: false
+pulls_url: https://api.github.com/repos/Wizard67/vuepress-theme-nui/pulls{/number}
+pushed_at: '2018-08-31T07:30:40Z'
+releases_url: https://api.github.com/repos/Wizard67/vuepress-theme-nui/releases{/id}
+score: 21.327667
+size: 0
+ssh_url: git@github.com:Wizard67/vuepress-theme-nui.git
+stargazers_count: 0
+stargazers_url: https://api.github.com/repos/Wizard67/vuepress-theme-nui/stargazers
+statuses_url: https://api.github.com/repos/Wizard67/vuepress-theme-nui/statuses/{sha}
+subscribers_url: https://api.github.com/repos/Wizard67/vuepress-theme-nui/subscribers
+subscription_url: https://api.github.com/repos/Wizard67/vuepress-theme-nui/subscription
+svn_url: https://github.com/Wizard67/vuepress-theme-nui
+tags_url: https://api.github.com/repos/Wizard67/vuepress-theme-nui/tags
+teams_url: https://api.github.com/repos/Wizard67/vuepress-theme-nui/teams
+trees_url: https://api.github.com/repos/Wizard67/vuepress-theme-nui/git/trees{/sha}
+updated_at: '2018-08-31T10:26:21Z'
+url: https://api.github.com/repos/Wizard67/vuepress-theme-nui
+watchers: 0
+watchers_count: 0
+---

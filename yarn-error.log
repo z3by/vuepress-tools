@@ -1,0 +1,54 @@
+Arguments: 
+  /usr/local/Cellar/node/12.1.0/bin/node /usr/local/bin/yarn
+
+PATH: 
+  /usr/local/opt/openssl/bin:/usr/local/opt/mysql-client/bin:/usr/local/opt/mysql-client/bin:/usr/local/opt/gettext/bin:/Users/ahmad/git/BriteCore/lib:/Users/ahmad/git/BriteCore:/Users/ahmad/bin:/usr/local/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/ahmad/git/BriteCore/lib:/Users/ahmad/git/BriteCore:/Users/ahmad/bin:/Users/ahmad/git/BriteDevEnv/tools:/usr/local/Cellar/gettext/0.20.1/bin:/Users/ahmad/git/BriteDevEnv/tools:/usr/local/Cellar/gettext/0.20.1/bin:/usr/local/mysql/bin:/usr/local/bin
+
+Yarn version: 
+  1.16.0
+
+Node version: 
+  13.1.0
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: connect ENETUNREACH 104.16.18.35:443 - Local (0.0.0.0:53240)
+      at internalConnect (net.js:908:16)
+      at defaultTriggerAsyncIdScope (internal/async_hooks.js:301:12)
+      at emitLookup (net.js:1051:9)
+      at /usr/local/lib/node_modules/yarn/lib/cli.js:106726:28
+      at /usr/local/lib/node_modules/yarn/lib/cli.js:106635:13
+      at RawTask.module.exports.RawTask.call (/usr/local/lib/node_modules/yarn/lib/cli.js:82961:19)
+      at flush (/usr/local/lib/node_modules/yarn/lib/cli.js:83043:29)
+      at processTicksAndRejections (internal/process/task_queues.js:75:11)
+
+npm manifest: 
+  {
+    "name": "vuepress-themes",
+    "version": "0.0.1",
+    "description": "Best Vuepress themes for your Vuepress project",
+    "main": "index.js",
+    "authors": {
+      "name": "Ahmad Mostafa",
+      "email": "zoaby.am@gmail.com"
+    },
+    "repository": "arab-open-source/vuepress-themes/vuepress-themes",
+    "scripts": {
+      "dev": "vuepress dev themes",
+      "build": "vuepress build themes"
+    },
+    "license": "MIT",
+    "devDependencies": {
+      "vuepress": "^1.2.0",
+      "@vuepress/plugin-back-to-top": "^1.0.0",
+      "@vuepress/plugin-medium-zoom": "^1.0.0"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

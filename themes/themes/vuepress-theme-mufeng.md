@@ -1,0 +1,307 @@
+---
+archive_url: https://api.github.com/repos/zhangximufeng/vuepress-theme-mufeng/{archive_format}{/ref}
+archived: false
+assignees_url: https://api.github.com/repos/zhangximufeng/vuepress-theme-mufeng/assignees{/user}
+blobs_url: https://api.github.com/repos/zhangximufeng/vuepress-theme-mufeng/git/blobs{/sha}
+branches_url: https://api.github.com/repos/zhangximufeng/vuepress-theme-mufeng/branches{/branch}
+clone_url: https://github.com/zhangximufeng/vuepress-theme-mufeng.git
+collaborators_url: https://api.github.com/repos/zhangximufeng/vuepress-theme-mufeng/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/zhangximufeng/vuepress-theme-mufeng/comments{/number}
+commits_url: https://api.github.com/repos/zhangximufeng/vuepress-theme-mufeng/commits{/sha}
+compare_url: https://api.github.com/repos/zhangximufeng/vuepress-theme-mufeng/compare/{base}...{head}
+contents_url: https://api.github.com/repos/zhangximufeng/vuepress-theme-mufeng/contents/{+path}
+contributors_url: https://api.github.com/repos/zhangximufeng/vuepress-theme-mufeng/contributors
+created_at: '2018-09-11T10:25:11Z'
+default_branch: master
+deployments_url: https://api.github.com/repos/zhangximufeng/vuepress-theme-mufeng/deployments
+description: a blog for  vuepress theme    https://zhangximufeng.github.io
+disabled: false
+downloads_url: https://api.github.com/repos/zhangximufeng/vuepress-theme-mufeng/downloads
+events_url: https://api.github.com/repos/zhangximufeng/vuepress-theme-mufeng/events
+fork: false
+forks: 16
+forks_count: 16
+forks_url: https://api.github.com/repos/zhangximufeng/vuepress-theme-mufeng/forks
+full_name: zhangximufeng/vuepress-theme-mufeng
+git_commits_url: https://api.github.com/repos/zhangximufeng/vuepress-theme-mufeng/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/zhangximufeng/vuepress-theme-mufeng/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/zhangximufeng/vuepress-theme-mufeng/git/tags{/sha}
+git_url: git://github.com/zhangximufeng/vuepress-theme-mufeng.git
+has_downloads: true
+has_issues: true
+has_pages: false
+has_projects: true
+has_wiki: true
+homepage: ''
+hooks_url: https://api.github.com/repos/zhangximufeng/vuepress-theme-mufeng/hooks
+html_url: https://github.com/zhangximufeng/vuepress-theme-mufeng
+id: 148300175
+issue_comment_url: https://api.github.com/repos/zhangximufeng/vuepress-theme-mufeng/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/zhangximufeng/vuepress-theme-mufeng/issues/events{/number}
+issues_url: https://api.github.com/repos/zhangximufeng/vuepress-theme-mufeng/issues{/number}
+keys_url: https://api.github.com/repos/zhangximufeng/vuepress-theme-mufeng/keys{/key_id}
+labels_url: https://api.github.com/repos/zhangximufeng/vuepress-theme-mufeng/labels{/name}
+language: Vue
+languages_url: https://api.github.com/repos/zhangximufeng/vuepress-theme-mufeng/languages
+license:
+  key: mit
+  name: MIT License
+  node_id: MDc6TGljZW5zZTEz
+  spdx_id: MIT
+  url: https://api.github.com/licenses/mit
+merges_url: https://api.github.com/repos/zhangximufeng/vuepress-theme-mufeng/merges
+milestones_url: https://api.github.com/repos/zhangximufeng/vuepress-theme-mufeng/milestones{/number}
+mirror_url: null
+name: vuepress-theme-mufeng
+node_id: MDEwOlJlcG9zaXRvcnkxNDgzMDAxNzU=
+notifications_url: https://api.github.com/repos/zhangximufeng/vuepress-theme-mufeng/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
+owner:
+  avatar_url: https://avatars1.githubusercontent.com/u/20850932?v=4
+  events_url: https://api.github.com/users/zhangximufeng/events{/privacy}
+  followers_url: https://api.github.com/users/zhangximufeng/followers
+  following_url: https://api.github.com/users/zhangximufeng/following{/other_user}
+  gists_url: https://api.github.com/users/zhangximufeng/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/zhangximufeng
+  id: 20850932
+  login: zhangximufeng
+  node_id: MDQ6VXNlcjIwODUwOTMy
+  organizations_url: https://api.github.com/users/zhangximufeng/orgs
+  received_events_url: https://api.github.com/users/zhangximufeng/received_events
+  repos_url: https://api.github.com/users/zhangximufeng/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/zhangximufeng/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/zhangximufeng/subscriptions
+  type: User
+  url: https://api.github.com/users/zhangximufeng
+private: false
+pulls_url: https://api.github.com/repos/zhangximufeng/vuepress-theme-mufeng/pulls{/number}
+pushed_at: '2019-02-26T15:07:20Z'
+releases_url: https://api.github.com/repos/zhangximufeng/vuepress-theme-mufeng/releases{/id}
+score: 89.62234
+size: 86
+ssh_url: git@github.com:zhangximufeng/vuepress-theme-mufeng.git
+stargazers_count: 13
+stargazers_url: https://api.github.com/repos/zhangximufeng/vuepress-theme-mufeng/stargazers
+statuses_url: https://api.github.com/repos/zhangximufeng/vuepress-theme-mufeng/statuses/{sha}
+subscribers_url: https://api.github.com/repos/zhangximufeng/vuepress-theme-mufeng/subscribers
+subscription_url: https://api.github.com/repos/zhangximufeng/vuepress-theme-mufeng/subscription
+svn_url: https://github.com/zhangximufeng/vuepress-theme-mufeng
+tags_url: https://api.github.com/repos/zhangximufeng/vuepress-theme-mufeng/tags
+teams_url: https://api.github.com/repos/zhangximufeng/vuepress-theme-mufeng/teams
+trees_url: https://api.github.com/repos/zhangximufeng/vuepress-theme-mufeng/git/trees{/sha}
+updated_at: '2019-08-08T16:46:23Z'
+url: https://api.github.com/repos/zhangximufeng/vuepress-theme-mufeng
+watchers: 13
+watchers_count: 13
+---
+# vuepress-theme-mufeng
+[我的博客](https://zhangximufeng.github.io)
+## Installation
+
+```bash
+yarn add vuepress-theme-mufeng -S
+```
+or with npm
+```bash
+npm install vuepress-theme-mufeng --save-dev
+```
+
+## Article
+
+**Render an overview of the article**
+To generate a preview of the post on the cards, use excerpt by adding `<!-- more -->` after the first paragraph or first few introductory lines in your post.
+
+```
+## What is Vue.js -
+In this post I will talk about Vue.js
+<!-- more -->
+Vue.js is awesome
+```
+
+As in the above form, adding the `<!-- more -->` tag to the `md` file, will render the content before this tag into the articles list as their preview.
+
+
+## Articles meta-data
+Use [mufengblog shell](https://github.com/zhangximufeng/mufengblog-shell) to generate a new post with automatic date-time stamp, title and metadata etc. this helps the cards to sort according to date automatically, also filter the posts by tags etc.
+
+install shell with
+```bash
+yarn global add mufengblog-shell
+```
+and then from your project's root dir, run
+```bash
+mufengblog post -p <post-name> --page README.md
+```
+like if your post is named javascript, just run
+```bash
+mufengblog post -p javascript --page README.md
+```
+
+this will create a folder called javascript and a `README.md` file in it with required data automatically. You can then make changes to this file like changing the title and metadata, tags etc.
+
+```yaml
+title: Article title
+# date is used for article sorting
+date: 2017-08-15 10:27:26
+tag: # Article tag, can be a String or an Array
+  - js
+  - react
+# Meta tags that can be used to crawl by search engines
+meta:
+  - name: description
+    content: Some description about your post
+  - name: keywords # keywords Tags, will be queried when searching within pages
+    content: theme vuepress
+```
+To let the theme filter by tags, add the following information alongside your previous themeConfig in `config.js` inside `.vuepress` folder
+
+## tags
+
+```js
+module.exports = {
+  themeConfig: {
+    tags: true,
+    nav: [
+      { text: 'TAGS', link: '/tags/', tags: true }
+    ]
+  }
+}
+```
+
+the above configuration let's theme know that `TAGS` field in the navbar is specifically for browsing tags from posts. When you visit the above path, it looks like following:
+
+
+## Comment System
+
+Use `gitalk` for comment system, click [gitalk](https://github.com/gitalk/gitalk) for more details.
+
+But, don't support flipMoveOptions and render instane method
+
+## Configuration
+
+For your reference, I have put the configuration of my blog (`.vuepress/config.js`) here:
+
+```js
+module.exports = {
+  // Enable custom themes
+  theme: 'mufeng',
+  title: 'mufeng',
+  description: 'vuepress theme mufeng',
+  head: [
+      ['link', { rel: 'icon', href: `/favicon.ico` }]
+  ],
+  port: 3000,
+  // Google Analytics ID
+  ga: 'xxxxx',
+  // PWA support
+  serviceWorker: true,
+  // fuck IE
+  evergreen: true,
+  markdown: {
+    // markdown-it-anchor options
+    anchor: { permalink: true },
+    // markdown-it-toc options
+    toc: { includeLevel: [1, 2] },
+    config: md => {
+      md.use(require('markdown-it-task-lists')) // a checkbox TODO List plugin
+        .use(require('markdown-it-imsize'), { autofill: true }) // Support for custom md image size ![test](image.png =100x200)
+    }
+  },
+  // Yubisaki theme specific configuration
+  themeConfig: {
+    // Blog background image
+    background: '/background/path',
+    tags: true,
+    // github card
+    github: 'github username',
+    // favicon image (logo)
+    logo: '/logo/path',
+    // Custom article title color
+    accentColor: '#ac3e40',
+    // Number of articles displayed per page
+    per_page: 5,
+    // The time format for creating an article. If not set, it will not be displayed. Optional [yyyy-MM-dd HH:mm:ss]
+    date_format: 'yyyy-MM-dd',
+    // options for comment (gitalk), don't support flipMoveOptions and render instane method
+    comment: {
+      clientID: 'GitHub Application Client ID',
+      clientSecret: 'GitHub Application Client Secret',
+      repo: 'GitHub repo',
+      owner: 'GitHub repo owner',
+      admin: ['GitHub repo owner and collaborators, only these guys can initialize github issues'],
+      perPage: 5,
+      distractionFreeMode: false  // Facebook-like distraction free mode
+    },
+    // customize the links on the navigation bar
+    nav: [
+        { text: 'HOME', link: '/', root: true }, // Specify this as the root directory of the blog post
+        { text: 'TAGS', link: '/tags/', tags: true }, // Specify the tags directory
+        { text: 'GITHUB', link: 'https://github.com/zhangximufeng' },
+        { text: 'about me', link: '/about/' },
+    ]
+  }
+}
+```
+
+
+## customize the layout
+
+Besides the basic `yaml` config generated by `mufengblog-shell`, you can add the following information to customize the layout as you want:
+
+to customize the layout, add the following to the header of the `markdown` file
+
+```yaml
+heroText: Mufeng # title
+activity: true # Use a custom activity layout that will collapse the card bar on the right
+hidden: true # Set whether to display in the article list
+tagline: Vuepress blog theme # description
+heroImage: /static/logo.png # logo
+# Refer to the configuration of the official default theme for service static files
+actionText: Learn about →
+actionLink: /mufeng/usage.html
+# If you want to have more than one action button (in this case actionText and actionLink will be ignored):
+# actions :
+#    - text : Action1
+#      link : /mufeng/action1.html
+#    - text : Action2
+#      link : /mufeng/action2.html
+features:
+  - title: what is this
+    details: A vuepress-based blog theme based on the default theme provided by vuepress
+  - title: What are the characteristics?
+    details: Provide article list, article pagination, article details, github card, custom event page layout, etc.
+  - title: TODO
+    details: Tag cloud, TAG ARCHIVE, some scripts, some out of the box layout
+footer: by stickmy
+```
+
+## Development, deployment
+
+**In the docs directory (or the root of your project), be sure to put a markdown file called README.md for generating the root path, which can be an empty file**
+
+You can use the following scripts to run the vuepress commands or you can run them directly, whichever you prefer
+
+`package.json`:
+
+```js
+{
+  "scripts": {
+    "docs:dev": "vuepress dev {dirName}",
+    "docs:build": "vuepress build {dirName}"
+  }
+}
+```
+If you haven't installed vuepress gloablly, these scripts will be helpful to find the vuepress binaries from `node_modules/.bin` directory and execute them on shell. to execute above scripts, run:
+```bash
+npm run docs:dev
+```
+
+or
+```bash
+npm run docs:build
+```
+Accordingly.
+
