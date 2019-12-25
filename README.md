@@ -1,39 +1,13 @@
 # vuepress-themes
 
-## Project setup
-```
-yarn install
+> Best Vuepress themes for your Vuepress project
+
+## Development
+
+```bash
+yarn dev
+yarn build
 ```
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
+For more details, please head VuePress's [documentation](https://v1.vuepress.vuejs.org/).
 
-### Compiles and minifies for production
-```
-yarn run build
-```
-
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Run your end-to-end tests
-```
-yarn run test:e2e
-```
-
-### Run your unit tests
-```
-yarn run test:unit
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).

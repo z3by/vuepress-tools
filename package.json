@@ -1,51 +1,21 @@
 {
   "name": "vuepress-themes",
-  "version": "1.0.0",
-  "private": true,
+  "version": "0.0.1",
+  "description": "Best Vuepress themes for your Vuepress project",
+  "main": "index.js",
+  "authors": {
+    "name": "z3by",
+    "email": "zoaby.am@gmail.com"
+  },
+  "repository": "arab-open-source/vuepress-themes/vuepress-themes",
   "scripts": {
-    "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint",
-    "test:e2e": "vue-cli-service test:e2e",
-    "test:unit": "vue-cli-service test:unit"
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
   },
-  "dependencies": {
-    "bootstrap-vue": "^2.0.4",
-    "core-js": "^3.3.2",
-    "lodash": "^4.17.15",
-    "register-service-worker": "^1.6.2",
-    "vue": "^2.6.10",
-    "vue-gallery": "^2.0.1",
-    "vue-router": "^3.1.3",
-    "vue-themify-icons": "^1.0.0",
-    "vuex": "^3.0.1"
-  },
+  "license": "MIT",
   "devDependencies": {
-    "@babel/polyfill": "^7.6.0",
-    "@vue/cli-plugin-babel": "^4.0.0",
-    "@vue/cli-plugin-e2e-cypress": "^4.0.0",
-    "@vue/cli-plugin-eslint": "^4.0.0",
-    "@vue/cli-plugin-pwa": "^4.0.0",
-    "@vue/cli-plugin-router": "^4.0.0",
-    "@vue/cli-plugin-unit-jest": "^4.0.0",
-    "@vue/cli-plugin-vuex": "^4.0.0",
-    "@vue/cli-service": "^4.0.0",
-    "@vue/eslint-config-prettier": "^5.0.0",
-    "@vue/test-utils": "1.0.0-beta.29",
-    "babel-eslint": "^10.0.3",
-    "bootstrap": "^4.3.1",
-    "eslint": "^5.16.0",
-    "eslint-plugin-prettier": "^3.1.1",
-    "eslint-plugin-vue": "^5.0.0",
-    "mutationobserver-shim": "^0.3.3",
-    "node-sass": "^4.12.0",
-    "popper.js": "^1.15.0",
-    "portal-vue": "^2.1.4",
-    "prettier": "^1.18.2",
-    "sass-loader": "^7.1.0",
-    "stylus": "^0.54.7",
-    "stylus-loader": "^3.0.2",
-    "vue-cli-plugin-bootstrap-vue": "^0.5.0",
-    "vue-template-compiler": "^2.6.10"
+    "vuepress": "^1.0.0",
+    "@vuepress/plugin-back-to-top": "^1.0.0",
+    "@vuepress/plugin-medium-zoom": "^1.0.0"
   }
 }
