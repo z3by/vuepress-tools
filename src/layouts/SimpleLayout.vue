@@ -63,7 +63,7 @@ html {
 }
 
 .card-wrapper {
-  height: 15rem;
+  height: 20rem;
 }
 .card-overlay {
   background: linear-gradient(to top left, #aa82fb, #fc5c9a);
@@ -134,5 +134,15 @@ html {
 a.next,
 a.prev {
   color: gray;
+}
+.fill-height {
+  height: calc(100vh - 70px - 56px);
+}
+
+.bg-primary-gradient {
+  background: linear-gradient(to right, #aa82fb, #fc5c9a);
+}
+.text-primary {
+  color: #aa82fb !important;
 }
 </style>

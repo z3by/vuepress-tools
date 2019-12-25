@@ -1,6 +1,7 @@
 import Vue from "vue";
 import VueRouter from "vue-router";
 import Home from "../views/Home.vue";
+import ThemeDetails from "../views/ThemeDetails.vue";
 import FourOhFour from "../views/FourOhFour.vue";
 
 Vue.use(VueRouter);
@@ -13,26 +14,15 @@ const routes = [
   },
 
   {
-    path: "/all",
-    redirect: "/"
-  },
-
-  {
-    path: "/docs",
-    name: "documentation",
+    path: "/themes/:type",
+    name: "themes",
     component: Home
   },
 
   {
-    path: "/blog",
-    name: "blog",
-    component: Home
-  },
-
-  {
-    path: "/others",
-    name: "others",
-    component: Home
+    path: "/:type/:name",
+    name: "details",
+    component: ThemeDetails
   },
   {
     path: "*",

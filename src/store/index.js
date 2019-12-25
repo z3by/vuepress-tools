@@ -31,7 +31,10 @@ export default new Vuex.Store({
         );
       });
     },
-    setCurrentTheme(state, theme) {
+    setCurrentTheme(state, name) {
+      const theme = state.themes.find(theme => {
+        return theme.name === name;
+      });
       state.currentTheme = theme;
     }
   },

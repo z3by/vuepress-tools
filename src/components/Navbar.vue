@@ -1,8 +1,12 @@
 <template>
   <b-navbar toggleable="lg" type="light" variant="white" class="shadow-sm">
-    <b-navbar-brand href="/">
-      <img src="../assets/logo.png" alt="vuepress themes" width="40px" />
-      Vuepress Themes
+    <b-navbar-brand>
+      <router-link to="/" class="text-decoration-none">
+        <img src="../assets/logo.png" alt="vuepress themes" width="40px" />
+        <span class="text-primary">
+          Vuepress Themes
+        </span>
+      </router-link>
     </b-navbar-brand>
 
     <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
@@ -22,22 +26,6 @@
             <ThemifyIcon icon="plus" />
           </b-button>
         </b-nav-item>
-        <b-nav-form>
-          <b-form-input
-            size="sm"
-            class="mr-sm-2 rounded"
-            type="search"
-            v-model="query"
-            placeholder="Search"
-          ></b-form-input>
-          <b-button
-            class="my-2 my-sm-0 rounded-circle px-auto"
-            variant="outline-primary"
-            @click="search"
-          >
-            <ThemifyIcon icon="search" />
-          </b-button>
-        </b-nav-form>
       </b-navbar-nav>
     </b-collapse>
   </b-navbar>

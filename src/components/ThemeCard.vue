@@ -8,15 +8,17 @@
         <h3 class="text-white">
           {{ theme.name }}
         </h3>
-        <div class="card-action">
-          <b-button
+        <div
+          class="card-action"
+          @click="$store.commit('setCurrentTheme', theme.name)"
+        >
+          <router-link
             variant="outline-light"
-            class="rounded btn-sm px-3 mt-3 bg-transparent"
-            v-b-modal.theme-details
-            @click="$store.commit('setCurrentTheme', theme)"
+            class="rounded px-3 mt-3 btn btn-outline-light btn-sm"
+            :to="`/${theme.type}/${theme.name}`"
           >
             Show
-          </b-button>
+          </router-link>
         </div>
       </div>
       <div class="overlay-links w-100 p-3">
