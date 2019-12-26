@@ -5,7 +5,7 @@
         <div>
           <h1>Vuepress Themes</h1>
           <p>
-            Find The best Vuepress themes for your vuepress project
+            Find The best themes for your vuepress project
           </p>
         </div>
         <div>
