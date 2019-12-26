@@ -7,6 +7,7 @@
   >
     <Navbar
       v-if="shouldShowNavbar"
+      :showSidebarBtn="shouldShowSidebar"
       @toggle-sidebar="toggleSidebar"
     />
 
