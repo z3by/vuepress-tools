@@ -1,16 +1,16 @@
 {
-  "name": "vuepress-themes",
+  "name": "vuepress-tools",
   "version": "0.0.1",
-  "description": "Best Vuepress themes for your Vuepress project",
+  "description": "Best Vuepress tools for your Vuepress project",
   "main": "index.js",
   "authors": {
     "name": "Ahmad Mostafa",
     "email": "zoaby.am@gmail.com"
   },
-  "repository": "arab-open-source/vuepress-themes/vuepress-themes",
+  "repository": "arab-open-source/vuepress-tools/vuepress-tools",
   "scripts": {
-    "dev": "vuepress dev themes",
-    "build": "vuepress build themes"
+    "dev": "vuepress dev",
+    "build": "vuepress build"
   },
   "license": "MIT",
   "devDependencies": {

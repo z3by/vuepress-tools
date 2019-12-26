@@ -1,13 +1,15 @@
-# vuepress-themes
-
-> Best Vuepress themes for your Vuepress project
-
-## Development
-
-```bash
-yarn dev
-yarn build
-```
-
-For more details, please head VuePress's [documentation](https://v1.vuepress.vuejs.org/).
-
+---
+home: true
+heroImage: https://v1.vuepress.vuejs.org/hero.png
+tagline: Best Vuepress themes for your Vuepress project
+actionText: Quick Start →
+actionLink: /guide/
+features:
+- title: Feature 1 Title
+  details: Feature 1 Description
+- title: Feature 2 Title
+  details: Feature 2 Description
+- title: Feature 3 Title
+  details: Feature 3 Description
+footer: Made by z3by with ❤️
+---
