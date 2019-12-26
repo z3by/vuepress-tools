@@ -40,6 +40,8 @@ module.exports = {
     docsDir: '',
     editLinkText: '',
     lastUpdated: false,
+    author: 'Ahmad Mostafa',
+    domain: 'vuepress.tools',
     nav: [
       {
         text: 'Themes',
@@ -186,5 +188,19 @@ module.exports = {
         hostname: 'https://vuepress.tools'
       }
     ],
+    [
+      'seo', {
+        siteTitle: (_, $site) => $site.title,
+        title: $page => $page.frontmatter.full_name || $page.title,
+        description: $page => $page.frontmatter.description,
+        author: (_, $site) => $site.themeConfig.author,
+        twitterCard: _ => 'summary_large_image',
+        type: () => 'website',
+        url: (_, $site, path) => ($site.themeConfig.domain || '') + path,
+        image: ($page) => $page.frontmatter.owner.avatar_url || '',
+        publishedAt: $page => $page.frontmatter.created_at,
+        modifiedAt: $page => $page.frontmatter.updated_at,
+      }
+    ]
   ]
 }
