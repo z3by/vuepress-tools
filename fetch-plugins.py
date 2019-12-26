@@ -9,13 +9,13 @@ import yaml
 # using username and password
 g = Github(login_or_token=os.getenv('gh_access_token'))
 
-with open('themes.json') as data: 
-    themes = json.loads(data.read()) 
-    themes = [th for th in themes if th['name'].startswith('vuepress-theme-') and 'template' not in th['name'] and 'started' not in th['name'] and 'demo' not in th['name']]
+with open('plugins.json') as data: 
+    plugins = json.loads(data.read()) 
+    plugins = [th for th in plugins if th['name'].startswith('vuepress-plugin-')]
     
-    for theme in themes:
-        name = theme['name'].replace('vuepress-theme-', '') + '.md' 
-        repo = g.get_repo(full_name_or_id=theme.get('full_name')) 
+    for plugin in plugins:
+        name = plugin['name'].replace('vuepress-plugin-', '') + '.md' 
+        repo = g.get_repo(full_name_or_id=plugin.get('full_name')) 
 
         try:
             readme = repo.get_readme()
@@ -29,11 +29,11 @@ with open('themes.json') as data:
             for link in links:
                 content = content.replace(link, f'https://raw.githubusercontent.com/{repo.owner.name}/{repo.name}/{repo.default_branch}/{link[2:]}')
 
-            with open('./themes/themes/' + name, 'a+') as f: 
+            with open('./plugins/' + name, 'a+') as f: 
                 f.write('---\n') 
-                f.write(yaml.dump(theme)) 
+                f.write(yaml.dump(plugin)) 
                 f.write('---\n\n') 
-            with open('./themes/themes/' + name, 'a+') as f: 
+            with open('./plugins/' + name, 'a+') as f: 
                 f.write(content)
         except Exception:
             pass
