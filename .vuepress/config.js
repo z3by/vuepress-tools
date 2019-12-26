@@ -28,6 +28,7 @@ module.exports = {
    */
   themeConfig: {
     repo: '/arab-open-source/vuepress-tools',
+    logo: '/img/vuepress-tools-logo.png',
     editLinks: false,
     docsDir: '',
     editLinkText: '',
@@ -40,9 +41,12 @@ module.exports = {
     ],
     sidebar: {
       '/themes/': [
-        'eugeo',
-        'zjblog',
+        'medium',
+        'britecore',
         'vuetify',
+        'modern-blog',
+        'zjblog',
+        'eugeo',
         'gouv-fr',
         'xydocs',
         'easyBlog',
@@ -84,7 +88,6 @@ module.exports = {
         'ting',
         'blog',
         'egoist',
-        'modern-blog',
         'oneN',
         'whilife',
         'simple',
@@ -158,9 +161,7 @@ module.exports = {
         'monokai',
         'egg',
         'vuescroll',
-        'medium',
         'default-hot',
-        'britecore',
         'live-ebook',
         'meteorlxy-original.md'
       ]
@@ -171,7 +172,12 @@ module.exports = {
    * Apply plugins，ref：https://v1.vuepress.vuejs.org/zh/plugin/
    */
   plugins: [
-    '@vuepress/plugin-back-to-top',
-    '@vuepress/plugin-medium-zoom',
+    ['@vuepress/plugin-back-to-top'],
+    ['@vuepress/plugin-medium-zoom'],
+    [
+      'sitemap', {
+        hostname: 'https://vuepress.tools'
+      }
+    ],
   ]
 }

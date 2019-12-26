@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/z3by/vuepress-theme-modern-blog/pulls{/number}
 pushed_at: '2019-12-19T19:25:33Z'
 releases_url: https://api.github.com/repos/z3by/vuepress-theme-modern-blog/releases{/id}
-score: 27.38886
+score: 187.38886
 size: 442
 ssh_url: git@github.com:z3by/vuepress-theme-modern-blog.git
 stargazers_count: 3

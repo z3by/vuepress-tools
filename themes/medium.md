@@ -75,7 +75,7 @@ private: false
 pulls_url: https://api.github.com/repos/z3by/vuepress-theme-medium/pulls{/number}
 pushed_at: '2019-12-19T15:19:09Z'
 releases_url: https://api.github.com/repos/z3by/vuepress-theme-medium/releases{/id}
-score: 18.667854
+score: 80.667854
 size: 169
 ssh_url: git@github.com:z3by/vuepress-theme-medium.git
 stargazers_count: 0

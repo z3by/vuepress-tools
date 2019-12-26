@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /img/undraw_online_page_cq94.svg
+heroImage: /img/vuepress-tools-logo.png
 tagline: The Best Vuepress themes for your Vuepress project
 actionText: Discover Vuepress Tools →
 actionLink: /themes/

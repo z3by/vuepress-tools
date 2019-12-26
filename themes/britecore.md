@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/z3by/vuepress-theme-britecore/pulls{/number}
 pushed_at: '2019-12-09T13:10:05Z'
 releases_url: https://api.github.com/repos/z3by/vuepress-theme-britecore/releases{/id}
-score: 35.09581
+score: 120.09581
 size: 937
 ssh_url: git@github.com:z3by/vuepress-theme-britecore.git
 stargazers_count: 6

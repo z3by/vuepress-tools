@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/arab-open-source/vuepress-theme-vuetify/pulls{/number}
 pushed_at: '2019-12-21T00:13:52Z'
 releases_url: https://api.github.com/repos/arab-open-source/vuepress-theme-vuetify/releases{/id}
-score: 19.81633
+score: 98.81633
 size: 1357
 ssh_url: git@github.com:arab-open-source/vuepress-theme-vuetify.git
 stargazers_count: 0
