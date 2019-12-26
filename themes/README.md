@@ -1,1 +1,5 @@
-# Vuepress Themes
+---
+title: Vuepress Themes
+---
+
+<ThemesHomePage />
