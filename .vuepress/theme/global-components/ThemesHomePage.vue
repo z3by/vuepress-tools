@@ -10,7 +10,7 @@
         </div>
         <div>
           <img
-            src="/img/undraw_art_museum_8or4.svg"
+            :src="$withBase('/img/undraw_art_museum_8or4.svg')"
             alt="Vuepress themes"
             class="w-100"
           />
@@ -29,7 +29,6 @@ export default {
 <style lang="stylus" scoped>
 .themes-home {
   .card {
-    border: 1px solid $borderColor;
     padding: 1rem;
     text-align: center;
     margin: 5rem auto;
