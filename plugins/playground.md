@@ -229,18 +229,7 @@ Here is the result ——
 
 You can import code snippets via following syntax:
 
-```{1,2}
-<<< @/.vuepress/snippets/test.vue @demo {1,2}
-<<< @/.vuepress/snippets/test.vue @effect-only
-```
-
 (SEE [vuepress doc](https://vuepress.vuejs.org/guide/markdown.html#import-code-snippets))
-
-Result:
-
-<<< @/.vuepress/snippets/test.vue @demo {1,2}
-
-<<< @/.vuepress/snippets/test.vue @effect-only
 
 ## Customize Styles
 
