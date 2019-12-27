@@ -1,5 +1,5 @@
 ---
-title: Vuepress Themes
+title: Vuepress Plugins
 ---
 
-<ThemesHomePage />
+<PluginsHomePage />
