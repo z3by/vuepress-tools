@@ -1,13 +1,29 @@
 <template>
-  <div class="page-nav" v-if="prev || next">
+  <div
+    class="page-nav"
+    v-if="prev || next"
+  >
     <p class="inner">
-      <span v-if="prev" class="prev">
+      <span
+        v-if="prev"
+        class="prev"
+      >
         ←
-        <router-link v-if="prev" class="prev" :to="prev.path">{{ prev.title || prev.path }}</router-link>
+        <router-link
+          v-if="prev"
+          class="prev"
+          :to="prev.path"
+        >{{ prev.frontmatter.name || prev.title }}</router-link>
       </span>
 
-      <span v-if="next" class="next">
-        <router-link v-if="next" :to="next.path">{{ next.title || next.path }}</router-link>
+      <span
+        v-if="next"
+        class="next"
+      >
+        <router-link
+          v-if="next"
+          :to="next.path"
+        >{{ next.frontmatter.name || next.title }}</router-link>
         →
       </span>
     </p>
@@ -99,19 +115,23 @@ function flatten (items, res) {
 }
 </script>
 <style lang="stylus">
-@require '../styles/wrapper.styl'
+@require '../styles/wrapper.styl';
 
-.page-nav
-  @extend $wrapper
-  padding-top 1rem
-  padding-bottom 0
-  .inner
-    min-height 2rem
-    margin-top 0
-    border-top 1px solid $borderColor
-    padding-top 1rem
-    overflow auto // clear float
-  .next
-    float right
+.page-nav {
+  @extend $wrapper;
+  padding-top: 1rem;
+  padding-bottom: 0;
 
+  .inner {
+    min-height: 2rem;
+    margin-top: 0;
+    border-top: 1px solid $borderColor;
+    padding-top: 1rem;
+    overflow: auto; // clear float
+  }
+
+  .next {
+    float: right;
+  }
+}
 </style>

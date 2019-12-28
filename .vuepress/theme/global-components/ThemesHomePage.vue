@@ -1,5 +1,5 @@
 <template>
-  <main class="themes-home">
+  <main class="themes-home fade-in">
     <header>
       <div class="card">
         <div class="card-text">

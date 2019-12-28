@@ -1,6 +1,6 @@
 <template>
 
-  <main>
+  <main class="fade-in">
     <div
       class="home"
       aria-labelledby="main-title"

@@ -44,6 +44,11 @@ module.exports = {
     domain: 'vuepress.tools',
     nav: [
       {
+        text: 'Home',
+        link: '/',
+        icon: 'home'
+      },
+      {
         text: 'Themes',
         link: '/themes/',
         icon: 'palette'
