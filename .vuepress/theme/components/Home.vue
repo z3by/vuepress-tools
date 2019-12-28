@@ -7,11 +7,16 @@
     >
       <div class="bg-gradient"></div>
       <header class="hero">
-        <img
-          v-if="data.heroImage"
-          :src="$withBase(data.heroImage)"
-          :alt="data.heroAlt || 'hero'"
+        <div
+          align="center"
+          class="img-container"
         >
+          <img
+            v-if="data.heroImage"
+            :src="$withBase(data.heroImage)"
+            :alt="data.heroAlt || 'hero'"
+          >
+        </div>
 
         <div>
           <h1
@@ -121,18 +126,29 @@ export default {
 
   .hero {
     display: flex;
-    margin: 3rem auto;
+    flex-direction: row;
+    margin: 0 auto;
+    margin-top: 5rem;
     box-shadow: 10px 5px 20px rgba(0, 0, 0, 0.1);
     background-color: white;
-    padding: 2rem;
+    padding: 1.5rem;
     position: relative;
     z-index: 2;
+    max-width: 45rem;
 
-    img {
-      max-width: 100%;
-      max-height: 280px;
-      display: block;
-      margin: 3rem auto 1.5rem;
+    @media (max-width: ($MQNarrow + 1px)) {
+      flex-direction: column;
+      text-align: center;
+    }
+
+    .img-container {
+      padding: 1rem;
+
+      img {
+        max-width: 100%;
+        max-height: 12rem;
+        display: block;
+      }
     }
 
     h1 {
@@ -140,14 +156,13 @@ export default {
     }
 
     h1, .description, .action {
-      margin: 1rem auto;
+      margin: 1rem;
     }
 
     .description {
-      max-width: 35rem;
       font-size: 1.2rem;
       line-height: 1.3;
-      color: lighten($textColor, 40%);
+      color: lighten($textColor, 50%);
     }
   }
 
@@ -229,12 +244,10 @@ export default {
   transform: perspective(1000px);
   transform-style: preserve-3d;
   position: relative;
-  float: left;
-  margin: 20px;
 }
 
 .square-flip {
-  width: 400px;
+  width: 100%;
   height: 300px;
 }
 
@@ -372,13 +385,18 @@ export default {
 
 /* You can delete this style */
 .centerflipcards {
-  display: flex;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 3rem;
   width: 100%;
-  height: 440px;
   text-align: center;
-  margin: 0 auto;
-  margin-top: 25px;
-  justify-content: space-between;
+  margin: 6rem auto;
+  position: relative;
+  z-index: 12;
+
+  @media (max-width: ($MQNarrow + 1px)) {
+    grid-template-columns: 1fr;
+  }
 }
 
 .clearfix {
