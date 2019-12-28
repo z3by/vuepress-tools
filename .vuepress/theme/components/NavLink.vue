@@ -5,7 +5,12 @@
     @focusout.native="focusoutAction"
     v-if="!isExternal(link)"
     :exact="exact"
-  >{{ item.text }}</router-link>
+  >
+    <ThemifyIcon :icon="item.icon" />
+    <span>
+      {{ item.text }}
+    </span>
+  </router-link>
   <a
     v-else
     :href="link"
@@ -15,18 +20,23 @@
     :rel="isMailto(link) || isTel(link) ? null : 'noopener noreferrer'"
   >
     {{ item.text }}
-    <OutboundLink/>
+    <OutboundLink />
   </a>
 </template>
 
 <script>
 import { isExternal, isMailto, isTel, ensureExt } from '../util'
+import ThemifyIcon from 'vue-themify-icons'
 
 export default {
   props: {
     item: {
       required: true
     }
+  },
+
+  components: {
+    ThemifyIcon
   },
 
   computed: {

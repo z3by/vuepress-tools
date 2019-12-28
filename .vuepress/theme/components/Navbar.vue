@@ -123,12 +123,12 @@ $navbar-horizontal-padding = 1.5rem;
     font-size: 0.9rem;
     position: absolute;
     right: $navbar-horizontal-padding;
-    top: $navbar-vertical-padding;
+    top: 0;
     display: flex;
 
     .search-box {
       flex: 0 0 auto;
-      vertical-align: top;
+      margin-top: $navbar-vertical-padding;
     }
   }
 }

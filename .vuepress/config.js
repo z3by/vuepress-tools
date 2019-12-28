@@ -46,10 +46,12 @@ module.exports = {
       {
         text: 'Themes',
         link: '/themes/',
+        icon: 'palette'
       },
       {
         text: 'Plugins',
         link: '/plugins/',
+        icon: 'plug'
       }
     ],
     sidebar: {

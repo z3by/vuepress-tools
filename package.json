@@ -28,5 +28,8 @@
     "vuepress-plugin-seo": "^0.1.2",
     "vuepress-plugin-sitemap": "^2.3.1",
     "vuepress-plugin-smooth-scroll": "^0.0.3"
+  },
+  "dependencies": {
+    "vue-themify-icons": "^1.0.0"
   }
 }

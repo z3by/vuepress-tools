@@ -2,13 +2,13 @@
   <main class="themes-home">
     <header>
       <div class="card">
-        <div>
+        <div class="card-text">
           <h1>Vuepress Themes</h1>
           <p>
             Find The best themes for your vuepress project
           </p>
         </div>
-        <div>
+        <div class="card-img-wrapper">
           <img
             :src="$withBase('/img/undraw_art_museum_8or4.svg')"
             alt="Vuepress themes"
@@ -29,12 +29,39 @@ export default {
 <style lang="stylus" scoped>
 .themes-home {
   .card {
-    padding: 1rem;
+    padding: 3rem;
     text-align: center;
     margin: 5rem auto;
+    background: linear-gradient(to bottom right, $lightColor, lighten($lightColor, 50%));
+    border-radius: 100%;
+    height: 30rem;
+    width: 30rem;
 
-    p {
-      color: $textLight;
+    @media (max-width: ($MQNarrow + 1px)) {
+      height: 20rem;
+      width: 20rem;
+    }
+
+    .card-img-wrapper img {
+      margin: 2rem;
+      width: 30rem;
+
+      @media (max-width: ($MQNarrow + 1px)) {
+        margin: 0;
+      }
+    }
+
+    .card-text {
+      margin: 3rem auto;
+
+      h1 {
+        margin: 0.5rem;
+        font-size: 2rem;
+      }
+
+      p {
+        color: lighten($textColor, 40%);
+      }
     }
   }
 }

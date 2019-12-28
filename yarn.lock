@@ -6914,6 +6914,13 @@ vue-template-es2015-compiler@^1.9.0:
   resolved "https://registry.yarnpkg.com/vue-template-es2015-compiler/-/vue-template-es2015-compiler-1.9.1.tgz#1ee3bc9a16ecbf5118be334bb15f9c46f82f5825"
   integrity sha512-4gDntzrifFnCEvyoO8PqyJDmguXgVPxKiIxrBKjIowvL9l+N66196+72XVYR8BBf1Uv1Fgt3bGevJ+sEmxfZzw==
 
+vue-themify-icons@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/vue-themify-icons/-/vue-themify-icons-1.0.0.tgz#18d0fcc69755cf3c82aa2a14946a2e4722ea57ee"
+  integrity sha512-xLrlkQa4216hfwJ5nGoVGDQSvhcuHv42cgliJbwkgNy8qdzUVJERixzsVNNlBUmO/OmHgEvVF1lkNlOUI5v9sA==
+  dependencies:
+    vuepress "^1.2.0"
+
 vue@^2.6.10:
   version "2.6.11"
   resolved "https://registry.yarnpkg.com/vue/-/vue-2.6.11.tgz#76594d877d4b12234406e84e35275c6d514125c5"

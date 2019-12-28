@@ -28,7 +28,7 @@
       rel="noopener noreferrer"
     >
       {{ repoLabel }}
-      <OutboundLink/>
+      <OutboundLink />
     </a>
   </nav>
 </template>
@@ -118,34 +118,63 @@ export default {
 </script>
 
 <style lang="stylus">
-.nav-links
-  display inline-block
-  a
-    line-height 1.4rem
-    color inherit
-    &:hover, &.router-link-active
-      color $accentColor
-  .nav-item
-    position relative
-    display inline-block
-    margin-left 1.5rem
-    line-height 2rem
-    &:first-child
-      margin-left 0
-  .repo-link
-    margin-left 1.5rem
+.nav-links {
+  display: inline-block;
 
-@media (max-width: $MQNarrow)
-  .nav-links
-    .nav-item, .repo-link
-      margin-left 0
+  a {
+    line-height: $navbarHeight;
+    color: inherit;
+    padding: 0 0.5rem;
+    margin: 0 0.1rem;
 
-@media (min-width: $MQNarrow)
-  .nav-links a
-    &:hover, &.router-link-active
-      color $textColor
-  .nav-item > a:not(.external)
-    &:hover, &.router-link-active
-      margin-bottom -2px
-      border-bottom 2px solid lighten($accentColor, 8%)
+    i {
+      font-size: 1.2rem;
+      margin: 0.3rem;
+      position: relative;
+      top: 0.2rem;
+    }
+
+    &:hover, &.router-link-active {
+      color: $accentColor;
+
+      i {
+        color: $accentColor;
+      }
+    }
+  }
+
+  .nav-item {
+    position: relative;
+    display: inline-block;
+    line-height: $navbarHeight;
+    font-size: 1rem;
+
+    &:first-child {
+      margin-left: 0;
+    }
+  }
+}
+
+@media (max-width: $MQNarrow) {
+  .nav-links {
+    .nav-item, .repo-link {
+      margin-left: 0;
+    }
+  }
+}
+
+@media (min-width: $MQNarrow) {
+  .nav-links a {
+    &:hover, &.router-link-active {
+      color: $textColor;
+    }
+  }
+
+  .nav-item > a:not(.external) {
+    &:hover, &.router-link-active {
+      margin-bottom: -2px;
+      border-bottom: 2px solid lighten($accentColor, 8%);
+    }
+  }
+}
 </style>
