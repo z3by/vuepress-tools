@@ -75,7 +75,7 @@ private: false
 pulls_url: https://api.github.com/repos/Robjam/vuepress-plugin-application-insights/pulls{/number}
 pushed_at: '2019-08-09T04:37:02Z'
 releases_url: https://api.github.com/repos/Robjam/vuepress-plugin-application-insights/releases{/id}
-score: 25.944948
+score: 25.915628
 size: 5
 ssh_url: git@github.com:Robjam/vuepress-plugin-application-insights.git
 stargazers_count: 3

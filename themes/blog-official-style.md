@@ -79,10 +79,10 @@ owner:
   url: https://api.github.com/users/eliot-ye
 private: false
 pulls_url: https://api.github.com/repos/eliot-ye/vuepress-theme-blog-official-style/pulls{/number}
-pushed_at: '2019-12-21T09:36:30Z'
+pushed_at: '2020-01-05T06:58:13Z'
 releases_url: https://api.github.com/repos/eliot-ye/vuepress-theme-blog-official-style/releases{/id}
-score: 17.588047
-size: 54
+score: 17.571384
+size: 55
 ssh_url: git@github.com:eliot-ye/vuepress-theme-blog-official-style.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/eliot-ye/vuepress-theme-blog-official-style/stargazers
@@ -93,7 +93,7 @@ svn_url: https://github.com/eliot-ye/vuepress-theme-blog-official-style
 tags_url: https://api.github.com/repos/eliot-ye/vuepress-theme-blog-official-style/tags
 teams_url: https://api.github.com/repos/eliot-ye/vuepress-theme-blog-official-style/teams
 trees_url: https://api.github.com/repos/eliot-ye/vuepress-theme-blog-official-style/git/trees{/sha}
-updated_at: '2019-12-21T09:36:32Z'
+updated_at: '2020-01-05T06:58:15Z'
 url: https://api.github.com/repos/eliot-ye/vuepress-theme-blog-official-style
 watchers: 0
 watchers_count: 0

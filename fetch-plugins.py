@@ -20,8 +20,6 @@ with open('plugins.json') as data:
         try:
             readme = repo.get_readme()
             content = base64.b64decode(readme.content).decode('utf-8')
-            if (len(content) < 200):
-                raise Exception('no enough readme')
             links = [link[2:-1] for link in re.findall(r'\]\(\..*?\)', content) if link]
             for link in links:
                 content = content.replace(link, f'https://raw.githubusercontent.com/{repo.owner.name}/{repo.name}/{repo.default_branch}/{link[2:]}')

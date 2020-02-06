@@ -75,7 +75,7 @@ private: false
 pulls_url: https://api.github.com/repos/YvesCoding/vuepress-theme-vuescroll/pulls{/number}
 pushed_at: '2019-06-28T03:55:22Z'
 releases_url: https://api.github.com/repos/YvesCoding/vuepress-theme-vuescroll/releases{/id}
-score: 18.342571
+score: 18.235474
 size: 204
 ssh_url: git@github.com:YvesCoding/vuepress-theme-vuescroll.git
 stargazers_count: 1

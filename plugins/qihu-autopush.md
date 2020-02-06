@@ -81,7 +81,7 @@ private: false
 pulls_url: https://api.github.com/repos/IOriens/vuepress-plugin-qihu-autopush/pulls{/number}
 pushed_at: '2019-09-09T15:20:28Z'
 releases_url: https://api.github.com/repos/IOriens/vuepress-plugin-qihu-autopush/releases{/id}
-score: 17.519411
+score: 17.50342
 size: 2
 ssh_url: git@github.com:IOriens/vuepress-plugin-qihu-autopush.git
 stargazers_count: 0

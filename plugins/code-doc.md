@@ -75,7 +75,7 @@ private: false
 pulls_url: https://api.github.com/repos/jardenliu/vuepress-plugin-code-doc/pulls{/number}
 pushed_at: '2019-08-05T03:13:12Z'
 releases_url: https://api.github.com/repos/jardenliu/vuepress-plugin-code-doc/releases{/id}
-score: 17.717024
+score: 17.680351
 size: 341
 ssh_url: git@github.com:jardenliu/vuepress-plugin-code-doc.git
 stargazers_count: 1

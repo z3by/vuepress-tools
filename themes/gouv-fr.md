@@ -41,7 +41,7 @@ issue_events_url: https://api.github.com/repos/etalab/vuepress-theme-gouv-fr/iss
 issues_url: https://api.github.com/repos/etalab/vuepress-theme-gouv-fr/issues{/number}
 keys_url: https://api.github.com/repos/etalab/vuepress-theme-gouv-fr/keys{/key_id}
 labels_url: https://api.github.com/repos/etalab/vuepress-theme-gouv-fr/labels{/name}
-language: CSS
+language: Vue
 languages_url: https://api.github.com/repos/etalab/vuepress-theme-gouv-fr/languages
 license:
   key: mit
@@ -55,8 +55,8 @@ mirror_url: null
 name: vuepress-theme-gouv-fr
 node_id: MDEwOlJlcG9zaXRvcnkxOTAzNzMyMjE=
 notifications_url: https://api.github.com/repos/etalab/vuepress-theme-gouv-fr/notifications{?since,all,participating}
-open_issues: 4
-open_issues_count: 4
+open_issues: 3
+open_issues_count: 3
 owner:
   avatar_url: https://avatars1.githubusercontent.com/u/5313610?v=4
   events_url: https://api.github.com/users/etalab/events{/privacy}
@@ -78,12 +78,12 @@ owner:
   url: https://api.github.com/users/etalab
 private: false
 pulls_url: https://api.github.com/repos/etalab/vuepress-theme-gouv-fr/pulls{/number}
-pushed_at: '2019-12-24T15:32:22Z'
+pushed_at: '2020-01-31T10:38:53Z'
 releases_url: https://api.github.com/repos/etalab/vuepress-theme-gouv-fr/releases{/id}
-score: 18.34294
-size: 607
+score: 23.780142
+size: 527
 ssh_url: git@github.com:etalab/vuepress-theme-gouv-fr.git
-stargazers_count: 1
+stargazers_count: 2
 stargazers_url: https://api.github.com/repos/etalab/vuepress-theme-gouv-fr/stargazers
 statuses_url: https://api.github.com/repos/etalab/vuepress-theme-gouv-fr/statuses/{sha}
 subscribers_url: https://api.github.com/repos/etalab/vuepress-theme-gouv-fr/subscribers
@@ -92,10 +92,10 @@ svn_url: https://github.com/etalab/vuepress-theme-gouv-fr
 tags_url: https://api.github.com/repos/etalab/vuepress-theme-gouv-fr/tags
 teams_url: https://api.github.com/repos/etalab/vuepress-theme-gouv-fr/teams
 trees_url: https://api.github.com/repos/etalab/vuepress-theme-gouv-fr/git/trees{/sha}
-updated_at: '2019-10-25T13:47:39Z'
+updated_at: '2020-01-31T10:38:38Z'
 url: https://api.github.com/repos/etalab/vuepress-theme-gouv-fr
-watchers: 1
-watchers_count: 1
+watchers: 2
+watchers_count: 2
 ---
 
 [![npm](https://img.shields.io/npm/v/vuepress-theme-gouv-fr.svg?style=flat-square)](https://npmjs.org/package/vuepress-theme-gouv-fr "View this project on npm")
@@ -130,7 +130,21 @@ module.exports = {
 Pour plus de détails, reportez-vous à [la documentation de VuePress](https://vuepress.vuejs.org/theme/using-a-theme.html).
 
 ## Configuration
-Le thème ne dispose pas d'éléments de configuration.
+
+### Titres de sections
+Lorsque votre documentation comporte plusieurs dossiers, il est possible de faire apparaitre un titre de section lorsque vous vous trouvez dans un dossier.
+
+Dans votre fichier de configuration VuePress (probablement `.vuepress/config.js`), ajoutez ceci :
+```javascript
+module.exports = {
+  themeConfig: {
+    sidebarTitles: {
+        '/qualite/': "Préparer les données",
+        '/juridique/': "Identifier les données à ouvrir",
+    }
+  }
+}
+```
 
 ## Composants
 Les composants suivants sont disponibles. Ils sont tous indépendants les uns des autres et leur utilisation est optionnelle.

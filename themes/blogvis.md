@@ -76,7 +76,7 @@ private: false
 pulls_url: https://api.github.com/repos/csyunyou/vuepress-theme-blogvis/pulls{/number}
 pushed_at: '2018-05-09T13:05:35Z'
 releases_url: https://api.github.com/repos/csyunyou/vuepress-theme-blogvis/releases{/id}
-score: 18.342571
+score: 18.235474
 size: 30861
 ssh_url: git@github.com:csyunyou/vuepress-theme-blogvis.git
 stargazers_count: 0

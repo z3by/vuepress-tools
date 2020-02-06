@@ -80,10 +80,10 @@ private: false
 pulls_url: https://api.github.com/repos/znicholasbrown/vuepress-plugin-code-copy/pulls{/number}
 pushed_at: '2019-11-13T06:23:04Z'
 releases_url: https://api.github.com/repos/znicholasbrown/vuepress-plugin-code-copy/releases{/id}
-score: 38.139122
+score: 39.761547
 size: 33
 ssh_url: git@github.com:znicholasbrown/vuepress-plugin-code-copy.git
-stargazers_count: 15
+stargazers_count: 19
 stargazers_url: https://api.github.com/repos/znicholasbrown/vuepress-plugin-code-copy/stargazers
 statuses_url: https://api.github.com/repos/znicholasbrown/vuepress-plugin-code-copy/statuses/{sha}
 subscribers_url: https://api.github.com/repos/znicholasbrown/vuepress-plugin-code-copy/subscribers
@@ -92,10 +92,10 @@ svn_url: https://github.com/znicholasbrown/vuepress-plugin-code-copy
 tags_url: https://api.github.com/repos/znicholasbrown/vuepress-plugin-code-copy/tags
 teams_url: https://api.github.com/repos/znicholasbrown/vuepress-plugin-code-copy/teams
 trees_url: https://api.github.com/repos/znicholasbrown/vuepress-plugin-code-copy/git/trees{/sha}
-updated_at: '2019-12-18T16:05:15Z'
+updated_at: '2020-01-12T19:21:01Z'
 url: https://api.github.com/repos/znicholasbrown/vuepress-plugin-code-copy
-watchers: 15
-watchers_count: 15
+watchers: 19
+watchers_count: 19
 ---
 
 # Vuepress Code Copy Plugin

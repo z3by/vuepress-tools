@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/lvqq/vuepress-plugin-rocket/pulls{/number}
 pushed_at: '2019-09-26T17:56:02Z'
 releases_url: https://api.github.com/repos/lvqq/vuepress-plugin-rocket/releases{/id}
-score: 22.851988
+score: 22.826162
 size: 8
 ssh_url: git@github.com:lvqq/vuepress-plugin-rocket.git
 stargazers_count: 2

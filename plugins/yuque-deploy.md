@@ -75,7 +75,7 @@ private: false
 pulls_url: https://api.github.com/repos/atian25/vuepress-plugin-yuque-deploy/pulls{/number}
 pushed_at: '2019-06-17T01:46:54Z'
 releases_url: https://api.github.com/repos/atian25/vuepress-plugin-yuque-deploy/releases{/id}
-score: 28.06689
+score: 28.041517
 size: 36
 ssh_url: git@github.com:atian25/vuepress-plugin-yuque-deploy.git
 stargazers_count: 4

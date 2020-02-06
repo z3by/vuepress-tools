@@ -75,7 +75,7 @@ private: false
 pulls_url: https://api.github.com/repos/AngusFu/vuepress-plugin-playground/pulls{/number}
 pushed_at: '2019-09-10T02:46:13Z'
 releases_url: https://api.github.com/repos/AngusFu/vuepress-plugin-playground/releases{/id}
-score: 17.568651
+score: 17.55212
 size: 718
 ssh_url: git@github.com:AngusFu/vuepress-plugin-playground.git
 stargazers_count: 1
@@ -229,7 +229,18 @@ Here is the result ——
 
 You can import code snippets via following syntax:
 
+```{1,2}
+<<< @/.vuepress/snippets/test.vue @demo {1,2}
+<<< @/.vuepress/snippets/test.vue @effect-only
+```
+
 (SEE [vuepress doc](https://vuepress.vuejs.org/guide/markdown.html#import-code-snippets))
+
+Result:
+
+<<< @/.vuepress/snippets/test.vue @demo {1,2}
+
+<<< @/.vuepress/snippets/test.vue @effect-only
 
 ## Customize Styles
 

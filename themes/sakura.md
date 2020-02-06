@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/CyanH/vuepress-theme-sakura/pulls{/number}
 pushed_at: '2019-10-08T10:25:29Z'
 releases_url: https://api.github.com/repos/CyanH/vuepress-theme-sakura/releases{/id}
-score: 18.410517
+score: 18.346085
 size: 1237
 ssh_url: git@github.com:CyanH/vuepress-theme-sakura.git
 stargazers_count: 1

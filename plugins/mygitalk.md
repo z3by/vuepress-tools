@@ -80,10 +80,10 @@ private: false
 pulls_url: https://api.github.com/repos/JoeyBling/vuepress-plugin-mygitalk/pulls{/number}
 pushed_at: '2019-11-08T05:54:05Z'
 releases_url: https://api.github.com/repos/JoeyBling/vuepress-plugin-mygitalk/releases{/id}
-score: 23.200539
+score: 26.08955
 size: 519
 ssh_url: git@github.com:JoeyBling/vuepress-plugin-mygitalk.git
-stargazers_count: 2
+stargazers_count: 3
 stargazers_url: https://api.github.com/repos/JoeyBling/vuepress-plugin-mygitalk/stargazers
 statuses_url: https://api.github.com/repos/JoeyBling/vuepress-plugin-mygitalk/statuses/{sha}
 subscribers_url: https://api.github.com/repos/JoeyBling/vuepress-plugin-mygitalk/subscribers
@@ -92,10 +92,10 @@ svn_url: https://github.com/JoeyBling/vuepress-plugin-mygitalk
 tags_url: https://api.github.com/repos/JoeyBling/vuepress-plugin-mygitalk/tags
 teams_url: https://api.github.com/repos/JoeyBling/vuepress-plugin-mygitalk/teams
 trees_url: https://api.github.com/repos/JoeyBling/vuepress-plugin-mygitalk/git/trees{/sha}
-updated_at: '2019-11-08T05:54:07Z'
+updated_at: '2020-01-31T17:10:31Z'
 url: https://api.github.com/repos/JoeyBling/vuepress-plugin-mygitalk
-watchers: 2
-watchers_count: 2
+watchers: 3
+watchers_count: 3
 ---
 
 # vuepress-plugin-mygitalk

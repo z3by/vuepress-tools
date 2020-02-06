@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez/downloads
 events_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez/events
 fork: false
-forks: 25
-forks_count: 25
+forks: 29
+forks_count: 29
 forks_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez/forks
 full_name: ktquez/vuepress-theme-ktquez
 git_commits_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez/git/commits{/sha}
@@ -80,10 +80,10 @@ private: false
 pulls_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez/pulls{/number}
 pushed_at: '2019-05-14T13:30:56Z'
 releases_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez/releases{/id}
-score: 121.52944
+score: 124.381454
 size: 1148
 ssh_url: git@github.com:ktquez/vuepress-theme-ktquez.git
-stargazers_count: 254
+stargazers_count: 269
 stargazers_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez/stargazers
 statuses_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez/statuses/{sha}
 subscribers_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez/subscribers
@@ -92,10 +92,10 @@ svn_url: https://github.com/ktquez/vuepress-theme-ktquez
 tags_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez/tags
 teams_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez/teams
 trees_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez/git/trees{/sha}
-updated_at: '2019-12-24T08:43:37Z'
+updated_at: '2020-02-05T10:26:41Z'
 url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez
-watchers: 254
-watchers_count: 254
+watchers: 269
+watchers_count: 269
 ---
 
 # vuepress-theme-ktquez
@@ -112,33 +112,18 @@ https://github.com/ktquez/vuepress-theme-ktquez-starter
 ---
 
 ## Table of Contents
-- [vuepress-theme-ktquez](#vuepress-theme-ktquez)
-  - [Vuepress theme ktquez starter](#vuepress-theme-ktquez-starter)
-  - [Table of Contents](#table-of-contents)
-  - [Installation](#installation)
-  - [Configuration](#configuration)
-    - [themeConfig](#themeconfig)
-  - [Translations of the theme](#translations-of-the-theme)
-  - [Newsletter](#newsletter)
-  - [Responsive post cover](#responsive-post-cover)
-- [Structure directores (Suggestion)](#structure-directores-suggestion)
+- [Installation](#installation)
+- [Configuration](#configuration)
+- [Translations](#translations-of-the-theme)
+- [Newsletter](#newsletter)
+- [Responsive images](#responsive-post-cover)
+- [Structure](#structure-directores-suggestion)
 - [Frontmatter](#frontmatter)
-  - [Home](#home)
-  - [Post](#post)
-  - [Category](#category)
-  - [Author](#author)
-  - [Page](#page)
-- [Override CSS (Stylus)](#override-css-stylus)
-- [The best pratice of accessibility includes](#the-best-pratice-of-accessibility-includes)
-- [Lazy-load](#lazy-load)
+- [Override CSS](#override-css-stylus)
+- [Accessibility](#the-best-pratice-of-accessibility-includes)
+- [Lazy-Load](#lazy-load)
 - [And more](#and-more)
-  - [Anaytics campaign in posts](#anaytics-campaign-in-posts)
-  - [Fonts](#fonts)
-  - [Assets](#assets)
-  - [Ads](#ads)
-  - [Tools](#tools)
-  - [License](#license)
-  - [Contributing](#contributing)
+- [Tools](#tools)
 
 
 ## Installation
@@ -526,7 +511,7 @@ In addition to good practices such as:
 
 # Lazy-load
 
-It is possible to delay media loading using the global component `<lazy-load>.`
+It is possible to delay media loading using the global component <lazy-load>.
 
 In any markdown files you can to use this component, for example load a Youtube video
 

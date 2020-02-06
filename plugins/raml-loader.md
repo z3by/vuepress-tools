@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/sullivanpt/vuepress-plugin-raml-loader/pulls{/number}
 pushed_at: '2019-12-10T22:06:52Z'
 releases_url: https://api.github.com/repos/sullivanpt/vuepress-plugin-raml-loader/releases{/id}
-score: 17.575638
+score: 17.51441
 size: 144
 ssh_url: git@github.com:sullivanpt/vuepress-plugin-raml-loader.git
 stargazers_count: 0

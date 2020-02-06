@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/9240/vuepress-theme-similar-yilia/pulls{/number}
 pushed_at: '2019-11-07T10:44:17Z'
 releases_url: https://api.github.com/repos/9240/vuepress-theme-similar-yilia/releases{/id}
-score: 18.340733
+score: 18.275793
 size: 90
 ssh_url: git@github.com:9240/vuepress-theme-similar-yilia.git
 stargazers_count: 0

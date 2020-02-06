@@ -51,8 +51,8 @@ mirror_url: null
 name: vuepress-plugin-robots
 node_id: MDEwOlJlcG9zaXRvcnkxOTc4OTg3NjQ=
 notifications_url: https://api.github.com/repos/HiYue/vuepress-plugin-robots/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
+open_issues: 1
+open_issues_count: 1
 owner:
   avatar_url: https://avatars1.githubusercontent.com/u/48642166?v=4
   events_url: https://api.github.com/users/HiYue/events{/privacy}
@@ -76,7 +76,7 @@ private: false
 pulls_url: https://api.github.com/repos/HiYue/vuepress-plugin-robots/pulls{/number}
 pushed_at: '2019-07-20T10:56:53Z'
 releases_url: https://api.github.com/repos/HiYue/vuepress-plugin-robots/releases{/id}
-score: 29.78536
+score: 29.691076
 size: 6
 ssh_url: git@github.com:HiYue/vuepress-plugin-robots.git
 stargazers_count: 5

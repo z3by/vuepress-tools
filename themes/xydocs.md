@@ -75,7 +75,7 @@ private: false
 pulls_url: https://api.github.com/repos/xiyun-international/vuepress-theme-xydocs/pulls{/number}
 pushed_at: '2019-05-08T06:09:42Z'
 releases_url: https://api.github.com/repos/xiyun-international/vuepress-theme-xydocs/releases{/id}
-score: 18.402506
+score: 18.370382
 size: 127
 ssh_url: git@github.com:xiyun-international/vuepress-theme-xydocs.git
 stargazers_count: 0

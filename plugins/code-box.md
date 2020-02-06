@@ -75,7 +75,7 @@ private: false
 pulls_url: https://api.github.com/repos/xxholly32/vuepress-plugin-code-box/pulls{/number}
 pushed_at: '2019-09-13T13:53:12Z'
 releases_url: https://api.github.com/repos/xxholly32/vuepress-plugin-code-box/releases{/id}
-score: 17.495766
+score: 17.466246
 size: 632
 ssh_url: git@github.com:xxholly32/vuepress-plugin-code-box.git
 stargazers_count: 0

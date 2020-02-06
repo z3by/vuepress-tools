@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/bestony/vuepress-plugin-cleanmylink/pulls{/number}
 pushed_at: '2019-12-08T05:48:05Z'
 releases_url: https://api.github.com/repos/bestony/vuepress-plugin-cleanmylink/releases{/id}
-score: 17.600586
+score: 17.595814
 size: 70
 ssh_url: git@github.com:bestony/vuepress-plugin-cleanmylink.git
 stargazers_count: 1

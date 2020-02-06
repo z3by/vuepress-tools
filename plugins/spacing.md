@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/Shigma/vuepress-plugin-spacing/pulls{/number}
 pushed_at: '2019-07-02T13:17:21Z'
 releases_url: https://api.github.com/repos/Shigma/vuepress-plugin-spacing/releases{/id}
-score: 17.575638
+score: 17.51441
 size: 7
 ssh_url: git@github.com:Shigma/vuepress-plugin-spacing.git
 stargazers_count: 1

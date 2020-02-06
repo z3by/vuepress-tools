@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/hermann8u/vuepress-theme-modern-portfolio/pulls{/number}
 pushed_at: '2018-08-30T18:28:13Z'
 releases_url: https://api.github.com/repos/hermann8u/vuepress-theme-modern-portfolio/releases{/id}
-score: 18.40251
+score: 18.37037
 size: 23
 ssh_url: git@github.com:hermann8u/vuepress-theme-modern-portfolio.git
 stargazers_count: 0

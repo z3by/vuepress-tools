@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/leCapsimRy/vuepress-theme-cycle/pulls{/number}
 pushed_at: '2019-09-11T08:57:09Z'
 releases_url: https://api.github.com/repos/leCapsimRy/vuepress-theme-cycle/releases{/id}
-score: 43.038025
+score: 42.787914
 size: 7143
 ssh_url: git@github.com:leCapsimRy/vuepress-theme-cycle.git
 stargazers_count: 3

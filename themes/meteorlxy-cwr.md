@@ -81,7 +81,7 @@ private: false
 pulls_url: https://api.github.com/repos/zpcwr/vuepress-theme-meteorlxy-cwr/pulls{/number}
 pushed_at: '2019-04-13T08:34:42Z'
 releases_url: https://api.github.com/repos/zpcwr/vuepress-theme-meteorlxy-cwr/releases{/id}
-score: 18.342571
+score: 18.235474
 size: 3732
 ssh_url: git@github.com:zpcwr/vuepress-theme-meteorlxy-cwr.git
 stargazers_count: 0

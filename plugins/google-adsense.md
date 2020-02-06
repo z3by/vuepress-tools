@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/YunYouJun/vuepress-plugin-google-adsense/pulls{/number}
 pushed_at: '2019-12-18T14:20:46Z'
 releases_url: https://api.github.com/repos/YunYouJun/vuepress-plugin-google-adsense/releases{/id}
-score: 22.866253
+score: 22.786762
 size: 27
 ssh_url: git@github.com:YunYouJun/vuepress-plugin-google-adsense.git
 stargazers_count: 2

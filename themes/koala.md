@@ -80,10 +80,10 @@ private: false
 pulls_url: https://api.github.com/repos/artiely/vuepress-theme-koala/pulls{/number}
 pushed_at: '2019-03-28T02:17:33Z'
 releases_url: https://api.github.com/repos/artiely/vuepress-theme-koala/releases{/id}
-score: 25.979334
+score: 29.417812
 size: 134
 ssh_url: git@github.com:artiely/vuepress-theme-koala.git
-stargazers_count: 2
+stargazers_count: 3
 stargazers_url: https://api.github.com/repos/artiely/vuepress-theme-koala/stargazers
 statuses_url: https://api.github.com/repos/artiely/vuepress-theme-koala/statuses/{sha}
 subscribers_url: https://api.github.com/repos/artiely/vuepress-theme-koala/subscribers
@@ -92,10 +92,10 @@ svn_url: https://github.com/artiely/vuepress-theme-koala
 tags_url: https://api.github.com/repos/artiely/vuepress-theme-koala/tags
 teams_url: https://api.github.com/repos/artiely/vuepress-theme-koala/teams
 trees_url: https://api.github.com/repos/artiely/vuepress-theme-koala/git/trees{/sha}
-updated_at: '2019-03-28T06:38:56Z'
+updated_at: '2020-01-13T01:52:16Z'
 url: https://api.github.com/repos/artiely/vuepress-theme-koala
-watchers: 2
-watchers_count: 2
+watchers: 3
+watchers_count: 3
 ---
 
 # vuepress-theme-koala

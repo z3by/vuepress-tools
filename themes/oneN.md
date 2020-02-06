@@ -80,10 +80,10 @@ private: false
 pulls_url: https://api.github.com/repos/Veminem/vuepress-theme-oneN/pulls{/number}
 pushed_at: '2019-10-18T19:52:54Z'
 releases_url: https://api.github.com/repos/Veminem/vuepress-theme-oneN/releases{/id}
-score: 43.332012
+score: 44.1924
 size: 274
 ssh_url: git@github.com:Veminem/vuepress-theme-oneN.git
-stargazers_count: 23
+stargazers_count: 26
 stargazers_url: https://api.github.com/repos/Veminem/vuepress-theme-oneN/stargazers
 statuses_url: https://api.github.com/repos/Veminem/vuepress-theme-oneN/statuses/{sha}
 subscribers_url: https://api.github.com/repos/Veminem/vuepress-theme-oneN/subscribers
@@ -92,10 +92,10 @@ svn_url: https://github.com/Veminem/vuepress-theme-oneN
 tags_url: https://api.github.com/repos/Veminem/vuepress-theme-oneN/tags
 teams_url: https://api.github.com/repos/Veminem/vuepress-theme-oneN/teams
 trees_url: https://api.github.com/repos/Veminem/vuepress-theme-oneN/git/trees{/sha}
-updated_at: '2019-12-23T10:15:30Z'
+updated_at: '2020-01-31T08:31:57Z'
 url: https://api.github.com/repos/Veminem/vuepress-theme-oneN
-watchers: 23
-watchers_count: 23
+watchers: 26
+watchers_count: 26
 ---
 
 <div align="center">

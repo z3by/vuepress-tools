@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/Oscarteg/vuepress-theme-oscarteg/pulls{/number}
 pushed_at: '2019-01-13T13:54:42Z'
 releases_url: https://api.github.com/repos/Oscarteg/vuepress-theme-oscarteg/releases{/id}
-score: 18.340733
+score: 18.275793
 size: 619
 ssh_url: git@github.com:Oscarteg/vuepress-theme-oscarteg.git
 stargazers_count: 0

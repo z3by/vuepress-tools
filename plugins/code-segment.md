@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/sillyY/vuepress-plugin-code-segment/pulls{/number}
 pushed_at: '2019-12-24T01:25:04Z'
 releases_url: https://api.github.com/repos/sillyY/vuepress-plugin-code-segment/releases{/id}
-score: 20.132057
+score: 20.07937
 size: 380
 ssh_url: git@github.com:sillyY/vuepress-plugin-code-segment.git
 stargazers_count: 1

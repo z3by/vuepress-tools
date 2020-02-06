@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/tomieric/vuepress-theme-track/pulls{/number}
 pushed_at: '2018-12-19T14:33:16Z'
 releases_url: https://api.github.com/repos/tomieric/vuepress-theme-track/releases{/id}
-score: 43.673946
+score: 43.411037
 size: 2264
 ssh_url: git@github.com:tomieric/vuepress-theme-track.git
 stargazers_count: 11

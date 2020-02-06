@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/z3by/vuepress-plugin-authors/pulls{/number}
 pushed_at: '2019-12-18T20:28:54Z'
 releases_url: https://api.github.com/repos/z3by/vuepress-plugin-authors/releases{/id}
-score: 17.59443
+score: 17.533318
 size: 122
 ssh_url: git@github.com:z3by/vuepress-plugin-authors.git
 stargazers_count: 0

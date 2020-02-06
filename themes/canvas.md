@@ -78,10 +78,10 @@ owner:
   url: https://api.github.com/users/whoan
 private: false
 pulls_url: https://api.github.com/repos/whoan/vuepress-theme-canvas/pulls{/number}
-pushed_at: '2019-10-22T13:32:38Z'
+pushed_at: '2020-01-25T12:14:59Z'
 releases_url: https://api.github.com/repos/whoan/vuepress-theme-canvas/releases{/id}
-score: 55.85184
-size: 166
+score: 55.676533
+size: 204
 ssh_url: git@github.com:whoan/vuepress-theme-canvas.git
 stargazers_count: 21
 stargazers_url: https://api.github.com/repos/whoan/vuepress-theme-canvas/stargazers
@@ -92,7 +92,7 @@ svn_url: https://github.com/whoan/vuepress-theme-canvas
 tags_url: https://api.github.com/repos/whoan/vuepress-theme-canvas/tags
 teams_url: https://api.github.com/repos/whoan/vuepress-theme-canvas/teams
 trees_url: https://api.github.com/repos/whoan/vuepress-theme-canvas/git/trees{/sha}
-updated_at: '2019-10-22T13:32:40Z'
+updated_at: '2020-01-25T12:14:06Z'
 url: https://api.github.com/repos/whoan/vuepress-theme-canvas
 watchers: 21
 watchers_count: 21
@@ -133,6 +133,9 @@ You will see a README file in your docs folder and it's there to let `vuepress` 
 > Important note: The root README will be ignored by the theme and it won't be listed as a blog post. For the same reason, all its content (except for the front matter) will be ignored.
 
 ## Building your brand new blog
+
+> IMPORTANT! You must always use `.vuepress/node_modules/.bin/vuepress` instead of the global `vuepress` for this project
+
 
 Once you placed your fantastic posts in your docs folder, build your blog like this:
 
@@ -197,7 +200,7 @@ Now you will see the titles the Home page.
 
 ## License
 
-[MIT](https://github.com/vuejs/vuepress/blob/master/LICENSE)
+[MIT](https://github.com/whoan/vuepress-canvas/blob/master/LICENSE)
 
 [vuepress]: https://github.com/vuejs/vuepress
 [canvas]: https://github.com/cnvs/canvas

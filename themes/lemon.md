@@ -75,7 +75,7 @@ private: false
 pulls_url: https://api.github.com/repos/funnycoderstar/vuepress-theme-lemon/pulls{/number}
 pushed_at: '2019-10-16T15:50:19Z'
 releases_url: https://api.github.com/repos/funnycoderstar/vuepress-theme-lemon/releases{/id}
-score: 25.774813
+score: 25.651768
 size: 374
 ssh_url: git@github.com:funnycoderstar/vuepress-theme-lemon.git
 stargazers_count: 2

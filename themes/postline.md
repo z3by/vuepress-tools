@@ -75,7 +75,7 @@ private: false
 pulls_url: https://api.github.com/repos/im/vuepress-theme-postline/pulls{/number}
 pushed_at: '2019-08-20T13:15:17Z'
 releases_url: https://api.github.com/repos/im/vuepress-theme-postline/releases{/id}
-score: 21.290022
+score: 21.162712
 size: 757
 ssh_url: git@github.com:im/vuepress-theme-postline.git
 stargazers_count: 1

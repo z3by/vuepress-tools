@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/evildoerX/vuepress-theme-idg/pulls{/number}
 pushed_at: '2019-07-30T13:49:17Z'
 releases_url: https://api.github.com/repos/evildoerX/vuepress-theme-idg/releases{/id}
-score: 18.356293
+score: 18.327414
 size: 23
 ssh_url: git@github.com:evildoerX/vuepress-theme-idg.git
 stargazers_count: 0

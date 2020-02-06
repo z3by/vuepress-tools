@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/GNQG/vuepress-plugin-remote-url/pulls{/number}
 pushed_at: '2019-07-26T14:53:29Z'
 releases_url: https://api.github.com/repos/GNQG/vuepress-plugin-remote-url/releases{/id}
-score: 17.558739
+score: 17.545313
 size: 8
 ssh_url: git@github.com:GNQG/vuepress-plugin-remote-url.git
 stargazers_count: 0

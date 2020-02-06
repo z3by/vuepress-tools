@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/SafeStudio/vuepress-theme-ebook/pulls{/number}
 pushed_at: '2019-07-15T05:14:45Z'
 releases_url: https://api.github.com/repos/SafeStudio/vuepress-theme-ebook/releases{/id}
-score: 19.968222
+score: 19.91565
 size: 36
 ssh_url: git@github.com:SafeStudio/vuepress-theme-ebook.git
 stargazers_count: 0

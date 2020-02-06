@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/yanjun0501/vuepress-plugin-live2d/downloads
 events_url: https://api.github.com/repos/yanjun0501/vuepress-plugin-live2d/events
 fork: false
-forks: 2
-forks_count: 2
+forks: 3
+forks_count: 3
 forks_url: https://api.github.com/repos/yanjun0501/vuepress-plugin-live2d/forks
 full_name: yanjun0501/vuepress-plugin-live2d
 git_commits_url: https://api.github.com/repos/yanjun0501/vuepress-plugin-live2d/git/commits{/sha}
@@ -75,10 +75,10 @@ private: false
 pulls_url: https://api.github.com/repos/yanjun0501/vuepress-plugin-live2d/pulls{/number}
 pushed_at: '2019-10-12T03:55:50Z'
 releases_url: https://api.github.com/repos/yanjun0501/vuepress-plugin-live2d/releases{/id}
-score: 43.657063
+score: 51.970303
 size: 62
 ssh_url: git@github.com:yanjun0501/vuepress-plugin-live2d.git
-stargazers_count: 8
+stargazers_count: 10
 stargazers_url: https://api.github.com/repos/yanjun0501/vuepress-plugin-live2d/stargazers
 statuses_url: https://api.github.com/repos/yanjun0501/vuepress-plugin-live2d/statuses/{sha}
 subscribers_url: https://api.github.com/repos/yanjun0501/vuepress-plugin-live2d/subscribers
@@ -87,10 +87,10 @@ svn_url: https://github.com/yanjun0501/vuepress-plugin-live2d
 tags_url: https://api.github.com/repos/yanjun0501/vuepress-plugin-live2d/tags
 teams_url: https://api.github.com/repos/yanjun0501/vuepress-plugin-live2d/teams
 trees_url: https://api.github.com/repos/yanjun0501/vuepress-plugin-live2d/git/trees{/sha}
-updated_at: '2019-11-29T06:17:23Z'
+updated_at: '2020-01-26T13:48:04Z'
 url: https://api.github.com/repos/yanjun0501/vuepress-plugin-live2d
-watchers: 8
-watchers_count: 8
+watchers: 10
+watchers_count: 10
 ---
 
 <!--

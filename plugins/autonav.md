@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/webmasterish/vuepress-plugin-autonav/pulls{/number}
 pushed_at: '2019-08-08T20:27:16Z'
 releases_url: https://api.github.com/repos/webmasterish/vuepress-plugin-autonav/releases{/id}
-score: 34.62306
+score: 34.551678
 size: 14
 ssh_url: git@github.com:webmasterish/vuepress-plugin-autonav.git
 stargazers_count: 9

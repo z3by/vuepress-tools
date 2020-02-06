@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/pixelandtonic/vuepress-theme-craftdocs/downloads
 events_url: https://api.github.com/repos/pixelandtonic/vuepress-theme-craftdocs/events
 fork: false
-forks: 8
-forks_count: 8
+forks: 9
+forks_count: 9
 forks_url: https://api.github.com/repos/pixelandtonic/vuepress-theme-craftdocs/forks
 full_name: pixelandtonic/vuepress-theme-craftdocs
 git_commits_url: https://api.github.com/repos/pixelandtonic/vuepress-theme-craftdocs/git/commits{/sha}
@@ -80,10 +80,10 @@ private: false
 pulls_url: https://api.github.com/repos/pixelandtonic/vuepress-theme-craftdocs/pulls{/number}
 pushed_at: '2018-11-18T13:01:22Z'
 releases_url: https://api.github.com/repos/pixelandtonic/vuepress-theme-craftdocs/releases{/id}
-score: 86.69464
+score: 89.07092
 size: 86
 ssh_url: git@github.com:pixelandtonic/vuepress-theme-craftdocs.git
-stargazers_count: 44
+stargazers_count: 46
 stargazers_url: https://api.github.com/repos/pixelandtonic/vuepress-theme-craftdocs/stargazers
 statuses_url: https://api.github.com/repos/pixelandtonic/vuepress-theme-craftdocs/statuses/{sha}
 subscribers_url: https://api.github.com/repos/pixelandtonic/vuepress-theme-craftdocs/subscribers
@@ -92,10 +92,10 @@ svn_url: https://github.com/pixelandtonic/vuepress-theme-craftdocs
 tags_url: https://api.github.com/repos/pixelandtonic/vuepress-theme-craftdocs/tags
 teams_url: https://api.github.com/repos/pixelandtonic/vuepress-theme-craftdocs/teams
 trees_url: https://api.github.com/repos/pixelandtonic/vuepress-theme-craftdocs/git/trees{/sha}
-updated_at: '2019-12-05T21:09:30Z'
+updated_at: '2020-02-05T15:59:58Z'
 url: https://api.github.com/repos/pixelandtonic/vuepress-theme-craftdocs
-watchers: 44
-watchers_count: 44
+watchers: 46
+watchers_count: 46
 ---
 
 # Craft Documentation Theme for VuePress

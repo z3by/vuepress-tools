@@ -81,7 +81,7 @@ private: false
 pulls_url: https://api.github.com/repos/g-plane/vuepress-theme-simple-blog/pulls{/number}
 pushed_at: '2019-06-13T15:18:55Z'
 releases_url: https://api.github.com/repos/g-plane/vuepress-theme-simple-blog/releases{/id}
-score: 18.402506
+score: 18.370382
 size: 170
 ssh_url: git@github.com:g-plane/vuepress-theme-simple-blog.git
 stargazers_count: 1

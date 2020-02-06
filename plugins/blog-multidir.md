@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/tolking/vuepress-plugin-blog-multidir/pulls{/number}
 pushed_at: '2019-08-28T01:30:25Z'
 releases_url: https://api.github.com/repos/tolking/vuepress-plugin-blog-multidir/releases{/id}
-score: 29.724678
+score: 29.674612
 size: 23
 ssh_url: git@github.com:tolking/vuepress-plugin-blog-multidir.git
 stargazers_count: 5

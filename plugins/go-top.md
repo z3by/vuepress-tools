@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/SigureMo/vuepress-plugin-go-top/pulls{/number}
 pushed_at: '2019-12-06T06:55:34Z'
 releases_url: https://api.github.com/repos/SigureMo/vuepress-plugin-go-top/releases{/id}
-score: 17.703165
+score: 17.702679
 size: 5
 ssh_url: git@github.com:SigureMo/vuepress-plugin-go-top.git
 stargazers_count: 1

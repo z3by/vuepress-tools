@@ -80,10 +80,10 @@ private: false
 pulls_url: https://api.github.com/repos/tolking/vuepress-plugin-reading-progress/pulls{/number}
 pushed_at: '2019-11-15T12:40:35Z'
 releases_url: https://api.github.com/repos/tolking/vuepress-plugin-reading-progress/releases{/id}
-score: 35.206127
+score: 35.824966
 size: 22
 ssh_url: git@github.com:tolking/vuepress-plugin-reading-progress.git
-stargazers_count: 10
+stargazers_count: 11
 stargazers_url: https://api.github.com/repos/tolking/vuepress-plugin-reading-progress/stargazers
 statuses_url: https://api.github.com/repos/tolking/vuepress-plugin-reading-progress/statuses/{sha}
 subscribers_url: https://api.github.com/repos/tolking/vuepress-plugin-reading-progress/subscribers
@@ -92,10 +92,10 @@ svn_url: https://github.com/tolking/vuepress-plugin-reading-progress
 tags_url: https://api.github.com/repos/tolking/vuepress-plugin-reading-progress/tags
 teams_url: https://api.github.com/repos/tolking/vuepress-plugin-reading-progress/teams
 trees_url: https://api.github.com/repos/tolking/vuepress-plugin-reading-progress/git/trees{/sha}
-updated_at: '2019-12-08T16:59:50Z'
+updated_at: '2020-01-17T22:15:19Z'
 url: https://api.github.com/repos/tolking/vuepress-plugin-reading-progress
-watchers: 10
-watchers_count: 10
+watchers: 11
+watchers_count: 11
 ---
 
 # vuepress-plugin-reading-progress

@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/jinjun1994/vuepress-theme-kim/pulls{/number}
 pushed_at: '2019-02-10T09:51:18Z'
 releases_url: https://api.github.com/repos/jinjun1994/vuepress-theme-kim/releases{/id}
-score: 18.402506
+score: 18.370382
 size: 29
 ssh_url: git@github.com:jinjun1994/vuepress-theme-kim.git
 stargazers_count: 0

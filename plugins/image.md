@@ -76,7 +76,7 @@ private: false
 pulls_url: https://api.github.com/repos/im/vuepress-plugin-image/pulls{/number}
 pushed_at: '2019-09-17T11:53:20Z'
 releases_url: https://api.github.com/repos/im/vuepress-plugin-image/releases{/id}
-score: 17.60058
+score: 17.595814
 size: 495
 ssh_url: git@github.com:im/vuepress-plugin-image.git
 stargazers_count: 0

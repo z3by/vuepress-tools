@@ -76,10 +76,10 @@ private: false
 pulls_url: https://api.github.com/repos/ulivz/vuepress-theme-egoist/pulls{/number}
 pushed_at: '2019-11-14T11:01:35Z'
 releases_url: https://api.github.com/repos/ulivz/vuepress-theme-egoist/releases{/id}
-score: 93.23419
+score: 93.14137
 size: 2797
 ssh_url: git@github.com:ulivz/vuepress-theme-egoist.git
-stargazers_count: 33
+stargazers_count: 34
 stargazers_url: https://api.github.com/repos/ulivz/vuepress-theme-egoist/stargazers
 statuses_url: https://api.github.com/repos/ulivz/vuepress-theme-egoist/statuses/{sha}
 subscribers_url: https://api.github.com/repos/ulivz/vuepress-theme-egoist/subscribers
@@ -88,10 +88,10 @@ svn_url: https://github.com/ulivz/vuepress-theme-egoist
 tags_url: https://api.github.com/repos/ulivz/vuepress-theme-egoist/tags
 teams_url: https://api.github.com/repos/ulivz/vuepress-theme-egoist/teams
 trees_url: https://api.github.com/repos/ulivz/vuepress-theme-egoist/git/trees{/sha}
-updated_at: '2019-12-17T12:17:42Z'
+updated_at: '2020-01-23T08:53:09Z'
 url: https://api.github.com/repos/ulivz/vuepress-theme-egoist
-watchers: 33
-watchers_count: 33
+watchers: 34
+watchers_count: 34
 ---
 
 # vuepress-theme-egoist

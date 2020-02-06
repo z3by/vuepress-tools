@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/paulbarre/vuepress-plugin-firebase/pulls{/number}
 pushed_at: '2019-11-08T09:31:08Z'
 releases_url: https://api.github.com/repos/paulbarre/vuepress-plugin-firebase/releases{/id}
-score: 17.59443
+score: 17.533318
 size: 17
 ssh_url: git@github.com:paulbarre/vuepress-plugin-firebase.git
 stargazers_count: 0

@@ -78,10 +78,10 @@ owner:
   url: https://api.github.com/users/Microflash
 private: false
 pulls_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/pulls{/number}
-pushed_at: '2019-09-14T08:56:32Z'
+pushed_at: '2020-01-26T18:33:59Z'
 releases_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/releases{/id}
-score: 27.170885
-size: 294
+score: 27.079287
+size: 480
 ssh_url: git@github.com:Microflash/vuepress-theme-succinct.git
 stargazers_count: 3
 stargazers_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/stargazers
@@ -92,7 +92,7 @@ svn_url: https://github.com/Microflash/vuepress-theme-succinct
 tags_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/tags
 teams_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/teams
 trees_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/git/trees{/sha}
-updated_at: '2019-11-23T08:22:46Z'
+updated_at: '2020-01-26T18:34:01Z'
 url: https://api.github.com/repos/Microflash/vuepress-theme-succinct
 watchers: 3
 watchers_count: 3
@@ -100,47 +100,52 @@ watchers_count: 3
 
 # vuepress-theme-succinct
 
-[![Node 8 or higher](https://img.shields.io/badge/node-%3E%3D%208-blue.svg)](https://nodejs.org/en/download/)
-[![Vuepress 1.0.4](https://img.shields.io/badge/vuepress-1.0.4-blue.svg)](https://vuepress.vuejs.org/)
-[![npm v1.0.4](https://img.shields.io/badge/npm-1.0.4-orange.svg)](https://www.npmjs.com/package/vuepress-theme-succinct)
+[![Vuepress 1.2.0](https://img.shields.io/badge/vuepress-1.2.0-blue.svg)](https://github.com/vuejs/vuepress)
+[![npm](https://img.shields.io/npm/v/vuepress-theme-succinct)](https://www.npmjs.com/package/vuepress-theme-succinct)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://raw.githubusercontent.com/Naiyer Asif/vuepress-theme-succinct/master/LICENSE)
 
 A slightly opinionated theme for Vuepress
 
 ## Features
 
-- Custom font support via URL imports
-- Minor tweaks to default Vuepress theme
-
-### Planned
-- Dark theme
-
-Check out the [documentation](https://microflash.github.io/vuepress-theme-succinct/) built with Vuepress and Succinct, obviously :smirk:
+- **Customizable typography**: Import and use your favorite web-fonts. Customize font sizes and text-adjustment for body text
+- **Dark and light themes**: With a theme-switcher and native theme detection to set the theme automatically as per the user preference
+- **Accessible**: Succinct applies tweaks - deeper contrast, better legibility preferences, etc - to improve the readability
 
 ## Get Started
 
 Add the dependency to your existing Vuepress project via Yarn or NPM.
 
-```bash
+```sh
 yarn add -D vuepress-theme-succinct
 npm install -D vuepress-theme-succinct
 ```
 
 Update `.vuepress/config.js` as follows.
 
-```bash
+```js
 module.exports = {
-  theme: 'vuepress-theme-succinct'
+  theme: 'vuepress-theme-succinct',
+  globalUIComponents: [
+    'ThemeManager'
+  ],
 }
 ```
 
-You can also use the shorthand.
+`ThemeManager` provides theme-switching functionality across the app.
 
-```bash
+Note that you can also use the shorthand name for the theme.
+
+```js
 module.exports = {
-  theme: 'succinct'
+  theme: 'succinct',
+  globalUIComponents: [
+    'ThemeManager'
+  ],
 }
 ```
+
+Check out the [documentation](https://microflash.github.io/vuepress-theme-succinct/) built with Vuepress and Succinct :smile: for more details.
 
 ## Plugins
 

@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/mya-ake/vuepress-plugin-component-catalog/pulls{/number}
 pushed_at: '2019-05-28T00:28:44Z'
 releases_url: https://api.github.com/repos/mya-ake/vuepress-plugin-component-catalog/releases{/id}
-score: 66.593124
+score: 66.41997
 size: 557
 ssh_url: git@github.com:mya-ake/vuepress-plugin-component-catalog.git
 stargazers_count: 25

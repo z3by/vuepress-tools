@@ -75,10 +75,10 @@ private: false
 pulls_url: https://api.github.com/repos/darrenjennings/vuepress-plugin-reading-time/pulls{/number}
 pushed_at: '2019-02-05T03:38:04Z'
 releases_url: https://api.github.com/repos/darrenjennings/vuepress-plugin-reading-time/releases{/id}
-score: 39.24318
+score: 39.954094
 size: 35
 ssh_url: git@github.com:darrenjennings/vuepress-plugin-reading-time.git
-stargazers_count: 17
+stargazers_count: 19
 stargazers_url: https://api.github.com/repos/darrenjennings/vuepress-plugin-reading-time/stargazers
 statuses_url: https://api.github.com/repos/darrenjennings/vuepress-plugin-reading-time/statuses/{sha}
 subscribers_url: https://api.github.com/repos/darrenjennings/vuepress-plugin-reading-time/subscribers
@@ -87,10 +87,10 @@ svn_url: https://github.com/darrenjennings/vuepress-plugin-reading-time
 tags_url: https://api.github.com/repos/darrenjennings/vuepress-plugin-reading-time/tags
 teams_url: https://api.github.com/repos/darrenjennings/vuepress-plugin-reading-time/teams
 trees_url: https://api.github.com/repos/darrenjennings/vuepress-plugin-reading-time/git/trees{/sha}
-updated_at: '2019-11-18T07:21:44Z'
+updated_at: '2020-02-04T01:24:05Z'
 url: https://api.github.com/repos/darrenjennings/vuepress-plugin-reading-time
-watchers: 17
-watchers_count: 17
+watchers: 19
+watchers_count: 19
 ---
 
 # vuepress-plugin-reading-time 

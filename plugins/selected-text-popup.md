@@ -80,10 +80,10 @@ private: false
 pulls_url: https://api.github.com/repos/znicholasbrown/vuepress-plugin-selected-text-popup/pulls{/number}
 pushed_at: '2019-12-06T04:27:06Z'
 releases_url: https://api.github.com/repos/znicholasbrown/vuepress-plugin-selected-text-popup/releases{/id}
-score: 16.929268
+score: 21.98048
 size: 126
 ssh_url: git@github.com:znicholasbrown/vuepress-plugin-selected-text-popup.git
-stargazers_count: 1
+stargazers_count: 2
 stargazers_url: https://api.github.com/repos/znicholasbrown/vuepress-plugin-selected-text-popup/stargazers
 statuses_url: https://api.github.com/repos/znicholasbrown/vuepress-plugin-selected-text-popup/statuses/{sha}
 subscribers_url: https://api.github.com/repos/znicholasbrown/vuepress-plugin-selected-text-popup/subscribers
@@ -92,10 +92,10 @@ svn_url: https://github.com/znicholasbrown/vuepress-plugin-selected-text-popup
 tags_url: https://api.github.com/repos/znicholasbrown/vuepress-plugin-selected-text-popup/tags
 teams_url: https://api.github.com/repos/znicholasbrown/vuepress-plugin-selected-text-popup/teams
 trees_url: https://api.github.com/repos/znicholasbrown/vuepress-plugin-selected-text-popup/git/trees{/sha}
-updated_at: '2019-12-07T22:10:14Z'
+updated_at: '2020-01-15T03:37:57Z'
 url: https://api.github.com/repos/znicholasbrown/vuepress-plugin-selected-text-popup
-watchers: 1
-watchers_count: 1
+watchers: 2
+watchers_count: 2
 ---
 
 # Vuepress Selected Text Popup Plugin

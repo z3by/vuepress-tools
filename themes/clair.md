@@ -75,7 +75,7 @@ private: false
 pulls_url: https://api.github.com/repos/clair-design/vuepress-theme-clair/pulls{/number}
 pushed_at: '2019-02-28T01:27:30Z'
 releases_url: https://api.github.com/repos/clair-design/vuepress-theme-clair/releases{/id}
-score: 18.646307
+score: 18.592989
 size: 6
 ssh_url: git@github.com:clair-design/vuepress-theme-clair.git
 stargazers_count: 0

@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/superbiger/vuepress-plugin-tabs/downloads
 events_url: https://api.github.com/repos/superbiger/vuepress-plugin-tabs/events
 fork: false
-forks: 3
-forks_count: 3
+forks: 4
+forks_count: 4
 forks_url: https://api.github.com/repos/superbiger/vuepress-plugin-tabs/forks
 full_name: superbiger/vuepress-plugin-tabs
 git_commits_url: https://api.github.com/repos/superbiger/vuepress-plugin-tabs/git/commits{/sha}
@@ -55,8 +55,8 @@ mirror_url: null
 name: vuepress-plugin-tabs
 node_id: MDEwOlJlcG9zaXRvcnkxNzUzNjcyMDI=
 notifications_url: https://api.github.com/repos/superbiger/vuepress-plugin-tabs/notifications{?since,all,participating}
-open_issues: 2
-open_issues_count: 2
+open_issues: 3
+open_issues_count: 3
 owner:
   avatar_url: https://avatars2.githubusercontent.com/u/16386583?v=4
   events_url: https://api.github.com/users/superbiger/events{/privacy}
@@ -78,12 +78,12 @@ owner:
   url: https://api.github.com/users/superbiger
 private: false
 pulls_url: https://api.github.com/repos/superbiger/vuepress-plugin-tabs/pulls{/number}
-pushed_at: '2019-07-20T16:55:06Z'
+pushed_at: '2020-01-01T22:36:46Z'
 releases_url: https://api.github.com/repos/superbiger/vuepress-plugin-tabs/releases{/id}
-score: 59.963005
-size: 1563
+score: 67.557335
+size: 1891
 ssh_url: git@github.com:superbiger/vuepress-plugin-tabs.git
-stargazers_count: 9
+stargazers_count: 12
 stargazers_url: https://api.github.com/repos/superbiger/vuepress-plugin-tabs/stargazers
 statuses_url: https://api.github.com/repos/superbiger/vuepress-plugin-tabs/statuses/{sha}
 subscribers_url: https://api.github.com/repos/superbiger/vuepress-plugin-tabs/subscribers
@@ -92,10 +92,10 @@ svn_url: https://github.com/superbiger/vuepress-plugin-tabs
 tags_url: https://api.github.com/repos/superbiger/vuepress-plugin-tabs/tags
 teams_url: https://api.github.com/repos/superbiger/vuepress-plugin-tabs/teams
 trees_url: https://api.github.com/repos/superbiger/vuepress-plugin-tabs/git/trees{/sha}
-updated_at: '2019-12-20T01:31:18Z'
+updated_at: '2020-01-20T23:03:34Z'
 url: https://api.github.com/repos/superbiger/vuepress-plugin-tabs
-watchers: 9
-watchers_count: 9
+watchers: 12
+watchers_count: 12
 ---
 
 # [vuepress-plugin-element-tabs](https://superbiger.github.io/vuepress-plugin-tabs/)
@@ -228,8 +228,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/pskordilakis/vuepress-plugin-tabs/downloads
 events_url: https://api.github.com/repos/pskordilakis/vuepress-plugin-tabs/events
 fork: false
-forks: 1
-forks_count: 1
+forks: 2
+forks_count: 2
 forks_url: https://api.github.com/repos/pskordilakis/vuepress-plugin-tabs/forks
 full_name: pskordilakis/vuepress-plugin-tabs
 git_commits_url: https://api.github.com/repos/pskordilakis/vuepress-plugin-tabs/git/commits{/sha}
@@ -264,8 +264,8 @@ mirror_url: null
 name: vuepress-plugin-tabs
 node_id: MDEwOlJlcG9zaXRvcnkxNTQwMTYyOTA=
 notifications_url: https://api.github.com/repos/pskordilakis/vuepress-plugin-tabs/notifications{?since,all,participating}
-open_issues: 5
-open_issues_count: 5
+open_issues: 11
+open_issues_count: 11
 owner:
   avatar_url: https://avatars0.githubusercontent.com/u/15627750?v=4
   events_url: https://api.github.com/users/pskordilakis/events{/privacy}
@@ -287,12 +287,12 @@ owner:
   url: https://api.github.com/users/pskordilakis
 private: false
 pulls_url: https://api.github.com/repos/pskordilakis/vuepress-plugin-tabs/pulls{/number}
-pushed_at: '2019-05-12T09:49:48Z'
+pushed_at: '2020-01-26T09:12:03Z'
 releases_url: https://api.github.com/repos/pskordilakis/vuepress-plugin-tabs/releases{/id}
-score: 55.192394
-size: 87
+score: 56.250324
+size: 576
 ssh_url: git@github.com:pskordilakis/vuepress-plugin-tabs.git
-stargazers_count: 28
+stargazers_count: 33
 stargazers_url: https://api.github.com/repos/pskordilakis/vuepress-plugin-tabs/stargazers
 statuses_url: https://api.github.com/repos/pskordilakis/vuepress-plugin-tabs/statuses/{sha}
 subscribers_url: https://api.github.com/repos/pskordilakis/vuepress-plugin-tabs/subscribers
@@ -301,10 +301,10 @@ svn_url: https://github.com/pskordilakis/vuepress-plugin-tabs
 tags_url: https://api.github.com/repos/pskordilakis/vuepress-plugin-tabs/tags
 teams_url: https://api.github.com/repos/pskordilakis/vuepress-plugin-tabs/teams
 trees_url: https://api.github.com/repos/pskordilakis/vuepress-plugin-tabs/git/trees{/sha}
-updated_at: '2019-11-21T15:51:27Z'
+updated_at: '2020-01-26T09:11:01Z'
 url: https://api.github.com/repos/pskordilakis/vuepress-plugin-tabs
-watchers: 28
-watchers_count: 28
+watchers: 33
+watchers_count: 33
 ---
 
 # Vuepress Plugin Tabs

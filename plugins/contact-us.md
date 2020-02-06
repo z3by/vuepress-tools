@@ -76,7 +76,7 @@ private: false
 pulls_url: https://api.github.com/repos/HiYue/vuepress-plugin-contact-us/pulls{/number}
 pushed_at: '2019-12-06T13:13:01Z'
 releases_url: https://api.github.com/repos/HiYue/vuepress-plugin-contact-us/releases{/id}
-score: 29.78536
+score: 29.691076
 size: 35
 ssh_url: git@github.com:HiYue/vuepress-plugin-contact-us.git
 stargazers_count: 5

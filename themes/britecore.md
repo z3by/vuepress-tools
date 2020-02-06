@@ -80,10 +80,10 @@ private: false
 pulls_url: https://api.github.com/repos/z3by/vuepress-theme-britecore/pulls{/number}
 pushed_at: '2019-12-09T13:10:05Z'
 releases_url: https://api.github.com/repos/z3by/vuepress-theme-britecore/releases{/id}
-score: 120.09581
+score: 36.344906
 size: 937
 ssh_url: git@github.com:z3by/vuepress-theme-britecore.git
-stargazers_count: 6
+stargazers_count: 7
 stargazers_url: https://api.github.com/repos/z3by/vuepress-theme-britecore/stargazers
 statuses_url: https://api.github.com/repos/z3by/vuepress-theme-britecore/statuses/{sha}
 subscribers_url: https://api.github.com/repos/z3by/vuepress-theme-britecore/subscribers
@@ -92,10 +92,10 @@ svn_url: https://github.com/z3by/vuepress-theme-britecore
 tags_url: https://api.github.com/repos/z3by/vuepress-theme-britecore/tags
 teams_url: https://api.github.com/repos/z3by/vuepress-theme-britecore/teams
 trees_url: https://api.github.com/repos/z3by/vuepress-theme-britecore/git/trees{/sha}
-updated_at: '2019-12-09T13:10:08Z'
+updated_at: '2020-01-10T08:47:27Z'
 url: https://api.github.com/repos/z3by/vuepress-theme-britecore
-watchers: 6
-watchers_count: 6
+watchers: 7
+watchers_count: 7
 ---
 
 # vuepress-theme-britecore

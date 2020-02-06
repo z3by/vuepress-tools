@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/sammyne/vuepress-theme-sammyne/pulls{/number}
 pushed_at: '2019-11-03T04:39:34Z'
 releases_url: https://api.github.com/repos/sammyne/vuepress-theme-sammyne/releases{/id}
-score: 18.335201
+score: 18.295616
 size: 234
 ssh_url: git@github.com:sammyne/vuepress-theme-sammyne.git
 stargazers_count: 1

@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/vuepress/vuepress-plugin-table-of-contents/pulls{/number}
 pushed_at: '2019-10-12T06:45:00Z'
 releases_url: https://api.github.com/repos/vuepress/vuepress-plugin-table-of-contents/releases{/id}
-score: 16.787777
+score: 16.772558
 size: 49
 ssh_url: git@github.com:vuepress/vuepress-plugin-table-of-contents.git
 stargazers_count: 0

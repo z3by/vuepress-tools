@@ -81,7 +81,7 @@ private: false
 pulls_url: https://api.github.com/repos/howybox/vuepress-theme-whilife/pulls{/number}
 pushed_at: '2019-11-22T12:15:57Z'
 releases_url: https://api.github.com/repos/howybox/vuepress-theme-whilife/releases{/id}
-score: 18.562061
+score: 18.518972
 size: 141
 ssh_url: git@github.com:howybox/vuepress-theme-whilife.git
 stargazers_count: 1

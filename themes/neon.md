@@ -78,10 +78,10 @@ owner:
   url: https://api.github.com/users/summer1874
 private: false
 pulls_url: https://api.github.com/repos/summer1874/vuepress-theme-neon/pulls{/number}
-pushed_at: '2019-12-06T01:59:25Z'
+pushed_at: '2020-01-20T10:35:07Z'
 releases_url: https://api.github.com/repos/summer1874/vuepress-theme-neon/releases{/id}
-score: 19.77381
-size: 3351
+score: 19.691103
+size: 3353
 ssh_url: git@github.com:summer1874/vuepress-theme-neon.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/summer1874/vuepress-theme-neon/stargazers
@@ -92,7 +92,7 @@ svn_url: https://github.com/summer1874/vuepress-theme-neon
 tags_url: https://api.github.com/repos/summer1874/vuepress-theme-neon/tags
 teams_url: https://api.github.com/repos/summer1874/vuepress-theme-neon/teams
 trees_url: https://api.github.com/repos/summer1874/vuepress-theme-neon/git/trees{/sha}
-updated_at: '2019-12-06T01:58:39Z'
+updated_at: '2020-01-20T10:35:09Z'
 url: https://api.github.com/repos/summer1874/vuepress-theme-neon
 watchers: 0
 watchers_count: 0

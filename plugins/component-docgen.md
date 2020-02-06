@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/youngtailors/vuepress-plugin-component-docgen/pulls{/number}
 pushed_at: '2019-03-09T00:47:00Z'
 releases_url: https://api.github.com/repos/youngtailors/vuepress-plugin-component-docgen/releases{/id}
-score: 36.138847
+score: 36.13811
 size: 859
 ssh_url: git@github.com:youngtailors/vuepress-plugin-component-docgen.git
 stargazers_count: 11

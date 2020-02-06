@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/eFrane/vuepress-plugin-mermaidjs/downloads
 events_url: https://api.github.com/repos/eFrane/vuepress-plugin-mermaidjs/events
 fork: false
-forks: 0
-forks_count: 0
+forks: 1
+forks_count: 1
 forks_url: https://api.github.com/repos/eFrane/vuepress-plugin-mermaidjs/forks
 full_name: eFrane/vuepress-plugin-mermaidjs
 git_commits_url: https://api.github.com/repos/eFrane/vuepress-plugin-mermaidjs/git/commits{/sha}
@@ -73,12 +73,12 @@ owner:
   url: https://api.github.com/users/eFrane
 private: false
 pulls_url: https://api.github.com/repos/eFrane/vuepress-plugin-mermaidjs/pulls{/number}
-pushed_at: '2019-11-22T11:48:34Z'
+pushed_at: '2020-01-28T08:14:08Z'
 releases_url: https://api.github.com/repos/eFrane/vuepress-plugin-mermaidjs/releases{/id}
-score: 17.531275
-size: 71
+score: 25.814064
+size: 75
 ssh_url: git@github.com:eFrane/vuepress-plugin-mermaidjs.git
-stargazers_count: 1
+stargazers_count: 3
 stargazers_url: https://api.github.com/repos/eFrane/vuepress-plugin-mermaidjs/stargazers
 statuses_url: https://api.github.com/repos/eFrane/vuepress-plugin-mermaidjs/statuses/{sha}
 subscribers_url: https://api.github.com/repos/eFrane/vuepress-plugin-mermaidjs/subscribers
@@ -87,10 +87,10 @@ svn_url: https://github.com/eFrane/vuepress-plugin-mermaidjs
 tags_url: https://api.github.com/repos/eFrane/vuepress-plugin-mermaidjs/tags
 teams_url: https://api.github.com/repos/eFrane/vuepress-plugin-mermaidjs/teams
 trees_url: https://api.github.com/repos/eFrane/vuepress-plugin-mermaidjs/git/trees{/sha}
-updated_at: '2019-12-19T13:29:15Z'
+updated_at: '2020-01-28T08:14:10Z'
 url: https://api.github.com/repos/eFrane/vuepress-plugin-mermaidjs
-watchers: 1
-watchers_count: 1
+watchers: 3
+watchers_count: 3
 ---
 
 [![npm version](https://badge.fury.io/js/vuepress-plugin-mermaidjs.svg)](https://badge.fury.io/js/vuepress-plugin-mermaidjs)
@@ -133,7 +133,7 @@ module.exports = {
 The recommended usage is to place your mermaidjs diagrams inside
 a fenced code block with the language 'mermaid':
 
-    ``` mermaid
+    ```mermaid
     sequenceDiagram
     Alice->John: Hello John, how are you?
     loop every minute

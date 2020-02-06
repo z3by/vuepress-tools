@@ -75,7 +75,7 @@ private: false
 pulls_url: https://api.github.com/repos/2020807070/vuepress-theme-cchao/pulls{/number}
 pushed_at: '2019-05-16T02:56:26Z'
 releases_url: https://api.github.com/repos/2020807070/vuepress-theme-cchao/releases{/id}
-score: 45.275887
+score: 45.266655
 size: 863
 ssh_url: git@github.com:2020807070/vuepress-theme-cchao.git
 stargazers_count: 26

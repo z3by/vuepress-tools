@@ -78,10 +78,10 @@ owner:
   url: https://api.github.com/users/zpj80231
 private: false
 pulls_url: https://api.github.com/repos/zpj80231/vuepress-plugin-boxx/pulls{/number}
-pushed_at: '2019-11-19T05:29:51Z'
+pushed_at: '2020-01-18T07:59:48Z'
 releases_url: https://api.github.com/repos/zpj80231/vuepress-plugin-boxx/releases{/id}
-score: 17.703165
-size: 8
+score: 17.702679
+size: 30
 ssh_url: git@github.com:zpj80231/vuepress-plugin-boxx.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/zpj80231/vuepress-plugin-boxx/stargazers
@@ -92,7 +92,7 @@ svn_url: https://github.com/zpj80231/vuepress-plugin-boxx
 tags_url: https://api.github.com/repos/zpj80231/vuepress-plugin-boxx/tags
 teams_url: https://api.github.com/repos/zpj80231/vuepress-plugin-boxx/teams
 trees_url: https://api.github.com/repos/zpj80231/vuepress-plugin-boxx/git/trees{/sha}
-updated_at: '2019-11-19T05:29:53Z'
+updated_at: '2020-01-18T07:59:50Z'
 url: https://api.github.com/repos/zpj80231/vuepress-plugin-boxx
 watchers: 0
 watchers_count: 0
@@ -104,21 +104,13 @@ watchers_count: 0
 ## 序言
 
 - 由于在引入默认的VuePress Custom Containers太过笨重了，故闲来无事对其做一层封装简化使用
-- 推荐在线观看使用说明[传送门](https://zpj80231.github.io/znote/categories/vuepress-plugin-boxx.html)，这样展示效果更加友好
+- 推荐在线观看使用说明[传送门](https://zpj80231.gitee.io/znote/views/front-end/vuepress-plugin-boxx.html)，这样展示效果更加友好
 
 ## 使用
 
 - 引入：只需在你想要插入的地方加入 `<Boxx/>` 即可（如上）
 - 内容：默认随机展示名人名句，支持自定义
 - 样式：有三种样式，默认为 tip 样式，支持自定义
-
-## 默认样式
-
-<Boxx type="tip" title="tip" content="只需一行：<Boxx type='tip' title='自定义' content='自定义' />" />
-
-<Boxx type="warning" title="warning" content="只需一行：<Boxx type='warning' title='自定义' content='自定义' />" />
-
-<Boxx type="danger" title="danger" content="只需一行：<Boxx type='danger' title='自定义' content='自定义' />" />
 
 ## 自定义标题和内容
 
@@ -129,20 +121,7 @@ watchers_count: 0
 | title   | String | 要展示的`title`的内容   |
 | content | String | 要展示的`content`的内容 |
 
-- 当然你也可以只输入`title`或`content`，如下：
-
-  <Boxx type="warning" :blockStyle="title01" title="我是一个 title：<Boxx type='warning' title='自定义' />"/>
-  <Boxx type="danger" :blockStyle="content01" content="我是一个 content：<Boxx type='danger' content='自定义' />"/>
-
 ## 自定义样式
-
-<marquee>
-
-<Boxx :blockStyle="blockStyle"  />
-<Boxx type="warning" :blockStyle="titleStyle" :titleStyle="titleStyle" title="我是一个大大的 title"/>
-<Boxx type="danger" :blockStyle="contentStyle" :contentStyle="contentStyle" content="我是一个小小的 content"/>
-
- </marquee>
 
 - 指定三个属性值实现
 
@@ -151,42 +130,7 @@ watchers_count: 0
 | blockStyle   | Object | 整体块元素的样式      |
 | titleStyle   | Object | 只针对`title`的样式   |
 | contentStyle | Object | 只针对`content`的样式 |
+| changeTime | Number | 以毫秒值为单位的动态变化时间，顶部为例 |
 
 需要注意的是：属性值传输的对象只能通过`v-bind:`绑定来实现
 
-- 以下是对如上样式的示例，在Markdown中这样书写即可：
-
-```javascript
-<Boxx :blockStyle="blockStyle"  />
-<Boxx type="warning" :blockStyle="titleStyle" :titleStyle="titleStyle" title="我是一个大大的 title"/>
-<Boxx type="danger" :blockStyle="contentStyle" :contentStyle="contentStyle" content="我是一个小小的 content"/>
-
-<script>
-	export default {
-		data() {
-			return {
-				blockStyle: {'background':'#eee','color':'red'},
-                titleStyle: {'margin-left': '10%','font-size':'16px'},
-                contentStyle: {'margin-left': '20%','font-size':'10px',
-                               "margin-top": "1rem","margin-bottom": "0.4rem"},
-			}
-		}
-	}
-</script>
-```
-
-
-<script>
-	export default {
-		data() {
-			return {
-                title01: {'margin-left': '10%'},
-                content01: {'margin-left': '20%'},
-				blockStyle: {'background':'#eee','color':'red'},
-                titleStyle: {'margin-left': '10%','font-size':'16px'},
-                contentStyle: {'margin-left': '20%','font-size':'10px',
-                               "margin-top": "1rem","margin-bottom": "0.4rem"},
-			}
-		}
-	}
-</script>

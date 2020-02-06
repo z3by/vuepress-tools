@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-blog/downloads
 events_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-blog/events
 fork: false
-forks: 21
-forks_count: 21
+forks: 25
+forks_count: 25
 forks_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-blog/forks
 full_name: vuepressjs/vuepress-plugin-blog
 git_commits_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-blog/git/commits{/sha}
@@ -55,8 +55,8 @@ mirror_url: null
 name: vuepress-plugin-blog
 node_id: MDEwOlJlcG9zaXRvcnkxODk4NTUwNzE=
 notifications_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-blog/notifications{?since,all,participating}
-open_issues: 7
-open_issues_count: 7
+open_issues: 4
+open_issues_count: 4
 owner:
   avatar_url: https://avatars2.githubusercontent.com/u/56227407?v=4
   events_url: https://api.github.com/users/vuepressjs/events{/privacy}
@@ -78,12 +78,12 @@ owner:
   url: https://api.github.com/users/vuepressjs
 private: false
 pulls_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-blog/pulls{/number}
-pushed_at: '2019-12-22T05:52:09Z'
+pushed_at: '2020-01-29T09:11:45Z'
 releases_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-blog/releases{/id}
-score: 102.35242
-size: 2229
+score: 107.19077
+size: 2118
 ssh_url: git@github.com:vuepressjs/vuepress-plugin-blog.git
-stargazers_count: 67
+stargazers_count: 84
 stargazers_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-blog/stargazers
 statuses_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-blog/statuses/{sha}
 subscribers_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-blog/subscribers
@@ -92,10 +92,10 @@ svn_url: https://github.com/vuepressjs/vuepress-plugin-blog
 tags_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-blog/tags
 teams_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-blog/teams
 trees_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-blog/git/trees{/sha}
-updated_at: '2019-12-22T05:51:37Z'
+updated_at: '2020-02-06T02:09:27Z'
 url: https://api.github.com/repos/vuepressjs/vuepress-plugin-blog
-watchers: 67
-watchers_count: 67
+watchers: 84
+watchers_count: 84
 ---
 
 # @vuepress/plugin-blog
@@ -105,10 +105,6 @@ watchers_count: 67
 [![NPM LICENSE](https://badgen.net/npm/license/@vuepress/plugin-blog)](https://github.com/vuepressjs/vuepress-plugin-blog/blob/master/LICENSE)
 
 > Official blog plugin for VuePress. 
-
-## Status: WIP
-
-Most of the planned features in place but there may still be bugs. API may still change until we remove this status tip. Do not use in production yet unless you are adventurous.
 
 ## Features
 
@@ -143,6 +139,8 @@ Please head [documentation](https://vuepress-theme-blog.ulivz.com/) to see all a
 - [70-lines-of-vuepress-blog-theme](https://github.com/ulivz/70-lines-of-vuepress-blog-theme): A VuePress Blog Theme implemented in around 70 lines.
 - [@vuepress/theme-blog](https://github.com/ulivz/vuepress-theme-blog): Default blog theme for VuePress.
 - [vuepress-theme-modern-blog](https://github.com/z3by/vuepress-theme-modern-blog): A modern theme for Vue press using [Element.UI design system](https://element.eleme.io/#/)
+- [vuepress-theme-reco](https://github.com/vuepress-reco/vuepress-theme-reco) - A simple and beautiful vuepress blog theme
+- [vuepress-theme-yuchanns](https://github.com/yuchanns/vuepress-theme-yuchanns): A github style vuepress blog theme
 
 Feel free to add yours here...
 
@@ -229,7 +227,7 @@ private: false
 pulls_url: https://api.github.com/repos/Yubisaki/vuepress-plugin-blog/pulls{/number}
 pushed_at: '2019-07-24T17:38:16Z'
 releases_url: https://api.github.com/repos/Yubisaki/vuepress-plugin-blog/releases{/id}
-score: 17.728113
+score: 17.702679
 size: 12
 ssh_url: git@github.com:Yubisaki/vuepress-plugin-blog.git
 stargazers_count: 0

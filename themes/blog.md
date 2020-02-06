@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/vuepressjs/vuepress-theme-blog/downloads
 events_url: https://api.github.com/repos/vuepressjs/vuepress-theme-blog/events
 fork: false
-forks: 40
-forks_count: 40
+forks: 51
+forks_count: 51
 forks_url: https://api.github.com/repos/vuepressjs/vuepress-theme-blog/forks
 full_name: vuepressjs/vuepress-theme-blog
 git_commits_url: https://api.github.com/repos/vuepressjs/vuepress-theme-blog/git/commits{/sha}
@@ -55,8 +55,8 @@ mirror_url: null
 name: vuepress-theme-blog
 node_id: MDEwOlJlcG9zaXRvcnkxOTAwMDcwMjM=
 notifications_url: https://api.github.com/repos/vuepressjs/vuepress-theme-blog/notifications{?since,all,participating}
-open_issues: 6
-open_issues_count: 6
+open_issues: 5
+open_issues_count: 5
 owner:
   avatar_url: https://avatars2.githubusercontent.com/u/56227407?v=4
   events_url: https://api.github.com/users/vuepressjs/events{/privacy}
@@ -78,12 +78,12 @@ owner:
   url: https://api.github.com/users/vuepressjs
 private: false
 pulls_url: https://api.github.com/repos/vuepressjs/vuepress-theme-blog/pulls{/number}
-pushed_at: '2019-12-21T05:12:12Z'
+pushed_at: '2020-02-04T20:50:28Z'
 releases_url: https://api.github.com/repos/vuepressjs/vuepress-theme-blog/releases{/id}
-score: 118.860466
-size: 416
+score: 125.29803
+size: 954
 ssh_url: git@github.com:vuepressjs/vuepress-theme-blog.git
-stargazers_count: 51
+stargazers_count: 67
 stargazers_url: https://api.github.com/repos/vuepressjs/vuepress-theme-blog/stargazers
 statuses_url: https://api.github.com/repos/vuepressjs/vuepress-theme-blog/statuses/{sha}
 subscribers_url: https://api.github.com/repos/vuepressjs/vuepress-theme-blog/subscribers
@@ -92,34 +92,16 @@ svn_url: https://github.com/vuepressjs/vuepress-theme-blog
 tags_url: https://api.github.com/repos/vuepressjs/vuepress-theme-blog/tags
 teams_url: https://api.github.com/repos/vuepressjs/vuepress-theme-blog/teams
 trees_url: https://api.github.com/repos/vuepressjs/vuepress-theme-blog/git/trees{/sha}
-updated_at: '2019-12-21T05:12:14Z'
+updated_at: '2020-02-05T07:43:02Z'
 url: https://api.github.com/repos/vuepressjs/vuepress-theme-blog
-watchers: 51
-watchers_count: 51
+watchers: 67
+watchers_count: 67
 ---
 
 # @vuepress/theme-blog
 
 [![NPM version](https://badgen.net/npm/v/@vuepress/theme-blog)](https://npmjs.com/package/@vuepress/theme-blog) [![NPM downloads](https://badgen.net/npm/dm/@vuepress/theme-blog)](https://npmjs.com/package/@vuepress/theme-blog)
 [![NPM LICENSE](https://badgen.net/npm/license/@vuepress/theme-blog)](https://github.com/vuepressjs/vuepress-theme-blog/blob/master/LICENSE)
-
-## Status: WIP
-
-This theme is still working in progress, here are some things we're going to do, contribution welcome!
-
-- Mobile dropdown menu (Replacement of nav in mobile side)
-- Enhance the final palette
-- Site Map
-- Enhance the mobile-side styles
-- Built-in RSS integration
-- Built-in site map support
-- Comment integration
-- A guide to use this blog theme
-- ... And anything that you think can be better 
-
-
-**Can't wait to see your contribution! ❤️**
-
  
 ## Sites
 
@@ -157,3 +139,99 @@ module.exports = {
 > [github.com/ulivz](https://github.com/ulivz) · GitHub [@ULIVZ](https://github.com/ulivz) · Twitter [@_ulivz](https://twitter.com/_ulivz)
 
 
+---
+archive_url: https://api.github.com/repos/ycmjason/vuepress-theme-blog/{archive_format}{/ref}
+archived: false
+assignees_url: https://api.github.com/repos/ycmjason/vuepress-theme-blog/assignees{/user}
+blobs_url: https://api.github.com/repos/ycmjason/vuepress-theme-blog/git/blobs{/sha}
+branches_url: https://api.github.com/repos/ycmjason/vuepress-theme-blog/branches{/branch}
+clone_url: https://github.com/ycmjason/vuepress-theme-blog.git
+collaborators_url: https://api.github.com/repos/ycmjason/vuepress-theme-blog/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/ycmjason/vuepress-theme-blog/comments{/number}
+commits_url: https://api.github.com/repos/ycmjason/vuepress-theme-blog/commits{/sha}
+compare_url: https://api.github.com/repos/ycmjason/vuepress-theme-blog/compare/{base}...{head}
+contents_url: https://api.github.com/repos/ycmjason/vuepress-theme-blog/contents/{+path}
+contributors_url: https://api.github.com/repos/ycmjason/vuepress-theme-blog/contributors
+created_at: '2018-04-21T11:19:02Z'
+default_branch: master
+deployments_url: https://api.github.com/repos/ycmjason/vuepress-theme-blog/deployments
+description: A minimalistic blog theme for vuepress
+disabled: false
+downloads_url: https://api.github.com/repos/ycmjason/vuepress-theme-blog/downloads
+events_url: https://api.github.com/repos/ycmjason/vuepress-theme-blog/events
+fork: false
+forks: 0
+forks_count: 0
+forks_url: https://api.github.com/repos/ycmjason/vuepress-theme-blog/forks
+full_name: ycmjason/vuepress-theme-blog
+git_commits_url: https://api.github.com/repos/ycmjason/vuepress-theme-blog/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/ycmjason/vuepress-theme-blog/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/ycmjason/vuepress-theme-blog/git/tags{/sha}
+git_url: git://github.com/ycmjason/vuepress-theme-blog.git
+has_downloads: true
+has_issues: true
+has_pages: false
+has_projects: true
+has_wiki: true
+homepage: null
+hooks_url: https://api.github.com/repos/ycmjason/vuepress-theme-blog/hooks
+html_url: https://github.com/ycmjason/vuepress-theme-blog
+id: 130466737
+issue_comment_url: https://api.github.com/repos/ycmjason/vuepress-theme-blog/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/ycmjason/vuepress-theme-blog/issues/events{/number}
+issues_url: https://api.github.com/repos/ycmjason/vuepress-theme-blog/issues{/number}
+keys_url: https://api.github.com/repos/ycmjason/vuepress-theme-blog/keys{/key_id}
+labels_url: https://api.github.com/repos/ycmjason/vuepress-theme-blog/labels{/name}
+language: null
+languages_url: https://api.github.com/repos/ycmjason/vuepress-theme-blog/languages
+license: null
+merges_url: https://api.github.com/repos/ycmjason/vuepress-theme-blog/merges
+milestones_url: https://api.github.com/repos/ycmjason/vuepress-theme-blog/milestones{/number}
+mirror_url: null
+name: vuepress-theme-blog
+node_id: MDEwOlJlcG9zaXRvcnkxMzA0NjY3Mzc=
+notifications_url: https://api.github.com/repos/ycmjason/vuepress-theme-blog/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
+owner:
+  avatar_url: https://avatars3.githubusercontent.com/u/1251825?v=4
+  events_url: https://api.github.com/users/ycmjason/events{/privacy}
+  followers_url: https://api.github.com/users/ycmjason/followers
+  following_url: https://api.github.com/users/ycmjason/following{/other_user}
+  gists_url: https://api.github.com/users/ycmjason/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/ycmjason
+  id: 1251825
+  login: ycmjason
+  node_id: MDQ6VXNlcjEyNTE4MjU=
+  organizations_url: https://api.github.com/users/ycmjason/orgs
+  received_events_url: https://api.github.com/users/ycmjason/received_events
+  repos_url: https://api.github.com/users/ycmjason/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/ycmjason/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/ycmjason/subscriptions
+  type: User
+  url: https://api.github.com/users/ycmjason
+private: false
+pulls_url: https://api.github.com/repos/ycmjason/vuepress-theme-blog/pulls{/number}
+pushed_at: '2018-04-21T11:21:36Z'
+releases_url: https://api.github.com/repos/ycmjason/vuepress-theme-blog/releases{/id}
+score: 18.235474
+size: 0
+ssh_url: git@github.com:ycmjason/vuepress-theme-blog.git
+stargazers_count: 0
+stargazers_url: https://api.github.com/repos/ycmjason/vuepress-theme-blog/stargazers
+statuses_url: https://api.github.com/repos/ycmjason/vuepress-theme-blog/statuses/{sha}
+subscribers_url: https://api.github.com/repos/ycmjason/vuepress-theme-blog/subscribers
+subscription_url: https://api.github.com/repos/ycmjason/vuepress-theme-blog/subscription
+svn_url: https://github.com/ycmjason/vuepress-theme-blog
+tags_url: https://api.github.com/repos/ycmjason/vuepress-theme-blog/tags
+teams_url: https://api.github.com/repos/ycmjason/vuepress-theme-blog/teams
+trees_url: https://api.github.com/repos/ycmjason/vuepress-theme-blog/git/trees{/sha}
+updated_at: '2018-04-21T11:21:37Z'
+url: https://api.github.com/repos/ycmjason/vuepress-theme-blog
+watchers: 0
+watchers_count: 0
+---
+
+WIP

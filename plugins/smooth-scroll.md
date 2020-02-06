@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/vuepress/vuepress-plugin-smooth-scroll/pulls{/number}
 pushed_at: '2019-10-09T07:43:05Z'
 releases_url: https://api.github.com/repos/vuepress/vuepress-plugin-smooth-scroll/releases{/id}
-score: 32.324734
+score: 32.295513
 size: 212
 ssh_url: git@github.com:vuepress/vuepress-plugin-smooth-scroll.git
 stargazers_count: 7

@@ -75,10 +75,10 @@ private: false
 pulls_url: https://api.github.com/repos/xuzhongpeng/vuepress-theme-reform/pulls{/number}
 pushed_at: '2019-06-18T02:57:29Z'
 releases_url: https://api.github.com/repos/xuzhongpeng/vuepress-theme-reform/releases{/id}
-score: 50.13829
+score: 51.946213
 size: 590
 ssh_url: git@github.com:xuzhongpeng/vuepress-theme-reform.git
-stargazers_count: 11
+stargazers_count: 14
 stargazers_url: https://api.github.com/repos/xuzhongpeng/vuepress-theme-reform/stargazers
 statuses_url: https://api.github.com/repos/xuzhongpeng/vuepress-theme-reform/statuses/{sha}
 subscribers_url: https://api.github.com/repos/xuzhongpeng/vuepress-theme-reform/subscribers
@@ -87,10 +87,10 @@ svn_url: https://github.com/xuzhongpeng/vuepress-theme-reform
 tags_url: https://api.github.com/repos/xuzhongpeng/vuepress-theme-reform/tags
 teams_url: https://api.github.com/repos/xuzhongpeng/vuepress-theme-reform/teams
 trees_url: https://api.github.com/repos/xuzhongpeng/vuepress-theme-reform/git/trees{/sha}
-updated_at: '2019-11-20T11:33:52Z'
+updated_at: '2020-01-27T09:26:23Z'
 url: https://api.github.com/repos/xuzhongpeng/vuepress-theme-reform
-watchers: 11
-watchers_count: 11
+watchers: 14
+watchers_count: 14
 ---
 
 

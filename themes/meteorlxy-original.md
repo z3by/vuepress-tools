@@ -1,6 +1,6 @@
 ---
 archive_url: https://api.github.com/repos/ozelotjp/vuepress-theme-meteorlxy-original/{archive_format}{/ref}
-archived: false
+archived: true
 assignees_url: https://api.github.com/repos/ozelotjp/vuepress-theme-meteorlxy-original/assignees{/user}
 blobs_url: https://api.github.com/repos/ozelotjp/vuepress-theme-meteorlxy-original/git/blobs{/sha}
 branches_url: https://api.github.com/repos/ozelotjp/vuepress-theme-meteorlxy-original/branches{/branch}
@@ -55,8 +55,8 @@ mirror_url: null
 name: vuepress-theme-meteorlxy-original
 node_id: MDEwOlJlcG9zaXRvcnkxOTg5Nzg4ODM=
 notifications_url: https://api.github.com/repos/ozelotjp/vuepress-theme-meteorlxy-original/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
+open_issues: 1
+open_issues_count: 1
 owner:
   avatar_url: https://avatars3.githubusercontent.com/u/32789856?v=4
   events_url: https://api.github.com/users/ozelotjp/events{/privacy}
@@ -78,10 +78,10 @@ owner:
   url: https://api.github.com/users/ozelotjp
 private: false
 pulls_url: https://api.github.com/repos/ozelotjp/vuepress-theme-meteorlxy-original/pulls{/number}
-pushed_at: '2019-08-28T13:43:49Z'
+pushed_at: '2019-12-29T16:08:16Z'
 releases_url: https://api.github.com/repos/ozelotjp/vuepress-theme-meteorlxy-original/releases{/id}
-score: 18.522398
-size: 3501
+score: 18.464277
+size: 3661
 ssh_url: git@github.com:ozelotjp/vuepress-theme-meteorlxy-original.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/ozelotjp/vuepress-theme-meteorlxy-original/stargazers
@@ -92,7 +92,7 @@ svn_url: https://github.com/ozelotjp/vuepress-theme-meteorlxy-original
 tags_url: https://api.github.com/repos/ozelotjp/vuepress-theme-meteorlxy-original/tags
 teams_url: https://api.github.com/repos/ozelotjp/vuepress-theme-meteorlxy-original/teams
 trees_url: https://api.github.com/repos/ozelotjp/vuepress-theme-meteorlxy-original/git/trees{/sha}
-updated_at: '2019-09-11T12:04:06Z'
+updated_at: '2020-02-02T05:17:56Z'
 url: https://api.github.com/repos/ozelotjp/vuepress-theme-meteorlxy-original
 watchers: 0
 watchers_count: 0

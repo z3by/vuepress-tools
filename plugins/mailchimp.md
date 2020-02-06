@@ -55,8 +55,8 @@ mirror_url: null
 name: vuepress-plugin-mailchimp
 node_id: MDEwOlJlcG9zaXRvcnkyMjA3MzI5NDA=
 notifications_url: https://api.github.com/repos/newsbielt703/vuepress-plugin-mailchimp/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
+open_issues: 0
+open_issues_count: 0
 owner:
   avatar_url: https://avatars0.githubusercontent.com/u/38957202?v=4
   events_url: https://api.github.com/users/newsbielt703/events{/privacy}
@@ -78,10 +78,10 @@ owner:
   url: https://api.github.com/users/newsbielt703
 private: false
 pulls_url: https://api.github.com/repos/newsbielt703/vuepress-plugin-mailchimp/pulls{/number}
-pushed_at: '2019-12-22T06:25:13Z'
+pushed_at: '2020-01-16T05:03:12Z'
 releases_url: https://api.github.com/repos/newsbielt703/vuepress-plugin-mailchimp/releases{/id}
-score: 18.586163
-size: 1366
+score: 18.483627
+size: 1387
 ssh_url: git@github.com:newsbielt703/vuepress-plugin-mailchimp.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/newsbielt703/vuepress-plugin-mailchimp/stargazers
@@ -92,7 +92,7 @@ svn_url: https://github.com/newsbielt703/vuepress-plugin-mailchimp
 tags_url: https://api.github.com/repos/newsbielt703/vuepress-plugin-mailchimp/tags
 teams_url: https://api.github.com/repos/newsbielt703/vuepress-plugin-mailchimp/teams
 trees_url: https://api.github.com/repos/newsbielt703/vuepress-plugin-mailchimp/git/trees{/sha}
-updated_at: '2019-12-22T06:24:51Z'
+updated_at: '2020-01-16T05:03:14Z'
 url: https://api.github.com/repos/newsbielt703/vuepress-plugin-mailchimp
 watchers: 0
 watchers_count: 0
@@ -102,6 +102,8 @@ watchers_count: 0
 
 [![NPM version](https://img.shields.io/npm/v/vuepress-plugin-mailchimp)](https://www.npmjs.com/package/vuepress-plugin-mailchimp)
 [![NPM LICENSE](https://badgen.net/npm/license/vuepress-plugin-mailchimp)](https://github.com/newsbielt703/vuepress-plugin-mailchimp/blob/master/LICENSE)
+[![Circle ci](https://badgen.net/circleci/github/newsbielt703/vuepress-plugin-mailchimp)](https://circleci.com/gh/newsbielt703/workflows/vuepress-plugin-mailchimp)
+[![LGTM](https://badgen.net/lgtm/grade/g/newsbielt703/vuepress-plugin-mailchimp)](https://lgtm.com/projects/g/newsbielt703/vuepress-plugin-mailchimp)
 
 Simplifies subscribing new email addresses to a Mailchimp email list.
 

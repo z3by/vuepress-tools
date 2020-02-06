@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/vuepress/vuepress-plugin-clean-urls/pulls{/number}
 pushed_at: '2019-11-07T07:48:54Z'
 releases_url: https://api.github.com/repos/vuepress/vuepress-plugin-clean-urls/releases{/id}
-score: 31.151878
+score: 31.123714
 size: 74
 ssh_url: git@github.com:vuepress/vuepress-plugin-clean-urls.git
 stargazers_count: 6

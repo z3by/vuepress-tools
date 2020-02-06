@@ -75,7 +75,7 @@ private: false
 pulls_url: https://api.github.com/repos/songlairui/vuepress-theme-default-hot/pulls{/number}
 pushed_at: '2019-12-18T06:48:47Z'
 releases_url: https://api.github.com/repos/songlairui/vuepress-theme-default-hot/releases{/id}
-score: 18.576939
+score: 18.537764
 size: 126
 ssh_url: git@github.com:songlairui/vuepress-theme-default-hot.git
 stargazers_count: 0

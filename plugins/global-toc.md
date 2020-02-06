@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/sylvainpolletvillard/vuepress-plugin-global-toc/pulls{/number}
 pushed_at: '2019-07-22T15:07:33Z'
 releases_url: https://api.github.com/repos/sylvainpolletvillard/vuepress-plugin-global-toc/releases{/id}
-score: 17.568651
+score: 17.55212
 size: 0
 ssh_url: git@github.com:sylvainpolletvillard/vuepress-plugin-global-toc.git
 stargazers_count: 1

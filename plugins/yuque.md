@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/ulivz/vuepress-plugin-yuque/downloads
 events_url: https://api.github.com/repos/ulivz/vuepress-plugin-yuque/events
 fork: false
-forks: 11
-forks_count: 11
+forks: 16
+forks_count: 16
 forks_url: https://api.github.com/repos/ulivz/vuepress-plugin-yuque/forks
 full_name: ulivz/vuepress-plugin-yuque
 git_commits_url: https://api.github.com/repos/ulivz/vuepress-plugin-yuque/git/commits{/sha}
@@ -55,8 +55,8 @@ mirror_url: null
 name: vuepress-plugin-yuque
 node_id: MDEwOlJlcG9zaXRvcnkxNjkxMTY3Mjg=
 notifications_url: https://api.github.com/repos/ulivz/vuepress-plugin-yuque/notifications{?since,all,participating}
-open_issues: 17
-open_issues_count: 17
+open_issues: 21
+open_issues_count: 21
 owner:
   avatar_url: https://avatars1.githubusercontent.com/u/23133919?v=4
   events_url: https://api.github.com/users/ulivz/events{/privacy}
@@ -78,12 +78,12 @@ owner:
   url: https://api.github.com/users/ulivz
 private: false
 pulls_url: https://api.github.com/repos/ulivz/vuepress-plugin-yuque/pulls{/number}
-pushed_at: '2019-11-14T11:06:37Z'
+pushed_at: '2020-02-01T06:20:09Z'
 releases_url: https://api.github.com/repos/ulivz/vuepress-plugin-yuque/releases{/id}
-score: 97.91599
-size: 1209
+score: 104.97951
+size: 1327
 ssh_url: git@github.com:ulivz/vuepress-plugin-yuque.git
-stargazers_count: 147
+stargazers_count: 164
 stargazers_url: https://api.github.com/repos/ulivz/vuepress-plugin-yuque/stargazers
 statuses_url: https://api.github.com/repos/ulivz/vuepress-plugin-yuque/statuses/{sha}
 subscribers_url: https://api.github.com/repos/ulivz/vuepress-plugin-yuque/subscribers
@@ -92,10 +92,10 @@ svn_url: https://github.com/ulivz/vuepress-plugin-yuque
 tags_url: https://api.github.com/repos/ulivz/vuepress-plugin-yuque/tags
 teams_url: https://api.github.com/repos/ulivz/vuepress-plugin-yuque/teams
 trees_url: https://api.github.com/repos/ulivz/vuepress-plugin-yuque/git/trees{/sha}
-updated_at: '2019-12-24T01:52:44Z'
+updated_at: '2020-01-20T13:53:11Z'
 url: https://api.github.com/repos/ulivz/vuepress-plugin-yuque
-watchers: 147
-watchers_count: 147
+watchers: 164
+watchers_count: 164
 ---
 
 # vuepress-plugin-yuque

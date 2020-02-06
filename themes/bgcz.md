@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/bgcz/vuepress-theme-bgcz/pulls{/number}
 pushed_at: '2019-05-31T02:34:50Z'
 releases_url: https://api.github.com/repos/bgcz/vuepress-theme-bgcz/releases{/id}
-score: 18.347618
+score: 18.299358
 size: 187
 ssh_url: git@github.com:bgcz/vuepress-theme-bgcz.git
 stargazers_count: 0

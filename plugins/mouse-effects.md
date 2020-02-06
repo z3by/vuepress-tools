@@ -82,7 +82,7 @@ private: false
 pulls_url: https://api.github.com/repos/IKangXu/vuepress-plugin-mouse-effects/pulls{/number}
 pushed_at: '2019-11-28T02:13:27Z'
 releases_url: https://api.github.com/repos/IKangXu/vuepress-plugin-mouse-effects/releases{/id}
-score: 17.568651
+score: 17.55212
 size: 674
 ssh_url: git@github.com:IKangXu/vuepress-plugin-mouse-effects.git
 stargazers_count: 0

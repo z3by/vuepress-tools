@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/jiangwei618/vuepress-theme-refrom-reco/pulls{/number}
 pushed_at: '2019-11-15T08:18:15Z'
 releases_url: https://api.github.com/repos/jiangwei618/vuepress-theme-refrom-reco/releases{/id}
-score: 18.356293
+score: 18.327414
 size: 69506
 ssh_url: git@github.com:jiangwei618/vuepress-theme-refrom-reco.git
 stargazers_count: 0

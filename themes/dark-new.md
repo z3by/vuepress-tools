@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/hmnd/vuepress-theme-dark-new/pulls{/number}
 pushed_at: '2018-12-16T18:27:42Z'
 releases_url: https://api.github.com/repos/hmnd/vuepress-theme-dark-new/releases{/id}
-score: 18.335196
+score: 18.295616
 size: 155
 ssh_url: git@github.com:hmnd/vuepress-theme-dark-new.git
 stargazers_count: 1

@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/viko16/vuepress-plugin-permalink-pinyin/pulls{/number}
 pushed_at: '2019-02-05T07:22:31Z'
 releases_url: https://api.github.com/repos/viko16/vuepress-plugin-permalink-pinyin/releases{/id}
-score: 22.838415
+score: 22.837067
 size: 8
 ssh_url: git@github.com:viko16/vuepress-plugin-permalink-pinyin.git
 stargazers_count: 2

@@ -80,10 +80,10 @@ private: false
 pulls_url: https://api.github.com/repos/SigureMo/vuepress-plugin-ribbon/pulls{/number}
 pushed_at: '2019-11-25T13:58:24Z'
 releases_url: https://api.github.com/repos/SigureMo/vuepress-plugin-ribbon/releases{/id}
-score: 32.479378
+score: 33.397854
 size: 281
 ssh_url: git@github.com:SigureMo/vuepress-plugin-ribbon.git
-stargazers_count: 7
+stargazers_count: 8
 stargazers_url: https://api.github.com/repos/SigureMo/vuepress-plugin-ribbon/stargazers
 statuses_url: https://api.github.com/repos/SigureMo/vuepress-plugin-ribbon/statuses/{sha}
 subscribers_url: https://api.github.com/repos/SigureMo/vuepress-plugin-ribbon/subscribers
@@ -92,10 +92,10 @@ svn_url: https://github.com/SigureMo/vuepress-plugin-ribbon
 tags_url: https://api.github.com/repos/SigureMo/vuepress-plugin-ribbon/tags
 teams_url: https://api.github.com/repos/SigureMo/vuepress-plugin-ribbon/teams
 trees_url: https://api.github.com/repos/SigureMo/vuepress-plugin-ribbon/git/trees{/sha}
-updated_at: '2019-12-03T00:48:48Z'
+updated_at: '2020-01-12T13:24:11Z'
 url: https://api.github.com/repos/SigureMo/vuepress-plugin-ribbon
-watchers: 7
-watchers_count: 7
+watchers: 8
+watchers_count: 8
 ---
 
 # vuepress-plugin-ribbon

@@ -78,10 +78,10 @@ owner:
   url: https://api.github.com/users/tacck
 private: false
 pulls_url: https://api.github.com/repos/tacck/vuepress-plugin-sidebar/pulls{/number}
-pushed_at: '2019-12-15T07:07:05Z'
+pushed_at: '2019-12-27T06:00:11Z'
 releases_url: https://api.github.com/repos/tacck/vuepress-plugin-sidebar/releases{/id}
-score: 17.564487
-size: 5
+score: 17.544697
+size: 6
 ssh_url: git@github.com:tacck/vuepress-plugin-sidebar.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/tacck/vuepress-plugin-sidebar/stargazers

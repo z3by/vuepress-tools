@@ -80,10 +80,10 @@ private: false
 pulls_url: https://api.github.com/repos/ekoeryanto/vuepress-plugin-sitemap/pulls{/number}
 pushed_at: '2019-11-08T16:24:20Z'
 releases_url: https://api.github.com/repos/ekoeryanto/vuepress-plugin-sitemap/releases{/id}
-score: 85.42621
+score: 85.19515
 size: 142
 ssh_url: git@github.com:ekoeryanto/vuepress-plugin-sitemap.git
-stargazers_count: 54
+stargazers_count: 57
 stargazers_url: https://api.github.com/repos/ekoeryanto/vuepress-plugin-sitemap/stargazers
 statuses_url: https://api.github.com/repos/ekoeryanto/vuepress-plugin-sitemap/statuses/{sha}
 subscribers_url: https://api.github.com/repos/ekoeryanto/vuepress-plugin-sitemap/subscribers
@@ -92,10 +92,10 @@ svn_url: https://github.com/ekoeryanto/vuepress-plugin-sitemap
 tags_url: https://api.github.com/repos/ekoeryanto/vuepress-plugin-sitemap/tags
 teams_url: https://api.github.com/repos/ekoeryanto/vuepress-plugin-sitemap/teams
 trees_url: https://api.github.com/repos/ekoeryanto/vuepress-plugin-sitemap/git/trees{/sha}
-updated_at: '2019-12-09T07:33:12Z'
+updated_at: '2020-02-05T06:04:14Z'
 url: https://api.github.com/repos/ekoeryanto/vuepress-plugin-sitemap
-watchers: 54
-watchers_count: 54
+watchers: 57
+watchers_count: 57
 ---
 
 # vuepress-plugin-sitemap

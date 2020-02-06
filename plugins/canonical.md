@@ -75,10 +75,10 @@ private: false
 pulls_url: https://api.github.com/repos/IOriens/vuepress-plugin-canonical/pulls{/number}
 pushed_at: '2019-04-05T14:33:36Z'
 releases_url: https://api.github.com/repos/IOriens/vuepress-plugin-canonical/releases{/id}
-score: 23.032183
+score: 26.148998
 size: 1
 ssh_url: git@github.com:IOriens/vuepress-plugin-canonical.git
-stargazers_count: 2
+stargazers_count: 3
 stargazers_url: https://api.github.com/repos/IOriens/vuepress-plugin-canonical/stargazers
 statuses_url: https://api.github.com/repos/IOriens/vuepress-plugin-canonical/statuses/{sha}
 subscribers_url: https://api.github.com/repos/IOriens/vuepress-plugin-canonical/subscribers
@@ -87,10 +87,10 @@ svn_url: https://github.com/IOriens/vuepress-plugin-canonical
 tags_url: https://api.github.com/repos/IOriens/vuepress-plugin-canonical/tags
 teams_url: https://api.github.com/repos/IOriens/vuepress-plugin-canonical/teams
 trees_url: https://api.github.com/repos/IOriens/vuepress-plugin-canonical/git/trees{/sha}
-updated_at: '2019-10-10T09:16:01Z'
+updated_at: '2020-01-30T06:14:31Z'
 url: https://api.github.com/repos/IOriens/vuepress-plugin-canonical
-watchers: 2
-watchers_count: 2
+watchers: 3
+watchers_count: 3
 ---
 
 # vuepress-plugin-canonical

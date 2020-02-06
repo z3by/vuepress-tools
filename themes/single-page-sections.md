@@ -79,10 +79,10 @@ owner:
   url: https://api.github.com/users/ptandler
 private: false
 pulls_url: https://api.github.com/repos/ptandler/vuepress-theme-single-page-sections/pulls{/number}
-pushed_at: '2019-11-19T10:36:34Z'
+pushed_at: '2020-01-25T11:59:31Z'
 releases_url: https://api.github.com/repos/ptandler/vuepress-theme-single-page-sections/releases{/id}
-score: 17.592302
-size: 1197
+score: 17.531235
+size: 2105
 ssh_url: git@github.com:ptandler/vuepress-theme-single-page-sections.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/ptandler/vuepress-theme-single-page-sections/stargazers
@@ -93,7 +93,7 @@ svn_url: https://github.com/ptandler/vuepress-theme-single-page-sections
 tags_url: https://api.github.com/repos/ptandler/vuepress-theme-single-page-sections/tags
 teams_url: https://api.github.com/repos/ptandler/vuepress-theme-single-page-sections/teams
 trees_url: https://api.github.com/repos/ptandler/vuepress-theme-single-page-sections/git/trees{/sha}
-updated_at: '2019-11-19T10:35:19Z'
+updated_at: '2020-01-25T11:55:30Z'
 url: https://api.github.com/repos/ptandler/vuepress-theme-single-page-sections
 watchers: 0
 watchers_count: 0
@@ -117,6 +117,21 @@ I developed this theme as the basis for my personal homepage. So it can well be 
 
 It also defines a couple of social icons that you can use to link to your online profiles.
 
+## Features
+
+* Vue components for social media links as icons, with icons taken from font-awesome
+* Predefined components for: Facebook, Twitter, Telegram, LinkedIn, XING, Keybase, ORCID, GitHub, e.g.
+  ```md
+  <Social-LinkedIn id="petertandler" />
+  <Social-GitHub id="ptandler" />
+  ```
+* Vue components for contact information (email, phone) that generate obfuscated text and links to provide some challenges for harvesting bots and to avoid spam:
+  ```md
+  <Contact-Phone title="Telefon" country="49" city="1234" number="56789" />
+  <br/>
+  <Contact-Email name="someone" domain="example.com" /> <!-- webmaster is the default name -->
+  ```
+
 ## Example
 
 In the [`example` directory](https://raw.githubusercontent.com/Peter/vuepress-theme-single-page-sections/master/example/README.md), there is a simple sample project.
@@ -128,6 +143,7 @@ You can see this live at https://ptandler.github.io/vuepress-theme-single-page-s
 This theme uses VuePress v1.
 
 Install the theme:
+
 ```cmd
 yarn install -D vuepress-theme-single-page-sections
 ```
@@ -166,7 +182,7 @@ Some content...
 
 </PageSection>
 
------
+---
 
 ::: section Second Section
 
@@ -177,8 +193,14 @@ Some content... this time using the markdown "custom container" syntax.
 
 The `sidebarImage` is optional. If defined, this image is included in the sidebar above the navigation links. In the mobil version, it is included in the navbar instead, as the sidebar is hidden then.
 
+## Customization
+
+The colors used are defined in `styles\palette.styl` and can be customized to fit your personal preferences.
+
+
 ## Implementation
 
 This theme overwrites two components from the default theme:
+
 - `components/Navbar.vue`
 - `components/Sidebar.vue`

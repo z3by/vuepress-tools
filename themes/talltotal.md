@@ -14,7 +14,7 @@ contributors_url: https://api.github.com/repos/talltotal/vuepress-theme-talltota
 created_at: '2019-03-21T09:44:53Z'
 default_branch: master
 deployments_url: https://api.github.com/repos/talltotal/vuepress-theme-talltotal/deployments
-description: null
+description: https://www.npmjs.com/package/vuepress-theme-talltotal
 disabled: false
 downloads_url: https://api.github.com/repos/talltotal/vuepress-theme-talltotal/downloads
 events_url: https://api.github.com/repos/talltotal/vuepress-theme-talltotal/events
@@ -29,10 +29,10 @@ git_tags_url: https://api.github.com/repos/talltotal/vuepress-theme-talltotal/gi
 git_url: git://github.com/talltotal/vuepress-theme-talltotal.git
 has_downloads: true
 has_issues: true
-has_pages: false
+has_pages: true
 has_projects: true
 has_wiki: true
-homepage: https://www.npmjs.com/package/vuepress-theme-talltotal
+homepage: https://talltotal.github.io/vuepress-theme-talltotal/
 hooks_url: https://api.github.com/repos/talltotal/vuepress-theme-talltotal/hooks
 html_url: https://github.com/talltotal/vuepress-theme-talltotal
 id: 176915404
@@ -73,10 +73,10 @@ owner:
   url: https://api.github.com/users/talltotal
 private: false
 pulls_url: https://api.github.com/repos/talltotal/vuepress-theme-talltotal/pulls{/number}
-pushed_at: '2019-12-24T02:30:44Z'
+pushed_at: '2020-01-07T09:42:59Z'
 releases_url: https://api.github.com/repos/talltotal/vuepress-theme-talltotal/releases{/id}
-score: 18.406162
-size: 239
+score: 18.388432
+size: 802
 ssh_url: git@github.com:talltotal/vuepress-theme-talltotal.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/talltotal/vuepress-theme-talltotal/stargazers
@@ -87,7 +87,7 @@ svn_url: https://github.com/talltotal/vuepress-theme-talltotal
 tags_url: https://api.github.com/repos/talltotal/vuepress-theme-talltotal/tags
 teams_url: https://api.github.com/repos/talltotal/vuepress-theme-talltotal/teams
 trees_url: https://api.github.com/repos/talltotal/vuepress-theme-talltotal/git/trees{/sha}
-updated_at: '2019-12-24T02:30:46Z'
+updated_at: '2020-01-07T09:43:01Z'
 url: https://api.github.com/repos/talltotal/vuepress-theme-talltotal
 watchers: 0
 watchers_count: 0
@@ -109,6 +109,15 @@ npm install -D vuepress-theme-talltotal
 yarn add --dev vuepress-theme-talltotal
 ```
 
+## why
+- style
+- auto menu
+- themeType：light or dark
+    - 优先级：配置设置 > 系统设置 > 默认light
+
+![light](https://talltotal.github.io/vuepress-theme-talltotal/imgs/light.jpg)
+![dark](https://talltotal.github.io/vuepress-theme-talltotal/imgs/dark.jpg)
+
 ## config
 
 根据配置自动生成菜单：
@@ -117,6 +126,9 @@ yarn add --dev vuepress-theme-talltotal
 {
     theme: 'talltotal',
     themeConfig: {
+        // config for ‘themeType’
+        themeType: 'light', // or dark or undefined
+        // config for ‘auto menu’
         // 定义自动生成
         sidebar: 'auto',
         // 配置

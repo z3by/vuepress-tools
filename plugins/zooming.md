@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/vuepress/vuepress-plugin-zooming/pulls{/number}
 pushed_at: '2019-10-11T10:35:51Z'
 releases_url: https://api.github.com/repos/vuepress/vuepress-plugin-zooming/releases{/id}
-score: 22.857346
+score: 22.835825
 size: 173
 ssh_url: git@github.com:vuepress/vuepress-plugin-zooming.git
 stargazers_count: 2

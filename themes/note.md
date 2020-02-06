@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/Liugq5713/vuepress-theme-note/pulls{/number}
 pushed_at: '2019-05-12T11:05:30Z'
 releases_url: https://api.github.com/repos/Liugq5713/vuepress-theme-note/releases{/id}
-score: 18.342571
+score: 18.235474
 size: 2649
 ssh_url: git@github.com:Liugq5713/vuepress-theme-note.git
 stargazers_count: 0

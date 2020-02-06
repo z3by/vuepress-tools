@@ -75,7 +75,7 @@ private: false
 pulls_url: https://api.github.com/repos/youngtailors/vuepress-plugin-rss/pulls{/number}
 pushed_at: '2019-10-30T11:12:33Z'
 releases_url: https://api.github.com/repos/youngtailors/vuepress-plugin-rss/releases{/id}
-score: 59.99451
+score: 59.87085
 size: 6
 ssh_url: git@github.com:youngtailors/vuepress-plugin-rss.git
 stargazers_count: 10
@@ -87,7 +87,7 @@ svn_url: https://github.com/youngtailors/vuepress-plugin-rss
 tags_url: https://api.github.com/repos/youngtailors/vuepress-plugin-rss/tags
 teams_url: https://api.github.com/repos/youngtailors/vuepress-plugin-rss/teams
 trees_url: https://api.github.com/repos/youngtailors/vuepress-plugin-rss/git/trees{/sha}
-updated_at: '2019-11-21T11:47:17Z'
+updated_at: '2020-01-16T07:28:05Z'
 url: https://api.github.com/repos/youngtailors/vuepress-plugin-rss
 watchers: 10
 watchers_count: 10
@@ -217,7 +217,7 @@ private: false
 pulls_url: https://api.github.com/repos/ifuture-pro/vuepress-plugin-rss/pulls{/number}
 pushed_at: '2019-11-11T03:54:05Z'
 releases_url: https://api.github.com/repos/ifuture-pro/vuepress-plugin-rss/releases{/id}
-score: 18.623064
+score: 18.620153
 size: 27
 ssh_url: git@github.com:ifuture-pro/vuepress-plugin-rss.git
 stargazers_count: 1
@@ -356,7 +356,7 @@ private: false
 pulls_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-rss/pulls{/number}
 pushed_at: '2019-11-23T15:13:57Z'
 releases_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-rss/releases{/id}
-score: 17.59443
+score: 17.533318
 size: 6
 ssh_url: git@github.com:vuepress-reco/vuepress-plugin-rss.git
 stargazers_count: 0

@@ -75,7 +75,7 @@ private: false
 pulls_url: https://api.github.com/repos/thertlproject/vuepress-theme-default/pulls{/number}
 pushed_at: '2019-04-18T17:46:06Z'
 releases_url: https://api.github.com/repos/thertlproject/vuepress-theme-default/releases{/id}
-score: 18.347618
+score: 18.299358
 size: 61
 ssh_url: git@github.com:thertlproject/vuepress-theme-default.git
 stargazers_count: 0

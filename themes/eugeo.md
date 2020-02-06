@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/Coolyang1996/vuepress-theme-eugeo/pulls{/number}
 pushed_at: '2019-04-20T08:47:57Z'
 releases_url: https://api.github.com/repos/Coolyang1996/vuepress-theme-eugeo/releases{/id}
-score: 29.82537
+score: 29.621958
 size: 776
 ssh_url: git@github.com:Coolyang1996/vuepress-theme-eugeo.git
 stargazers_count: 4

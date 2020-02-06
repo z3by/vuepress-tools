@@ -1,0 +1,98 @@
+---
+archive_url: https://api.github.com/repos/VuejsBerlin/vuepress-theme-vuejs-berlin/{archive_format}{/ref}
+archived: false
+assignees_url: https://api.github.com/repos/VuejsBerlin/vuepress-theme-vuejs-berlin/assignees{/user}
+blobs_url: https://api.github.com/repos/VuejsBerlin/vuepress-theme-vuejs-berlin/git/blobs{/sha}
+branches_url: https://api.github.com/repos/VuejsBerlin/vuepress-theme-vuejs-berlin/branches{/branch}
+clone_url: https://github.com/VuejsBerlin/vuepress-theme-vuejs-berlin.git
+collaborators_url: https://api.github.com/repos/VuejsBerlin/vuepress-theme-vuejs-berlin/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/VuejsBerlin/vuepress-theme-vuejs-berlin/comments{/number}
+commits_url: https://api.github.com/repos/VuejsBerlin/vuepress-theme-vuejs-berlin/commits{/sha}
+compare_url: https://api.github.com/repos/VuejsBerlin/vuepress-theme-vuejs-berlin/compare/{base}...{head}
+contents_url: https://api.github.com/repos/VuejsBerlin/vuepress-theme-vuejs-berlin/contents/{+path}
+contributors_url: https://api.github.com/repos/VuejsBerlin/vuepress-theme-vuejs-berlin/contributors
+created_at: '2018-07-17T17:49:28Z'
+default_branch: master
+deployments_url: https://api.github.com/repos/VuejsBerlin/vuepress-theme-vuejs-berlin/deployments
+description: null
+disabled: false
+downloads_url: https://api.github.com/repos/VuejsBerlin/vuepress-theme-vuejs-berlin/downloads
+events_url: https://api.github.com/repos/VuejsBerlin/vuepress-theme-vuejs-berlin/events
+fork: false
+forks: 1
+forks_count: 1
+forks_url: https://api.github.com/repos/VuejsBerlin/vuepress-theme-vuejs-berlin/forks
+full_name: VuejsBerlin/vuepress-theme-vuejs-berlin
+git_commits_url: https://api.github.com/repos/VuejsBerlin/vuepress-theme-vuejs-berlin/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/VuejsBerlin/vuepress-theme-vuejs-berlin/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/VuejsBerlin/vuepress-theme-vuejs-berlin/git/tags{/sha}
+git_url: git://github.com/VuejsBerlin/vuepress-theme-vuejs-berlin.git
+has_downloads: true
+has_issues: true
+has_pages: false
+has_projects: true
+has_wiki: true
+homepage: null
+hooks_url: https://api.github.com/repos/VuejsBerlin/vuepress-theme-vuejs-berlin/hooks
+html_url: https://github.com/VuejsBerlin/vuepress-theme-vuejs-berlin
+id: 141324276
+issue_comment_url: https://api.github.com/repos/VuejsBerlin/vuepress-theme-vuejs-berlin/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/VuejsBerlin/vuepress-theme-vuejs-berlin/issues/events{/number}
+issues_url: https://api.github.com/repos/VuejsBerlin/vuepress-theme-vuejs-berlin/issues{/number}
+keys_url: https://api.github.com/repos/VuejsBerlin/vuepress-theme-vuejs-berlin/keys{/key_id}
+labels_url: https://api.github.com/repos/VuejsBerlin/vuepress-theme-vuejs-berlin/labels{/name}
+language: Vue
+languages_url: https://api.github.com/repos/VuejsBerlin/vuepress-theme-vuejs-berlin/languages
+license: null
+merges_url: https://api.github.com/repos/VuejsBerlin/vuepress-theme-vuejs-berlin/merges
+milestones_url: https://api.github.com/repos/VuejsBerlin/vuepress-theme-vuejs-berlin/milestones{/number}
+mirror_url: null
+name: vuepress-theme-vuejs-berlin
+node_id: MDEwOlJlcG9zaXRvcnkxNDEzMjQyNzY=
+notifications_url: https://api.github.com/repos/VuejsBerlin/vuepress-theme-vuejs-berlin/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
+owner:
+  avatar_url: https://avatars2.githubusercontent.com/u/45715831?v=4
+  events_url: https://api.github.com/users/VuejsBerlin/events{/privacy}
+  followers_url: https://api.github.com/users/VuejsBerlin/followers
+  following_url: https://api.github.com/users/VuejsBerlin/following{/other_user}
+  gists_url: https://api.github.com/users/VuejsBerlin/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/VuejsBerlin
+  id: 45715831
+  login: VuejsBerlin
+  node_id: MDEyOk9yZ2FuaXphdGlvbjQ1NzE1ODMx
+  organizations_url: https://api.github.com/users/VuejsBerlin/orgs
+  received_events_url: https://api.github.com/users/VuejsBerlin/received_events
+  repos_url: https://api.github.com/users/VuejsBerlin/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/VuejsBerlin/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/VuejsBerlin/subscriptions
+  type: Organization
+  url: https://api.github.com/users/VuejsBerlin
+private: false
+pulls_url: https://api.github.com/repos/VuejsBerlin/vuepress-theme-vuejs-berlin/pulls{/number}
+pushed_at: '2018-12-08T22:01:59Z'
+releases_url: https://api.github.com/repos/VuejsBerlin/vuepress-theme-vuejs-berlin/releases{/id}
+score: 18.3325
+size: 203
+ssh_url: git@github.com:VuejsBerlin/vuepress-theme-vuejs-berlin.git
+stargazers_count: 0
+stargazers_url: https://api.github.com/repos/VuejsBerlin/vuepress-theme-vuejs-berlin/stargazers
+statuses_url: https://api.github.com/repos/VuejsBerlin/vuepress-theme-vuejs-berlin/statuses/{sha}
+subscribers_url: https://api.github.com/repos/VuejsBerlin/vuepress-theme-vuejs-berlin/subscribers
+subscription_url: https://api.github.com/repos/VuejsBerlin/vuepress-theme-vuejs-berlin/subscription
+svn_url: https://github.com/VuejsBerlin/vuepress-theme-vuejs-berlin
+tags_url: https://api.github.com/repos/VuejsBerlin/vuepress-theme-vuejs-berlin/tags
+teams_url: https://api.github.com/repos/VuejsBerlin/vuepress-theme-vuejs-berlin/teams
+trees_url: https://api.github.com/repos/VuejsBerlin/vuepress-theme-vuejs-berlin/git/trees{/sha}
+updated_at: '2018-12-08T21:58:04Z'
+url: https://api.github.com/repos/VuejsBerlin/vuepress-theme-vuejs-berlin
+watchers: 0
+watchers_count: 0
+---
+
+VuePress theme for https://vuejs.berlin
+
+See [vuepress guide](https://vuepress.vuejs.org/guide/custom-themes.html) for details.

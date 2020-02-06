@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/visualfanatic/vuepress-theme-dark/pulls{/number}
 pushed_at: '2018-10-01T19:16:56Z'
 releases_url: https://api.github.com/repos/visualfanatic/vuepress-theme-dark/releases{/id}
-score: 49.400173
+score: 49.22517
 size: 155
 ssh_url: git@github.com:visualfanatic/vuepress-theme-dark.git
 stargazers_count: 10

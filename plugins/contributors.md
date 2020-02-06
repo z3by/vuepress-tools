@@ -73,10 +73,10 @@ owner:
   url: https://api.github.com/users/Fischermaen
 private: false
 pulls_url: https://api.github.com/repos/Fischermaen/vuepress-plugin-contributors/pulls{/number}
-pushed_at: '2019-12-13T14:13:32Z'
+pushed_at: '2020-02-05T15:03:24Z'
 releases_url: https://api.github.com/repos/Fischermaen/vuepress-plugin-contributors/releases{/id}
-score: 17.59443
-size: 33
+score: 17.533318
+size: 29
 ssh_url: git@github.com:Fischermaen/vuepress-plugin-contributors.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/Fischermaen/vuepress-plugin-contributors/stargazers
@@ -87,11 +87,13 @@ svn_url: https://github.com/Fischermaen/vuepress-plugin-contributors
 tags_url: https://api.github.com/repos/Fischermaen/vuepress-plugin-contributors/tags
 teams_url: https://api.github.com/repos/Fischermaen/vuepress-plugin-contributors/teams
 trees_url: https://api.github.com/repos/Fischermaen/vuepress-plugin-contributors/git/trees{/sha}
-updated_at: '2019-12-13T13:50:11Z'
+updated_at: '2020-02-05T15:03:27Z'
 url: https://api.github.com/repos/Fischermaen/vuepress-plugin-contributors
 watchers: 0
 watchers_count: 0
 ---
+
+![npm](https://img.shields.io/npm/v/vuepress-plugin-contributors) ![GitHub Release Date](https://img.shields.io/github/release-date/Fischermaen/vuepress-plugin-contributors) ![NPM](https://img.shields.io/npm/l/vuepress-plugin-contributors)  ![GitHub contributors](https://img.shields.io/github/contributors/Fischermaen/vuepress-plugin-contributors)  ![GitHub last commit](https://img.shields.io/github/last-commit/Fischermaen/vuepress-plugin-contributors)
 
 # vuepress-plugin-contributors
 This component allows you to add a list of all contributors, which is sorted descending by the number of contributions.

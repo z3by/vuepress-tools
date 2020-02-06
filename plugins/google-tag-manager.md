@@ -75,7 +75,7 @@ private: false
 pulls_url: https://api.github.com/repos/bykclk/vuepress-plugin-google-tag-manager/pulls{/number}
 pushed_at: '2018-10-16T22:14:16Z'
 releases_url: https://api.github.com/repos/bykclk/vuepress-plugin-google-tag-manager/releases{/id}
-score: 24.745226
+score: 24.668116
 size: 3
 ssh_url: git@github.com:bykclk/vuepress-plugin-google-tag-manager.git
 stargazers_count: 3

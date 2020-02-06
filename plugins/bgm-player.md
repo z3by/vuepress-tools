@@ -78,10 +78,10 @@ owner:
   url: https://api.github.com/users/vuepress-reco
 private: false
 pulls_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-bgm-player/pulls{/number}
-pushed_at: '2019-12-17T01:46:50Z'
+pushed_at: '2020-01-07T03:24:46Z'
 releases_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-bgm-player/releases{/id}
-score: 30.076925
-size: 148
+score: 30.076313
+size: 150
 ssh_url: git@github.com:vuepress-reco/vuepress-plugin-bgm-player.git
 stargazers_count: 5
 stargazers_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-bgm-player/stargazers
@@ -92,7 +92,7 @@ svn_url: https://github.com/vuepress-reco/vuepress-plugin-bgm-player
 tags_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-bgm-player/tags
 teams_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-bgm-player/teams
 trees_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-bgm-player/git/trees{/sha}
-updated_at: '2019-12-17T01:46:52Z'
+updated_at: '2020-01-07T03:24:48Z'
 url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-bgm-player
 watchers: 5
 watchers_count: 5

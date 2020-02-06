@@ -20,8 +20,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume/downloads
 events_url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume/events
 fork: false
-forks: 28
-forks_count: 28
+forks: 30
+forks_count: 30
 forks_url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume/forks
 full_name: wannaxiao/vuepress-theme-resume
 git_commits_url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume/git/commits{/sha}
@@ -81,10 +81,10 @@ private: false
 pulls_url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume/pulls{/number}
 pushed_at: '2019-07-15T16:02:19Z'
 releases_url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume/releases{/id}
-score: 114.55341
+score: 116.72899
 size: 789
 ssh_url: git@github.com:wannaxiao/vuepress-theme-resume.git
-stargazers_count: 89
+stargazers_count: 100
 stargazers_url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume/stargazers
 statuses_url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume/statuses/{sha}
 subscribers_url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume/subscribers
@@ -93,10 +93,10 @@ svn_url: https://github.com/wannaxiao/vuepress-theme-resume
 tags_url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume/tags
 teams_url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume/teams
 trees_url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume/git/trees{/sha}
-updated_at: '2019-12-22T13:46:45Z'
+updated_at: '2020-02-06T03:14:21Z'
 url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume
-watchers: 89
-watchers_count: 89
+watchers: 100
+watchers_count: 100
 ---
 
 ## 🐈 介绍
@@ -184,3 +184,104 @@ chrome 页面中右键 -> 打印 -> 另存为 pdf。
 [MIT](http://opensource.org/licenses/MIT)
 
 Copyright (c) 2018-present, momoko
+---
+archive_url: https://api.github.com/repos/wyx-tree/vuepress-theme-resume/{archive_format}{/ref}
+archived: false
+assignees_url: https://api.github.com/repos/wyx-tree/vuepress-theme-resume/assignees{/user}
+blobs_url: https://api.github.com/repos/wyx-tree/vuepress-theme-resume/git/blobs{/sha}
+branches_url: https://api.github.com/repos/wyx-tree/vuepress-theme-resume/branches{/branch}
+clone_url: https://github.com/wyx-tree/vuepress-theme-resume.git
+collaborators_url: https://api.github.com/repos/wyx-tree/vuepress-theme-resume/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/wyx-tree/vuepress-theme-resume/comments{/number}
+commits_url: https://api.github.com/repos/wyx-tree/vuepress-theme-resume/commits{/sha}
+compare_url: https://api.github.com/repos/wyx-tree/vuepress-theme-resume/compare/{base}...{head}
+contents_url: https://api.github.com/repos/wyx-tree/vuepress-theme-resume/contents/{+path}
+contributors_url: https://api.github.com/repos/wyx-tree/vuepress-theme-resume/contributors
+created_at: '2019-10-08T07:42:06Z'
+default_branch: master
+deployments_url: https://api.github.com/repos/wyx-tree/vuepress-theme-resume/deployments
+description: null
+disabled: false
+downloads_url: https://api.github.com/repos/wyx-tree/vuepress-theme-resume/downloads
+events_url: https://api.github.com/repos/wyx-tree/vuepress-theme-resume/events
+fork: false
+forks: 0
+forks_count: 0
+forks_url: https://api.github.com/repos/wyx-tree/vuepress-theme-resume/forks
+full_name: wyx-tree/vuepress-theme-resume
+git_commits_url: https://api.github.com/repos/wyx-tree/vuepress-theme-resume/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/wyx-tree/vuepress-theme-resume/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/wyx-tree/vuepress-theme-resume/git/tags{/sha}
+git_url: git://github.com/wyx-tree/vuepress-theme-resume.git
+has_downloads: true
+has_issues: true
+has_pages: true
+has_projects: true
+has_wiki: true
+homepage: null
+hooks_url: https://api.github.com/repos/wyx-tree/vuepress-theme-resume/hooks
+html_url: https://github.com/wyx-tree/vuepress-theme-resume
+id: 213578741
+issue_comment_url: https://api.github.com/repos/wyx-tree/vuepress-theme-resume/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/wyx-tree/vuepress-theme-resume/issues/events{/number}
+issues_url: https://api.github.com/repos/wyx-tree/vuepress-theme-resume/issues{/number}
+keys_url: https://api.github.com/repos/wyx-tree/vuepress-theme-resume/keys{/key_id}
+labels_url: https://api.github.com/repos/wyx-tree/vuepress-theme-resume/labels{/name}
+language: Vue
+languages_url: https://api.github.com/repos/wyx-tree/vuepress-theme-resume/languages
+license:
+  key: mit
+  name: MIT License
+  node_id: MDc6TGljZW5zZTEz
+  spdx_id: MIT
+  url: https://api.github.com/licenses/mit
+merges_url: https://api.github.com/repos/wyx-tree/vuepress-theme-resume/merges
+milestones_url: https://api.github.com/repos/wyx-tree/vuepress-theme-resume/milestones{/number}
+mirror_url: null
+name: vuepress-theme-resume
+node_id: MDEwOlJlcG9zaXRvcnkyMTM1Nzg3NDE=
+notifications_url: https://api.github.com/repos/wyx-tree/vuepress-theme-resume/notifications{?since,all,participating}
+open_issues: 2
+open_issues_count: 2
+owner:
+  avatar_url: https://avatars0.githubusercontent.com/u/56290638?v=4
+  events_url: https://api.github.com/users/wyx-tree/events{/privacy}
+  followers_url: https://api.github.com/users/wyx-tree/followers
+  following_url: https://api.github.com/users/wyx-tree/following{/other_user}
+  gists_url: https://api.github.com/users/wyx-tree/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/wyx-tree
+  id: 56290638
+  login: wyx-tree
+  node_id: MDQ6VXNlcjU2MjkwNjM4
+  organizations_url: https://api.github.com/users/wyx-tree/orgs
+  received_events_url: https://api.github.com/users/wyx-tree/received_events
+  repos_url: https://api.github.com/users/wyx-tree/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/wyx-tree/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/wyx-tree/subscriptions
+  type: User
+  url: https://api.github.com/users/wyx-tree
+private: false
+pulls_url: https://api.github.com/repos/wyx-tree/vuepress-theme-resume/pulls{/number}
+pushed_at: '2019-10-08T18:25:50Z'
+releases_url: https://api.github.com/repos/wyx-tree/vuepress-theme-resume/releases{/id}
+score: 18.346085
+size: 1016
+ssh_url: git@github.com:wyx-tree/vuepress-theme-resume.git
+stargazers_count: 0
+stargazers_url: https://api.github.com/repos/wyx-tree/vuepress-theme-resume/stargazers
+statuses_url: https://api.github.com/repos/wyx-tree/vuepress-theme-resume/statuses/{sha}
+subscribers_url: https://api.github.com/repos/wyx-tree/vuepress-theme-resume/subscribers
+subscription_url: https://api.github.com/repos/wyx-tree/vuepress-theme-resume/subscription
+svn_url: https://github.com/wyx-tree/vuepress-theme-resume
+tags_url: https://api.github.com/repos/wyx-tree/vuepress-theme-resume/tags
+teams_url: https://api.github.com/repos/wyx-tree/vuepress-theme-resume/teams
+trees_url: https://api.github.com/repos/wyx-tree/vuepress-theme-resume/git/trees{/sha}
+updated_at: '2019-10-08T18:25:52Z'
+url: https://api.github.com/repos/wyx-tree/vuepress-theme-resume
+watchers: 0
+watchers_count: 0
+---
+
+### 个人简历

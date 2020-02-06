@@ -75,7 +75,7 @@ private: false
 pulls_url: https://api.github.com/repos/mAKEkr/vuepress-theme-typewriter/pulls{/number}
 pushed_at: '2019-12-13T19:56:33Z'
 releases_url: https://api.github.com/repos/mAKEkr/vuepress-theme-typewriter/releases{/id}
-score: 18.356293
+score: 18.327414
 size: 67
 ssh_url: git@github.com:mAKEkr/vuepress-theme-typewriter.git
 stargazers_count: 0

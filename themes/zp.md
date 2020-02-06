@@ -75,7 +75,7 @@ private: false
 pulls_url: https://api.github.com/repos/zhaopande/vuepress-theme-zp/pulls{/number}
 pushed_at: '2019-12-09T08:15:51Z'
 releases_url: https://api.github.com/repos/zhaopande/vuepress-theme-zp/releases{/id}
-score: 21.608826
+score: 21.486803
 size: 304
 ssh_url: git@github.com:zhaopande/vuepress-theme-zp.git
 stargazers_count: 0

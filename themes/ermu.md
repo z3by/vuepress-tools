@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/ermu0420/vuepress-theme-ermu/pulls{/number}
 pushed_at: '2019-06-30T03:08:29Z'
 releases_url: https://api.github.com/repos/ermu0420/vuepress-theme-ermu/releases{/id}
-score: 18.402506
+score: 18.370382
 size: 153
 ssh_url: git@github.com:ermu0420/vuepress-theme-ermu.git
 stargazers_count: 0

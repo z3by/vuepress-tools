@@ -81,7 +81,7 @@ private: false
 pulls_url: https://api.github.com/repos/smile921/vuepress-theme-zjy/pulls{/number}
 pushed_at: '2018-08-16T07:02:17Z'
 releases_url: https://api.github.com/repos/smile921/vuepress-theme-zjy/releases{/id}
-score: 18.342571
+score: 18.235474
 size: 149
 ssh_url: git@github.com:smile921/vuepress-theme-zjy.git
 stargazers_count: 0

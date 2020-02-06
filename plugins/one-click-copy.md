@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/vxhly/vuepress-plugin-one-click-copy/pulls{/number}
 pushed_at: '2019-11-01T06:01:12Z'
 releases_url: https://api.github.com/repos/vxhly/vuepress-plugin-one-click-copy/releases{/id}
-score: 16.916798
+score: 16.917233
 size: 8
 ssh_url: git@github.com:vxhly/vuepress-plugin-one-click-copy.git
 stargazers_count: 1

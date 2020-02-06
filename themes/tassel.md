@@ -75,7 +75,7 @@ private: false
 pulls_url: https://api.github.com/repos/hirCodd/vuepress-theme-tassel/pulls{/number}
 pushed_at: '2019-05-21T17:11:52Z'
 releases_url: https://api.github.com/repos/hirCodd/vuepress-theme-tassel/releases{/id}
-score: 19.829119
+score: 19.705074
 size: 735
 ssh_url: git@github.com:hirCodd/vuepress-theme-tassel.git
 stargazers_count: 1

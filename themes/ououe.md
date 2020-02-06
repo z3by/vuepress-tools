@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/tolking/vuepress-theme-ououe/downloads
 events_url: https://api.github.com/repos/tolking/vuepress-theme-ououe/events
 fork: false
-forks: 10
-forks_count: 10
+forks: 11
+forks_count: 11
 forks_url: https://api.github.com/repos/tolking/vuepress-theme-ououe/forks
 full_name: tolking/vuepress-theme-ououe
 git_commits_url: https://api.github.com/repos/tolking/vuepress-theme-ououe/git/commits{/sha}
@@ -78,12 +78,12 @@ owner:
   url: https://api.github.com/users/tolking
 private: false
 pulls_url: https://api.github.com/repos/tolking/vuepress-theme-ououe/pulls{/number}
-pushed_at: '2019-12-25T06:19:46Z'
+pushed_at: '2019-12-31T01:24:48Z'
 releases_url: https://api.github.com/repos/tolking/vuepress-theme-ououe/releases{/id}
-score: 89.75371
-size: 588
+score: 91.82272
+size: 670
 ssh_url: git@github.com:tolking/vuepress-theme-ououe.git
-stargazers_count: 33
+stargazers_count: 37
 stargazers_url: https://api.github.com/repos/tolking/vuepress-theme-ououe/stargazers
 statuses_url: https://api.github.com/repos/tolking/vuepress-theme-ououe/statuses/{sha}
 subscribers_url: https://api.github.com/repos/tolking/vuepress-theme-ououe/subscribers
@@ -92,10 +92,10 @@ svn_url: https://github.com/tolking/vuepress-theme-ououe
 tags_url: https://api.github.com/repos/tolking/vuepress-theme-ououe/tags
 teams_url: https://api.github.com/repos/tolking/vuepress-theme-ououe/teams
 trees_url: https://api.github.com/repos/tolking/vuepress-theme-ououe/git/trees{/sha}
-updated_at: '2019-12-09T11:44:39Z'
+updated_at: '2020-02-02T02:59:11Z'
 url: https://api.github.com/repos/tolking/vuepress-theme-ououe
-watchers: 33
-watchers_count: 33
+watchers: 37
+watchers_count: 37
 ---
 
 # vuepress-theme-ououe

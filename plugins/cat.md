@@ -75,10 +75,10 @@ private: false
 pulls_url: https://api.github.com/repos/QiShaoXuan/vuepress-plugin-cat/pulls{/number}
 pushed_at: '2019-11-27T12:00:56Z'
 releases_url: https://api.github.com/repos/QiShaoXuan/vuepress-plugin-cat/releases{/id}
-score: 100.701935
+score: 100.336136
 size: 44
 ssh_url: git@github.com:QiShaoXuan/vuepress-plugin-cat.git
-stargazers_count: 94
+stargazers_count: 95
 stargazers_url: https://api.github.com/repos/QiShaoXuan/vuepress-plugin-cat/stargazers
 statuses_url: https://api.github.com/repos/QiShaoXuan/vuepress-plugin-cat/statuses/{sha}
 subscribers_url: https://api.github.com/repos/QiShaoXuan/vuepress-plugin-cat/subscribers
@@ -87,10 +87,10 @@ svn_url: https://github.com/QiShaoXuan/vuepress-plugin-cat
 tags_url: https://api.github.com/repos/QiShaoXuan/vuepress-plugin-cat/tags
 teams_url: https://api.github.com/repos/QiShaoXuan/vuepress-plugin-cat/teams
 trees_url: https://api.github.com/repos/QiShaoXuan/vuepress-plugin-cat/git/trees{/sha}
-updated_at: '2019-12-26T14:30:18Z'
+updated_at: '2020-02-03T14:39:53Z'
 url: https://api.github.com/repos/QiShaoXuan/vuepress-plugin-cat
-watchers: 94
-watchers_count: 94
+watchers: 95
+watchers_count: 95
 ---
 
 # vuepress-plugin-cat

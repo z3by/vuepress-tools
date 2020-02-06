@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/cnguu/vuepress-theme-vook/pulls{/number}
 pushed_at: '2019-12-14T10:54:02Z'
 releases_url: https://api.github.com/repos/cnguu/vuepress-theme-vook/releases{/id}
-score: 18.347618
+score: 18.299358
 size: 25
 ssh_url: git@github.com:cnguu/vuepress-theme-vook.git
 stargazers_count: 1

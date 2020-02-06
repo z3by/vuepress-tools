@@ -75,10 +75,10 @@ private: false
 pulls_url: https://api.github.com/repos/Silvanite/vuepress-plugin-tailwind/pulls{/number}
 pushed_at: '2019-10-21T20:52:32Z'
 releases_url: https://api.github.com/repos/Silvanite/vuepress-plugin-tailwind/releases{/id}
-score: 35.978848
+score: 36.392765
 size: 11
 ssh_url: git@github.com:Silvanite/vuepress-plugin-tailwind.git
-stargazers_count: 11
+stargazers_count: 12
 stargazers_url: https://api.github.com/repos/Silvanite/vuepress-plugin-tailwind/stargazers
 statuses_url: https://api.github.com/repos/Silvanite/vuepress-plugin-tailwind/statuses/{sha}
 subscribers_url: https://api.github.com/repos/Silvanite/vuepress-plugin-tailwind/subscribers
@@ -87,10 +87,10 @@ svn_url: https://github.com/Silvanite/vuepress-plugin-tailwind
 tags_url: https://api.github.com/repos/Silvanite/vuepress-plugin-tailwind/tags
 teams_url: https://api.github.com/repos/Silvanite/vuepress-plugin-tailwind/teams
 trees_url: https://api.github.com/repos/Silvanite/vuepress-plugin-tailwind/git/trees{/sha}
-updated_at: '2019-12-18T01:46:52Z'
+updated_at: '2020-01-15T11:04:15Z'
 url: https://api.github.com/repos/Silvanite/vuepress-plugin-tailwind
-watchers: 11
-watchers_count: 11
+watchers: 12
+watchers_count: 12
 ---
 
 # VuePress Plugin to add Tailwind CSS
@@ -230,7 +230,7 @@ private: false
 pulls_url: https://api.github.com/repos/ky-is/vuepress-plugin-tailwind/pulls{/number}
 pushed_at: '2019-06-19T19:19:23Z'
 releases_url: https://api.github.com/repos/ky-is/vuepress-plugin-tailwind/releases{/id}
-score: 17.58375
+score: 17.618238
 size: 1
 ssh_url: git@github.com:ky-is/vuepress-plugin-tailwind.git
 stargazers_count: 0

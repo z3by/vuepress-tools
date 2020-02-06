@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/qdot/vuepress-plugin-matomo/downloads
 events_url: https://api.github.com/repos/qdot/vuepress-plugin-matomo/events
 fork: false
-forks: 0
-forks_count: 0
+forks: 3
+forks_count: 3
 forks_url: https://api.github.com/repos/qdot/vuepress-plugin-matomo/forks
 full_name: qdot/vuepress-plugin-matomo
 git_commits_url: https://api.github.com/repos/qdot/vuepress-plugin-matomo/git/commits{/sha}
@@ -78,12 +78,12 @@ owner:
   url: https://api.github.com/users/qdot
 private: false
 pulls_url: https://api.github.com/repos/qdot/vuepress-plugin-matomo/pulls{/number}
-pushed_at: '2019-01-13T07:54:14Z'
+pushed_at: '2020-02-05T03:19:27Z'
 releases_url: https://api.github.com/repos/qdot/vuepress-plugin-matomo/releases{/id}
-score: 25.998041
+score: 47.520504
 size: 8
 ssh_url: git@github.com:qdot/vuepress-plugin-matomo.git
-stargazers_count: 3
+stargazers_count: 4
 stargazers_url: https://api.github.com/repos/qdot/vuepress-plugin-matomo/stargazers
 statuses_url: https://api.github.com/repos/qdot/vuepress-plugin-matomo/statuses/{sha}
 subscribers_url: https://api.github.com/repos/qdot/vuepress-plugin-matomo/subscribers
@@ -92,10 +92,10 @@ svn_url: https://github.com/qdot/vuepress-plugin-matomo
 tags_url: https://api.github.com/repos/qdot/vuepress-plugin-matomo/tags
 teams_url: https://api.github.com/repos/qdot/vuepress-plugin-matomo/teams
 trees_url: https://api.github.com/repos/qdot/vuepress-plugin-matomo/git/trees{/sha}
-updated_at: '2019-10-10T08:32:07Z'
+updated_at: '2020-02-05T03:19:29Z'
 url: https://api.github.com/repos/qdot/vuepress-plugin-matomo
-watchers: 3
-watchers_count: 3
+watchers: 4
+watchers_count: 4
 ---
 
 # Matomo Vuepress Plugin
@@ -126,17 +126,20 @@ Add the following block to the plugins array of your *config.js* file.
 ```js
 // ...
   plugins: [
+    // ... other plugins...
     [
-      // ...
-      "vuepress-plugin-matomo",
+      "vuepress-plugin-matomo":
       {
         'siteId': 1,
         'trackerUrl': "https://my.matomo.url.here/"
-      },
-      // ...
-    ]
+      }
+    ],
+    // ... more plugins...
+  ]
 // ...
 ```
+
+Also [see vuepress' plugin page](https://vuepress.vuejs.org/plugin/using-a-plugin.html). This plugin uses [babel-style options](https://vuepress.vuejs.org/plugin/using-a-plugin.html#plugin-options) for configuration.
 
 ## Plugin Options
 

@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/SafeStudio/vuepress-plugin-enhanced-search/pulls{/number}
 pushed_at: '2019-07-15T05:14:27Z'
 releases_url: https://api.github.com/repos/SafeStudio/vuepress-plugin-enhanced-search/releases{/id}
-score: 17.59761
+score: 17.551767
 size: 7
 ssh_url: git@github.com:SafeStudio/vuepress-plugin-enhanced-search.git
 stargazers_count: 0

@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/vuepress/vuepress-plugin-nprogress/pulls{/number}
 pushed_at: '2019-10-09T07:44:31Z'
 releases_url: https://api.github.com/repos/vuepress/vuepress-plugin-nprogress/releases{/id}
-score: 25.944948
+score: 25.915628
 size: 159
 ssh_url: git@github.com:vuepress/vuepress-plugin-nprogress.git
 stargazers_count: 3

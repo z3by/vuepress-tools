@@ -55,8 +55,8 @@ mirror_url: null
 name: vuepress-plugin-disqus
 node_id: MDEwOlJlcG9zaXRvcnkxNjkxMjQ5MTc=
 notifications_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-disqus/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
+open_issues: 0
+open_issues_count: 0
 owner:
   avatar_url: https://avatars1.githubusercontent.com/u/3642397?v=4
   events_url: https://api.github.com/users/lorisleiva/events{/privacy}
@@ -78,12 +78,12 @@ owner:
   url: https://api.github.com/users/lorisleiva
 private: false
 pulls_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-disqus/pulls{/number}
-pushed_at: '2019-02-04T19:02:56Z'
+pushed_at: '2020-01-13T00:46:49Z'
 releases_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-disqus/releases{/id}
-score: 51.448025
-size: 4
+score: 52.162083
+size: 8
 ssh_url: git@github.com:lorisleiva/vuepress-plugin-disqus.git
-stargazers_count: 17
+stargazers_count: 19
 stargazers_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-disqus/stargazers
 statuses_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-disqus/statuses/{sha}
 subscribers_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-disqus/subscribers
@@ -92,10 +92,10 @@ svn_url: https://github.com/lorisleiva/vuepress-plugin-disqus
 tags_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-disqus/tags
 teams_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-disqus/teams
 trees_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-disqus/git/trees{/sha}
-updated_at: '2019-11-12T13:42:50Z'
+updated_at: '2020-01-29T04:22:06Z'
 url: https://api.github.com/repos/lorisleiva/vuepress-plugin-disqus
-watchers: 17
-watchers_count: 17
+watchers: 19
+watchers_count: 19
 ---
 
 # Vuepress Plugin Disqus
@@ -117,28 +117,48 @@ plugins: {
 },
 ```
 
-There is only one option available: `name` which specifies the name of the disqus component. Defaults to: `Disqus`.
+Please check out [Config](#config) for options.
 
 Note that Vuepress allows multiple syntaxes to register plugins. See [Vuepress documentation on how to use a plugin](https://vuepress.vuejs.org/plugin/using-a-plugin.html) for more information.
 
 ## Use the Disqus component
 
-```html
-<ClientOnly>
-    <Disqus shortname="my-website-shortname" />
-</ClientOnly>
-```
+This plugin present a out-of-box SSR-friendly component  - `<Disqus/>`. Just put it wherever you like, and Disqus will be embedded in the right place. For example:
 
-It is important to wrap the `Disqus` component between the `ClientOnly` component (natively provided by vuepress) otherwise `npm run build` will fail. This is because the `Disqus` component cannot be precompiled by the server and should only live on the client side.
+```html
+<template>
+  <div>
+    <Content />
+    <!-- ...... -->
+    <Disqus />
+  </div>
+</template>
+```
+Or you can simply put it in your `.md` file.
+```markdown
+## Hello VuePress
+
+This is a demo.
+
+<Disqus/>
+```
 
 You can use all the props and events defined by [vue-disqus](https://github.com/ktquez/vue-disqus).
 
 Prop            | Data Type  | required  | Description
 --------------- | ---------- | --------- | -----------
 `shortname`     | String     | true      | Your disqus shortname.
+`url`           | String     | false     | Your URL where Disqus is present
 `title`         | String     | false     | Title that identifies the current page.
 `identifier`    | String     | false     | The page's unique identifier
 `sso_config`    | Object     | false     | Single sign-on (SSO)
 `api_key`       | String     | false     | Your API key disqus
 `remote_auth_s3`| String     | false     | implementation with Laravel/PHP
 `language`      | String     | false     | Language overrides
+
+## Config 
+
+See the table above. All the props are also configuration options for this plugin. They'll be passed to every `Disqus` component. You're still able to override it by passing down props. Note that if you don't set language, it'll use VuePress's $lang as default language.
+
+There's still one option available - `name` which specifies the name of the disqus component. Defaults to: `Disqus`.
+

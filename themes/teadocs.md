@@ -75,7 +75,7 @@ private: false
 pulls_url: https://api.github.com/repos/lisniuse/vuepress-theme-teadocs/pulls{/number}
 pushed_at: '2019-11-09T02:34:10Z'
 releases_url: https://api.github.com/repos/lisniuse/vuepress-theme-teadocs/releases{/id}
-score: 20.028217
+score: 19.911942
 size: 138
 ssh_url: git@github.com:lisniuse/vuepress-theme-teadocs.git
 stargazers_count: 1

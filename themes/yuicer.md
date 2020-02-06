@@ -55,8 +55,8 @@ mirror_url: null
 name: vuepress-theme-yuicer
 node_id: MDEwOlJlcG9zaXRvcnkxNjYzMzYyNTQ=
 notifications_url: https://api.github.com/repos/yuicer/vuepress-theme-yuicer/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
+open_issues: 1
+open_issues_count: 1
 owner:
   avatar_url: https://avatars1.githubusercontent.com/u/23371475?v=4
   events_url: https://api.github.com/users/yuicer/events{/privacy}
@@ -78,12 +78,12 @@ owner:
   url: https://api.github.com/users/yuicer
 private: false
 pulls_url: https://api.github.com/repos/yuicer/vuepress-theme-yuicer/pulls{/number}
-pushed_at: '2019-12-10T03:45:09Z'
+pushed_at: '2020-01-30T10:52:46Z'
 releases_url: https://api.github.com/repos/yuicer/vuepress-theme-yuicer/releases{/id}
-score: 49.00767
-size: 646
+score: 51.1861
+size: 779
 ssh_url: git@github.com:yuicer/vuepress-theme-yuicer.git
-stargazers_count: 6
+stargazers_count: 8
 stargazers_url: https://api.github.com/repos/yuicer/vuepress-theme-yuicer/stargazers
 statuses_url: https://api.github.com/repos/yuicer/vuepress-theme-yuicer/statuses/{sha}
 subscribers_url: https://api.github.com/repos/yuicer/vuepress-theme-yuicer/subscribers
@@ -92,10 +92,10 @@ svn_url: https://github.com/yuicer/vuepress-theme-yuicer
 tags_url: https://api.github.com/repos/yuicer/vuepress-theme-yuicer/tags
 teams_url: https://api.github.com/repos/yuicer/vuepress-theme-yuicer/teams
 trees_url: https://api.github.com/repos/yuicer/vuepress-theme-yuicer/git/trees{/sha}
-updated_at: '2019-12-10T03:45:12Z'
+updated_at: '2020-02-04T16:39:20Z'
 url: https://api.github.com/repos/yuicer/vuepress-theme-yuicer
-watchers: 6
-watchers_count: 6
+watchers: 8
+watchers_count: 8
 ---
 
 # @yuicer/vuepress-theme-yuicer
@@ -108,10 +108,10 @@ watchers_count: 6
 
 > 由于之前一直在用 hexo ，所以有些功能会和 hexo 比较类似，比如页面的样式，文件目录结构的约定【 \_post , \_draft 】，脚手架命令【 hexo new xxx】 => 【vuepress new docs xxx】，docs 为你的文档站点目录，等同与 `vuepress dev docs` , `vuepress build docs` 这两条命令中的 docs。
 
-### 安装使用
+## 安装使用
 
 ```shell
- npm i @yuicer/vuepress-theme-yuicer@latest
+ npm i @yuicer/vuepress-theme-yuicer
 ```
 
 ```js
@@ -136,7 +136,11 @@ docs
 
 由于使用了 plugin-blog 插件，文章请放在 \_post 目录下
 
-\_draft 用于存放暂不想发布的文稿，⚠️ 这些文稿不会在博客系统中有入口，但依然会被编译，有可以访问到的链接 url
+**草稿功能** \_draft 用于存放暂不想发布的文稿，⚠️ 这些文稿不会在博客系统中有入口，但依然会被编译，有可以访问到的链接 url
+
+### mathjax 支持
+
+主题内置了 [markdown-it-katex](https://github.com/waylonflinn/markdown-it-katex), 用来支持数学公式，例如矩阵等复杂操作，[在线尝试地址](http://waylonflinn.github.io/markdown-it-katex/)
 
 ### 命令行功能
 
@@ -144,9 +148,11 @@ docs
 
 在安装成功本主题后，使用 `vuepress --help` 可看到下面的新命令 new
 
-`vuepress new [targetDir] [title]` 可以方便生成 md 文件。 targetDir 是你的文件目录，类似与上面目录结构的 docs。因为 vuepress 必须知道目标位置，所以必须有这一个路径参数
+`vuepress new [targetDir] [title]` 可以方便生成 md 文件。 targetDir 是你的文件目录，类似与上面目录结构的 docs，因为 vuepress 必须知道目标位置，所以必须有这一个路径参数。
 
 > A custom command registered by a plugin requires VuePress to locate your site configuration like vuepress dev or vuepress build.
+>
+> 所以一般使用类似于 `vuepress new docs 一起去散步吧～`。
 
 生成的 md 会自动生成 yaml 结构，也可以通过 `--tpl <template>` 的方式传入一个字符串来自己构造 yaml
 

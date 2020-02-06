@@ -81,10 +81,10 @@ private: false
 pulls_url: https://api.github.com/repos/Danktuary/vuepress-theme-yuu/pulls{/number}
 pushed_at: '2019-12-08T05:36:02Z'
 releases_url: https://api.github.com/repos/Danktuary/vuepress-theme-yuu/releases{/id}
-score: 68.41316
+score: 68.924545
 size: 294
 ssh_url: git@github.com:Danktuary/vuepress-theme-yuu.git
-stargazers_count: 22
+stargazers_count: 24
 stargazers_url: https://api.github.com/repos/Danktuary/vuepress-theme-yuu/stargazers
 statuses_url: https://api.github.com/repos/Danktuary/vuepress-theme-yuu/statuses/{sha}
 subscribers_url: https://api.github.com/repos/Danktuary/vuepress-theme-yuu/subscribers
@@ -93,10 +93,10 @@ svn_url: https://github.com/Danktuary/vuepress-theme-yuu
 tags_url: https://api.github.com/repos/Danktuary/vuepress-theme-yuu/tags
 teams_url: https://api.github.com/repos/Danktuary/vuepress-theme-yuu/teams
 trees_url: https://api.github.com/repos/Danktuary/vuepress-theme-yuu/git/trees{/sha}
-updated_at: '2019-12-09T07:09:12Z'
+updated_at: '2020-01-26T17:31:29Z'
 url: https://api.github.com/repos/Danktuary/vuepress-theme-yuu
-watchers: 22
-watchers_count: 22
+watchers: 24
+watchers_count: 24
 ---
 
 <div align="center">

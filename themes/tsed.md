@@ -73,10 +73,10 @@ owner:
   url: https://api.github.com/users/TypedProject
 private: false
 pulls_url: https://api.github.com/repos/TypedProject/vuepress-theme-tsed/pulls{/number}
-pushed_at: '2019-12-08T11:12:57Z'
+pushed_at: '2020-01-26T22:44:56Z'
 releases_url: https://api.github.com/repos/TypedProject/vuepress-theme-tsed/releases{/id}
-score: 27.10162
-size: 1856
+score: 27.030334
+size: 1995
 ssh_url: git@github.com:TypedProject/vuepress-theme-tsed.git
 stargazers_count: 3
 stargazers_url: https://api.github.com/repos/TypedProject/vuepress-theme-tsed/stargazers
@@ -87,7 +87,7 @@ svn_url: https://github.com/TypedProject/vuepress-theme-tsed
 tags_url: https://api.github.com/repos/TypedProject/vuepress-theme-tsed/tags
 teams_url: https://api.github.com/repos/TypedProject/vuepress-theme-tsed/teams
 trees_url: https://api.github.com/repos/TypedProject/vuepress-theme-tsed/git/trees{/sha}
-updated_at: '2019-12-08T11:11:53Z'
+updated_at: '2020-01-26T22:43:59Z'
 url: https://api.github.com/repos/TypedProject/vuepress-theme-tsed
 watchers: 3
 watchers_count: 3

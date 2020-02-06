@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/LinFeng1997/vuepress-plugin-export-site/pulls{/number}
 pushed_at: '2019-01-22T04:04:01Z'
 releases_url: https://api.github.com/repos/LinFeng1997/vuepress-plugin-export-site/releases{/id}
-score: 25.998041
+score: 25.991138
 size: 11
 ssh_url: git@github.com:LinFeng1997/vuepress-plugin-export-site.git
 stargazers_count: 3

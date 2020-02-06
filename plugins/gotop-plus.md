@@ -81,10 +81,10 @@ private: false
 pulls_url: https://api.github.com/repos/JoeyBling/vuepress-plugin-gotop-plus/pulls{/number}
 pushed_at: '2019-09-24T09:17:50Z'
 releases_url: https://api.github.com/repos/JoeyBling/vuepress-plugin-gotop-plus/releases{/id}
-score: 22.866253
+score: 25.870895
 size: 301
 ssh_url: git@github.com:JoeyBling/vuepress-plugin-gotop-plus.git
-stargazers_count: 2
+stargazers_count: 3
 stargazers_url: https://api.github.com/repos/JoeyBling/vuepress-plugin-gotop-plus/stargazers
 statuses_url: https://api.github.com/repos/JoeyBling/vuepress-plugin-gotop-plus/statuses/{sha}
 subscribers_url: https://api.github.com/repos/JoeyBling/vuepress-plugin-gotop-plus/subscribers
@@ -93,10 +93,10 @@ svn_url: https://github.com/JoeyBling/vuepress-plugin-gotop-plus
 tags_url: https://api.github.com/repos/JoeyBling/vuepress-plugin-gotop-plus/tags
 teams_url: https://api.github.com/repos/JoeyBling/vuepress-plugin-gotop-plus/teams
 trees_url: https://api.github.com/repos/JoeyBling/vuepress-plugin-gotop-plus/git/trees{/sha}
-updated_at: '2019-11-08T02:16:35Z'
+updated_at: '2020-01-21T16:05:26Z'
 url: https://api.github.com/repos/JoeyBling/vuepress-plugin-gotop-plus
-watchers: 2
-watchers_count: 2
+watchers: 3
+watchers_count: 3
 ---
 
 # vuepress-plugin-gotop-plus

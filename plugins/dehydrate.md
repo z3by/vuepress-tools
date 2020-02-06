@@ -75,7 +75,7 @@ private: false
 pulls_url: https://api.github.com/repos/vuepress/vuepress-plugin-dehydrate/pulls{/number}
 pushed_at: '2019-11-20T08:04:34Z'
 releases_url: https://api.github.com/repos/vuepress/vuepress-plugin-dehydrate/releases{/id}
-score: 34.19085
+score: 34.133263
 size: 1060
 ssh_url: git@github.com:vuepress/vuepress-plugin-dehydrate.git
 stargazers_count: 9

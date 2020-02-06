@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/lvqq/vuepress-plugin-click/pulls{/number}
 pushed_at: '2019-09-21T09:46:39Z'
 releases_url: https://api.github.com/repos/lvqq/vuepress-plugin-click/releases{/id}
-score: 17.55424
+score: 17.553078
 size: 3
 ssh_url: git@github.com:lvqq/vuepress-plugin-click.git
 stargazers_count: 0

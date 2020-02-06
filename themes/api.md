@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/sqrthree/vuepress-theme-api/downloads
 events_url: https://api.github.com/repos/sqrthree/vuepress-theme-api/events
 fork: false
-forks: 26
-forks_count: 26
+forks: 30
+forks_count: 30
 forks_url: https://api.github.com/repos/sqrthree/vuepress-theme-api/forks
 full_name: sqrthree/vuepress-theme-api
 git_commits_url: https://api.github.com/repos/sqrthree/vuepress-theme-api/git/commits{/sha}
@@ -80,10 +80,10 @@ private: false
 pulls_url: https://api.github.com/repos/sqrthree/vuepress-theme-api/pulls{/number}
 pushed_at: '2019-08-22T12:31:07Z'
 releases_url: https://api.github.com/repos/sqrthree/vuepress-theme-api/releases{/id}
-score: 118.92111
+score: 121.872505
 size: 377
 ssh_url: git@github.com:sqrthree/vuepress-theme-api.git
-stargazers_count: 160
+stargazers_count: 171
 stargazers_url: https://api.github.com/repos/sqrthree/vuepress-theme-api/stargazers
 statuses_url: https://api.github.com/repos/sqrthree/vuepress-theme-api/statuses/{sha}
 subscribers_url: https://api.github.com/repos/sqrthree/vuepress-theme-api/subscribers
@@ -92,10 +92,10 @@ svn_url: https://github.com/sqrthree/vuepress-theme-api
 tags_url: https://api.github.com/repos/sqrthree/vuepress-theme-api/tags
 teams_url: https://api.github.com/repos/sqrthree/vuepress-theme-api/teams
 trees_url: https://api.github.com/repos/sqrthree/vuepress-theme-api/git/trees{/sha}
-updated_at: '2019-12-19T07:45:34Z'
+updated_at: '2020-02-05T11:08:07Z'
 url: https://api.github.com/repos/sqrthree/vuepress-theme-api
-watchers: 160
-watchers_count: 160
+watchers: 171
+watchers_count: 171
 ---
 
 # vuepress-theme-api

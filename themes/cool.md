@@ -80,10 +80,10 @@ private: false
 pulls_url: https://api.github.com/repos/FriendlyUser/vuepress-theme-cool/pulls{/number}
 pushed_at: '2019-12-14T06:04:14Z'
 releases_url: https://api.github.com/repos/FriendlyUser/vuepress-theme-cool/releases{/id}
-score: 86.15603
+score: 86.33841
 size: 178
 ssh_url: git@github.com:FriendlyUser/vuepress-theme-cool.git
-stargazers_count: 40
+stargazers_count: 42
 stargazers_url: https://api.github.com/repos/FriendlyUser/vuepress-theme-cool/stargazers
 statuses_url: https://api.github.com/repos/FriendlyUser/vuepress-theme-cool/statuses/{sha}
 subscribers_url: https://api.github.com/repos/FriendlyUser/vuepress-theme-cool/subscribers
@@ -92,10 +92,10 @@ svn_url: https://github.com/FriendlyUser/vuepress-theme-cool
 tags_url: https://api.github.com/repos/FriendlyUser/vuepress-theme-cool/tags
 teams_url: https://api.github.com/repos/FriendlyUser/vuepress-theme-cool/teams
 trees_url: https://api.github.com/repos/FriendlyUser/vuepress-theme-cool/git/trees{/sha}
-updated_at: '2019-11-07T13:32:49Z'
+updated_at: '2020-02-04T07:40:26Z'
 url: https://api.github.com/repos/FriendlyUser/vuepress-theme-cool
-watchers: 40
-watchers_count: 40
+watchers: 42
+watchers_count: 42
 ---
 
  [![Build Status](https://travis-ci.com/FriendlyUser/vuepress-theme-cool.svg?branch=master)](https://travis-ci.com/FriendlyUser/vuepress-theme-cool) [![npm version](https://badge.fury.io/js/vuepress-theme-cool.svg)](https://badge.fury.io/js/vuepress-theme-cool) [![downloads](https://img.shields.io/npm/dm/vuepress-theme-cool.svg)](https://www.npmjs.com/package/vuepress-theme-cool) [![](https://img.shields.io/badge/Protected_by-Hound-a873d1.svg)](https://houndci.com)
@@ -506,7 +506,7 @@ private: false
 pulls_url: https://api.github.com/repos/davidroyer/vuepress-theme-cool/pulls{/number}
 pushed_at: '2019-09-11T11:00:02Z'
 releases_url: https://api.github.com/repos/davidroyer/vuepress-theme-cool/releases{/id}
-score: 18.522398
+score: 18.464277
 size: 244
 ssh_url: git@github.com:davidroyer/vuepress-theme-cool.git
 stargazers_count: 0

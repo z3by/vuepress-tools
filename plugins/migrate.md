@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/vuepress/vuepress-plugin-migrate/pulls{/number}
 pushed_at: '2019-03-18T15:20:11Z'
 releases_url: https://api.github.com/repos/vuepress/vuepress-plugin-migrate/releases{/id}
-score: 28.157003
+score: 28.059124
 size: 96
 ssh_url: git@github.com:vuepress/vuepress-plugin-migrate.git
 stargazers_count: 4

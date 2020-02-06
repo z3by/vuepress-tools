@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/limdongjin/vuepress-plugin-sidebar-on-off/pulls{/number}
 pushed_at: '2019-01-16T22:19:33Z'
 releases_url: https://api.github.com/repos/limdongjin/vuepress-plugin-sidebar-on-off/releases{/id}
-score: 16.818035
+score: 16.814
 size: 9
 ssh_url: git@github.com:limdongjin/vuepress-plugin-sidebar-on-off.git
 stargazers_count: 1

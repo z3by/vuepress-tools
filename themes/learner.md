@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/dylan-wu/vuepress-theme-learner/pulls{/number}
 pushed_at: '2019-02-27T18:42:05Z'
 releases_url: https://api.github.com/repos/dylan-wu/vuepress-theme-learner/releases{/id}
-score: 19.724117
+score: 19.604977
 size: 4
 ssh_url: git@github.com:dylan-wu/vuepress-theme-learner.git
 stargazers_count: 0

@@ -75,7 +75,7 @@ private: false
 pulls_url: https://api.github.com/repos/upeoe/vuepress-theme-luna/pulls{/number}
 pushed_at: '2018-08-22T03:09:00Z'
 releases_url: https://api.github.com/repos/upeoe/vuepress-theme-luna/releases{/id}
-score: 18.747967
+score: 18.744167
 size: 71
 ssh_url: git@github.com:upeoe/vuepress-theme-luna.git
 stargazers_count: 1

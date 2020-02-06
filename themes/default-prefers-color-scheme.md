@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/tolking/vuepress-theme-default-prefers-color-scheme/downloads
 events_url: https://api.github.com/repos/tolking/vuepress-theme-default-prefers-color-scheme/events
 fork: false
-forks: 2
-forks_count: 2
+forks: 3
+forks_count: 3
 forks_url: https://api.github.com/repos/tolking/vuepress-theme-default-prefers-color-scheme/forks
 full_name: tolking/vuepress-theme-default-prefers-color-scheme
 git_commits_url: https://api.github.com/repos/tolking/vuepress-theme-default-prefers-color-scheme/git/commits{/sha}
@@ -78,12 +78,12 @@ owner:
   url: https://api.github.com/users/tolking
 private: false
 pulls_url: https://api.github.com/repos/tolking/vuepress-theme-default-prefers-color-scheme/pulls{/number}
-pushed_at: '2019-10-17T09:00:23Z'
+pushed_at: '2020-02-02T12:26:31Z'
 releases_url: https://api.github.com/repos/tolking/vuepress-theme-default-prefers-color-scheme/releases{/id}
-score: 46.218266
-size: 514
+score: 55.782513
+size: 716
 ssh_url: git@github.com:tolking/vuepress-theme-default-prefers-color-scheme.git
-stargazers_count: 13
+stargazers_count: 20
 stargazers_url: https://api.github.com/repos/tolking/vuepress-theme-default-prefers-color-scheme/stargazers
 statuses_url: https://api.github.com/repos/tolking/vuepress-theme-default-prefers-color-scheme/statuses/{sha}
 subscribers_url: https://api.github.com/repos/tolking/vuepress-theme-default-prefers-color-scheme/subscribers
@@ -92,10 +92,10 @@ svn_url: https://github.com/tolking/vuepress-theme-default-prefers-color-scheme
 tags_url: https://api.github.com/repos/tolking/vuepress-theme-default-prefers-color-scheme/tags
 teams_url: https://api.github.com/repos/tolking/vuepress-theme-default-prefers-color-scheme/teams
 trees_url: https://api.github.com/repos/tolking/vuepress-theme-default-prefers-color-scheme/git/trees{/sha}
-updated_at: '2019-12-06T09:30:53Z'
+updated_at: '2020-02-03T20:43:22Z'
 url: https://api.github.com/repos/tolking/vuepress-theme-default-prefers-color-scheme
-watchers: 13
-watchers_count: 13
+watchers: 20
+watchers_count: 20
 ---
 
 # vuepress-theme-default-prefers-color-scheme
@@ -112,7 +112,7 @@ watchers_count: 13
 
 ![light.jpg](https://raw.githubusercontent.com/qiang/vuepress-theme-default-prefers-color-scheme/master/docs/.vuepress/public/img/light.jpg)
 
-![light.jpg](https://raw.githubusercontent.com/qiang/vuepress-theme-default-prefers-color-scheme/master/docs/.vuepress/public/img/dark.jpg)
+![dark.jpg](https://raw.githubusercontent.com/qiang/vuepress-theme-default-prefers-color-scheme/master/docs/.vuepress/public/img/dark.jpg)
 
 ---
 
@@ -140,7 +140,6 @@ module.exports = {
 
 ### defaultTheme
 - Type: `string`, `object`
-- Default: `undefined`
 - Required: `false`
 
 By default, light or dark themes are displayed by [prefers-color-scheme](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme), You can change it by `defaultTheme`

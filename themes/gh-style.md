@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/wencaizhang/vuepress-theme-gh-style/pulls{/number}
 pushed_at: '2019-12-18T10:16:28Z'
 releases_url: https://api.github.com/repos/wencaizhang/vuepress-theme-gh-style/releases{/id}
-score: 18.410517
+score: 18.346085
 size: 1216
 ssh_url: git@github.com:wencaizhang/vuepress-theme-gh-style.git
 stargazers_count: 0

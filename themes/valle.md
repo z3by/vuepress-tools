@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/yliaho/vuepress-theme-valle/pulls{/number}
 pushed_at: '2018-05-14T10:10:07Z'
 releases_url: https://api.github.com/repos/yliaho/vuepress-theme-valle/releases{/id}
-score: 85.22355
+score: 84.45115
 size: 290
 ssh_url: git@github.com:yliaho/vuepress-theme-valle.git
 stargazers_count: 29

@@ -81,10 +81,10 @@ private: false
 pulls_url: https://api.github.com/repos/ioim/vuepress-theme-yur-cli/pulls{/number}
 pushed_at: '2019-12-06T14:52:56Z'
 releases_url: https://api.github.com/repos/ioim/vuepress-theme-yur-cli/releases{/id}
-score: 34.933624
+score: 48.519817
 size: 2428
 ssh_url: git@github.com:ioim/vuepress-theme-yur-cli.git
-stargazers_count: 8
+stargazers_count: 9
 stargazers_url: https://api.github.com/repos/ioim/vuepress-theme-yur-cli/stargazers
 statuses_url: https://api.github.com/repos/ioim/vuepress-theme-yur-cli/statuses/{sha}
 subscribers_url: https://api.github.com/repos/ioim/vuepress-theme-yur-cli/subscribers
@@ -93,10 +93,10 @@ svn_url: https://github.com/ioim/vuepress-theme-yur-cli
 tags_url: https://api.github.com/repos/ioim/vuepress-theme-yur-cli/tags
 teams_url: https://api.github.com/repos/ioim/vuepress-theme-yur-cli/teams
 trees_url: https://api.github.com/repos/ioim/vuepress-theme-yur-cli/git/trees{/sha}
-updated_at: '2019-12-17T03:45:56Z'
+updated_at: '2020-01-28T13:25:46Z'
 url: https://api.github.com/repos/ioim/vuepress-theme-yur-cli
-watchers: 8
-watchers_count: 8
+watchers: 9
+watchers_count: 9
 ---
 
 # :love_hotel: VuePress Cli

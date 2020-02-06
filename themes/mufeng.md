@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/zhangximufeng/vuepress-theme-mufeng/pulls{/number}
 pushed_at: '2019-02-26T15:07:20Z'
 releases_url: https://api.github.com/repos/zhangximufeng/vuepress-theme-mufeng/releases{/id}
-score: 89.62234
+score: 89.30535
 size: 86
 ssh_url: git@github.com:zhangximufeng/vuepress-theme-mufeng.git
 stargazers_count: 13

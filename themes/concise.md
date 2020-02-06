@@ -14,7 +14,8 @@ contributors_url: https://api.github.com/repos/YoungsunLi/vuepress-theme-concise
 created_at: '2018-05-05T15:33:36Z'
 default_branch: master
 deployments_url: https://api.github.com/repos/YoungsunLi/vuepress-theme-concise/deployments
-description: VuePress 1.x derived theme.
+description: "\u5361\u7247\u5F0F\u9996\u9875\u5448\u73B0\u7684VuePress1.x\u4E3B\u9898\
+  \  VuePress 1.x derived theme."
 disabled: false
 downloads_url: https://api.github.com/repos/YoungsunLi/vuepress-theme-concise/downloads
 events_url: https://api.github.com/repos/YoungsunLi/vuepress-theme-concise/events
@@ -80,7 +81,7 @@ private: false
 pulls_url: https://api.github.com/repos/YoungsunLi/vuepress-theme-concise/pulls{/number}
 pushed_at: '2019-08-06T04:19:34Z'
 releases_url: https://api.github.com/repos/YoungsunLi/vuepress-theme-concise/releases{/id}
-score: 27.573885
+score: 27.273962
 size: 41
 ssh_url: git@github.com:YoungsunLi/vuepress-theme-concise.git
 stargazers_count: 3
@@ -92,7 +93,7 @@ svn_url: https://github.com/YoungsunLi/vuepress-theme-concise
 tags_url: https://api.github.com/repos/YoungsunLi/vuepress-theme-concise/tags
 teams_url: https://api.github.com/repos/YoungsunLi/vuepress-theme-concise/teams
 trees_url: https://api.github.com/repos/YoungsunLi/vuepress-theme-concise/git/trees{/sha}
-updated_at: '2019-11-08T19:23:54Z'
+updated_at: '2020-01-16T03:06:36Z'
 url: https://api.github.com/repos/YoungsunLi/vuepress-theme-concise
 watchers: 3
 watchers_count: 3

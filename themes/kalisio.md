@@ -75,7 +75,7 @@ private: false
 pulls_url: https://api.github.com/repos/kalisio/vuepress-theme-kalisio/pulls{/number}
 pushed_at: '2019-03-20T15:27:43Z'
 releases_url: https://api.github.com/repos/kalisio/vuepress-theme-kalisio/releases{/id}
-score: 19.771772
+score: 19.63826
 size: 19
 ssh_url: git@github.com:kalisio/vuepress-theme-kalisio.git
 stargazers_count: 0

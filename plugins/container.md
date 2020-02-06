@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/vuepress/vuepress-plugin-container/pulls{/number}
 pushed_at: '2019-10-12T13:07:32Z'
 releases_url: https://api.github.com/repos/vuepress/vuepress-plugin-container/releases{/id}
-score: 28.06689
+score: 28.041517
 size: 900
 ssh_url: git@github.com:vuepress/vuepress-plugin-container.git
 stargazers_count: 4

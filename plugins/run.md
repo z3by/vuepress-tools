@@ -75,10 +75,10 @@ private: false
 pulls_url: https://api.github.com/repos/dream2023/vuepress-plugin-run/pulls{/number}
 pushed_at: '2019-12-15T07:23:20Z'
 releases_url: https://api.github.com/repos/dream2023/vuepress-plugin-run/releases{/id}
-score: 29.78536
+score: 31.074842
 size: 348
 ssh_url: git@github.com:dream2023/vuepress-plugin-run.git
-stargazers_count: 5
+stargazers_count: 6
 stargazers_url: https://api.github.com/repos/dream2023/vuepress-plugin-run/stargazers
 statuses_url: https://api.github.com/repos/dream2023/vuepress-plugin-run/statuses/{sha}
 subscribers_url: https://api.github.com/repos/dream2023/vuepress-plugin-run/subscribers
@@ -87,10 +87,10 @@ svn_url: https://github.com/dream2023/vuepress-plugin-run
 tags_url: https://api.github.com/repos/dream2023/vuepress-plugin-run/tags
 teams_url: https://api.github.com/repos/dream2023/vuepress-plugin-run/teams
 trees_url: https://api.github.com/repos/dream2023/vuepress-plugin-run/git/trees{/sha}
-updated_at: '2019-12-18T15:18:40Z'
+updated_at: '2020-02-06T06:04:56Z'
 url: https://api.github.com/repos/dream2023/vuepress-plugin-run
-watchers: 5
-watchers_count: 5
+watchers: 6
+watchers_count: 6
 ---
 
 # vuepress-plugin-run | vuepress 在线运行 Vue 单文件

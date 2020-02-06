@@ -81,7 +81,7 @@ private: false
 pulls_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-extract-code/pulls{/number}
 pushed_at: '2019-11-03T09:51:34Z'
 releases_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-extract-code/releases{/id}
-score: 23.050184
+score: 23.002657
 size: 21
 ssh_url: git@github.com:vuepress-reco/vuepress-plugin-extract-code.git
 stargazers_count: 2

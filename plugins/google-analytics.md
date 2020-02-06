@@ -75,7 +75,7 @@ private: false
 pulls_url: https://api.github.com/repos/simonwjackson/vuepress-plugin-google-analytics/pulls{/number}
 pushed_at: '2018-11-26T16:31:49Z'
 releases_url: https://api.github.com/repos/simonwjackson/vuepress-plugin-google-analytics/releases{/id}
-score: 17.519411
+score: 17.50342
 size: 1
 ssh_url: git@github.com:simonwjackson/vuepress-plugin-google-analytics.git
 stargazers_count: 0

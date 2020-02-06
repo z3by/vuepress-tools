@@ -75,7 +75,7 @@ private: false
 pulls_url: https://api.github.com/repos/cky917/vuepress-theme-cky/pulls{/number}
 pushed_at: '2019-12-10T05:22:49Z'
 releases_url: https://api.github.com/repos/cky917/vuepress-theme-cky/releases{/id}
-score: 19.724117
+score: 19.604977
 size: 414
 ssh_url: git@github.com:cky917/vuepress-theme-cky.git
 stargazers_count: 0

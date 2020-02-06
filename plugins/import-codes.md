@@ -75,7 +75,7 @@ private: false
 pulls_url: https://api.github.com/repos/Liaoct/vuepress-plugin-import-codes/pulls{/number}
 pushed_at: '2019-04-12T19:48:35Z'
 releases_url: https://api.github.com/repos/Liaoct/vuepress-plugin-import-codes/releases{/id}
-score: 17.55424
+score: 17.553078
 size: 84
 ssh_url: git@github.com:Liaoct/vuepress-plugin-import-codes.git
 stargazers_count: 0

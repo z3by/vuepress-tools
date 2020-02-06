@@ -80,10 +80,10 @@ private: false
 pulls_url: https://api.github.com/repos/eggjs/vuepress-theme-egg/pulls{/number}
 pushed_at: '2019-09-17T03:46:21Z'
 releases_url: https://api.github.com/repos/eggjs/vuepress-theme-egg/releases{/id}
-score: 31.9271
+score: 33.32266
 size: 45
 ssh_url: git@github.com:eggjs/vuepress-theme-egg.git
-stargazers_count: 5
+stargazers_count: 6
 stargazers_url: https://api.github.com/repos/eggjs/vuepress-theme-egg/stargazers
 statuses_url: https://api.github.com/repos/eggjs/vuepress-theme-egg/statuses/{sha}
 subscribers_url: https://api.github.com/repos/eggjs/vuepress-theme-egg/subscribers
@@ -92,10 +92,10 @@ svn_url: https://github.com/eggjs/vuepress-theme-egg
 tags_url: https://api.github.com/repos/eggjs/vuepress-theme-egg/tags
 teams_url: https://api.github.com/repos/eggjs/vuepress-theme-egg/teams
 trees_url: https://api.github.com/repos/eggjs/vuepress-theme-egg/git/trees{/sha}
-updated_at: '2019-12-18T12:29:56Z'
+updated_at: '2020-01-18T07:31:22Z'
 url: https://api.github.com/repos/eggjs/vuepress-theme-egg
-watchers: 5
-watchers_count: 5
+watchers: 6
+watchers_count: 6
 ---
 
 # Vuepress-Theme-Egg &middot; [![GitHub license][license-square]][license-url]

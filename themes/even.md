@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/imengX/vuepress-theme-even/pulls{/number}
 pushed_at: '2018-06-29T13:16:20Z'
 releases_url: https://api.github.com/repos/imengX/vuepress-theme-even/releases{/id}
-score: 18.644394
+score: 18.55332
 size: 266
 ssh_url: git@github.com:imengX/vuepress-theme-even.git
 stargazers_count: 0

@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/z3by/vuepress-theme-modern-blog/downloads
 events_url: https://api.github.com/repos/z3by/vuepress-theme-modern-blog/events
 fork: false
-forks: 2
-forks_count: 2
+forks: 7
+forks_count: 7
 forks_url: https://api.github.com/repos/z3by/vuepress-theme-modern-blog/forks
 full_name: z3by/vuepress-theme-modern-blog
 git_commits_url: https://api.github.com/repos/z3by/vuepress-theme-modern-blog/git/commits{/sha}
@@ -55,8 +55,8 @@ mirror_url: null
 name: vuepress-theme-modern-blog
 node_id: MDEwOlJlcG9zaXRvcnkyMjUyMDQ2OTg=
 notifications_url: https://api.github.com/repos/z3by/vuepress-theme-modern-blog/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
+open_issues: 6
+open_issues_count: 6
 owner:
   avatar_url: https://avatars1.githubusercontent.com/u/36268825?v=4
   events_url: https://api.github.com/users/z3by/events{/privacy}
@@ -78,12 +78,12 @@ owner:
   url: https://api.github.com/users/z3by
 private: false
 pulls_url: https://api.github.com/repos/z3by/vuepress-theme-modern-blog/pulls{/number}
-pushed_at: '2019-12-19T19:25:33Z'
+pushed_at: '2020-01-26T19:18:48Z'
 releases_url: https://api.github.com/repos/z3by/vuepress-theme-modern-blog/releases{/id}
-score: 187.38886
-size: 442
+score: 76.65783
+size: 637
 ssh_url: git@github.com:z3by/vuepress-theme-modern-blog.git
-stargazers_count: 3
+stargazers_count: 16
 stargazers_url: https://api.github.com/repos/z3by/vuepress-theme-modern-blog/stargazers
 statuses_url: https://api.github.com/repos/z3by/vuepress-theme-modern-blog/statuses/{sha}
 subscribers_url: https://api.github.com/repos/z3by/vuepress-theme-modern-blog/subscribers
@@ -92,10 +92,10 @@ svn_url: https://github.com/z3by/vuepress-theme-modern-blog
 tags_url: https://api.github.com/repos/z3by/vuepress-theme-modern-blog/tags
 teams_url: https://api.github.com/repos/z3by/vuepress-theme-modern-blog/teams
 trees_url: https://api.github.com/repos/z3by/vuepress-theme-modern-blog/git/trees{/sha}
-updated_at: '2019-12-19T19:25:35Z'
+updated_at: '2020-02-06T16:04:40Z'
 url: https://api.github.com/repos/z3by/vuepress-theme-modern-blog
-watchers: 3
-watchers_count: 3
+watchers: 16
+watchers_count: 16
 ---
 
 # vuepress-theme-modern-blog
@@ -371,6 +371,7 @@ to enable this plugin you need to define:
 
 ```js
 ...
+  sitemap: true,
   hostname: "https://ahmadmostafa.com/" // your own hostname
 ...
 ```
@@ -389,7 +390,15 @@ to enable this plugin you need also to define:
 
 refer to [docs](https://sns.goyfe.com/)
 
+e.g
+
+```js
+  socialShare: true,
+  socialShareNetworks: ["twitter", "facebook"],
+```
+
 ### googleAnalytics
+Google analytics tracking ID
 
 - Type: `string`
 - Default: `undefined`
@@ -405,12 +414,12 @@ The default is the
 [pagination component](https://vuepress-plugin-blog.ulivz.com/components/#pagination) powerful by 
 [@vuepress/plugin-blog](https://github.com/ulivz/vuepress-plugin-blog):
 
-<img src="https://raw.githubusercontent.com/z3by/vuepress-theme-modern-blog/master/assets/pagination.png" width="250" height="" style=""/>
+<img src="https://raw.githubusercontent.com/Ahmad Mostafa/vuepress-theme-modern-blog/master/assets/pagination.png" width="250" height="" style=""/>
 
 You can set this option to `SimplePagination` to enable another out-of-box 
 [simple pagination component](https://vuepress-plugin-blog.ulivz.com/components/#simplepagination):
 
-<img src="https://raw.githubusercontent.com/z3by/vuepress-theme-modern-blog/master/assets/simple-pagination.png" width="250" height="" style=""/>
+<img src="https://raw.githubusercontent.com/Ahmad Mostafa/vuepress-theme-modern-blog/master/assets/simple-pagination.png" width="250" height="" style=""/>
 
 You can also wirte a custom pagination component and register it as a global component. then pass its
 name to this option.
@@ -448,7 +457,7 @@ Author name
 
 ```markdown
 ---
-author: ULIVZ
+author: Ahmad Mostafa
 ---
 ```
 
@@ -456,7 +465,7 @@ author: ULIVZ
 
 ```markdown
 ---
-location: Hangzhou
+location: Jordan
 ---
 ```
 

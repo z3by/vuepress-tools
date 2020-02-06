@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/unix/vuepress-theme-zeit/pulls{/number}
 pushed_at: '2019-10-30T07:47:36Z'
 releases_url: https://api.github.com/repos/unix/vuepress-theme-zeit/releases{/id}
-score: 29.385805
+score: 29.214354
 size: 349
 ssh_url: git@github.com:unix/vuepress-theme-zeit.git
 stargazers_count: 4

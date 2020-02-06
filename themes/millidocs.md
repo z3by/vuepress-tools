@@ -75,7 +75,7 @@ private: false
 pulls_url: https://api.github.com/repos/alexander-heimbuch/vuepress-theme-millidocs/pulls{/number}
 pushed_at: '2019-02-01T19:42:42Z'
 releases_url: https://api.github.com/repos/alexander-heimbuch/vuepress-theme-millidocs/releases{/id}
-score: 31.065176
+score: 30.983465
 size: 685
 ssh_url: git@github.com:alexander-heimbuch/vuepress-theme-millidocs.git
 stargazers_count: 0

@@ -14,13 +14,13 @@ contributors_url: https://api.github.com/repos/cnguu/vuepress-theme-yur/contribu
 created_at: '2019-09-09T15:52:03Z'
 default_branch: master
 deployments_url: https://api.github.com/repos/cnguu/vuepress-theme-yur/deployments
-description: A simple and powerful vuepress theme.
+description: A vuepress theme.(Docs writing...)
 disabled: false
 downloads_url: https://api.github.com/repos/cnguu/vuepress-theme-yur/downloads
 events_url: https://api.github.com/repos/cnguu/vuepress-theme-yur/events
 fork: false
-forks: 11
-forks_count: 11
+forks: 13
+forks_count: 13
 forks_url: https://api.github.com/repos/cnguu/vuepress-theme-yur/forks
 full_name: cnguu/vuepress-theme-yur
 git_commits_url: https://api.github.com/repos/cnguu/vuepress-theme-yur/git/commits{/sha}
@@ -41,7 +41,7 @@ issue_events_url: https://api.github.com/repos/cnguu/vuepress-theme-yur/issues/e
 issues_url: https://api.github.com/repos/cnguu/vuepress-theme-yur/issues{/number}
 keys_url: https://api.github.com/repos/cnguu/vuepress-theme-yur/keys{/key_id}
 labels_url: https://api.github.com/repos/cnguu/vuepress-theme-yur/labels{/name}
-language: CSS
+language: Vue
 languages_url: https://api.github.com/repos/cnguu/vuepress-theme-yur/languages
 license:
   key: mit
@@ -78,12 +78,12 @@ owner:
   url: https://api.github.com/users/cnguu
 private: false
 pulls_url: https://api.github.com/repos/cnguu/vuepress-theme-yur/pulls{/number}
-pushed_at: '2019-12-25T16:11:08Z'
+pushed_at: '2020-02-06T02:44:04Z'
 releases_url: https://api.github.com/repos/cnguu/vuepress-theme-yur/releases{/id}
-score: 96.49433
-size: 5080
+score: 102.61816
+size: 5814
 ssh_url: git@github.com:cnguu/vuepress-theme-yur.git
-stargazers_count: 73
+stargazers_count: 90
 stargazers_url: https://api.github.com/repos/cnguu/vuepress-theme-yur/stargazers
 statuses_url: https://api.github.com/repos/cnguu/vuepress-theme-yur/statuses/{sha}
 subscribers_url: https://api.github.com/repos/cnguu/vuepress-theme-yur/subscribers
@@ -92,16 +92,16 @@ svn_url: https://github.com/cnguu/vuepress-theme-yur
 tags_url: https://api.github.com/repos/cnguu/vuepress-theme-yur/tags
 teams_url: https://api.github.com/repos/cnguu/vuepress-theme-yur/teams
 trees_url: https://api.github.com/repos/cnguu/vuepress-theme-yur/git/trees{/sha}
-updated_at: '2019-12-25T16:11:10Z'
+updated_at: '2020-02-06T02:43:28Z'
 url: https://api.github.com/repos/cnguu/vuepress-theme-yur
-watchers: 73
-watchers_count: 73
+watchers: 90
+watchers_count: 90
 ---
 
 # VuePress Theme - Yur
 
 ![](https://img.shields.io/npm/dt/vuepress-theme-yur.svg)
-![](https://img.shields.io/static/v1.svg?label=VuePress&message=1.2.0&color=informational)
+![](https://img.shields.io/static/v1.svg?label=VuePress&message=1.3.0&color=informational)
 ![](https://img.shields.io/static/v1.svg?label=License&message=MIT&color=critical)
 
 ## Introduction
@@ -110,7 +110,7 @@ watchers_count: 73
 
 :revolving_hearts: [Live Demo](https://gleehub.com)
 
-:book: [Live Docs](https://gleehub.com/other/vuepress-theme-yur-shi-yong-jiao-cheng.html)
+:book: [Docs](https://gleehub.com/other/vuepress-theme-yur-shi-yong-jiao-cheng.html)
 
 :construction: [Change log](https://gleehub.com/other/yur-zhu-ti-geng-xin-ri-zhi.html)
 

@@ -55,8 +55,8 @@ mirror_url: null
 name: vuepress-plugin-comments
 node_id: MDEwOlJlcG9zaXRvcnkyMTQ3NjkyNzA=
 notifications_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-comments/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
+open_issues: 1
+open_issues_count: 1
 owner:
   avatar_url: https://avatars0.githubusercontent.com/u/54167020?v=4
   events_url: https://api.github.com/users/vuepress-reco/events{/privacy}
@@ -78,12 +78,12 @@ owner:
   url: https://api.github.com/users/vuepress-reco
 private: false
 pulls_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-comments/pulls{/number}
-pushed_at: '2019-12-21T14:47:14Z'
+pushed_at: '2019-12-30T15:25:12Z'
 releases_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-comments/releases{/id}
-score: 28.57152
-size: 30
+score: 42.32396
+size: 33
 ssh_url: git@github.com:vuepress-reco/vuepress-plugin-comments.git
-stargazers_count: 4
+stargazers_count: 5
 stargazers_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-comments/stargazers
 statuses_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-comments/statuses/{sha}
 subscribers_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-comments/subscribers
@@ -92,10 +92,10 @@ svn_url: https://github.com/vuepress-reco/vuepress-plugin-comments
 tags_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-comments/tags
 teams_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-comments/teams
 trees_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-comments/git/trees{/sha}
-updated_at: '2019-12-25T02:39:59Z'
+updated_at: '2019-12-30T14:48:23Z'
 url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-comments
-watchers: 4
-watchers_count: 4
+watchers: 5
+watchers_count: 5
 ---
 
 # @vuepress-reco/vuepress-plugin-comments

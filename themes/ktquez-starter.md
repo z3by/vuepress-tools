@@ -1,0 +1,103 @@
+---
+archive_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez-starter/{archive_format}{/ref}
+archived: false
+assignees_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez-starter/assignees{/user}
+blobs_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez-starter/git/blobs{/sha}
+branches_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez-starter/branches{/branch}
+clone_url: https://github.com/ktquez/vuepress-theme-ktquez-starter.git
+collaborators_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez-starter/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez-starter/comments{/number}
+commits_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez-starter/commits{/sha}
+compare_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez-starter/compare/{base}...{head}
+contents_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez-starter/contents/{+path}
+contributors_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez-starter/contributors
+created_at: '2018-08-26T14:31:18Z'
+default_branch: master
+deployments_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez-starter/deployments
+description: A boilerplate for vuepress-theme-ktquez
+disabled: false
+downloads_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez-starter/downloads
+events_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez-starter/events
+fork: false
+forks: 11
+forks_count: 11
+forks_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez-starter/forks
+full_name: ktquez/vuepress-theme-ktquez-starter
+git_commits_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez-starter/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez-starter/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez-starter/git/tags{/sha}
+git_url: git://github.com/ktquez/vuepress-theme-ktquez-starter.git
+has_downloads: true
+has_issues: true
+has_pages: false
+has_projects: true
+has_wiki: true
+homepage: https://ktquez-play.web.app/en/
+hooks_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez-starter/hooks
+html_url: https://github.com/ktquez/vuepress-theme-ktquez-starter
+id: 146187961
+issue_comment_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez-starter/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez-starter/issues/events{/number}
+issues_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez-starter/issues{/number}
+keys_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez-starter/keys{/key_id}
+labels_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez-starter/labels{/name}
+language: JavaScript
+languages_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez-starter/languages
+license:
+  key: mit
+  name: MIT License
+  node_id: MDc6TGljZW5zZTEz
+  spdx_id: MIT
+  url: https://api.github.com/licenses/mit
+merges_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez-starter/merges
+milestones_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez-starter/milestones{/number}
+mirror_url: null
+name: vuepress-theme-ktquez-starter
+node_id: MDEwOlJlcG9zaXRvcnkxNDYxODc5NjE=
+notifications_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez-starter/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
+owner:
+  avatar_url: https://avatars2.githubusercontent.com/u/8084606?v=4
+  events_url: https://api.github.com/users/ktquez/events{/privacy}
+  followers_url: https://api.github.com/users/ktquez/followers
+  following_url: https://api.github.com/users/ktquez/following{/other_user}
+  gists_url: https://api.github.com/users/ktquez/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/ktquez
+  id: 8084606
+  login: ktquez
+  node_id: MDQ6VXNlcjgwODQ2MDY=
+  organizations_url: https://api.github.com/users/ktquez/orgs
+  received_events_url: https://api.github.com/users/ktquez/received_events
+  repos_url: https://api.github.com/users/ktquez/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/ktquez/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/ktquez/subscriptions
+  type: User
+  url: https://api.github.com/users/ktquez
+private: false
+pulls_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez-starter/pulls{/number}
+pushed_at: '2019-03-09T20:44:27Z'
+releases_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez-starter/releases{/id}
+score: 86.312584
+size: 903
+ssh_url: git@github.com:ktquez/vuepress-theme-ktquez-starter.git
+stargazers_count: 24
+stargazers_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez-starter/stargazers
+statuses_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez-starter/statuses/{sha}
+subscribers_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez-starter/subscribers
+subscription_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez-starter/subscription
+svn_url: https://github.com/ktquez/vuepress-theme-ktquez-starter
+tags_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez-starter/tags
+teams_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez-starter/teams
+trees_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez-starter/git/trees{/sha}
+updated_at: '2019-11-22T10:00:15Z'
+url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez-starter
+watchers: 24
+watchers_count: 24
+---
+
+# vuepress-ktquez-theme-starter
+A boilerplate for [vuepress-theme-ktquez](https://github.com/ktquez/vuepress-theme-ktquez)
+

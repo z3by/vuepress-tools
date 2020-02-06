@@ -75,7 +75,7 @@ private: false
 pulls_url: https://api.github.com/repos/hedongshu/vuepress-theme-crow/pulls{/number}
 pushed_at: '2019-10-21T19:25:19Z'
 releases_url: https://api.github.com/repos/hedongshu/vuepress-theme-crow/releases{/id}
-score: 18.408278
+score: 18.330046
 size: 315
 ssh_url: git@github.com:hedongshu/vuepress-theme-crow.git
 stargazers_count: 0

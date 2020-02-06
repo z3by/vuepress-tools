@@ -78,10 +78,10 @@ owner:
   url: https://api.github.com/users/ZjBlog
 private: false
 pulls_url: https://api.github.com/repos/ZjBlog/vuepress-theme-zjblog/pulls{/number}
-pushed_at: '2019-07-30T09:56:48Z'
+pushed_at: '2020-01-21T09:45:23Z'
 releases_url: https://api.github.com/repos/ZjBlog/vuepress-theme-zjblog/releases{/id}
-score: 23.864693
-size: 190
+score: 23.780142
+size: 216
 ssh_url: git@github.com:ZjBlog/vuepress-theme-zjblog.git
 stargazers_count: 2
 stargazers_url: https://api.github.com/repos/ZjBlog/vuepress-theme-zjblog/stargazers
@@ -92,12 +92,13 @@ svn_url: https://github.com/ZjBlog/vuepress-theme-zjblog
 tags_url: https://api.github.com/repos/ZjBlog/vuepress-theme-zjblog/tags
 teams_url: https://api.github.com/repos/ZjBlog/vuepress-theme-zjblog/teams
 trees_url: https://api.github.com/repos/ZjBlog/vuepress-theme-zjblog/git/trees{/sha}
-updated_at: '2019-11-17T23:53:03Z'
+updated_at: '2020-01-21T09:45:26Z'
 url: https://api.github.com/repos/ZjBlog/vuepress-theme-zjblog
 watchers: 2
 watchers_count: 2
 ---
 
+  ![](https://github.com/ZjBlog/vuepress-theme-zjblog/workflows/npm/badge.svg)
 # vuepress-theme-zjblog
 `vuepress` `vuepress-theme` `bgcz` `主题模板`
 ## [博客预览][blog]

@@ -75,7 +75,7 @@ private: false
 pulls_url: https://api.github.com/repos/andreasvirkus/vuepress-theme-ajv/pulls{/number}
 pushed_at: '2018-04-21T16:23:20Z'
 releases_url: https://api.github.com/repos/andreasvirkus/vuepress-theme-ajv/releases{/id}
-score: 27.182793
+score: 27.135246
 size: 36
 ssh_url: git@github.com:andreasvirkus/vuepress-theme-ajv.git
 stargazers_count: 3

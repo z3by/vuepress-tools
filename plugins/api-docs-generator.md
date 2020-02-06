@@ -75,7 +75,7 @@ private: false
 pulls_url: https://api.github.com/repos/evaera/vuepress-plugin-api-docs-generator/pulls{/number}
 pushed_at: '2019-11-15T17:00:40Z'
 releases_url: https://api.github.com/repos/evaera/vuepress-plugin-api-docs-generator/releases{/id}
-score: 21.779867
+score: 21.760588
 size: 149
 ssh_url: git@github.com:evaera/vuepress-plugin-api-docs-generator.git
 stargazers_count: 2

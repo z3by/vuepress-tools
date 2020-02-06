@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/vxhly/vuepress-plugin-reward/pulls{/number}
 pushed_at: '2019-11-01T08:25:42Z'
 releases_url: https://api.github.com/repos/vxhly/vuepress-plugin-reward/releases{/id}
-score: 17.58375
+score: 17.618238
 size: 6
 ssh_url: git@github.com:vxhly/vuepress-plugin-reward.git
 stargazers_count: 1

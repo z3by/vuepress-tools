@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/zhhlwd/vuepress-theme-indigo-material/downloads
 events_url: https://api.github.com/repos/zhhlwd/vuepress-theme-indigo-material/events
 fork: false
-forks: 34
-forks_count: 34
+forks: 36
+forks_count: 36
 forks_url: https://api.github.com/repos/zhhlwd/vuepress-theme-indigo-material/forks
 full_name: zhhlwd/vuepress-theme-indigo-material
 git_commits_url: https://api.github.com/repos/zhhlwd/vuepress-theme-indigo-material/git/commits{/sha}
@@ -80,10 +80,10 @@ private: false
 pulls_url: https://api.github.com/repos/zhhlwd/vuepress-theme-indigo-material/pulls{/number}
 pushed_at: '2019-07-05T01:05:30Z'
 releases_url: https://api.github.com/repos/zhhlwd/vuepress-theme-indigo-material/releases{/id}
-score: 127.564064
+score: 128.46428
 size: 1371
 ssh_url: git@github.com:zhhlwd/vuepress-theme-indigo-material.git
-stargazers_count: 219
+stargazers_count: 222
 stargazers_url: https://api.github.com/repos/zhhlwd/vuepress-theme-indigo-material/stargazers
 statuses_url: https://api.github.com/repos/zhhlwd/vuepress-theme-indigo-material/statuses/{sha}
 subscribers_url: https://api.github.com/repos/zhhlwd/vuepress-theme-indigo-material/subscribers
@@ -92,10 +92,10 @@ svn_url: https://github.com/zhhlwd/vuepress-theme-indigo-material
 tags_url: https://api.github.com/repos/zhhlwd/vuepress-theme-indigo-material/tags
 teams_url: https://api.github.com/repos/zhhlwd/vuepress-theme-indigo-material/teams
 trees_url: https://api.github.com/repos/zhhlwd/vuepress-theme-indigo-material/git/trees{/sha}
-updated_at: '2019-12-24T13:52:39Z'
+updated_at: '2020-01-18T06:22:41Z'
 url: https://api.github.com/repos/zhhlwd/vuepress-theme-indigo-material
-watchers: 219
-watchers_count: 219
+watchers: 222
+watchers_count: 222
 ---
 
 <h1 align="center">vuepress-theme-indigo-material</h1>

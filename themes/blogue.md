@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/ocavue/vuepress-theme-blogue/pulls{/number}
 pushed_at: '2019-08-27T13:09:46Z'
 releases_url: https://api.github.com/repos/ocavue/vuepress-theme-blogue/releases{/id}
-score: 51.32889
+score: 51.193893
 size: 515
 ssh_url: git@github.com:ocavue/vuepress-theme-blogue.git
 stargazers_count: 5

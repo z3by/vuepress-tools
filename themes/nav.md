@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/zeroNav/vuepress-theme-nav/pulls{/number}
 pushed_at: '2018-10-16T01:22:40Z'
 releases_url: https://api.github.com/repos/zeroNav/vuepress-theme-nav/releases{/id}
-score: 18.410517
+score: 18.346085
 size: 36
 ssh_url: git@github.com:zeroNav/vuepress-theme-nav.git
 stargazers_count: 0

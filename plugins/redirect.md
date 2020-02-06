@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/vuepress/vuepress-plugin-redirect/pulls{/number}
 pushed_at: '2019-11-07T07:46:37Z'
 releases_url: https://api.github.com/repos/vuepress/vuepress-plugin-redirect/releases{/id}
-score: 22.762442
+score: 22.724096
 size: 182
 ssh_url: git@github.com:vuepress/vuepress-plugin-redirect.git
 stargazers_count: 2

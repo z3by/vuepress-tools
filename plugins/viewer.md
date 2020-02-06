@@ -75,7 +75,7 @@ private: false
 pulls_url: https://api.github.com/repos/dongyuanxin/vuepress-plugin-viewer/pulls{/number}
 pushed_at: '2019-07-11T08:29:21Z'
 releases_url: https://api.github.com/repos/dongyuanxin/vuepress-plugin-viewer/releases{/id}
-score: 17.564487
+score: 17.544697
 size: 2
 ssh_url: git@github.com:dongyuanxin/vuepress-plugin-viewer.git
 stargazers_count: 0

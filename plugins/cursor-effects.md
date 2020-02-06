@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/SigureMo/vuepress-plugin-cursor-effects/pulls{/number}
 pushed_at: '2019-11-10T03:46:55Z'
 releases_url: https://api.github.com/repos/SigureMo/vuepress-plugin-cursor-effects/releases{/id}
-score: 22.808908
+score: 22.736706
 size: 9
 ssh_url: git@github.com:SigureMo/vuepress-plugin-cursor-effects.git
 stargazers_count: 2

@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/vxhly/vuepress-plugin-nest/pulls{/number}
 pushed_at: '2019-11-01T05:48:27Z'
 releases_url: https://api.github.com/repos/vxhly/vuepress-plugin-nest/releases{/id}
-score: 23.050184
+score: 23.002657
 size: 8
 ssh_url: git@github.com:vxhly/vuepress-plugin-nest.git
 stargazers_count: 2

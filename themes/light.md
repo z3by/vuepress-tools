@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/phshy0607/vuepress-theme-light/pulls{/number}
 pushed_at: '2019-10-30T07:06:10Z'
 releases_url: https://api.github.com/repos/phshy0607/vuepress-theme-light/releases{/id}
-score: 18.403488
+score: 18.359375
 size: 29
 ssh_url: git@github.com:phshy0607/vuepress-theme-light.git
 stargazers_count: 0

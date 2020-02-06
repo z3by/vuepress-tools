@@ -83,7 +83,7 @@ private: false
 pulls_url: https://api.github.com/repos/IOriens/vuepress-plugin-baidu-autopush/pulls{/number}
 pushed_at: '2019-03-27T04:52:57Z'
 releases_url: https://api.github.com/repos/IOriens/vuepress-plugin-baidu-autopush/releases{/id}
-score: 22.838415
+score: 22.837067
 size: 1
 ssh_url: git@github.com:IOriens/vuepress-plugin-baidu-autopush.git
 stargazers_count: 2
@@ -218,7 +218,7 @@ private: false
 pulls_url: https://api.github.com/repos/shuaijs/vuepress-plugin-baidu-autopush/pulls{/number}
 pushed_at: '2019-12-06T03:11:39Z'
 releases_url: https://api.github.com/repos/shuaijs/vuepress-plugin-baidu-autopush/releases{/id}
-score: 17.703165
+score: 17.702679
 size: 2
 ssh_url: git@github.com:shuaijs/vuepress-plugin-baidu-autopush.git
 stargazers_count: 0

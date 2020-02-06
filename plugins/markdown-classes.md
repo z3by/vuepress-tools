@@ -75,10 +75,10 @@ private: false
 pulls_url: https://api.github.com/repos/Silvanite/vuepress-plugin-markdown-classes/pulls{/number}
 pushed_at: '2019-06-27T09:58:55Z'
 releases_url: https://api.github.com/repos/Silvanite/vuepress-plugin-markdown-classes/releases{/id}
-score: 17.703165
+score: 23.031712
 size: 7
 ssh_url: git@github.com:Silvanite/vuepress-plugin-markdown-classes.git
-stargazers_count: 1
+stargazers_count: 2
 stargazers_url: https://api.github.com/repos/Silvanite/vuepress-plugin-markdown-classes/stargazers
 statuses_url: https://api.github.com/repos/Silvanite/vuepress-plugin-markdown-classes/statuses/{sha}
 subscribers_url: https://api.github.com/repos/Silvanite/vuepress-plugin-markdown-classes/subscribers
@@ -87,10 +87,10 @@ svn_url: https://github.com/Silvanite/vuepress-plugin-markdown-classes
 tags_url: https://api.github.com/repos/Silvanite/vuepress-plugin-markdown-classes/tags
 teams_url: https://api.github.com/repos/Silvanite/vuepress-plugin-markdown-classes/teams
 trees_url: https://api.github.com/repos/Silvanite/vuepress-plugin-markdown-classes/git/trees{/sha}
-updated_at: '2019-06-27T09:58:53Z'
+updated_at: '2020-01-08T14:25:08Z'
 url: https://api.github.com/repos/Silvanite/vuepress-plugin-markdown-classes
-watchers: 1
-watchers_count: 1
+watchers: 2
+watchers_count: 2
 ---
 
 # VuePress Plugin to add unique class names to markdown generated html

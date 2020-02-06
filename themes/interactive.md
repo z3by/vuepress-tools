@@ -1,0 +1,98 @@
+---
+archive_url: https://api.github.com/repos/nkoehring/vuepress-theme-interactive/{archive_format}{/ref}
+archived: false
+assignees_url: https://api.github.com/repos/nkoehring/vuepress-theme-interactive/assignees{/user}
+blobs_url: https://api.github.com/repos/nkoehring/vuepress-theme-interactive/git/blobs{/sha}
+branches_url: https://api.github.com/repos/nkoehring/vuepress-theme-interactive/branches{/branch}
+clone_url: https://github.com/nkoehring/vuepress-theme-interactive.git
+collaborators_url: https://api.github.com/repos/nkoehring/vuepress-theme-interactive/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/nkoehring/vuepress-theme-interactive/comments{/number}
+commits_url: https://api.github.com/repos/nkoehring/vuepress-theme-interactive/commits{/sha}
+compare_url: https://api.github.com/repos/nkoehring/vuepress-theme-interactive/compare/{base}...{head}
+contents_url: https://api.github.com/repos/nkoehring/vuepress-theme-interactive/contents/{+path}
+contributors_url: https://api.github.com/repos/nkoehring/vuepress-theme-interactive/contributors
+created_at: '2018-07-24T15:56:39Z'
+default_branch: master
+deployments_url: https://api.github.com/repos/nkoehring/vuepress-theme-interactive/deployments
+description: Vuepress theme with splitview sandbox and livecoding sandbox
+disabled: false
+downloads_url: https://api.github.com/repos/nkoehring/vuepress-theme-interactive/downloads
+events_url: https://api.github.com/repos/nkoehring/vuepress-theme-interactive/events
+fork: false
+forks: 0
+forks_count: 0
+forks_url: https://api.github.com/repos/nkoehring/vuepress-theme-interactive/forks
+full_name: nkoehring/vuepress-theme-interactive
+git_commits_url: https://api.github.com/repos/nkoehring/vuepress-theme-interactive/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/nkoehring/vuepress-theme-interactive/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/nkoehring/vuepress-theme-interactive/git/tags{/sha}
+git_url: git://github.com/nkoehring/vuepress-theme-interactive.git
+has_downloads: true
+has_issues: true
+has_pages: false
+has_projects: true
+has_wiki: true
+homepage: null
+hooks_url: https://api.github.com/repos/nkoehring/vuepress-theme-interactive/hooks
+html_url: https://github.com/nkoehring/vuepress-theme-interactive
+id: 142181559
+issue_comment_url: https://api.github.com/repos/nkoehring/vuepress-theme-interactive/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/nkoehring/vuepress-theme-interactive/issues/events{/number}
+issues_url: https://api.github.com/repos/nkoehring/vuepress-theme-interactive/issues{/number}
+keys_url: https://api.github.com/repos/nkoehring/vuepress-theme-interactive/keys{/key_id}
+labels_url: https://api.github.com/repos/nkoehring/vuepress-theme-interactive/labels{/name}
+language: Vue
+languages_url: https://api.github.com/repos/nkoehring/vuepress-theme-interactive/languages
+license: null
+merges_url: https://api.github.com/repos/nkoehring/vuepress-theme-interactive/merges
+milestones_url: https://api.github.com/repos/nkoehring/vuepress-theme-interactive/milestones{/number}
+mirror_url: null
+name: vuepress-theme-interactive
+node_id: MDEwOlJlcG9zaXRvcnkxNDIxODE1NTk=
+notifications_url: https://api.github.com/repos/nkoehring/vuepress-theme-interactive/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
+owner:
+  avatar_url: https://avatars2.githubusercontent.com/u/246402?v=4
+  events_url: https://api.github.com/users/nkoehring/events{/privacy}
+  followers_url: https://api.github.com/users/nkoehring/followers
+  following_url: https://api.github.com/users/nkoehring/following{/other_user}
+  gists_url: https://api.github.com/users/nkoehring/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/nkoehring
+  id: 246402
+  login: nkoehring
+  node_id: MDQ6VXNlcjI0NjQwMg==
+  organizations_url: https://api.github.com/users/nkoehring/orgs
+  received_events_url: https://api.github.com/users/nkoehring/received_events
+  repos_url: https://api.github.com/users/nkoehring/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/nkoehring/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/nkoehring/subscriptions
+  type: User
+  url: https://api.github.com/users/nkoehring
+private: false
+pulls_url: https://api.github.com/repos/nkoehring/vuepress-theme-interactive/pulls{/number}
+pushed_at: '2018-08-19T11:31:42Z'
+releases_url: https://api.github.com/repos/nkoehring/vuepress-theme-interactive/releases{/id}
+score: 18.366066
+size: 6
+ssh_url: git@github.com:nkoehring/vuepress-theme-interactive.git
+stargazers_count: 0
+stargazers_url: https://api.github.com/repos/nkoehring/vuepress-theme-interactive/stargazers
+statuses_url: https://api.github.com/repos/nkoehring/vuepress-theme-interactive/statuses/{sha}
+subscribers_url: https://api.github.com/repos/nkoehring/vuepress-theme-interactive/subscribers
+subscription_url: https://api.github.com/repos/nkoehring/vuepress-theme-interactive/subscription
+svn_url: https://github.com/nkoehring/vuepress-theme-interactive
+tags_url: https://api.github.com/repos/nkoehring/vuepress-theme-interactive/tags
+teams_url: https://api.github.com/repos/nkoehring/vuepress-theme-interactive/teams
+trees_url: https://api.github.com/repos/nkoehring/vuepress-theme-interactive/git/trees{/sha}
+updated_at: '2018-08-19T11:31:44Z'
+url: https://api.github.com/repos/nkoehring/vuepress-theme-interactive
+watchers: 0
+watchers_count: 0
+---
+
+VuePress theme for https://vuejs.berlin
+
+See [vuepress guide](https://vuepress.vuejs.org/guide/custom-themes.html) for details.

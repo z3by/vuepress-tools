@@ -75,10 +75,10 @@ private: false
 pulls_url: https://api.github.com/repos/xxholly32/vuepress-plugin-gitalk-maker/pulls{/number}
 pushed_at: '2019-09-13T13:59:37Z'
 releases_url: https://api.github.com/repos/xxholly32/vuepress-plugin-gitalk-maker/releases{/id}
-score: 34.62306
+score: 35.360687
 size: 256
 ssh_url: git@github.com:xxholly32/vuepress-plugin-gitalk-maker.git
-stargazers_count: 9
+stargazers_count: 10
 stargazers_url: https://api.github.com/repos/xxholly32/vuepress-plugin-gitalk-maker/stargazers
 statuses_url: https://api.github.com/repos/xxholly32/vuepress-plugin-gitalk-maker/statuses/{sha}
 subscribers_url: https://api.github.com/repos/xxholly32/vuepress-plugin-gitalk-maker/subscribers
@@ -87,10 +87,10 @@ svn_url: https://github.com/xxholly32/vuepress-plugin-gitalk-maker
 tags_url: https://api.github.com/repos/xxholly32/vuepress-plugin-gitalk-maker/tags
 teams_url: https://api.github.com/repos/xxholly32/vuepress-plugin-gitalk-maker/teams
 trees_url: https://api.github.com/repos/xxholly32/vuepress-plugin-gitalk-maker/git/trees{/sha}
-updated_at: '2019-12-06T03:23:03Z'
+updated_at: '2020-01-31T13:51:19Z'
 url: https://api.github.com/repos/xxholly32/vuepress-plugin-gitalk-maker
-watchers: 9
-watchers_count: 9
+watchers: 10
+watchers_count: 10
 ---
 
 # vuepress-plugin-gitalk-maker

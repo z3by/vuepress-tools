@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/flipboxlabs/vuepress-theme-flipbox/pulls{/number}
 pushed_at: '2018-11-16T22:54:57Z'
 releases_url: https://api.github.com/repos/flipboxlabs/vuepress-theme-flipbox/releases{/id}
-score: 31.536385
+score: 31.463247
 size: 185
 ssh_url: git@github.com:flipboxlabs/vuepress-theme-flipbox.git
 stargazers_count: 5

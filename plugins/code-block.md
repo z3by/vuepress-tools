@@ -1,0 +1,102 @@
+---
+archive_url: https://api.github.com/repos/sillyY/vuepress-plugin-code-block/{archive_format}{/ref}
+archived: false
+assignees_url: https://api.github.com/repos/sillyY/vuepress-plugin-code-block/assignees{/user}
+blobs_url: https://api.github.com/repos/sillyY/vuepress-plugin-code-block/git/blobs{/sha}
+branches_url: https://api.github.com/repos/sillyY/vuepress-plugin-code-block/branches{/branch}
+clone_url: https://github.com/sillyY/vuepress-plugin-code-block.git
+collaborators_url: https://api.github.com/repos/sillyY/vuepress-plugin-code-block/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/sillyY/vuepress-plugin-code-block/comments{/number}
+commits_url: https://api.github.com/repos/sillyY/vuepress-plugin-code-block/commits{/sha}
+compare_url: https://api.github.com/repos/sillyY/vuepress-plugin-code-block/compare/{base}...{head}
+contents_url: https://api.github.com/repos/sillyY/vuepress-plugin-code-block/contents/{+path}
+contributors_url: https://api.github.com/repos/sillyY/vuepress-plugin-code-block/contributors
+created_at: '2019-07-27T02:37:17Z'
+default_branch: master
+deployments_url: https://api.github.com/repos/sillyY/vuepress-plugin-code-block/deployments
+description: Demo and code plugin for vuepress
+disabled: false
+downloads_url: https://api.github.com/repos/sillyY/vuepress-plugin-code-block/downloads
+events_url: https://api.github.com/repos/sillyY/vuepress-plugin-code-block/events
+fork: false
+forks: 0
+forks_count: 0
+forks_url: https://api.github.com/repos/sillyY/vuepress-plugin-code-block/forks
+full_name: sillyY/vuepress-plugin-code-block
+git_commits_url: https://api.github.com/repos/sillyY/vuepress-plugin-code-block/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/sillyY/vuepress-plugin-code-block/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/sillyY/vuepress-plugin-code-block/git/tags{/sha}
+git_url: git://github.com/sillyY/vuepress-plugin-code-block.git
+has_downloads: true
+has_issues: true
+has_pages: false
+has_projects: true
+has_wiki: true
+homepage: ''
+hooks_url: https://api.github.com/repos/sillyY/vuepress-plugin-code-block/hooks
+html_url: https://github.com/sillyY/vuepress-plugin-code-block
+id: 199106003
+issue_comment_url: https://api.github.com/repos/sillyY/vuepress-plugin-code-block/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/sillyY/vuepress-plugin-code-block/issues/events{/number}
+issues_url: https://api.github.com/repos/sillyY/vuepress-plugin-code-block/issues{/number}
+keys_url: https://api.github.com/repos/sillyY/vuepress-plugin-code-block/keys{/key_id}
+labels_url: https://api.github.com/repos/sillyY/vuepress-plugin-code-block/labels{/name}
+language: JavaScript
+languages_url: https://api.github.com/repos/sillyY/vuepress-plugin-code-block/languages
+license:
+  key: mit
+  name: MIT License
+  node_id: MDc6TGljZW5zZTEz
+  spdx_id: MIT
+  url: https://api.github.com/licenses/mit
+merges_url: https://api.github.com/repos/sillyY/vuepress-plugin-code-block/merges
+milestones_url: https://api.github.com/repos/sillyY/vuepress-plugin-code-block/milestones{/number}
+mirror_url: null
+name: vuepress-plugin-code-block
+node_id: MDEwOlJlcG9zaXRvcnkxOTkxMDYwMDM=
+notifications_url: https://api.github.com/repos/sillyY/vuepress-plugin-code-block/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
+owner:
+  avatar_url: https://avatars0.githubusercontent.com/u/20504116?v=4
+  events_url: https://api.github.com/users/sillyY/events{/privacy}
+  followers_url: https://api.github.com/users/sillyY/followers
+  following_url: https://api.github.com/users/sillyY/following{/other_user}
+  gists_url: https://api.github.com/users/sillyY/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/sillyY
+  id: 20504116
+  login: sillyY
+  node_id: MDQ6VXNlcjIwNTA0MTE2
+  organizations_url: https://api.github.com/users/sillyY/orgs
+  received_events_url: https://api.github.com/users/sillyY/received_events
+  repos_url: https://api.github.com/users/sillyY/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/sillyY/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/sillyY/subscriptions
+  type: User
+  url: https://api.github.com/users/sillyY
+private: false
+pulls_url: https://api.github.com/repos/sillyY/vuepress-plugin-code-block/pulls{/number}
+pushed_at: '2019-07-29T09:59:10Z'
+releases_url: https://api.github.com/repos/sillyY/vuepress-plugin-code-block/releases{/id}
+score: 17.618238
+size: 5
+ssh_url: git@github.com:sillyY/vuepress-plugin-code-block.git
+stargazers_count: 0
+stargazers_url: https://api.github.com/repos/sillyY/vuepress-plugin-code-block/stargazers
+statuses_url: https://api.github.com/repos/sillyY/vuepress-plugin-code-block/statuses/{sha}
+subscribers_url: https://api.github.com/repos/sillyY/vuepress-plugin-code-block/subscribers
+subscription_url: https://api.github.com/repos/sillyY/vuepress-plugin-code-block/subscription
+svn_url: https://github.com/sillyY/vuepress-plugin-code-block
+tags_url: https://api.github.com/repos/sillyY/vuepress-plugin-code-block/tags
+teams_url: https://api.github.com/repos/sillyY/vuepress-plugin-code-block/teams
+trees_url: https://api.github.com/repos/sillyY/vuepress-plugin-code-block/git/trees{/sha}
+updated_at: '2019-07-29T09:59:11Z'
+url: https://api.github.com/repos/sillyY/vuepress-plugin-code-block
+watchers: 0
+watchers_count: 0
+---
+
+# vue-plugin-code-block
+vuepress-plugin-code-block

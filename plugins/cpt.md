@@ -80,10 +80,10 @@ private: false
 pulls_url: https://api.github.com/repos/tmiame/vuepress-plugin-cpt/pulls{/number}
 pushed_at: '2019-04-24T14:08:54Z'
 releases_url: https://api.github.com/repos/tmiame/vuepress-plugin-cpt/releases{/id}
-score: 25.988928
+score: 28.089415
 size: 558
 ssh_url: git@github.com:tmiame/vuepress-plugin-cpt.git
-stargazers_count: 3
+stargazers_count: 4
 stargazers_url: https://api.github.com/repos/tmiame/vuepress-plugin-cpt/stargazers
 statuses_url: https://api.github.com/repos/tmiame/vuepress-plugin-cpt/statuses/{sha}
 subscribers_url: https://api.github.com/repos/tmiame/vuepress-plugin-cpt/subscribers
@@ -92,10 +92,10 @@ svn_url: https://github.com/tmiame/vuepress-plugin-cpt
 tags_url: https://api.github.com/repos/tmiame/vuepress-plugin-cpt/tags
 teams_url: https://api.github.com/repos/tmiame/vuepress-plugin-cpt/teams
 trees_url: https://api.github.com/repos/tmiame/vuepress-plugin-cpt/git/trees{/sha}
-updated_at: '2019-05-15T16:41:25Z'
+updated_at: '2020-01-31T22:51:04Z'
 url: https://api.github.com/repos/tmiame/vuepress-plugin-cpt
-watchers: 3
-watchers_count: 3
+watchers: 4
+watchers_count: 4
 ---
 
 <br>

@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/x-bao/vuepress-theme-bb/pulls{/number}
 pushed_at: '2019-07-05T14:51:59Z'
 releases_url: https://api.github.com/repos/x-bao/vuepress-theme-bb/releases{/id}
-score: 20.754313
+score: 20.559118
 size: 205
 ssh_url: git@github.com:x-bao/vuepress-theme-bb.git
 stargazers_count: 0

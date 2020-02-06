@@ -78,10 +78,10 @@ owner:
   url: https://api.github.com/users/wxsms
 private: false
 pulls_url: https://api.github.com/repos/wxsms/vuepress-theme-mini/pulls{/number}
-pushed_at: '2019-11-04T01:54:00Z'
+pushed_at: '2020-01-07T03:47:30Z'
 releases_url: https://api.github.com/repos/wxsms/vuepress-theme-mini/releases{/id}
-score: 24.1498
-size: 42
+score: 24.09379
+size: 44
 ssh_url: git@github.com:wxsms/vuepress-theme-mini.git
 stargazers_count: 2
 stargazers_url: https://api.github.com/repos/wxsms/vuepress-theme-mini/stargazers
@@ -92,7 +92,7 @@ svn_url: https://github.com/wxsms/vuepress-theme-mini
 tags_url: https://api.github.com/repos/wxsms/vuepress-theme-mini/tags
 teams_url: https://api.github.com/repos/wxsms/vuepress-theme-mini/teams
 trees_url: https://api.github.com/repos/wxsms/vuepress-theme-mini/git/trees{/sha}
-updated_at: '2019-12-22T18:14:54Z'
+updated_at: '2020-01-07T03:47:33Z'
 url: https://api.github.com/repos/wxsms/vuepress-theme-mini
 watchers: 2
 watchers_count: 2

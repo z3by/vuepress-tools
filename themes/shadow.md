@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/jianjustin/vuepress-theme-shadow/pulls{/number}
 pushed_at: '2019-08-11T10:52:45Z'
 releases_url: https://api.github.com/repos/jianjustin/vuepress-theme-shadow/releases{/id}
-score: 18.340733
+score: 18.275793
 size: 5048
 ssh_url: git@github.com:jianjustin/vuepress-theme-shadow.git
 stargazers_count: 1

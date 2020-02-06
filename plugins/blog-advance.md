@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/mAKEkr/vuepress-plugin-blog-advance/pulls{/number}
 pushed_at: '2018-12-16T21:23:56Z'
 releases_url: https://api.github.com/repos/mAKEkr/vuepress-plugin-blog-advance/releases{/id}
-score: 17.575638
+score: 17.51441
 size: 15
 ssh_url: git@github.com:mAKEkr/vuepress-plugin-blog-advance.git
 stargazers_count: 0

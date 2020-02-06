@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/sqrthree/vuepress-plugin-define/pulls{/number}
 pushed_at: '2019-12-13T06:43:33Z'
 releases_url: https://api.github.com/repos/sqrthree/vuepress-plugin-define/releases{/id}
-score: 17.600586
+score: 17.595814
 size: 90
 ssh_url: git@github.com:sqrthree/vuepress-plugin-define.git
 stargazers_count: 0

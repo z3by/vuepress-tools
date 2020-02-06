@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/ulivz/vuepress-plugin-export/downloads
 events_url: https://api.github.com/repos/ulivz/vuepress-plugin-export/events
 fork: false
-forks: 7
-forks_count: 7
+forks: 8
+forks_count: 8
 forks_url: https://api.github.com/repos/ulivz/vuepress-plugin-export/forks
 full_name: ulivz/vuepress-plugin-export
 git_commits_url: https://api.github.com/repos/ulivz/vuepress-plugin-export/git/commits{/sha}
@@ -55,8 +55,8 @@ mirror_url: null
 name: vuepress-plugin-export
 node_id: MDEwOlJlcG9zaXRvcnkxNjc4Mzg2NDA=
 notifications_url: https://api.github.com/repos/ulivz/vuepress-plugin-export/notifications{?since,all,participating}
-open_issues: 11
-open_issues_count: 11
+open_issues: 15
+open_issues_count: 15
 owner:
   avatar_url: https://avatars1.githubusercontent.com/u/23133919?v=4
   events_url: https://api.github.com/users/ulivz/events{/privacy}
@@ -78,12 +78,12 @@ owner:
   url: https://api.github.com/users/ulivz
 private: false
 pulls_url: https://api.github.com/repos/ulivz/vuepress-plugin-export/pulls{/number}
-pushed_at: '2019-11-02T12:02:57Z'
+pushed_at: '2020-01-31T06:20:32Z'
 releases_url: https://api.github.com/repos/ulivz/vuepress-plugin-export/releases{/id}
-score: 81.309105
-size: 864
+score: 81.31407
+size: 979
 ssh_url: git@github.com:ulivz/vuepress-plugin-export.git
-stargazers_count: 44
+stargazers_count: 45
 stargazers_url: https://api.github.com/repos/ulivz/vuepress-plugin-export/stargazers
 statuses_url: https://api.github.com/repos/ulivz/vuepress-plugin-export/statuses/{sha}
 subscribers_url: https://api.github.com/repos/ulivz/vuepress-plugin-export/subscribers
@@ -92,10 +92,10 @@ svn_url: https://github.com/ulivz/vuepress-plugin-export
 tags_url: https://api.github.com/repos/ulivz/vuepress-plugin-export/tags
 teams_url: https://api.github.com/repos/ulivz/vuepress-plugin-export/teams
 trees_url: https://api.github.com/repos/ulivz/vuepress-plugin-export/git/trees{/sha}
-updated_at: '2019-12-22T13:58:32Z'
+updated_at: '2020-01-14T09:58:19Z'
 url: https://api.github.com/repos/ulivz/vuepress-plugin-export
-watchers: 44
-watchers_count: 44
+watchers: 45
+watchers_count: 45
 ---
 
 # vuepress-plugin-export

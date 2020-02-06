@@ -1,6 +1,6 @@
 ---
 archive_url: https://api.github.com/repos/newsbielt703/vuepress-plugin-disqus-comment/{archive_format}{/ref}
-archived: false
+archived: true
 assignees_url: https://api.github.com/repos/newsbielt703/vuepress-plugin-disqus-comment/assignees{/user}
 blobs_url: https://api.github.com/repos/newsbielt703/vuepress-plugin-disqus-comment/git/blobs{/sha}
 branches_url: https://api.github.com/repos/newsbielt703/vuepress-plugin-disqus-comment/branches{/branch}
@@ -78,10 +78,10 @@ owner:
   url: https://api.github.com/users/newsbielt703
 private: false
 pulls_url: https://api.github.com/repos/newsbielt703/vuepress-plugin-disqus-comment/pulls{/number}
-pushed_at: '2019-12-14T08:26:39Z'
+pushed_at: '2020-01-16T06:49:34Z'
 releases_url: https://api.github.com/repos/newsbielt703/vuepress-plugin-disqus-comment/releases{/id}
-score: 18.66506
-size: 150
+score: 18.574932
+size: 138
 ssh_url: git@github.com:newsbielt703/vuepress-plugin-disqus-comment.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/newsbielt703/vuepress-plugin-disqus-comment/stargazers
@@ -92,12 +92,16 @@ svn_url: https://github.com/newsbielt703/vuepress-plugin-disqus-comment
 tags_url: https://api.github.com/repos/newsbielt703/vuepress-plugin-disqus-comment/tags
 teams_url: https://api.github.com/repos/newsbielt703/vuepress-plugin-disqus-comment/teams
 trees_url: https://api.github.com/repos/newsbielt703/vuepress-plugin-disqus-comment/git/trees{/sha}
-updated_at: '2019-12-14T08:26:19Z'
+updated_at: '2020-01-16T06:50:08Z'
 url: https://api.github.com/repos/newsbielt703/vuepress-plugin-disqus-comment
 watchers: 0
 watchers_count: 0
 ---
 
+# THIS PROJECT HAS BEEN FULLY INTEGRATED INTO [vuepress-plugin-disqus](https://github.com/lorisleiva/vuepress-plugin-disqus)
+
+---
+---
 # vuepress-plugin-disqus-comment
 
 [![NPM version](https://img.shields.io/npm/v/vuepress-plugin-disqus-comment)](https://www.npmjs.com/package/vuepress-plugin-disqus-comment)

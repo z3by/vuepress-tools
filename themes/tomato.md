@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/destinytaoer/vuepress-theme-tomato/pulls{/number}
 pushed_at: '2019-08-26T10:22:59Z'
 releases_url: https://api.github.com/repos/destinytaoer/vuepress-theme-tomato/releases{/id}
-score: 27.083298
+score: 27.024803
 size: 1035
 ssh_url: git@github.com:destinytaoer/vuepress-theme-tomato.git
 stargazers_count: 3

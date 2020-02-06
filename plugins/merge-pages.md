@@ -75,7 +75,7 @@ private: false
 pulls_url: https://api.github.com/repos/vinicius73/vuepress-plugin-merge-pages/pulls{/number}
 pushed_at: '2019-12-06T22:29:11Z'
 releases_url: https://api.github.com/repos/vinicius73/vuepress-plugin-merge-pages/releases{/id}
-score: 25.878057
+score: 25.854662
 size: 505
 ssh_url: git@github.com:vinicius73/vuepress-plugin-merge-pages.git
 stargazers_count: 3

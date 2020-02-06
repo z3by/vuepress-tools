@@ -55,8 +55,8 @@ mirror_url: null
 name: vuepress-plugin-mathjax
 node_id: MDEwOlJlcG9zaXRvcnkxNzIyNDI5MzQ=
 notifications_url: https://api.github.com/repos/vuepress/vuepress-plugin-mathjax/notifications{?since,all,participating}
-open_issues: 15
-open_issues_count: 15
+open_issues: 16
+open_issues_count: 16
 owner:
   avatar_url: https://avatars2.githubusercontent.com/u/48539483?v=4
   events_url: https://api.github.com/users/vuepress/events{/privacy}
@@ -78,10 +78,10 @@ owner:
   url: https://api.github.com/users/vuepress
 private: false
 pulls_url: https://api.github.com/repos/vuepress/vuepress-plugin-mathjax/pulls{/number}
-pushed_at: '2019-11-06T18:34:28Z'
+pushed_at: '2019-12-28T04:35:24Z'
 releases_url: https://api.github.com/repos/vuepress/vuepress-plugin-mathjax/releases{/id}
-score: 61.067577
-size: 1409
+score: 61.06402
+size: 1566
 ssh_url: git@github.com:vuepress/vuepress-plugin-mathjax.git
 stargazers_count: 24
 stargazers_url: https://api.github.com/repos/vuepress/vuepress-plugin-mathjax/stargazers
@@ -237,7 +237,7 @@ private: false
 pulls_url: https://api.github.com/repos/vitelabs/vuepress-plugin-mathjax/pulls{/number}
 pushed_at: '2018-11-06T10:10:26Z'
 releases_url: https://api.github.com/repos/vitelabs/vuepress-plugin-mathjax/releases{/id}
-score: 35.098473
+score: 35.089153
 size: 2
 ssh_url: git@github.com:vitelabs/vuepress-plugin-mathjax.git
 stargazers_count: 2

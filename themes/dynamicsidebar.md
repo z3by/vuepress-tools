@@ -75,7 +75,7 @@ private: false
 pulls_url: https://api.github.com/repos/maxcwolf/vuepress-theme-dynamicsidebar/pulls{/number}
 pushed_at: '2018-11-21T16:31:34Z'
 releases_url: https://api.github.com/repos/maxcwolf/vuepress-theme-dynamicsidebar/releases{/id}
-score: 18.394506
+score: 18.3325
 size: 26
 ssh_url: git@github.com:maxcwolf/vuepress-theme-dynamicsidebar.git
 stargazers_count: 1

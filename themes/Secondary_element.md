@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/ChaselLHL/vuepress-theme-Secondary_element/pulls{/number}
 pushed_at: '2019-11-23T09:23:23Z'
 releases_url: https://api.github.com/repos/ChaselLHL/vuepress-theme-Secondary_element/releases{/id}
-score: 18.410517
+score: 18.346085
 size: 68
 ssh_url: git@github.com:ChaselLHL/vuepress-theme-Secondary_element.git
 stargazers_count: 1

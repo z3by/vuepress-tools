@@ -80,10 +80,10 @@ private: false
 pulls_url: https://api.github.com/repos/f3ltron/vuepress-plugin-docgen/pulls{/number}
 pushed_at: '2019-11-18T03:18:54Z'
 releases_url: https://api.github.com/repos/f3ltron/vuepress-plugin-docgen/releases{/id}
-score: 40.700226
+score: 40.872498
 size: 1446
 ssh_url: git@github.com:f3ltron/vuepress-plugin-docgen.git
-stargazers_count: 21
+stargazers_count: 22
 stargazers_url: https://api.github.com/repos/f3ltron/vuepress-plugin-docgen/stargazers
 statuses_url: https://api.github.com/repos/f3ltron/vuepress-plugin-docgen/statuses/{sha}
 subscribers_url: https://api.github.com/repos/f3ltron/vuepress-plugin-docgen/subscribers
@@ -92,10 +92,10 @@ svn_url: https://github.com/f3ltron/vuepress-plugin-docgen
 tags_url: https://api.github.com/repos/f3ltron/vuepress-plugin-docgen/tags
 teams_url: https://api.github.com/repos/f3ltron/vuepress-plugin-docgen/teams
 trees_url: https://api.github.com/repos/f3ltron/vuepress-plugin-docgen/git/trees{/sha}
-updated_at: '2019-11-18T03:21:05Z'
+updated_at: '2020-01-27T09:13:23Z'
 url: https://api.github.com/repos/f3ltron/vuepress-plugin-docgen
-watchers: 21
-watchers_count: 21
+watchers: 22
+watchers_count: 22
 ---
 
 [![lerna](https://img.shields.io/badge/maintained%20with-lerna-cc00ff.svg)](https://lerna.js.org/)

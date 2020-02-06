@@ -1,0 +1,97 @@
+---
+archive_url: https://api.github.com/repos/lovelife10000/vuepress-theme-lovelife/{archive_format}{/ref}
+archived: false
+assignees_url: https://api.github.com/repos/lovelife10000/vuepress-theme-lovelife/assignees{/user}
+blobs_url: https://api.github.com/repos/lovelife10000/vuepress-theme-lovelife/git/blobs{/sha}
+branches_url: https://api.github.com/repos/lovelife10000/vuepress-theme-lovelife/branches{/branch}
+clone_url: https://github.com/lovelife10000/vuepress-theme-lovelife.git
+collaborators_url: https://api.github.com/repos/lovelife10000/vuepress-theme-lovelife/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/lovelife10000/vuepress-theme-lovelife/comments{/number}
+commits_url: https://api.github.com/repos/lovelife10000/vuepress-theme-lovelife/commits{/sha}
+compare_url: https://api.github.com/repos/lovelife10000/vuepress-theme-lovelife/compare/{base}...{head}
+contents_url: https://api.github.com/repos/lovelife10000/vuepress-theme-lovelife/contents/{+path}
+contributors_url: https://api.github.com/repos/lovelife10000/vuepress-theme-lovelife/contributors
+created_at: '2018-06-25T08:59:23Z'
+default_branch: master
+deployments_url: https://api.github.com/repos/lovelife10000/vuepress-theme-lovelife/deployments
+description: "vuepress\u4E3B\u9898\u5305"
+disabled: false
+downloads_url: https://api.github.com/repos/lovelife10000/vuepress-theme-lovelife/downloads
+events_url: https://api.github.com/repos/lovelife10000/vuepress-theme-lovelife/events
+fork: false
+forks: 0
+forks_count: 0
+forks_url: https://api.github.com/repos/lovelife10000/vuepress-theme-lovelife/forks
+full_name: lovelife10000/vuepress-theme-lovelife
+git_commits_url: https://api.github.com/repos/lovelife10000/vuepress-theme-lovelife/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/lovelife10000/vuepress-theme-lovelife/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/lovelife10000/vuepress-theme-lovelife/git/tags{/sha}
+git_url: git://github.com/lovelife10000/vuepress-theme-lovelife.git
+has_downloads: true
+has_issues: true
+has_pages: false
+has_projects: true
+has_wiki: true
+homepage: null
+hooks_url: https://api.github.com/repos/lovelife10000/vuepress-theme-lovelife/hooks
+html_url: https://github.com/lovelife10000/vuepress-theme-lovelife
+id: 138569220
+issue_comment_url: https://api.github.com/repos/lovelife10000/vuepress-theme-lovelife/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/lovelife10000/vuepress-theme-lovelife/issues/events{/number}
+issues_url: https://api.github.com/repos/lovelife10000/vuepress-theme-lovelife/issues{/number}
+keys_url: https://api.github.com/repos/lovelife10000/vuepress-theme-lovelife/keys{/key_id}
+labels_url: https://api.github.com/repos/lovelife10000/vuepress-theme-lovelife/labels{/name}
+language: null
+languages_url: https://api.github.com/repos/lovelife10000/vuepress-theme-lovelife/languages
+license: null
+merges_url: https://api.github.com/repos/lovelife10000/vuepress-theme-lovelife/merges
+milestones_url: https://api.github.com/repos/lovelife10000/vuepress-theme-lovelife/milestones{/number}
+mirror_url: null
+name: vuepress-theme-lovelife
+node_id: MDEwOlJlcG9zaXRvcnkxMzg1NjkyMjA=
+notifications_url: https://api.github.com/repos/lovelife10000/vuepress-theme-lovelife/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
+owner:
+  avatar_url: https://avatars0.githubusercontent.com/u/20625882?v=4
+  events_url: https://api.github.com/users/lovelife10000/events{/privacy}
+  followers_url: https://api.github.com/users/lovelife10000/followers
+  following_url: https://api.github.com/users/lovelife10000/following{/other_user}
+  gists_url: https://api.github.com/users/lovelife10000/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/lovelife10000
+  id: 20625882
+  login: lovelife10000
+  node_id: MDQ6VXNlcjIwNjI1ODgy
+  organizations_url: https://api.github.com/users/lovelife10000/orgs
+  received_events_url: https://api.github.com/users/lovelife10000/received_events
+  repos_url: https://api.github.com/users/lovelife10000/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/lovelife10000/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/lovelife10000/subscriptions
+  type: User
+  url: https://api.github.com/users/lovelife10000
+private: false
+pulls_url: https://api.github.com/repos/lovelife10000/vuepress-theme-lovelife/pulls{/number}
+pushed_at: '2018-06-25T08:59:24Z'
+releases_url: https://api.github.com/repos/lovelife10000/vuepress-theme-lovelife/releases{/id}
+score: 18.464277
+size: 0
+ssh_url: git@github.com:lovelife10000/vuepress-theme-lovelife.git
+stargazers_count: 0
+stargazers_url: https://api.github.com/repos/lovelife10000/vuepress-theme-lovelife/stargazers
+statuses_url: https://api.github.com/repos/lovelife10000/vuepress-theme-lovelife/statuses/{sha}
+subscribers_url: https://api.github.com/repos/lovelife10000/vuepress-theme-lovelife/subscribers
+subscription_url: https://api.github.com/repos/lovelife10000/vuepress-theme-lovelife/subscription
+svn_url: https://github.com/lovelife10000/vuepress-theme-lovelife
+tags_url: https://api.github.com/repos/lovelife10000/vuepress-theme-lovelife/tags
+teams_url: https://api.github.com/repos/lovelife10000/vuepress-theme-lovelife/teams
+trees_url: https://api.github.com/repos/lovelife10000/vuepress-theme-lovelife/git/trees{/sha}
+updated_at: '2018-06-25T08:59:25Z'
+url: https://api.github.com/repos/lovelife10000/vuepress-theme-lovelife
+watchers: 0
+watchers_count: 0
+---
+
+# vuepress-theme-lovelife
+vuepress主题包

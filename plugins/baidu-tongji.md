@@ -75,7 +75,7 @@ private: false
 pulls_url: https://api.github.com/repos/mlinquan/vuepress-plugin-baidu-tongji/pulls{/number}
 pushed_at: '2018-12-03T05:41:58Z'
 releases_url: https://api.github.com/repos/mlinquan/vuepress-plugin-baidu-tongji/releases{/id}
-score: 17.568651
+score: 17.55212
 size: 2
 ssh_url: git@github.com:mlinquan/vuepress-plugin-baidu-tongji.git
 stargazers_count: 0

@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/kevincobain2000/vuepress-theme-monokai/pulls{/number}
 pushed_at: '2019-09-23T06:53:40Z'
 releases_url: https://api.github.com/repos/kevincobain2000/vuepress-theme-monokai/releases{/id}
-score: 18.34294
+score: 18.277956
 size: 2
 ssh_url: git@github.com:kevincobain2000/vuepress-theme-monokai.git
 stargazers_count: 0

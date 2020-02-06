@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/SigureMo/vuepress-plugin-dynamic-title/pulls{/number}
 pushed_at: '2019-10-22T05:42:49Z'
 releases_url: https://api.github.com/repos/SigureMo/vuepress-plugin-dynamic-title/releases{/id}
-score: 17.59443
+score: 17.533318
 size: 7
 ssh_url: git@github.com:SigureMo/vuepress-plugin-dynamic-title.git
 stargazers_count: 1

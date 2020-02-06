@@ -75,7 +75,7 @@ private: false
 pulls_url: https://api.github.com/repos/tangodata/vuepress-theme-loaded/pulls{/number}
 pushed_at: '2019-10-31T15:07:41Z'
 releases_url: https://api.github.com/repos/tangodata/vuepress-theme-loaded/releases{/id}
-score: 18.342943
+score: 18.277956
 size: 199
 ssh_url: git@github.com:tangodata/vuepress-theme-loaded.git
 stargazers_count: 0

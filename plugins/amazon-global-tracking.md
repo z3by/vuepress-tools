@@ -75,7 +75,7 @@ private: false
 pulls_url: https://api.github.com/repos/simonwjackson/vuepress-plugin-amazon-global-tracking/pulls{/number}
 pushed_at: '2018-11-21T23:49:14Z'
 releases_url: https://api.github.com/repos/simonwjackson/vuepress-plugin-amazon-global-tracking/releases{/id}
-score: 16.752195
+score: 16.700144
 size: 1
 ssh_url: git@github.com:simonwjackson/vuepress-plugin-amazon-global-tracking.git
 stargazers_count: 0

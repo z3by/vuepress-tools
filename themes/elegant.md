@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/maoyuanjun/vuepress-theme-elegant/pulls{/number}
 pushed_at: '2019-09-18T15:52:00Z'
 releases_url: https://api.github.com/repos/maoyuanjun/vuepress-theme-elegant/releases{/id}
-score: 19.9194
+score: 19.915234
 size: 760
 ssh_url: git@github.com:maoyuanjun/vuepress-theme-elegant.git
 stargazers_count: 0

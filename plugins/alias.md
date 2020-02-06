@@ -75,7 +75,7 @@ private: false
 pulls_url: https://api.github.com/repos/vaniyokk/vuepress-plugin-alias/pulls{/number}
 pushed_at: '2018-12-15T19:51:21Z'
 releases_url: https://api.github.com/repos/vaniyokk/vuepress-plugin-alias/releases{/id}
-score: 29.724678
+score: 29.674612
 size: 9
 ssh_url: git@github.com:vaniyokk/vuepress-plugin-alias.git
 stargazers_count: 5

@@ -75,7 +75,7 @@ private: false
 pulls_url: https://api.github.com/repos/llqgit/vuepress-plugin-visit/pulls{/number}
 pushed_at: '2019-12-24T12:14:41Z'
 releases_url: https://api.github.com/repos/llqgit/vuepress-plugin-visit/releases{/id}
-score: 17.495766
+score: 17.466246
 size: 3
 ssh_url: git@github.com:llqgit/vuepress-plugin-visit.git
 stargazers_count: 0

@@ -1,6 +1,6 @@
 ---
 archive_url: https://api.github.com/repos/vuepress/vuepress-plugin-serve/{archive_format}{/ref}
-archived: false
+archived: true
 assignees_url: https://api.github.com/repos/vuepress/vuepress-plugin-serve/assignees{/user}
 blobs_url: https://api.github.com/repos/vuepress/vuepress-plugin-serve/git/blobs{/sha}
 branches_url: https://api.github.com/repos/vuepress/vuepress-plugin-serve/branches{/branch}
@@ -78,10 +78,10 @@ owner:
   url: https://api.github.com/users/vuepress
 private: false
 pulls_url: https://api.github.com/repos/vuepress/vuepress-plugin-serve/pulls{/number}
-pushed_at: '2019-04-05T03:53:07Z'
+pushed_at: '2020-02-03T07:37:51Z'
 releases_url: https://api.github.com/repos/vuepress/vuepress-plugin-serve/releases{/id}
-score: 29.848602
-size: 81
+score: 29.820513
+size: 77
 ssh_url: git@github.com:vuepress/vuepress-plugin-serve.git
 stargazers_count: 5
 stargazers_url: https://api.github.com/repos/vuepress/vuepress-plugin-serve/stargazers
@@ -92,13 +92,15 @@ svn_url: https://github.com/vuepress/vuepress-plugin-serve
 tags_url: https://api.github.com/repos/vuepress/vuepress-plugin-serve/tags
 teams_url: https://api.github.com/repos/vuepress/vuepress-plugin-serve/teams
 trees_url: https://api.github.com/repos/vuepress/vuepress-plugin-serve/git/trees{/sha}
-updated_at: '2019-07-15T06:53:22Z'
+updated_at: '2020-02-03T08:30:31Z'
 url: https://api.github.com/repos/vuepress/vuepress-plugin-serve
 watchers: 5
 watchers_count: 5
 ---
 
 # [vuepress-plugin-serve](https://vuepress.github.io/plugins/serve.html)
+
+> Migrated to [vuepress-community](https://github.com/vuepress/vuepress-community)
 
 [![npm](https://img.shields.io/npm/v/vuepress-plugin-serve.svg)](https://www.npmjs.com/package/vuepress-plugin-serve)
 

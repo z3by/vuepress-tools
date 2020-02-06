@@ -43,7 +43,12 @@ keys_url: https://api.github.com/repos/NineSwordsMonster/vuepress-theme-nine/key
 labels_url: https://api.github.com/repos/NineSwordsMonster/vuepress-theme-nine/labels{/name}
 language: Vue
 languages_url: https://api.github.com/repos/NineSwordsMonster/vuepress-theme-nine/languages
-license: null
+license:
+  key: mit
+  name: MIT License
+  node_id: MDc6TGljZW5zZTEz
+  spdx_id: MIT
+  url: https://api.github.com/licenses/mit
 merges_url: https://api.github.com/repos/NineSwordsMonster/vuepress-theme-nine/merges
 milestones_url: https://api.github.com/repos/NineSwordsMonster/vuepress-theme-nine/milestones{/number}
 mirror_url: null
@@ -73,12 +78,12 @@ owner:
   url: https://api.github.com/users/NineSwordsMonster
 private: false
 pulls_url: https://api.github.com/repos/NineSwordsMonster/vuepress-theme-nine/pulls{/number}
-pushed_at: '2019-07-29T02:18:19Z'
+pushed_at: '2020-01-13T10:06:31Z'
 releases_url: https://api.github.com/repos/NineSwordsMonster/vuepress-theme-nine/releases{/id}
-score: 18.656113
-size: 3656
+score: 18.54097
+size: 4633
 ssh_url: git@github.com:NineSwordsMonster/vuepress-theme-nine.git
-stargazers_count: 1
+stargazers_count: 0
 stargazers_url: https://api.github.com/repos/NineSwordsMonster/vuepress-theme-nine/stargazers
 statuses_url: https://api.github.com/repos/NineSwordsMonster/vuepress-theme-nine/statuses/{sha}
 subscribers_url: https://api.github.com/repos/NineSwordsMonster/vuepress-theme-nine/subscribers
@@ -87,10 +92,10 @@ svn_url: https://github.com/NineSwordsMonster/vuepress-theme-nine
 tags_url: https://api.github.com/repos/NineSwordsMonster/vuepress-theme-nine/tags
 teams_url: https://api.github.com/repos/NineSwordsMonster/vuepress-theme-nine/teams
 trees_url: https://api.github.com/repos/NineSwordsMonster/vuepress-theme-nine/git/trees{/sha}
-updated_at: '2019-07-29T02:18:21Z'
+updated_at: '2020-01-13T10:05:52Z'
 url: https://api.github.com/repos/NineSwordsMonster/vuepress-theme-nine
-watchers: 1
-watchers_count: 1
+watchers: 0
+watchers_count: 0
 ---
 
 # Vuepress Theme - Nine
@@ -107,4 +112,5 @@ An other theme for [Vuepress](https://vuepress.vuejs.org)
 
 ## LICENSE
 
-[MIT](https://github.com/meteorlxy/vuepress-theme-nine/blob/master/LICENSE)
+[MIT](https://github.com/NineSwordsMonster/vuepress-theme-nine/blob/master/LICENSE)
+

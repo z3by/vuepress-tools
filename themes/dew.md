@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/hvnobug/vuepress-theme-dew/pulls{/number}
 pushed_at: '2019-12-20T08:34:45Z'
 releases_url: https://api.github.com/repos/hvnobug/vuepress-theme-dew/releases{/id}
-score: 36.586662
+score: 36.357773
 size: 1681
 ssh_url: git@github.com:hvnobug/vuepress-theme-dew.git
 stargazers_count: 7
@@ -92,7 +92,7 @@ svn_url: https://github.com/hvnobug/vuepress-theme-dew
 tags_url: https://api.github.com/repos/hvnobug/vuepress-theme-dew/tags
 teams_url: https://api.github.com/repos/hvnobug/vuepress-theme-dew/teams
 trees_url: https://api.github.com/repos/hvnobug/vuepress-theme-dew/git/trees{/sha}
-updated_at: '2019-12-24T09:49:47Z'
+updated_at: '2020-01-08T15:20:08Z'
 url: https://api.github.com/repos/hvnobug/vuepress-theme-dew
 watchers: 7
 watchers_count: 7

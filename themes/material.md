@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/wuyaoxing/vuepress-theme-material/pulls{/number}
 pushed_at: '2018-05-16T09:50:31Z'
 releases_url: https://api.github.com/repos/wuyaoxing/vuepress-theme-material/releases{/id}
-score: 49.473
+score: 49.351227
 size: 407
 ssh_url: git@github.com:wuyaoxing/vuepress-theme-material.git
 stargazers_count: 4

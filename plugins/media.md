@@ -75,7 +75,7 @@ private: false
 pulls_url: https://api.github.com/repos/GalAster/vuepress-plugin-media/pulls{/number}
 pushed_at: '2019-03-20T13:11:13Z'
 releases_url: https://api.github.com/repos/GalAster/vuepress-plugin-media/releases{/id}
-score: 17.568651
+score: 17.55212
 size: 49
 ssh_url: git@github.com:GalAster/vuepress-plugin-media.git
 stargazers_count: 1

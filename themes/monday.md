@@ -75,7 +75,7 @@ private: false
 pulls_url: https://api.github.com/repos/Karlbovsky/vuepress-theme-monday/pulls{/number}
 pushed_at: '2019-08-27T08:16:57Z'
 releases_url: https://api.github.com/repos/Karlbovsky/vuepress-theme-monday/releases{/id}
-score: 18.66732
+score: 18.522036
 size: 911
 ssh_url: git@github.com:Karlbovsky/vuepress-theme-monday.git
 stargazers_count: 0

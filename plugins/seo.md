@@ -78,12 +78,12 @@ owner:
   url: https://api.github.com/users/lorisleiva
 private: false
 pulls_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo/pulls{/number}
-pushed_at: '2019-01-20T10:56:12Z'
+pushed_at: '2020-01-11T17:38:04Z'
 releases_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo/releases{/id}
-score: 67.02064
+score: 67.49274
 size: 7
 ssh_url: git@github.com:lorisleiva/vuepress-plugin-seo.git
-stargazers_count: 53
+stargazers_count: 58
 stargazers_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo/stargazers
 statuses_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo/statuses/{sha}
 subscribers_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo/subscribers
@@ -92,10 +92,10 @@ svn_url: https://github.com/lorisleiva/vuepress-plugin-seo
 tags_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo/tags
 teams_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo/teams
 trees_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo/git/trees{/sha}
-updated_at: '2019-12-25T05:49:53Z'
+updated_at: '2020-01-11T17:38:06Z'
 url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo
-watchers: 53
-watchers_count: 53
+watchers: 58
+watchers_count: 58
 ---
 
 # Vuepress Plugin SEO

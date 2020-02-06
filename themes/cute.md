@@ -50,8 +50,8 @@ mirror_url: null
 name: vuepress-theme-cute
 node_id: MDEwOlJlcG9zaXRvcnkxNzExNDg0MjY=
 notifications_url: https://api.github.com/repos/linrz/vuepress-theme-cute/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
+open_issues: 3
+open_issues_count: 3
 owner:
   avatar_url: https://avatars3.githubusercontent.com/u/33575974?v=4
   events_url: https://api.github.com/users/linrz/events{/privacy}
@@ -73,10 +73,10 @@ owner:
   url: https://api.github.com/users/linrz
 private: false
 pulls_url: https://api.github.com/repos/linrz/vuepress-theme-cute/pulls{/number}
-pushed_at: '2019-08-08T12:40:37Z'
+pushed_at: '2020-01-19T08:15:57Z'
 releases_url: https://api.github.com/repos/linrz/vuepress-theme-cute/releases{/id}
-score: 18.855423
-size: 574
+score: 18.74375
+size: 1074
 ssh_url: git@github.com:linrz/vuepress-theme-cute.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/linrz/vuepress-theme-cute/stargazers
@@ -87,7 +87,7 @@ svn_url: https://github.com/linrz/vuepress-theme-cute
 tags_url: https://api.github.com/repos/linrz/vuepress-theme-cute/tags
 teams_url: https://api.github.com/repos/linrz/vuepress-theme-cute/teams
 trees_url: https://api.github.com/repos/linrz/vuepress-theme-cute/git/trees{/sha}
-updated_at: '2019-08-08T12:40:39Z'
+updated_at: '2020-01-19T08:16:00Z'
 url: https://api.github.com/repos/linrz/vuepress-theme-cute
 watchers: 0
 watchers_count: 0

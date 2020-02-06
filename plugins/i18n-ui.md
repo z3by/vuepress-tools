@@ -55,8 +55,8 @@ mirror_url: null
 name: vuepress-plugin-i18n-ui
 node_id: MDEwOlJlcG9zaXRvcnkxMzczOTQ4MjU=
 notifications_url: https://api.github.com/repos/ulivz/vuepress-plugin-i18n-ui/notifications{?since,all,participating}
-open_issues: 2
-open_issues_count: 2
+open_issues: 3
+open_issues_count: 3
 owner:
   avatar_url: https://avatars1.githubusercontent.com/u/23133919?v=4
   events_url: https://api.github.com/users/ulivz/events{/privacy}
@@ -78,10 +78,10 @@ owner:
   url: https://api.github.com/users/ulivz
 private: false
 pulls_url: https://api.github.com/repos/ulivz/vuepress-plugin-i18n-ui/pulls{/number}
-pushed_at: '2019-11-02T12:02:23Z'
+pushed_at: '2019-12-29T03:10:39Z'
 releases_url: https://api.github.com/repos/ulivz/vuepress-plugin-i18n-ui/releases{/id}
-score: 20.449755
-size: 3339
+score: 20.379654
+size: 3384
 ssh_url: git@github.com:ulivz/vuepress-plugin-i18n-ui.git
 stargazers_count: 2
 stargazers_url: https://api.github.com/repos/ulivz/vuepress-plugin-i18n-ui/stargazers

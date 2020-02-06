@@ -75,7 +75,7 @@ private: false
 pulls_url: https://api.github.com/repos/hwen/vuepress-theme-one/pulls{/number}
 pushed_at: '2018-09-27T03:15:43Z'
 releases_url: https://api.github.com/repos/hwen/vuepress-theme-one/releases{/id}
-score: 19.81633
+score: 19.759212
 size: 29
 ssh_url: git@github.com:hwen/vuepress-theme-one.git
 stargazers_count: 0

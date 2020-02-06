@@ -14,7 +14,7 @@ contributors_url: https://api.github.com/repos/z3by/vuepress-theme-medium/contri
 created_at: '2019-12-12T11:42:55Z'
 default_branch: master
 deployments_url: https://api.github.com/repos/z3by/vuepress-theme-medium/deployments
-description: Meduim-Link Vuepress blog theme
+description: Meduim-Like Vuepress blog theme
 disabled: false
 downloads_url: https://api.github.com/repos/z3by/vuepress-theme-medium/downloads
 events_url: https://api.github.com/repos/z3by/vuepress-theme-medium/events
@@ -43,7 +43,12 @@ keys_url: https://api.github.com/repos/z3by/vuepress-theme-medium/keys{/key_id}
 labels_url: https://api.github.com/repos/z3by/vuepress-theme-medium/labels{/name}
 language: Vue
 languages_url: https://api.github.com/repos/z3by/vuepress-theme-medium/languages
-license: null
+license:
+  key: mit
+  name: MIT License
+  node_id: MDc6TGljZW5zZTEz
+  spdx_id: MIT
+  url: https://api.github.com/licenses/mit
 merges_url: https://api.github.com/repos/z3by/vuepress-theme-medium/merges
 milestones_url: https://api.github.com/repos/z3by/vuepress-theme-medium/milestones{/number}
 mirror_url: null
@@ -73,12 +78,12 @@ owner:
   url: https://api.github.com/users/z3by
 private: false
 pulls_url: https://api.github.com/repos/z3by/vuepress-theme-medium/pulls{/number}
-pushed_at: '2019-12-19T15:19:09Z'
+pushed_at: '2019-12-26T07:25:52Z'
 releases_url: https://api.github.com/repos/z3by/vuepress-theme-medium/releases{/id}
-score: 80.667854
-size: 169
+score: 18.547812
+size: 233
 ssh_url: git@github.com:z3by/vuepress-theme-medium.git
-stargazers_count: 0
+stargazers_count: 1
 stargazers_url: https://api.github.com/repos/z3by/vuepress-theme-medium/stargazers
 statuses_url: https://api.github.com/repos/z3by/vuepress-theme-medium/statuses/{sha}
 subscribers_url: https://api.github.com/repos/z3by/vuepress-theme-medium/subscribers
@@ -87,18 +92,19 @@ svn_url: https://github.com/z3by/vuepress-theme-medium
 tags_url: https://api.github.com/repos/z3by/vuepress-theme-medium/tags
 teams_url: https://api.github.com/repos/z3by/vuepress-theme-medium/teams
 trees_url: https://api.github.com/repos/z3by/vuepress-theme-medium/git/trees{/sha}
-updated_at: '2019-12-19T15:19:11Z'
+updated_at: '2020-01-05T20:39:11Z'
 url: https://api.github.com/repos/z3by/vuepress-theme-medium
-watchers: 0
-watchers_count: 0
+watchers: 1
+watchers_count: 1
 ---
 
 # vuepress-theme-medium
 
-> Medium-Like Vuepress blog theme
+[![NPM version](https://badgen.net/npm/v/vuepress-theme-medium)](https://npmjs.com/package/vuepress-theme-medium) [![NPM downloads](https://badgen.net/npm/dt/vuepress-theme-medium)](https://npmjs.com/package/vuepress-theme-medium)
 
 ## Sites
-- [Demo](https://vuepress-theme-medium.z3by.com)
+
+- [Live Example](https://vuepress-theme-medium.z3by.com/)
 
 ## Install
 
@@ -114,7 +120,7 @@ yarn add vuepress-theme-medium -D
 module.exports = {
   theme: 'medium',
   themeConfig: {
-    // Please head documentation to see the available options.
+    // Please keep looking down to see the available options.
   }
 }
 ```

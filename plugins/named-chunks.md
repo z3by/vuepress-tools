@@ -1,6 +1,6 @@
 ---
 archive_url: https://api.github.com/repos/vuepress/vuepress-plugin-named-chunks/{archive_format}{/ref}
-archived: false
+archived: true
 assignees_url: https://api.github.com/repos/vuepress/vuepress-plugin-named-chunks/assignees{/user}
 blobs_url: https://api.github.com/repos/vuepress/vuepress-plugin-named-chunks/git/blobs{/sha}
 branches_url: https://api.github.com/repos/vuepress/vuepress-plugin-named-chunks/branches{/branch}
@@ -78,10 +78,10 @@ owner:
   url: https://api.github.com/users/vuepress
 private: false
 pulls_url: https://api.github.com/repos/vuepress/vuepress-plugin-named-chunks/pulls{/number}
-pushed_at: '2019-03-28T08:28:47Z'
+pushed_at: '2019-12-27T07:26:04Z'
 releases_url: https://api.github.com/repos/vuepress/vuepress-plugin-named-chunks/releases{/id}
-score: 17.519411
-size: 10
+score: 17.50342
+size: 9
 ssh_url: git@github.com:vuepress/vuepress-plugin-named-chunks.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/vuepress/vuepress-plugin-named-chunks/stargazers
@@ -92,13 +92,15 @@ svn_url: https://github.com/vuepress/vuepress-plugin-named-chunks
 tags_url: https://api.github.com/repos/vuepress/vuepress-plugin-named-chunks/tags
 teams_url: https://api.github.com/repos/vuepress/vuepress-plugin-named-chunks/teams
 trees_url: https://api.github.com/repos/vuepress/vuepress-plugin-named-chunks/git/trees{/sha}
-updated_at: '2019-03-29T03:33:03Z'
+updated_at: '2019-12-27T07:26:25Z'
 url: https://api.github.com/repos/vuepress/vuepress-plugin-named-chunks
 watchers: 0
 watchers_count: 0
 ---
 
 # [vuepress-plugin-named-chunks](https://vuepress.github.io/plugins/named-chunks.html)
+
+> Migrated to [vuepress-community](https://github.com/vuepress/vuepress-community)
 
 [![npm](https://img.shields.io/npm/v/vuepress-plugin-named-chunks.svg)](https://www.npmjs.com/package/vuepress-plugin-named-chunks)
 [![CircleCI](https://img.shields.io/circleci/project/github/vuepress/vuepress-plugin-named-chunks/master.svg)](https://circleci.com/gh/vuepress/vuepress-plugin-named-chunks)

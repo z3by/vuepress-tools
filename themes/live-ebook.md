@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/downloads
 events_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/events
 fork: false
-forks: 0
-forks_count: 0
+forks: 2
+forks_count: 2
 forks_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/forks
 full_name: netguru/vuepress-theme-live-ebook
 git_commits_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/git/commits{/sha}
@@ -55,8 +55,8 @@ mirror_url: null
 name: vuepress-theme-live-ebook
 node_id: MDEwOlJlcG9zaXRvcnkxNjMyNzk2MTI=
 notifications_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/notifications{?since,all,participating}
-open_issues: 6
-open_issues_count: 6
+open_issues: 5
+open_issues_count: 5
 owner:
   avatar_url: https://avatars1.githubusercontent.com/u/1146?v=4
   events_url: https://api.github.com/users/netguru/events{/privacy}
@@ -78,12 +78,12 @@ owner:
   url: https://api.github.com/users/netguru
 private: false
 pulls_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/pulls{/number}
-pushed_at: '2019-12-22T20:28:09Z'
+pushed_at: '2020-01-10T13:22:47Z'
 releases_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/releases{/id}
-score: 37.472347
-size: 869
+score: 38.743122
+size: 886
 ssh_url: git@github.com:netguru/vuepress-theme-live-ebook.git
-stargazers_count: 11
+stargazers_count: 13
 stargazers_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/stargazers
 statuses_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/statuses/{sha}
 subscribers_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/subscribers
@@ -92,10 +92,10 @@ svn_url: https://github.com/netguru/vuepress-theme-live-ebook
 tags_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/tags
 teams_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/teams
 trees_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/git/trees{/sha}
-updated_at: '2019-12-16T23:09:33Z'
+updated_at: '2020-01-17T15:03:49Z'
 url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook
-watchers: 11
-watchers_count: 11
+watchers: 13
+watchers_count: 13
 ---
 
 # vuepress-theme-live-ebook
@@ -150,6 +150,17 @@ module.exports = {
       dribbble: 'netguru',
       behance: 'netguru',
     },
+    bodyScripts: [ // Allows to pass additional scripts at the end of body
+      {
+        tagName: 'script', // required
+        attributes: { id: 'some-analytics', async: true, defer: true, src: '//some-analytics.js' } // required
+      },
+      {
+        tagName: 'noscript', // required
+        attributes: {}, // required (can be empty)
+        innerHTML: '<h1>Any content</h1>' // optional
+      }
+    ],
   },
 
   chainWebpack: (config) => {
@@ -355,13 +366,17 @@ This will produce a following outcome:
 
 ### LandingChapters
 
-Section will display first three chapters with sections.
+Section will display first three chapters with sections. You can provide additioanl option `chapterDisplayStart` and pass any number. That number will be treated as a start chapter.
+
+There is also an option `limitSectionInChapter` to limit displayed sections in chapters. By default, all sections will be displayed.
 
 ```html
 <LandingChapters
   intro="Short intro text"
   img="image.svg"
   imgAlt="image is displayed under intro text"
+  :chapterDisplayStart="3" // optional, default is 0
+  :limitSectionInChapter="7" // optional, default shows all
 />
 ```
 

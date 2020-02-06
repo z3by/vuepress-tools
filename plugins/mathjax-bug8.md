@@ -75,7 +75,7 @@ private: false
 pulls_url: https://api.github.com/repos/yunabe/vuepress-plugin-mathjax-bug8/pulls{/number}
 pushed_at: '2019-05-03T09:15:52Z'
 releases_url: https://api.github.com/repos/yunabe/vuepress-plugin-mathjax-bug8/releases{/id}
-score: 16.916798
+score: 16.917233
 size: 152
 ssh_url: git@github.com:yunabe/vuepress-plugin-mathjax-bug8.git
 stargazers_count: 0

@@ -80,7 +80,7 @@ private: false
 pulls_url: https://api.github.com/repos/ms-design/vuepress-theme-fluent/pulls{/number}
 pushed_at: '2018-12-25T09:45:21Z'
 releases_url: https://api.github.com/repos/ms-design/vuepress-theme-fluent/releases{/id}
-score: 18.408278
+score: 18.330046
 size: 76
 ssh_url: git@github.com:ms-design/vuepress-theme-fluent.git
 stargazers_count: 1

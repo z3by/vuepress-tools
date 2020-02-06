@@ -81,7 +81,7 @@ private: false
 pulls_url: https://api.github.com/repos/padarom/vuepress-plugin-code-switcher/pulls{/number}
 pushed_at: '2019-12-06T12:53:54Z'
 releases_url: https://api.github.com/repos/padarom/vuepress-plugin-code-switcher/releases{/id}
-score: 37.719246
+score: 37.58815
 size: 1630
 ssh_url: git@github.com:padarom/vuepress-plugin-code-switcher.git
 stargazers_count: 14

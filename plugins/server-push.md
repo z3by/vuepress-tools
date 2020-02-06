@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/ekoeryanto/vuepress-plugin-server-push/downloads
 events_url: https://api.github.com/repos/ekoeryanto/vuepress-plugin-server-push/events
 fork: false
-forks: 1
-forks_count: 1
+forks: 2
+forks_count: 2
 forks_url: https://api.github.com/repos/ekoeryanto/vuepress-plugin-server-push/forks
 full_name: ekoeryanto/vuepress-plugin-server-push
 git_commits_url: https://api.github.com/repos/ekoeryanto/vuepress-plugin-server-push/git/commits{/sha}
@@ -50,8 +50,8 @@ mirror_url: null
 name: vuepress-plugin-server-push
 node_id: MDEwOlJlcG9zaXRvcnkxNTA3ODk5NDk=
 notifications_url: https://api.github.com/repos/ekoeryanto/vuepress-plugin-server-push/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
+open_issues: 2
+open_issues_count: 2
 owner:
   avatar_url: https://avatars0.githubusercontent.com/u/36023898?v=4
   events_url: https://api.github.com/users/ekoeryanto/events{/privacy}
@@ -73,9 +73,9 @@ owner:
   url: https://api.github.com/users/ekoeryanto
 private: false
 pulls_url: https://api.github.com/repos/ekoeryanto/vuepress-plugin-server-push/pulls{/number}
-pushed_at: '2019-01-31T01:11:40Z'
+pushed_at: '2020-01-31T08:18:23Z'
 releases_url: https://api.github.com/repos/ekoeryanto/vuepress-plugin-server-push/releases{/id}
-score: 25.944948
+score: 25.915628
 size: 24
 ssh_url: git@github.com:ekoeryanto/vuepress-plugin-server-push.git
 stargazers_count: 3
