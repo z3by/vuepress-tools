@@ -3038,6 +3038,10 @@ find-up@^3.0.0:
   dependencies:
     locate-path "^3.0.0"
 
+flexsearch@nextapps-de/flexsearch:
+  version "0.6.32"
+  resolved "https://codeload.github.com/nextapps-de/flexsearch/tar.gz/f01f05e5683d8db644241ff0e27555207084ec07"
+
 flush-write-stream@^1.0.0:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/flush-write-stream/-/flush-write-stream-1.1.1.tgz#8dd7d873a1babc207d94ead0c2e0e44276ebf2e8"
@@ -6945,6 +6949,14 @@ vuepress-plugin-container@^2.0.2:
   integrity sha512-Df5KoIDMYiFg45GTfFw2hIiLGSsjhms4f3ppl2UIBf5nWMxi2lfifcoo8MooMSfxboxRZjoDccqQfu0fypaKrQ==
   dependencies:
     markdown-it-container "^2.0.0"
+
+vuepress-plugin-flexsearch@^0.0.3:
+  version "0.0.3"
+  resolved "https://registry.yarnpkg.com/vuepress-plugin-flexsearch/-/vuepress-plugin-flexsearch-0.0.3.tgz#886715cac3ece3da87d176bcb47d2fdd4f1e8b26"
+  integrity sha512-pH0O5F5Hz2njP/Uhvm0j1nuUDpUIUXR0Kp58Tw3InsQRgCwioNpIlLvFYgyHGatHGwepYuihuQvaBLHwfOb/0g==
+  dependencies:
+    flexsearch nextapps-de/flexsearch
+    vuepress "^1.2.0"
 
 vuepress-plugin-seo@^0.1.2:
   version "0.1.2"
