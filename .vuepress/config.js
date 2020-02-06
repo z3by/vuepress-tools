@@ -310,7 +310,6 @@ module.exports = {
         "component-docgen",
         "fish",
         "loading-page",
-        "playground",
         "sitemap",
         "back-to-top",
         "contact-us",
