@@ -2,8 +2,7 @@ name: Fetch new plugins and Themes
 
 on:
   schedule:
-    - cron: 0 0 * * 0
-  push:
+    - cron: 0 0 * * *
 
 jobs:
   build:
@@ -24,3 +23,15 @@ jobs:
         python ${GITHUB_WORKSPACE}/fetch_data.py
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - name: Commit files
+      run: |
+        echo ${{ github.ref }}
+        git add .
+        git config --local user.email "zoaby.am@gmail.com"
+        git config --local user.name "Ahmad Mostafa"
+        git commit -m "AUTOMATED: fetch new vuepress themes and plugins" -a | exit 0
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        branch: ${{ github.ref }}
+        github_token: ${{ secrets.GITHUB_TOKEN }}
