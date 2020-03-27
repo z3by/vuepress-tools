@@ -1,0 +1,26 @@
+name: Fetch new plugins and Themes
+
+on:
+  schedule:
+    - cron: 0 0 * * 0
+  push:
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python 3.7
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.7
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install PyGithub
+    - name: Fetch themes and plugins
+      run: |
+        python ${GITHUB_WORKSPACE}/fetch_data.py
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
