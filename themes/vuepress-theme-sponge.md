@@ -1,0 +1,106 @@
+---
+archive_url: https://api.github.com/repos/prasanthmj/vuepress-theme-sponge/{archive_format}{/ref}
+archived: false
+assignees_url: https://api.github.com/repos/prasanthmj/vuepress-theme-sponge/assignees{/user}
+blobs_url: https://api.github.com/repos/prasanthmj/vuepress-theme-sponge/git/blobs{/sha}
+branches_url: https://api.github.com/repos/prasanthmj/vuepress-theme-sponge/branches{/branch}
+clone_url: https://github.com/prasanthmj/vuepress-theme-sponge.git
+collaborators_url: https://api.github.com/repos/prasanthmj/vuepress-theme-sponge/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/prasanthmj/vuepress-theme-sponge/comments{/number}
+commits_url: https://api.github.com/repos/prasanthmj/vuepress-theme-sponge/commits{/sha}
+compare_url: https://api.github.com/repos/prasanthmj/vuepress-theme-sponge/compare/{base}...{head}
+contents_url: https://api.github.com/repos/prasanthmj/vuepress-theme-sponge/contents/{+path}
+contributors_url: https://api.github.com/repos/prasanthmj/vuepress-theme-sponge/contributors
+created_at: '2019-09-21T05:08:08Z'
+default_branch: master
+deployments_url: https://api.github.com/repos/prasanthmj/vuepress-theme-sponge/deployments
+description: A tech blog theme for vuepress, based on Bootstrap
+disabled: false
+downloads_url: https://api.github.com/repos/prasanthmj/vuepress-theme-sponge/downloads
+events_url: https://api.github.com/repos/prasanthmj/vuepress-theme-sponge/events
+fork: false
+forks: 0
+forks_count: 0
+forks_url: https://api.github.com/repos/prasanthmj/vuepress-theme-sponge/forks
+full_name: prasanthmj/vuepress-theme-sponge
+git_commits_url: https://api.github.com/repos/prasanthmj/vuepress-theme-sponge/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/prasanthmj/vuepress-theme-sponge/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/prasanthmj/vuepress-theme-sponge/git/tags{/sha}
+git_url: git://github.com/prasanthmj/vuepress-theme-sponge.git
+has_downloads: true
+has_issues: true
+has_pages: false
+has_projects: true
+has_wiki: true
+homepage: null
+hooks_url: https://api.github.com/repos/prasanthmj/vuepress-theme-sponge/hooks
+html_url: https://github.com/prasanthmj/vuepress-theme-sponge
+id: 209928139
+issue_comment_url: https://api.github.com/repos/prasanthmj/vuepress-theme-sponge/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/prasanthmj/vuepress-theme-sponge/issues/events{/number}
+issues_url: https://api.github.com/repos/prasanthmj/vuepress-theme-sponge/issues{/number}
+keys_url: https://api.github.com/repos/prasanthmj/vuepress-theme-sponge/keys{/key_id}
+labels_url: https://api.github.com/repos/prasanthmj/vuepress-theme-sponge/labels{/name}
+language: null
+languages_url: https://api.github.com/repos/prasanthmj/vuepress-theme-sponge/languages
+license:
+  key: mit
+  name: MIT License
+  node_id: MDc6TGljZW5zZTEz
+  spdx_id: MIT
+  url: https://api.github.com/licenses/mit
+merges_url: https://api.github.com/repos/prasanthmj/vuepress-theme-sponge/merges
+milestones_url: https://api.github.com/repos/prasanthmj/vuepress-theme-sponge/milestones{/number}
+mirror_url: null
+name: vuepress-theme-sponge
+network_count: 0
+node_id: MDEwOlJlcG9zaXRvcnkyMDk5MjgxMzk=
+notifications_url: https://api.github.com/repos/prasanthmj/vuepress-theme-sponge/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
+owner:
+  avatar_url: https://avatars1.githubusercontent.com/u/968329?v=4
+  events_url: https://api.github.com/users/prasanthmj/events{/privacy}
+  followers_url: https://api.github.com/users/prasanthmj/followers
+  following_url: https://api.github.com/users/prasanthmj/following{/other_user}
+  gists_url: https://api.github.com/users/prasanthmj/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/prasanthmj
+  id: 968329
+  login: prasanthmj
+  node_id: MDQ6VXNlcjk2ODMyOQ==
+  organizations_url: https://api.github.com/users/prasanthmj/orgs
+  received_events_url: https://api.github.com/users/prasanthmj/received_events
+  repos_url: https://api.github.com/users/prasanthmj/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/prasanthmj/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/prasanthmj/subscriptions
+  type: User
+  url: https://api.github.com/users/prasanthmj
+permissions:
+  admin: false
+  pull: true
+  push: false
+private: false
+pulls_url: https://api.github.com/repos/prasanthmj/vuepress-theme-sponge/pulls{/number}
+pushed_at: '2019-09-21T05:08:09Z'
+releases_url: https://api.github.com/repos/prasanthmj/vuepress-theme-sponge/releases{/id}
+size: 1
+ssh_url: git@github.com:prasanthmj/vuepress-theme-sponge.git
+stargazers_count: 0
+stargazers_url: https://api.github.com/repos/prasanthmj/vuepress-theme-sponge/stargazers
+statuses_url: https://api.github.com/repos/prasanthmj/vuepress-theme-sponge/statuses/{sha}
+subscribers_count: 1
+subscribers_url: https://api.github.com/repos/prasanthmj/vuepress-theme-sponge/subscribers
+subscription_url: https://api.github.com/repos/prasanthmj/vuepress-theme-sponge/subscription
+svn_url: https://github.com/prasanthmj/vuepress-theme-sponge
+tags_url: https://api.github.com/repos/prasanthmj/vuepress-theme-sponge/tags
+teams_url: https://api.github.com/repos/prasanthmj/vuepress-theme-sponge/teams
+temp_clone_token: ''
+trees_url: https://api.github.com/repos/prasanthmj/vuepress-theme-sponge/git/trees{/sha}
+updated_at: '2019-09-21T05:08:11Z'
+url: https://api.github.com/repos/prasanthmj/vuepress-theme-sponge
+watchers: 0
+watchers_count: 0
+---
+

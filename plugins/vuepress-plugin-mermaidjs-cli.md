@@ -1,0 +1,109 @@
+---
+archive_url: https://api.github.com/repos/gwleclerc/vuepress-plugin-mermaidjs-cli/{archive_format}{/ref}
+archived: false
+assignees_url: https://api.github.com/repos/gwleclerc/vuepress-plugin-mermaidjs-cli/assignees{/user}
+blobs_url: https://api.github.com/repos/gwleclerc/vuepress-plugin-mermaidjs-cli/git/blobs{/sha}
+branches_url: https://api.github.com/repos/gwleclerc/vuepress-plugin-mermaidjs-cli/branches{/branch}
+clone_url: https://github.com/gwleclerc/vuepress-plugin-mermaidjs-cli.git
+collaborators_url: https://api.github.com/repos/gwleclerc/vuepress-plugin-mermaidjs-cli/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/gwleclerc/vuepress-plugin-mermaidjs-cli/comments{/number}
+commits_url: https://api.github.com/repos/gwleclerc/vuepress-plugin-mermaidjs-cli/commits{/sha}
+compare_url: https://api.github.com/repos/gwleclerc/vuepress-plugin-mermaidjs-cli/compare/{base}...{head}
+contents_url: https://api.github.com/repos/gwleclerc/vuepress-plugin-mermaidjs-cli/contents/{+path}
+contributors_url: https://api.github.com/repos/gwleclerc/vuepress-plugin-mermaidjs-cli/contributors
+created_at: '2020-02-14T23:52:01Z'
+default_branch: master
+deployments_url: https://api.github.com/repos/gwleclerc/vuepress-plugin-mermaidjs-cli/deployments
+description: A Vuepress plugin which use mermaid-js.cli in order to generate mermaid-js
+  diagrams at build time
+disabled: false
+downloads_url: https://api.github.com/repos/gwleclerc/vuepress-plugin-mermaidjs-cli/downloads
+events_url: https://api.github.com/repos/gwleclerc/vuepress-plugin-mermaidjs-cli/events
+fork: false
+forks: 0
+forks_count: 0
+forks_url: https://api.github.com/repos/gwleclerc/vuepress-plugin-mermaidjs-cli/forks
+full_name: gwleclerc/vuepress-plugin-mermaidjs-cli
+git_commits_url: https://api.github.com/repos/gwleclerc/vuepress-plugin-mermaidjs-cli/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/gwleclerc/vuepress-plugin-mermaidjs-cli/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/gwleclerc/vuepress-plugin-mermaidjs-cli/git/tags{/sha}
+git_url: git://github.com/gwleclerc/vuepress-plugin-mermaidjs-cli.git
+has_downloads: true
+has_issues: true
+has_pages: false
+has_projects: true
+has_wiki: true
+homepage: null
+hooks_url: https://api.github.com/repos/gwleclerc/vuepress-plugin-mermaidjs-cli/hooks
+html_url: https://github.com/gwleclerc/vuepress-plugin-mermaidjs-cli
+id: 240618548
+issue_comment_url: https://api.github.com/repos/gwleclerc/vuepress-plugin-mermaidjs-cli/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/gwleclerc/vuepress-plugin-mermaidjs-cli/issues/events{/number}
+issues_url: https://api.github.com/repos/gwleclerc/vuepress-plugin-mermaidjs-cli/issues{/number}
+keys_url: https://api.github.com/repos/gwleclerc/vuepress-plugin-mermaidjs-cli/keys{/key_id}
+labels_url: https://api.github.com/repos/gwleclerc/vuepress-plugin-mermaidjs-cli/labels{/name}
+language: null
+languages_url: https://api.github.com/repos/gwleclerc/vuepress-plugin-mermaidjs-cli/languages
+license:
+  key: mit
+  name: MIT License
+  node_id: MDc6TGljZW5zZTEz
+  spdx_id: MIT
+  url: https://api.github.com/licenses/mit
+merges_url: https://api.github.com/repos/gwleclerc/vuepress-plugin-mermaidjs-cli/merges
+milestones_url: https://api.github.com/repos/gwleclerc/vuepress-plugin-mermaidjs-cli/milestones{/number}
+mirror_url: null
+name: vuepress-plugin-mermaidjs-cli
+network_count: 0
+node_id: MDEwOlJlcG9zaXRvcnkyNDA2MTg1NDg=
+notifications_url: https://api.github.com/repos/gwleclerc/vuepress-plugin-mermaidjs-cli/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
+owner:
+  avatar_url: https://avatars0.githubusercontent.com/u/3499740?v=4
+  events_url: https://api.github.com/users/gwleclerc/events{/privacy}
+  followers_url: https://api.github.com/users/gwleclerc/followers
+  following_url: https://api.github.com/users/gwleclerc/following{/other_user}
+  gists_url: https://api.github.com/users/gwleclerc/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/gwleclerc
+  id: 3499740
+  login: gwleclerc
+  node_id: MDQ6VXNlcjM0OTk3NDA=
+  organizations_url: https://api.github.com/users/gwleclerc/orgs
+  received_events_url: https://api.github.com/users/gwleclerc/received_events
+  repos_url: https://api.github.com/users/gwleclerc/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/gwleclerc/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/gwleclerc/subscriptions
+  type: User
+  url: https://api.github.com/users/gwleclerc
+permissions:
+  admin: false
+  pull: true
+  push: false
+private: false
+pulls_url: https://api.github.com/repos/gwleclerc/vuepress-plugin-mermaidjs-cli/pulls{/number}
+pushed_at: '2020-02-14T23:52:03Z'
+releases_url: https://api.github.com/repos/gwleclerc/vuepress-plugin-mermaidjs-cli/releases{/id}
+size: 2
+ssh_url: git@github.com:gwleclerc/vuepress-plugin-mermaidjs-cli.git
+stargazers_count: 0
+stargazers_url: https://api.github.com/repos/gwleclerc/vuepress-plugin-mermaidjs-cli/stargazers
+statuses_url: https://api.github.com/repos/gwleclerc/vuepress-plugin-mermaidjs-cli/statuses/{sha}
+subscribers_count: 1
+subscribers_url: https://api.github.com/repos/gwleclerc/vuepress-plugin-mermaidjs-cli/subscribers
+subscription_url: https://api.github.com/repos/gwleclerc/vuepress-plugin-mermaidjs-cli/subscription
+svn_url: https://github.com/gwleclerc/vuepress-plugin-mermaidjs-cli
+tags_url: https://api.github.com/repos/gwleclerc/vuepress-plugin-mermaidjs-cli/tags
+teams_url: https://api.github.com/repos/gwleclerc/vuepress-plugin-mermaidjs-cli/teams
+temp_clone_token: ''
+trees_url: https://api.github.com/repos/gwleclerc/vuepress-plugin-mermaidjs-cli/git/trees{/sha}
+updated_at: '2020-02-14T23:52:06Z'
+url: https://api.github.com/repos/gwleclerc/vuepress-plugin-mermaidjs-cli
+watchers: 0
+watchers_count: 0
+---
+
+# vuepress-plugin-mermaidjs-cli
+A Vuepress plugin which use mermaid-js.cli in order to generate mermaid-js diagrams at build time

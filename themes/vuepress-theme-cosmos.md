@@ -1,0 +1,101 @@
+---
+archive_url: https://api.github.com/repos/fadeev/vuepress-theme-cosmos/{archive_format}{/ref}
+archived: true
+assignees_url: https://api.github.com/repos/fadeev/vuepress-theme-cosmos/assignees{/user}
+blobs_url: https://api.github.com/repos/fadeev/vuepress-theme-cosmos/git/blobs{/sha}
+branches_url: https://api.github.com/repos/fadeev/vuepress-theme-cosmos/branches{/branch}
+clone_url: https://github.com/fadeev/vuepress-theme-cosmos.git
+collaborators_url: https://api.github.com/repos/fadeev/vuepress-theme-cosmos/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/fadeev/vuepress-theme-cosmos/comments{/number}
+commits_url: https://api.github.com/repos/fadeev/vuepress-theme-cosmos/commits{/sha}
+compare_url: https://api.github.com/repos/fadeev/vuepress-theme-cosmos/compare/{base}...{head}
+contents_url: https://api.github.com/repos/fadeev/vuepress-theme-cosmos/contents/{+path}
+contributors_url: https://api.github.com/repos/fadeev/vuepress-theme-cosmos/contributors
+created_at: '2019-09-26T19:54:40Z'
+default_branch: master
+deployments_url: https://api.github.com/repos/fadeev/vuepress-theme-cosmos/deployments
+description: null
+disabled: false
+downloads_url: https://api.github.com/repos/fadeev/vuepress-theme-cosmos/downloads
+events_url: https://api.github.com/repos/fadeev/vuepress-theme-cosmos/events
+fork: false
+forks: 0
+forks_count: 0
+forks_url: https://api.github.com/repos/fadeev/vuepress-theme-cosmos/forks
+full_name: fadeev/vuepress-theme-cosmos
+git_commits_url: https://api.github.com/repos/fadeev/vuepress-theme-cosmos/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/fadeev/vuepress-theme-cosmos/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/fadeev/vuepress-theme-cosmos/git/tags{/sha}
+git_url: git://github.com/fadeev/vuepress-theme-cosmos.git
+has_downloads: true
+has_issues: true
+has_pages: false
+has_projects: true
+has_wiki: true
+homepage: null
+hooks_url: https://api.github.com/repos/fadeev/vuepress-theme-cosmos/hooks
+html_url: https://github.com/fadeev/vuepress-theme-cosmos
+id: 211170622
+issue_comment_url: https://api.github.com/repos/fadeev/vuepress-theme-cosmos/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/fadeev/vuepress-theme-cosmos/issues/events{/number}
+issues_url: https://api.github.com/repos/fadeev/vuepress-theme-cosmos/issues{/number}
+keys_url: https://api.github.com/repos/fadeev/vuepress-theme-cosmos/keys{/key_id}
+labels_url: https://api.github.com/repos/fadeev/vuepress-theme-cosmos/labels{/name}
+language: Vue
+languages_url: https://api.github.com/repos/fadeev/vuepress-theme-cosmos/languages
+license: null
+merges_url: https://api.github.com/repos/fadeev/vuepress-theme-cosmos/merges
+milestones_url: https://api.github.com/repos/fadeev/vuepress-theme-cosmos/milestones{/number}
+mirror_url: null
+name: vuepress-theme-cosmos
+network_count: 0
+node_id: MDEwOlJlcG9zaXRvcnkyMTExNzA2MjI=
+notifications_url: https://api.github.com/repos/fadeev/vuepress-theme-cosmos/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
+owner:
+  avatar_url: https://avatars3.githubusercontent.com/u/332151?v=4
+  events_url: https://api.github.com/users/fadeev/events{/privacy}
+  followers_url: https://api.github.com/users/fadeev/followers
+  following_url: https://api.github.com/users/fadeev/following{/other_user}
+  gists_url: https://api.github.com/users/fadeev/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/fadeev
+  id: 332151
+  login: fadeev
+  node_id: MDQ6VXNlcjMzMjE1MQ==
+  organizations_url: https://api.github.com/users/fadeev/orgs
+  received_events_url: https://api.github.com/users/fadeev/received_events
+  repos_url: https://api.github.com/users/fadeev/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/fadeev/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/fadeev/subscriptions
+  type: User
+  url: https://api.github.com/users/fadeev
+permissions:
+  admin: false
+  pull: true
+  push: false
+private: false
+pulls_url: https://api.github.com/repos/fadeev/vuepress-theme-cosmos/pulls{/number}
+pushed_at: '2019-09-26T19:55:39Z'
+releases_url: https://api.github.com/repos/fadeev/vuepress-theme-cosmos/releases{/id}
+size: 699
+ssh_url: git@github.com:fadeev/vuepress-theme-cosmos.git
+stargazers_count: 0
+stargazers_url: https://api.github.com/repos/fadeev/vuepress-theme-cosmos/stargazers
+statuses_url: https://api.github.com/repos/fadeev/vuepress-theme-cosmos/statuses/{sha}
+subscribers_count: 1
+subscribers_url: https://api.github.com/repos/fadeev/vuepress-theme-cosmos/subscribers
+subscription_url: https://api.github.com/repos/fadeev/vuepress-theme-cosmos/subscription
+svn_url: https://github.com/fadeev/vuepress-theme-cosmos
+tags_url: https://api.github.com/repos/fadeev/vuepress-theme-cosmos/tags
+teams_url: https://api.github.com/repos/fadeev/vuepress-theme-cosmos/teams
+temp_clone_token: ''
+trees_url: https://api.github.com/repos/fadeev/vuepress-theme-cosmos/git/trees{/sha}
+updated_at: '2019-11-03T11:42:26Z'
+url: https://api.github.com/repos/fadeev/vuepress-theme-cosmos
+watchers: 0
+watchers_count: 0
+---
+

@@ -1,0 +1,127 @@
+---
+archive_url: https://api.github.com/repos/violacss/vuepress-theme-viola/{archive_format}{/ref}
+archived: false
+assignees_url: https://api.github.com/repos/violacss/vuepress-theme-viola/assignees{/user}
+blobs_url: https://api.github.com/repos/violacss/vuepress-theme-viola/git/blobs{/sha}
+branches_url: https://api.github.com/repos/violacss/vuepress-theme-viola/branches{/branch}
+clone_url: https://github.com/violacss/vuepress-theme-viola.git
+collaborators_url: https://api.github.com/repos/violacss/vuepress-theme-viola/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/violacss/vuepress-theme-viola/comments{/number}
+commits_url: https://api.github.com/repos/violacss/vuepress-theme-viola/commits{/sha}
+compare_url: https://api.github.com/repos/violacss/vuepress-theme-viola/compare/{base}...{head}
+contents_url: https://api.github.com/repos/violacss/vuepress-theme-viola/contents/{+path}
+contributors_url: https://api.github.com/repos/violacss/vuepress-theme-viola/contributors
+created_at: '2019-07-06T12:35:43Z'
+default_branch: master
+deployments_url: https://api.github.com/repos/violacss/vuepress-theme-viola/deployments
+description: Vuepress theme based on the ViolaCSS
+disabled: false
+downloads_url: https://api.github.com/repos/violacss/vuepress-theme-viola/downloads
+events_url: https://api.github.com/repos/violacss/vuepress-theme-viola/events
+fork: false
+forks: 0
+forks_count: 0
+forks_url: https://api.github.com/repos/violacss/vuepress-theme-viola/forks
+full_name: violacss/vuepress-theme-viola
+git_commits_url: https://api.github.com/repos/violacss/vuepress-theme-viola/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/violacss/vuepress-theme-viola/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/violacss/vuepress-theme-viola/git/tags{/sha}
+git_url: git://github.com/violacss/vuepress-theme-viola.git
+has_downloads: true
+has_issues: true
+has_pages: false
+has_projects: false
+has_wiki: true
+homepage: null
+hooks_url: https://api.github.com/repos/violacss/vuepress-theme-viola/hooks
+html_url: https://github.com/violacss/vuepress-theme-viola
+id: 195537652
+issue_comment_url: https://api.github.com/repos/violacss/vuepress-theme-viola/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/violacss/vuepress-theme-viola/issues/events{/number}
+issues_url: https://api.github.com/repos/violacss/vuepress-theme-viola/issues{/number}
+keys_url: https://api.github.com/repos/violacss/vuepress-theme-viola/keys{/key_id}
+labels_url: https://api.github.com/repos/violacss/vuepress-theme-viola/labels{/name}
+language: null
+languages_url: https://api.github.com/repos/violacss/vuepress-theme-viola/languages
+license:
+  key: mit
+  name: MIT License
+  node_id: MDc6TGljZW5zZTEz
+  spdx_id: MIT
+  url: https://api.github.com/licenses/mit
+merges_url: https://api.github.com/repos/violacss/vuepress-theme-viola/merges
+milestones_url: https://api.github.com/repos/violacss/vuepress-theme-viola/milestones{/number}
+mirror_url: null
+name: vuepress-theme-viola
+network_count: 0
+node_id: MDEwOlJlcG9zaXRvcnkxOTU1Mzc2NTI=
+notifications_url: https://api.github.com/repos/violacss/vuepress-theme-viola/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
+organization:
+  avatar_url: https://avatars0.githubusercontent.com/u/52231615?v=4
+  events_url: https://api.github.com/users/violacss/events{/privacy}
+  followers_url: https://api.github.com/users/violacss/followers
+  following_url: https://api.github.com/users/violacss/following{/other_user}
+  gists_url: https://api.github.com/users/violacss/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/violacss
+  id: 52231615
+  login: violacss
+  node_id: MDEyOk9yZ2FuaXphdGlvbjUyMjMxNjE1
+  organizations_url: https://api.github.com/users/violacss/orgs
+  received_events_url: https://api.github.com/users/violacss/received_events
+  repos_url: https://api.github.com/users/violacss/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/violacss/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/violacss/subscriptions
+  type: Organization
+  url: https://api.github.com/users/violacss
+owner:
+  avatar_url: https://avatars0.githubusercontent.com/u/52231615?v=4
+  events_url: https://api.github.com/users/violacss/events{/privacy}
+  followers_url: https://api.github.com/users/violacss/followers
+  following_url: https://api.github.com/users/violacss/following{/other_user}
+  gists_url: https://api.github.com/users/violacss/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/violacss
+  id: 52231615
+  login: violacss
+  node_id: MDEyOk9yZ2FuaXphdGlvbjUyMjMxNjE1
+  organizations_url: https://api.github.com/users/violacss/orgs
+  received_events_url: https://api.github.com/users/violacss/received_events
+  repos_url: https://api.github.com/users/violacss/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/violacss/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/violacss/subscriptions
+  type: Organization
+  url: https://api.github.com/users/violacss
+permissions:
+  admin: false
+  pull: true
+  push: false
+private: false
+pulls_url: https://api.github.com/repos/violacss/vuepress-theme-viola/pulls{/number}
+pushed_at: '2019-07-06T12:35:45Z'
+releases_url: https://api.github.com/repos/violacss/vuepress-theme-viola/releases{/id}
+size: 1
+ssh_url: git@github.com:violacss/vuepress-theme-viola.git
+stargazers_count: 0
+stargazers_url: https://api.github.com/repos/violacss/vuepress-theme-viola/stargazers
+statuses_url: https://api.github.com/repos/violacss/vuepress-theme-viola/statuses/{sha}
+subscribers_count: 1
+subscribers_url: https://api.github.com/repos/violacss/vuepress-theme-viola/subscribers
+subscription_url: https://api.github.com/repos/violacss/vuepress-theme-viola/subscription
+svn_url: https://github.com/violacss/vuepress-theme-viola
+tags_url: https://api.github.com/repos/violacss/vuepress-theme-viola/tags
+teams_url: https://api.github.com/repos/violacss/vuepress-theme-viola/teams
+temp_clone_token: ''
+trees_url: https://api.github.com/repos/violacss/vuepress-theme-viola/git/trees{/sha}
+updated_at: '2019-07-06T12:36:45Z'
+url: https://api.github.com/repos/violacss/vuepress-theme-viola
+watchers: 0
+watchers_count: 0
+---
+
+# vuepress-theme-viola
+Vuepress theme based on the ViolaCSS

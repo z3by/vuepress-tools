@@ -1,0 +1,101 @@
+---
+archive_url: https://api.github.com/repos/cccyb/vuepress-theme-pinghsu/{archive_format}{/ref}
+archived: false
+assignees_url: https://api.github.com/repos/cccyb/vuepress-theme-pinghsu/assignees{/user}
+blobs_url: https://api.github.com/repos/cccyb/vuepress-theme-pinghsu/git/blobs{/sha}
+branches_url: https://api.github.com/repos/cccyb/vuepress-theme-pinghsu/branches{/branch}
+clone_url: https://github.com/cccyb/vuepress-theme-pinghsu.git
+collaborators_url: https://api.github.com/repos/cccyb/vuepress-theme-pinghsu/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/cccyb/vuepress-theme-pinghsu/comments{/number}
+commits_url: https://api.github.com/repos/cccyb/vuepress-theme-pinghsu/commits{/sha}
+compare_url: https://api.github.com/repos/cccyb/vuepress-theme-pinghsu/compare/{base}...{head}
+contents_url: https://api.github.com/repos/cccyb/vuepress-theme-pinghsu/contents/{+path}
+contributors_url: https://api.github.com/repos/cccyb/vuepress-theme-pinghsu/contributors
+created_at: '2019-08-29T10:14:08Z'
+default_branch: master
+deployments_url: https://api.github.com/repos/cccyb/vuepress-theme-pinghsu/deployments
+description: null
+disabled: false
+downloads_url: https://api.github.com/repos/cccyb/vuepress-theme-pinghsu/downloads
+events_url: https://api.github.com/repos/cccyb/vuepress-theme-pinghsu/events
+fork: false
+forks: 0
+forks_count: 0
+forks_url: https://api.github.com/repos/cccyb/vuepress-theme-pinghsu/forks
+full_name: cccyb/vuepress-theme-pinghsu
+git_commits_url: https://api.github.com/repos/cccyb/vuepress-theme-pinghsu/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/cccyb/vuepress-theme-pinghsu/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/cccyb/vuepress-theme-pinghsu/git/tags{/sha}
+git_url: git://github.com/cccyb/vuepress-theme-pinghsu.git
+has_downloads: true
+has_issues: true
+has_pages: false
+has_projects: true
+has_wiki: true
+homepage: null
+hooks_url: https://api.github.com/repos/cccyb/vuepress-theme-pinghsu/hooks
+html_url: https://github.com/cccyb/vuepress-theme-pinghsu
+id: 205136377
+issue_comment_url: https://api.github.com/repos/cccyb/vuepress-theme-pinghsu/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/cccyb/vuepress-theme-pinghsu/issues/events{/number}
+issues_url: https://api.github.com/repos/cccyb/vuepress-theme-pinghsu/issues{/number}
+keys_url: https://api.github.com/repos/cccyb/vuepress-theme-pinghsu/keys{/key_id}
+labels_url: https://api.github.com/repos/cccyb/vuepress-theme-pinghsu/labels{/name}
+language: null
+languages_url: https://api.github.com/repos/cccyb/vuepress-theme-pinghsu/languages
+license: null
+merges_url: https://api.github.com/repos/cccyb/vuepress-theme-pinghsu/merges
+milestones_url: https://api.github.com/repos/cccyb/vuepress-theme-pinghsu/milestones{/number}
+mirror_url: null
+name: vuepress-theme-pinghsu
+network_count: 0
+node_id: MDEwOlJlcG9zaXRvcnkyMDUxMzYzNzc=
+notifications_url: https://api.github.com/repos/cccyb/vuepress-theme-pinghsu/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
+owner:
+  avatar_url: https://avatars3.githubusercontent.com/u/20245829?v=4
+  events_url: https://api.github.com/users/cccyb/events{/privacy}
+  followers_url: https://api.github.com/users/cccyb/followers
+  following_url: https://api.github.com/users/cccyb/following{/other_user}
+  gists_url: https://api.github.com/users/cccyb/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/cccyb
+  id: 20245829
+  login: cccyb
+  node_id: MDQ6VXNlcjIwMjQ1ODI5
+  organizations_url: https://api.github.com/users/cccyb/orgs
+  received_events_url: https://api.github.com/users/cccyb/received_events
+  repos_url: https://api.github.com/users/cccyb/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/cccyb/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/cccyb/subscriptions
+  type: User
+  url: https://api.github.com/users/cccyb
+permissions:
+  admin: false
+  pull: true
+  push: false
+private: false
+pulls_url: https://api.github.com/repos/cccyb/vuepress-theme-pinghsu/pulls{/number}
+pushed_at: '2019-09-20T02:25:24Z'
+releases_url: https://api.github.com/repos/cccyb/vuepress-theme-pinghsu/releases{/id}
+size: 113
+ssh_url: git@github.com:cccyb/vuepress-theme-pinghsu.git
+stargazers_count: 1
+stargazers_url: https://api.github.com/repos/cccyb/vuepress-theme-pinghsu/stargazers
+statuses_url: https://api.github.com/repos/cccyb/vuepress-theme-pinghsu/statuses/{sha}
+subscribers_count: 1
+subscribers_url: https://api.github.com/repos/cccyb/vuepress-theme-pinghsu/subscribers
+subscription_url: https://api.github.com/repos/cccyb/vuepress-theme-pinghsu/subscription
+svn_url: https://github.com/cccyb/vuepress-theme-pinghsu
+tags_url: https://api.github.com/repos/cccyb/vuepress-theme-pinghsu/tags
+teams_url: https://api.github.com/repos/cccyb/vuepress-theme-pinghsu/teams
+temp_clone_token: ''
+trees_url: https://api.github.com/repos/cccyb/vuepress-theme-pinghsu/git/trees{/sha}
+updated_at: '2019-09-20T02:25:52Z'
+url: https://api.github.com/repos/cccyb/vuepress-theme-pinghsu
+watchers: 1
+watchers_count: 1
+---
+

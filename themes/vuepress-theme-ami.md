@@ -1,0 +1,101 @@
+---
+archive_url: https://api.github.com/repos/jenkey2011/vuepress-theme-ami/{archive_format}{/ref}
+archived: false
+assignees_url: https://api.github.com/repos/jenkey2011/vuepress-theme-ami/assignees{/user}
+blobs_url: https://api.github.com/repos/jenkey2011/vuepress-theme-ami/git/blobs{/sha}
+branches_url: https://api.github.com/repos/jenkey2011/vuepress-theme-ami/branches{/branch}
+clone_url: https://github.com/jenkey2011/vuepress-theme-ami.git
+collaborators_url: https://api.github.com/repos/jenkey2011/vuepress-theme-ami/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/jenkey2011/vuepress-theme-ami/comments{/number}
+commits_url: https://api.github.com/repos/jenkey2011/vuepress-theme-ami/commits{/sha}
+compare_url: https://api.github.com/repos/jenkey2011/vuepress-theme-ami/compare/{base}...{head}
+contents_url: https://api.github.com/repos/jenkey2011/vuepress-theme-ami/contents/{+path}
+contributors_url: https://api.github.com/repos/jenkey2011/vuepress-theme-ami/contributors
+created_at: '2020-02-06T03:31:09Z'
+default_branch: master
+deployments_url: https://api.github.com/repos/jenkey2011/vuepress-theme-ami/deployments
+description: A vuepress blog theme.
+disabled: false
+downloads_url: https://api.github.com/repos/jenkey2011/vuepress-theme-ami/downloads
+events_url: https://api.github.com/repos/jenkey2011/vuepress-theme-ami/events
+fork: false
+forks: 0
+forks_count: 0
+forks_url: https://api.github.com/repos/jenkey2011/vuepress-theme-ami/forks
+full_name: jenkey2011/vuepress-theme-ami
+git_commits_url: https://api.github.com/repos/jenkey2011/vuepress-theme-ami/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/jenkey2011/vuepress-theme-ami/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/jenkey2011/vuepress-theme-ami/git/tags{/sha}
+git_url: git://github.com/jenkey2011/vuepress-theme-ami.git
+has_downloads: true
+has_issues: true
+has_pages: false
+has_projects: true
+has_wiki: true
+homepage: null
+hooks_url: https://api.github.com/repos/jenkey2011/vuepress-theme-ami/hooks
+html_url: https://github.com/jenkey2011/vuepress-theme-ami
+id: 238599908
+issue_comment_url: https://api.github.com/repos/jenkey2011/vuepress-theme-ami/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/jenkey2011/vuepress-theme-ami/issues/events{/number}
+issues_url: https://api.github.com/repos/jenkey2011/vuepress-theme-ami/issues{/number}
+keys_url: https://api.github.com/repos/jenkey2011/vuepress-theme-ami/keys{/key_id}
+labels_url: https://api.github.com/repos/jenkey2011/vuepress-theme-ami/labels{/name}
+language: null
+languages_url: https://api.github.com/repos/jenkey2011/vuepress-theme-ami/languages
+license: null
+merges_url: https://api.github.com/repos/jenkey2011/vuepress-theme-ami/merges
+milestones_url: https://api.github.com/repos/jenkey2011/vuepress-theme-ami/milestones{/number}
+mirror_url: null
+name: vuepress-theme-ami
+network_count: 0
+node_id: MDEwOlJlcG9zaXRvcnkyMzg1OTk5MDg=
+notifications_url: https://api.github.com/repos/jenkey2011/vuepress-theme-ami/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
+owner:
+  avatar_url: https://avatars0.githubusercontent.com/u/20010737?v=4
+  events_url: https://api.github.com/users/jenkey2011/events{/privacy}
+  followers_url: https://api.github.com/users/jenkey2011/followers
+  following_url: https://api.github.com/users/jenkey2011/following{/other_user}
+  gists_url: https://api.github.com/users/jenkey2011/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/jenkey2011
+  id: 20010737
+  login: jenkey2011
+  node_id: MDQ6VXNlcjIwMDEwNzM3
+  organizations_url: https://api.github.com/users/jenkey2011/orgs
+  received_events_url: https://api.github.com/users/jenkey2011/received_events
+  repos_url: https://api.github.com/users/jenkey2011/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/jenkey2011/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/jenkey2011/subscriptions
+  type: User
+  url: https://api.github.com/users/jenkey2011
+permissions:
+  admin: false
+  pull: true
+  push: false
+private: false
+pulls_url: https://api.github.com/repos/jenkey2011/vuepress-theme-ami/pulls{/number}
+pushed_at: '2020-02-06T03:31:10Z'
+releases_url: https://api.github.com/repos/jenkey2011/vuepress-theme-ami/releases{/id}
+size: 0
+ssh_url: git@github.com:jenkey2011/vuepress-theme-ami.git
+stargazers_count: 0
+stargazers_url: https://api.github.com/repos/jenkey2011/vuepress-theme-ami/stargazers
+statuses_url: https://api.github.com/repos/jenkey2011/vuepress-theme-ami/statuses/{sha}
+subscribers_count: 1
+subscribers_url: https://api.github.com/repos/jenkey2011/vuepress-theme-ami/subscribers
+subscription_url: https://api.github.com/repos/jenkey2011/vuepress-theme-ami/subscription
+svn_url: https://github.com/jenkey2011/vuepress-theme-ami
+tags_url: https://api.github.com/repos/jenkey2011/vuepress-theme-ami/tags
+teams_url: https://api.github.com/repos/jenkey2011/vuepress-theme-ami/teams
+temp_clone_token: ''
+trees_url: https://api.github.com/repos/jenkey2011/vuepress-theme-ami/git/trees{/sha}
+updated_at: '2020-02-06T03:31:09Z'
+url: https://api.github.com/repos/jenkey2011/vuepress-theme-ami
+watchers: 0
+watchers_count: 0
+---
+

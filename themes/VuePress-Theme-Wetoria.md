@@ -1,0 +1,101 @@
+---
+archive_url: https://api.github.com/repos/Wetoria/VuePress-Theme-Wetoria/{archive_format}{/ref}
+archived: false
+assignees_url: https://api.github.com/repos/Wetoria/VuePress-Theme-Wetoria/assignees{/user}
+blobs_url: https://api.github.com/repos/Wetoria/VuePress-Theme-Wetoria/git/blobs{/sha}
+branches_url: https://api.github.com/repos/Wetoria/VuePress-Theme-Wetoria/branches{/branch}
+clone_url: https://github.com/Wetoria/VuePress-Theme-Wetoria.git
+collaborators_url: https://api.github.com/repos/Wetoria/VuePress-Theme-Wetoria/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/Wetoria/VuePress-Theme-Wetoria/comments{/number}
+commits_url: https://api.github.com/repos/Wetoria/VuePress-Theme-Wetoria/commits{/sha}
+compare_url: https://api.github.com/repos/Wetoria/VuePress-Theme-Wetoria/compare/{base}...{head}
+contents_url: https://api.github.com/repos/Wetoria/VuePress-Theme-Wetoria/contents/{+path}
+contributors_url: https://api.github.com/repos/Wetoria/VuePress-Theme-Wetoria/contributors
+created_at: '2020-01-16T08:32:50Z'
+default_branch: master
+deployments_url: https://api.github.com/repos/Wetoria/VuePress-Theme-Wetoria/deployments
+description: null
+disabled: false
+downloads_url: https://api.github.com/repos/Wetoria/VuePress-Theme-Wetoria/downloads
+events_url: https://api.github.com/repos/Wetoria/VuePress-Theme-Wetoria/events
+fork: false
+forks: 0
+forks_count: 0
+forks_url: https://api.github.com/repos/Wetoria/VuePress-Theme-Wetoria/forks
+full_name: Wetoria/VuePress-Theme-Wetoria
+git_commits_url: https://api.github.com/repos/Wetoria/VuePress-Theme-Wetoria/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/Wetoria/VuePress-Theme-Wetoria/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/Wetoria/VuePress-Theme-Wetoria/git/tags{/sha}
+git_url: git://github.com/Wetoria/VuePress-Theme-Wetoria.git
+has_downloads: true
+has_issues: true
+has_pages: false
+has_projects: true
+has_wiki: true
+homepage: null
+hooks_url: https://api.github.com/repos/Wetoria/VuePress-Theme-Wetoria/hooks
+html_url: https://github.com/Wetoria/VuePress-Theme-Wetoria
+id: 234272281
+issue_comment_url: https://api.github.com/repos/Wetoria/VuePress-Theme-Wetoria/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/Wetoria/VuePress-Theme-Wetoria/issues/events{/number}
+issues_url: https://api.github.com/repos/Wetoria/VuePress-Theme-Wetoria/issues{/number}
+keys_url: https://api.github.com/repos/Wetoria/VuePress-Theme-Wetoria/keys{/key_id}
+labels_url: https://api.github.com/repos/Wetoria/VuePress-Theme-Wetoria/labels{/name}
+language: null
+languages_url: https://api.github.com/repos/Wetoria/VuePress-Theme-Wetoria/languages
+license: null
+merges_url: https://api.github.com/repos/Wetoria/VuePress-Theme-Wetoria/merges
+milestones_url: https://api.github.com/repos/Wetoria/VuePress-Theme-Wetoria/milestones{/number}
+mirror_url: null
+name: VuePress-Theme-Wetoria
+network_count: 0
+node_id: MDEwOlJlcG9zaXRvcnkyMzQyNzIyODE=
+notifications_url: https://api.github.com/repos/Wetoria/VuePress-Theme-Wetoria/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
+owner:
+  avatar_url: https://avatars2.githubusercontent.com/u/16909518?v=4
+  events_url: https://api.github.com/users/Wetoria/events{/privacy}
+  followers_url: https://api.github.com/users/Wetoria/followers
+  following_url: https://api.github.com/users/Wetoria/following{/other_user}
+  gists_url: https://api.github.com/users/Wetoria/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/Wetoria
+  id: 16909518
+  login: Wetoria
+  node_id: MDQ6VXNlcjE2OTA5NTE4
+  organizations_url: https://api.github.com/users/Wetoria/orgs
+  received_events_url: https://api.github.com/users/Wetoria/received_events
+  repos_url: https://api.github.com/users/Wetoria/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/Wetoria/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/Wetoria/subscriptions
+  type: User
+  url: https://api.github.com/users/Wetoria
+permissions:
+  admin: false
+  pull: true
+  push: false
+private: false
+pulls_url: https://api.github.com/repos/Wetoria/VuePress-Theme-Wetoria/pulls{/number}
+pushed_at: '2020-01-16T14:27:37Z'
+releases_url: https://api.github.com/repos/Wetoria/VuePress-Theme-Wetoria/releases{/id}
+size: 1251
+ssh_url: git@github.com:Wetoria/VuePress-Theme-Wetoria.git
+stargazers_count: 0
+stargazers_url: https://api.github.com/repos/Wetoria/VuePress-Theme-Wetoria/stargazers
+statuses_url: https://api.github.com/repos/Wetoria/VuePress-Theme-Wetoria/statuses/{sha}
+subscribers_count: 1
+subscribers_url: https://api.github.com/repos/Wetoria/VuePress-Theme-Wetoria/subscribers
+subscription_url: https://api.github.com/repos/Wetoria/VuePress-Theme-Wetoria/subscription
+svn_url: https://github.com/Wetoria/VuePress-Theme-Wetoria
+tags_url: https://api.github.com/repos/Wetoria/VuePress-Theme-Wetoria/tags
+teams_url: https://api.github.com/repos/Wetoria/VuePress-Theme-Wetoria/teams
+temp_clone_token: ''
+trees_url: https://api.github.com/repos/Wetoria/VuePress-Theme-Wetoria/git/trees{/sha}
+updated_at: '2020-01-16T14:27:39Z'
+url: https://api.github.com/repos/Wetoria/VuePress-Theme-Wetoria
+watchers: 0
+watchers_count: 0
+---
+

@@ -1,0 +1,107 @@
+---
+archive_url: https://api.github.com/repos/jaykenxie/vuepress-theme-ken/{archive_format}{/ref}
+archived: false
+assignees_url: https://api.github.com/repos/jaykenxie/vuepress-theme-ken/assignees{/user}
+blobs_url: https://api.github.com/repos/jaykenxie/vuepress-theme-ken/git/blobs{/sha}
+branches_url: https://api.github.com/repos/jaykenxie/vuepress-theme-ken/branches{/branch}
+clone_url: https://github.com/jaykenxie/vuepress-theme-ken.git
+collaborators_url: https://api.github.com/repos/jaykenxie/vuepress-theme-ken/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/jaykenxie/vuepress-theme-ken/comments{/number}
+commits_url: https://api.github.com/repos/jaykenxie/vuepress-theme-ken/commits{/sha}
+compare_url: https://api.github.com/repos/jaykenxie/vuepress-theme-ken/compare/{base}...{head}
+contents_url: https://api.github.com/repos/jaykenxie/vuepress-theme-ken/contents/{+path}
+contributors_url: https://api.github.com/repos/jaykenxie/vuepress-theme-ken/contributors
+created_at: '2019-06-10T03:10:34Z'
+default_branch: master
+deployments_url: https://api.github.com/repos/jaykenxie/vuepress-theme-ken/deployments
+description: "\U0001F525vuepress blog theme"
+disabled: false
+downloads_url: https://api.github.com/repos/jaykenxie/vuepress-theme-ken/downloads
+events_url: https://api.github.com/repos/jaykenxie/vuepress-theme-ken/events
+fork: false
+forks: 0
+forks_count: 0
+forks_url: https://api.github.com/repos/jaykenxie/vuepress-theme-ken/forks
+full_name: jaykenxie/vuepress-theme-ken
+git_commits_url: https://api.github.com/repos/jaykenxie/vuepress-theme-ken/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/jaykenxie/vuepress-theme-ken/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/jaykenxie/vuepress-theme-ken/git/tags{/sha}
+git_url: git://github.com/jaykenxie/vuepress-theme-ken.git
+has_downloads: true
+has_issues: true
+has_pages: false
+has_projects: true
+has_wiki: true
+homepage: https://www.jayken.cn/
+hooks_url: https://api.github.com/repos/jaykenxie/vuepress-theme-ken/hooks
+html_url: https://github.com/jaykenxie/vuepress-theme-ken
+id: 191087959
+issue_comment_url: https://api.github.com/repos/jaykenxie/vuepress-theme-ken/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/jaykenxie/vuepress-theme-ken/issues/events{/number}
+issues_url: https://api.github.com/repos/jaykenxie/vuepress-theme-ken/issues{/number}
+keys_url: https://api.github.com/repos/jaykenxie/vuepress-theme-ken/keys{/key_id}
+labels_url: https://api.github.com/repos/jaykenxie/vuepress-theme-ken/labels{/name}
+language: Vue
+languages_url: https://api.github.com/repos/jaykenxie/vuepress-theme-ken/languages
+license:
+  key: mit
+  name: MIT License
+  node_id: MDc6TGljZW5zZTEz
+  spdx_id: MIT
+  url: https://api.github.com/licenses/mit
+merges_url: https://api.github.com/repos/jaykenxie/vuepress-theme-ken/merges
+milestones_url: https://api.github.com/repos/jaykenxie/vuepress-theme-ken/milestones{/number}
+mirror_url: null
+name: vuepress-theme-ken
+network_count: 0
+node_id: MDEwOlJlcG9zaXRvcnkxOTEwODc5NTk=
+notifications_url: https://api.github.com/repos/jaykenxie/vuepress-theme-ken/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
+owner:
+  avatar_url: https://avatars3.githubusercontent.com/u/29194135?v=4
+  events_url: https://api.github.com/users/jaykenxie/events{/privacy}
+  followers_url: https://api.github.com/users/jaykenxie/followers
+  following_url: https://api.github.com/users/jaykenxie/following{/other_user}
+  gists_url: https://api.github.com/users/jaykenxie/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/jaykenxie
+  id: 29194135
+  login: jaykenxie
+  node_id: MDQ6VXNlcjI5MTk0MTM1
+  organizations_url: https://api.github.com/users/jaykenxie/orgs
+  received_events_url: https://api.github.com/users/jaykenxie/received_events
+  repos_url: https://api.github.com/users/jaykenxie/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/jaykenxie/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/jaykenxie/subscriptions
+  type: User
+  url: https://api.github.com/users/jaykenxie
+permissions:
+  admin: false
+  pull: true
+  push: false
+private: false
+pulls_url: https://api.github.com/repos/jaykenxie/vuepress-theme-ken/pulls{/number}
+pushed_at: '2019-07-10T07:23:52Z'
+releases_url: https://api.github.com/repos/jaykenxie/vuepress-theme-ken/releases{/id}
+size: 510
+ssh_url: git@github.com:jaykenxie/vuepress-theme-ken.git
+stargazers_count: 1
+stargazers_url: https://api.github.com/repos/jaykenxie/vuepress-theme-ken/stargazers
+statuses_url: https://api.github.com/repos/jaykenxie/vuepress-theme-ken/statuses/{sha}
+subscribers_count: 0
+subscribers_url: https://api.github.com/repos/jaykenxie/vuepress-theme-ken/subscribers
+subscription_url: https://api.github.com/repos/jaykenxie/vuepress-theme-ken/subscription
+svn_url: https://github.com/jaykenxie/vuepress-theme-ken
+tags_url: https://api.github.com/repos/jaykenxie/vuepress-theme-ken/tags
+teams_url: https://api.github.com/repos/jaykenxie/vuepress-theme-ken/teams
+temp_clone_token: ''
+trees_url: https://api.github.com/repos/jaykenxie/vuepress-theme-ken/git/trees{/sha}
+updated_at: '2019-08-08T17:05:12Z'
+url: https://api.github.com/repos/jaykenxie/vuepress-theme-ken
+watchers: 1
+watchers_count: 1
+---
+
+# vuepress-theme-ken

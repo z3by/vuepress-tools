@@ -1,0 +1,106 @@
+---
+archive_url: https://api.github.com/repos/HKChen/vuepress-theme-prettyPure/{archive_format}{/ref}
+archived: false
+assignees_url: https://api.github.com/repos/HKChen/vuepress-theme-prettyPure/assignees{/user}
+blobs_url: https://api.github.com/repos/HKChen/vuepress-theme-prettyPure/git/blobs{/sha}
+branches_url: https://api.github.com/repos/HKChen/vuepress-theme-prettyPure/branches{/branch}
+clone_url: https://github.com/HKChen/vuepress-theme-prettyPure.git
+collaborators_url: https://api.github.com/repos/HKChen/vuepress-theme-prettyPure/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/HKChen/vuepress-theme-prettyPure/comments{/number}
+commits_url: https://api.github.com/repos/HKChen/vuepress-theme-prettyPure/commits{/sha}
+compare_url: https://api.github.com/repos/HKChen/vuepress-theme-prettyPure/compare/{base}...{head}
+contents_url: https://api.github.com/repos/HKChen/vuepress-theme-prettyPure/contents/{+path}
+contributors_url: https://api.github.com/repos/HKChen/vuepress-theme-prettyPure/contributors
+created_at: '2018-11-22T03:41:36Z'
+default_branch: master
+deployments_url: https://api.github.com/repos/HKChen/vuepress-theme-prettyPure/deployments
+description: Blog
+disabled: false
+downloads_url: https://api.github.com/repos/HKChen/vuepress-theme-prettyPure/downloads
+events_url: https://api.github.com/repos/HKChen/vuepress-theme-prettyPure/events
+fork: false
+forks: 0
+forks_count: 0
+forks_url: https://api.github.com/repos/HKChen/vuepress-theme-prettyPure/forks
+full_name: HKChen/vuepress-theme-prettyPure
+git_commits_url: https://api.github.com/repos/HKChen/vuepress-theme-prettyPure/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/HKChen/vuepress-theme-prettyPure/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/HKChen/vuepress-theme-prettyPure/git/tags{/sha}
+git_url: git://github.com/HKChen/vuepress-theme-prettyPure.git
+has_downloads: true
+has_issues: true
+has_pages: false
+has_projects: true
+has_wiki: true
+homepage: https://hkchen.tech
+hooks_url: https://api.github.com/repos/HKChen/vuepress-theme-prettyPure/hooks
+html_url: https://github.com/HKChen/vuepress-theme-prettyPure
+id: 158638832
+issue_comment_url: https://api.github.com/repos/HKChen/vuepress-theme-prettyPure/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/HKChen/vuepress-theme-prettyPure/issues/events{/number}
+issues_url: https://api.github.com/repos/HKChen/vuepress-theme-prettyPure/issues{/number}
+keys_url: https://api.github.com/repos/HKChen/vuepress-theme-prettyPure/keys{/key_id}
+labels_url: https://api.github.com/repos/HKChen/vuepress-theme-prettyPure/labels{/name}
+language: Vue
+languages_url: https://api.github.com/repos/HKChen/vuepress-theme-prettyPure/languages
+license:
+  key: mit
+  name: MIT License
+  node_id: MDc6TGljZW5zZTEz
+  spdx_id: MIT
+  url: https://api.github.com/licenses/mit
+merges_url: https://api.github.com/repos/HKChen/vuepress-theme-prettyPure/merges
+milestones_url: https://api.github.com/repos/HKChen/vuepress-theme-prettyPure/milestones{/number}
+mirror_url: null
+name: vuepress-theme-prettyPure
+network_count: 0
+node_id: MDEwOlJlcG9zaXRvcnkxNTg2Mzg4MzI=
+notifications_url: https://api.github.com/repos/HKChen/vuepress-theme-prettyPure/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
+owner:
+  avatar_url: https://avatars0.githubusercontent.com/u/4105970?v=4
+  events_url: https://api.github.com/users/HKChen/events{/privacy}
+  followers_url: https://api.github.com/users/HKChen/followers
+  following_url: https://api.github.com/users/HKChen/following{/other_user}
+  gists_url: https://api.github.com/users/HKChen/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/HKChen
+  id: 4105970
+  login: HKChen
+  node_id: MDQ6VXNlcjQxMDU5NzA=
+  organizations_url: https://api.github.com/users/HKChen/orgs
+  received_events_url: https://api.github.com/users/HKChen/received_events
+  repos_url: https://api.github.com/users/HKChen/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/HKChen/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/HKChen/subscriptions
+  type: User
+  url: https://api.github.com/users/HKChen
+permissions:
+  admin: false
+  pull: true
+  push: false
+private: false
+pulls_url: https://api.github.com/repos/HKChen/vuepress-theme-prettyPure/pulls{/number}
+pushed_at: '2019-01-08T01:33:17Z'
+releases_url: https://api.github.com/repos/HKChen/vuepress-theme-prettyPure/releases{/id}
+size: 6009
+ssh_url: git@github.com:HKChen/vuepress-theme-prettyPure.git
+stargazers_count: 0
+stargazers_url: https://api.github.com/repos/HKChen/vuepress-theme-prettyPure/stargazers
+statuses_url: https://api.github.com/repos/HKChen/vuepress-theme-prettyPure/statuses/{sha}
+subscribers_count: 1
+subscribers_url: https://api.github.com/repos/HKChen/vuepress-theme-prettyPure/subscribers
+subscription_url: https://api.github.com/repos/HKChen/vuepress-theme-prettyPure/subscription
+svn_url: https://github.com/HKChen/vuepress-theme-prettyPure
+tags_url: https://api.github.com/repos/HKChen/vuepress-theme-prettyPure/tags
+teams_url: https://api.github.com/repos/HKChen/vuepress-theme-prettyPure/teams
+temp_clone_token: ''
+trees_url: https://api.github.com/repos/HKChen/vuepress-theme-prettyPure/git/trees{/sha}
+updated_at: '2019-08-01T02:13:53Z'
+url: https://api.github.com/repos/HKChen/vuepress-theme-prettyPure
+watchers: 0
+watchers_count: 0
+---
+

@@ -1,0 +1,101 @@
+---
+archive_url: https://api.github.com/repos/Bloss/vuepress-theme-yubisaki-example/{archive_format}{/ref}
+archived: false
+assignees_url: https://api.github.com/repos/Bloss/vuepress-theme-yubisaki-example/assignees{/user}
+blobs_url: https://api.github.com/repos/Bloss/vuepress-theme-yubisaki-example/git/blobs{/sha}
+branches_url: https://api.github.com/repos/Bloss/vuepress-theme-yubisaki-example/branches{/branch}
+clone_url: https://github.com/Bloss/vuepress-theme-yubisaki-example.git
+collaborators_url: https://api.github.com/repos/Bloss/vuepress-theme-yubisaki-example/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/Bloss/vuepress-theme-yubisaki-example/comments{/number}
+commits_url: https://api.github.com/repos/Bloss/vuepress-theme-yubisaki-example/commits{/sha}
+compare_url: https://api.github.com/repos/Bloss/vuepress-theme-yubisaki-example/compare/{base}...{head}
+contents_url: https://api.github.com/repos/Bloss/vuepress-theme-yubisaki-example/contents/{+path}
+contributors_url: https://api.github.com/repos/Bloss/vuepress-theme-yubisaki-example/contributors
+created_at: '2019-02-23T12:03:37Z'
+default_branch: master
+deployments_url: https://api.github.com/repos/Bloss/vuepress-theme-yubisaki-example/deployments
+description: Example for vuepress-theme-yubisaki
+disabled: false
+downloads_url: https://api.github.com/repos/Bloss/vuepress-theme-yubisaki-example/downloads
+events_url: https://api.github.com/repos/Bloss/vuepress-theme-yubisaki-example/events
+fork: false
+forks: 2
+forks_count: 2
+forks_url: https://api.github.com/repos/Bloss/vuepress-theme-yubisaki-example/forks
+full_name: Bloss/vuepress-theme-yubisaki-example
+git_commits_url: https://api.github.com/repos/Bloss/vuepress-theme-yubisaki-example/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/Bloss/vuepress-theme-yubisaki-example/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/Bloss/vuepress-theme-yubisaki-example/git/tags{/sha}
+git_url: git://github.com/Bloss/vuepress-theme-yubisaki-example.git
+has_downloads: true
+has_issues: true
+has_pages: false
+has_projects: true
+has_wiki: true
+homepage: null
+hooks_url: https://api.github.com/repos/Bloss/vuepress-theme-yubisaki-example/hooks
+html_url: https://github.com/Bloss/vuepress-theme-yubisaki-example
+id: 172209415
+issue_comment_url: https://api.github.com/repos/Bloss/vuepress-theme-yubisaki-example/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/Bloss/vuepress-theme-yubisaki-example/issues/events{/number}
+issues_url: https://api.github.com/repos/Bloss/vuepress-theme-yubisaki-example/issues{/number}
+keys_url: https://api.github.com/repos/Bloss/vuepress-theme-yubisaki-example/keys{/key_id}
+labels_url: https://api.github.com/repos/Bloss/vuepress-theme-yubisaki-example/labels{/name}
+language: null
+languages_url: https://api.github.com/repos/Bloss/vuepress-theme-yubisaki-example/languages
+license: null
+merges_url: https://api.github.com/repos/Bloss/vuepress-theme-yubisaki-example/merges
+milestones_url: https://api.github.com/repos/Bloss/vuepress-theme-yubisaki-example/milestones{/number}
+mirror_url: null
+name: vuepress-theme-yubisaki-example
+network_count: 2
+node_id: MDEwOlJlcG9zaXRvcnkxNzIyMDk0MTU=
+notifications_url: https://api.github.com/repos/Bloss/vuepress-theme-yubisaki-example/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
+owner:
+  avatar_url: https://avatars3.githubusercontent.com/u/9587448?v=4
+  events_url: https://api.github.com/users/Bloss/events{/privacy}
+  followers_url: https://api.github.com/users/Bloss/followers
+  following_url: https://api.github.com/users/Bloss/following{/other_user}
+  gists_url: https://api.github.com/users/Bloss/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/Bloss
+  id: 9587448
+  login: Bloss
+  node_id: MDQ6VXNlcjk1ODc0NDg=
+  organizations_url: https://api.github.com/users/Bloss/orgs
+  received_events_url: https://api.github.com/users/Bloss/received_events
+  repos_url: https://api.github.com/users/Bloss/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/Bloss/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/Bloss/subscriptions
+  type: User
+  url: https://api.github.com/users/Bloss
+permissions:
+  admin: false
+  pull: true
+  push: false
+private: false
+pulls_url: https://api.github.com/repos/Bloss/vuepress-theme-yubisaki-example/pulls{/number}
+pushed_at: '2019-04-04T04:06:47Z'
+releases_url: https://api.github.com/repos/Bloss/vuepress-theme-yubisaki-example/releases{/id}
+size: 117
+ssh_url: git@github.com:Bloss/vuepress-theme-yubisaki-example.git
+stargazers_count: 3
+stargazers_url: https://api.github.com/repos/Bloss/vuepress-theme-yubisaki-example/stargazers
+statuses_url: https://api.github.com/repos/Bloss/vuepress-theme-yubisaki-example/statuses/{sha}
+subscribers_count: 2
+subscribers_url: https://api.github.com/repos/Bloss/vuepress-theme-yubisaki-example/subscribers
+subscription_url: https://api.github.com/repos/Bloss/vuepress-theme-yubisaki-example/subscription
+svn_url: https://github.com/Bloss/vuepress-theme-yubisaki-example
+tags_url: https://api.github.com/repos/Bloss/vuepress-theme-yubisaki-example/tags
+teams_url: https://api.github.com/repos/Bloss/vuepress-theme-yubisaki-example/teams
+temp_clone_token: ''
+trees_url: https://api.github.com/repos/Bloss/vuepress-theme-yubisaki-example/git/trees{/sha}
+updated_at: '2019-07-15T15:11:28Z'
+url: https://api.github.com/repos/Bloss/vuepress-theme-yubisaki-example
+watchers: 3
+watchers_count: 3
+---
+

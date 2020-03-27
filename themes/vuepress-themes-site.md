@@ -1,0 +1,127 @@
+---
+archive_url: https://api.github.com/repos/vuepress-themes/vuepress-themes-site/{archive_format}{/ref}
+archived: false
+assignees_url: https://api.github.com/repos/vuepress-themes/vuepress-themes-site/assignees{/user}
+blobs_url: https://api.github.com/repos/vuepress-themes/vuepress-themes-site/git/blobs{/sha}
+branches_url: https://api.github.com/repos/vuepress-themes/vuepress-themes-site/branches{/branch}
+clone_url: https://github.com/vuepress-themes/vuepress-themes-site.git
+collaborators_url: https://api.github.com/repos/vuepress-themes/vuepress-themes-site/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/vuepress-themes/vuepress-themes-site/comments{/number}
+commits_url: https://api.github.com/repos/vuepress-themes/vuepress-themes-site/commits{/sha}
+compare_url: https://api.github.com/repos/vuepress-themes/vuepress-themes-site/compare/{base}...{head}
+contents_url: https://api.github.com/repos/vuepress-themes/vuepress-themes-site/contents/{+path}
+contributors_url: https://api.github.com/repos/vuepress-themes/vuepress-themes-site/contributors
+created_at: '2018-07-15T12:15:42Z'
+default_branch: master
+deployments_url: https://api.github.com/repos/vuepress-themes/vuepress-themes-site/deployments
+description: The VuePress Themes General Documentation Site
+disabled: false
+downloads_url: https://api.github.com/repos/vuepress-themes/vuepress-themes-site/downloads
+events_url: https://api.github.com/repos/vuepress-themes/vuepress-themes-site/events
+fork: false
+forks: 0
+forks_count: 0
+forks_url: https://api.github.com/repos/vuepress-themes/vuepress-themes-site/forks
+full_name: vuepress-themes/vuepress-themes-site
+git_commits_url: https://api.github.com/repos/vuepress-themes/vuepress-themes-site/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/vuepress-themes/vuepress-themes-site/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/vuepress-themes/vuepress-themes-site/git/tags{/sha}
+git_url: git://github.com/vuepress-themes/vuepress-themes-site.git
+has_downloads: true
+has_issues: true
+has_pages: false
+has_projects: true
+has_wiki: true
+homepage: null
+hooks_url: https://api.github.com/repos/vuepress-themes/vuepress-themes-site/hooks
+html_url: https://github.com/vuepress-themes/vuepress-themes-site
+id: 141024836
+issue_comment_url: https://api.github.com/repos/vuepress-themes/vuepress-themes-site/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/vuepress-themes/vuepress-themes-site/issues/events{/number}
+issues_url: https://api.github.com/repos/vuepress-themes/vuepress-themes-site/issues{/number}
+keys_url: https://api.github.com/repos/vuepress-themes/vuepress-themes-site/keys{/key_id}
+labels_url: https://api.github.com/repos/vuepress-themes/vuepress-themes-site/labels{/name}
+language: null
+languages_url: https://api.github.com/repos/vuepress-themes/vuepress-themes-site/languages
+license:
+  key: mit
+  name: MIT License
+  node_id: MDc6TGljZW5zZTEz
+  spdx_id: MIT
+  url: https://api.github.com/licenses/mit
+merges_url: https://api.github.com/repos/vuepress-themes/vuepress-themes-site/merges
+milestones_url: https://api.github.com/repos/vuepress-themes/vuepress-themes-site/milestones{/number}
+mirror_url: null
+name: vuepress-themes-site
+network_count: 0
+node_id: MDEwOlJlcG9zaXRvcnkxNDEwMjQ4MzY=
+notifications_url: https://api.github.com/repos/vuepress-themes/vuepress-themes-site/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
+organization:
+  avatar_url: https://avatars3.githubusercontent.com/u/41239612?v=4
+  events_url: https://api.github.com/users/vuepress-themes/events{/privacy}
+  followers_url: https://api.github.com/users/vuepress-themes/followers
+  following_url: https://api.github.com/users/vuepress-themes/following{/other_user}
+  gists_url: https://api.github.com/users/vuepress-themes/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/vuepress-themes
+  id: 41239612
+  login: vuepress-themes
+  node_id: MDEyOk9yZ2FuaXphdGlvbjQxMjM5NjEy
+  organizations_url: https://api.github.com/users/vuepress-themes/orgs
+  received_events_url: https://api.github.com/users/vuepress-themes/received_events
+  repos_url: https://api.github.com/users/vuepress-themes/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/vuepress-themes/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/vuepress-themes/subscriptions
+  type: Organization
+  url: https://api.github.com/users/vuepress-themes
+owner:
+  avatar_url: https://avatars3.githubusercontent.com/u/41239612?v=4
+  events_url: https://api.github.com/users/vuepress-themes/events{/privacy}
+  followers_url: https://api.github.com/users/vuepress-themes/followers
+  following_url: https://api.github.com/users/vuepress-themes/following{/other_user}
+  gists_url: https://api.github.com/users/vuepress-themes/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/vuepress-themes
+  id: 41239612
+  login: vuepress-themes
+  node_id: MDEyOk9yZ2FuaXphdGlvbjQxMjM5NjEy
+  organizations_url: https://api.github.com/users/vuepress-themes/orgs
+  received_events_url: https://api.github.com/users/vuepress-themes/received_events
+  repos_url: https://api.github.com/users/vuepress-themes/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/vuepress-themes/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/vuepress-themes/subscriptions
+  type: Organization
+  url: https://api.github.com/users/vuepress-themes
+permissions:
+  admin: false
+  pull: true
+  push: false
+private: false
+pulls_url: https://api.github.com/repos/vuepress-themes/vuepress-themes-site/pulls{/number}
+pushed_at: '2018-07-15T12:18:27Z'
+releases_url: https://api.github.com/repos/vuepress-themes/vuepress-themes-site/releases{/id}
+size: 3
+ssh_url: git@github.com:vuepress-themes/vuepress-themes-site.git
+stargazers_count: 0
+stargazers_url: https://api.github.com/repos/vuepress-themes/vuepress-themes-site/stargazers
+statuses_url: https://api.github.com/repos/vuepress-themes/vuepress-themes-site/statuses/{sha}
+subscribers_count: 1
+subscribers_url: https://api.github.com/repos/vuepress-themes/vuepress-themes-site/subscribers
+subscription_url: https://api.github.com/repos/vuepress-themes/vuepress-themes-site/subscription
+svn_url: https://github.com/vuepress-themes/vuepress-themes-site
+tags_url: https://api.github.com/repos/vuepress-themes/vuepress-themes-site/tags
+teams_url: https://api.github.com/repos/vuepress-themes/vuepress-themes-site/teams
+temp_clone_token: ''
+trees_url: https://api.github.com/repos/vuepress-themes/vuepress-themes-site/git/trees{/sha}
+updated_at: '2018-07-15T12:18:28Z'
+url: https://api.github.com/repos/vuepress-themes/vuepress-themes-site
+watchers: 0
+watchers_count: 0
+---
+
+# vuepress-themes-site
+The VuePress Themes General Documentation Site

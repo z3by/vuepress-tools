@@ -1,0 +1,107 @@
+---
+archive_url: https://api.github.com/repos/keligijus/vuepress-plugin-podcast/{archive_format}{/ref}
+archived: false
+assignees_url: https://api.github.com/repos/keligijus/vuepress-plugin-podcast/assignees{/user}
+blobs_url: https://api.github.com/repos/keligijus/vuepress-plugin-podcast/git/blobs{/sha}
+branches_url: https://api.github.com/repos/keligijus/vuepress-plugin-podcast/branches{/branch}
+clone_url: https://github.com/keligijus/vuepress-plugin-podcast.git
+collaborators_url: https://api.github.com/repos/keligijus/vuepress-plugin-podcast/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/keligijus/vuepress-plugin-podcast/comments{/number}
+commits_url: https://api.github.com/repos/keligijus/vuepress-plugin-podcast/commits{/sha}
+compare_url: https://api.github.com/repos/keligijus/vuepress-plugin-podcast/compare/{base}...{head}
+contents_url: https://api.github.com/repos/keligijus/vuepress-plugin-podcast/contents/{+path}
+contributors_url: https://api.github.com/repos/keligijus/vuepress-plugin-podcast/contributors
+created_at: '2019-06-29T15:00:19Z'
+default_branch: master
+deployments_url: https://api.github.com/repos/keligijus/vuepress-plugin-podcast/deployments
+description: Podcast feed xml generator for VuePress
+disabled: false
+downloads_url: https://api.github.com/repos/keligijus/vuepress-plugin-podcast/downloads
+events_url: https://api.github.com/repos/keligijus/vuepress-plugin-podcast/events
+fork: false
+forks: 1
+forks_count: 1
+forks_url: https://api.github.com/repos/keligijus/vuepress-plugin-podcast/forks
+full_name: keligijus/vuepress-plugin-podcast
+git_commits_url: https://api.github.com/repos/keligijus/vuepress-plugin-podcast/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/keligijus/vuepress-plugin-podcast/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/keligijus/vuepress-plugin-podcast/git/tags{/sha}
+git_url: git://github.com/keligijus/vuepress-plugin-podcast.git
+has_downloads: true
+has_issues: true
+has_pages: false
+has_projects: true
+has_wiki: true
+homepage: null
+hooks_url: https://api.github.com/repos/keligijus/vuepress-plugin-podcast/hooks
+html_url: https://github.com/keligijus/vuepress-plugin-podcast
+id: 194417652
+issue_comment_url: https://api.github.com/repos/keligijus/vuepress-plugin-podcast/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/keligijus/vuepress-plugin-podcast/issues/events{/number}
+issues_url: https://api.github.com/repos/keligijus/vuepress-plugin-podcast/issues{/number}
+keys_url: https://api.github.com/repos/keligijus/vuepress-plugin-podcast/keys{/key_id}
+labels_url: https://api.github.com/repos/keligijus/vuepress-plugin-podcast/labels{/name}
+language: JavaScript
+languages_url: https://api.github.com/repos/keligijus/vuepress-plugin-podcast/languages
+license:
+  key: mit
+  name: MIT License
+  node_id: MDc6TGljZW5zZTEz
+  spdx_id: MIT
+  url: https://api.github.com/licenses/mit
+merges_url: https://api.github.com/repos/keligijus/vuepress-plugin-podcast/merges
+milestones_url: https://api.github.com/repos/keligijus/vuepress-plugin-podcast/milestones{/number}
+mirror_url: null
+name: vuepress-plugin-podcast
+network_count: 1
+node_id: MDEwOlJlcG9zaXRvcnkxOTQ0MTc2NTI=
+notifications_url: https://api.github.com/repos/keligijus/vuepress-plugin-podcast/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
+owner:
+  avatar_url: https://avatars1.githubusercontent.com/u/6559757?v=4
+  events_url: https://api.github.com/users/keligijus/events{/privacy}
+  followers_url: https://api.github.com/users/keligijus/followers
+  following_url: https://api.github.com/users/keligijus/following{/other_user}
+  gists_url: https://api.github.com/users/keligijus/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/keligijus
+  id: 6559757
+  login: keligijus
+  node_id: MDQ6VXNlcjY1NTk3NTc=
+  organizations_url: https://api.github.com/users/keligijus/orgs
+  received_events_url: https://api.github.com/users/keligijus/received_events
+  repos_url: https://api.github.com/users/keligijus/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/keligijus/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/keligijus/subscriptions
+  type: User
+  url: https://api.github.com/users/keligijus
+permissions:
+  admin: false
+  pull: true
+  push: false
+private: false
+pulls_url: https://api.github.com/repos/keligijus/vuepress-plugin-podcast/pulls{/number}
+pushed_at: '2019-07-15T14:02:59Z'
+releases_url: https://api.github.com/repos/keligijus/vuepress-plugin-podcast/releases{/id}
+size: 8
+ssh_url: git@github.com:keligijus/vuepress-plugin-podcast.git
+stargazers_count: 0
+stargazers_url: https://api.github.com/repos/keligijus/vuepress-plugin-podcast/stargazers
+statuses_url: https://api.github.com/repos/keligijus/vuepress-plugin-podcast/statuses/{sha}
+subscribers_count: 0
+subscribers_url: https://api.github.com/repos/keligijus/vuepress-plugin-podcast/subscribers
+subscription_url: https://api.github.com/repos/keligijus/vuepress-plugin-podcast/subscription
+svn_url: https://github.com/keligijus/vuepress-plugin-podcast
+tags_url: https://api.github.com/repos/keligijus/vuepress-plugin-podcast/tags
+teams_url: https://api.github.com/repos/keligijus/vuepress-plugin-podcast/teams
+temp_clone_token: ''
+trees_url: https://api.github.com/repos/keligijus/vuepress-plugin-podcast/git/trees{/sha}
+updated_at: '2019-07-15T14:03:01Z'
+url: https://api.github.com/repos/keligijus/vuepress-plugin-podcast
+watchers: 0
+watchers_count: 0
+---
+
+# Podcast feed xml generator for VuePress

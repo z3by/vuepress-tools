@@ -1,0 +1,101 @@
+---
+archive_url: https://api.github.com/repos/imrickywong/vuepress-theme-notion/{archive_format}{/ref}
+archived: false
+assignees_url: https://api.github.com/repos/imrickywong/vuepress-theme-notion/assignees{/user}
+blobs_url: https://api.github.com/repos/imrickywong/vuepress-theme-notion/git/blobs{/sha}
+branches_url: https://api.github.com/repos/imrickywong/vuepress-theme-notion/branches{/branch}
+clone_url: https://github.com/imrickywong/vuepress-theme-notion.git
+collaborators_url: https://api.github.com/repos/imrickywong/vuepress-theme-notion/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/imrickywong/vuepress-theme-notion/comments{/number}
+commits_url: https://api.github.com/repos/imrickywong/vuepress-theme-notion/commits{/sha}
+compare_url: https://api.github.com/repos/imrickywong/vuepress-theme-notion/compare/{base}...{head}
+contents_url: https://api.github.com/repos/imrickywong/vuepress-theme-notion/contents/{+path}
+contributors_url: https://api.github.com/repos/imrickywong/vuepress-theme-notion/contributors
+created_at: '2020-03-07T07:18:01Z'
+default_branch: master
+deployments_url: https://api.github.com/repos/imrickywong/vuepress-theme-notion/deployments
+description: A notion style theme for Vuepress
+disabled: false
+downloads_url: https://api.github.com/repos/imrickywong/vuepress-theme-notion/downloads
+events_url: https://api.github.com/repos/imrickywong/vuepress-theme-notion/events
+fork: false
+forks: 0
+forks_count: 0
+forks_url: https://api.github.com/repos/imrickywong/vuepress-theme-notion/forks
+full_name: imrickywong/vuepress-theme-notion
+git_commits_url: https://api.github.com/repos/imrickywong/vuepress-theme-notion/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/imrickywong/vuepress-theme-notion/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/imrickywong/vuepress-theme-notion/git/tags{/sha}
+git_url: git://github.com/imrickywong/vuepress-theme-notion.git
+has_downloads: true
+has_issues: true
+has_pages: false
+has_projects: true
+has_wiki: true
+homepage: null
+hooks_url: https://api.github.com/repos/imrickywong/vuepress-theme-notion/hooks
+html_url: https://github.com/imrickywong/vuepress-theme-notion
+id: 245586555
+issue_comment_url: https://api.github.com/repos/imrickywong/vuepress-theme-notion/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/imrickywong/vuepress-theme-notion/issues/events{/number}
+issues_url: https://api.github.com/repos/imrickywong/vuepress-theme-notion/issues{/number}
+keys_url: https://api.github.com/repos/imrickywong/vuepress-theme-notion/keys{/key_id}
+labels_url: https://api.github.com/repos/imrickywong/vuepress-theme-notion/labels{/name}
+language: null
+languages_url: https://api.github.com/repos/imrickywong/vuepress-theme-notion/languages
+license: null
+merges_url: https://api.github.com/repos/imrickywong/vuepress-theme-notion/merges
+milestones_url: https://api.github.com/repos/imrickywong/vuepress-theme-notion/milestones{/number}
+mirror_url: null
+name: vuepress-theme-notion
+network_count: 0
+node_id: MDEwOlJlcG9zaXRvcnkyNDU1ODY1NTU=
+notifications_url: https://api.github.com/repos/imrickywong/vuepress-theme-notion/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
+owner:
+  avatar_url: https://avatars0.githubusercontent.com/u/5317425?v=4
+  events_url: https://api.github.com/users/imrickywong/events{/privacy}
+  followers_url: https://api.github.com/users/imrickywong/followers
+  following_url: https://api.github.com/users/imrickywong/following{/other_user}
+  gists_url: https://api.github.com/users/imrickywong/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/imrickywong
+  id: 5317425
+  login: imrickywong
+  node_id: MDQ6VXNlcjUzMTc0MjU=
+  organizations_url: https://api.github.com/users/imrickywong/orgs
+  received_events_url: https://api.github.com/users/imrickywong/received_events
+  repos_url: https://api.github.com/users/imrickywong/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/imrickywong/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/imrickywong/subscriptions
+  type: User
+  url: https://api.github.com/users/imrickywong
+permissions:
+  admin: false
+  pull: true
+  push: false
+private: false
+pulls_url: https://api.github.com/repos/imrickywong/vuepress-theme-notion/pulls{/number}
+pushed_at: '2020-03-07T07:18:02Z'
+releases_url: https://api.github.com/repos/imrickywong/vuepress-theme-notion/releases{/id}
+size: 0
+ssh_url: git@github.com:imrickywong/vuepress-theme-notion.git
+stargazers_count: 0
+stargazers_url: https://api.github.com/repos/imrickywong/vuepress-theme-notion/stargazers
+statuses_url: https://api.github.com/repos/imrickywong/vuepress-theme-notion/statuses/{sha}
+subscribers_count: 1
+subscribers_url: https://api.github.com/repos/imrickywong/vuepress-theme-notion/subscribers
+subscription_url: https://api.github.com/repos/imrickywong/vuepress-theme-notion/subscription
+svn_url: https://github.com/imrickywong/vuepress-theme-notion
+tags_url: https://api.github.com/repos/imrickywong/vuepress-theme-notion/tags
+teams_url: https://api.github.com/repos/imrickywong/vuepress-theme-notion/teams
+temp_clone_token: ''
+trees_url: https://api.github.com/repos/imrickywong/vuepress-theme-notion/git/trees{/sha}
+updated_at: '2020-03-07T07:18:01Z'
+url: https://api.github.com/repos/imrickywong/vuepress-theme-notion
+watchers: 0
+watchers_count: 0
+---
+

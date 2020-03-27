@@ -1,0 +1,102 @@
+---
+archive_url: https://api.github.com/repos/paul-xiao/vuepress-theme-box/{archive_format}{/ref}
+archived: false
+assignees_url: https://api.github.com/repos/paul-xiao/vuepress-theme-box/assignees{/user}
+blobs_url: https://api.github.com/repos/paul-xiao/vuepress-theme-box/git/blobs{/sha}
+branches_url: https://api.github.com/repos/paul-xiao/vuepress-theme-box/branches{/branch}
+clone_url: https://github.com/paul-xiao/vuepress-theme-box.git
+collaborators_url: https://api.github.com/repos/paul-xiao/vuepress-theme-box/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/paul-xiao/vuepress-theme-box/comments{/number}
+commits_url: https://api.github.com/repos/paul-xiao/vuepress-theme-box/commits{/sha}
+compare_url: https://api.github.com/repos/paul-xiao/vuepress-theme-box/compare/{base}...{head}
+contents_url: https://api.github.com/repos/paul-xiao/vuepress-theme-box/contents/{+path}
+contributors_url: https://api.github.com/repos/paul-xiao/vuepress-theme-box/contributors
+created_at: '2020-02-06T04:04:04Z'
+default_branch: master
+deployments_url: https://api.github.com/repos/paul-xiao/vuepress-theme-box/deployments
+description: a vuepress blog theme
+disabled: false
+downloads_url: https://api.github.com/repos/paul-xiao/vuepress-theme-box/downloads
+events_url: https://api.github.com/repos/paul-xiao/vuepress-theme-box/events
+fork: false
+forks: 0
+forks_count: 0
+forks_url: https://api.github.com/repos/paul-xiao/vuepress-theme-box/forks
+full_name: paul-xiao/vuepress-theme-box
+git_commits_url: https://api.github.com/repos/paul-xiao/vuepress-theme-box/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/paul-xiao/vuepress-theme-box/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/paul-xiao/vuepress-theme-box/git/tags{/sha}
+git_url: git://github.com/paul-xiao/vuepress-theme-box.git
+has_downloads: true
+has_issues: true
+has_pages: false
+has_projects: true
+has_wiki: true
+homepage: null
+hooks_url: https://api.github.com/repos/paul-xiao/vuepress-theme-box/hooks
+html_url: https://github.com/paul-xiao/vuepress-theme-box
+id: 238604292
+issue_comment_url: https://api.github.com/repos/paul-xiao/vuepress-theme-box/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/paul-xiao/vuepress-theme-box/issues/events{/number}
+issues_url: https://api.github.com/repos/paul-xiao/vuepress-theme-box/issues{/number}
+keys_url: https://api.github.com/repos/paul-xiao/vuepress-theme-box/keys{/key_id}
+labels_url: https://api.github.com/repos/paul-xiao/vuepress-theme-box/labels{/name}
+language: null
+languages_url: https://api.github.com/repos/paul-xiao/vuepress-theme-box/languages
+license: null
+merges_url: https://api.github.com/repos/paul-xiao/vuepress-theme-box/merges
+milestones_url: https://api.github.com/repos/paul-xiao/vuepress-theme-box/milestones{/number}
+mirror_url: null
+name: vuepress-theme-box
+network_count: 0
+node_id: MDEwOlJlcG9zaXRvcnkyMzg2MDQyOTI=
+notifications_url: https://api.github.com/repos/paul-xiao/vuepress-theme-box/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
+owner:
+  avatar_url: https://avatars1.githubusercontent.com/u/14194568?v=4
+  events_url: https://api.github.com/users/paul-xiao/events{/privacy}
+  followers_url: https://api.github.com/users/paul-xiao/followers
+  following_url: https://api.github.com/users/paul-xiao/following{/other_user}
+  gists_url: https://api.github.com/users/paul-xiao/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/paul-xiao
+  id: 14194568
+  login: paul-xiao
+  node_id: MDQ6VXNlcjE0MTk0NTY4
+  organizations_url: https://api.github.com/users/paul-xiao/orgs
+  received_events_url: https://api.github.com/users/paul-xiao/received_events
+  repos_url: https://api.github.com/users/paul-xiao/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/paul-xiao/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/paul-xiao/subscriptions
+  type: User
+  url: https://api.github.com/users/paul-xiao
+permissions:
+  admin: false
+  pull: true
+  push: false
+private: false
+pulls_url: https://api.github.com/repos/paul-xiao/vuepress-theme-box/pulls{/number}
+pushed_at: '2020-02-06T04:06:35Z'
+releases_url: https://api.github.com/repos/paul-xiao/vuepress-theme-box/releases{/id}
+size: 0
+ssh_url: git@github.com:paul-xiao/vuepress-theme-box.git
+stargazers_count: 0
+stargazers_url: https://api.github.com/repos/paul-xiao/vuepress-theme-box/stargazers
+statuses_url: https://api.github.com/repos/paul-xiao/vuepress-theme-box/statuses/{sha}
+subscribers_count: 1
+subscribers_url: https://api.github.com/repos/paul-xiao/vuepress-theme-box/subscribers
+subscription_url: https://api.github.com/repos/paul-xiao/vuepress-theme-box/subscription
+svn_url: https://github.com/paul-xiao/vuepress-theme-box
+tags_url: https://api.github.com/repos/paul-xiao/vuepress-theme-box/tags
+teams_url: https://api.github.com/repos/paul-xiao/vuepress-theme-box/teams
+temp_clone_token: ''
+trees_url: https://api.github.com/repos/paul-xiao/vuepress-theme-box/git/trees{/sha}
+updated_at: '2020-02-06T04:06:38Z'
+url: https://api.github.com/repos/paul-xiao/vuepress-theme-box
+watchers: 0
+watchers_count: 0
+---
+
+# vuepress-theme-box

@@ -1,0 +1,101 @@
+---
+archive_url: https://api.github.com/repos/padarom/vuepress-plugin-slideshow/{archive_format}{/ref}
+archived: false
+assignees_url: https://api.github.com/repos/padarom/vuepress-plugin-slideshow/assignees{/user}
+blobs_url: https://api.github.com/repos/padarom/vuepress-plugin-slideshow/git/blobs{/sha}
+branches_url: https://api.github.com/repos/padarom/vuepress-plugin-slideshow/branches{/branch}
+clone_url: https://github.com/padarom/vuepress-plugin-slideshow.git
+collaborators_url: https://api.github.com/repos/padarom/vuepress-plugin-slideshow/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/padarom/vuepress-plugin-slideshow/comments{/number}
+commits_url: https://api.github.com/repos/padarom/vuepress-plugin-slideshow/commits{/sha}
+compare_url: https://api.github.com/repos/padarom/vuepress-plugin-slideshow/compare/{base}...{head}
+contents_url: https://api.github.com/repos/padarom/vuepress-plugin-slideshow/contents/{+path}
+contributors_url: https://api.github.com/repos/padarom/vuepress-plugin-slideshow/contributors
+created_at: '2020-01-23T15:31:56Z'
+default_branch: master
+deployments_url: https://api.github.com/repos/padarom/vuepress-plugin-slideshow/deployments
+description: null
+disabled: false
+downloads_url: https://api.github.com/repos/padarom/vuepress-plugin-slideshow/downloads
+events_url: https://api.github.com/repos/padarom/vuepress-plugin-slideshow/events
+fork: false
+forks: 0
+forks_count: 0
+forks_url: https://api.github.com/repos/padarom/vuepress-plugin-slideshow/forks
+full_name: padarom/vuepress-plugin-slideshow
+git_commits_url: https://api.github.com/repos/padarom/vuepress-plugin-slideshow/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/padarom/vuepress-plugin-slideshow/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/padarom/vuepress-plugin-slideshow/git/tags{/sha}
+git_url: git://github.com/padarom/vuepress-plugin-slideshow.git
+has_downloads: true
+has_issues: true
+has_pages: false
+has_projects: true
+has_wiki: true
+homepage: null
+hooks_url: https://api.github.com/repos/padarom/vuepress-plugin-slideshow/hooks
+html_url: https://github.com/padarom/vuepress-plugin-slideshow
+id: 235824876
+issue_comment_url: https://api.github.com/repos/padarom/vuepress-plugin-slideshow/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/padarom/vuepress-plugin-slideshow/issues/events{/number}
+issues_url: https://api.github.com/repos/padarom/vuepress-plugin-slideshow/issues{/number}
+keys_url: https://api.github.com/repos/padarom/vuepress-plugin-slideshow/keys{/key_id}
+labels_url: https://api.github.com/repos/padarom/vuepress-plugin-slideshow/labels{/name}
+language: null
+languages_url: https://api.github.com/repos/padarom/vuepress-plugin-slideshow/languages
+license: null
+merges_url: https://api.github.com/repos/padarom/vuepress-plugin-slideshow/merges
+milestones_url: https://api.github.com/repos/padarom/vuepress-plugin-slideshow/milestones{/number}
+mirror_url: null
+name: vuepress-plugin-slideshow
+network_count: 0
+node_id: MDEwOlJlcG9zaXRvcnkyMzU4MjQ4NzY=
+notifications_url: https://api.github.com/repos/padarom/vuepress-plugin-slideshow/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
+owner:
+  avatar_url: https://avatars3.githubusercontent.com/u/3678770?v=4
+  events_url: https://api.github.com/users/padarom/events{/privacy}
+  followers_url: https://api.github.com/users/padarom/followers
+  following_url: https://api.github.com/users/padarom/following{/other_user}
+  gists_url: https://api.github.com/users/padarom/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/padarom
+  id: 3678770
+  login: padarom
+  node_id: MDQ6VXNlcjM2Nzg3NzA=
+  organizations_url: https://api.github.com/users/padarom/orgs
+  received_events_url: https://api.github.com/users/padarom/received_events
+  repos_url: https://api.github.com/users/padarom/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/padarom/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/padarom/subscriptions
+  type: User
+  url: https://api.github.com/users/padarom
+permissions:
+  admin: false
+  pull: true
+  push: false
+private: false
+pulls_url: https://api.github.com/repos/padarom/vuepress-plugin-slideshow/pulls{/number}
+pushed_at: '2020-01-23T15:31:57Z'
+releases_url: https://api.github.com/repos/padarom/vuepress-plugin-slideshow/releases{/id}
+size: 0
+ssh_url: git@github.com:padarom/vuepress-plugin-slideshow.git
+stargazers_count: 0
+stargazers_url: https://api.github.com/repos/padarom/vuepress-plugin-slideshow/stargazers
+statuses_url: https://api.github.com/repos/padarom/vuepress-plugin-slideshow/statuses/{sha}
+subscribers_count: 1
+subscribers_url: https://api.github.com/repos/padarom/vuepress-plugin-slideshow/subscribers
+subscription_url: https://api.github.com/repos/padarom/vuepress-plugin-slideshow/subscription
+svn_url: https://github.com/padarom/vuepress-plugin-slideshow
+tags_url: https://api.github.com/repos/padarom/vuepress-plugin-slideshow/tags
+teams_url: https://api.github.com/repos/padarom/vuepress-plugin-slideshow/teams
+temp_clone_token: ''
+trees_url: https://api.github.com/repos/padarom/vuepress-plugin-slideshow/git/trees{/sha}
+updated_at: '2020-01-23T15:31:56Z'
+url: https://api.github.com/repos/padarom/vuepress-plugin-slideshow
+watchers: 0
+watchers_count: 0
+---
+

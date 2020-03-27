@@ -1,0 +1,130 @@
+---
+archive_url: https://api.github.com/repos/assholev0/vuepress-theme-asshole/{archive_format}{/ref}
+archived: false
+assignees_url: https://api.github.com/repos/assholev0/vuepress-theme-asshole/assignees{/user}
+blobs_url: https://api.github.com/repos/assholev0/vuepress-theme-asshole/git/blobs{/sha}
+branches_url: https://api.github.com/repos/assholev0/vuepress-theme-asshole/branches{/branch}
+clone_url: https://github.com/assholev0/vuepress-theme-asshole.git
+collaborators_url: https://api.github.com/repos/assholev0/vuepress-theme-asshole/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/assholev0/vuepress-theme-asshole/comments{/number}
+commits_url: https://api.github.com/repos/assholev0/vuepress-theme-asshole/commits{/sha}
+compare_url: https://api.github.com/repos/assholev0/vuepress-theme-asshole/compare/{base}...{head}
+contents_url: https://api.github.com/repos/assholev0/vuepress-theme-asshole/contents/{+path}
+contributors_url: https://api.github.com/repos/assholev0/vuepress-theme-asshole/contributors
+created_at: '2018-09-16T03:01:38Z'
+default_branch: master
+deployments_url: https://api.github.com/repos/assholev0/vuepress-theme-asshole/deployments
+description: "\u3010\u5E9F\u5F03\u3011\u53EF\u4EE5\u5C1D\u8BD5\u4E00\u4E0B\u66F4\u4F18\
+  \u7F8E\u7684 Nuxtpress"
+disabled: false
+downloads_url: https://api.github.com/repos/assholev0/vuepress-theme-asshole/downloads
+events_url: https://api.github.com/repos/assholev0/vuepress-theme-asshole/events
+fork: false
+forks: 0
+forks_count: 0
+forks_url: https://api.github.com/repos/assholev0/vuepress-theme-asshole/forks
+full_name: assholev0/vuepress-theme-asshole
+git_commits_url: https://api.github.com/repos/assholev0/vuepress-theme-asshole/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/assholev0/vuepress-theme-asshole/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/assholev0/vuepress-theme-asshole/git/tags{/sha}
+git_url: git://github.com/assholev0/vuepress-theme-asshole.git
+has_downloads: true
+has_issues: true
+has_pages: false
+has_projects: true
+has_wiki: true
+homepage: https://github.com/assholev0/nuxtpress
+hooks_url: https://api.github.com/repos/assholev0/vuepress-theme-asshole/hooks
+html_url: https://github.com/assholev0/vuepress-theme-asshole
+id: 148958182
+issue_comment_url: https://api.github.com/repos/assholev0/vuepress-theme-asshole/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/assholev0/vuepress-theme-asshole/issues/events{/number}
+issues_url: https://api.github.com/repos/assholev0/vuepress-theme-asshole/issues{/number}
+keys_url: https://api.github.com/repos/assholev0/vuepress-theme-asshole/keys{/key_id}
+labels_url: https://api.github.com/repos/assholev0/vuepress-theme-asshole/labels{/name}
+language: Vue
+languages_url: https://api.github.com/repos/assholev0/vuepress-theme-asshole/languages
+license:
+  key: mit
+  name: MIT License
+  node_id: MDc6TGljZW5zZTEz
+  spdx_id: MIT
+  url: https://api.github.com/licenses/mit
+merges_url: https://api.github.com/repos/assholev0/vuepress-theme-asshole/merges
+milestones_url: https://api.github.com/repos/assholev0/vuepress-theme-asshole/milestones{/number}
+mirror_url: null
+name: vuepress-theme-asshole
+network_count: 0
+node_id: MDEwOlJlcG9zaXRvcnkxNDg5NTgxODI=
+notifications_url: https://api.github.com/repos/assholev0/vuepress-theme-asshole/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
+organization:
+  avatar_url: https://avatars3.githubusercontent.com/u/43257350?v=4
+  events_url: https://api.github.com/users/assholev0/events{/privacy}
+  followers_url: https://api.github.com/users/assholev0/followers
+  following_url: https://api.github.com/users/assholev0/following{/other_user}
+  gists_url: https://api.github.com/users/assholev0/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/assholev0
+  id: 43257350
+  login: assholev0
+  node_id: MDEyOk9yZ2FuaXphdGlvbjQzMjU3MzUw
+  organizations_url: https://api.github.com/users/assholev0/orgs
+  received_events_url: https://api.github.com/users/assholev0/received_events
+  repos_url: https://api.github.com/users/assholev0/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/assholev0/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/assholev0/subscriptions
+  type: Organization
+  url: https://api.github.com/users/assholev0
+owner:
+  avatar_url: https://avatars3.githubusercontent.com/u/43257350?v=4
+  events_url: https://api.github.com/users/assholev0/events{/privacy}
+  followers_url: https://api.github.com/users/assholev0/followers
+  following_url: https://api.github.com/users/assholev0/following{/other_user}
+  gists_url: https://api.github.com/users/assholev0/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/assholev0
+  id: 43257350
+  login: assholev0
+  node_id: MDEyOk9yZ2FuaXphdGlvbjQzMjU3MzUw
+  organizations_url: https://api.github.com/users/assholev0/orgs
+  received_events_url: https://api.github.com/users/assholev0/received_events
+  repos_url: https://api.github.com/users/assholev0/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/assholev0/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/assholev0/subscriptions
+  type: Organization
+  url: https://api.github.com/users/assholev0
+permissions:
+  admin: false
+  pull: true
+  push: false
+private: false
+pulls_url: https://api.github.com/repos/assholev0/vuepress-theme-asshole/pulls{/number}
+pushed_at: '2018-09-19T07:12:10Z'
+releases_url: https://api.github.com/repos/assholev0/vuepress-theme-asshole/releases{/id}
+size: 58
+ssh_url: git@github.com:assholev0/vuepress-theme-asshole.git
+stargazers_count: 0
+stargazers_url: https://api.github.com/repos/assholev0/vuepress-theme-asshole/stargazers
+statuses_url: https://api.github.com/repos/assholev0/vuepress-theme-asshole/statuses/{sha}
+subscribers_count: 1
+subscribers_url: https://api.github.com/repos/assholev0/vuepress-theme-asshole/subscribers
+subscription_url: https://api.github.com/repos/assholev0/vuepress-theme-asshole/subscription
+svn_url: https://github.com/assholev0/vuepress-theme-asshole
+tags_url: https://api.github.com/repos/assholev0/vuepress-theme-asshole/tags
+teams_url: https://api.github.com/repos/assholev0/vuepress-theme-asshole/teams
+temp_clone_token: ''
+trees_url: https://api.github.com/repos/assholev0/vuepress-theme-asshole/git/trees{/sha}
+updated_at: '2018-12-03T08:07:29Z'
+url: https://api.github.com/repos/assholev0/vuepress-theme-asshole
+watchers: 0
+watchers_count: 0
+---
+
+# Vuepress Theme - AssholeV0
+
+See demo on <https://v0.chat/>
+

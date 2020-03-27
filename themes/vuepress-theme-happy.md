@@ -1,0 +1,101 @@
+---
+archive_url: https://api.github.com/repos/panxianqiao/vuepress-theme-happy/{archive_format}{/ref}
+archived: false
+assignees_url: https://api.github.com/repos/panxianqiao/vuepress-theme-happy/assignees{/user}
+blobs_url: https://api.github.com/repos/panxianqiao/vuepress-theme-happy/git/blobs{/sha}
+branches_url: https://api.github.com/repos/panxianqiao/vuepress-theme-happy/branches{/branch}
+clone_url: https://github.com/panxianqiao/vuepress-theme-happy.git
+collaborators_url: https://api.github.com/repos/panxianqiao/vuepress-theme-happy/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/panxianqiao/vuepress-theme-happy/comments{/number}
+commits_url: https://api.github.com/repos/panxianqiao/vuepress-theme-happy/commits{/sha}
+compare_url: https://api.github.com/repos/panxianqiao/vuepress-theme-happy/compare/{base}...{head}
+contents_url: https://api.github.com/repos/panxianqiao/vuepress-theme-happy/contents/{+path}
+contributors_url: https://api.github.com/repos/panxianqiao/vuepress-theme-happy/contributors
+created_at: '2018-12-16T02:11:35Z'
+default_branch: master
+deployments_url: https://api.github.com/repos/panxianqiao/vuepress-theme-happy/deployments
+description: null
+disabled: false
+downloads_url: https://api.github.com/repos/panxianqiao/vuepress-theme-happy/downloads
+events_url: https://api.github.com/repos/panxianqiao/vuepress-theme-happy/events
+fork: false
+forks: 0
+forks_count: 0
+forks_url: https://api.github.com/repos/panxianqiao/vuepress-theme-happy/forks
+full_name: panxianqiao/vuepress-theme-happy
+git_commits_url: https://api.github.com/repos/panxianqiao/vuepress-theme-happy/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/panxianqiao/vuepress-theme-happy/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/panxianqiao/vuepress-theme-happy/git/tags{/sha}
+git_url: git://github.com/panxianqiao/vuepress-theme-happy.git
+has_downloads: true
+has_issues: true
+has_pages: false
+has_projects: true
+has_wiki: true
+homepage: null
+hooks_url: https://api.github.com/repos/panxianqiao/vuepress-theme-happy/hooks
+html_url: https://github.com/panxianqiao/vuepress-theme-happy
+id: 161960067
+issue_comment_url: https://api.github.com/repos/panxianqiao/vuepress-theme-happy/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/panxianqiao/vuepress-theme-happy/issues/events{/number}
+issues_url: https://api.github.com/repos/panxianqiao/vuepress-theme-happy/issues{/number}
+keys_url: https://api.github.com/repos/panxianqiao/vuepress-theme-happy/keys{/key_id}
+labels_url: https://api.github.com/repos/panxianqiao/vuepress-theme-happy/labels{/name}
+language: null
+languages_url: https://api.github.com/repos/panxianqiao/vuepress-theme-happy/languages
+license: null
+merges_url: https://api.github.com/repos/panxianqiao/vuepress-theme-happy/merges
+milestones_url: https://api.github.com/repos/panxianqiao/vuepress-theme-happy/milestones{/number}
+mirror_url: null
+name: vuepress-theme-happy
+network_count: 0
+node_id: MDEwOlJlcG9zaXRvcnkxNjE5NjAwNjc=
+notifications_url: https://api.github.com/repos/panxianqiao/vuepress-theme-happy/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
+owner:
+  avatar_url: https://avatars2.githubusercontent.com/u/26495595?v=4
+  events_url: https://api.github.com/users/panxianqiao/events{/privacy}
+  followers_url: https://api.github.com/users/panxianqiao/followers
+  following_url: https://api.github.com/users/panxianqiao/following{/other_user}
+  gists_url: https://api.github.com/users/panxianqiao/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/panxianqiao
+  id: 26495595
+  login: panxianqiao
+  node_id: MDQ6VXNlcjI2NDk1NTk1
+  organizations_url: https://api.github.com/users/panxianqiao/orgs
+  received_events_url: https://api.github.com/users/panxianqiao/received_events
+  repos_url: https://api.github.com/users/panxianqiao/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/panxianqiao/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/panxianqiao/subscriptions
+  type: User
+  url: https://api.github.com/users/panxianqiao
+permissions:
+  admin: false
+  pull: true
+  push: false
+private: false
+pulls_url: https://api.github.com/repos/panxianqiao/vuepress-theme-happy/pulls{/number}
+pushed_at: '2018-12-16T02:11:36Z'
+releases_url: https://api.github.com/repos/panxianqiao/vuepress-theme-happy/releases{/id}
+size: 0
+ssh_url: git@github.com:panxianqiao/vuepress-theme-happy.git
+stargazers_count: 0
+stargazers_url: https://api.github.com/repos/panxianqiao/vuepress-theme-happy/stargazers
+statuses_url: https://api.github.com/repos/panxianqiao/vuepress-theme-happy/statuses/{sha}
+subscribers_count: 0
+subscribers_url: https://api.github.com/repos/panxianqiao/vuepress-theme-happy/subscribers
+subscription_url: https://api.github.com/repos/panxianqiao/vuepress-theme-happy/subscription
+svn_url: https://github.com/panxianqiao/vuepress-theme-happy
+tags_url: https://api.github.com/repos/panxianqiao/vuepress-theme-happy/tags
+teams_url: https://api.github.com/repos/panxianqiao/vuepress-theme-happy/teams
+temp_clone_token: ''
+trees_url: https://api.github.com/repos/panxianqiao/vuepress-theme-happy/git/trees{/sha}
+updated_at: '2018-12-16T02:11:35Z'
+url: https://api.github.com/repos/panxianqiao/vuepress-theme-happy
+watchers: 0
+watchers_count: 0
+---
+

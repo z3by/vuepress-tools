@@ -1,0 +1,102 @@
+---
+archive_url: https://api.github.com/repos/halink0803/vuepress-theme-casper/{archive_format}{/ref}
+archived: false
+assignees_url: https://api.github.com/repos/halink0803/vuepress-theme-casper/assignees{/user}
+blobs_url: https://api.github.com/repos/halink0803/vuepress-theme-casper/git/blobs{/sha}
+branches_url: https://api.github.com/repos/halink0803/vuepress-theme-casper/branches{/branch}
+clone_url: https://github.com/halink0803/vuepress-theme-casper.git
+collaborators_url: https://api.github.com/repos/halink0803/vuepress-theme-casper/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/halink0803/vuepress-theme-casper/comments{/number}
+commits_url: https://api.github.com/repos/halink0803/vuepress-theme-casper/commits{/sha}
+compare_url: https://api.github.com/repos/halink0803/vuepress-theme-casper/compare/{base}...{head}
+contents_url: https://api.github.com/repos/halink0803/vuepress-theme-casper/contents/{+path}
+contributors_url: https://api.github.com/repos/halink0803/vuepress-theme-casper/contributors
+created_at: '2018-05-06T16:47:46Z'
+default_branch: master
+deployments_url: https://api.github.com/repos/halink0803/vuepress-theme-casper/deployments
+description: Casper theme ported for VuePress
+disabled: false
+downloads_url: https://api.github.com/repos/halink0803/vuepress-theme-casper/downloads
+events_url: https://api.github.com/repos/halink0803/vuepress-theme-casper/events
+fork: false
+forks: 0
+forks_count: 0
+forks_url: https://api.github.com/repos/halink0803/vuepress-theme-casper/forks
+full_name: halink0803/vuepress-theme-casper
+git_commits_url: https://api.github.com/repos/halink0803/vuepress-theme-casper/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/halink0803/vuepress-theme-casper/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/halink0803/vuepress-theme-casper/git/tags{/sha}
+git_url: git://github.com/halink0803/vuepress-theme-casper.git
+has_downloads: true
+has_issues: true
+has_pages: false
+has_projects: true
+has_wiki: true
+homepage: null
+hooks_url: https://api.github.com/repos/halink0803/vuepress-theme-casper/hooks
+html_url: https://github.com/halink0803/vuepress-theme-casper
+id: 132357847
+issue_comment_url: https://api.github.com/repos/halink0803/vuepress-theme-casper/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/halink0803/vuepress-theme-casper/issues/events{/number}
+issues_url: https://api.github.com/repos/halink0803/vuepress-theme-casper/issues{/number}
+keys_url: https://api.github.com/repos/halink0803/vuepress-theme-casper/keys{/key_id}
+labels_url: https://api.github.com/repos/halink0803/vuepress-theme-casper/labels{/name}
+language: null
+languages_url: https://api.github.com/repos/halink0803/vuepress-theme-casper/languages
+license: null
+merges_url: https://api.github.com/repos/halink0803/vuepress-theme-casper/merges
+milestones_url: https://api.github.com/repos/halink0803/vuepress-theme-casper/milestones{/number}
+mirror_url: null
+name: vuepress-theme-casper
+network_count: 0
+node_id: MDEwOlJlcG9zaXRvcnkxMzIzNTc4NDc=
+notifications_url: https://api.github.com/repos/halink0803/vuepress-theme-casper/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
+owner:
+  avatar_url: https://avatars2.githubusercontent.com/u/5054560?v=4
+  events_url: https://api.github.com/users/halink0803/events{/privacy}
+  followers_url: https://api.github.com/users/halink0803/followers
+  following_url: https://api.github.com/users/halink0803/following{/other_user}
+  gists_url: https://api.github.com/users/halink0803/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/halink0803
+  id: 5054560
+  login: halink0803
+  node_id: MDQ6VXNlcjUwNTQ1NjA=
+  organizations_url: https://api.github.com/users/halink0803/orgs
+  received_events_url: https://api.github.com/users/halink0803/received_events
+  repos_url: https://api.github.com/users/halink0803/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/halink0803/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/halink0803/subscriptions
+  type: User
+  url: https://api.github.com/users/halink0803
+permissions:
+  admin: false
+  pull: true
+  push: false
+private: false
+pulls_url: https://api.github.com/repos/halink0803/vuepress-theme-casper/pulls{/number}
+pushed_at: '2018-05-06T16:48:04Z'
+releases_url: https://api.github.com/repos/halink0803/vuepress-theme-casper/releases{/id}
+size: 0
+ssh_url: git@github.com:halink0803/vuepress-theme-casper.git
+stargazers_count: 0
+stargazers_url: https://api.github.com/repos/halink0803/vuepress-theme-casper/stargazers
+statuses_url: https://api.github.com/repos/halink0803/vuepress-theme-casper/statuses/{sha}
+subscribers_count: 1
+subscribers_url: https://api.github.com/repos/halink0803/vuepress-theme-casper/subscribers
+subscription_url: https://api.github.com/repos/halink0803/vuepress-theme-casper/subscription
+svn_url: https://github.com/halink0803/vuepress-theme-casper
+tags_url: https://api.github.com/repos/halink0803/vuepress-theme-casper/tags
+teams_url: https://api.github.com/repos/halink0803/vuepress-theme-casper/teams
+temp_clone_token: ''
+trees_url: https://api.github.com/repos/halink0803/vuepress-theme-casper/git/trees{/sha}
+updated_at: '2018-05-06T16:48:05Z'
+url: https://api.github.com/repos/halink0803/vuepress-theme-casper
+watchers: 0
+watchers_count: 0
+---
+
+# Hello VuePress

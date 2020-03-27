@@ -1,0 +1,107 @@
+---
+archive_url: https://api.github.com/repos/notzheng/vuepress-theme-buzheng/{archive_format}{/ref}
+archived: false
+assignees_url: https://api.github.com/repos/notzheng/vuepress-theme-buzheng/assignees{/user}
+blobs_url: https://api.github.com/repos/notzheng/vuepress-theme-buzheng/git/blobs{/sha}
+branches_url: https://api.github.com/repos/notzheng/vuepress-theme-buzheng/branches{/branch}
+clone_url: https://github.com/notzheng/vuepress-theme-buzheng.git
+collaborators_url: https://api.github.com/repos/notzheng/vuepress-theme-buzheng/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/notzheng/vuepress-theme-buzheng/comments{/number}
+commits_url: https://api.github.com/repos/notzheng/vuepress-theme-buzheng/commits{/sha}
+compare_url: https://api.github.com/repos/notzheng/vuepress-theme-buzheng/compare/{base}...{head}
+contents_url: https://api.github.com/repos/notzheng/vuepress-theme-buzheng/contents/{+path}
+contributors_url: https://api.github.com/repos/notzheng/vuepress-theme-buzheng/contributors
+created_at: '2019-01-02T15:42:51Z'
+default_branch: master
+deployments_url: https://api.github.com/repos/notzheng/vuepress-theme-buzheng/deployments
+description: null
+disabled: false
+downloads_url: https://api.github.com/repos/notzheng/vuepress-theme-buzheng/downloads
+events_url: https://api.github.com/repos/notzheng/vuepress-theme-buzheng/events
+fork: false
+forks: 0
+forks_count: 0
+forks_url: https://api.github.com/repos/notzheng/vuepress-theme-buzheng/forks
+full_name: notzheng/vuepress-theme-buzheng
+git_commits_url: https://api.github.com/repos/notzheng/vuepress-theme-buzheng/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/notzheng/vuepress-theme-buzheng/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/notzheng/vuepress-theme-buzheng/git/tags{/sha}
+git_url: git://github.com/notzheng/vuepress-theme-buzheng.git
+has_downloads: true
+has_issues: true
+has_pages: false
+has_projects: true
+has_wiki: true
+homepage: null
+hooks_url: https://api.github.com/repos/notzheng/vuepress-theme-buzheng/hooks
+html_url: https://github.com/notzheng/vuepress-theme-buzheng
+id: 163859602
+issue_comment_url: https://api.github.com/repos/notzheng/vuepress-theme-buzheng/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/notzheng/vuepress-theme-buzheng/issues/events{/number}
+issues_url: https://api.github.com/repos/notzheng/vuepress-theme-buzheng/issues{/number}
+keys_url: https://api.github.com/repos/notzheng/vuepress-theme-buzheng/keys{/key_id}
+labels_url: https://api.github.com/repos/notzheng/vuepress-theme-buzheng/labels{/name}
+language: null
+languages_url: https://api.github.com/repos/notzheng/vuepress-theme-buzheng/languages
+license:
+  key: mit
+  name: MIT License
+  node_id: MDc6TGljZW5zZTEz
+  spdx_id: MIT
+  url: https://api.github.com/licenses/mit
+merges_url: https://api.github.com/repos/notzheng/vuepress-theme-buzheng/merges
+milestones_url: https://api.github.com/repos/notzheng/vuepress-theme-buzheng/milestones{/number}
+mirror_url: null
+name: vuepress-theme-buzheng
+network_count: 0
+node_id: MDEwOlJlcG9zaXRvcnkxNjM4NTk2MDI=
+notifications_url: https://api.github.com/repos/notzheng/vuepress-theme-buzheng/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
+owner:
+  avatar_url: https://avatars1.githubusercontent.com/u/13414731?v=4
+  events_url: https://api.github.com/users/notzheng/events{/privacy}
+  followers_url: https://api.github.com/users/notzheng/followers
+  following_url: https://api.github.com/users/notzheng/following{/other_user}
+  gists_url: https://api.github.com/users/notzheng/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/notzheng
+  id: 13414731
+  login: notzheng
+  node_id: MDQ6VXNlcjEzNDE0NzMx
+  organizations_url: https://api.github.com/users/notzheng/orgs
+  received_events_url: https://api.github.com/users/notzheng/received_events
+  repos_url: https://api.github.com/users/notzheng/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/notzheng/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/notzheng/subscriptions
+  type: User
+  url: https://api.github.com/users/notzheng
+permissions:
+  admin: false
+  pull: true
+  push: false
+private: false
+pulls_url: https://api.github.com/repos/notzheng/vuepress-theme-buzheng/pulls{/number}
+pushed_at: '2019-01-02T15:42:52Z'
+releases_url: https://api.github.com/repos/notzheng/vuepress-theme-buzheng/releases{/id}
+size: 1
+ssh_url: git@github.com:notzheng/vuepress-theme-buzheng.git
+stargazers_count: 0
+stargazers_url: https://api.github.com/repos/notzheng/vuepress-theme-buzheng/stargazers
+statuses_url: https://api.github.com/repos/notzheng/vuepress-theme-buzheng/statuses/{sha}
+subscribers_count: 1
+subscribers_url: https://api.github.com/repos/notzheng/vuepress-theme-buzheng/subscribers
+subscription_url: https://api.github.com/repos/notzheng/vuepress-theme-buzheng/subscription
+svn_url: https://github.com/notzheng/vuepress-theme-buzheng
+tags_url: https://api.github.com/repos/notzheng/vuepress-theme-buzheng/tags
+teams_url: https://api.github.com/repos/notzheng/vuepress-theme-buzheng/teams
+temp_clone_token: ''
+trees_url: https://api.github.com/repos/notzheng/vuepress-theme-buzheng/git/trees{/sha}
+updated_at: '2019-01-02T15:42:53Z'
+url: https://api.github.com/repos/notzheng/vuepress-theme-buzheng
+watchers: 0
+watchers_count: 0
+---
+
+# vuepress-theme-buzheng
