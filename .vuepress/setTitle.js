@@ -1,5 +1,3 @@
-const { path } = require('@vuepress/shared-utils')
-
 module.exports = (options) => ({
     extendPageData ($page) {
         const {
