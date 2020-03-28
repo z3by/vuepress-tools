@@ -17,8 +17,14 @@ def main():
     render(themes, 'themes', allowed_patterns=[r'^vuepress-theme-'])
 
 def render(repos, folder, allowed_patterns=[], update_sidebar=True):
+    excluded = [
+        'vuepress-plugin-awesome-gitalk',
+        'vuepress-plugin-awesome-playground'
+    ]
     sidebar = {'plugins': [], 'themes': []}
     for repo in repos:
+        if repo.name in excluded:
+            continue
         for pattern in allowed_patterns:
             if re.match(pattern, repo.name):
                 name = f'{folder}/{repo.name}.md'
@@ -71,4 +77,3 @@ def convert_repo_to_markdown_page(github_repo, output_path):
 
 if __name__ == '__main__':
     main()
-    
