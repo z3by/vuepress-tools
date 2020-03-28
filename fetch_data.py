@@ -19,7 +19,9 @@ def main():
 def render(repos, folder, allowed_patterns=[], update_sidebar=True):
     excluded = [
         'vuepress-plugin-awesome-gitalk',
-        'vuepress-plugin-awesome-playground'
+        'vuepress-plugin-awesome-playground',
+        'vuepress-plugin-live2d-helper',
+        'vuepress-plugin-live2d',
     ]
     sidebar = []
     for repo in repos:
