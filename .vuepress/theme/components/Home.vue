@@ -82,9 +82,6 @@
         class="footer"
         v-if="data.footer"
       >
-        <p>
-          Made with ❤️ by <a href="http://ahmadmostafa.com" target="_blank" rel="noopener noreferrer">Ahmad Mostafa</a> - <a href="http://github.com/z3by" target="_blank" rel="noopener noreferrer">@z3by</a>
-        </p>
       </footer>
     </div>
   </main>
@@ -122,7 +119,7 @@ export default {
     position: absolute;
     left: 0;
     width: 100vw;
-    height: 15rem;
+    height: 12rem;
     background: linear-gradient($accentColor, $accentColorLight);
   }
 
@@ -130,7 +127,7 @@ export default {
     display: flex;
     flex-direction: row;
     margin: 0 auto;
-    margin-top: 5rem;
+    margin-top: 2rem;
     box-shadow: 10px 5px 20px rgba(0, 0, 0, 0.1);
     background-color: white;
     padding: 1.5rem;
