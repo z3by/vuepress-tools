@@ -82,7 +82,9 @@
         class="footer"
         v-if="data.footer"
       >
-        {{ data.footer }}
+        <p>
+          Made with ❤️ by <a href="http://ahmadmostafa.com" target="_blank" rel="noopener noreferrer">Ahmad Mostafa</a> - <a href="http://github.com/z3by" target="_blank" rel="noopener noreferrer">@z3by</a>
+        </p>
       </footer>
     </div>
   </main>
