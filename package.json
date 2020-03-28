@@ -10,7 +10,7 @@
   "repository": "arab-open-source/vuepress-tools/vuepress-tools",
   "scripts": {
     "dev": "vuepress dev",
-    "build": "vuepress build"
+    "build": "node --max-old-space-size=8192 node_modules/vuepress/cli.js build"
   },
   "license": "MIT",
   "devDependencies": {
