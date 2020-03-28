@@ -140,7 +140,7 @@ export function resolveSidebarItems (page, regularPath, site, localePath) {
     const { base, config } = resolveMatchingConfig(regularPath, sidebarConfig)
     if (!config) return []
     else {
-      return config.map(item => resolveItem(item, pages, base)).sort((a, b) => b.frontmatter.score - a.frontmatter.score)
+      return config.map(item => resolveItem(item, pages, base))
     }
   }
 }
