@@ -21,20 +21,19 @@ def render(repos, folder, allowed_patterns=[], update_sidebar=True):
         'vuepress-plugin-awesome-gitalk',
         'vuepress-plugin-awesome-playground'
     ]
-    sidebar = {'plugins': [], 'themes': []}
+    sidebar = []
     for repo in repos:
         if repo.name in excluded:
             continue
         for pattern in allowed_patterns:
             if re.match(pattern, repo.name):
                 name = f'{folder}/{repo.name}.md'
-                page = convert_repo_to_markdown_page(repo, name)
+                # page = convert_repo_to_markdown_page(repo, name)
                 if update_sidebar:
-                    sidebar[folder].append(repo.name)
-    if update_sidebar:
-        with open('.vuepress/sidebar.js', 'w+') as f:
-            json_sidebar = json.dumps({'/themes/': sidebar['themes'], '/plugins/': sidebar['plugins']})
-            f.write(f'module.exports = {json_sidebar}')
+                    sidebar.append(repo.name)
+    if sidebar:
+        with open(f'.vuepress/sidebar/{folder}.js', 'w+') as f:
+            f.write(f'module.exports = {sidebar}')
 
 
 def fetch(github_query):

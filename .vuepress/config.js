@@ -59,7 +59,10 @@ module.exports = {
         icon: 'plug'
       }
     ],
-    sidebar: require('./sidebar')      
+    sidebar: {
+      '/themes/': require('./sidebar/themes'),
+      '/plugins/': require('./sidebar/plugins'),
+    }
   },
 
   /**
