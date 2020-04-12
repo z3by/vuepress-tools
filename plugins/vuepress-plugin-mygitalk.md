@@ -56,8 +56,8 @@ name: vuepress-plugin-mygitalk
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyMTgyMTk2NDE=
 notifications_url: https://api.github.com/repos/JoeyBling/vuepress-plugin-mygitalk/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
+open_issues: 2
+open_issues_count: 2
 owner:
   avatar_url: https://avatars1.githubusercontent.com/u/25240064?v=4
   events_url: https://api.github.com/users/JoeyBling/events{/privacy}

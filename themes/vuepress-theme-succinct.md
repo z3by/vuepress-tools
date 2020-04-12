@@ -83,11 +83,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/pulls{/number}
-pushed_at: '2020-02-08T10:29:52Z'
+pushed_at: '2020-04-04T08:03:04Z'
 releases_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/releases{/id}
-size: 690
+size: 774
 ssh_url: git@github.com:Microflash/vuepress-theme-succinct.git
-stargazers_count: 4
+stargazers_count: 5
 stargazers_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/stargazers
 statuses_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/statuses/{sha}
 subscribers_count: 2
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/tags
 teams_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/git/trees{/sha}
-updated_at: '2020-02-14T08:37:46Z'
+updated_at: '2020-04-04T08:03:06Z'
 url: https://api.github.com/repos/Microflash/vuepress-theme-succinct
-watchers: 4
-watchers_count: 4
+watchers: 5
+watchers_count: 5
 ---
 
 # vuepress-theme-succinct
@@ -115,7 +115,7 @@ A slightly opinionated theme for Vuepress
 ## Features
 
 - **Customizable typography**: Import and use your favorite web-fonts. Customize font sizes and text-adjustment for body text
-- **Dark and light themes**: With a theme-switcher and native theme detection to set the theme automatically as per the user preference
+- **Dark and light themes**: System theme detection with a theme-switcher to set the theme as per the user preference
 - **Accessible**: Succinct applies tweaks - deeper contrast, better legibility preferences, etc - to improve the readability
 
 ## Get Started
@@ -165,5 +165,5 @@ This theme has the following plugins built in:
 
 Nods to people and projects that made `succinct` possible.
 
-- Official [Vuepress theme](https://github.com/vuejs/vuepress/tree/master/packages/%40vuepress/theme-default) `succinct` is based on.
-- [Tommy Vedvik](https://github.com/tomtev)'s implementation of theme switcher on the official [Gridsome](https://gridsome.org/) website.
+- Official [Vuepress theme](https://github.com/vuejs/vuepress/tree/master/packages/%40vuepress/theme-default)
+- [Tommy Vedvik](https://github.com/tomtev)'s implementation of theme switcher on the official [Gridsome](https://gridsome.org/) website

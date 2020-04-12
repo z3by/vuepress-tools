@@ -60,8 +60,8 @@ name: vuepress-theme-britecore
 network_count: 1
 node_id: MDEwOlJlcG9zaXRvcnkyMTM5ODA1NzU=
 notifications_url: https://api.github.com/repos/z3by/vuepress-theme-britecore/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
+open_issues: 1
+open_issues_count: 1
 owner:
   avatar_url: https://avatars1.githubusercontent.com/u/36268825?v=4
   events_url: https://api.github.com/users/z3by/events{/privacy}
@@ -87,9 +87,9 @@ permissions:
   push: true
 private: false
 pulls_url: https://api.github.com/repos/z3by/vuepress-theme-britecore/pulls{/number}
-pushed_at: '2020-02-07T03:16:18Z'
+pushed_at: '2020-04-05T11:44:07Z'
 releases_url: https://api.github.com/repos/z3by/vuepress-theme-britecore/releases{/id}
-size: 1139
+size: 1386
 ssh_url: git@github.com:z3by/vuepress-theme-britecore.git
 stargazers_count: 8
 stargazers_url: https://api.github.com/repos/z3by/vuepress-theme-britecore/stargazers

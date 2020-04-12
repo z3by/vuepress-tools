@@ -87,7 +87,7 @@ pushed_at: '2020-03-13T22:44:24Z'
 releases_url: https://api.github.com/repos/ntnyq/vuepress-plugin-svg-icons/releases{/id}
 size: 1887
 ssh_url: git@github.com:ntnyq/vuepress-plugin-svg-icons.git
-stargazers_count: 6
+stargazers_count: 7
 stargazers_url: https://api.github.com/repos/ntnyq/vuepress-plugin-svg-icons/stargazers
 statuses_url: https://api.github.com/repos/ntnyq/vuepress-plugin-svg-icons/statuses/{sha}
 subscribers_count: 0
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/ntnyq/vuepress-plugin-svg-icons/tags
 teams_url: https://api.github.com/repos/ntnyq/vuepress-plugin-svg-icons/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/ntnyq/vuepress-plugin-svg-icons/git/trees{/sha}
-updated_at: '2020-03-13T10:01:52Z'
+updated_at: '2020-03-29T17:44:19Z'
 url: https://api.github.com/repos/ntnyq/vuepress-plugin-svg-icons
-watchers: 6
-watchers_count: 6
+watchers: 7
+watchers_count: 7
 ---
 
 # vuepress-plugin-svg-icons

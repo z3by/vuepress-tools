@@ -56,8 +56,8 @@ name: vuepress-plugin-gettext
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkxOTUyMTQ2NDk=
 notifications_url: https://api.github.com/repos/petr-chelpanov/vuepress-plugin-gettext/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
+open_issues: 2
+open_issues_count: 2
 owner:
   avatar_url: https://avatars2.githubusercontent.com/u/42416417?v=4
   events_url: https://api.github.com/users/petr-chelpanov/events{/privacy}
@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/petr-chelpanov/vuepress-plugin-gettext/pulls{/number}
-pushed_at: '2019-10-31T04:42:47Z'
+pushed_at: '2020-04-04T17:45:35Z'
 releases_url: https://api.github.com/repos/petr-chelpanov/vuepress-plugin-gettext/releases{/id}
-size: 270
+size: 400
 ssh_url: git@github.com:petr-chelpanov/vuepress-plugin-gettext.git
 stargazers_count: 1
 stargazers_url: https://api.github.com/repos/petr-chelpanov/vuepress-plugin-gettext/stargazers

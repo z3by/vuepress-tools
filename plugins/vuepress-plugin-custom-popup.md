@@ -41,7 +41,7 @@ issue_events_url: https://api.github.com/repos/nbtri/vuepress-plugin-custom-popu
 issues_url: https://api.github.com/repos/nbtri/vuepress-plugin-custom-popup/issues{/number}
 keys_url: https://api.github.com/repos/nbtri/vuepress-plugin-custom-popup/keys{/key_id}
 labels_url: https://api.github.com/repos/nbtri/vuepress-plugin-custom-popup/labels{/name}
-language: Vue
+language: JavaScript
 languages_url: https://api.github.com/repos/nbtri/vuepress-plugin-custom-popup/languages
 license:
   key: apache-2.0
@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/nbtri/vuepress-plugin-custom-popup/pulls{/number}
-pushed_at: '2020-03-27T03:40:09Z'
+pushed_at: '2020-03-30T08:13:13Z'
 releases_url: https://api.github.com/repos/nbtri/vuepress-plugin-custom-popup/releases{/id}
-size: 153
+size: 196
 ssh_url: git@github.com:nbtri/vuepress-plugin-custom-popup.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/nbtri/vuepress-plugin-custom-popup/stargazers
@@ -98,7 +98,7 @@ tags_url: https://api.github.com/repos/nbtri/vuepress-plugin-custom-popup/tags
 teams_url: https://api.github.com/repos/nbtri/vuepress-plugin-custom-popup/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/nbtri/vuepress-plugin-custom-popup/git/trees{/sha}
-updated_at: '2020-03-27T03:40:11Z'
+updated_at: '2020-03-30T08:13:15Z'
 url: https://api.github.com/repos/nbtri/vuepress-plugin-custom-popup
 watchers: 0
 watchers_count: 0

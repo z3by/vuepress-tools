@@ -98,7 +98,7 @@ tags_url: https://api.github.com/repos/bencwbrown/vuepress-plugin-latex/tags
 teams_url: https://api.github.com/repos/bencwbrown/vuepress-plugin-latex/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/bencwbrown/vuepress-plugin-latex/git/trees{/sha}
-updated_at: '2020-02-16T17:18:40Z'
+updated_at: '2020-03-30T14:45:22Z'
 url: https://api.github.com/repos/bencwbrown/vuepress-plugin-latex
 watchers: 0
 watchers_count: 0

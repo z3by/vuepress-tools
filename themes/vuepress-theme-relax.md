@@ -1,0 +1,103 @@
+---
+archive_url: https://api.github.com/repos/ybrelax/vuepress-theme-relax/{archive_format}{/ref}
+archived: false
+assignees_url: https://api.github.com/repos/ybrelax/vuepress-theme-relax/assignees{/user}
+blobs_url: https://api.github.com/repos/ybrelax/vuepress-theme-relax/git/blobs{/sha}
+branches_url: https://api.github.com/repos/ybrelax/vuepress-theme-relax/branches{/branch}
+clone_url: https://github.com/ybrelax/vuepress-theme-relax.git
+collaborators_url: https://api.github.com/repos/ybrelax/vuepress-theme-relax/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/ybrelax/vuepress-theme-relax/comments{/number}
+commits_url: https://api.github.com/repos/ybrelax/vuepress-theme-relax/commits{/sha}
+compare_url: https://api.github.com/repos/ybrelax/vuepress-theme-relax/compare/{base}...{head}
+contents_url: https://api.github.com/repos/ybrelax/vuepress-theme-relax/contents/{+path}
+contributors_url: https://api.github.com/repos/ybrelax/vuepress-theme-relax/contributors
+created_at: '2020-04-05T09:37:04Z'
+default_branch: master
+deployments_url: https://api.github.com/repos/ybrelax/vuepress-theme-relax/deployments
+description: "\u535A\u5BA2\u4E3B\u9898"
+disabled: false
+downloads_url: https://api.github.com/repos/ybrelax/vuepress-theme-relax/downloads
+events_url: https://api.github.com/repos/ybrelax/vuepress-theme-relax/events
+fork: false
+forks: 0
+forks_count: 0
+forks_url: https://api.github.com/repos/ybrelax/vuepress-theme-relax/forks
+full_name: ybrelax/vuepress-theme-relax
+git_commits_url: https://api.github.com/repos/ybrelax/vuepress-theme-relax/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/ybrelax/vuepress-theme-relax/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/ybrelax/vuepress-theme-relax/git/tags{/sha}
+git_url: git://github.com/ybrelax/vuepress-theme-relax.git
+has_downloads: true
+has_issues: true
+has_pages: false
+has_projects: true
+has_wiki: true
+homepage: null
+hooks_url: https://api.github.com/repos/ybrelax/vuepress-theme-relax/hooks
+html_url: https://github.com/ybrelax/vuepress-theme-relax
+id: 253199707
+issue_comment_url: https://api.github.com/repos/ybrelax/vuepress-theme-relax/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/ybrelax/vuepress-theme-relax/issues/events{/number}
+issues_url: https://api.github.com/repos/ybrelax/vuepress-theme-relax/issues{/number}
+keys_url: https://api.github.com/repos/ybrelax/vuepress-theme-relax/keys{/key_id}
+labels_url: https://api.github.com/repos/ybrelax/vuepress-theme-relax/labels{/name}
+language: Vue
+languages_url: https://api.github.com/repos/ybrelax/vuepress-theme-relax/languages
+license: null
+merges_url: https://api.github.com/repos/ybrelax/vuepress-theme-relax/merges
+milestones_url: https://api.github.com/repos/ybrelax/vuepress-theme-relax/milestones{/number}
+mirror_url: null
+name: vuepress-theme-relax
+network_count: 0
+node_id: MDEwOlJlcG9zaXRvcnkyNTMxOTk3MDc=
+notifications_url: https://api.github.com/repos/ybrelax/vuepress-theme-relax/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
+owner:
+  avatar_url: https://avatars1.githubusercontent.com/u/31029938?v=4
+  events_url: https://api.github.com/users/ybrelax/events{/privacy}
+  followers_url: https://api.github.com/users/ybrelax/followers
+  following_url: https://api.github.com/users/ybrelax/following{/other_user}
+  gists_url: https://api.github.com/users/ybrelax/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/ybrelax
+  id: 31029938
+  login: ybrelax
+  node_id: MDQ6VXNlcjMxMDI5OTM4
+  organizations_url: https://api.github.com/users/ybrelax/orgs
+  received_events_url: https://api.github.com/users/ybrelax/received_events
+  repos_url: https://api.github.com/users/ybrelax/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/ybrelax/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/ybrelax/subscriptions
+  type: User
+  url: https://api.github.com/users/ybrelax
+permissions:
+  admin: false
+  pull: true
+  push: false
+private: false
+pulls_url: https://api.github.com/repos/ybrelax/vuepress-theme-relax/pulls{/number}
+pushed_at: '2020-04-06T10:51:44Z'
+releases_url: https://api.github.com/repos/ybrelax/vuepress-theme-relax/releases{/id}
+size: 8966
+ssh_url: git@github.com:ybrelax/vuepress-theme-relax.git
+stargazers_count: 0
+stargazers_url: https://api.github.com/repos/ybrelax/vuepress-theme-relax/stargazers
+statuses_url: https://api.github.com/repos/ybrelax/vuepress-theme-relax/statuses/{sha}
+subscribers_count: 1
+subscribers_url: https://api.github.com/repos/ybrelax/vuepress-theme-relax/subscribers
+subscription_url: https://api.github.com/repos/ybrelax/vuepress-theme-relax/subscription
+svn_url: https://github.com/ybrelax/vuepress-theme-relax
+tags_url: https://api.github.com/repos/ybrelax/vuepress-theme-relax/tags
+teams_url: https://api.github.com/repos/ybrelax/vuepress-theme-relax/teams
+temp_clone_token: ''
+trees_url: https://api.github.com/repos/ybrelax/vuepress-theme-relax/git/trees{/sha}
+updated_at: '2020-04-06T11:51:02Z'
+url: https://api.github.com/repos/ybrelax/vuepress-theme-relax
+watchers: 0
+watchers_count: 0
+---
+
+# blog-theme
+博客主题

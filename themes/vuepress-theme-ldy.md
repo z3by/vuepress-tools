@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/gitldy1013/vuepress-theme-ldy/downloads
 events_url: https://api.github.com/repos/gitldy1013/vuepress-theme-ldy/events
 fork: false
-forks: 0
-forks_count: 0
+forks: 1
+forks_count: 1
 forks_url: https://api.github.com/repos/gitldy1013/vuepress-theme-ldy/forks
 full_name: gitldy1013/vuepress-theme-ldy
 git_commits_url: https://api.github.com/repos/gitldy1013/vuepress-theme-ldy/git/commits{/sha}
@@ -53,7 +53,7 @@ merges_url: https://api.github.com/repos/gitldy1013/vuepress-theme-ldy/merges
 milestones_url: https://api.github.com/repos/gitldy1013/vuepress-theme-ldy/milestones{/number}
 mirror_url: null
 name: vuepress-theme-ldy
-network_count: 0
+network_count: 1
 node_id: MDEwOlJlcG9zaXRvcnkyMjE2MjMzOTA=
 notifications_url: https://api.github.com/repos/gitldy1013/vuepress-theme-ldy/notifications{?since,all,participating}
 open_issues: 0

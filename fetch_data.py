@@ -10,11 +10,13 @@ import yaml
 GITHUB_TOKEN = os.environ['GITHUB_TOKEN']
 github = Github(GITHUB_TOKEN)
 
+
 def main():
     plugins = fetch('vuepress-plugin')
     themes = fetch('vuepress-theme')
-    render(plugins, 'plugins', allowed_patterns=[r'^vuepress-plugin-'])
-    render(themes, 'themes', allowed_patterns=[r'^vuepress-theme-'])
+    render(plugins, 'plugins', allowed_patterns=[r'vuepress-plugin-*'])
+    render(themes, 'themes', allowed_patterns=[r'vuepress-theme-*'])
+
 
 def render(repos, folder, allowed_patterns=[], update_sidebar=True):
     excluded = [
@@ -29,10 +31,10 @@ def render(repos, folder, allowed_patterns=[], update_sidebar=True):
             continue
         for pattern in allowed_patterns:
             if re.match(pattern, repo.name):
-                name = f'{folder}/{repo.name}.md'
-                # page = convert_repo_to_markdown_page(repo, name)
+                name = f'{folder}/{repo.name}.md'.lower()
+                page = convert_repo_to_markdown_page(repo, name)
                 if update_sidebar:
-                    sidebar.append(repo.name)
+                    sidebar.append(repo.name.lower())
     if sidebar:
         with open(f'.vuepress/sidebar/{folder}.js', 'w+') as f:
             f.write(f'module.exports = {sidebar}')
@@ -58,19 +60,23 @@ def convert_repo_to_markdown_page(github_repo, output_path):
     except UnknownObjectException as e:
         print('❌ No readme found for ', output_path)
 
-    with open(output_path, 'w+') as f: 
-        f.write('---\n') 
+    with open(output_path, 'w+') as f:
+        f.write('---\n')
         f.write(yaml.dump(github_repo.raw_data))
         f.write('---\n\n')
 
     if readme:
         content = base64.b64decode(readme.content).decode('utf-8')
-        links = [link[2:-1] for link in re.findall(r'\]\(\..*?\)', content) if link]
+        links = [link[2:-1]
+                 for link in re.findall(r'\]\(\..*?\)', content) if link]
         for link in links:
-            content = content.replace(link, f'https://raw.githubusercontent.com/{github_repo.owner.name}/{github_repo.name}/{github_repo.default_branch}/{link[2:]}')
-        links = [link[5:-1] for link in re.findall(r'src="\./.*?"', content) if link]
+            content = content.replace(
+                link, f'https://raw.githubusercontent.com/{github_repo.owner.name}/{github_repo.name}/{github_repo.default_branch}/{link[2:]}')
+        links = [link[5:-1]
+                 for link in re.findall(r'src="\./.*?"', content) if link]
         for link in links:
-            content = content.replace(link, f'https://raw.githubusercontent.com/{github_repo.owner.name}/{github_repo.name}/{github_repo.default_branch}/{link[2:]}')
+            content = content.replace(
+                link, f'https://raw.githubusercontent.com/{github_repo.owner.name}/{github_repo.name}/{github_repo.default_branch}/{link[2:]}')
         with open(output_path, 'a+') as f:
             f.write(content)
     print('✅ generated ', output_path)

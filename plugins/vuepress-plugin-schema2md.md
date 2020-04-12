@@ -107,7 +107,7 @@ pushed_at: '2020-03-16T06:23:32Z'
 releases_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-schema2md/releases{/id}
 size: 686
 ssh_url: git@github.com:vuepressjs/vuepress-plugin-schema2md.git
-stargazers_count: 12
+stargazers_count: 14
 stargazers_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-schema2md/stargazers
 statuses_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-schema2md/statuses/{sha}
 subscribers_count: 1
@@ -118,10 +118,10 @@ tags_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-schema2md/tags
 teams_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-schema2md/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-schema2md/git/trees{/sha}
-updated_at: '2020-03-22T03:54:45Z'
+updated_at: '2020-03-29T17:44:25Z'
 url: https://api.github.com/repos/vuepressjs/vuepress-plugin-schema2md
-watchers: 12
-watchers_count: 12
+watchers: 14
+watchers_count: 14
 ---
 
 # vuepress-plugin-schema2md

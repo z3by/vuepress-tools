@@ -97,9 +97,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/simpleanalytics/vuepress-plugin/pulls{/number}
-pushed_at: '2020-01-19T01:32:06Z'
+pushed_at: '2020-04-11T15:07:46Z'
 releases_url: https://api.github.com/repos/simpleanalytics/vuepress-plugin/releases{/id}
-size: 101
+size: 240
 ssh_url: git@github.com:simpleanalytics/vuepress-plugin.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/simpleanalytics/vuepress-plugin/stargazers
@@ -112,7 +112,7 @@ tags_url: https://api.github.com/repos/simpleanalytics/vuepress-plugin/tags
 teams_url: https://api.github.com/repos/simpleanalytics/vuepress-plugin/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/simpleanalytics/vuepress-plugin/git/trees{/sha}
-updated_at: '2020-01-19T01:32:08Z'
+updated_at: '2020-04-11T15:07:48Z'
 url: https://api.github.com/repos/simpleanalytics/vuepress-plugin
 watchers: 0
 watchers_count: 0
@@ -151,7 +151,7 @@ module.exports = {
       "vuepress-plugin-simple-analytics",
       {
         customDomain: "data.example.com", // You custom domain
-        eventsGlobal: "sa", // The global events object for sa("click_button")
+        eventsGlobal: "sa_event", // The global events object for sa_event("click_button")
         skipDnt: true // When set to true you track the DNT users
       }
     ]

@@ -87,7 +87,7 @@ pushed_at: '2019-02-05T07:22:31Z'
 releases_url: https://api.github.com/repos/viko16/vuepress-plugin-permalink-pinyin/releases{/id}
 size: 8
 ssh_url: git@github.com:viko16/vuepress-plugin-permalink-pinyin.git
-stargazers_count: 3
+stargazers_count: 4
 stargazers_url: https://api.github.com/repos/viko16/vuepress-plugin-permalink-pinyin/stargazers
 statuses_url: https://api.github.com/repos/viko16/vuepress-plugin-permalink-pinyin/statuses/{sha}
 subscribers_count: 1
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/viko16/vuepress-plugin-permalink-pinyin/t
 teams_url: https://api.github.com/repos/viko16/vuepress-plugin-permalink-pinyin/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/viko16/vuepress-plugin-permalink-pinyin/git/trees{/sha}
-updated_at: '2020-03-26T05:42:01Z'
+updated_at: '2020-03-28T14:22:49Z'
 url: https://api.github.com/repos/viko16/vuepress-plugin-permalink-pinyin
-watchers: 3
-watchers_count: 3
+watchers: 4
+watchers_count: 4
 ---
 
 # vuepress-plugin-permalink-pinyin

@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/limdongjin/vuepress-plugin-sidebar-on-off/downloads
 events_url: https://api.github.com/repos/limdongjin/vuepress-plugin-sidebar-on-off/events
 fork: false
-forks: 0
-forks_count: 0
+forks: 1
+forks_count: 1
 forks_url: https://api.github.com/repos/limdongjin/vuepress-plugin-sidebar-on-off/forks
 full_name: limdongjin/vuepress-plugin-sidebar-on-off
 git_commits_url: https://api.github.com/repos/limdongjin/vuepress-plugin-sidebar-on-off/git/commits{/sha}
@@ -53,7 +53,7 @@ merges_url: https://api.github.com/repos/limdongjin/vuepress-plugin-sidebar-on-o
 milestones_url: https://api.github.com/repos/limdongjin/vuepress-plugin-sidebar-on-off/milestones{/number}
 mirror_url: null
 name: vuepress-plugin-sidebar-on-off
-network_count: 0
+network_count: 1
 node_id: MDEwOlJlcG9zaXRvcnkxNjQ2MjA4MzQ=
 notifications_url: https://api.github.com/repos/limdongjin/vuepress-plugin-sidebar-on-off/notifications{?since,all,participating}
 open_issues: 0
@@ -87,7 +87,7 @@ pushed_at: '2019-01-16T22:19:33Z'
 releases_url: https://api.github.com/repos/limdongjin/vuepress-plugin-sidebar-on-off/releases{/id}
 size: 9
 ssh_url: git@github.com:limdongjin/vuepress-plugin-sidebar-on-off.git
-stargazers_count: 1
+stargazers_count: 2
 stargazers_url: https://api.github.com/repos/limdongjin/vuepress-plugin-sidebar-on-off/stargazers
 statuses_url: https://api.github.com/repos/limdongjin/vuepress-plugin-sidebar-on-off/statuses/{sha}
 subscribers_count: 0
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/limdongjin/vuepress-plugin-sidebar-on-off
 teams_url: https://api.github.com/repos/limdongjin/vuepress-plugin-sidebar-on-off/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/limdongjin/vuepress-plugin-sidebar-on-off/git/trees{/sha}
-updated_at: '2019-08-14T17:20:32Z'
+updated_at: '2020-04-07T15:11:24Z'
 url: https://api.github.com/repos/limdongjin/vuepress-plugin-sidebar-on-off
-watchers: 1
-watchers_count: 1
+watchers: 2
+watchers_count: 2
 ---
 
 # @limdongjin/vuepress-plugin-sidebar-on-off

@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/ianwalter/vuepress-theme-brooks/pulls{/number}
-pushed_at: '2020-03-26T17:56:10Z'
+pushed_at: '2020-04-08T06:25:54Z'
 releases_url: https://api.github.com/repos/ianwalter/vuepress-theme-brooks/releases{/id}
-size: 628
+size: 216
 ssh_url: git@github.com:ianwalter/vuepress-theme-brooks.git
 stargazers_count: 1
 stargazers_url: https://api.github.com/repos/ianwalter/vuepress-theme-brooks/stargazers

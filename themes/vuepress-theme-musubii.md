@@ -87,7 +87,7 @@ pushed_at: '2019-10-29T14:07:55Z'
 releases_url: https://api.github.com/repos/qrac/vuepress-theme-musubii/releases{/id}
 size: 771
 ssh_url: git@github.com:qrac/vuepress-theme-musubii.git
-stargazers_count: 1
+stargazers_count: 2
 stargazers_url: https://api.github.com/repos/qrac/vuepress-theme-musubii/stargazers
 statuses_url: https://api.github.com/repos/qrac/vuepress-theme-musubii/statuses/{sha}
 subscribers_count: 1
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/qrac/vuepress-theme-musubii/tags
 teams_url: https://api.github.com/repos/qrac/vuepress-theme-musubii/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/qrac/vuepress-theme-musubii/git/trees{/sha}
-updated_at: '2019-08-02T13:17:43Z'
+updated_at: '2020-04-05T09:47:27Z'
 url: https://api.github.com/repos/qrac/vuepress-theme-musubii
-watchers: 1
-watchers_count: 1
+watchers: 2
+watchers_count: 2
 ---
 
 # vuepress-theme-musubii

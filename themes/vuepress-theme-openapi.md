@@ -60,8 +60,8 @@ name: vuepress-theme-openapi
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyMzU0MjcwMjk=
 notifications_url: https://api.github.com/repos/z3by/vuepress-theme-openapi/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
+open_issues: 1
+open_issues_count: 1
 owner:
   avatar_url: https://avatars1.githubusercontent.com/u/36268825?v=4
   events_url: https://api.github.com/users/z3by/events{/privacy}
@@ -87,9 +87,9 @@ permissions:
   push: true
 private: false
 pulls_url: https://api.github.com/repos/z3by/vuepress-theme-openapi/pulls{/number}
-pushed_at: '2020-01-27T15:09:26Z'
+pushed_at: '2020-04-05T19:12:09Z'
 releases_url: https://api.github.com/repos/z3by/vuepress-theme-openapi/releases{/id}
-size: 163
+size: 295
 ssh_url: git@github.com:z3by/vuepress-theme-openapi.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/z3by/vuepress-theme-openapi/stargazers

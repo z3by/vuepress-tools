@@ -51,8 +51,8 @@ name: vuepress-plugin-code-box
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyMDA4MzcwODY=
 notifications_url: https://api.github.com/repos/xxholly32/vuepress-plugin-code-box/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
+open_issues: 2
+open_issues_count: 2
 owner:
   avatar_url: https://avatars2.githubusercontent.com/u/6063358?v=4
   events_url: https://api.github.com/users/xxholly32/events{/privacy}
@@ -78,9 +78,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/xxholly32/vuepress-plugin-code-box/pulls{/number}
-pushed_at: '2019-09-13T13:53:12Z'
+pushed_at: '2020-04-04T21:49:18Z'
 releases_url: https://api.github.com/repos/xxholly32/vuepress-plugin-code-box/releases{/id}
-size: 632
+size: 767
 ssh_url: git@github.com:xxholly32/vuepress-plugin-code-box.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/xxholly32/vuepress-plugin-code-box/stargazers

@@ -87,7 +87,7 @@ pushed_at: '2019-10-22T05:42:49Z'
 releases_url: https://api.github.com/repos/SigureMo/vuepress-plugin-dynamic-title/releases{/id}
 size: 7
 ssh_url: git@github.com:SigureMo/vuepress-plugin-dynamic-title.git
-stargazers_count: 1
+stargazers_count: 2
 stargazers_url: https://api.github.com/repos/SigureMo/vuepress-plugin-dynamic-title/stargazers
 statuses_url: https://api.github.com/repos/SigureMo/vuepress-plugin-dynamic-title/statuses/{sha}
 subscribers_count: 1
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/SigureMo/vuepress-plugin-dynamic-title/ta
 teams_url: https://api.github.com/repos/SigureMo/vuepress-plugin-dynamic-title/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/SigureMo/vuepress-plugin-dynamic-title/git/trees{/sha}
-updated_at: '2019-10-26T05:38:11Z'
+updated_at: '2020-04-05T14:56:01Z'
 url: https://api.github.com/repos/SigureMo/vuepress-plugin-dynamic-title
-watchers: 1
-watchers_count: 1
+watchers: 2
+watchers_count: 2
 ---
 
 # vuepress-plugin-dynamic-title

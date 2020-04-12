@@ -51,8 +51,8 @@ name: vuepress-theme-typewriter
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyMTMwMjY4Nzk=
 notifications_url: https://api.github.com/repos/mAKEkr/vuepress-theme-typewriter/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
+open_issues: 0
+open_issues_count: 0
 owner:
   avatar_url: https://avatars2.githubusercontent.com/u/2796198?v=4
   events_url: https://api.github.com/users/mAKEkr/events{/privacy}
@@ -78,9 +78,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/mAKEkr/vuepress-theme-typewriter/pulls{/number}
-pushed_at: '2020-03-23T12:40:13Z'
+pushed_at: '2020-03-30T14:20:38Z'
 releases_url: https://api.github.com/repos/mAKEkr/vuepress-theme-typewriter/releases{/id}
-size: 59
+size: 60
 ssh_url: git@github.com:mAKEkr/vuepress-theme-typewriter.git
 stargazers_count: 5
 stargazers_url: https://api.github.com/repos/mAKEkr/vuepress-theme-typewriter/stargazers
@@ -93,14 +93,14 @@ tags_url: https://api.github.com/repos/mAKEkr/vuepress-theme-typewriter/tags
 teams_url: https://api.github.com/repos/mAKEkr/vuepress-theme-typewriter/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/mAKEkr/vuepress-theme-typewriter/git/trees{/sha}
-updated_at: '2020-03-23T12:40:16Z'
+updated_at: '2020-03-30T14:19:51Z'
 url: https://api.github.com/repos/mAKEkr/vuepress-theme-typewriter
 watchers: 5
 watchers_count: 5
 ---
 
 # Typewriter
-Typewriter is Blog Theme based on VuePress. design focus on article.
+Typewriter is Blog Theme based on VuePress.
 
 support responsive design, comment service(utteranc.es)
 
@@ -118,9 +118,6 @@ yarn add vuepress-theme-typewriter # yarn
 open your VuePress Project, go to `.vuepress/config.js` and add these lines read comments.
 ``` javascript
 module.exports =
-  scss: { // this configuration required for color preset using in theme
-    data: '@import "@theme/styles/global-variables.scss";'
-  },
   themeConfig: {
     nav: [ // setting global header nav items
       {
@@ -140,3 +137,6 @@ module.exports =
 }
 
 ```
+
+## Changelog
+[go to Release Page](https://github.com/mAKEkr/vuepress-theme-typewriter/releases)

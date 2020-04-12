@@ -56,8 +56,8 @@ name: vuepress-theme-live-ebook
 network_count: 2
 node_id: MDEwOlJlcG9zaXRvcnkxNjMyNzk2MTI=
 notifications_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/notifications{?since,all,participating}
-open_issues: 5
-open_issues_count: 5
+open_issues: 7
+open_issues_count: 7
 organization:
   avatar_url: https://avatars1.githubusercontent.com/u/1146?v=4
   events_url: https://api.github.com/users/netguru/events{/privacy}
@@ -102,14 +102,14 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/pulls{/number}
-pushed_at: '2020-01-10T13:22:47Z'
+pushed_at: '2020-04-10T10:10:54Z'
 releases_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/releases{/id}
-size: 886
+size: 914
 ssh_url: git@github.com:netguru/vuepress-theme-live-ebook.git
 stargazers_count: 16
 stargazers_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/stargazers
 statuses_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/statuses/{sha}
-subscribers_count: 6
+subscribers_count: 7
 subscribers_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/subscribers
 subscription_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/subscription
 svn_url: https://github.com/netguru/vuepress-theme-live-ebook
@@ -117,7 +117,7 @@ tags_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/tags
 teams_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/git/trees{/sha}
-updated_at: '2020-02-26T15:31:01Z'
+updated_at: '2020-04-10T10:10:56Z'
 url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook
 watchers: 16
 watchers_count: 16
@@ -254,6 +254,8 @@ layout: chapter
 title: "Example title of Chapter 2"
 chapter_number: "02"
 description: In this chapter you will ...
+chapter_home_intro:
+- some new custom text
 ---
 
 # Example title of Chapter 2
@@ -262,6 +264,7 @@ Chapter content goes here.
 ```
 
 - Fields: `layout`, `title` and `chapter_number` are required.
+- Field `chapter_home_intro` is optional and it is used for `<LandingChapters />` intro text. By default `<LandingChapters />` displays chapter's heading level 2.
 - `description` field is optional, if present - it will be places in proper meta tags on the page. Defaults to the description from `.vuepress/config.js`
 - Make sure that `title` in front matter corresponds to the primary heading - as in the above example.
 - Use only one H1 heading (`# ...`).
@@ -404,6 +407,8 @@ There is also an option `limitSectionInChapter` to limit displayed sections in c
   :limitSectionInChapter="7" // optional, default shows all
 />
 ```
+
+> In addition, you can pass `hasCarousel` option and then all chapters will be displayed
 
 The `intro` and image related properties are optional.
 

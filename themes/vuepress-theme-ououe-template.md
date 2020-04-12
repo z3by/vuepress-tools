@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/tolking/vuepress-theme-ououe-template/downloads
 events_url: https://api.github.com/repos/tolking/vuepress-theme-ououe-template/events
 fork: false
-forks: 2
-forks_count: 2
+forks: 3
+forks_count: 3
 forks_url: https://api.github.com/repos/tolking/vuepress-theme-ououe-template/forks
 full_name: tolking/vuepress-theme-ououe-template
 git_commits_url: https://api.github.com/repos/tolking/vuepress-theme-ououe-template/git/commits{/sha}
@@ -53,7 +53,7 @@ merges_url: https://api.github.com/repos/tolking/vuepress-theme-ououe-template/m
 milestones_url: https://api.github.com/repos/tolking/vuepress-theme-ououe-template/milestones{/number}
 mirror_url: null
 name: vuepress-theme-ououe-template
-network_count: 2
+network_count: 3
 node_id: MDEwOlJlcG9zaXRvcnkxNzEwNzE2MjQ=
 notifications_url: https://api.github.com/repos/tolking/vuepress-theme-ououe-template/notifications{?since,all,participating}
 open_issues: 0

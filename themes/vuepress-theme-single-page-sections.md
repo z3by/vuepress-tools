@@ -84,9 +84,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/ptandler/vuepress-theme-single-page-sections/pulls{/number}
-pushed_at: '2020-03-19T10:30:52Z'
+pushed_at: '2020-04-01T18:53:39Z'
 releases_url: https://api.github.com/repos/ptandler/vuepress-theme-single-page-sections/releases{/id}
-size: 3106
+size: 3117
 ssh_url: git@github.com:ptandler/vuepress-theme-single-page-sections.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/ptandler/vuepress-theme-single-page-sections/stargazers
@@ -99,7 +99,7 @@ tags_url: https://api.github.com/repos/ptandler/vuepress-theme-single-page-secti
 teams_url: https://api.github.com/repos/ptandler/vuepress-theme-single-page-sections/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/ptandler/vuepress-theme-single-page-sections/git/trees{/sha}
-updated_at: '2020-03-19T10:30:54Z'
+updated_at: '2020-04-01T18:53:01Z'
 url: https://api.github.com/repos/ptandler/vuepress-theme-single-page-sections
 watchers: 0
 watchers_count: 0
@@ -108,7 +108,7 @@ watchers_count: 0
 # Single Page VuePress Theme
 
 This these extends the VuePress default theme `@vuepress/theme-default` for a layout for single page sites that contain several sections, each covering at least one view height.
-I this this is easier described with a picture:
+I think this is easier described with a picture:
 
 **Desktop version:**
 
@@ -135,33 +135,72 @@ It also defines a couple of social icons that you can use to link to your online
   ```md
   <Contact-Phone title="Phone" country="49" city="1234" number="56789" />
   <br/>
-  <Contact-Email name="someone" domain="example.com" /> <!-- webmaster is the default name -->
+  <Contact-Email name="someone" domain="example.com" /> <!-- webmaster is the default name if not passed -->
+  ```
+  * non-digits from phone numbers are stripped to create the `tel:` URL.
+- For public numbers you can choose whether or not to obfuscate emails and phone numers by passing the `obfuscate` prop (which defaults to `true`):
+  ```md
+  <Contact-Phone title="Phone" country="49" city="1234" number="56789" obfuscate="false" />
   ```
 - Privacy-friendly way to pass sensitive contact information (e.g. mobile number, private email, messanger name) via URL in (e.g.) email footer - that will
-  be included in the homepage exactly as the other icons. Some information can be passed directly in VuePress:
+  be included in the homepage exactly as the other icons. Some information can be passed directly in VuePress, see below.
 
-  ```md
-  <Contact-Details
-    :email_as_icon="false" 
-    :phone_as_icon="false"
-    :mobile_as_icon="false"
-    linkedin="petertandler"
-    xing="Peter_Tandler"
-    github="ptandler"
-    keybase="ptandler"
-    twitter="PeterTandler"
-    researchgate="Peter_Tandler"
-    />
-  ```
+## Combine personal and public contact information on your homepage
 
-  If called like: https://ptandler.github.io/vuepress-theme-single-page-sections/?email=myname@example.com&skype=mySkypeId
+Do you know this situation? There are contact information such as your private email, mobile number, 
+or instant messengers that you don't want to be available for everyone.
+- But on the other side, it would be nice if you could send your complete contact information to selected contacts
+you trust in a way that is nicely displayed.
 
-  The pattern for phone numbers is: `+country-city-number-ext` where _country_ and _city_ are optional and _ext_ has no special treatment but will be part of the number. This pattern allows consistent formatting of phone numbers. Make sure that the "+" is escaped properly as '%2B'
-  (some browsers might convert it into a space instead).
+Facing this issue, I came up with the idea that I could amend my homepage such that I can create a
+*personal link* that includes the contact information I would like to make available to *some* contacts.
+And for those, additional information should be displayed.
+Or even better, I could create *different links* for *different groups of contacts*, such as my friends, business contacts
+and so on.
 
-  Example https://ptandler.github.io/vuepress-theme-single-page-sections/?phone=%2B49-1234-56789-0
+However, I didn't want to have the personal contact information somewhere hidden in the HTML or JavaScript to really 
+protect privacy here.
 
-## Example
+So I came up with the idea that I could *pass* the personal contact information to the homepage using *URL parameters*.
+The vue theme then, will check for contact information passed in the URL, include it *and stores it in local storage* to 
+be available later on for this person, e.g. when navigating. The theme treats information found in the URL, the local storage, 
+or passed from the markdown files to the theme's Vue component `<Contact-Details>` in exactly the same way.
+
+On the other hand, contact information provided directly to the Vue component is obfuscated to provide some challenges 
+for harvesting bots and to avoid spam.
+
+Put contact information that should be available to the public directly in your markdown:
+
+```md
+<Contact-Details
+  :email_as_icon="false" 
+  :phone_as_icon="false"
+  :mobile_as_icon="false"
+  linkedin="myLinkedInId"
+  xing="myXINGId"
+  github="myGitHubId"
+  keybase="myKeybaseId"
+  twitter="myTwitterId"
+  researchgate="myResearchGateId"
+  />
+```
+
+Then, for your friends and business contacts you can pass additional information in the URL (e.g. in you email footer):
+For example if the example homepage here is called like: https://ptandler.github.io/vuepress-theme-single-page-sections/?email=myname@example.com&skype=mySkypeId
+then the email and skype id is also included in the list of contact details.
+
+To pass phone numbers, the pattern for phone numbers is: `+country-city-number-ext` where _country_ and _city_ are optional and _ext_ has no special treatment but will be part of the number. This pattern allows consistent formatting of phone numbers. Make sure that the "+" is escaped properly as `%2B`
+(some browsers might convert it into a space instead) and better to escape spaces as `%20`.
+
+You can pass a `phone` and a `mobile` number.
+
+And you can define a custom title for phone and mobile: `phone.title`.
+
+Example https://ptandler.github.io/vuepress-theme-single-page-sections/?phone=%2B49-1234-56789-0&phone.title=Telefon
+
+See [`Contact/Details.vue`](global-components/Contact/Details.vue) for the list of supported parameters (in `const attributes`).
+
+# Example
 
 In the [`example` directory](https://raw.githubusercontent.com/Peter/vuepress-theme-single-page-sections/master/example/README.md), there is a simple sample project.
 
@@ -230,5 +269,5 @@ The colors used are defined in `styles\palette.styl` and can be customized to fi
 
 This theme overwrites two components from the default theme:
 
-- `components/Navbar.vue`
-- `components/Sidebar.vue`
+- [Navbar.vue](components/Navbar.vue)
+- [Sidebar.vue](components/Sidebar.vue)

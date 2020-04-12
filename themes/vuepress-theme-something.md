@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/vczyh/vuepress-theme-something/downloads
 events_url: https://api.github.com/repos/vczyh/vuepress-theme-something/events
 fork: false
-forks: 0
-forks_count: 0
+forks: 1
+forks_count: 1
 forks_url: https://api.github.com/repos/vczyh/vuepress-theme-something/forks
 full_name: vczyh/vuepress-theme-something
 git_commits_url: https://api.github.com/repos/vczyh/vuepress-theme-something/git/commits{/sha}
@@ -48,7 +48,7 @@ merges_url: https://api.github.com/repos/vczyh/vuepress-theme-something/merges
 milestones_url: https://api.github.com/repos/vczyh/vuepress-theme-something/milestones{/number}
 mirror_url: null
 name: vuepress-theme-something
-network_count: 0
+network_count: 1
 node_id: MDEwOlJlcG9zaXRvcnkyNDk0MjU3Mzg=
 notifications_url: https://api.github.com/repos/vczyh/vuepress-theme-something/notifications{?since,all,participating}
 open_issues: 0
@@ -78,9 +78,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/vczyh/vuepress-theme-something/pulls{/number}
-pushed_at: '2020-03-26T13:31:54Z'
+pushed_at: '2020-04-11T14:44:54Z'
 releases_url: https://api.github.com/repos/vczyh/vuepress-theme-something/releases{/id}
-size: 47
+size: 91
 ssh_url: git@github.com:vczyh/vuepress-theme-something.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/vczyh/vuepress-theme-something/stargazers
@@ -93,16 +93,19 @@ tags_url: https://api.github.com/repos/vczyh/vuepress-theme-something/tags
 teams_url: https://api.github.com/repos/vczyh/vuepress-theme-something/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/vczyh/vuepress-theme-something/git/trees{/sha}
-updated_at: '2020-03-26T13:31:56Z'
+updated_at: '2020-04-11T14:44:57Z'
 url: https://api.github.com/repos/vczyh/vuepress-theme-something
 watchers: 0
 watchers_count: 0
 ---
 
-### 快速开始
+
+[![Join the chat at https://gitter.im/vuepress-theme-something/community](https://badges.gitter.im/vuepress-theme-something/community.svg)](https://gitter.im/vuepress-theme-something/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+## 快速开始
 
 ```bash
-npm install vuepress-theme-somethng --save-dev
+npm install vuepress-theme-something --save-dev
 ```
 
 通过 `config.js` 使用主题
@@ -112,17 +115,20 @@ module.exports = {
 }
 ```
 
-### 使用
+## 使用
 
-除了支持默认主题的所有配置外，本主题提供了三个Layout
+除了支持默认主题的所有配置外，本主题提供了多个Layout
 
-`PostsLayout`  显示文章列表
+| layout          | 功能         |
+| --------------- | ------------ |
+| PostsLayout     | 显示文章列表 |
+| TagsLayout      | 标签云       |
+| ArchiveLayout   | 归档         |
+| WaterfallLayout | 照片瀑布流   |
 
-`TagsLayout`  标签云
+### PostsLayout
 
-`ArchiveLayout` 归档
-
-如果你想要添加一个博客列表页，先根据官方文档配置导航栏，例如 `/blog`，然后创建文件夹 `docs/blog/index.md`
+使用 `PostsLayout` 的页面会显示为博客列表页，先根据官方文档配置导航栏，例如 `/blog/`，然后创建 `docs/blog/index.md` ，那么列表的内容就是 `blog` 文件夹下的所有文章
 
 ```
 ---
@@ -130,7 +136,44 @@ layout: PostsLayout
 ---
 ```
 
-### 其他
+### TagsLayout
+
+使用 `TagsLayout` 的页面会显示为标签云
+
+```
+---
+layout: TagsLayout
+---
+```
+
+### ArchiveLayout
+
+```
+---
+layout: ArchiveLayout
+---
+```
+
+### WaterfallLayout
+
+```
+---
+layout: ArchiveLayout
+pictures:
+  - src: http://p.vczyh.com/blog/IMG_1096(20200128-152110).JPG
+    info: 科比绝杀
+  - src: http://p.vczyh.com/blog/IMG_1097(20200128-153100).JPG
+  - src: http://p.vczyh.com/blog/IMG_1102.GIF
+---
+```
+
+| 参数     | 描述               |
+| -------- | ------------------ |
+| pictures | 表示图片数组       |
+| src      | 图片链接           |
+| info     | 图片描述，**可选** |
+
+## 其他
 
 vuepress-theme-something 刚刚起步，需要不断完善，之后会不断优化，如有不足，请大家多多指教~
 

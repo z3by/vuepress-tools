@@ -87,7 +87,7 @@ pushed_at: '2020-03-17T01:30:18Z'
 releases_url: https://api.github.com/repos/yuchanns/vuepress-theme-hermit/releases{/id}
 size: 603
 ssh_url: git@github.com:yuchanns/vuepress-theme-hermit.git
-stargazers_count: 0
+stargazers_count: 1
 stargazers_url: https://api.github.com/repos/yuchanns/vuepress-theme-hermit/stargazers
 statuses_url: https://api.github.com/repos/yuchanns/vuepress-theme-hermit/statuses/{sha}
 subscribers_count: 0
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/yuchanns/vuepress-theme-hermit/tags
 teams_url: https://api.github.com/repos/yuchanns/vuepress-theme-hermit/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/yuchanns/vuepress-theme-hermit/git/trees{/sha}
-updated_at: '2020-03-17T01:30:12Z'
+updated_at: '2020-03-30T17:51:29Z'
 url: https://api.github.com/repos/yuchanns/vuepress-theme-hermit
-watchers: 0
-watchers_count: 0
+watchers: 1
+watchers_count: 1
 ---
 
 # vuepress-theme-hermit

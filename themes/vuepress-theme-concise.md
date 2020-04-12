@@ -88,7 +88,7 @@ pushed_at: '2020-03-18T08:19:41Z'
 releases_url: https://api.github.com/repos/YoungsunLi/vuepress-theme-concise/releases{/id}
 size: 26
 ssh_url: git@github.com:YoungsunLi/vuepress-theme-concise.git
-stargazers_count: 5
+stargazers_count: 6
 stargazers_url: https://api.github.com/repos/YoungsunLi/vuepress-theme-concise/stargazers
 statuses_url: https://api.github.com/repos/YoungsunLi/vuepress-theme-concise/statuses/{sha}
 subscribers_count: 0
@@ -99,10 +99,10 @@ tags_url: https://api.github.com/repos/YoungsunLi/vuepress-theme-concise/tags
 teams_url: https://api.github.com/repos/YoungsunLi/vuepress-theme-concise/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/YoungsunLi/vuepress-theme-concise/git/trees{/sha}
-updated_at: '2020-03-18T08:19:44Z'
+updated_at: '2020-04-03T13:58:00Z'
 url: https://api.github.com/repos/YoungsunLi/vuepress-theme-concise
-watchers: 5
-watchers_count: 5
+watchers: 6
+watchers_count: 6
 ---
 
 # 卡片式首页呈现的VuePress主题

@@ -14,7 +14,7 @@ contributors_url: https://api.github.com/repos/xiaoluoboding/vuepress-plugin-geo
 created_at: '2020-03-05T03:27:01Z'
 default_branch: master
 deployments_url: https://api.github.com/repos/xiaoluoboding/vuepress-plugin-geopattern/deployments
-description: "\U0001F320A geopattern adapter for vuepress"
+description: "\U0001F386A geopattern adapter for VuePress"
 disabled: false
 downloads_url: https://api.github.com/repos/xiaoluoboding/vuepress-plugin-geopattern/downloads
 events_url: https://api.github.com/repos/xiaoluoboding/vuepress-plugin-geopattern/events
@@ -32,7 +32,7 @@ has_issues: true
 has_pages: false
 has_projects: true
 has_wiki: true
-homepage: https://codesandbox.io/s/musing-surf-twidv
+homepage: https://codesandbox.io/embed/vuepress-plugin-geopattern-twidv?fontsize=14&hidenavigation=1&theme=dark
 hooks_url: https://api.github.com/repos/xiaoluoboding/vuepress-plugin-geopattern/hooks
 html_url: https://github.com/xiaoluoboding/vuepress-plugin-geopattern
 id: 245059616
@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/xiaoluoboding/vuepress-plugin-geopattern/pulls{/number}
-pushed_at: '2020-03-05T14:26:13Z'
+pushed_at: '2020-03-28T08:15:17Z'
 releases_url: https://api.github.com/repos/xiaoluoboding/vuepress-plugin-geopattern/releases{/id}
-size: 4
+size: 7
 ssh_url: git@github.com:xiaoluoboding/vuepress-plugin-geopattern.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/xiaoluoboding/vuepress-plugin-geopattern/stargazers
@@ -98,30 +98,36 @@ tags_url: https://api.github.com/repos/xiaoluoboding/vuepress-plugin-geopattern/
 teams_url: https://api.github.com/repos/xiaoluoboding/vuepress-plugin-geopattern/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/xiaoluoboding/vuepress-plugin-geopattern/git/trees{/sha}
-updated_at: '2020-03-27T14:22:18Z'
+updated_at: '2020-03-28T08:15:46Z'
 url: https://api.github.com/repos/xiaoluoboding/vuepress-plugin-geopattern
 watchers: 0
 watchers_count: 0
 ---
 
-# Vuepress Plugin GeoPattern
+# VuePress Plugin GeoPattern
+
+<p align="left">
+  <a href="https://www.npmjs.com/package/vuepress-plugin-geopattern"><img src="https://img.shields.io/npm/v/vuepress-plugin-geopattern.svg?maxAge=2592000"></a>
+  <a href="https://www.npmjs.com/package/vuepress-plugin-geopattern"><img src="https://img.shields.io/npm/dt/vuepress-plugin-geopattern.svg"></a>
+  <a href="https://raw.githubusercontent.com/vueblocks/vuepress-plugin-geopattern/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
+</p>
 
 Register a global `<GeoPattern />` component for VuePress.
 
 This component generate a beautiful random geometric pattern & random color background images from a string you given.
 
-> This plugin is a adapter of [geopattern](https://github.com/btmills/geopattern)
+> This plugin is a adapter of [geopattern](https://github.com/btmills/geopattern) for VuePress
 
 ## See Demo on CodeSandbox
 
-[![Edit vuepress-plugin-geopattern](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/musing-surf-twidv?fontsize=14&hidenavigation=1&theme=dark)
+[![Edit vuepress-plugin-geopattern](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/vuepress-plugin-geopattern-twidv?fontsize=14&hidenavigation=1&theme=dark)
 
 ## Installation
 
 ```bash
 yarn add vuepress-plugin-geopattern -S
 or
-npm i vuepress-plugin-disqus -S
+npm i vuepress-plugin-geopattern -S
 ```
 
 ## Register the plugin
@@ -140,13 +146,33 @@ module.exports = {
 
 ## Usage
 
+### Default
+
 > Only background image, you must give the height of the element
 
 ```vue
-<GeoPattern style="height: 80px;" />
+<GeoPattern style="height: 160px;" />
 ```
 
-> With the custom slot, in the case, you can let the slot element control the pattern's height
+### Custom pattern
+
+If you don't provide a seed, the pattern's seed is random.
+
+In VuePress you can use [global computed properties](https://vuepress.vuejs.org/guide/global-computed.html) such as use `this.$page.title` as a seed, generate a geopattern by the page title.
+
+Each page title is different, so you got difference geopattern.
+
+```vue
+<GeoPattern
+  style="height: 160px;"
+  seed="$page.title"
+  :colorHexs="['F', '4', 'A']"
+/>
+```
+
+### With the custom slot
+
+> In the case, you can let the slot element control the pattern's height
 
 ```vue
 <geo-pattern>
@@ -162,13 +188,18 @@ module.exports = {
 
 | Props | Description | Type | Default |
 | :---: | :---------: | :--: | :-----: |
-| colorHexs | Given array elements is hexadecimal color value [0-F] | Array | `['3', '9' 'C' ]` |
+| seed | Will be used as the seed for generation | String | `vuepress-plugin-geopattern` |
+| colorHexs | Given array elements is hexadecimal color value [0-F] | Array | `['3', '9', 'C' ]` |
 | baseColor | Controls the relative background color of the generated image. | String | `933c3c` |
 
 ## Slot
 
 `<GeoPattern />` component provide a custom slot, you can write some element on the generated pattern.
 
+## Related VuePress Plugin
+
+* [vuepress-plugin-hero-pattern](https://github.com/xiaoluoboding/vuepress-plugin-hero-pattern) - Hero Patterns is a set of repeatable, seemless SVG background patterns
+
 ## License
 
-MIT
+MIT @ [xiaoluoboding](https://github.com/xiaoluoboding)

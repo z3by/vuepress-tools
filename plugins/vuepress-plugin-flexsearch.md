@@ -23,8 +23,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/z3by/vuepress-plugin-flexsearch/downloads
 events_url: https://api.github.com/repos/z3by/vuepress-plugin-flexsearch/events
 fork: false
-forks: 1
-forks_count: 1
+forks: 2
+forks_count: 2
 forks_url: https://api.github.com/repos/z3by/vuepress-plugin-flexsearch/forks
 full_name: z3by/vuepress-plugin-flexsearch
 git_commits_url: https://api.github.com/repos/z3by/vuepress-plugin-flexsearch/git/commits{/sha}
@@ -57,11 +57,11 @@ merges_url: https://api.github.com/repos/z3by/vuepress-plugin-flexsearch/merges
 milestones_url: https://api.github.com/repos/z3by/vuepress-plugin-flexsearch/milestones{/number}
 mirror_url: null
 name: vuepress-plugin-flexsearch
-network_count: 1
+network_count: 2
 node_id: MDEwOlJlcG9zaXRvcnkyMzM5MzIzMzk=
 notifications_url: https://api.github.com/repos/z3by/vuepress-plugin-flexsearch/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
+open_issues: 2
+open_issues_count: 2
 owner:
   avatar_url: https://avatars1.githubusercontent.com/u/36268825?v=4
   events_url: https://api.github.com/users/z3by/events{/privacy}
@@ -91,7 +91,7 @@ pushed_at: '2020-03-26T06:39:43Z'
 releases_url: https://api.github.com/repos/z3by/vuepress-plugin-flexsearch/releases{/id}
 size: 396
 ssh_url: git@github.com:z3by/vuepress-plugin-flexsearch.git
-stargazers_count: 8
+stargazers_count: 9
 stargazers_url: https://api.github.com/repos/z3by/vuepress-plugin-flexsearch/stargazers
 statuses_url: https://api.github.com/repos/z3by/vuepress-plugin-flexsearch/statuses/{sha}
 subscribers_count: 2
@@ -102,10 +102,10 @@ tags_url: https://api.github.com/repos/z3by/vuepress-plugin-flexsearch/tags
 teams_url: https://api.github.com/repos/z3by/vuepress-plugin-flexsearch/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/z3by/vuepress-plugin-flexsearch/git/trees{/sha}
-updated_at: '2020-03-26T06:39:42Z'
+updated_at: '2020-03-30T03:24:38Z'
 url: https://api.github.com/repos/z3by/vuepress-plugin-flexsearch
-watchers: 8
-watchers_count: 8
+watchers: 9
+watchers_count: 9
 ---
 
 [![https://badgen.net/npm/v/vuepress-plugin-flexsearch](https://badgen.net/npm/v/vuepress-plugin-flexsearch)](https://www.npmjs.com/package/vuepress-plugin-flexsearch)

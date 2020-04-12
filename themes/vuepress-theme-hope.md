@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope/downloads
 events_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope/events
 fork: false
-forks: 1
-forks_count: 1
+forks: 2
+forks_count: 2
 forks_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope/forks
 full_name: Mister-Hope/vuepress-theme-hope
 git_commits_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope/git/commits{/sha}
@@ -53,11 +53,11 @@ merges_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope/merges
 milestones_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope/milestones{/number}
 mirror_url: null
 name: vuepress-theme-hope
-network_count: 1
+network_count: 2
 node_id: MDEwOlJlcG9zaXRvcnkyMTU1MjI0MDM=
 notifications_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope/notifications{?since,all,participating}
-open_issues: 8
-open_issues_count: 8
+open_issues: 5
+open_issues_count: 5
 owner:
   avatar_url: https://avatars0.githubusercontent.com/u/33315834?v=4
   events_url: https://api.github.com/users/Mister-Hope/events{/privacy}
@@ -83,11 +83,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope/pulls{/number}
-pushed_at: '2020-03-27T21:20:37Z'
+pushed_at: '2020-04-11T15:20:49Z'
 releases_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope/releases{/id}
-size: 20224
+size: 24073
 ssh_url: git@github.com:Mister-Hope/vuepress-theme-hope.git
-stargazers_count: 12
+stargazers_count: 15
 stargazers_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope/stargazers
 statuses_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope/statuses/{sha}
 subscribers_count: 1
@@ -98,13 +98,13 @@ tags_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope/tags
 teams_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope/git/trees{/sha}
-updated_at: '2020-03-26T13:03:34Z'
+updated_at: '2020-04-11T13:24:37Z'
 url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope
-watchers: 12
-watchers_count: 12
+watchers: 15
+watchers_count: 15
 ---
 
-# vuepress-theme-hope ![Status](https://img.shields.io/badge/Status-W.I.P-red)
+# vuepress-theme-hope
 
 [![Author: Mr.Hope](https://img.shields.io/badge/作者-Mr.Hope-blue.svg?style=for-the-badge)](https://mrhope.site)
 [![License](https://img.shields.io/npm/l/vuepress-theme-hope.svg?style=for-the-badge)](https://github.com/Mister-Hope/vuepress-theme-hope/blob/master/LICENSE)

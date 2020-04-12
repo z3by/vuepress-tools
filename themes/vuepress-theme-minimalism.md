@@ -84,9 +84,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/onnezezt/vuepress-theme-minimalism/pulls{/number}
-pushed_at: '2020-03-18T16:08:01Z'
+pushed_at: '2020-04-07T10:25:37Z'
 releases_url: https://api.github.com/repos/onnezezt/vuepress-theme-minimalism/releases{/id}
-size: 234
+size: 272
 ssh_url: git@github.com:onnezezt/vuepress-theme-minimalism.git
 stargazers_count: 1
 stargazers_url: https://api.github.com/repos/onnezezt/vuepress-theme-minimalism/stargazers
@@ -99,7 +99,7 @@ tags_url: https://api.github.com/repos/onnezezt/vuepress-theme-minimalism/tags
 teams_url: https://api.github.com/repos/onnezezt/vuepress-theme-minimalism/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/onnezezt/vuepress-theme-minimalism/git/trees{/sha}
-updated_at: '2020-03-18T16:08:05Z'
+updated_at: '2020-04-07T10:25:39Z'
 url: https://api.github.com/repos/onnezezt/vuepress-theme-minimalism
 watchers: 1
 watchers_count: 1

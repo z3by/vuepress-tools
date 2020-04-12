@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/tolking/vuepress-plugin-img-lazy/pulls{/number}
-pushed_at: '2020-03-14T06:10:08Z'
+pushed_at: '2020-04-04T02:39:32Z'
 releases_url: https://api.github.com/repos/tolking/vuepress-plugin-img-lazy/releases{/id}
-size: 387
+size: 555
 ssh_url: git@github.com:tolking/vuepress-plugin-img-lazy.git
 stargazers_count: 8
 stargazers_url: https://api.github.com/repos/tolking/vuepress-plugin-img-lazy/stargazers
@@ -98,7 +98,7 @@ tags_url: https://api.github.com/repos/tolking/vuepress-plugin-img-lazy/tags
 teams_url: https://api.github.com/repos/tolking/vuepress-plugin-img-lazy/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/tolking/vuepress-plugin-img-lazy/git/trees{/sha}
-updated_at: '2020-03-27T18:33:34Z'
+updated_at: '2020-04-04T02:38:02Z'
 url: https://api.github.com/repos/tolking/vuepress-plugin-img-lazy
 watchers: 8
 watchers_count: 8
@@ -171,6 +171,12 @@ export default {
 </template>
 ```
 
+**If you registered as global components, you can use it directly in the `markdown` file**
+
+``` md
+<img-lazy src="/img.jpg" />
+```
+
 ## Options
 
 ### useLoading
@@ -194,3 +200,5 @@ If you need to use both `Base URL` and `<img/>` labels, refer to
 ``` md
 <img :data-src="$withBase('/img.png')" loading="lazy" class="lazy">
 ```
+
+2. In order to better supporting image lazy loading, it is better to specify the size of the image (in some themes, you need to set `display` as `inline block` or `block` separately), so as to ensure that the image can occupy the position it should occupy

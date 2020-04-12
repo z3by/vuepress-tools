@@ -51,8 +51,8 @@ name: vuepress-plugin-gitalk-maker
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyMDcwNjk3ODg=
 notifications_url: https://api.github.com/repos/xxholly32/vuepress-plugin-gitalk-maker/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
+open_issues: 2
+open_issues_count: 2
 owner:
   avatar_url: https://avatars2.githubusercontent.com/u/6063358?v=4
   events_url: https://api.github.com/users/xxholly32/events{/privacy}
@@ -78,9 +78,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/xxholly32/vuepress-plugin-gitalk-maker/pulls{/number}
-pushed_at: '2019-09-13T13:59:37Z'
+pushed_at: '2020-04-05T02:13:32Z'
 releases_url: https://api.github.com/repos/xxholly32/vuepress-plugin-gitalk-maker/releases{/id}
-size: 256
+size: 390
 ssh_url: git@github.com:xxholly32/vuepress-plugin-gitalk-maker.git
 stargazers_count: 10
 stargazers_url: https://api.github.com/repos/xxholly32/vuepress-plugin-gitalk-maker/stargazers

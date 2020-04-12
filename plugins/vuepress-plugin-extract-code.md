@@ -57,8 +57,8 @@ name: vuepress-plugin-extract-code
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyMTg4OTc3NjI=
 notifications_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-extract-code/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
+open_issues: 1
+open_issues_count: 1
 organization:
   avatar_url: https://avatars0.githubusercontent.com/u/54167020?v=4
   events_url: https://api.github.com/users/vuepress-reco/events{/privacy}
@@ -107,7 +107,7 @@ pushed_at: '2019-11-03T09:51:34Z'
 releases_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-extract-code/releases{/id}
 size: 21
 ssh_url: git@github.com:vuepress-reco/vuepress-plugin-extract-code.git
-stargazers_count: 3
+stargazers_count: 4
 stargazers_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-extract-code/stargazers
 statuses_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-extract-code/statuses/{sha}
 subscribers_count: 1
@@ -118,10 +118,10 @@ tags_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-extract-cod
 teams_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-extract-code/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-extract-code/git/trees{/sha}
-updated_at: '2020-03-05T16:24:01Z'
+updated_at: '2020-04-10T02:55:29Z'
 url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-extract-code
-watchers: 3
-watchers_count: 3
+watchers: 4
+watchers_count: 4
 ---
 
 # @vuepress-reco/vuepress-plugin-extract-code

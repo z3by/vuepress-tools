@@ -56,8 +56,8 @@ name: vuepress-theme-resume
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyMTM1Nzg3NDE=
 notifications_url: https://api.github.com/repos/wyx-tree/vuepress-theme-resume/notifications{?since,all,participating}
-open_issues: 2
-open_issues_count: 2
+open_issues: 3
+open_issues_count: 3
 owner:
   avatar_url: https://avatars0.githubusercontent.com/u/56290638?v=4
   events_url: https://api.github.com/users/wyx-tree/events{/privacy}
@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/wyx-tree/vuepress-theme-resume/pulls{/number}
-pushed_at: '2019-10-08T18:25:50Z'
+pushed_at: '2020-04-06T12:10:24Z'
 releases_url: https://api.github.com/repos/wyx-tree/vuepress-theme-resume/releases{/id}
-size: 1016
+size: 1084
 ssh_url: git@github.com:wyx-tree/vuepress-theme-resume.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/wyx-tree/vuepress-theme-resume/stargazers

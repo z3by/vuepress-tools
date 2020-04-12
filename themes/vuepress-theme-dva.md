@@ -56,8 +56,8 @@ name: vuepress-theme-dva
 network_count: 3
 node_id: MDEwOlJlcG9zaXRvcnkyNDAxNTQwMTg=
 notifications_url: https://api.github.com/repos/lhj233/vuepress-theme-dva/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
+open_issues: 0
+open_issues_count: 0
 owner:
   avatar_url: https://avatars0.githubusercontent.com/u/50663255?v=4
   events_url: https://api.github.com/users/lhj233/events{/privacy}
@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/lhj233/vuepress-theme-dva/pulls{/number}
-pushed_at: '2020-03-15T07:11:48Z'
+pushed_at: '2020-04-03T01:05:00Z'
 releases_url: https://api.github.com/repos/lhj233/vuepress-theme-dva/releases{/id}
-size: 607
+size: 519
 ssh_url: git@github.com:lhj233/vuepress-theme-dva.git
 stargazers_count: 4
 stargazers_url: https://api.github.com/repos/lhj233/vuepress-theme-dva/stargazers
@@ -98,7 +98,7 @@ tags_url: https://api.github.com/repos/lhj233/vuepress-theme-dva/tags
 teams_url: https://api.github.com/repos/lhj233/vuepress-theme-dva/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/lhj233/vuepress-theme-dva/git/trees{/sha}
-updated_at: '2020-03-27T16:15:18Z'
+updated_at: '2020-04-03T01:04:56Z'
 url: https://api.github.com/repos/lhj233/vuepress-theme-dva
 watchers: 4
 watchers_count: 4

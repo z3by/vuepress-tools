@@ -14,7 +14,7 @@ contributors_url: https://api.github.com/repos/kawarimidoll/vuepress-plugin-tail
 created_at: '2020-03-21T05:19:45Z'
 default_branch: master
 deployments_url: https://api.github.com/repos/kawarimidoll/vuepress-plugin-tailwind/deployments
-description: VuePress plugin to use `tailwindcss` and `postcss-purgecss` easily
+description: A VuePress plugin to use `tailwindcss` and `postcss-purgecss` easily
 disabled: false
 downloads_url: https://api.github.com/repos/kawarimidoll/vuepress-plugin-tailwind/downloads
 events_url: https://api.github.com/repos/kawarimidoll/vuepress-plugin-tailwind/events
@@ -32,7 +32,7 @@ has_issues: true
 has_pages: false
 has_projects: true
 has_wiki: true
-homepage: null
+homepage: ''
 hooks_url: https://api.github.com/repos/kawarimidoll/vuepress-plugin-tailwind/hooks
 html_url: https://github.com/kawarimidoll/vuepress-plugin-tailwind
 id: 248912034
@@ -56,8 +56,8 @@ name: vuepress-plugin-tailwind
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyNDg5MTIwMzQ=
 notifications_url: https://api.github.com/repos/kawarimidoll/vuepress-plugin-tailwind/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
+open_issues: 1
+open_issues_count: 1
 owner:
   avatar_url: https://avatars0.githubusercontent.com/u/8146876?v=4
   events_url: https://api.github.com/users/kawarimidoll/events{/privacy}
@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/kawarimidoll/vuepress-plugin-tailwind/pulls{/number}
-pushed_at: '2020-03-26T00:48:26Z'
+pushed_at: '2020-04-09T08:05:45Z'
 releases_url: https://api.github.com/repos/kawarimidoll/vuepress-plugin-tailwind/releases{/id}
-size: 31
+size: 53
 ssh_url: git@github.com:kawarimidoll/vuepress-plugin-tailwind.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/kawarimidoll/vuepress-plugin-tailwind/stargazers
@@ -98,7 +98,7 @@ tags_url: https://api.github.com/repos/kawarimidoll/vuepress-plugin-tailwind/tag
 teams_url: https://api.github.com/repos/kawarimidoll/vuepress-plugin-tailwind/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/kawarimidoll/vuepress-plugin-tailwind/git/trees{/sha}
-updated_at: '2020-03-26T00:48:24Z'
+updated_at: '2020-04-05T02:57:02Z'
 url: https://api.github.com/repos/kawarimidoll/vuepress-plugin-tailwind
 watchers: 0
 watchers_count: 0
@@ -106,9 +106,17 @@ watchers_count: 0
 
 # @kawarimidoll/vuepress-plugin-tailwind
 
-VuePress plugin to use `tailwindcss` and `postcss-purgecss` easily.
+[![GitHub package.json version](https://img.shields.io/github/package-json/v/kawarimidoll/vuepress-plugin-tailwind?logo=github&style=for-the-badge)](https://github.com/kawarimidoll/vuepress-plugin-tailwind/blob/master/package.json)
+[![npm downloads](https://img.shields.io/npm/dt/@kawarimidoll/vuepress-plugin-tailwind?logo=npm&style=for-the-badge)](https://www.npmjs.com/package/@kawarimidoll/vuepress-plugin-tailwind)
+[![Dependencies](https://img.shields.io/david/kawarimidoll/vuepress-plugin-tailwind?color=blue&logo=dependabot&style=for-the-badge)](https://github.com/kawarimidoll/vuepress-plugin-tailwind/pulls?q=dependabot)
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/kawarimidoll/vuepress-plugin-tailwind?logo=javascript&style=for-the-badge)](https://github.com/kawarimidoll/vuepress-plugin-tailwind/blob/master/index.js)
+[![LICENSE](https://img.shields.io/github/license/kawarimidoll/vuepress-plugin-tailwind?style=for-the-badge)](https://github.com/kawarimidoll/vuepress-plugin-tailwind/blob/master/LICENSE)
 
-This plugin is a wrapper of [official installation flow of Tailwind CSS](https://tailwindcss.com/docs/controlling-file-size/#removing-unused-css).
+A VuePress plugin to use [`tailwindcss`](https://github.com/tailwindcss/tailwindcss) and [`postcss-purgecss`](https://github.com/FullHuman/purgecss) easily.
+
+With this plugin, you can use any classes defined by Tailwind CSS, and the unused classes are automatically purged by PurgeCSS (production only).
+
+This plugin is based on [the official guide of Tailwind CSS](https://tailwindcss.com/docs/controlling-file-size/#removing-unused-css).
 
 ## Usage
 
@@ -118,7 +126,7 @@ This plugin is a wrapper of [official installation flow of Tailwind CSS](https:/
 yarn add @kawarimidoll/vuepress-plugin-tailwind
 ```
 
-2. Add import statement in `.vuepress/styles/index.styl` with [whitelisting feature](https://purgecss.com/whitelisting.html#in-the-css-directly) :
+2. Add `@tailwind` import statements to the beginning of `.vuepress/styles/index.styl` with [whitelisting feature](https://purgecss.com/whitelisting.html#in-the-css-directly) :
 
 ```styl
 /* purgecss start ignore */
@@ -126,9 +134,11 @@ yarn add @kawarimidoll/vuepress-plugin-tailwind
 @tailwind components;
 /* purgecss end ignore */
 @tailwind utilities;
+
+// Add your style definitions...
 ```
 
-3. Load the plugin in `.vuepress/config.js` :
+3. Load this plugin in `.vuepress/config.js` :
 
 ```js
 module.exports = {
@@ -149,7 +159,7 @@ _These configuration files are not created automatically. You have to create the
 
 - default: `undefined`
 
-See [Configuration guide of Tailwind CSS](https://tailwindcss.com/docs/configuration/).
+If you want to use this option, refer to [the Tailwind CSS configuration guide](https://tailwindcss.com/docs/configuration/).
 
 ### purgecssConfig
 
@@ -166,7 +176,8 @@ See [Configuration guide of Tailwind CSS](https://tailwindcss.com/docs/configura
 }
 ```
 
-See [Configuration guide of PurgeCSS](https://purgecss.com/configuration.html).
+This default value is adjusted for VuePress from [the document](https://tailwindcss.com/docs/controlling-file-size/#removing-unused-css) to include all files in the source directory and all plugins with "vuepress" in the name.
+If you want to use this option, refer to [the PurgeCSS configuration guide](https://purgecss.com/configuration.html).
 
 :bulb:
 _`sourceDir`, `vuepressDir` and `cwd` above are [Context API](https://vuepress.vuejs.org/plugin/context-api.html) of VuePress._
@@ -174,7 +185,6 @@ _`sourceDir`, `vuepressDir` and `cwd` above are [Context API](https://vuepress.v
 :warning:
 _If you use `purgecssConfig`, the default value is overwritten, not merged._
 
-## Licence
+## License
 
-MIT
-
+[MIT](https://github.com/kawarimidoll/vuepress-plugin-tailwind/blob/master/LICENSE)

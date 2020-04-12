@@ -1,0 +1,101 @@
+---
+archive_url: https://api.github.com/repos/sabicalija/vuepress-plugins-public/{archive_format}{/ref}
+archived: false
+assignees_url: https://api.github.com/repos/sabicalija/vuepress-plugins-public/assignees{/user}
+blobs_url: https://api.github.com/repos/sabicalija/vuepress-plugins-public/git/blobs{/sha}
+branches_url: https://api.github.com/repos/sabicalija/vuepress-plugins-public/branches{/branch}
+clone_url: https://github.com/sabicalija/vuepress-plugins-public.git
+collaborators_url: https://api.github.com/repos/sabicalija/vuepress-plugins-public/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/sabicalija/vuepress-plugins-public/comments{/number}
+commits_url: https://api.github.com/repos/sabicalija/vuepress-plugins-public/commits{/sha}
+compare_url: https://api.github.com/repos/sabicalija/vuepress-plugins-public/compare/{base}...{head}
+contents_url: https://api.github.com/repos/sabicalija/vuepress-plugins-public/contents/{+path}
+contributors_url: https://api.github.com/repos/sabicalija/vuepress-plugins-public/contributors
+created_at: '2019-09-17T17:52:52Z'
+default_branch: master
+deployments_url: https://api.github.com/repos/sabicalija/vuepress-plugins-public/deployments
+description: null
+disabled: false
+downloads_url: https://api.github.com/repos/sabicalija/vuepress-plugins-public/downloads
+events_url: https://api.github.com/repos/sabicalija/vuepress-plugins-public/events
+fork: false
+forks: 0
+forks_count: 0
+forks_url: https://api.github.com/repos/sabicalija/vuepress-plugins-public/forks
+full_name: sabicalija/vuepress-plugins-public
+git_commits_url: https://api.github.com/repos/sabicalija/vuepress-plugins-public/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/sabicalija/vuepress-plugins-public/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/sabicalija/vuepress-plugins-public/git/tags{/sha}
+git_url: git://github.com/sabicalija/vuepress-plugins-public.git
+has_downloads: true
+has_issues: true
+has_pages: true
+has_projects: true
+has_wiki: true
+homepage: null
+hooks_url: https://api.github.com/repos/sabicalija/vuepress-plugins-public/hooks
+html_url: https://github.com/sabicalija/vuepress-plugins-public
+id: 209121557
+issue_comment_url: https://api.github.com/repos/sabicalija/vuepress-plugins-public/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/sabicalija/vuepress-plugins-public/issues/events{/number}
+issues_url: https://api.github.com/repos/sabicalija/vuepress-plugins-public/issues{/number}
+keys_url: https://api.github.com/repos/sabicalija/vuepress-plugins-public/keys{/key_id}
+labels_url: https://api.github.com/repos/sabicalija/vuepress-plugins-public/labels{/name}
+language: HTML
+languages_url: https://api.github.com/repos/sabicalija/vuepress-plugins-public/languages
+license: null
+merges_url: https://api.github.com/repos/sabicalija/vuepress-plugins-public/merges
+milestones_url: https://api.github.com/repos/sabicalija/vuepress-plugins-public/milestones{/number}
+mirror_url: null
+name: vuepress-plugins-public
+network_count: 0
+node_id: MDEwOlJlcG9zaXRvcnkyMDkxMjE1NTc=
+notifications_url: https://api.github.com/repos/sabicalija/vuepress-plugins-public/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
+owner:
+  avatar_url: https://avatars0.githubusercontent.com/u/13609768?v=4
+  events_url: https://api.github.com/users/sabicalija/events{/privacy}
+  followers_url: https://api.github.com/users/sabicalija/followers
+  following_url: https://api.github.com/users/sabicalija/following{/other_user}
+  gists_url: https://api.github.com/users/sabicalija/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/sabicalija
+  id: 13609768
+  login: sabicalija
+  node_id: MDQ6VXNlcjEzNjA5NzY4
+  organizations_url: https://api.github.com/users/sabicalija/orgs
+  received_events_url: https://api.github.com/users/sabicalija/received_events
+  repos_url: https://api.github.com/users/sabicalija/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/sabicalija/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/sabicalija/subscriptions
+  type: User
+  url: https://api.github.com/users/sabicalija
+permissions:
+  admin: false
+  pull: true
+  push: false
+private: false
+pulls_url: https://api.github.com/repos/sabicalija/vuepress-plugins-public/pulls{/number}
+pushed_at: '2019-09-18T11:51:35Z'
+releases_url: https://api.github.com/repos/sabicalija/vuepress-plugins-public/releases{/id}
+size: 784
+ssh_url: git@github.com:sabicalija/vuepress-plugins-public.git
+stargazers_count: 0
+stargazers_url: https://api.github.com/repos/sabicalija/vuepress-plugins-public/stargazers
+statuses_url: https://api.github.com/repos/sabicalija/vuepress-plugins-public/statuses/{sha}
+subscribers_count: 1
+subscribers_url: https://api.github.com/repos/sabicalija/vuepress-plugins-public/subscribers
+subscription_url: https://api.github.com/repos/sabicalija/vuepress-plugins-public/subscription
+svn_url: https://github.com/sabicalija/vuepress-plugins-public
+tags_url: https://api.github.com/repos/sabicalija/vuepress-plugins-public/tags
+teams_url: https://api.github.com/repos/sabicalija/vuepress-plugins-public/teams
+temp_clone_token: ''
+trees_url: https://api.github.com/repos/sabicalija/vuepress-plugins-public/git/trees{/sha}
+updated_at: '2019-09-18T11:51:38Z'
+url: https://api.github.com/repos/sabicalija/vuepress-plugins-public
+watchers: 0
+watchers_count: 0
+---
+

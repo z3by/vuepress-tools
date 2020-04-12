@@ -51,8 +51,8 @@ name: vuepress-theme-taewoong
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyMDA1MTI4ODk=
 notifications_url: https://api.github.com/repos/tawon2137/vuepress-theme-taewoong/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
+open_issues: 2
+open_issues_count: 2
 owner:
   avatar_url: https://avatars1.githubusercontent.com/u/21114269?v=4
   events_url: https://api.github.com/users/tawon2137/events{/privacy}
@@ -78,9 +78,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/tawon2137/vuepress-theme-taewoong/pulls{/number}
-pushed_at: '2019-10-29T16:19:30Z'
+pushed_at: '2020-04-04T21:40:38Z'
 releases_url: https://api.github.com/repos/tawon2137/vuepress-theme-taewoong/releases{/id}
-size: 303
+size: 409
 ssh_url: git@github.com:tawon2137/vuepress-theme-taewoong.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/tawon2137/vuepress-theme-taewoong/stargazers

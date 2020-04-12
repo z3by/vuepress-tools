@@ -87,7 +87,7 @@ pushed_at: '2019-07-11T10:10:05Z'
 releases_url: https://api.github.com/repos/lisniuse/vuepress-theme-thindark/releases{/id}
 size: 29
 ssh_url: git@github.com:lisniuse/vuepress-theme-thindark.git
-stargazers_count: 12
+stargazers_count: 14
 stargazers_url: https://api.github.com/repos/lisniuse/vuepress-theme-thindark/stargazers
 statuses_url: https://api.github.com/repos/lisniuse/vuepress-theme-thindark/statuses/{sha}
 subscribers_count: 0
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/lisniuse/vuepress-theme-thindark/tags
 teams_url: https://api.github.com/repos/lisniuse/vuepress-theme-thindark/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/lisniuse/vuepress-theme-thindark/git/trees{/sha}
-updated_at: '2020-03-10T17:49:30Z'
+updated_at: '2020-04-10T15:51:39Z'
 url: https://api.github.com/repos/lisniuse/vuepress-theme-thindark
-watchers: 12
-watchers_count: 12
+watchers: 14
+watchers_count: 14
 ---
 
 # vuepress-theme-thindark

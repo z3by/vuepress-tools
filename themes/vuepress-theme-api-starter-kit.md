@@ -87,7 +87,7 @@ pushed_at: '2020-03-18T06:19:17Z'
 releases_url: https://api.github.com/repos/sqrthree/vuepress-theme-api-starter-kit/releases{/id}
 size: 684
 ssh_url: git@github.com:sqrthree/vuepress-theme-api-starter-kit.git
-stargazers_count: 15
+stargazers_count: 16
 stargazers_url: https://api.github.com/repos/sqrthree/vuepress-theme-api-starter-kit/stargazers
 statuses_url: https://api.github.com/repos/sqrthree/vuepress-theme-api-starter-kit/statuses/{sha}
 subscribers_count: 2
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/sqrthree/vuepress-theme-api-starter-kit/t
 teams_url: https://api.github.com/repos/sqrthree/vuepress-theme-api-starter-kit/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/sqrthree/vuepress-theme-api-starter-kit/git/trees{/sha}
-updated_at: '2020-03-18T06:19:20Z'
+updated_at: '2020-03-29T05:02:30Z'
 url: https://api.github.com/repos/sqrthree/vuepress-theme-api-starter-kit
-watchers: 15
-watchers_count: 15
+watchers: 16
+watchers_count: 16
 ---
 
 # vuepress-theme-api-starter-kit

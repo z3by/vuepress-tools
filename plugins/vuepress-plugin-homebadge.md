@@ -43,7 +43,12 @@ keys_url: https://api.github.com/repos/zpfz/vuepress-plugin-homebadge/keys{/key_
 labels_url: https://api.github.com/repos/zpfz/vuepress-plugin-homebadge/labels{/name}
 language: JavaScript
 languages_url: https://api.github.com/repos/zpfz/vuepress-plugin-homebadge/languages
-license: null
+license:
+  key: mit
+  name: MIT License
+  node_id: MDc6TGljZW5zZTEz
+  spdx_id: MIT
+  url: https://api.github.com/licenses/mit
 merges_url: https://api.github.com/repos/zpfz/vuepress-plugin-homebadge/merges
 milestones_url: https://api.github.com/repos/zpfz/vuepress-plugin-homebadge/milestones{/number}
 mirror_url: null
@@ -78,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/zpfz/vuepress-plugin-homebadge/pulls{/number}
-pushed_at: '2020-03-23T16:17:37Z'
+pushed_at: '2020-03-31T12:02:51Z'
 releases_url: https://api.github.com/repos/zpfz/vuepress-plugin-homebadge/releases{/id}
-size: 3
+size: 5
 ssh_url: git@github.com:zpfz/vuepress-plugin-homebadge.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/zpfz/vuepress-plugin-homebadge/stargazers
@@ -93,7 +98,7 @@ tags_url: https://api.github.com/repos/zpfz/vuepress-plugin-homebadge/tags
 teams_url: https://api.github.com/repos/zpfz/vuepress-plugin-homebadge/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/zpfz/vuepress-plugin-homebadge/git/trees{/sha}
-updated_at: '2020-03-23T16:17:39Z'
+updated_at: '2020-03-31T12:02:53Z'
 url: https://api.github.com/repos/zpfz/vuepress-plugin-homebadge
 watchers: 0
 watchers_count: 0
@@ -105,7 +110,7 @@ watchers_count: 0
 A homepage badge plugin for AntDocs theme.
 
 ![Version](https://img.shields.io/github/package-json/v/zpfz/vuepress-plugin-homebadge?style=flat-square)
-![License](https://img.shields.io/github/license/zpfz/vuepress-plugin-homebadge?style=flat-square)
+![NPM](https://img.shields.io/npm/l/vuepress-plugin-homebadge?style=flat-square)
 
 </div>
 

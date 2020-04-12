@@ -87,7 +87,7 @@ pushed_at: '2020-03-14T15:24:23Z'
 releases_url: https://api.github.com/repos/ocavue/vuepress-theme-blogue/releases{/id}
 size: 652
 ssh_url: git@github.com:ocavue/vuepress-theme-blogue.git
-stargazers_count: 5
+stargazers_count: 6
 stargazers_url: https://api.github.com/repos/ocavue/vuepress-theme-blogue/stargazers
 statuses_url: https://api.github.com/repos/ocavue/vuepress-theme-blogue/statuses/{sha}
 subscribers_count: 1
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/ocavue/vuepress-theme-blogue/tags
 teams_url: https://api.github.com/repos/ocavue/vuepress-theme-blogue/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/ocavue/vuepress-theme-blogue/git/trees{/sha}
-updated_at: '2019-10-30T12:09:02Z'
+updated_at: '2020-04-09T00:16:35Z'
 url: https://api.github.com/repos/ocavue/vuepress-theme-blogue
-watchers: 5
-watchers_count: 5
+watchers: 6
+watchers_count: 6
 ---
 
 # vuepress-theme-blogue

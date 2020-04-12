@@ -14,7 +14,7 @@ contributors_url: https://api.github.com/repos/aimkiray/vuepress-theme-palette/c
 created_at: '2020-02-10T15:19:48Z'
 default_branch: master
 deployments_url: https://api.github.com/repos/aimkiray/vuepress-theme-palette/deployments
-description: "\u67D0\u4E0D\u53EF\u540D\u72B6\u4E4B\u7269\uFF08\u65BD\u5DE5\u4E2D"
+description: "\u4E0D\u53EF\u540D\u72B6\u4E4B\u7269\uFF08\u65BD\u5DE5\u4E2D"
 disabled: false
 downloads_url: https://api.github.com/repos/aimkiray/vuepress-theme-palette/downloads
 events_url: https://api.github.com/repos/aimkiray/vuepress-theme-palette/events
@@ -32,7 +32,7 @@ has_issues: true
 has_pages: false
 has_projects: true
 has_wiki: true
-homepage: null
+homepage: ''
 hooks_url: https://api.github.com/repos/aimkiray/vuepress-theme-palette/hooks
 html_url: https://github.com/aimkiray/vuepress-theme-palette
 id: 239542941
@@ -51,8 +51,8 @@ name: vuepress-theme-palette
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyMzk1NDI5NDE=
 notifications_url: https://api.github.com/repos/aimkiray/vuepress-theme-palette/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
+open_issues: 1
+open_issues_count: 1
 owner:
   avatar_url: https://avatars0.githubusercontent.com/u/28665259?v=4
   events_url: https://api.github.com/users/aimkiray/events{/privacy}
@@ -78,9 +78,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/aimkiray/vuepress-theme-palette/pulls{/number}
-pushed_at: '2020-02-13T05:30:46Z'
+pushed_at: '2020-04-04T11:29:45Z'
 releases_url: https://api.github.com/repos/aimkiray/vuepress-theme-palette/releases{/id}
-size: 159
+size: 305
 ssh_url: git@github.com:aimkiray/vuepress-theme-palette.git
 stargazers_count: 1
 stargazers_url: https://api.github.com/repos/aimkiray/vuepress-theme-palette/stargazers
@@ -93,7 +93,7 @@ tags_url: https://api.github.com/repos/aimkiray/vuepress-theme-palette/tags
 teams_url: https://api.github.com/repos/aimkiray/vuepress-theme-palette/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/aimkiray/vuepress-theme-palette/git/trees{/sha}
-updated_at: '2020-02-13T05:30:48Z'
+updated_at: '2020-04-10T06:08:37Z'
 url: https://api.github.com/repos/aimkiray/vuepress-theme-palette
 watchers: 1
 watchers_count: 1

@@ -102,7 +102,7 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-dynamic-base/pulls{/number}
-pushed_at: '2020-03-16T04:31:07Z'
+pushed_at: '2020-03-29T18:16:53Z'
 releases_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-dynamic-base/releases{/id}
 size: 14
 ssh_url: git@github.com:vuepressjs/vuepress-plugin-dynamic-base.git
@@ -117,7 +117,7 @@ tags_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-dynamic-base/t
 teams_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-dynamic-base/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-dynamic-base/git/trees{/sha}
-updated_at: '2020-03-16T04:31:09Z'
+updated_at: '2020-03-29T18:16:55Z'
 url: https://api.github.com/repos/vuepressjs/vuepress-plugin-dynamic-base
 watchers: 1
 watchers_count: 1
@@ -144,8 +144,8 @@ See also:
 ## Install
 
 ```bash
-yarn add -D @vuepress/plugin-schema2md
-# OR npm install -D @vuepress/plugin-schema2md
+yarn add -D vuepress-plugin-dynamic-base
+# OR npm install -D vuepress-plugin-dynamic-base
 ```
 
 ## Usage

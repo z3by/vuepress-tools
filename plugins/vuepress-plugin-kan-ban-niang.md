@@ -56,8 +56,8 @@ name: vuepress-plugin-kan-ban-niang
 network_count: 1
 node_id: MDEwOlJlcG9zaXRvcnkyMTQ1Njg2OTQ=
 notifications_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-kan-ban-niang/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
+open_issues: 2
+open_issues_count: 2
 organization:
   avatar_url: https://avatars0.githubusercontent.com/u/54167020?v=4
   events_url: https://api.github.com/users/vuepress-reco/events{/privacy}
@@ -117,7 +117,7 @@ tags_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-kan-ban-nia
 teams_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-kan-ban-niang/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-kan-ban-niang/git/trees{/sha}
-updated_at: '2020-03-18T03:05:06Z'
+updated_at: '2020-04-08T03:14:43Z'
 url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-kan-ban-niang
 watchers: 8
 watchers_count: 8

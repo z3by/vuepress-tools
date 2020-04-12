@@ -8592,7 +8592,7 @@ vuepress-plugin-container@^2.0.2:
   dependencies:
     markdown-it-container "^2.0.0"
 
-vuepress-plugin-flexsearch@^0.0.3:
+vuepress-plugin-flexsearch@0.0.3:
   version "0.0.3"
   resolved "https://registry.yarnpkg.com/vuepress-plugin-flexsearch/-/vuepress-plugin-flexsearch-0.0.3.tgz#886715cac3ece3da87d176bcb47d2fdd4f1e8b26"
   integrity sha512-pH0O5F5Hz2njP/Uhvm0j1nuUDpUIUXR0Kp58Tw3InsQRgCwioNpIlLvFYgyHGatHGwepYuihuQvaBLHwfOb/0g==

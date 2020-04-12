@@ -56,8 +56,8 @@ name: vuepress-theme-react
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyNDI1NDY1OTM=
 notifications_url: https://api.github.com/repos/vvni/vuepress-theme-react/notifications{?since,all,participating}
-open_issues: 8
-open_issues_count: 8
+open_issues: 12
+open_issues_count: 12
 owner:
   avatar_url: https://avatars2.githubusercontent.com/u/50414099?v=4
   events_url: https://api.github.com/users/vvni/events{/privacy}
@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/vvni/vuepress-theme-react/pulls{/number}
-pushed_at: '2020-03-27T17:04:56Z'
+pushed_at: '2020-04-09T21:37:47Z'
 releases_url: https://api.github.com/repos/vvni/vuepress-theme-react/releases{/id}
-size: 2422
+size: 186
 ssh_url: git@github.com:vvni/vuepress-theme-react.git
 stargazers_count: 2
 stargazers_url: https://api.github.com/repos/vvni/vuepress-theme-react/stargazers

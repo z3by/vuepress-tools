@@ -1,0 +1,117 @@
+---
+archive_url: https://api.github.com/repos/BryanAdamss/vuepress-theme-gh/{archive_format}{/ref}
+archived: false
+assignees_url: https://api.github.com/repos/BryanAdamss/vuepress-theme-gh/assignees{/user}
+blobs_url: https://api.github.com/repos/BryanAdamss/vuepress-theme-gh/git/blobs{/sha}
+branches_url: https://api.github.com/repos/BryanAdamss/vuepress-theme-gh/branches{/branch}
+clone_url: https://github.com/BryanAdamss/vuepress-theme-gh.git
+collaborators_url: https://api.github.com/repos/BryanAdamss/vuepress-theme-gh/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/BryanAdamss/vuepress-theme-gh/comments{/number}
+commits_url: https://api.github.com/repos/BryanAdamss/vuepress-theme-gh/commits{/sha}
+compare_url: https://api.github.com/repos/BryanAdamss/vuepress-theme-gh/compare/{base}...{head}
+contents_url: https://api.github.com/repos/BryanAdamss/vuepress-theme-gh/contents/{+path}
+contributors_url: https://api.github.com/repos/BryanAdamss/vuepress-theme-gh/contributors
+created_at: '2020-04-05T16:06:06Z'
+default_branch: master
+deployments_url: https://api.github.com/repos/BryanAdamss/vuepress-theme-gh/deployments
+description: "vuepress\u535A\u5BA2\u4E3B\u9898"
+disabled: false
+downloads_url: https://api.github.com/repos/BryanAdamss/vuepress-theme-gh/downloads
+events_url: https://api.github.com/repos/BryanAdamss/vuepress-theme-gh/events
+fork: false
+forks: 0
+forks_count: 0
+forks_url: https://api.github.com/repos/BryanAdamss/vuepress-theme-gh/forks
+full_name: BryanAdamss/vuepress-theme-gh
+git_commits_url: https://api.github.com/repos/BryanAdamss/vuepress-theme-gh/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/BryanAdamss/vuepress-theme-gh/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/BryanAdamss/vuepress-theme-gh/git/tags{/sha}
+git_url: git://github.com/BryanAdamss/vuepress-theme-gh.git
+has_downloads: true
+has_issues: true
+has_pages: false
+has_projects: true
+has_wiki: true
+homepage: null
+hooks_url: https://api.github.com/repos/BryanAdamss/vuepress-theme-gh/hooks
+html_url: https://github.com/BryanAdamss/vuepress-theme-gh
+id: 253275202
+issue_comment_url: https://api.github.com/repos/BryanAdamss/vuepress-theme-gh/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/BryanAdamss/vuepress-theme-gh/issues/events{/number}
+issues_url: https://api.github.com/repos/BryanAdamss/vuepress-theme-gh/issues{/number}
+keys_url: https://api.github.com/repos/BryanAdamss/vuepress-theme-gh/keys{/key_id}
+labels_url: https://api.github.com/repos/BryanAdamss/vuepress-theme-gh/labels{/name}
+language: Vue
+languages_url: https://api.github.com/repos/BryanAdamss/vuepress-theme-gh/languages
+license:
+  key: mit
+  name: MIT License
+  node_id: MDc6TGljZW5zZTEz
+  spdx_id: MIT
+  url: https://api.github.com/licenses/mit
+merges_url: https://api.github.com/repos/BryanAdamss/vuepress-theme-gh/merges
+milestones_url: https://api.github.com/repos/BryanAdamss/vuepress-theme-gh/milestones{/number}
+mirror_url: null
+name: vuepress-theme-gh
+network_count: 0
+node_id: MDEwOlJlcG9zaXRvcnkyNTMyNzUyMDI=
+notifications_url: https://api.github.com/repos/BryanAdamss/vuepress-theme-gh/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
+owner:
+  avatar_url: https://avatars3.githubusercontent.com/u/7441504?v=4
+  events_url: https://api.github.com/users/BryanAdamss/events{/privacy}
+  followers_url: https://api.github.com/users/BryanAdamss/followers
+  following_url: https://api.github.com/users/BryanAdamss/following{/other_user}
+  gists_url: https://api.github.com/users/BryanAdamss/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/BryanAdamss
+  id: 7441504
+  login: BryanAdamss
+  node_id: MDQ6VXNlcjc0NDE1MDQ=
+  organizations_url: https://api.github.com/users/BryanAdamss/orgs
+  received_events_url: https://api.github.com/users/BryanAdamss/received_events
+  repos_url: https://api.github.com/users/BryanAdamss/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/BryanAdamss/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/BryanAdamss/subscriptions
+  type: User
+  url: https://api.github.com/users/BryanAdamss
+permissions:
+  admin: false
+  pull: true
+  push: false
+private: false
+pulls_url: https://api.github.com/repos/BryanAdamss/vuepress-theme-gh/pulls{/number}
+pushed_at: '2020-04-08T16:00:36Z'
+releases_url: https://api.github.com/repos/BryanAdamss/vuepress-theme-gh/releases{/id}
+size: 57
+ssh_url: git@github.com:BryanAdamss/vuepress-theme-gh.git
+stargazers_count: 0
+stargazers_url: https://api.github.com/repos/BryanAdamss/vuepress-theme-gh/stargazers
+statuses_url: https://api.github.com/repos/BryanAdamss/vuepress-theme-gh/statuses/{sha}
+subscribers_count: 1
+subscribers_url: https://api.github.com/repos/BryanAdamss/vuepress-theme-gh/subscribers
+subscription_url: https://api.github.com/repos/BryanAdamss/vuepress-theme-gh/subscription
+svn_url: https://github.com/BryanAdamss/vuepress-theme-gh
+tags_url: https://api.github.com/repos/BryanAdamss/vuepress-theme-gh/tags
+teams_url: https://api.github.com/repos/BryanAdamss/vuepress-theme-gh/teams
+temp_clone_token: ''
+trees_url: https://api.github.com/repos/BryanAdamss/vuepress-theme-gh/git/trees{/sha}
+updated_at: '2020-04-08T16:00:38Z'
+url: https://api.github.com/repos/BryanAdamss/vuepress-theme-gh
+watchers: 0
+watchers_count: 0
+---
+
+# vuepress-theme-gh
+vuepress博客主题
+
+
+- 登录页
+- 调试页
+- 文章列表
+- 文章
+- 标签列表
+- 标签页
+- 关于页
