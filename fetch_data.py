@@ -12,6 +12,11 @@ github = Github(GITHUB_TOKEN)
 
 
 def main():
+    [os.remove('plugins/' + page)
+     for page in os.listdir('plugins') if page != 'README.md']
+    [os.remove('themes/' + page)
+     for page in os.listdir('themes') if page != 'README.md']
+    print('Removed all current themes and plugins')
     plugins = fetch('vuepress-plugin')
     themes = fetch('vuepress-theme')
     render(plugins, 'plugins', allowed_patterns=[r'vuepress-plugin-*'])
@@ -22,6 +27,7 @@ def render(repos, folder, allowed_patterns=[], update_sidebar=True):
     excluded = [
         'vuepress-plugin-awesome-gitalk',
         'vuepress-plugin-awesome-playground',
+        'vuepress-plugin-playground',
         'vuepress-plugin-live2d-helper',
         'vuepress-plugin-live2d',
     ]
