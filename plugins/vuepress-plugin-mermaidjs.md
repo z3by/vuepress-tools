@@ -78,11 +78,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/eFrane/vuepress-plugin-mermaidjs/pulls{/number}
-pushed_at: '2020-03-09T12:12:09Z'
+pushed_at: '2020-04-27T07:30:14Z'
 releases_url: https://api.github.com/repos/eFrane/vuepress-plugin-mermaidjs/releases{/id}
-size: 94
+size: 100
 ssh_url: git@github.com:eFrane/vuepress-plugin-mermaidjs.git
-stargazers_count: 10
+stargazers_count: 14
 stargazers_url: https://api.github.com/repos/eFrane/vuepress-plugin-mermaidjs/stargazers
 statuses_url: https://api.github.com/repos/eFrane/vuepress-plugin-mermaidjs/statuses/{sha}
 subscribers_count: 2
@@ -93,10 +93,10 @@ tags_url: https://api.github.com/repos/eFrane/vuepress-plugin-mermaidjs/tags
 teams_url: https://api.github.com/repos/eFrane/vuepress-plugin-mermaidjs/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/eFrane/vuepress-plugin-mermaidjs/git/trees{/sha}
-updated_at: '2020-04-10T16:40:36Z'
+updated_at: '2020-04-27T07:30:16Z'
 url: https://api.github.com/repos/eFrane/vuepress-plugin-mermaidjs
-watchers: 10
-watchers_count: 10
+watchers: 14
+watchers_count: 14
 ---
 
 [![npm version](https://badge.fury.io/js/vuepress-plugin-mermaidjs.svg)](https://badge.fury.io/js/vuepress-plugin-mermaidjs)

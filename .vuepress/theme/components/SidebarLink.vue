@@ -1,28 +1,30 @@
 <template>
-  <router-link class="sidebar-link" :to="item.path">
+  <router-link class="sidebar-link" :to="item.path" v-if="item.frontmatter">
     <div class="sidebar-link__img" v-if="item.frontmatter.owner">
       <img :src="item.frontmatter.owner.avatar_url" />
     </div>
     <div class="sidebar-link__info">
       <span class="sidebar-link__title">
-        <strong>{{item.frontmatter.full_name || item.title}}</strong>
+        <strong>{{ item.frontmatter.full_name || item.title }}</strong>
       </span>
-      <p class="sidebar-link__description">{{item.frontmatter.description}}</p>
+      <p class="sidebar-link__description">
+        {{ item.frontmatter.description }}
+      </p>
       <div class="text-muted sidebar-link__icons">
         <span>
-          <small>{{item.frontmatter.stargazers_count}}</small>
+          <small>{{ item.frontmatter.stargazers_count }}</small>
           <small>
             <ThemifyIcon icon="star" />
           </small>
         </span>
         <span>
-          <small>{{item.frontmatter.forks_count}}</small>
+          <small>{{ item.frontmatter.forks_count }}</small>
           <small>
             <ThemifyIcon icon="vector" />
           </small>
         </span>
         <span>
-          <small>{{item.frontmatter.watchers_count}}</small>
+          <small>{{ item.frontmatter.watchers_count }}</small>
           <small>
             <ThemifyIcon icon="eye" />
           </small>
@@ -38,8 +40,8 @@ import ThemifyIcon from "vue-themify-icons";
 export default {
   props: ["item", "sidebarDepth"],
   components: {
-    ThemifyIcon
-  }
+    ThemifyIcon,
+  },
 };
 </script>
 

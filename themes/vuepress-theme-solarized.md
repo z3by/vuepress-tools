@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/Puritanic/vuepress-theme-solarized/pulls{/number}
-pushed_at: '2020-03-25T19:22:43Z'
+pushed_at: '2020-04-13T13:48:51Z'
 releases_url: https://api.github.com/repos/Puritanic/vuepress-theme-solarized/releases{/id}
-size: 46
+size: 67
 ssh_url: git@github.com:Puritanic/vuepress-theme-solarized.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/Puritanic/vuepress-theme-solarized/stargazers
@@ -98,7 +98,7 @@ tags_url: https://api.github.com/repos/Puritanic/vuepress-theme-solarized/tags
 teams_url: https://api.github.com/repos/Puritanic/vuepress-theme-solarized/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/Puritanic/vuepress-theme-solarized/git/trees{/sha}
-updated_at: '2020-03-25T19:22:45Z'
+updated_at: '2020-04-13T13:48:54Z'
 url: https://api.github.com/repos/Puritanic/vuepress-theme-solarized
 watchers: 0
 watchers_count: 0
@@ -114,6 +114,10 @@ The Solarized theme for Vuepress
 
 -   **Customizable typography**: Import and use your favorite web-fonts. Customize font sizes and text-adjustment for body text
 -   **Dark and light themes**: With a theme-switcher and native theme detection to set the theme automatically as per the user preference
+
+## Demo
+
+I'm too busy to create a proper demo, but you can take a look at my [Blog/Notes](https://puritanic.github.io/CompSci/) webpage if you want to see how it's looking.
 
 ## Get Started
 

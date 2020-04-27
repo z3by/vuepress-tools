@@ -1,11 +1,11 @@
 import base64
-import json
+import math
 import os
 import re
-import math
+from fnmatch import fnmatch
 
-from github import Github, UnknownObjectException
 import yaml
+from github import Github, UnknownObjectException
 
 GITHUB_TOKEN = os.environ['GITHUB_TOKEN']
 github = Github(GITHUB_TOKEN)
@@ -19,11 +19,11 @@ def main():
     print('Removed all current themes and plugins')
     plugins = fetch('vuepress-plugin')
     themes = fetch('vuepress-theme')
-    render(plugins, 'plugins', allowed_patterns=[r'vuepress-plugin-*'])
-    render(themes, 'themes', allowed_patterns=[r'vuepress-theme-*'])
+    render(plugins, 'plugins', allowed_patterns=[r'*vuepress-plugin-*'])
+    render(themes, 'themes', allowed_patterns=[r'*vuepress-theme-*'])
 
 
-def render(repos, folder, allowed_patterns=[], update_sidebar=True):
+def render(repos, folder, allowed_patterns=[]):
     excluded = [
         'vuepress-plugin-awesome-gitalk',
         'vuepress-plugin-awesome-playground',
@@ -31,19 +31,13 @@ def render(repos, folder, allowed_patterns=[], update_sidebar=True):
         'vuepress-plugin-live2d-helper',
         'vuepress-plugin-live2d',
     ]
-    sidebar = []
     for repo in repos:
         if repo.name in excluded:
             continue
         for pattern in allowed_patterns:
-            if re.match(pattern, repo.name):
+            if fnmatch(repo.name, pattern):
                 name = f'{folder}/{repo.name}.md'.lower()
-                page = convert_repo_to_markdown_page(repo, name)
-                if update_sidebar:
-                    sidebar.append(repo.name.lower())
-    if sidebar:
-        with open(f'.vuepress/sidebar/{folder}.js', 'w+') as f:
-            f.write(f'module.exports = {sidebar}')
+                convert_repo_to_markdown_page(repo, name)
 
 
 def fetch(github_query):
@@ -52,7 +46,7 @@ def fetch(github_query):
     print(f'🔎 found {query.totalCount} repositories for {github_query}')
     number_of_pages = math.ceil(query.totalCount / per_page)
     all_repos = []
-    for page in range(1, number_of_pages + 1):
+    for page in range(0, number_of_pages):
         repos = query.get_page(page)
         all_repos += repos
     print('⬇️ fetched all pages for ', github_query)

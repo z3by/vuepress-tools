@@ -144,12 +144,12 @@ yarn dev
 - [x] Comments
 
 ## Preview
-![home](https://raw.githubusercontent.com/Xie Hanqin/vuepress-theme-yuchanns/master/preview/preview_01.png "home")
-![archive](https://raw.githubusercontent.com/Xie Hanqin/vuepress-theme-yuchanns/master/preview/preview_02.png "archive")
-![categories](https://raw.githubusercontent.com/Xie Hanqin/vuepress-theme-yuchanns/master/preview/preview_03.png "categories")
-![category](https://raw.githubusercontent.com/Xie Hanqin/vuepress-theme-yuchanns/master/preview/preview_04.png "category")
-![post](https://raw.githubusercontent.com/Xie Hanqin/vuepress-theme-yuchanns/master/preview/preview_05.png "post")
-![search](https://raw.githubusercontent.com/Xie Hanqin/vuepress-theme-yuchanns/master/preview/preview_06.png "search")
+![home](https://raw.githubusercontent.com/科学捜査官/vuepress-theme-yuchanns/master/preview/preview_01.png "home")
+![archive](https://raw.githubusercontent.com/科学捜査官/vuepress-theme-yuchanns/master/preview/preview_02.png "archive")
+![categories](https://raw.githubusercontent.com/科学捜査官/vuepress-theme-yuchanns/master/preview/preview_03.png "categories")
+![category](https://raw.githubusercontent.com/科学捜査官/vuepress-theme-yuchanns/master/preview/preview_04.png "category")
+![post](https://raw.githubusercontent.com/科学捜査官/vuepress-theme-yuchanns/master/preview/preview_05.png "post")
+![search](https://raw.githubusercontent.com/科学捜査官/vuepress-theme-yuchanns/master/preview/preview_06.png "search")
 
 ## LICENSE
 [MIT](https://github.com/yuchanns/vuepress-theme-yuchanns/blob/master/LICENSE)© @[yuchanns](https://github.com/yuchanns)

@@ -51,8 +51,8 @@ name: vuepress-theme-talltotal
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkxNzY5MTU0MDQ=
 notifications_url: https://api.github.com/repos/talltotal/vuepress-theme-talltotal/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
+open_issues: 0
+open_issues_count: 0
 owner:
   avatar_url: https://avatars3.githubusercontent.com/u/17965996?v=4
   events_url: https://api.github.com/users/talltotal/events{/privacy}
@@ -78,9 +78,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/talltotal/vuepress-theme-talltotal/pulls{/number}
-pushed_at: '2020-03-13T23:40:39Z'
+pushed_at: '2020-04-20T12:28:19Z'
 releases_url: https://api.github.com/repos/talltotal/vuepress-theme-talltotal/releases{/id}
-size: 973
+size: 808
 ssh_url: git@github.com:talltotal/vuepress-theme-talltotal.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/talltotal/vuepress-theme-talltotal/stargazers
@@ -93,7 +93,7 @@ tags_url: https://api.github.com/repos/talltotal/vuepress-theme-talltotal/tags
 teams_url: https://api.github.com/repos/talltotal/vuepress-theme-talltotal/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/talltotal/vuepress-theme-talltotal/git/trees{/sha}
-updated_at: '2020-01-07T09:43:01Z'
+updated_at: '2020-04-20T12:28:08Z'
 url: https://api.github.com/repos/talltotal/vuepress-theme-talltotal
 watchers: 0
 watchers_count: 0

@@ -82,7 +82,7 @@ pushed_at: '2019-06-17T01:46:54Z'
 releases_url: https://api.github.com/repos/atian25/vuepress-plugin-yuque-deploy/releases{/id}
 size: 36
 ssh_url: git@github.com:atian25/vuepress-plugin-yuque-deploy.git
-stargazers_count: 4
+stargazers_count: 5
 stargazers_url: https://api.github.com/repos/atian25/vuepress-plugin-yuque-deploy/stargazers
 statuses_url: https://api.github.com/repos/atian25/vuepress-plugin-yuque-deploy/statuses/{sha}
 subscribers_count: 2
@@ -93,10 +93,10 @@ tags_url: https://api.github.com/repos/atian25/vuepress-plugin-yuque-deploy/tags
 teams_url: https://api.github.com/repos/atian25/vuepress-plugin-yuque-deploy/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/atian25/vuepress-plugin-yuque-deploy/git/trees{/sha}
-updated_at: '2019-08-23T14:57:15Z'
+updated_at: '2020-04-14T03:00:12Z'
 url: https://api.github.com/repos/atian25/vuepress-plugin-yuque-deploy
-watchers: 4
-watchers_count: 4
+watchers: 5
+watchers_count: 5
 ---
 
 # vuepress-plugin-yuque-deploy

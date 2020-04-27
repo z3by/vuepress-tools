@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/BryanAdamss/vuepress-theme-gh/pulls{/number}
-pushed_at: '2020-04-08T16:00:36Z'
+pushed_at: '2020-04-22T15:57:24Z'
 releases_url: https://api.github.com/repos/BryanAdamss/vuepress-theme-gh/releases{/id}
-size: 57
+size: 135
 ssh_url: git@github.com:BryanAdamss/vuepress-theme-gh.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/BryanAdamss/vuepress-theme-gh/stargazers
@@ -98,7 +98,7 @@ tags_url: https://api.github.com/repos/BryanAdamss/vuepress-theme-gh/tags
 teams_url: https://api.github.com/repos/BryanAdamss/vuepress-theme-gh/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/BryanAdamss/vuepress-theme-gh/git/trees{/sha}
-updated_at: '2020-04-08T16:00:38Z'
+updated_at: '2020-04-22T15:57:27Z'
 url: https://api.github.com/repos/BryanAdamss/vuepress-theme-gh
 watchers: 0
 watchers_count: 0

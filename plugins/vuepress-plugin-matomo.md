@@ -106,10 +106,10 @@ pushed_at: '2020-04-03T19:08:57Z'
 releases_url: https://api.github.com/repos/Cambalab/vuepress-plugin-matomo/releases{/id}
 size: 16
 ssh_url: git@github.com:Cambalab/vuepress-plugin-matomo.git
-stargazers_count: 1
+stargazers_count: 2
 stargazers_url: https://api.github.com/repos/Cambalab/vuepress-plugin-matomo/stargazers
 statuses_url: https://api.github.com/repos/Cambalab/vuepress-plugin-matomo/statuses/{sha}
-subscribers_count: 12
+subscribers_count: 11
 subscribers_url: https://api.github.com/repos/Cambalab/vuepress-plugin-matomo/subscribers
 subscription_url: https://api.github.com/repos/Cambalab/vuepress-plugin-matomo/subscription
 svn_url: https://github.com/Cambalab/vuepress-plugin-matomo
@@ -117,10 +117,10 @@ tags_url: https://api.github.com/repos/Cambalab/vuepress-plugin-matomo/tags
 teams_url: https://api.github.com/repos/Cambalab/vuepress-plugin-matomo/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/Cambalab/vuepress-plugin-matomo/git/trees{/sha}
-updated_at: '2020-04-03T19:15:54Z'
+updated_at: '2020-04-23T13:43:32Z'
 url: https://api.github.com/repos/Cambalab/vuepress-plugin-matomo
-watchers: 1
-watchers_count: 1
+watchers: 2
+watchers_count: 2
 ---
 
 # VuePress Plugin Matomo Analytics

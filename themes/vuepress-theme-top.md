@@ -1,0 +1,102 @@
+---
+archive_url: https://api.github.com/repos/youdeliang/vuepress-theme-top/{archive_format}{/ref}
+archived: false
+assignees_url: https://api.github.com/repos/youdeliang/vuepress-theme-top/assignees{/user}
+blobs_url: https://api.github.com/repos/youdeliang/vuepress-theme-top/git/blobs{/sha}
+branches_url: https://api.github.com/repos/youdeliang/vuepress-theme-top/branches{/branch}
+clone_url: https://github.com/youdeliang/vuepress-theme-top.git
+collaborators_url: https://api.github.com/repos/youdeliang/vuepress-theme-top/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/youdeliang/vuepress-theme-top/comments{/number}
+commits_url: https://api.github.com/repos/youdeliang/vuepress-theme-top/commits{/sha}
+compare_url: https://api.github.com/repos/youdeliang/vuepress-theme-top/compare/{base}...{head}
+contents_url: https://api.github.com/repos/youdeliang/vuepress-theme-top/contents/{+path}
+contributors_url: https://api.github.com/repos/youdeliang/vuepress-theme-top/contributors
+created_at: '2020-04-18T00:21:30Z'
+default_branch: master
+deployments_url: https://api.github.com/repos/youdeliang/vuepress-theme-top/deployments
+description: a vuepress blog theme
+disabled: false
+downloads_url: https://api.github.com/repos/youdeliang/vuepress-theme-top/downloads
+events_url: https://api.github.com/repos/youdeliang/vuepress-theme-top/events
+fork: false
+forks: 0
+forks_count: 0
+forks_url: https://api.github.com/repos/youdeliang/vuepress-theme-top/forks
+full_name: youdeliang/vuepress-theme-top
+git_commits_url: https://api.github.com/repos/youdeliang/vuepress-theme-top/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/youdeliang/vuepress-theme-top/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/youdeliang/vuepress-theme-top/git/tags{/sha}
+git_url: git://github.com/youdeliang/vuepress-theme-top.git
+has_downloads: true
+has_issues: true
+has_pages: false
+has_projects: true
+has_wiki: true
+homepage: null
+hooks_url: https://api.github.com/repos/youdeliang/vuepress-theme-top/hooks
+html_url: https://github.com/youdeliang/vuepress-theme-top
+id: 256637269
+issue_comment_url: https://api.github.com/repos/youdeliang/vuepress-theme-top/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/youdeliang/vuepress-theme-top/issues/events{/number}
+issues_url: https://api.github.com/repos/youdeliang/vuepress-theme-top/issues{/number}
+keys_url: https://api.github.com/repos/youdeliang/vuepress-theme-top/keys{/key_id}
+labels_url: https://api.github.com/repos/youdeliang/vuepress-theme-top/labels{/name}
+language: Vue
+languages_url: https://api.github.com/repos/youdeliang/vuepress-theme-top/languages
+license: null
+merges_url: https://api.github.com/repos/youdeliang/vuepress-theme-top/merges
+milestones_url: https://api.github.com/repos/youdeliang/vuepress-theme-top/milestones{/number}
+mirror_url: null
+name: vuepress-theme-top
+network_count: 0
+node_id: MDEwOlJlcG9zaXRvcnkyNTY2MzcyNjk=
+notifications_url: https://api.github.com/repos/youdeliang/vuepress-theme-top/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
+owner:
+  avatar_url: https://avatars2.githubusercontent.com/u/46002903?v=4
+  events_url: https://api.github.com/users/youdeliang/events{/privacy}
+  followers_url: https://api.github.com/users/youdeliang/followers
+  following_url: https://api.github.com/users/youdeliang/following{/other_user}
+  gists_url: https://api.github.com/users/youdeliang/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/youdeliang
+  id: 46002903
+  login: youdeliang
+  node_id: MDQ6VXNlcjQ2MDAyOTAz
+  organizations_url: https://api.github.com/users/youdeliang/orgs
+  received_events_url: https://api.github.com/users/youdeliang/received_events
+  repos_url: https://api.github.com/users/youdeliang/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/youdeliang/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/youdeliang/subscriptions
+  type: User
+  url: https://api.github.com/users/youdeliang
+permissions:
+  admin: false
+  pull: true
+  push: false
+private: false
+pulls_url: https://api.github.com/repos/youdeliang/vuepress-theme-top/pulls{/number}
+pushed_at: '2020-04-18T00:23:44Z'
+releases_url: https://api.github.com/repos/youdeliang/vuepress-theme-top/releases{/id}
+size: 2
+ssh_url: git@github.com:youdeliang/vuepress-theme-top.git
+stargazers_count: 1
+stargazers_url: https://api.github.com/repos/youdeliang/vuepress-theme-top/stargazers
+statuses_url: https://api.github.com/repos/youdeliang/vuepress-theme-top/statuses/{sha}
+subscribers_count: 1
+subscribers_url: https://api.github.com/repos/youdeliang/vuepress-theme-top/subscribers
+subscription_url: https://api.github.com/repos/youdeliang/vuepress-theme-top/subscription
+svn_url: https://github.com/youdeliang/vuepress-theme-top
+tags_url: https://api.github.com/repos/youdeliang/vuepress-theme-top/tags
+teams_url: https://api.github.com/repos/youdeliang/vuepress-theme-top/teams
+temp_clone_token: ''
+trees_url: https://api.github.com/repos/youdeliang/vuepress-theme-top/git/trees{/sha}
+updated_at: '2020-04-18T04:05:34Z'
+url: https://api.github.com/repos/youdeliang/vuepress-theme-top
+watchers: 1
+watchers_count: 1
+---
+
+# vuepress-theme-top

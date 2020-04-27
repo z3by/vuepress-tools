@@ -51,8 +51,8 @@ name: vuepress-plugin-element-ui
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyMzQ0NzM2MjA=
 notifications_url: https://api.github.com/repos/lq782655835/vuepress-plugin-element-ui/notifications{?since,all,participating}
-open_issues: 2
-open_issues_count: 2
+open_issues: 1
+open_issues_count: 1
 owner:
   avatar_url: https://avatars2.githubusercontent.com/u/6310131?v=4
   events_url: https://api.github.com/users/lq782655835/events{/privacy}
@@ -78,11 +78,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/lq782655835/vuepress-plugin-element-ui/pulls{/number}
-pushed_at: '2020-03-16T16:48:17Z'
+pushed_at: '2020-04-21T06:04:03Z'
 releases_url: https://api.github.com/repos/lq782655835/vuepress-plugin-element-ui/releases{/id}
-size: 833
+size: 838
 ssh_url: git@github.com:lq782655835/vuepress-plugin-element-ui.git
-stargazers_count: 1
+stargazers_count: 2
 stargazers_url: https://api.github.com/repos/lq782655835/vuepress-plugin-element-ui/stargazers
 statuses_url: https://api.github.com/repos/lq782655835/vuepress-plugin-element-ui/statuses/{sha}
 subscribers_count: 1
@@ -93,10 +93,10 @@ tags_url: https://api.github.com/repos/lq782655835/vuepress-plugin-element-ui/ta
 teams_url: https://api.github.com/repos/lq782655835/vuepress-plugin-element-ui/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/lq782655835/vuepress-plugin-element-ui/git/trees{/sha}
-updated_at: '2020-03-16T16:39:15Z'
+updated_at: '2020-04-24T11:06:30Z'
 url: https://api.github.com/repos/lq782655835/vuepress-plugin-element-ui
-watchers: 1
-watchers_count: 1
+watchers: 2
+watchers_count: 2
 ---
 
 # [vuepress-plugin-element-ui](https://superbiger.github.io/vuepress-plugin-tabs/)

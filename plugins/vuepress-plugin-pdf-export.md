@@ -107,7 +107,7 @@ pushed_at: '2020-03-18T21:11:16Z'
 releases_url: https://api.github.com/repos/SnowdogApps/vuepress-plugin-pdf-export/releases{/id}
 size: 28
 ssh_url: git@github.com:SnowdogApps/vuepress-plugin-pdf-export.git
-stargazers_count: 1
+stargazers_count: 2
 stargazers_url: https://api.github.com/repos/SnowdogApps/vuepress-plugin-pdf-export/stargazers
 statuses_url: https://api.github.com/repos/SnowdogApps/vuepress-plugin-pdf-export/statuses/{sha}
 subscribers_count: 5
@@ -118,10 +118,10 @@ tags_url: https://api.github.com/repos/SnowdogApps/vuepress-plugin-pdf-export/ta
 teams_url: https://api.github.com/repos/SnowdogApps/vuepress-plugin-pdf-export/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/SnowdogApps/vuepress-plugin-pdf-export/git/trees{/sha}
-updated_at: '2020-03-26T14:53:47Z'
+updated_at: '2020-04-25T08:46:18Z'
 url: https://api.github.com/repos/SnowdogApps/vuepress-plugin-pdf-export
-watchers: 1
-watchers_count: 1
+watchers: 2
+watchers_count: 2
 ---
 
 # @snowdog/vuepress-plugin-pdf-export

@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/yuicer/vuepress-theme-yuicer/downloads
 events_url: https://api.github.com/repos/yuicer/vuepress-theme-yuicer/events
 fork: false
-forks: 2
-forks_count: 2
+forks: 3
+forks_count: 3
 forks_url: https://api.github.com/repos/yuicer/vuepress-theme-yuicer/forks
 full_name: yuicer/vuepress-theme-yuicer
 git_commits_url: https://api.github.com/repos/yuicer/vuepress-theme-yuicer/git/commits{/sha}
@@ -53,11 +53,11 @@ merges_url: https://api.github.com/repos/yuicer/vuepress-theme-yuicer/merges
 milestones_url: https://api.github.com/repos/yuicer/vuepress-theme-yuicer/milestones{/number}
 mirror_url: null
 name: vuepress-theme-yuicer
-network_count: 2
+network_count: 3
 node_id: MDEwOlJlcG9zaXRvcnkxNjYzMzYyNTQ=
 notifications_url: https://api.github.com/repos/yuicer/vuepress-theme-yuicer/notifications{?since,all,participating}
-open_issues: 2
-open_issues_count: 2
+open_issues: 3
+open_issues_count: 3
 owner:
   avatar_url: https://avatars1.githubusercontent.com/u/23371475?v=4
   events_url: https://api.github.com/users/yuicer/events{/privacy}
@@ -83,11 +83,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/yuicer/vuepress-theme-yuicer/pulls{/number}
-pushed_at: '2020-04-06T14:23:29Z'
+pushed_at: '2020-04-16T19:52:24Z'
 releases_url: https://api.github.com/repos/yuicer/vuepress-theme-yuicer/releases{/id}
-size: 888
+size: 995
 ssh_url: git@github.com:yuicer/vuepress-theme-yuicer.git
-stargazers_count: 9
+stargazers_count: 10
 stargazers_url: https://api.github.com/repos/yuicer/vuepress-theme-yuicer/stargazers
 statuses_url: https://api.github.com/repos/yuicer/vuepress-theme-yuicer/statuses/{sha}
 subscribers_count: 0
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/yuicer/vuepress-theme-yuicer/tags
 teams_url: https://api.github.com/repos/yuicer/vuepress-theme-yuicer/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/yuicer/vuepress-theme-yuicer/git/trees{/sha}
-updated_at: '2020-04-06T14:23:33Z'
+updated_at: '2020-04-22T03:24:00Z'
 url: https://api.github.com/repos/yuicer/vuepress-theme-yuicer
-watchers: 9
-watchers_count: 9
+watchers: 10
+watchers_count: 10
 ---
 
 # @yuicer/vuepress-theme-yuicer

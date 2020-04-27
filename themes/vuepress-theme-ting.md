@@ -83,7 +83,7 @@ pushed_at: '2020-04-10T08:24:18Z'
 releases_url: https://api.github.com/repos/Chenyating/vuepress-theme-ting/releases{/id}
 size: 13272
 ssh_url: git@github.com:Chenyating/vuepress-theme-ting.git
-stargazers_count: 20
+stargazers_count: 26
 stargazers_url: https://api.github.com/repos/Chenyating/vuepress-theme-ting/stargazers
 statuses_url: https://api.github.com/repos/Chenyating/vuepress-theme-ting/statuses/{sha}
 subscribers_count: 1
@@ -94,10 +94,10 @@ tags_url: https://api.github.com/repos/Chenyating/vuepress-theme-ting/tags
 teams_url: https://api.github.com/repos/Chenyating/vuepress-theme-ting/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/Chenyating/vuepress-theme-ting/git/trees{/sha}
-updated_at: '2020-04-11T10:47:00Z'
+updated_at: '2020-04-25T01:15:03Z'
 url: https://api.github.com/repos/Chenyating/vuepress-theme-ting
-watchers: 20
-watchers_count: 20
+watchers: 26
+watchers_count: 26
 ---
 
 # vuepress-theme-ting

@@ -87,7 +87,7 @@ pushed_at: '2019-11-10T03:46:55Z'
 releases_url: https://api.github.com/repos/SigureMo/vuepress-plugin-cursor-effects/releases{/id}
 size: 9
 ssh_url: git@github.com:SigureMo/vuepress-plugin-cursor-effects.git
-stargazers_count: 2
+stargazers_count: 3
 stargazers_url: https://api.github.com/repos/SigureMo/vuepress-plugin-cursor-effects/stargazers
 statuses_url: https://api.github.com/repos/SigureMo/vuepress-plugin-cursor-effects/statuses/{sha}
 subscribers_count: 1
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/SigureMo/vuepress-plugin-cursor-effects/t
 teams_url: https://api.github.com/repos/SigureMo/vuepress-plugin-cursor-effects/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/SigureMo/vuepress-plugin-cursor-effects/git/trees{/sha}
-updated_at: '2019-11-10T03:46:57Z'
+updated_at: '2020-04-27T11:48:33Z'
 url: https://api.github.com/repos/SigureMo/vuepress-plugin-cursor-effects
-watchers: 2
-watchers_count: 2
+watchers: 3
+watchers_count: 3
 ---
 
 # vuepress-plugin-cursor-effects

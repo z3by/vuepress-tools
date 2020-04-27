@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/bencodezen/vuepress-plugin-janitor/downloads
 events_url: https://api.github.com/repos/bencodezen/vuepress-plugin-janitor/events
 fork: false
-forks: 0
-forks_count: 0
+forks: 1
+forks_count: 1
 forks_url: https://api.github.com/repos/bencodezen/vuepress-plugin-janitor/forks
 full_name: bencodezen/vuepress-plugin-janitor
 git_commits_url: https://api.github.com/repos/bencodezen/vuepress-plugin-janitor/git/commits{/sha}
@@ -48,7 +48,7 @@ merges_url: https://api.github.com/repos/bencodezen/vuepress-plugin-janitor/merg
 milestones_url: https://api.github.com/repos/bencodezen/vuepress-plugin-janitor/milestones{/number}
 mirror_url: null
 name: vuepress-plugin-janitor
-network_count: 0
+network_count: 1
 node_id: MDEwOlJlcG9zaXRvcnkxNjQ0NjgyODQ=
 notifications_url: https://api.github.com/repos/bencodezen/vuepress-plugin-janitor/notifications{?since,all,participating}
 open_issues: 3

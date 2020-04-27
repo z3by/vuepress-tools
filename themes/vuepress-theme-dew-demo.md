@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/hvnobug/vuepress-theme-dew-demo/downloads
 events_url: https://api.github.com/repos/hvnobug/vuepress-theme-dew-demo/events
 fork: false
-forks: 1
-forks_count: 1
+forks: 0
+forks_count: 0
 forks_url: https://api.github.com/repos/hvnobug/vuepress-theme-dew-demo/forks
 full_name: hvnobug/vuepress-theme-dew-demo
 git_commits_url: https://api.github.com/repos/hvnobug/vuepress-theme-dew-demo/git/commits{/sha}
@@ -48,7 +48,7 @@ merges_url: https://api.github.com/repos/hvnobug/vuepress-theme-dew-demo/merges
 milestones_url: https://api.github.com/repos/hvnobug/vuepress-theme-dew-demo/milestones{/number}
 mirror_url: null
 name: vuepress-theme-dew-demo
-network_count: 1
+network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyMjg3MzY1NTQ=
 notifications_url: https://api.github.com/repos/hvnobug/vuepress-theme-dew-demo/notifications{?since,all,participating}
 open_issues: 0

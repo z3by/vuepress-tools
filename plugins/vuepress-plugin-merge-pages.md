@@ -82,7 +82,7 @@ pushed_at: '2020-03-14T08:39:32Z'
 releases_url: https://api.github.com/repos/vinicius73/vuepress-plugin-merge-pages/releases{/id}
 size: 670
 ssh_url: git@github.com:vinicius73/vuepress-plugin-merge-pages.git
-stargazers_count: 3
+stargazers_count: 4
 stargazers_url: https://api.github.com/repos/vinicius73/vuepress-plugin-merge-pages/stargazers
 statuses_url: https://api.github.com/repos/vinicius73/vuepress-plugin-merge-pages/statuses/{sha}
 subscribers_count: 1
@@ -93,10 +93,10 @@ tags_url: https://api.github.com/repos/vinicius73/vuepress-plugin-merge-pages/ta
 teams_url: https://api.github.com/repos/vinicius73/vuepress-plugin-merge-pages/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/vinicius73/vuepress-plugin-merge-pages/git/trees{/sha}
-updated_at: '2019-12-06T22:29:14Z'
+updated_at: '2020-04-16T18:26:43Z'
 url: https://api.github.com/repos/vinicius73/vuepress-plugin-merge-pages
-watchers: 3
-watchers_count: 3
+watchers: 4
+watchers_count: 4
 ---
 
 # vuepress-plugin-merge-pages

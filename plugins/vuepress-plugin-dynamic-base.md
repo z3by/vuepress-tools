@@ -106,7 +106,7 @@ pushed_at: '2020-03-29T18:16:53Z'
 releases_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-dynamic-base/releases{/id}
 size: 14
 ssh_url: git@github.com:vuepressjs/vuepress-plugin-dynamic-base.git
-stargazers_count: 1
+stargazers_count: 2
 stargazers_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-dynamic-base/stargazers
 statuses_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-dynamic-base/statuses/{sha}
 subscribers_count: 1
@@ -117,10 +117,10 @@ tags_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-dynamic-base/t
 teams_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-dynamic-base/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-dynamic-base/git/trees{/sha}
-updated_at: '2020-03-29T18:16:55Z'
+updated_at: '2020-04-23T11:22:57Z'
 url: https://api.github.com/repos/vuepressjs/vuepress-plugin-dynamic-base
-watchers: 1
-watchers_count: 1
+watchers: 2
+watchers_count: 2
 ---
 
 # vuepress-plugin-dynamic-base

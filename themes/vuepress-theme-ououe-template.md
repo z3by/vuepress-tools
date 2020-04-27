@@ -87,7 +87,7 @@ pushed_at: '2019-12-07T09:48:37Z'
 releases_url: https://api.github.com/repos/tolking/vuepress-theme-ououe-template/releases{/id}
 size: 152
 ssh_url: git@github.com:tolking/vuepress-theme-ououe-template.git
-stargazers_count: 5
+stargazers_count: 6
 stargazers_url: https://api.github.com/repos/tolking/vuepress-theme-ououe-template/stargazers
 statuses_url: https://api.github.com/repos/tolking/vuepress-theme-ououe-template/statuses/{sha}
 subscribers_count: 0
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/tolking/vuepress-theme-ououe-template/tag
 teams_url: https://api.github.com/repos/tolking/vuepress-theme-ououe-template/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/tolking/vuepress-theme-ououe-template/git/trees{/sha}
-updated_at: '2019-12-07T09:48:39Z'
+updated_at: '2020-04-12T12:16:03Z'
 url: https://api.github.com/repos/tolking/vuepress-theme-ououe-template
-watchers: 5
-watchers_count: 5
+watchers: 6
+watchers_count: 6
 ---
 
 # vuepress-theme-ououe-template

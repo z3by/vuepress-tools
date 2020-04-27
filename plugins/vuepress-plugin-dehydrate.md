@@ -101,7 +101,7 @@ pushed_at: '2019-11-20T08:04:34Z'
 releases_url: https://api.github.com/repos/vuepress/vuepress-plugin-dehydrate/releases{/id}
 size: 1060
 ssh_url: git@github.com:vuepress/vuepress-plugin-dehydrate.git
-stargazers_count: 9
+stargazers_count: 10
 stargazers_url: https://api.github.com/repos/vuepress/vuepress-plugin-dehydrate/stargazers
 statuses_url: https://api.github.com/repos/vuepress/vuepress-plugin-dehydrate/statuses/{sha}
 subscribers_count: 1
@@ -112,10 +112,10 @@ tags_url: https://api.github.com/repos/vuepress/vuepress-plugin-dehydrate/tags
 teams_url: https://api.github.com/repos/vuepress/vuepress-plugin-dehydrate/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/vuepress/vuepress-plugin-dehydrate/git/trees{/sha}
-updated_at: '2019-11-20T08:05:20Z'
+updated_at: '2020-04-24T08:36:15Z'
 url: https://api.github.com/repos/vuepress/vuepress-plugin-dehydrate
-watchers: 9
-watchers_count: 9
+watchers: 10
+watchers_count: 10
 ---
 
 # [vuepress-plugin-dehydrate](https://vuepress.github.io/plugins/dehydrate/)

@@ -1,0 +1,106 @@
+---
+archive_url: https://api.github.com/repos/ttskch/vuepress-theme-blog-vuetify/{archive_format}{/ref}
+archived: false
+assignees_url: https://api.github.com/repos/ttskch/vuepress-theme-blog-vuetify/assignees{/user}
+blobs_url: https://api.github.com/repos/ttskch/vuepress-theme-blog-vuetify/git/blobs{/sha}
+branches_url: https://api.github.com/repos/ttskch/vuepress-theme-blog-vuetify/branches{/branch}
+clone_url: https://github.com/ttskch/vuepress-theme-blog-vuetify.git
+collaborators_url: https://api.github.com/repos/ttskch/vuepress-theme-blog-vuetify/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/ttskch/vuepress-theme-blog-vuetify/comments{/number}
+commits_url: https://api.github.com/repos/ttskch/vuepress-theme-blog-vuetify/commits{/sha}
+compare_url: https://api.github.com/repos/ttskch/vuepress-theme-blog-vuetify/compare/{base}...{head}
+contents_url: https://api.github.com/repos/ttskch/vuepress-theme-blog-vuetify/contents/{+path}
+contributors_url: https://api.github.com/repos/ttskch/vuepress-theme-blog-vuetify/contributors
+created_at: '2020-04-27T06:19:35Z'
+default_branch: master
+deployments_url: https://api.github.com/repos/ttskch/vuepress-theme-blog-vuetify/deployments
+description: A simple and beautiful VuePress blog theme built with Vuetify
+disabled: false
+downloads_url: https://api.github.com/repos/ttskch/vuepress-theme-blog-vuetify/downloads
+events_url: https://api.github.com/repos/ttskch/vuepress-theme-blog-vuetify/events
+fork: false
+forks: 0
+forks_count: 0
+forks_url: https://api.github.com/repos/ttskch/vuepress-theme-blog-vuetify/forks
+full_name: ttskch/vuepress-theme-blog-vuetify
+git_commits_url: https://api.github.com/repos/ttskch/vuepress-theme-blog-vuetify/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/ttskch/vuepress-theme-blog-vuetify/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/ttskch/vuepress-theme-blog-vuetify/git/tags{/sha}
+git_url: git://github.com/ttskch/vuepress-theme-blog-vuetify.git
+has_downloads: true
+has_issues: true
+has_pages: false
+has_projects: true
+has_wiki: true
+homepage: null
+hooks_url: https://api.github.com/repos/ttskch/vuepress-theme-blog-vuetify/hooks
+html_url: https://github.com/ttskch/vuepress-theme-blog-vuetify
+id: 259223612
+issue_comment_url: https://api.github.com/repos/ttskch/vuepress-theme-blog-vuetify/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/ttskch/vuepress-theme-blog-vuetify/issues/events{/number}
+issues_url: https://api.github.com/repos/ttskch/vuepress-theme-blog-vuetify/issues{/number}
+keys_url: https://api.github.com/repos/ttskch/vuepress-theme-blog-vuetify/keys{/key_id}
+labels_url: https://api.github.com/repos/ttskch/vuepress-theme-blog-vuetify/labels{/name}
+language: null
+languages_url: https://api.github.com/repos/ttskch/vuepress-theme-blog-vuetify/languages
+license:
+  key: mit
+  name: MIT License
+  node_id: MDc6TGljZW5zZTEz
+  spdx_id: MIT
+  url: https://api.github.com/licenses/mit
+merges_url: https://api.github.com/repos/ttskch/vuepress-theme-blog-vuetify/merges
+milestones_url: https://api.github.com/repos/ttskch/vuepress-theme-blog-vuetify/milestones{/number}
+mirror_url: null
+name: vuepress-theme-blog-vuetify
+network_count: 0
+node_id: MDEwOlJlcG9zaXRvcnkyNTkyMjM2MTI=
+notifications_url: https://api.github.com/repos/ttskch/vuepress-theme-blog-vuetify/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
+owner:
+  avatar_url: https://avatars3.githubusercontent.com/u/4360663?v=4
+  events_url: https://api.github.com/users/ttskch/events{/privacy}
+  followers_url: https://api.github.com/users/ttskch/followers
+  following_url: https://api.github.com/users/ttskch/following{/other_user}
+  gists_url: https://api.github.com/users/ttskch/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/ttskch
+  id: 4360663
+  login: ttskch
+  node_id: MDQ6VXNlcjQzNjA2NjM=
+  organizations_url: https://api.github.com/users/ttskch/orgs
+  received_events_url: https://api.github.com/users/ttskch/received_events
+  repos_url: https://api.github.com/users/ttskch/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/ttskch/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/ttskch/subscriptions
+  type: User
+  url: https://api.github.com/users/ttskch
+permissions:
+  admin: false
+  pull: true
+  push: false
+private: false
+pulls_url: https://api.github.com/repos/ttskch/vuepress-theme-blog-vuetify/pulls{/number}
+pushed_at: '2020-04-27T06:19:38Z'
+releases_url: https://api.github.com/repos/ttskch/vuepress-theme-blog-vuetify/releases{/id}
+size: 1
+ssh_url: git@github.com:ttskch/vuepress-theme-blog-vuetify.git
+stargazers_count: 0
+stargazers_url: https://api.github.com/repos/ttskch/vuepress-theme-blog-vuetify/stargazers
+statuses_url: https://api.github.com/repos/ttskch/vuepress-theme-blog-vuetify/statuses/{sha}
+subscribers_count: 1
+subscribers_url: https://api.github.com/repos/ttskch/vuepress-theme-blog-vuetify/subscribers
+subscription_url: https://api.github.com/repos/ttskch/vuepress-theme-blog-vuetify/subscription
+svn_url: https://github.com/ttskch/vuepress-theme-blog-vuetify
+tags_url: https://api.github.com/repos/ttskch/vuepress-theme-blog-vuetify/tags
+teams_url: https://api.github.com/repos/ttskch/vuepress-theme-blog-vuetify/teams
+temp_clone_token: ''
+trees_url: https://api.github.com/repos/ttskch/vuepress-theme-blog-vuetify/git/trees{/sha}
+updated_at: '2020-04-27T06:19:40Z'
+url: https://api.github.com/repos/ttskch/vuepress-theme-blog-vuetify
+watchers: 0
+watchers_count: 0
+---
+

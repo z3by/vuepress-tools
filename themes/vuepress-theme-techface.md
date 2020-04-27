@@ -41,7 +41,7 @@ issue_events_url: https://api.github.com/repos/xiayuxiaoyan/vuepress-theme-techf
 issues_url: https://api.github.com/repos/xiayuxiaoyan/vuepress-theme-techface/issues{/number}
 keys_url: https://api.github.com/repos/xiayuxiaoyan/vuepress-theme-techface/keys{/key_id}
 labels_url: https://api.github.com/repos/xiayuxiaoyan/vuepress-theme-techface/labels{/name}
-language: null
+language: JavaScript
 languages_url: https://api.github.com/repos/xiayuxiaoyan/vuepress-theme-techface/languages
 license: null
 merges_url: https://api.github.com/repos/xiayuxiaoyan/vuepress-theme-techface/merges
@@ -78,9 +78,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/xiayuxiaoyan/vuepress-theme-techface/pulls{/number}
-pushed_at: '2020-03-17T06:32:38Z'
+pushed_at: '2020-04-14T08:47:01Z'
 releases_url: https://api.github.com/repos/xiayuxiaoyan/vuepress-theme-techface/releases{/id}
-size: 0
+size: 3657
 ssh_url: git@github.com:xiayuxiaoyan/vuepress-theme-techface.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/xiayuxiaoyan/vuepress-theme-techface/stargazers
@@ -93,9 +93,16 @@ tags_url: https://api.github.com/repos/xiayuxiaoyan/vuepress-theme-techface/tags
 teams_url: https://api.github.com/repos/xiayuxiaoyan/vuepress-theme-techface/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/xiayuxiaoyan/vuepress-theme-techface/git/trees{/sha}
-updated_at: '2020-03-17T06:32:40Z'
+updated_at: '2020-04-14T08:47:04Z'
 url: https://api.github.com/repos/xiayuxiaoyan/vuepress-theme-techface
 watchers: 0
 watchers_count: 0
 ---
 
+# run
+```
+npx vuepress dev docs
+```
+
+open http://localhost:8080/tech-face/pg1.html
+try to switch pg1 to pg1-1

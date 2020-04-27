@@ -1,0 +1,101 @@
+---
+archive_url: https://api.github.com/repos/xiongchengqing/vuepress-plugin-docs/{archive_format}{/ref}
+archived: false
+assignees_url: https://api.github.com/repos/xiongchengqing/vuepress-plugin-docs/assignees{/user}
+blobs_url: https://api.github.com/repos/xiongchengqing/vuepress-plugin-docs/git/blobs{/sha}
+branches_url: https://api.github.com/repos/xiongchengqing/vuepress-plugin-docs/branches{/branch}
+clone_url: https://github.com/xiongchengqing/vuepress-plugin-docs.git
+collaborators_url: https://api.github.com/repos/xiongchengqing/vuepress-plugin-docs/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/xiongchengqing/vuepress-plugin-docs/comments{/number}
+commits_url: https://api.github.com/repos/xiongchengqing/vuepress-plugin-docs/commits{/sha}
+compare_url: https://api.github.com/repos/xiongchengqing/vuepress-plugin-docs/compare/{base}...{head}
+contents_url: https://api.github.com/repos/xiongchengqing/vuepress-plugin-docs/contents/{+path}
+contributors_url: https://api.github.com/repos/xiongchengqing/vuepress-plugin-docs/contributors
+created_at: '2019-01-22T08:09:20Z'
+default_branch: master
+deployments_url: https://api.github.com/repos/xiongchengqing/vuepress-plugin-docs/deployments
+description: a vuepress plugin help you write beautiful docs
+disabled: false
+downloads_url: https://api.github.com/repos/xiongchengqing/vuepress-plugin-docs/downloads
+events_url: https://api.github.com/repos/xiongchengqing/vuepress-plugin-docs/events
+fork: false
+forks: 0
+forks_count: 0
+forks_url: https://api.github.com/repos/xiongchengqing/vuepress-plugin-docs/forks
+full_name: xiongchengqing/vuepress-plugin-docs
+git_commits_url: https://api.github.com/repos/xiongchengqing/vuepress-plugin-docs/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/xiongchengqing/vuepress-plugin-docs/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/xiongchengqing/vuepress-plugin-docs/git/tags{/sha}
+git_url: git://github.com/xiongchengqing/vuepress-plugin-docs.git
+has_downloads: true
+has_issues: true
+has_pages: false
+has_projects: true
+has_wiki: true
+homepage: null
+hooks_url: https://api.github.com/repos/xiongchengqing/vuepress-plugin-docs/hooks
+html_url: https://github.com/xiongchengqing/vuepress-plugin-docs
+id: 166953800
+issue_comment_url: https://api.github.com/repos/xiongchengqing/vuepress-plugin-docs/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/xiongchengqing/vuepress-plugin-docs/issues/events{/number}
+issues_url: https://api.github.com/repos/xiongchengqing/vuepress-plugin-docs/issues{/number}
+keys_url: https://api.github.com/repos/xiongchengqing/vuepress-plugin-docs/keys{/key_id}
+labels_url: https://api.github.com/repos/xiongchengqing/vuepress-plugin-docs/labels{/name}
+language: null
+languages_url: https://api.github.com/repos/xiongchengqing/vuepress-plugin-docs/languages
+license: null
+merges_url: https://api.github.com/repos/xiongchengqing/vuepress-plugin-docs/merges
+milestones_url: https://api.github.com/repos/xiongchengqing/vuepress-plugin-docs/milestones{/number}
+mirror_url: null
+name: vuepress-plugin-docs
+network_count: 0
+node_id: MDEwOlJlcG9zaXRvcnkxNjY5NTM4MDA=
+notifications_url: https://api.github.com/repos/xiongchengqing/vuepress-plugin-docs/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
+owner:
+  avatar_url: https://avatars1.githubusercontent.com/u/1636616?v=4
+  events_url: https://api.github.com/users/xiongchengqing/events{/privacy}
+  followers_url: https://api.github.com/users/xiongchengqing/followers
+  following_url: https://api.github.com/users/xiongchengqing/following{/other_user}
+  gists_url: https://api.github.com/users/xiongchengqing/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/xiongchengqing
+  id: 1636616
+  login: xiongchengqing
+  node_id: MDQ6VXNlcjE2MzY2MTY=
+  organizations_url: https://api.github.com/users/xiongchengqing/orgs
+  received_events_url: https://api.github.com/users/xiongchengqing/received_events
+  repos_url: https://api.github.com/users/xiongchengqing/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/xiongchengqing/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/xiongchengqing/subscriptions
+  type: User
+  url: https://api.github.com/users/xiongchengqing
+permissions:
+  admin: false
+  pull: true
+  push: false
+private: false
+pulls_url: https://api.github.com/repos/xiongchengqing/vuepress-plugin-docs/pulls{/number}
+pushed_at: '2019-01-22T08:09:20Z'
+releases_url: https://api.github.com/repos/xiongchengqing/vuepress-plugin-docs/releases{/id}
+size: 0
+ssh_url: git@github.com:xiongchengqing/vuepress-plugin-docs.git
+stargazers_count: 0
+stargazers_url: https://api.github.com/repos/xiongchengqing/vuepress-plugin-docs/stargazers
+statuses_url: https://api.github.com/repos/xiongchengqing/vuepress-plugin-docs/statuses/{sha}
+subscribers_count: 1
+subscribers_url: https://api.github.com/repos/xiongchengqing/vuepress-plugin-docs/subscribers
+subscription_url: https://api.github.com/repos/xiongchengqing/vuepress-plugin-docs/subscription
+svn_url: https://github.com/xiongchengqing/vuepress-plugin-docs
+tags_url: https://api.github.com/repos/xiongchengqing/vuepress-plugin-docs/tags
+teams_url: https://api.github.com/repos/xiongchengqing/vuepress-plugin-docs/teams
+temp_clone_token: ''
+trees_url: https://api.github.com/repos/xiongchengqing/vuepress-plugin-docs/git/trees{/sha}
+updated_at: '2019-01-22T08:09:20Z'
+url: https://api.github.com/repos/xiongchengqing/vuepress-plugin-docs
+watchers: 0
+watchers_count: 0
+---
+

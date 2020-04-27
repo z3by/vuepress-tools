@@ -14,8 +14,8 @@ contributors_url: https://api.github.com/repos/YoungsunLi/vuepress-theme-concise
 created_at: '2018-05-05T15:33:36Z'
 default_branch: master
 deployments_url: https://api.github.com/repos/YoungsunLi/vuepress-theme-concise/deployments
-description: "\u5361\u7247\u5F0F\u9996\u9875\u5448\u73B0\u7684VuePress1.x\u4E3B\u9898\
-  \  VuePress 1.x derived theme."
+description: "\u5361\u7247\u5F0F\u9996\u9875\u5448\u73B0\u7684 VuePress1.x \u7EE7\u627F\
+  \u4E3B\u9898  VuePress 1.x derived theme."
 disabled: false
 downloads_url: https://api.github.com/repos/YoungsunLi/vuepress-theme-concise/downloads
 events_url: https://api.github.com/repos/YoungsunLi/vuepress-theme-concise/events
@@ -84,11 +84,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/YoungsunLi/vuepress-theme-concise/pulls{/number}
-pushed_at: '2020-03-18T08:19:41Z'
+pushed_at: '2020-04-25T08:28:29Z'
 releases_url: https://api.github.com/repos/YoungsunLi/vuepress-theme-concise/releases{/id}
-size: 26
+size: 30
 ssh_url: git@github.com:YoungsunLi/vuepress-theme-concise.git
-stargazers_count: 6
+stargazers_count: 5
 stargazers_url: https://api.github.com/repos/YoungsunLi/vuepress-theme-concise/stargazers
 statuses_url: https://api.github.com/repos/YoungsunLi/vuepress-theme-concise/statuses/{sha}
 subscribers_count: 0
@@ -99,10 +99,10 @@ tags_url: https://api.github.com/repos/YoungsunLi/vuepress-theme-concise/tags
 teams_url: https://api.github.com/repos/YoungsunLi/vuepress-theme-concise/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/YoungsunLi/vuepress-theme-concise/git/trees{/sha}
-updated_at: '2020-04-03T13:58:00Z'
+updated_at: '2020-04-25T08:28:35Z'
 url: https://api.github.com/repos/YoungsunLi/vuepress-theme-concise
-watchers: 6
-watchers_count: 6
+watchers: 5
+watchers_count: 5
 ---
 
 # 卡片式首页呈现的VuePress主题

@@ -82,7 +82,7 @@ pushed_at: '2019-04-05T14:33:36Z'
 releases_url: https://api.github.com/repos/IOriens/vuepress-plugin-canonical/releases{/id}
 size: 1
 ssh_url: git@github.com:IOriens/vuepress-plugin-canonical.git
-stargazers_count: 7
+stargazers_count: 8
 stargazers_url: https://api.github.com/repos/IOriens/vuepress-plugin-canonical/stargazers
 statuses_url: https://api.github.com/repos/IOriens/vuepress-plugin-canonical/statuses/{sha}
 subscribers_count: 1
@@ -93,10 +93,10 @@ tags_url: https://api.github.com/repos/IOriens/vuepress-plugin-canonical/tags
 teams_url: https://api.github.com/repos/IOriens/vuepress-plugin-canonical/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/IOriens/vuepress-plugin-canonical/git/trees{/sha}
-updated_at: '2020-04-03T15:13:44Z'
+updated_at: '2020-04-14T07:55:53Z'
 url: https://api.github.com/repos/IOriens/vuepress-plugin-canonical
-watchers: 7
-watchers_count: 7
+watchers: 8
+watchers_count: 8
 ---
 
 # vuepress-plugin-canonical

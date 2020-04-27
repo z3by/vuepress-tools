@@ -26,8 +26,16 @@
     </Page>
     <p class="text-right m-1">
       Made with ❤️ by
-      <a href="http://ahmadmostafa.com" target="_blank" rel="noopener noreferrer">Ahmad Mostafa</a> -
-      <a href="http://github.com/z3by" target="_blank" rel="noopener noreferrer">@z3by</a>
+      <a
+        href="http://ahmadmostafa.com"
+        target="_blank"
+        rel="noopener noreferrer"
+        >Ahmad Mostafa</a
+      >
+      -
+      <a href="http://github.com/z3by" target="_blank" rel="noopener noreferrer"
+        >@z3by</a
+      >
     </p>
   </div>
 </template>
@@ -44,7 +52,7 @@ export default {
 
   data() {
     return {
-      isSidebarOpen: false
+      isSidebarOpen: false,
     };
   },
 
@@ -74,12 +82,14 @@ export default {
     },
 
     sidebarItems() {
-      return resolveSidebarItems(
+      let items = resolveSidebarItems(
         this.$page,
         this.$page.regularPath,
         this.$site,
         this.$localePath
       );
+
+      return items;
     },
 
     pageClasses() {
@@ -88,11 +98,11 @@ export default {
         {
           "no-navbar": !this.shouldShowNavbar,
           "sidebar-open": this.isSidebarOpen,
-          "no-sidebar": !this.shouldShowSidebar
+          "no-sidebar": !this.shouldShowSidebar,
         },
-        userPageClass
+        userPageClass,
       ];
-    }
+    },
   },
 
   mounted() {
@@ -111,7 +121,7 @@ export default {
     onTouchStart(e) {
       this.touchStart = {
         x: e.changedTouches[0].clientX,
-        y: e.changedTouches[0].clientY
+        y: e.changedTouches[0].clientY,
       };
     },
 
@@ -125,7 +135,7 @@ export default {
           this.toggleSidebar(false);
         }
       }
-    }
-  }
+    },
+  },
 };
 </script>

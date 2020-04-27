@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/vxhly/vuepress-plugin-one-click-copy/downloads
 events_url: https://api.github.com/repos/vxhly/vuepress-plugin-one-click-copy/events
 fork: false
-forks: 0
-forks_count: 0
+forks: 1
+forks_count: 1
 forks_url: https://api.github.com/repos/vxhly/vuepress-plugin-one-click-copy/forks
 full_name: vxhly/vuepress-plugin-one-click-copy
 git_commits_url: https://api.github.com/repos/vxhly/vuepress-plugin-one-click-copy/git/commits{/sha}
@@ -53,7 +53,7 @@ merges_url: https://api.github.com/repos/vxhly/vuepress-plugin-one-click-copy/me
 milestones_url: https://api.github.com/repos/vxhly/vuepress-plugin-one-click-copy/milestones{/number}
 mirror_url: null
 name: vuepress-plugin-one-click-copy
-network_count: 0
+network_count: 1
 node_id: MDEwOlJlcG9zaXRvcnkyMTg0Nzc0ODk=
 notifications_url: https://api.github.com/repos/vxhly/vuepress-plugin-one-click-copy/notifications{?since,all,participating}
 open_issues: 0
@@ -87,7 +87,7 @@ pushed_at: '2020-03-16T09:34:20Z'
 releases_url: https://api.github.com/repos/vxhly/vuepress-plugin-one-click-copy/releases{/id}
 size: 8
 ssh_url: git@github.com:vxhly/vuepress-plugin-one-click-copy.git
-stargazers_count: 2
+stargazers_count: 3
 stargazers_url: https://api.github.com/repos/vxhly/vuepress-plugin-one-click-copy/stargazers
 statuses_url: https://api.github.com/repos/vxhly/vuepress-plugin-one-click-copy/statuses/{sha}
 subscribers_count: 1
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/vxhly/vuepress-plugin-one-click-copy/tags
 teams_url: https://api.github.com/repos/vxhly/vuepress-plugin-one-click-copy/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/vxhly/vuepress-plugin-one-click-copy/git/trees{/sha}
-updated_at: '2020-03-29T04:49:47Z'
+updated_at: '2020-04-16T07:49:21Z'
 url: https://api.github.com/repos/vxhly/vuepress-plugin-one-click-copy
-watchers: 2
-watchers_count: 2
+watchers: 3
+watchers_count: 3
 ---
 
 # vuepress-plugin-one-click-copy

@@ -87,7 +87,7 @@ pushed_at: '2019-03-09T20:44:27Z'
 releases_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez-starter/releases{/id}
 size: 903
 ssh_url: git@github.com:ktquez/vuepress-theme-ktquez-starter.git
-stargazers_count: 25
+stargazers_count: 26
 stargazers_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez-starter/stargazers
 statuses_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez-starter/statuses/{sha}
 subscribers_count: 1
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez-starter/tags
 teams_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez-starter/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez-starter/git/trees{/sha}
-updated_at: '2020-02-17T10:30:28Z'
+updated_at: '2020-04-26T07:57:27Z'
 url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez-starter
-watchers: 25
-watchers_count: 25
+watchers: 26
+watchers_count: 26
 ---
 
 # vuepress-ktquez-theme-starter

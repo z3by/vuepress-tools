@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/SigureMo/vuepress-plugin-go-top/pulls{/number}
-pushed_at: '2020-03-21T11:17:12Z'
+pushed_at: '2020-04-27T11:46:20Z'
 releases_url: https://api.github.com/repos/SigureMo/vuepress-plugin-go-top/releases{/id}
-size: 7
+size: 8
 ssh_url: git@github.com:SigureMo/vuepress-plugin-go-top.git
 stargazers_count: 3
 stargazers_url: https://api.github.com/repos/SigureMo/vuepress-plugin-go-top/stargazers
@@ -98,7 +98,7 @@ tags_url: https://api.github.com/repos/SigureMo/vuepress-plugin-go-top/tags
 teams_url: https://api.github.com/repos/SigureMo/vuepress-plugin-go-top/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/SigureMo/vuepress-plugin-go-top/git/trees{/sha}
-updated_at: '2020-03-25T10:09:50Z'
+updated_at: '2020-04-27T11:46:23Z'
 url: https://api.github.com/repos/SigureMo/vuepress-plugin-go-top
 watchers: 3
 watchers_count: 3

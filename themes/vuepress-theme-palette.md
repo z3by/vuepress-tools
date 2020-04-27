@@ -14,7 +14,8 @@ contributors_url: https://api.github.com/repos/aimkiray/vuepress-theme-palette/c
 created_at: '2020-02-10T15:19:48Z'
 default_branch: master
 deployments_url: https://api.github.com/repos/aimkiray/vuepress-theme-palette/deployments
-description: "\u4E0D\u53EF\u540D\u72B6\u4E4B\u7269\uFF08\u65BD\u5DE5\u4E2D"
+description: "\u4E0D\u53EF\u540D\u72B6\u7684\u535A\u5BA2\u4E3B\u9898\uFF08\u65BD\u5DE5\
+  \u4E2D"
 disabled: false
 downloads_url: https://api.github.com/repos/aimkiray/vuepress-theme-palette/downloads
 events_url: https://api.github.com/repos/aimkiray/vuepress-theme-palette/events
@@ -93,7 +94,7 @@ tags_url: https://api.github.com/repos/aimkiray/vuepress-theme-palette/tags
 teams_url: https://api.github.com/repos/aimkiray/vuepress-theme-palette/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/aimkiray/vuepress-theme-palette/git/trees{/sha}
-updated_at: '2020-04-10T06:08:37Z'
+updated_at: '2020-04-27T09:52:01Z'
 url: https://api.github.com/repos/aimkiray/vuepress-theme-palette
 watchers: 1
 watchers_count: 1

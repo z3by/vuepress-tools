@@ -87,7 +87,7 @@ pushed_at: '2020-04-04T02:39:32Z'
 releases_url: https://api.github.com/repos/tolking/vuepress-plugin-img-lazy/releases{/id}
 size: 555
 ssh_url: git@github.com:tolking/vuepress-plugin-img-lazy.git
-stargazers_count: 8
+stargazers_count: 9
 stargazers_url: https://api.github.com/repos/tolking/vuepress-plugin-img-lazy/stargazers
 statuses_url: https://api.github.com/repos/tolking/vuepress-plugin-img-lazy/statuses/{sha}
 subscribers_count: 2
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/tolking/vuepress-plugin-img-lazy/tags
 teams_url: https://api.github.com/repos/tolking/vuepress-plugin-img-lazy/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/tolking/vuepress-plugin-img-lazy/git/trees{/sha}
-updated_at: '2020-04-04T02:38:02Z'
+updated_at: '2020-04-15T22:20:15Z'
 url: https://api.github.com/repos/tolking/vuepress-plugin-img-lazy
-watchers: 8
-watchers_count: 8
+watchers: 9
+watchers_count: 9
 ---
 
 # vuepress-plugin-img-lazy

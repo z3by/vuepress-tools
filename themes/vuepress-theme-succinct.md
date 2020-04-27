@@ -87,7 +87,7 @@ pushed_at: '2020-04-04T08:03:04Z'
 releases_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/releases{/id}
 size: 774
 ssh_url: git@github.com:Microflash/vuepress-theme-succinct.git
-stargazers_count: 5
+stargazers_count: 6
 stargazers_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/stargazers
 statuses_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/statuses/{sha}
 subscribers_count: 2
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/tags
 teams_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/git/trees{/sha}
-updated_at: '2020-04-04T08:03:06Z'
+updated_at: '2020-04-15T03:00:22Z'
 url: https://api.github.com/repos/Microflash/vuepress-theme-succinct
-watchers: 5
-watchers_count: 5
+watchers: 6
+watchers_count: 6
 ---
 
 # vuepress-theme-succinct

@@ -78,7 +78,7 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/lisniuse/vuepress-theme-teadocs/pulls{/number}
-pushed_at: '2019-11-09T02:34:10Z'
+pushed_at: '2020-04-25T11:11:35Z'
 releases_url: https://api.github.com/repos/lisniuse/vuepress-theme-teadocs/releases{/id}
 size: 138
 ssh_url: git@github.com:lisniuse/vuepress-theme-teadocs.git
@@ -93,7 +93,7 @@ tags_url: https://api.github.com/repos/lisniuse/vuepress-theme-teadocs/tags
 teams_url: https://api.github.com/repos/lisniuse/vuepress-theme-teadocs/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/lisniuse/vuepress-theme-teadocs/git/trees{/sha}
-updated_at: '2019-11-23T02:00:09Z'
+updated_at: '2020-04-25T11:11:37Z'
 url: https://api.github.com/repos/lisniuse/vuepress-theme-teadocs
 watchers: 1
 watchers_count: 1

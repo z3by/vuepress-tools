@@ -83,11 +83,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/tolking/vuepress-theme-default-prefers-color-scheme/pulls{/number}
-pushed_at: '2020-03-11T05:26:33Z'
+pushed_at: '2020-04-25T02:08:15Z'
 releases_url: https://api.github.com/repos/tolking/vuepress-theme-default-prefers-color-scheme/releases{/id}
-size: 772
+size: 842
 ssh_url: git@github.com:tolking/vuepress-theme-default-prefers-color-scheme.git
-stargazers_count: 22
+stargazers_count: 23
 stargazers_url: https://api.github.com/repos/tolking/vuepress-theme-default-prefers-color-scheme/stargazers
 statuses_url: https://api.github.com/repos/tolking/vuepress-theme-default-prefers-color-scheme/statuses/{sha}
 subscribers_count: 2
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/tolking/vuepress-theme-default-prefers-co
 teams_url: https://api.github.com/repos/tolking/vuepress-theme-default-prefers-color-scheme/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/tolking/vuepress-theme-default-prefers-color-scheme/git/trees{/sha}
-updated_at: '2020-03-11T05:20:12Z'
+updated_at: '2020-04-25T02:05:49Z'
 url: https://api.github.com/repos/tolking/vuepress-theme-default-prefers-color-scheme
-watchers: 22
-watchers_count: 22
+watchers: 23
+watchers_count: 23
 ---
 
 # vuepress-theme-default-prefers-color-scheme

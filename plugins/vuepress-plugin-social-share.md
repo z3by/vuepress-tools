@@ -30,7 +30,7 @@ git_url: git://github.com/ntnyq/vuepress-plugin-social-share.git
 has_downloads: true
 has_issues: true
 has_pages: false
-has_projects: false
+has_projects: true
 has_wiki: false
 homepage: https://sns.goyfe.com
 hooks_url: https://api.github.com/repos/ntnyq/vuepress-plugin-social-share/hooks
@@ -98,7 +98,7 @@ tags_url: https://api.github.com/repos/ntnyq/vuepress-plugin-social-share/tags
 teams_url: https://api.github.com/repos/ntnyq/vuepress-plugin-social-share/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/ntnyq/vuepress-plugin-social-share/git/trees{/sha}
-updated_at: '2020-04-05T16:55:38Z'
+updated_at: '2020-04-23T05:10:16Z'
 url: https://api.github.com/repos/ntnyq/vuepress-plugin-social-share
 watchers: 12
 watchers_count: 12

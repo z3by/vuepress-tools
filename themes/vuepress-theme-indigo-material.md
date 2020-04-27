@@ -1,107 +1,107 @@
 ---
-archive_url: https://api.github.com/repos/ganchang/vuepress-theme/{archive_format}{/ref}
+archive_url: https://api.github.com/repos/zhhlwd/vuepress-theme-indigo-material/{archive_format}{/ref}
 archived: false
-assignees_url: https://api.github.com/repos/ganchang/vuepress-theme/assignees{/user}
-blobs_url: https://api.github.com/repos/ganchang/vuepress-theme/git/blobs{/sha}
-branches_url: https://api.github.com/repos/ganchang/vuepress-theme/branches{/branch}
-clone_url: https://github.com/ganchang/vuepress-theme.git
-collaborators_url: https://api.github.com/repos/ganchang/vuepress-theme/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/ganchang/vuepress-theme/comments{/number}
-commits_url: https://api.github.com/repos/ganchang/vuepress-theme/commits{/sha}
-compare_url: https://api.github.com/repos/ganchang/vuepress-theme/compare/{base}...{head}
-contents_url: https://api.github.com/repos/ganchang/vuepress-theme/contents/{+path}
-contributors_url: https://api.github.com/repos/ganchang/vuepress-theme/contributors
-created_at: '2019-09-16T12:25:53Z'
+assignees_url: https://api.github.com/repos/zhhlwd/vuepress-theme-indigo-material/assignees{/user}
+blobs_url: https://api.github.com/repos/zhhlwd/vuepress-theme-indigo-material/git/blobs{/sha}
+branches_url: https://api.github.com/repos/zhhlwd/vuepress-theme-indigo-material/branches{/branch}
+clone_url: https://github.com/zhhlwd/vuepress-theme-indigo-material.git
+collaborators_url: https://api.github.com/repos/zhhlwd/vuepress-theme-indigo-material/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/zhhlwd/vuepress-theme-indigo-material/comments{/number}
+commits_url: https://api.github.com/repos/zhhlwd/vuepress-theme-indigo-material/commits{/sha}
+compare_url: https://api.github.com/repos/zhhlwd/vuepress-theme-indigo-material/compare/{base}...{head}
+contents_url: https://api.github.com/repos/zhhlwd/vuepress-theme-indigo-material/contents/{+path}
+contributors_url: https://api.github.com/repos/zhhlwd/vuepress-theme-indigo-material/contributors
+created_at: '2019-02-19T13:00:51Z'
 default_branch: master
-deployments_url: https://api.github.com/repos/ganchang/vuepress-theme/deployments
-description: null
+deployments_url: https://api.github.com/repos/zhhlwd/vuepress-theme-indigo-material/deployments
+description: "\U0001F44D\U0001F525\U0001F525\U0001F525Material Design theme for vuepress"
 disabled: false
-downloads_url: https://api.github.com/repos/ganchang/vuepress-theme/downloads
-events_url: https://api.github.com/repos/ganchang/vuepress-theme/events
+downloads_url: https://api.github.com/repos/zhhlwd/vuepress-theme-indigo-material/downloads
+events_url: https://api.github.com/repos/zhhlwd/vuepress-theme-indigo-material/events
 fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/ganchang/vuepress-theme/forks
-full_name: ganchang/vuepress-theme
-git_commits_url: https://api.github.com/repos/ganchang/vuepress-theme/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/ganchang/vuepress-theme/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/ganchang/vuepress-theme/git/tags{/sha}
-git_url: git://github.com/ganchang/vuepress-theme.git
+forks: 37
+forks_count: 37
+forks_url: https://api.github.com/repos/zhhlwd/vuepress-theme-indigo-material/forks
+full_name: zhhlwd/vuepress-theme-indigo-material
+git_commits_url: https://api.github.com/repos/zhhlwd/vuepress-theme-indigo-material/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/zhhlwd/vuepress-theme-indigo-material/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/zhhlwd/vuepress-theme-indigo-material/git/tags{/sha}
+git_url: git://github.com/zhhlwd/vuepress-theme-indigo-material.git
 has_downloads: true
 has_issues: true
 has_pages: false
 has_projects: true
 has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/ganchang/vuepress-theme/hooks
-html_url: https://github.com/ganchang/vuepress-theme
-id: 208793690
-issue_comment_url: https://api.github.com/repos/ganchang/vuepress-theme/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/ganchang/vuepress-theme/issues/events{/number}
-issues_url: https://api.github.com/repos/ganchang/vuepress-theme/issues{/number}
-keys_url: https://api.github.com/repos/ganchang/vuepress-theme/keys{/key_id}
-labels_url: https://api.github.com/repos/ganchang/vuepress-theme/labels{/name}
+homepage: https://zhhlwd.gitee.io/
+hooks_url: https://api.github.com/repos/zhhlwd/vuepress-theme-indigo-material/hooks
+html_url: https://github.com/zhhlwd/vuepress-theme-indigo-material
+id: 171474309
+issue_comment_url: https://api.github.com/repos/zhhlwd/vuepress-theme-indigo-material/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/zhhlwd/vuepress-theme-indigo-material/issues/events{/number}
+issues_url: https://api.github.com/repos/zhhlwd/vuepress-theme-indigo-material/issues{/number}
+keys_url: https://api.github.com/repos/zhhlwd/vuepress-theme-indigo-material/keys{/key_id}
+labels_url: https://api.github.com/repos/zhhlwd/vuepress-theme-indigo-material/labels{/name}
 language: Vue
-languages_url: https://api.github.com/repos/ganchang/vuepress-theme/languages
+languages_url: https://api.github.com/repos/zhhlwd/vuepress-theme-indigo-material/languages
 license:
   key: mit
   name: MIT License
   node_id: MDc6TGljZW5zZTEz
   spdx_id: MIT
   url: https://api.github.com/licenses/mit
-merges_url: https://api.github.com/repos/ganchang/vuepress-theme/merges
-milestones_url: https://api.github.com/repos/ganchang/vuepress-theme/milestones{/number}
+merges_url: https://api.github.com/repos/zhhlwd/vuepress-theme-indigo-material/merges
+milestones_url: https://api.github.com/repos/zhhlwd/vuepress-theme-indigo-material/milestones{/number}
 mirror_url: null
-name: vuepress-theme
-network_count: 0
-node_id: MDEwOlJlcG9zaXRvcnkyMDg3OTM2OTA=
-notifications_url: https://api.github.com/repos/ganchang/vuepress-theme/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
+name: vuepress-theme-indigo-material
+network_count: 37
+node_id: MDEwOlJlcG9zaXRvcnkxNzE0NzQzMDk=
+notifications_url: https://api.github.com/repos/zhhlwd/vuepress-theme-indigo-material/notifications{?since,all,participating}
+open_issues: 3
+open_issues_count: 3
 owner:
-  avatar_url: https://avatars1.githubusercontent.com/u/54839432?v=4
-  events_url: https://api.github.com/users/ganchang/events{/privacy}
-  followers_url: https://api.github.com/users/ganchang/followers
-  following_url: https://api.github.com/users/ganchang/following{/other_user}
-  gists_url: https://api.github.com/users/ganchang/gists{/gist_id}
+  avatar_url: https://avatars3.githubusercontent.com/u/35592403?v=4
+  events_url: https://api.github.com/users/zhhlwd/events{/privacy}
+  followers_url: https://api.github.com/users/zhhlwd/followers
+  following_url: https://api.github.com/users/zhhlwd/following{/other_user}
+  gists_url: https://api.github.com/users/zhhlwd/gists{/gist_id}
   gravatar_id: ''
-  html_url: https://github.com/ganchang
-  id: 54839432
-  login: ganchang
-  node_id: MDQ6VXNlcjU0ODM5NDMy
-  organizations_url: https://api.github.com/users/ganchang/orgs
-  received_events_url: https://api.github.com/users/ganchang/received_events
-  repos_url: https://api.github.com/users/ganchang/repos
+  html_url: https://github.com/zhhlwd
+  id: 35592403
+  login: zhhlwd
+  node_id: MDQ6VXNlcjM1NTkyNDAz
+  organizations_url: https://api.github.com/users/zhhlwd/orgs
+  received_events_url: https://api.github.com/users/zhhlwd/received_events
+  repos_url: https://api.github.com/users/zhhlwd/repos
   site_admin: false
-  starred_url: https://api.github.com/users/ganchang/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/ganchang/subscriptions
+  starred_url: https://api.github.com/users/zhhlwd/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/zhhlwd/subscriptions
   type: User
-  url: https://api.github.com/users/ganchang
+  url: https://api.github.com/users/zhhlwd
 permissions:
   admin: false
   pull: true
   push: false
 private: false
-pulls_url: https://api.github.com/repos/ganchang/vuepress-theme/pulls{/number}
-pushed_at: '2019-09-16T12:49:07Z'
-releases_url: https://api.github.com/repos/ganchang/vuepress-theme/releases{/id}
-size: 48
-ssh_url: git@github.com:ganchang/vuepress-theme.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/ganchang/vuepress-theme/stargazers
-statuses_url: https://api.github.com/repos/ganchang/vuepress-theme/statuses/{sha}
-subscribers_count: 1
-subscribers_url: https://api.github.com/repos/ganchang/vuepress-theme/subscribers
-subscription_url: https://api.github.com/repos/ganchang/vuepress-theme/subscription
-svn_url: https://github.com/ganchang/vuepress-theme
-tags_url: https://api.github.com/repos/ganchang/vuepress-theme/tags
-teams_url: https://api.github.com/repos/ganchang/vuepress-theme/teams
+pulls_url: https://api.github.com/repos/zhhlwd/vuepress-theme-indigo-material/pulls{/number}
+pushed_at: '2019-07-05T01:05:30Z'
+releases_url: https://api.github.com/repos/zhhlwd/vuepress-theme-indigo-material/releases{/id}
+size: 1371
+ssh_url: git@github.com:zhhlwd/vuepress-theme-indigo-material.git
+stargazers_count: 251
+stargazers_url: https://api.github.com/repos/zhhlwd/vuepress-theme-indigo-material/stargazers
+statuses_url: https://api.github.com/repos/zhhlwd/vuepress-theme-indigo-material/statuses/{sha}
+subscribers_count: 3
+subscribers_url: https://api.github.com/repos/zhhlwd/vuepress-theme-indigo-material/subscribers
+subscription_url: https://api.github.com/repos/zhhlwd/vuepress-theme-indigo-material/subscription
+svn_url: https://github.com/zhhlwd/vuepress-theme-indigo-material
+tags_url: https://api.github.com/repos/zhhlwd/vuepress-theme-indigo-material/tags
+teams_url: https://api.github.com/repos/zhhlwd/vuepress-theme-indigo-material/teams
 temp_clone_token: ''
-trees_url: https://api.github.com/repos/ganchang/vuepress-theme/git/trees{/sha}
-updated_at: '2019-09-16T12:49:09Z'
-url: https://api.github.com/repos/ganchang/vuepress-theme
-watchers: 0
-watchers_count: 0
+trees_url: https://api.github.com/repos/zhhlwd/vuepress-theme-indigo-material/git/trees{/sha}
+updated_at: '2020-04-23T14:41:12Z'
+url: https://api.github.com/repos/zhhlwd/vuepress-theme-indigo-material
+watchers: 251
+watchers_count: 251
 ---
 
 <h1 align="center">vuepress-theme-indigo-material</h1>
@@ -138,8 +138,13 @@ watchers_count: 0
 
 ## 介绍
 
+[vuepress-theme-indigo-material](https://github.com/zhhlwd/vuepress-theme-indigo-material) 的原主题是[hexo-theme-indigo](https://github.com/yscoder/hexo-theme-indigo), github 的 star 数高达**2042**, fork 的有**451**个, 它在静态博客网站中的应用处处可见.在这里首先感谢原作者.
+
 然而它的定位是仅支持 IE10+ 等现代浏览器。既然不需要支持老版本浏览器, 在前端发展迅猛的今天, 已经有许多技术能够让网址更快, 所以我用[VuePress](https://github.com/vuejs/vuepress)来重写了它. 其实 indigo 的原作者已经在用 vuepress 重写了, 但是项目一直没有进展, 所以我接过了这个任务, 最后重写的效果是挺满意的.
 
+本主题在我的有 51 篇博客笔记下, 部署在 github page,网页加载速度非常快,更快的是,网页加载完成后,此后每个页面的打开速度,都是仿佛在点击本地文件.
+
+具体感受，国内请点击码云的 [博客网站（国内 gitee）](https://zhhlwd.gitee.io/)，国外请点击我的[博客网站（国外 github）](https://zhhlwd.github.io/)来亲身感受, 部署在 github page 下
 
 正如 VuePress 文档所说:
 
@@ -410,4 +415,14 @@ vuepress 的构建的确麻烦不少, 但是相当于它的网页运行速度, �
 - 顶部的菜单按钮在屏幕大小发生变化到了断点时会在一些情况出乎意料,本主题的媒体查询断点是宽 1190px,比 iPad pro 宽, 因为本主题定位的是博客,不应该有在浏览的时候有太大的窗口大小变化,所以也不是至关重要,后面会尝试解决
 - 在首次加载时侧边栏上部分会闪, 初步判断是样式文件加载慢的问题, 毕竟打包成了一个 css,网页一大部分时间在加载它
 
+## 提问
 
+可以在 issue 提问, 也可以是加入 qq 群, 我们一起讨论
+
+```
+qq群: 668387596
+```
+
+最后感谢您能看到这里, 您都看到这里了, 您能给我一个 star 吗?
+
+github 地址:https://github.com/zhhlwd/vuepress-theme-indigo-material

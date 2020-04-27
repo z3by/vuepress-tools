@@ -56,8 +56,8 @@ name: vuepress-plugin-bgm-player
 network_count: 1
 node_id: MDEwOlJlcG9zaXRvcnkyMjIzMzgzNzg=
 notifications_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-bgm-player/notifications{?since,all,participating}
-open_issues: 2
-open_issues_count: 2
+open_issues: 1
+open_issues_count: 1
 organization:
   avatar_url: https://avatars0.githubusercontent.com/u/54167020?v=4
   events_url: https://api.github.com/users/vuepress-reco/events{/privacy}
@@ -102,11 +102,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-bgm-player/pulls{/number}
-pushed_at: '2020-02-24T04:36:28Z'
+pushed_at: '2020-04-12T06:37:12Z'
 releases_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-bgm-player/releases{/id}
-size: 154
+size: 159
 ssh_url: git@github.com:vuepress-reco/vuepress-plugin-bgm-player.git
-stargazers_count: 7
+stargazers_count: 8
 stargazers_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-bgm-player/stargazers
 statuses_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-bgm-player/statuses/{sha}
 subscribers_count: 1
@@ -117,10 +117,10 @@ tags_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-bgm-player/
 teams_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-bgm-player/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-bgm-player/git/trees{/sha}
-updated_at: '2020-03-13T16:23:43Z'
+updated_at: '2020-04-25T17:02:19Z'
 url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-bgm-player
-watchers: 7
-watchers_count: 7
+watchers: 8
+watchers_count: 8
 ---
 
 # @vuepress-reco/vuepress-plugin-bgm-player
@@ -147,6 +147,7 @@ watchers_count: 7
 |-|-|-|-|-|
 |audios|播放列表|Array|无|-|
 |position|播放器位置|Object|{ left: '10px', bottom: '10px', 'z-index': '999999'}|-|
+|autoShrink|是否自动缩小|Boolean|false|true/false|
 |shrinkMode|指定PC端缩小为哪种模式|String|'float'|'mini'/'float'|
 |floatPosition|指定浮窗模式浮动在哪一侧|String|'left'|'left'/'right'|
 |floatStyle|浮窗的样式|Object|{ bottom: '200px', 'z-index': '999999' }|-|

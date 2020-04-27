@@ -78,9 +78,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/Mister-Hope/vuepress-plugin-comment-docs/pulls{/number}
-pushed_at: '2020-04-11T13:27:00Z'
+pushed_at: '2020-04-27T13:14:00Z'
 releases_url: https://api.github.com/repos/Mister-Hope/vuepress-plugin-comment-docs/releases{/id}
-size: 13082
+size: 11125
 ssh_url: git@github.com:Mister-Hope/vuepress-plugin-comment-docs.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/Mister-Hope/vuepress-plugin-comment-docs/stargazers
@@ -93,7 +93,7 @@ tags_url: https://api.github.com/repos/Mister-Hope/vuepress-plugin-comment-docs/
 teams_url: https://api.github.com/repos/Mister-Hope/vuepress-plugin-comment-docs/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/Mister-Hope/vuepress-plugin-comment-docs/git/trees{/sha}
-updated_at: '2020-04-11T13:27:03Z'
+updated_at: '2020-04-27T13:14:03Z'
 url: https://api.github.com/repos/Mister-Hope/vuepress-plugin-comment-docs
 watchers: 0
 watchers_count: 0

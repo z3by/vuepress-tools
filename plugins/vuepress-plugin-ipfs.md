@@ -83,11 +83,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/cwaring/vuepress-plugin-ipfs/pulls{/number}
-pushed_at: '2020-03-11T13:00:23Z'
+pushed_at: '2020-04-22T13:38:06Z'
 releases_url: https://api.github.com/repos/cwaring/vuepress-plugin-ipfs/releases{/id}
-size: 17
+size: 19
 ssh_url: git@github.com:cwaring/vuepress-plugin-ipfs.git
-stargazers_count: 4
+stargazers_count: 7
 stargazers_url: https://api.github.com/repos/cwaring/vuepress-plugin-ipfs/stargazers
 statuses_url: https://api.github.com/repos/cwaring/vuepress-plugin-ipfs/statuses/{sha}
 subscribers_count: 1
@@ -98,13 +98,15 @@ tags_url: https://api.github.com/repos/cwaring/vuepress-plugin-ipfs/tags
 teams_url: https://api.github.com/repos/cwaring/vuepress-plugin-ipfs/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/cwaring/vuepress-plugin-ipfs/git/trees{/sha}
-updated_at: '2020-04-01T01:25:32Z'
+updated_at: '2020-04-22T13:38:08Z'
 url: https://api.github.com/repos/cwaring/vuepress-plugin-ipfs
-watchers: 4
-watchers_count: 4
+watchers: 7
+watchers_count: 7
 ---
 
 # VuePress Plugin IPFS
+
+![](https://user-images.githubusercontent.com/106938/70317123-0b3abc80-1815-11ea-859a-eb91c0ab4a81.png)
 
 > Convert a [VuePress](https://vuepress.vuejs.org/) 1.x bundle into relative paths making it suitable for hosting on IPFS.
 
