@@ -87,7 +87,7 @@ pushed_at: '2019-12-29T20:12:42Z'
 releases_url: https://api.github.com/repos/webmasterish/vuepress-plugin-feed/releases{/id}
 size: 42
 ssh_url: git@github.com:webmasterish/vuepress-plugin-feed.git
-stargazers_count: 35
+stargazers_count: 36
 stargazers_url: https://api.github.com/repos/webmasterish/vuepress-plugin-feed/stargazers
 statuses_url: https://api.github.com/repos/webmasterish/vuepress-plugin-feed/statuses/{sha}
 subscribers_count: 1
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/webmasterish/vuepress-plugin-feed/tags
 teams_url: https://api.github.com/repos/webmasterish/vuepress-plugin-feed/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/webmasterish/vuepress-plugin-feed/git/trees{/sha}
-updated_at: '2020-04-02T04:41:19Z'
+updated_at: '2020-05-15T08:26:15Z'
 url: https://api.github.com/repos/webmasterish/vuepress-plugin-feed
-watchers: 35
-watchers_count: 35
+watchers: 36
+watchers_count: 36
 ---
 
 # VuePress Plugin Feed

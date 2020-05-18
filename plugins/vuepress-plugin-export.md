@@ -90,7 +90,7 @@ ssh_url: git@github.com:ulivz/vuepress-plugin-export.git
 stargazers_count: 51
 stargazers_url: https://api.github.com/repos/ulivz/vuepress-plugin-export/stargazers
 statuses_url: https://api.github.com/repos/ulivz/vuepress-plugin-export/statuses/{sha}
-subscribers_count: 2
+subscribers_count: 3
 subscribers_url: https://api.github.com/repos/ulivz/vuepress-plugin-export/subscribers
 subscription_url: https://api.github.com/repos/ulivz/vuepress-plugin-export/subscription
 svn_url: https://github.com/ulivz/vuepress-plugin-export

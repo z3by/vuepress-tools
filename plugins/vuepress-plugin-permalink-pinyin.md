@@ -98,7 +98,7 @@ tags_url: https://api.github.com/repos/viko16/vuepress-plugin-permalink-pinyin/t
 teams_url: https://api.github.com/repos/viko16/vuepress-plugin-permalink-pinyin/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/viko16/vuepress-plugin-permalink-pinyin/git/trees{/sha}
-updated_at: '2020-04-24T09:47:39Z'
+updated_at: '2020-05-13T19:12:03Z'
 url: https://api.github.com/repos/viko16/vuepress-plugin-permalink-pinyin
 watchers: 6
 watchers_count: 6

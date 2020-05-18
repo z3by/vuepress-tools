@@ -14,7 +14,7 @@ contributors_url: https://api.github.com/repos/upcwangying/vuepress-plugin-aplay
 created_at: '2020-02-14T12:07:38Z'
 default_branch: master
 deployments_url: https://api.github.com/repos/upcwangying/vuepress-plugin-aplayer/deployments
-description: aplayer for vuepress
+description: aplayer for vuepress. Live demo(https://next.chenyifaer.com/category1/2020/092101.html)
 disabled: false
 downloads_url: https://api.github.com/repos/upcwangying/vuepress-plugin-aplayer/downloads
 events_url: https://api.github.com/repos/upcwangying/vuepress-plugin-aplayer/events
@@ -98,7 +98,7 @@ tags_url: https://api.github.com/repos/upcwangying/vuepress-plugin-aplayer/tags
 teams_url: https://api.github.com/repos/upcwangying/vuepress-plugin-aplayer/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/upcwangying/vuepress-plugin-aplayer/git/trees{/sha}
-updated_at: '2020-02-25T07:24:20Z'
+updated_at: '2020-05-08T06:51:19Z'
 url: https://api.github.com/repos/upcwangying/vuepress-plugin-aplayer
 watchers: 0
 watchers_count: 0

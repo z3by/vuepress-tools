@@ -87,7 +87,7 @@ pushed_at: '2020-04-25T14:47:58Z'
 releases_url: https://api.github.com/repos/sqrthree/vuepress-theme-api/releases{/id}
 size: 1140
 ssh_url: git@github.com:sqrthree/vuepress-theme-api.git
-stargazers_count: 196
+stargazers_count: 200
 stargazers_url: https://api.github.com/repos/sqrthree/vuepress-theme-api/stargazers
 statuses_url: https://api.github.com/repos/sqrthree/vuepress-theme-api/statuses/{sha}
 subscribers_count: 5
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/sqrthree/vuepress-theme-api/tags
 teams_url: https://api.github.com/repos/sqrthree/vuepress-theme-api/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/sqrthree/vuepress-theme-api/git/trees{/sha}
-updated_at: '2020-04-25T14:48:00Z'
+updated_at: '2020-05-18T03:06:11Z'
 url: https://api.github.com/repos/sqrthree/vuepress-theme-api
-watchers: 196
-watchers_count: 196
+watchers: 200
+watchers_count: 200
 ---
 
 > v1.0.0 is beta, going to release in the next few days.

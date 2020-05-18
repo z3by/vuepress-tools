@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/kisstar/vuepress-theme-extreme/pulls{/number}
-pushed_at: '2020-03-31T14:07:36Z'
+pushed_at: '2020-05-08T13:41:07Z'
 releases_url: https://api.github.com/repos/kisstar/vuepress-theme-extreme/releases{/id}
-size: 1352
+size: 1241
 ssh_url: git@github.com:kisstar/vuepress-theme-extreme.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/kisstar/vuepress-theme-extreme/stargazers
@@ -98,7 +98,7 @@ tags_url: https://api.github.com/repos/kisstar/vuepress-theme-extreme/tags
 teams_url: https://api.github.com/repos/kisstar/vuepress-theme-extreme/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/kisstar/vuepress-theme-extreme/git/trees{/sha}
-updated_at: '2020-03-31T14:07:58Z'
+updated_at: '2020-05-08T13:41:12Z'
 url: https://api.github.com/repos/kisstar/vuepress-theme-extreme
 watchers: 0
 watchers_count: 0

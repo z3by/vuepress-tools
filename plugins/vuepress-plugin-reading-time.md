@@ -82,7 +82,7 @@ pushed_at: '2019-02-05T03:38:04Z'
 releases_url: https://api.github.com/repos/darrenjennings/vuepress-plugin-reading-time/releases{/id}
 size: 35
 ssh_url: git@github.com:darrenjennings/vuepress-plugin-reading-time.git
-stargazers_count: 23
+stargazers_count: 25
 stargazers_url: https://api.github.com/repos/darrenjennings/vuepress-plugin-reading-time/stargazers
 statuses_url: https://api.github.com/repos/darrenjennings/vuepress-plugin-reading-time/statuses/{sha}
 subscribers_count: 1
@@ -93,10 +93,10 @@ tags_url: https://api.github.com/repos/darrenjennings/vuepress-plugin-reading-ti
 teams_url: https://api.github.com/repos/darrenjennings/vuepress-plugin-reading-time/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/darrenjennings/vuepress-plugin-reading-time/git/trees{/sha}
-updated_at: '2020-04-26T22:36:43Z'
+updated_at: '2020-05-13T07:50:26Z'
 url: https://api.github.com/repos/darrenjennings/vuepress-plugin-reading-time
-watchers: 23
-watchers_count: 23
+watchers: 25
+watchers_count: 25
 ---
 
 # vuepress-plugin-reading-time 

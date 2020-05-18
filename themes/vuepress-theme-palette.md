@@ -79,9 +79,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/aimkiray/vuepress-theme-palette/pulls{/number}
-pushed_at: '2020-04-04T11:29:45Z'
+pushed_at: '2020-05-12T07:20:47Z'
 releases_url: https://api.github.com/repos/aimkiray/vuepress-theme-palette/releases{/id}
-size: 305
+size: 341
 ssh_url: git@github.com:aimkiray/vuepress-theme-palette.git
 stargazers_count: 1
 stargazers_url: https://api.github.com/repos/aimkiray/vuepress-theme-palette/stargazers
@@ -94,7 +94,7 @@ tags_url: https://api.github.com/repos/aimkiray/vuepress-theme-palette/tags
 teams_url: https://api.github.com/repos/aimkiray/vuepress-theme-palette/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/aimkiray/vuepress-theme-palette/git/trees{/sha}
-updated_at: '2020-04-27T09:52:01Z'
+updated_at: '2020-05-12T07:20:50Z'
 url: https://api.github.com/repos/aimkiray/vuepress-theme-palette
 watchers: 1
 watchers_count: 1

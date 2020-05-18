@@ -90,7 +90,7 @@ ssh_url: git@github.com:destinytaoer/vuepress-theme-tomato.git
 stargazers_count: 3
 stargazers_url: https://api.github.com/repos/destinytaoer/vuepress-theme-tomato/stargazers
 statuses_url: https://api.github.com/repos/destinytaoer/vuepress-theme-tomato/statuses/{sha}
-subscribers_count: 1
+subscribers_count: 2
 subscribers_url: https://api.github.com/repos/destinytaoer/vuepress-theme-tomato/subscribers
 subscription_url: https://api.github.com/repos/destinytaoer/vuepress-theme-tomato/subscription
 svn_url: https://github.com/destinytaoer/vuepress-theme-tomato

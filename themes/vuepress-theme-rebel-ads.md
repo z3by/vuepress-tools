@@ -1,0 +1,124 @@
+---
+archive_url: https://api.github.com/repos/rebelcoding/vuepress-theme-rebel-ads/{archive_format}{/ref}
+archived: false
+assignees_url: https://api.github.com/repos/rebelcoding/vuepress-theme-rebel-ads/assignees{/user}
+blobs_url: https://api.github.com/repos/rebelcoding/vuepress-theme-rebel-ads/git/blobs{/sha}
+branches_url: https://api.github.com/repos/rebelcoding/vuepress-theme-rebel-ads/branches{/branch}
+clone_url: https://github.com/rebelcoding/vuepress-theme-rebel-ads.git
+collaborators_url: https://api.github.com/repos/rebelcoding/vuepress-theme-rebel-ads/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/rebelcoding/vuepress-theme-rebel-ads/comments{/number}
+commits_url: https://api.github.com/repos/rebelcoding/vuepress-theme-rebel-ads/commits{/sha}
+compare_url: https://api.github.com/repos/rebelcoding/vuepress-theme-rebel-ads/compare/{base}...{head}
+contents_url: https://api.github.com/repos/rebelcoding/vuepress-theme-rebel-ads/contents/{+path}
+contributors_url: https://api.github.com/repos/rebelcoding/vuepress-theme-rebel-ads/contributors
+created_at: '2020-05-05T06:27:50Z'
+default_branch: master
+deployments_url: https://api.github.com/repos/rebelcoding/vuepress-theme-rebel-ads/deployments
+description: Modification of the VuePress theme for official Vue projects to include
+  ad space
+disabled: false
+downloads_url: https://api.github.com/repos/rebelcoding/vuepress-theme-rebel-ads/downloads
+events_url: https://api.github.com/repos/rebelcoding/vuepress-theme-rebel-ads/events
+fork: false
+forks: 0
+forks_count: 0
+forks_url: https://api.github.com/repos/rebelcoding/vuepress-theme-rebel-ads/forks
+full_name: rebelcoding/vuepress-theme-rebel-ads
+git_commits_url: https://api.github.com/repos/rebelcoding/vuepress-theme-rebel-ads/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/rebelcoding/vuepress-theme-rebel-ads/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/rebelcoding/vuepress-theme-rebel-ads/git/tags{/sha}
+git_url: git://github.com/rebelcoding/vuepress-theme-rebel-ads.git
+has_downloads: true
+has_issues: true
+has_pages: false
+has_projects: true
+has_wiki: true
+homepage: null
+hooks_url: https://api.github.com/repos/rebelcoding/vuepress-theme-rebel-ads/hooks
+html_url: https://github.com/rebelcoding/vuepress-theme-rebel-ads
+id: 261378394
+issue_comment_url: https://api.github.com/repos/rebelcoding/vuepress-theme-rebel-ads/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/rebelcoding/vuepress-theme-rebel-ads/issues/events{/number}
+issues_url: https://api.github.com/repos/rebelcoding/vuepress-theme-rebel-ads/issues{/number}
+keys_url: https://api.github.com/repos/rebelcoding/vuepress-theme-rebel-ads/keys{/key_id}
+labels_url: https://api.github.com/repos/rebelcoding/vuepress-theme-rebel-ads/labels{/name}
+language: Vue
+languages_url: https://api.github.com/repos/rebelcoding/vuepress-theme-rebel-ads/languages
+license: null
+merges_url: https://api.github.com/repos/rebelcoding/vuepress-theme-rebel-ads/merges
+milestones_url: https://api.github.com/repos/rebelcoding/vuepress-theme-rebel-ads/milestones{/number}
+mirror_url: null
+name: vuepress-theme-rebel-ads
+network_count: 0
+node_id: MDEwOlJlcG9zaXRvcnkyNjEzNzgzOTQ=
+notifications_url: https://api.github.com/repos/rebelcoding/vuepress-theme-rebel-ads/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
+organization:
+  avatar_url: https://avatars0.githubusercontent.com/u/49349349?v=4
+  events_url: https://api.github.com/users/rebelcoding/events{/privacy}
+  followers_url: https://api.github.com/users/rebelcoding/followers
+  following_url: https://api.github.com/users/rebelcoding/following{/other_user}
+  gists_url: https://api.github.com/users/rebelcoding/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/rebelcoding
+  id: 49349349
+  login: rebelcoding
+  node_id: MDEyOk9yZ2FuaXphdGlvbjQ5MzQ5MzQ5
+  organizations_url: https://api.github.com/users/rebelcoding/orgs
+  received_events_url: https://api.github.com/users/rebelcoding/received_events
+  repos_url: https://api.github.com/users/rebelcoding/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/rebelcoding/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/rebelcoding/subscriptions
+  type: Organization
+  url: https://api.github.com/users/rebelcoding
+owner:
+  avatar_url: https://avatars0.githubusercontent.com/u/49349349?v=4
+  events_url: https://api.github.com/users/rebelcoding/events{/privacy}
+  followers_url: https://api.github.com/users/rebelcoding/followers
+  following_url: https://api.github.com/users/rebelcoding/following{/other_user}
+  gists_url: https://api.github.com/users/rebelcoding/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/rebelcoding
+  id: 49349349
+  login: rebelcoding
+  node_id: MDEyOk9yZ2FuaXphdGlvbjQ5MzQ5MzQ5
+  organizations_url: https://api.github.com/users/rebelcoding/orgs
+  received_events_url: https://api.github.com/users/rebelcoding/received_events
+  repos_url: https://api.github.com/users/rebelcoding/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/rebelcoding/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/rebelcoding/subscriptions
+  type: Organization
+  url: https://api.github.com/users/rebelcoding
+permissions:
+  admin: false
+  pull: true
+  push: false
+private: false
+pulls_url: https://api.github.com/repos/rebelcoding/vuepress-theme-rebel-ads/pulls{/number}
+pushed_at: '2020-05-05T06:29:14Z'
+releases_url: https://api.github.com/repos/rebelcoding/vuepress-theme-rebel-ads/releases{/id}
+size: 2
+ssh_url: git@github.com:rebelcoding/vuepress-theme-rebel-ads.git
+stargazers_count: 0
+stargazers_url: https://api.github.com/repos/rebelcoding/vuepress-theme-rebel-ads/stargazers
+statuses_url: https://api.github.com/repos/rebelcoding/vuepress-theme-rebel-ads/statuses/{sha}
+subscribers_count: 1
+subscribers_url: https://api.github.com/repos/rebelcoding/vuepress-theme-rebel-ads/subscribers
+subscription_url: https://api.github.com/repos/rebelcoding/vuepress-theme-rebel-ads/subscription
+svn_url: https://github.com/rebelcoding/vuepress-theme-rebel-ads
+tags_url: https://api.github.com/repos/rebelcoding/vuepress-theme-rebel-ads/tags
+teams_url: https://api.github.com/repos/rebelcoding/vuepress-theme-rebel-ads/teams
+temp_clone_token: ''
+trees_url: https://api.github.com/repos/rebelcoding/vuepress-theme-rebel-ads/git/trees{/sha}
+updated_at: '2020-05-05T06:29:16Z'
+url: https://api.github.com/repos/rebelcoding/vuepress-theme-rebel-ads
+watchers: 0
+watchers_count: 0
+---
+
+# @cultureclap/vuepress-theme-vue-ads
+
+> Modificaiton of the theme-vue for VuePress

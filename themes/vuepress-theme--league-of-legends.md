@@ -1,0 +1,107 @@
+---
+archive_url: https://api.github.com/repos/summer1874/vuepress-theme--league-of-legends/{archive_format}{/ref}
+archived: false
+assignees_url: https://api.github.com/repos/summer1874/vuepress-theme--league-of-legends/assignees{/user}
+blobs_url: https://api.github.com/repos/summer1874/vuepress-theme--league-of-legends/git/blobs{/sha}
+branches_url: https://api.github.com/repos/summer1874/vuepress-theme--league-of-legends/branches{/branch}
+clone_url: https://github.com/summer1874/vuepress-theme--league-of-legends.git
+collaborators_url: https://api.github.com/repos/summer1874/vuepress-theme--league-of-legends/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/summer1874/vuepress-theme--league-of-legends/comments{/number}
+commits_url: https://api.github.com/repos/summer1874/vuepress-theme--league-of-legends/commits{/sha}
+compare_url: https://api.github.com/repos/summer1874/vuepress-theme--league-of-legends/compare/{base}...{head}
+contents_url: https://api.github.com/repos/summer1874/vuepress-theme--league-of-legends/contents/{+path}
+contributors_url: https://api.github.com/repos/summer1874/vuepress-theme--league-of-legends/contributors
+created_at: '2020-05-11T09:57:56Z'
+default_branch: master
+deployments_url: https://api.github.com/repos/summer1874/vuepress-theme--league-of-legends/deployments
+description: null
+disabled: false
+downloads_url: https://api.github.com/repos/summer1874/vuepress-theme--league-of-legends/downloads
+events_url: https://api.github.com/repos/summer1874/vuepress-theme--league-of-legends/events
+fork: false
+forks: 0
+forks_count: 0
+forks_url: https://api.github.com/repos/summer1874/vuepress-theme--league-of-legends/forks
+full_name: summer1874/vuepress-theme--league-of-legends
+git_commits_url: https://api.github.com/repos/summer1874/vuepress-theme--league-of-legends/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/summer1874/vuepress-theme--league-of-legends/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/summer1874/vuepress-theme--league-of-legends/git/tags{/sha}
+git_url: git://github.com/summer1874/vuepress-theme--league-of-legends.git
+has_downloads: true
+has_issues: true
+has_pages: false
+has_projects: true
+has_wiki: true
+homepage: null
+hooks_url: https://api.github.com/repos/summer1874/vuepress-theme--league-of-legends/hooks
+html_url: https://github.com/summer1874/vuepress-theme--league-of-legends
+id: 263004203
+issue_comment_url: https://api.github.com/repos/summer1874/vuepress-theme--league-of-legends/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/summer1874/vuepress-theme--league-of-legends/issues/events{/number}
+issues_url: https://api.github.com/repos/summer1874/vuepress-theme--league-of-legends/issues{/number}
+keys_url: https://api.github.com/repos/summer1874/vuepress-theme--league-of-legends/keys{/key_id}
+labels_url: https://api.github.com/repos/summer1874/vuepress-theme--league-of-legends/labels{/name}
+language: Vue
+languages_url: https://api.github.com/repos/summer1874/vuepress-theme--league-of-legends/languages
+license:
+  key: mit
+  name: MIT License
+  node_id: MDc6TGljZW5zZTEz
+  spdx_id: MIT
+  url: https://api.github.com/licenses/mit
+merges_url: https://api.github.com/repos/summer1874/vuepress-theme--league-of-legends/merges
+milestones_url: https://api.github.com/repos/summer1874/vuepress-theme--league-of-legends/milestones{/number}
+mirror_url: null
+name: vuepress-theme--league-of-legends
+network_count: 0
+node_id: MDEwOlJlcG9zaXRvcnkyNjMwMDQyMDM=
+notifications_url: https://api.github.com/repos/summer1874/vuepress-theme--league-of-legends/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
+owner:
+  avatar_url: https://avatars2.githubusercontent.com/u/21187224?v=4
+  events_url: https://api.github.com/users/summer1874/events{/privacy}
+  followers_url: https://api.github.com/users/summer1874/followers
+  following_url: https://api.github.com/users/summer1874/following{/other_user}
+  gists_url: https://api.github.com/users/summer1874/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/summer1874
+  id: 21187224
+  login: summer1874
+  node_id: MDQ6VXNlcjIxMTg3MjI0
+  organizations_url: https://api.github.com/users/summer1874/orgs
+  received_events_url: https://api.github.com/users/summer1874/received_events
+  repos_url: https://api.github.com/users/summer1874/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/summer1874/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/summer1874/subscriptions
+  type: User
+  url: https://api.github.com/users/summer1874
+permissions:
+  admin: false
+  pull: true
+  push: false
+private: false
+pulls_url: https://api.github.com/repos/summer1874/vuepress-theme--league-of-legends/pulls{/number}
+pushed_at: '2020-05-11T10:00:11Z'
+releases_url: https://api.github.com/repos/summer1874/vuepress-theme--league-of-legends/releases{/id}
+size: 442
+ssh_url: git@github.com:summer1874/vuepress-theme--league-of-legends.git
+stargazers_count: 0
+stargazers_url: https://api.github.com/repos/summer1874/vuepress-theme--league-of-legends/stargazers
+statuses_url: https://api.github.com/repos/summer1874/vuepress-theme--league-of-legends/statuses/{sha}
+subscribers_count: 1
+subscribers_url: https://api.github.com/repos/summer1874/vuepress-theme--league-of-legends/subscribers
+subscription_url: https://api.github.com/repos/summer1874/vuepress-theme--league-of-legends/subscription
+svn_url: https://github.com/summer1874/vuepress-theme--league-of-legends
+tags_url: https://api.github.com/repos/summer1874/vuepress-theme--league-of-legends/tags
+teams_url: https://api.github.com/repos/summer1874/vuepress-theme--league-of-legends/teams
+temp_clone_token: ''
+trees_url: https://api.github.com/repos/summer1874/vuepress-theme--league-of-legends/git/trees{/sha}
+updated_at: '2020-05-11T10:00:14Z'
+url: https://api.github.com/repos/summer1874/vuepress-theme--league-of-legends
+watchers: 0
+watchers_count: 0
+---
+
+## fork于 `vuepress-theme-reco`

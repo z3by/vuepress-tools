@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/kawarimidoll/vuepress-plugin-tailwind/pulls{/number}
-pushed_at: '2020-04-25T11:32:31Z'
+pushed_at: '2020-05-12T06:53:11Z'
 releases_url: https://api.github.com/repos/kawarimidoll/vuepress-plugin-tailwind/releases{/id}
-size: 94
+size: 166
 ssh_url: git@github.com:kawarimidoll/vuepress-plugin-tailwind.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/kawarimidoll/vuepress-plugin-tailwind/stargazers
@@ -98,7 +98,7 @@ tags_url: https://api.github.com/repos/kawarimidoll/vuepress-plugin-tailwind/tag
 teams_url: https://api.github.com/repos/kawarimidoll/vuepress-plugin-tailwind/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/kawarimidoll/vuepress-plugin-tailwind/git/trees{/sha}
-updated_at: '2020-04-25T11:32:24Z'
+updated_at: '2020-05-12T06:53:00Z'
 url: https://api.github.com/repos/kawarimidoll/vuepress-plugin-tailwind
 watchers: 0
 watchers_count: 0

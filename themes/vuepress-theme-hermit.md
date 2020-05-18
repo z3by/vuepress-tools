@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/yuchanns/vuepress-theme-hermit/pulls{/number}
-pushed_at: '2020-03-17T01:30:18Z'
+pushed_at: '2020-05-05T06:00:14Z'
 releases_url: https://api.github.com/repos/yuchanns/vuepress-theme-hermit/releases{/id}
-size: 603
+size: 749
 ssh_url: git@github.com:yuchanns/vuepress-theme-hermit.git
 stargazers_count: 1
 stargazers_url: https://api.github.com/repos/yuchanns/vuepress-theme-hermit/stargazers
@@ -98,7 +98,7 @@ tags_url: https://api.github.com/repos/yuchanns/vuepress-theme-hermit/tags
 teams_url: https://api.github.com/repos/yuchanns/vuepress-theme-hermit/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/yuchanns/vuepress-theme-hermit/git/trees{/sha}
-updated_at: '2020-03-30T17:51:29Z'
+updated_at: '2020-05-05T06:00:17Z'
 url: https://api.github.com/repos/yuchanns/vuepress-theme-hermit
 watchers: 1
 watchers_count: 1

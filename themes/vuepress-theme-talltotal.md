@@ -82,7 +82,7 @@ pushed_at: '2020-04-20T12:28:19Z'
 releases_url: https://api.github.com/repos/talltotal/vuepress-theme-talltotal/releases{/id}
 size: 808
 ssh_url: git@github.com:talltotal/vuepress-theme-talltotal.git
-stargazers_count: 0
+stargazers_count: 1
 stargazers_url: https://api.github.com/repos/talltotal/vuepress-theme-talltotal/stargazers
 statuses_url: https://api.github.com/repos/talltotal/vuepress-theme-talltotal/statuses/{sha}
 subscribers_count: 0
@@ -93,10 +93,10 @@ tags_url: https://api.github.com/repos/talltotal/vuepress-theme-talltotal/tags
 teams_url: https://api.github.com/repos/talltotal/vuepress-theme-talltotal/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/talltotal/vuepress-theme-talltotal/git/trees{/sha}
-updated_at: '2020-04-20T12:28:08Z'
+updated_at: '2020-04-28T01:00:46Z'
 url: https://api.github.com/repos/talltotal/vuepress-theme-talltotal
-watchers: 0
-watchers_count: 0
+watchers: 1
+watchers_count: 1
 ---
 
 # vuepress-theme-talltotal

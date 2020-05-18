@@ -78,11 +78,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/lq782655835/vuepress-theme-vuesax/pulls{/number}
-pushed_at: '2020-04-14T12:56:30Z'
+pushed_at: '2020-05-07T12:49:10Z'
 releases_url: https://api.github.com/repos/lq782655835/vuepress-theme-vuesax/releases{/id}
-size: 1051
+size: 1112
 ssh_url: git@github.com:lq782655835/vuepress-theme-vuesax.git
-stargazers_count: 1
+stargazers_count: 2
 stargazers_url: https://api.github.com/repos/lq782655835/vuepress-theme-vuesax/stargazers
 statuses_url: https://api.github.com/repos/lq782655835/vuepress-theme-vuesax/statuses/{sha}
 subscribers_count: 1
@@ -93,10 +93,10 @@ tags_url: https://api.github.com/repos/lq782655835/vuepress-theme-vuesax/tags
 teams_url: https://api.github.com/repos/lq782655835/vuepress-theme-vuesax/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/lq782655835/vuepress-theme-vuesax/git/trees{/sha}
-updated_at: '2020-04-15T01:33:02Z'
+updated_at: '2020-05-07T12:47:09Z'
 url: https://api.github.com/repos/lq782655835/vuepress-theme-vuesax
-watchers: 1
-watchers_count: 1
+watchers: 2
+watchers_count: 2
 ---
 
 

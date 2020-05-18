@@ -78,9 +78,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/taoya7/vuepress-theme-AiLen/pulls{/number}
-pushed_at: '2020-04-26T10:39:19Z'
+pushed_at: '2020-05-15T02:34:25Z'
 releases_url: https://api.github.com/repos/taoya7/vuepress-theme-AiLen/releases{/id}
-size: 4399
+size: 10203
 ssh_url: git@github.com:taoya7/vuepress-theme-AiLen.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/taoya7/vuepress-theme-AiLen/stargazers
@@ -93,7 +93,7 @@ tags_url: https://api.github.com/repos/taoya7/vuepress-theme-AiLen/tags
 teams_url: https://api.github.com/repos/taoya7/vuepress-theme-AiLen/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/taoya7/vuepress-theme-AiLen/git/trees{/sha}
-updated_at: '2020-04-26T10:39:22Z'
+updated_at: '2020-05-15T02:34:29Z'
 url: https://api.github.com/repos/taoya7/vuepress-theme-AiLen
 watchers: 0
 watchers_count: 0
@@ -109,6 +109,9 @@ watchers_count: 0
 ### 更新记录
 
 ```shell
+* 5.10 添加目录Toc
+* 4.30 修补了Bug 打算添加统计
+* 4.30 添加时间轴、添加了一些动画
 * 4.24 修改了文章分类样式
 * 4.20 第一次提交
 ```

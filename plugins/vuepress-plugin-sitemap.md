@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/ekoeryanto/vuepress-plugin-sitemap/downloads
 events_url: https://api.github.com/repos/ekoeryanto/vuepress-plugin-sitemap/events
 fork: false
-forks: 8
-forks_count: 8
+forks: 9
+forks_count: 9
 forks_url: https://api.github.com/repos/ekoeryanto/vuepress-plugin-sitemap/forks
 full_name: ekoeryanto/vuepress-plugin-sitemap
 git_commits_url: https://api.github.com/repos/ekoeryanto/vuepress-plugin-sitemap/git/commits{/sha}
@@ -53,11 +53,11 @@ merges_url: https://api.github.com/repos/ekoeryanto/vuepress-plugin-sitemap/merg
 milestones_url: https://api.github.com/repos/ekoeryanto/vuepress-plugin-sitemap/milestones{/number}
 mirror_url: null
 name: vuepress-plugin-sitemap
-network_count: 8
+network_count: 9
 node_id: MDEwOlJlcG9zaXRvcnkxNTA3ODI4MTM=
 notifications_url: https://api.github.com/repos/ekoeryanto/vuepress-plugin-sitemap/notifications{?since,all,participating}
-open_issues: 4
-open_issues_count: 4
+open_issues: 7
+open_issues_count: 7
 owner:
   avatar_url: https://avatars0.githubusercontent.com/u/36023898?v=4
   events_url: https://api.github.com/users/ekoeryanto/events{/privacy}
@@ -83,7 +83,7 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/ekoeryanto/vuepress-plugin-sitemap/pulls{/number}
-pushed_at: '2019-11-08T16:24:20Z'
+pushed_at: '2020-05-15T09:59:18Z'
 releases_url: https://api.github.com/repos/ekoeryanto/vuepress-plugin-sitemap/releases{/id}
 size: 142
 ssh_url: git@github.com:ekoeryanto/vuepress-plugin-sitemap.git

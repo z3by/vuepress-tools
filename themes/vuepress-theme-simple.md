@@ -98,7 +98,7 @@ tags_url: https://api.github.com/repos/viko16/vuepress-theme-simple/tags
 teams_url: https://api.github.com/repos/viko16/vuepress-theme-simple/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/viko16/vuepress-theme-simple/git/trees{/sha}
-updated_at: '2020-04-16T11:06:30Z'
+updated_at: '2020-05-15T12:41:27Z'
 url: https://api.github.com/repos/viko16/vuepress-theme-simple
 watchers: 58
 watchers_count: 58

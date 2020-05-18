@@ -141,13 +141,13 @@ watchers_count: 0
 
 TODO
 
-<!-- <img src="https://raw.githubusercontent.com/WHATWG/vuepress-theme-whatwg/master/screenshots/default.png" alt="" width="500" /> -->
+<!-- <img src="https://raw.githubusercontent.com/WHATWGC/vuepress-theme-whatwg/master/screenshots/default.png" alt="" width="500" /> -->
 
 ## Examples
 
 TODO
 
-<!-- - [example](https://raw.githubusercontent.com/WHATWG/vuepress-theme-whatwg/master/examples/README.md) -->
+<!-- - [example](https://raw.githubusercontent.com/WHATWGC/vuepress-theme-whatwg/master/examples/README.md) -->
 
 ## Install
 
@@ -166,4 +166,4 @@ module.exports = {
 
 ## License
 
-[MIT](https://raw.githubusercontent.com/WHATWG/vuepress-theme-whatwg/master/LICENSE) © vvni
+[MIT](https://raw.githubusercontent.com/WHATWGC/vuepress-theme-whatwg/master/LICENSE) © vvni

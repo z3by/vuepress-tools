@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/ntnyq/vuepress-plugin-svg-icons/downloads
 events_url: https://api.github.com/repos/ntnyq/vuepress-plugin-svg-icons/events
 fork: false
-forks: 0
-forks_count: 0
+forks: 1
+forks_count: 1
 forks_url: https://api.github.com/repos/ntnyq/vuepress-plugin-svg-icons/forks
 full_name: ntnyq/vuepress-plugin-svg-icons
 git_commits_url: https://api.github.com/repos/ntnyq/vuepress-plugin-svg-icons/git/commits{/sha}
@@ -53,7 +53,7 @@ merges_url: https://api.github.com/repos/ntnyq/vuepress-plugin-svg-icons/merges
 milestones_url: https://api.github.com/repos/ntnyq/vuepress-plugin-svg-icons/milestones{/number}
 mirror_url: null
 name: vuepress-plugin-svg-icons
-network_count: 0
+network_count: 1
 node_id: MDEwOlJlcG9zaXRvcnkxNzI5NTI1NzE=
 notifications_url: https://api.github.com/repos/ntnyq/vuepress-plugin-svg-icons/notifications{?since,all,participating}
 open_issues: 1

@@ -51,8 +51,8 @@ name: vuepress-plugin-flowchart
 network_count: 7
 node_id: MDEwOlJlcG9zaXRvcnkxNTEzNzAwNjg=
 notifications_url: https://api.github.com/repos/ulivz/vuepress-plugin-flowchart/notifications{?since,all,participating}
-open_issues: 12
-open_issues_count: 12
+open_issues: 13
+open_issues_count: 13
 owner:
   avatar_url: https://avatars1.githubusercontent.com/u/23133919?v=4
   events_url: https://api.github.com/users/ulivz/events{/privacy}
@@ -78,11 +78,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/ulivz/vuepress-plugin-flowchart/pulls{/number}
-pushed_at: '2020-04-16T16:14:39Z'
+pushed_at: '2020-04-28T14:52:55Z'
 releases_url: https://api.github.com/repos/ulivz/vuepress-plugin-flowchart/releases{/id}
 size: 591
 ssh_url: git@github.com:ulivz/vuepress-plugin-flowchart.git
-stargazers_count: 64
+stargazers_count: 67
 stargazers_url: https://api.github.com/repos/ulivz/vuepress-plugin-flowchart/stargazers
 statuses_url: https://api.github.com/repos/ulivz/vuepress-plugin-flowchart/statuses/{sha}
 subscribers_count: 2
@@ -93,10 +93,10 @@ tags_url: https://api.github.com/repos/ulivz/vuepress-plugin-flowchart/tags
 teams_url: https://api.github.com/repos/ulivz/vuepress-plugin-flowchart/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/ulivz/vuepress-plugin-flowchart/git/trees{/sha}
-updated_at: '2020-04-24T15:13:06Z'
+updated_at: '2020-05-12T00:41:52Z'
 url: https://api.github.com/repos/ulivz/vuepress-plugin-flowchart
-watchers: 64
-watchers_count: 64
+watchers: 67
+watchers_count: 67
 ---
 
 <h1 align="center">vuepress-plugin-flowchart</h1>

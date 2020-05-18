@@ -56,8 +56,8 @@ name: vuepress-plugin-check-md
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkxOTk2MDk4NDM=
 notifications_url: https://api.github.com/repos/ulivz/vuepress-plugin-check-md/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
+open_issues: 2
+open_issues_count: 2
 owner:
   avatar_url: https://avatars1.githubusercontent.com/u/23133919?v=4
   events_url: https://api.github.com/users/ulivz/events{/privacy}

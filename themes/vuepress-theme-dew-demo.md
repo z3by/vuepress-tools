@@ -82,7 +82,7 @@ pushed_at: '2019-12-24T10:09:18Z'
 releases_url: https://api.github.com/repos/hvnobug/vuepress-theme-dew-demo/releases{/id}
 size: 42
 ssh_url: git@github.com:hvnobug/vuepress-theme-dew-demo.git
-stargazers_count: 5
+stargazers_count: 4
 stargazers_url: https://api.github.com/repos/hvnobug/vuepress-theme-dew-demo/stargazers
 statuses_url: https://api.github.com/repos/hvnobug/vuepress-theme-dew-demo/statuses/{sha}
 subscribers_count: 1
@@ -93,10 +93,10 @@ tags_url: https://api.github.com/repos/hvnobug/vuepress-theme-dew-demo/tags
 teams_url: https://api.github.com/repos/hvnobug/vuepress-theme-dew-demo/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/hvnobug/vuepress-theme-dew-demo/git/trees{/sha}
-updated_at: '2019-12-24T10:09:20Z'
+updated_at: '2020-05-09T04:12:23Z'
 url: https://api.github.com/repos/hvnobug/vuepress-theme-dew-demo
-watchers: 5
-watchers_count: 5
+watchers: 4
+watchers_count: 4
 ---
 
 ## How to use it 

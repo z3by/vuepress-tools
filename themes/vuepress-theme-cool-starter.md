@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/FriendlyUser/vuepress-theme-cool-starter/downloads
 events_url: https://api.github.com/repos/FriendlyUser/vuepress-theme-cool-starter/events
 fork: false
-forks: 25
-forks_count: 25
+forks: 26
+forks_count: 26
 forks_url: https://api.github.com/repos/FriendlyUser/vuepress-theme-cool-starter/forks
 full_name: FriendlyUser/vuepress-theme-cool-starter
 git_commits_url: https://api.github.com/repos/FriendlyUser/vuepress-theme-cool-starter/git/commits{/sha}
@@ -53,7 +53,7 @@ merges_url: https://api.github.com/repos/FriendlyUser/vuepress-theme-cool-starte
 milestones_url: https://api.github.com/repos/FriendlyUser/vuepress-theme-cool-starter/milestones{/number}
 mirror_url: null
 name: vuepress-theme-cool-starter
-network_count: 25
+network_count: 26
 node_id: MDEwOlJlcG9zaXRvcnkxNTcyODE0MjY=
 notifications_url: https://api.github.com/repos/FriendlyUser/vuepress-theme-cool-starter/notifications{?since,all,participating}
 open_issues: 0
@@ -87,7 +87,7 @@ pushed_at: '2020-04-20T16:01:22Z'
 releases_url: https://api.github.com/repos/FriendlyUser/vuepress-theme-cool-starter/releases{/id}
 size: 5212
 ssh_url: git@github.com:FriendlyUser/vuepress-theme-cool-starter.git
-stargazers_count: 48
+stargazers_count: 49
 stargazers_url: https://api.github.com/repos/FriendlyUser/vuepress-theme-cool-starter/stargazers
 statuses_url: https://api.github.com/repos/FriendlyUser/vuepress-theme-cool-starter/statuses/{sha}
 subscribers_count: 1
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/FriendlyUser/vuepress-theme-cool-starter/
 teams_url: https://api.github.com/repos/FriendlyUser/vuepress-theme-cool-starter/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/FriendlyUser/vuepress-theme-cool-starter/git/trees{/sha}
-updated_at: '2020-04-24T02:03:50Z'
+updated_at: '2020-05-16T07:40:26Z'
 url: https://api.github.com/repos/FriendlyUser/vuepress-theme-cool-starter
-watchers: 48
-watchers_count: 48
+watchers: 49
+watchers_count: 49
 ---
 
 ---

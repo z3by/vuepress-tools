@@ -23,8 +23,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/z3by/vuepress-theme-modern-blog/downloads
 events_url: https://api.github.com/repos/z3by/vuepress-theme-modern-blog/events
 fork: false
-forks: 18
-forks_count: 18
+forks: 20
+forks_count: 20
 forks_url: https://api.github.com/repos/z3by/vuepress-theme-modern-blog/forks
 full_name: z3by/vuepress-theme-modern-blog
 git_commits_url: https://api.github.com/repos/z3by/vuepress-theme-modern-blog/git/commits{/sha}
@@ -57,11 +57,11 @@ merges_url: https://api.github.com/repos/z3by/vuepress-theme-modern-blog/merges
 milestones_url: https://api.github.com/repos/z3by/vuepress-theme-modern-blog/milestones{/number}
 mirror_url: null
 name: vuepress-theme-modern-blog
-network_count: 18
+network_count: 20
 node_id: MDEwOlJlcG9zaXRvcnkyMjUyMDQ2OTg=
 notifications_url: https://api.github.com/repos/z3by/vuepress-theme-modern-blog/notifications{?since,all,participating}
-open_issues: 5
-open_issues_count: 5
+open_issues: 3
+open_issues_count: 3
 owner:
   avatar_url: https://avatars1.githubusercontent.com/u/36268825?v=4
   events_url: https://api.github.com/users/z3by/events{/privacy}
@@ -87,11 +87,11 @@ permissions:
   push: true
 private: false
 pulls_url: https://api.github.com/repos/z3by/vuepress-theme-modern-blog/pulls{/number}
-pushed_at: '2020-04-26T14:52:23Z'
+pushed_at: '2020-05-12T13:11:40Z'
 releases_url: https://api.github.com/repos/z3by/vuepress-theme-modern-blog/releases{/id}
-size: 631
+size: 786
 ssh_url: git@github.com:z3by/vuepress-theme-modern-blog.git
-stargazers_count: 35
+stargazers_count: 40
 stargazers_url: https://api.github.com/repos/z3by/vuepress-theme-modern-blog/stargazers
 statuses_url: https://api.github.com/repos/z3by/vuepress-theme-modern-blog/statuses/{sha}
 subscribers_count: 4
@@ -102,10 +102,10 @@ tags_url: https://api.github.com/repos/z3by/vuepress-theme-modern-blog/tags
 teams_url: https://api.github.com/repos/z3by/vuepress-theme-modern-blog/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/z3by/vuepress-theme-modern-blog/git/trees{/sha}
-updated_at: '2020-04-26T14:52:25Z'
+updated_at: '2020-05-12T13:11:43Z'
 url: https://api.github.com/repos/z3by/vuepress-theme-modern-blog
-watchers: 35
-watchers_count: 35
+watchers: 40
+watchers_count: 40
 ---
 
 # vuepress-theme-modern-blog
@@ -114,6 +114,7 @@ watchers_count: 35
 
 ## Features
 
+- UI strings localization support
 - builtin comments support
 - Sitemap generator support
 - Comments support
@@ -125,6 +126,7 @@ watchers_count: 35
 - Reading Time
 - Reading Progress
 - PWA Support
+- GDPR Cookies notice
 
 ## Sites
 
@@ -151,6 +153,54 @@ module.exports = {
 
 ## Options
 
+### cookies
+
+- Type: `Object`
+- Default: `undefined`
+
+This theme supports GDPR cookies notice via the [apertureless/vue-cookie-law](https://github.com/apertureless/vue-cookie-law) package.
+If no options are created in the config, the message won't be shown. The options
+will be passed as-it to the plugin.
+
+e.g.
+
+```js
+module.export = {
+  theConfig: {
+    cookies: {
+        theme: "dark-lime",
+        buttonText: "Ok!",
+    }
+  },
+}
+```
+
+### translations
+
+- Type: `Object<{ key: string, value: string }>`
+- Default: `undefined`
+
+This theme supports fully localizable UI strings, which means that you can
+translate any UI text (e.g. the "Read more" link at the botton of each post card).
+If no translation string is provided for a particular key, the built-in English
+string will be used.
+
+Some of the strings (where it makes sense) support interpolation. You can find
+all the localizable strings in the file `plugins/Translations/locale/en.js`.
+
+e.g.
+
+```js
+module.exports = {
+  themeConfig: {
+    translations: {
+      read_more: "Leer más",
+      time_to_read: "${rounded_time} min de lectura",
+    }
+  },
+}
+```
+
 ### nav
 
 - Type: `Array<{ text: string, link: string }>`
@@ -175,6 +225,33 @@ module.exports = {
         link: '/tag/',
       },
     ],
+  },
+}
+```
+
+### posts
+
+#### posts.prepend
+
+- Type: `String`
+- Default: `undefined`
+
+Prepend a chunk of text or HTML to the body of each post.
+
+#### posts.append
+
+- Type: `String`
+- Default: `undefined`
+
+Append a chunk of text or HTML to the body of each post.
+
+```js
+module.exports = {
+  themeConfig: {
+    posts: {
+      prepend: "Hi, I hope you'll <i>enjoy</i> this post!",
+      append: "Hi, I hope you've <b>enjoyed</b> this post!",
+    },
   },
 }
 ```
@@ -260,7 +337,7 @@ module.exports = {
         itemLayout: 'Writing',
         itemPermalink: '/writings/:year/:month/:day/:slug',
         pagination: {
-          perPagePosts: 5,
+          lengthPerPage: 5,
         },
       }
       blogPlugnOptions.directories.push(writingDirectoryClassifier)
@@ -283,7 +360,7 @@ Here is the default blog plugin options:
       itemLayout: 'Post',
       itemPermalink: '/:year/:month/:day/:slug',
       pagination: {
-        perPagePosts: 5,
+        lengthPerPage: 5,
       },
     },
     {
@@ -294,7 +371,7 @@ Here is the default blog plugin options:
       itemLayout: 'Post',
       itemPermalink: '/archive/:year/:month/:day/:slug',
       pagination: {
-        perPagePosts: 5,
+        lengthPerPage: 5,
       },
     },
   ],
@@ -307,7 +384,7 @@ Here is the default blog plugin options:
       frontmatter: { title: 'Tags' },
       itemlayout: 'Tag',
       pagination: {
-        perPagePosts: 5
+        lengthPerPage: 5
       }
     },
   ]
@@ -321,10 +398,44 @@ Here is the default blog plugin options:
 
 ### summary
 
-- Type: `boolean`
+- Type: `boolean` or `object`
 - Default: `true`
 
-Whether to extract summary from source markdowns.
+Whether to extract summary from source markdowns. If this value is set to `true`,
+the `summaryLenth` will be used to slice the text. If, on the other hand, this
+value is set to an object, you'll be able to specify a more complex pattern for
+the extraction of the summary. Available options:
+
+```js
+{
+  /*
+  Get as many paragraphs as the value of this property is set to. A paragraph
+  is considered to be a chunk of text followed by a "\n\n", but you can use
+  "paragraphsSeparator" in order to specify your own separator.
+
+  Once the chunks of text are splitted (with "paragraphsSeparator"), the first N
+  (as specified by the "paragraphs" property) chunks are obtained and joined
+  using the "paragrahpsJoiner" text, which is "<br><br>" by default.
+  */
+  paragraphs: 0,
+  paragraphsSeparator: "\n\n",
+  paragrahpsJoiner: "<br><br>",
+
+  /*
+  If you want the summary to extend until a given text pattern is found, use
+  this option. If the "stopSymbol" symbol is not found, the "summaryLength" will
+  be used as a safe fallback.
+  */
+  stopSymbol: '',
+
+  /*
+  Use these two options to append and/or prepend any text you want to the
+  summary.
+  */
+  prepend: ''
+  append: '',
+}
+```
 
 
 ### summaryLength
@@ -421,13 +532,13 @@ Google analytics tracking ID
 
 Custom the pagination component.
 
-The default is the 
-[pagination component](https://vuepress-plugin-blog.ulivz.com/components/#pagination) powerful by 
+The default is the
+[pagination component](https://vuepress-plugin-blog.ulivz.com/components/#pagination) powerful by
 [@vuepress/plugin-blog](https://github.com/ulivz/vuepress-plugin-blog):
 
 <img src="https://raw.githubusercontent.com/Ahmad Mostafa/vuepress-theme-modern-blog/master/assets/pagination.png" width="250" height="" style=""/>
 
-You can set this option to `SimplePagination` to enable another out-of-box 
+You can set this option to `SimplePagination` to enable another out-of-box
 [simple pagination component](https://vuepress-plugin-blog.ulivz.com/components/#simplepagination):
 
 <img src="https://raw.githubusercontent.com/Ahmad Mostafa/vuepress-theme-modern-blog/master/assets/simple-pagination.png" width="250" height="" style=""/>
@@ -446,7 +557,7 @@ e.g.
 
 ```markdown
 ---
-tags: 
+tags:
   - JavaScript
   - DOM
 ---
@@ -503,10 +614,21 @@ title: Front Matter in VuePress
 
 ### image
 
-header image for the post item
+header image for the post item and the preview image in the list of posts.
 
 ```markdown
 ---
 image: https://source.unsplash.com/random
+---
+```
+
+### postcard_image
+
+preview image for the post item in the list of posts. This property will
+override the "image" property.
+
+```markdown
+---
+postcard_image: https://source.unsplash.com/random
 ---
 ```

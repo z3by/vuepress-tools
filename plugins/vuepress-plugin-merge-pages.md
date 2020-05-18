@@ -51,8 +51,8 @@ name: vuepress-plugin-merge-pages
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyMTYxNDk5ODE=
 notifications_url: https://api.github.com/repos/vinicius73/vuepress-plugin-merge-pages/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
+open_issues: 2
+open_issues_count: 2
 owner:
   avatar_url: https://avatars0.githubusercontent.com/u/1561347?v=4
   events_url: https://api.github.com/users/vinicius73/events{/privacy}
@@ -78,9 +78,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/vinicius73/vuepress-plugin-merge-pages/pulls{/number}
-pushed_at: '2020-03-14T08:39:32Z'
+pushed_at: '2020-05-01T04:59:20Z'
 releases_url: https://api.github.com/repos/vinicius73/vuepress-plugin-merge-pages/releases{/id}
-size: 670
+size: 673
 ssh_url: git@github.com:vinicius73/vuepress-plugin-merge-pages.git
 stargazers_count: 4
 stargazers_url: https://api.github.com/repos/vinicius73/vuepress-plugin-merge-pages/stargazers

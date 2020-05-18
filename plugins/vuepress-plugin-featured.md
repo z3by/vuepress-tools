@@ -60,8 +60,8 @@ name: vuepress-plugin-featured
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyMTUzNTkwNzI=
 notifications_url: https://api.github.com/repos/z3by/vuepress-plugin-featured/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
+open_issues: 2
+open_issues_count: 2
 owner:
   avatar_url: https://avatars1.githubusercontent.com/u/36268825?v=4
   events_url: https://api.github.com/users/z3by/events{/privacy}
@@ -87,9 +87,9 @@ permissions:
   push: true
 private: false
 pulls_url: https://api.github.com/repos/z3by/vuepress-plugin-featured/pulls{/number}
-pushed_at: '2020-03-17T08:04:35Z'
+pushed_at: '2020-04-30T12:31:28Z'
 releases_url: https://api.github.com/repos/z3by/vuepress-plugin-featured/releases{/id}
-size: 15
+size: 21
 ssh_url: git@github.com:z3by/vuepress-plugin-featured.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/z3by/vuepress-plugin-featured/stargazers

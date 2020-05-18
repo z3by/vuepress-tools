@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-bgm-player/downloads
 events_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-bgm-player/events
 fork: false
-forks: 1
-forks_count: 1
+forks: 2
+forks_count: 2
 forks_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-bgm-player/forks
 full_name: vuepress-reco/vuepress-plugin-bgm-player
 git_commits_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-bgm-player/git/commits{/sha}
@@ -53,7 +53,7 @@ merges_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-bgm-playe
 milestones_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-bgm-player/milestones{/number}
 mirror_url: null
 name: vuepress-plugin-bgm-player
-network_count: 1
+network_count: 2
 node_id: MDEwOlJlcG9zaXRvcnkyMjIzMzgzNzg=
 notifications_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-bgm-player/notifications{?since,all,participating}
 open_issues: 1
@@ -106,7 +106,7 @@ pushed_at: '2020-04-12T06:37:12Z'
 releases_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-bgm-player/releases{/id}
 size: 159
 ssh_url: git@github.com:vuepress-reco/vuepress-plugin-bgm-player.git
-stargazers_count: 8
+stargazers_count: 9
 stargazers_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-bgm-player/stargazers
 statuses_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-bgm-player/statuses/{sha}
 subscribers_count: 1
@@ -117,10 +117,10 @@ tags_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-bgm-player/
 teams_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-bgm-player/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-bgm-player/git/trees{/sha}
-updated_at: '2020-04-25T17:02:19Z'
+updated_at: '2020-05-05T16:22:19Z'
 url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-bgm-player
-watchers: 8
-watchers_count: 8
+watchers: 9
+watchers_count: 9
 ---
 
 # @vuepress-reco/vuepress-plugin-bgm-player

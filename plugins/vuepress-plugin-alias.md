@@ -82,7 +82,7 @@ pushed_at: '2018-12-15T19:51:21Z'
 releases_url: https://api.github.com/repos/vaniyokk/vuepress-plugin-alias/releases{/id}
 size: 9
 ssh_url: git@github.com:vaniyokk/vuepress-plugin-alias.git
-stargazers_count: 5
+stargazers_count: 6
 stargazers_url: https://api.github.com/repos/vaniyokk/vuepress-plugin-alias/stargazers
 statuses_url: https://api.github.com/repos/vaniyokk/vuepress-plugin-alias/statuses/{sha}
 subscribers_count: 1
@@ -93,10 +93,10 @@ tags_url: https://api.github.com/repos/vaniyokk/vuepress-plugin-alias/tags
 teams_url: https://api.github.com/repos/vaniyokk/vuepress-plugin-alias/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/vaniyokk/vuepress-plugin-alias/git/trees{/sha}
-updated_at: '2019-11-17T13:03:02Z'
+updated_at: '2020-05-11T23:31:47Z'
 url: https://api.github.com/repos/vaniyokk/vuepress-plugin-alias
-watchers: 5
-watchers_count: 5
+watchers: 6
+watchers_count: 6
 ---
 
 # vuepress-plugin-alias

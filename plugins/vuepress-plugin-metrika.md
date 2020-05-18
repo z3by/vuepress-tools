@@ -41,7 +41,7 @@ issue_events_url: https://api.github.com/repos/teners/vuepress-plugin-metrika/is
 issues_url: https://api.github.com/repos/teners/vuepress-plugin-metrika/issues{/number}
 keys_url: https://api.github.com/repos/teners/vuepress-plugin-metrika/keys{/key_id}
 labels_url: https://api.github.com/repos/teners/vuepress-plugin-metrika/labels{/name}
-language: JavaScript
+language: TypeScript
 languages_url: https://api.github.com/repos/teners/vuepress-plugin-metrika/languages
 license:
   key: mit
@@ -83,11 +83,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/teners/vuepress-plugin-metrika/pulls{/number}
-pushed_at: '2020-04-20T19:10:55Z'
+pushed_at: '2020-05-09T23:53:36Z'
 releases_url: https://api.github.com/repos/teners/vuepress-plugin-metrika/releases{/id}
-size: 1
+size: 112
 ssh_url: git@github.com:teners/vuepress-plugin-metrika.git
-stargazers_count: 0
+stargazers_count: 1
 stargazers_url: https://api.github.com/repos/teners/vuepress-plugin-metrika/stargazers
 statuses_url: https://api.github.com/repos/teners/vuepress-plugin-metrika/statuses/{sha}
 subscribers_count: 1
@@ -98,29 +98,61 @@ tags_url: https://api.github.com/repos/teners/vuepress-plugin-metrika/tags
 teams_url: https://api.github.com/repos/teners/vuepress-plugin-metrika/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/teners/vuepress-plugin-metrika/git/trees{/sha}
-updated_at: '2020-04-20T19:11:47Z'
+updated_at: '2020-05-11T13:05:00Z'
 url: https://api.github.com/repos/teners/vuepress-plugin-metrika
-watchers: 0
-watchers_count: 0
+watchers: 1
+watchers_count: 1
 ---
 
 # Yandex Metrika VuePress plugin
 
+![Version](https://img.shields.io/npm/v/vuepress-plugin-metrika)
+![License](https://img.shields.io/npm/l/vuepress-plugin-metrika)
+
+Integrate [Yandex.Metrika](https://metrika.yandex.ru/) into your
+[VuePress](http://vuepress.vuejs.org) app with a few configuration lines 🔧
+
 ## Install
 
+From your VuePress project directory run
+
 ```shell
-yarn add vuepress-plugin-metrika
+yarn add --dev --exact vuepress-plugin-metrika
 ```
 
 ## Usage
 
-In your `.vuepress/config.js` add:
+Add the following lines to the `.vuepress/config.js`:
 
 ```js
 module.exports = {
-    plugins: [
-        ...
-        ['metrika', {metrikaCounter: 'XXXXXXX'}]
-    ]
+  plugins: [
+    ...
+    [
+      'metrika',
+      {
+        counter: 'XXXXXXX',
+        config: {...},
+      },
+    ],
+  ]
 }
 ```
+
+where `XXXXXXX` is your Metrika counter, and `config` is an optional parameter
+with the following defaults:
+
+```js
+{
+  accurateTrackBounce: true,
+  clickmap: true,
+  trackLinks: true,
+  webvisor: false
+}
+```
+
+[See more](https://yandex.ru/support/metrica/code/counter-initialize.html)
+about Yandex.Metrika configuration options.
+
+And you're good to go! 🚀 Build your VuePress site as usual
+and enjoy your analytics 📈

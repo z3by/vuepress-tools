@@ -56,8 +56,8 @@ name: vuepress-plugin-ipfs
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyMjU4ODE5MDI=
 notifications_url: https://api.github.com/repos/cwaring/vuepress-plugin-ipfs/notifications{?since,all,participating}
-open_issues: 2
-open_issues_count: 2
+open_issues: 3
+open_issues_count: 3
 owner:
   avatar_url: https://avatars2.githubusercontent.com/u/106938?v=4
   events_url: https://api.github.com/users/cwaring/events{/privacy}

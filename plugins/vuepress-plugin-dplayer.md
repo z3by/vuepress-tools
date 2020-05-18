@@ -14,13 +14,13 @@ contributors_url: https://api.github.com/repos/upcwangying/vuepress-plugin-dplay
 created_at: '2020-02-14T12:49:42Z'
 default_branch: master
 deployments_url: https://api.github.com/repos/upcwangying/vuepress-plugin-dplayer/deployments
-description: dplayer for vuepress
+description: dplayer for vuepress. Live demo(https://next.chenyifaer.com/category1/2019/092101.html)
 disabled: false
 downloads_url: https://api.github.com/repos/upcwangying/vuepress-plugin-dplayer/downloads
 events_url: https://api.github.com/repos/upcwangying/vuepress-plugin-dplayer/events
 fork: false
-forks: 0
-forks_count: 0
+forks: 1
+forks_count: 1
 forks_url: https://api.github.com/repos/upcwangying/vuepress-plugin-dplayer/forks
 full_name: upcwangying/vuepress-plugin-dplayer
 git_commits_url: https://api.github.com/repos/upcwangying/vuepress-plugin-dplayer/git/commits{/sha}
@@ -32,7 +32,7 @@ has_issues: true
 has_pages: false
 has_projects: true
 has_wiki: true
-homepage: null
+homepage: ''
 hooks_url: https://api.github.com/repos/upcwangying/vuepress-plugin-dplayer/hooks
 html_url: https://github.com/upcwangying/vuepress-plugin-dplayer
 id: 240507134
@@ -53,7 +53,7 @@ merges_url: https://api.github.com/repos/upcwangying/vuepress-plugin-dplayer/mer
 milestones_url: https://api.github.com/repos/upcwangying/vuepress-plugin-dplayer/milestones{/number}
 mirror_url: null
 name: vuepress-plugin-dplayer
-network_count: 0
+network_count: 1
 node_id: MDEwOlJlcG9zaXRvcnkyNDA1MDcxMzQ=
 notifications_url: https://api.github.com/repos/upcwangying/vuepress-plugin-dplayer/notifications{?since,all,participating}
 open_issues: 0
@@ -98,7 +98,7 @@ tags_url: https://api.github.com/repos/upcwangying/vuepress-plugin-dplayer/tags
 teams_url: https://api.github.com/repos/upcwangying/vuepress-plugin-dplayer/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/upcwangying/vuepress-plugin-dplayer/git/trees{/sha}
-updated_at: '2020-02-25T07:55:45Z'
+updated_at: '2020-05-08T06:53:03Z'
 url: https://api.github.com/repos/upcwangying/vuepress-plugin-dplayer
 watchers: 0
 watchers_count: 0

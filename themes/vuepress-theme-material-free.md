@@ -88,7 +88,7 @@ pushed_at: '2020-04-20T19:58:50Z'
 releases_url: https://api.github.com/repos/gabrielwillemann/vuepress-theme-material-free/releases{/id}
 size: 29
 ssh_url: git@github.com:gabrielwillemann/vuepress-theme-material-free.git
-stargazers_count: 0
+stargazers_count: 1
 stargazers_url: https://api.github.com/repos/gabrielwillemann/vuepress-theme-material-free/stargazers
 statuses_url: https://api.github.com/repos/gabrielwillemann/vuepress-theme-material-free/statuses/{sha}
 subscribers_count: 1
@@ -99,10 +99,10 @@ tags_url: https://api.github.com/repos/gabrielwillemann/vuepress-theme-material-
 teams_url: https://api.github.com/repos/gabrielwillemann/vuepress-theme-material-free/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/gabrielwillemann/vuepress-theme-material-free/git/trees{/sha}
-updated_at: '2020-04-20T19:58:53Z'
+updated_at: '2020-04-30T21:40:55Z'
 url: https://api.github.com/repos/gabrielwillemann/vuepress-theme-material-free
-watchers: 0
-watchers_count: 0
+watchers: 1
+watchers_count: 1
 ---
 
 # [Vuepress Theme Material Free](https://www.npmjs.com/package/vuepress-theme-material-free)

@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/f3ltron/vuepress-plugin-docgen/downloads
 events_url: https://api.github.com/repos/f3ltron/vuepress-plugin-docgen/events
 fork: false
-forks: 1
-forks_count: 1
+forks: 2
+forks_count: 2
 forks_url: https://api.github.com/repos/f3ltron/vuepress-plugin-docgen/forks
 full_name: f3ltron/vuepress-plugin-docgen
 git_commits_url: https://api.github.com/repos/f3ltron/vuepress-plugin-docgen/git/commits{/sha}
@@ -53,11 +53,11 @@ merges_url: https://api.github.com/repos/f3ltron/vuepress-plugin-docgen/merges
 milestones_url: https://api.github.com/repos/f3ltron/vuepress-plugin-docgen/milestones{/number}
 mirror_url: null
 name: vuepress-plugin-docgen
-network_count: 1
+network_count: 2
 node_id: MDEwOlJlcG9zaXRvcnkxNzQ2MzE3NzI=
 notifications_url: https://api.github.com/repos/f3ltron/vuepress-plugin-docgen/notifications{?since,all,participating}
-open_issues: 3
-open_issues_count: 3
+open_issues: 2
+open_issues_count: 2
 owner:
   avatar_url: https://avatars2.githubusercontent.com/u/11556276?v=4
   events_url: https://api.github.com/users/f3ltron/events{/privacy}

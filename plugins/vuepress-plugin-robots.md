@@ -20,8 +20,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/HiYue/vuepress-plugin-robots/downloads
 events_url: https://api.github.com/repos/HiYue/vuepress-plugin-robots/events
 fork: false
-forks: 1
-forks_count: 1
+forks: 2
+forks_count: 2
 forks_url: https://api.github.com/repos/HiYue/vuepress-plugin-robots/forks
 full_name: HiYue/vuepress-plugin-robots
 git_commits_url: https://api.github.com/repos/HiYue/vuepress-plugin-robots/git/commits{/sha}
@@ -49,11 +49,11 @@ merges_url: https://api.github.com/repos/HiYue/vuepress-plugin-robots/merges
 milestones_url: https://api.github.com/repos/HiYue/vuepress-plugin-robots/milestones{/number}
 mirror_url: null
 name: vuepress-plugin-robots
-network_count: 1
+network_count: 2
 node_id: MDEwOlJlcG9zaXRvcnkxOTc4OTg3NjQ=
 notifications_url: https://api.github.com/repos/HiYue/vuepress-plugin-robots/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
+open_issues: 2
+open_issues_count: 2
 owner:
   avatar_url: https://avatars1.githubusercontent.com/u/48642166?v=4
   events_url: https://api.github.com/users/HiYue/events{/privacy}
@@ -79,7 +79,7 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/HiYue/vuepress-plugin-robots/pulls{/number}
-pushed_at: '2019-07-20T10:56:53Z'
+pushed_at: '2020-05-10T21:31:25Z'
 releases_url: https://api.github.com/repos/HiYue/vuepress-plugin-robots/releases{/id}
 size: 6
 ssh_url: git@github.com:HiYue/vuepress-plugin-robots.git

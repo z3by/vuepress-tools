@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/JoeyBling/vuepress-plugin-helper-live2d/downloads
 events_url: https://api.github.com/repos/JoeyBling/vuepress-plugin-helper-live2d/events
 fork: false
-forks: 3
-forks_count: 3
+forks: 4
+forks_count: 4
 forks_url: https://api.github.com/repos/JoeyBling/vuepress-plugin-helper-live2d/forks
 full_name: JoeyBling/vuepress-plugin-helper-live2d
 git_commits_url: https://api.github.com/repos/JoeyBling/vuepress-plugin-helper-live2d/git/commits{/sha}
@@ -53,7 +53,7 @@ merges_url: https://api.github.com/repos/JoeyBling/vuepress-plugin-helper-live2d
 milestones_url: https://api.github.com/repos/JoeyBling/vuepress-plugin-helper-live2d/milestones{/number}
 mirror_url: null
 name: vuepress-plugin-helper-live2d
-network_count: 3
+network_count: 4
 node_id: MDEwOlJlcG9zaXRvcnkyMDg3NTk3MjU=
 notifications_url: https://api.github.com/repos/JoeyBling/vuepress-plugin-helper-live2d/notifications{?since,all,participating}
 open_issues: 2
@@ -87,7 +87,7 @@ pushed_at: '2019-12-20T02:02:49Z'
 releases_url: https://api.github.com/repos/JoeyBling/vuepress-plugin-helper-live2d/releases{/id}
 size: 16166
 ssh_url: git@github.com:JoeyBling/vuepress-plugin-helper-live2d.git
-stargazers_count: 9
+stargazers_count: 10
 stargazers_url: https://api.github.com/repos/JoeyBling/vuepress-plugin-helper-live2d/stargazers
 statuses_url: https://api.github.com/repos/JoeyBling/vuepress-plugin-helper-live2d/statuses/{sha}
 subscribers_count: 1
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/JoeyBling/vuepress-plugin-helper-live2d/t
 teams_url: https://api.github.com/repos/JoeyBling/vuepress-plugin-helper-live2d/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/JoeyBling/vuepress-plugin-helper-live2d/git/trees{/sha}
-updated_at: '2020-04-20T06:49:42Z'
+updated_at: '2020-05-10T02:18:23Z'
 url: https://api.github.com/repos/JoeyBling/vuepress-plugin-helper-live2d
-watchers: 9
-watchers_count: 9
+watchers: 10
+watchers_count: 10
 ---
 
 # vuepress-plugin-helper-live2d

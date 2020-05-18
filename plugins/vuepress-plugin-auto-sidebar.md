@@ -20,8 +20,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/shanyuhai123/vuepress-plugin-auto-sidebar/downloads
 events_url: https://api.github.com/repos/shanyuhai123/vuepress-plugin-auto-sidebar/events
 fork: false
-forks: 1
-forks_count: 1
+forks: 2
+forks_count: 2
 forks_url: https://api.github.com/repos/shanyuhai123/vuepress-plugin-auto-sidebar/forks
 full_name: shanyuhai123/vuepress-plugin-auto-sidebar
 git_commits_url: https://api.github.com/repos/shanyuhai123/vuepress-plugin-auto-sidebar/git/commits{/sha}
@@ -54,7 +54,7 @@ merges_url: https://api.github.com/repos/shanyuhai123/vuepress-plugin-auto-sideb
 milestones_url: https://api.github.com/repos/shanyuhai123/vuepress-plugin-auto-sidebar/milestones{/number}
 mirror_url: null
 name: vuepress-plugin-auto-sidebar
-network_count: 1
+network_count: 2
 node_id: MDEwOlJlcG9zaXRvcnkyMzAxMTM4MTA=
 notifications_url: https://api.github.com/repos/shanyuhai123/vuepress-plugin-auto-sidebar/notifications{?since,all,participating}
 open_issues: 1
@@ -88,7 +88,7 @@ pushed_at: '2020-04-12T05:59:28Z'
 releases_url: https://api.github.com/repos/shanyuhai123/vuepress-plugin-auto-sidebar/releases{/id}
 size: 581
 ssh_url: git@github.com:shanyuhai123/vuepress-plugin-auto-sidebar.git
-stargazers_count: 24
+stargazers_count: 28
 stargazers_url: https://api.github.com/repos/shanyuhai123/vuepress-plugin-auto-sidebar/stargazers
 statuses_url: https://api.github.com/repos/shanyuhai123/vuepress-plugin-auto-sidebar/statuses/{sha}
 subscribers_count: 2
@@ -99,10 +99,10 @@ tags_url: https://api.github.com/repos/shanyuhai123/vuepress-plugin-auto-sidebar
 teams_url: https://api.github.com/repos/shanyuhai123/vuepress-plugin-auto-sidebar/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/shanyuhai123/vuepress-plugin-auto-sidebar/git/trees{/sha}
-updated_at: '2020-04-27T02:37:02Z'
+updated_at: '2020-05-07T11:17:19Z'
 url: https://api.github.com/repos/shanyuhai123/vuepress-plugin-auto-sidebar
-watchers: 24
-watchers_count: 24
+watchers: 28
+watchers_count: 28
 ---
 
 # Vuepress Plugin Auto Sidebar

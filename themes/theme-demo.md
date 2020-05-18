@@ -1,0 +1,101 @@
+---
+archive_url: https://api.github.com/repos/Mister-Hope/theme-demo/{archive_format}{/ref}
+archived: false
+assignees_url: https://api.github.com/repos/Mister-Hope/theme-demo/assignees{/user}
+blobs_url: https://api.github.com/repos/Mister-Hope/theme-demo/git/blobs{/sha}
+branches_url: https://api.github.com/repos/Mister-Hope/theme-demo/branches{/branch}
+clone_url: https://github.com/Mister-Hope/theme-demo.git
+collaborators_url: https://api.github.com/repos/Mister-Hope/theme-demo/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/Mister-Hope/theme-demo/comments{/number}
+commits_url: https://api.github.com/repos/Mister-Hope/theme-demo/commits{/sha}
+compare_url: https://api.github.com/repos/Mister-Hope/theme-demo/compare/{base}...{head}
+contents_url: https://api.github.com/repos/Mister-Hope/theme-demo/contents/{+path}
+contributors_url: https://api.github.com/repos/Mister-Hope/theme-demo/contributors
+created_at: '2019-10-17T16:28:24Z'
+default_branch: gh-pages
+deployments_url: https://api.github.com/repos/Mister-Hope/theme-demo/deployments
+description: A demo for vuepress-theme-hope
+disabled: false
+downloads_url: https://api.github.com/repos/Mister-Hope/theme-demo/downloads
+events_url: https://api.github.com/repos/Mister-Hope/theme-demo/events
+fork: false
+forks: 0
+forks_count: 0
+forks_url: https://api.github.com/repos/Mister-Hope/theme-demo/forks
+full_name: Mister-Hope/theme-demo
+git_commits_url: https://api.github.com/repos/Mister-Hope/theme-demo/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/Mister-Hope/theme-demo/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/Mister-Hope/theme-demo/git/tags{/sha}
+git_url: git://github.com/Mister-Hope/theme-demo.git
+has_downloads: true
+has_issues: true
+has_pages: true
+has_projects: true
+has_wiki: true
+homepage: https://vuepress-theme-demo.mrhope.site
+hooks_url: https://api.github.com/repos/Mister-Hope/theme-demo/hooks
+html_url: https://github.com/Mister-Hope/theme-demo
+id: 215837714
+issue_comment_url: https://api.github.com/repos/Mister-Hope/theme-demo/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/Mister-Hope/theme-demo/issues/events{/number}
+issues_url: https://api.github.com/repos/Mister-Hope/theme-demo/issues{/number}
+keys_url: https://api.github.com/repos/Mister-Hope/theme-demo/keys{/key_id}
+labels_url: https://api.github.com/repos/Mister-Hope/theme-demo/labels{/name}
+language: HTML
+languages_url: https://api.github.com/repos/Mister-Hope/theme-demo/languages
+license: null
+merges_url: https://api.github.com/repos/Mister-Hope/theme-demo/merges
+milestones_url: https://api.github.com/repos/Mister-Hope/theme-demo/milestones{/number}
+mirror_url: null
+name: theme-demo
+network_count: 0
+node_id: MDEwOlJlcG9zaXRvcnkyMTU4Mzc3MTQ=
+notifications_url: https://api.github.com/repos/Mister-Hope/theme-demo/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
+owner:
+  avatar_url: https://avatars0.githubusercontent.com/u/33315834?v=4
+  events_url: https://api.github.com/users/Mister-Hope/events{/privacy}
+  followers_url: https://api.github.com/users/Mister-Hope/followers
+  following_url: https://api.github.com/users/Mister-Hope/following{/other_user}
+  gists_url: https://api.github.com/users/Mister-Hope/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/Mister-Hope
+  id: 33315834
+  login: Mister-Hope
+  node_id: MDQ6VXNlcjMzMzE1ODM0
+  organizations_url: https://api.github.com/users/Mister-Hope/orgs
+  received_events_url: https://api.github.com/users/Mister-Hope/received_events
+  repos_url: https://api.github.com/users/Mister-Hope/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/Mister-Hope/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/Mister-Hope/subscriptions
+  type: User
+  url: https://api.github.com/users/Mister-Hope
+permissions:
+  admin: false
+  pull: true
+  push: false
+private: false
+pulls_url: https://api.github.com/repos/Mister-Hope/theme-demo/pulls{/number}
+pushed_at: '2020-05-15T18:38:35Z'
+releases_url: https://api.github.com/repos/Mister-Hope/theme-demo/releases{/id}
+size: 13382
+ssh_url: git@github.com:Mister-Hope/theme-demo.git
+stargazers_count: 0
+stargazers_url: https://api.github.com/repos/Mister-Hope/theme-demo/stargazers
+statuses_url: https://api.github.com/repos/Mister-Hope/theme-demo/statuses/{sha}
+subscribers_count: 1
+subscribers_url: https://api.github.com/repos/Mister-Hope/theme-demo/subscribers
+subscription_url: https://api.github.com/repos/Mister-Hope/theme-demo/subscription
+svn_url: https://github.com/Mister-Hope/theme-demo
+tags_url: https://api.github.com/repos/Mister-Hope/theme-demo/tags
+teams_url: https://api.github.com/repos/Mister-Hope/theme-demo/teams
+temp_clone_token: ''
+trees_url: https://api.github.com/repos/Mister-Hope/theme-demo/git/trees{/sha}
+updated_at: '2020-05-15T18:38:38Z'
+url: https://api.github.com/repos/Mister-Hope/theme-demo
+watchers: 0
+watchers_count: 0
+---
+

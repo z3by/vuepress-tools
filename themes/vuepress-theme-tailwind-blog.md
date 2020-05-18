@@ -102,7 +102,7 @@ pushed_at: '2020-04-04T12:43:27Z'
 releases_url: https://api.github.com/repos/recodable/vuepress-theme-tailwind-blog/releases{/id}
 size: 6677
 ssh_url: git@github.com:recodable/vuepress-theme-tailwind-blog.git
-stargazers_count: 1
+stargazers_count: 2
 stargazers_url: https://api.github.com/repos/recodable/vuepress-theme-tailwind-blog/stargazers
 statuses_url: https://api.github.com/repos/recodable/vuepress-theme-tailwind-blog/statuses/{sha}
 subscribers_count: 2
@@ -113,10 +113,10 @@ tags_url: https://api.github.com/repos/recodable/vuepress-theme-tailwind-blog/ta
 teams_url: https://api.github.com/repos/recodable/vuepress-theme-tailwind-blog/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/recodable/vuepress-theme-tailwind-blog/git/trees{/sha}
-updated_at: '2020-02-28T16:04:35Z'
+updated_at: '2020-05-11T22:49:40Z'
 url: https://api.github.com/repos/recodable/vuepress-theme-tailwind-blog
-watchers: 1
-watchers_count: 1
+watchers: 2
+watchers_count: 2
 ---
 
 # Recodable's Vuepress + Tailwind Blog Theme

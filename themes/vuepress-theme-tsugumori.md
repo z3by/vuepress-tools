@@ -51,8 +51,8 @@ name: vuepress-theme-tsugumori
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkxNzIwOTc0Mjc=
 notifications_url: https://api.github.com/repos/Karlbovsky/vuepress-theme-tsugumori/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
+open_issues: 1
+open_issues_count: 1
 owner:
   avatar_url: https://avatars3.githubusercontent.com/u/5312818?v=4
   events_url: https://api.github.com/users/Karlbovsky/events{/privacy}
@@ -78,9 +78,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/Karlbovsky/vuepress-theme-tsugumori/pulls{/number}
-pushed_at: '2020-03-18T14:15:18Z'
+pushed_at: '2020-05-08T11:59:08Z'
 releases_url: https://api.github.com/repos/Karlbovsky/vuepress-theme-tsugumori/releases{/id}
-size: 623
+size: 763
 ssh_url: git@github.com:Karlbovsky/vuepress-theme-tsugumori.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/Karlbovsky/vuepress-theme-tsugumori/stargazers
@@ -93,7 +93,7 @@ tags_url: https://api.github.com/repos/Karlbovsky/vuepress-theme-tsugumori/tags
 teams_url: https://api.github.com/repos/Karlbovsky/vuepress-theme-tsugumori/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/Karlbovsky/vuepress-theme-tsugumori/git/trees{/sha}
-updated_at: '2020-03-18T14:15:12Z'
+updated_at: '2020-05-08T11:59:09Z'
 url: https://api.github.com/repos/Karlbovsky/vuepress-theme-tsugumori
 watchers: 0
 watchers_count: 0

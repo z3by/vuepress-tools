@@ -82,7 +82,7 @@ pushed_at: '2020-04-21T06:04:03Z'
 releases_url: https://api.github.com/repos/lq782655835/vuepress-plugin-element-ui/releases{/id}
 size: 838
 ssh_url: git@github.com:lq782655835/vuepress-plugin-element-ui.git
-stargazers_count: 2
+stargazers_count: 3
 stargazers_url: https://api.github.com/repos/lq782655835/vuepress-plugin-element-ui/stargazers
 statuses_url: https://api.github.com/repos/lq782655835/vuepress-plugin-element-ui/statuses/{sha}
 subscribers_count: 1
@@ -93,10 +93,10 @@ tags_url: https://api.github.com/repos/lq782655835/vuepress-plugin-element-ui/ta
 teams_url: https://api.github.com/repos/lq782655835/vuepress-plugin-element-ui/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/lq782655835/vuepress-plugin-element-ui/git/trees{/sha}
-updated_at: '2020-04-24T11:06:30Z'
+updated_at: '2020-05-13T07:50:21Z'
 url: https://api.github.com/repos/lq782655835/vuepress-plugin-element-ui
-watchers: 2
-watchers_count: 2
+watchers: 3
+watchers_count: 3
 ---
 
 # [vuepress-plugin-element-ui](https://superbiger.github.io/vuepress-plugin-tabs/)

@@ -82,7 +82,7 @@ pushed_at: '2019-09-05T06:52:39Z'
 releases_url: https://api.github.com/repos/boboidream/vuepress-plugin-rpurl/releases{/id}
 size: 3
 ssh_url: git@github.com:boboidream/vuepress-plugin-rpurl.git
-stargazers_count: 0
+stargazers_count: 1
 stargazers_url: https://api.github.com/repos/boboidream/vuepress-plugin-rpurl/stargazers
 statuses_url: https://api.github.com/repos/boboidream/vuepress-plugin-rpurl/statuses/{sha}
 subscribers_count: 1
@@ -93,10 +93,10 @@ tags_url: https://api.github.com/repos/boboidream/vuepress-plugin-rpurl/tags
 teams_url: https://api.github.com/repos/boboidream/vuepress-plugin-rpurl/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/boboidream/vuepress-plugin-rpurl/git/trees{/sha}
-updated_at: '2019-09-05T06:52:40Z'
+updated_at: '2020-04-29T07:57:16Z'
 url: https://api.github.com/repos/boboidream/vuepress-plugin-rpurl
-watchers: 0
-watchers_count: 0
+watchers: 1
+watchers_count: 1
 ---
 
 # vuepress-plugin-rpurl

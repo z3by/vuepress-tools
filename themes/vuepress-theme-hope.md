@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope/downloads
 events_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope/events
 fork: false
-forks: 3
-forks_count: 3
+forks: 4
+forks_count: 4
 forks_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope/forks
 full_name: Mister-Hope/vuepress-theme-hope
 git_commits_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope/git/commits{/sha}
@@ -53,11 +53,11 @@ merges_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope/merges
 milestones_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope/milestones{/number}
 mirror_url: null
 name: vuepress-theme-hope
-network_count: 3
+network_count: 4
 node_id: MDEwOlJlcG9zaXRvcnkyMTU1MjI0MDM=
 notifications_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope/notifications{?since,all,participating}
-open_issues: 4
-open_issues_count: 4
+open_issues: 10
+open_issues_count: 10
 owner:
   avatar_url: https://avatars0.githubusercontent.com/u/33315834?v=4
   events_url: https://api.github.com/users/Mister-Hope/events{/privacy}
@@ -83,11 +83,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope/pulls{/number}
-pushed_at: '2020-04-27T13:13:05Z'
+pushed_at: '2020-05-15T18:32:03Z'
 releases_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope/releases{/id}
-size: 35114
+size: 46592
 ssh_url: git@github.com:Mister-Hope/vuepress-theme-hope.git
-stargazers_count: 16
+stargazers_count: 29
 stargazers_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope/stargazers
 statuses_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope/statuses/{sha}
 subscribers_count: 1
@@ -98,25 +98,22 @@ tags_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope/tags
 teams_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope/git/trees{/sha}
-updated_at: '2020-04-27T13:07:57Z'
+updated_at: '2020-05-16T14:00:11Z'
 url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope
-watchers: 16
-watchers_count: 16
+watchers: 29
+watchers_count: 29
 ---
 
-<p style="text-align: center;margin: 0;">
-  <img width="240" src="https://vuepress-theme.mrhope.site/logo.svg" style="text-align: center;"/>
+<p align="center">
+  <img width="240" src="https://vuepress-theme.mrhope.site/logo.svg" />
 </p>
-<h1 style="text-align: center;">vuepress-theme-hope</h1>
-<h4 style="text-align: center;margin-bottom:40px;">一个轻量的 vuepress 主题✨ / A light vuepress theme✨</h4>
+<h1 align="center">vuepress-theme-hope</h1>
+<h4 align="center">一个轻量的 vuepress 主题✨ / A light vuepress theme✨</h4>
 
 [![Author: Mr.Hope](https://img.shields.io/badge/作者-Mr.Hope-blue.svg?style=for-the-badge)](https://mrhope.site)
 [![License](https://img.shields.io/npm/l/vuepress-theme-hope.svg?style=for-the-badge)](https://github.com/Mister-Hope/vuepress-theme-hope/blob/master/LICENSE)
 
 [![Version](https://img.shields.io/npm/v/vuepress-theme-hope.svg?style=flat-square&logo=npm) ![Downloads](https://img.shields.io/npm/dm/vuepress-theme-hope.svg?style=flat-square&logo=npm) ![Size](https://img.shields.io/bundlephobia/min/vuepress-theme-hope?style=flat-square&logo=npm) ![Dependencies](https://img.shields.io/librariesio/release/npm/vuepress-theme-hope?style=flat-square)](https://www.npmjs.com/package/vuepress-theme-hope)
-
-![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)
-[![lerna](https://img.shields.io/badge/maintained%20with-lerna-cc00ff.svg)](https://lerna.js.org/)
 
 ![Issues](https://img.shields.io/github/issues-raw/mister-hope/vuepress-theme-hope?style=flat-square&logo=github)
 
@@ -154,7 +151,7 @@ The theme largely maintain the style of `@vuepress/theme-default`, while theme h
 - Dark mode, allows you to switch manually or apply your color configuration automatically
 - Added PWA support and full-screen buttons to enhance immersion
 - Added more grammar to Markdown to enrich documents and blog writing
-- Add visitor statistics, author and date display for all pages
+- Add pageview statistics, author and date display for all pages
 - Add article comment function
 - Added icon support in multiple places
 - Allows to customize the footer of each article

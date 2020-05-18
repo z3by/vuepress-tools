@@ -1,0 +1,103 @@
+---
+archive_url: https://api.github.com/repos/Eddie-Fannie/vuepress-theme-bydovis/{archive_format}{/ref}
+archived: false
+assignees_url: https://api.github.com/repos/Eddie-Fannie/vuepress-theme-bydovis/assignees{/user}
+blobs_url: https://api.github.com/repos/Eddie-Fannie/vuepress-theme-bydovis/git/blobs{/sha}
+branches_url: https://api.github.com/repos/Eddie-Fannie/vuepress-theme-bydovis/branches{/branch}
+clone_url: https://github.com/Eddie-Fannie/vuepress-theme-bydovis.git
+collaborators_url: https://api.github.com/repos/Eddie-Fannie/vuepress-theme-bydovis/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/Eddie-Fannie/vuepress-theme-bydovis/comments{/number}
+commits_url: https://api.github.com/repos/Eddie-Fannie/vuepress-theme-bydovis/commits{/sha}
+compare_url: https://api.github.com/repos/Eddie-Fannie/vuepress-theme-bydovis/compare/{base}...{head}
+contents_url: https://api.github.com/repos/Eddie-Fannie/vuepress-theme-bydovis/contents/{+path}
+contributors_url: https://api.github.com/repos/Eddie-Fannie/vuepress-theme-bydovis/contributors
+created_at: '2020-05-14T15:40:14Z'
+default_branch: master
+deployments_url: https://api.github.com/repos/Eddie-Fannie/vuepress-theme-bydovis/deployments
+description: "\u4E00\u4E2Avuepress\u7684\u81EA\u5B9A\u4E49\u4E3B\u9898"
+disabled: false
+downloads_url: https://api.github.com/repos/Eddie-Fannie/vuepress-theme-bydovis/downloads
+events_url: https://api.github.com/repos/Eddie-Fannie/vuepress-theme-bydovis/events
+fork: false
+forks: 0
+forks_count: 0
+forks_url: https://api.github.com/repos/Eddie-Fannie/vuepress-theme-bydovis/forks
+full_name: Eddie-Fannie/vuepress-theme-bydovis
+git_commits_url: https://api.github.com/repos/Eddie-Fannie/vuepress-theme-bydovis/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/Eddie-Fannie/vuepress-theme-bydovis/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/Eddie-Fannie/vuepress-theme-bydovis/git/tags{/sha}
+git_url: git://github.com/Eddie-Fannie/vuepress-theme-bydovis.git
+has_downloads: true
+has_issues: true
+has_pages: false
+has_projects: true
+has_wiki: true
+homepage: null
+hooks_url: https://api.github.com/repos/Eddie-Fannie/vuepress-theme-bydovis/hooks
+html_url: https://github.com/Eddie-Fannie/vuepress-theme-bydovis
+id: 263955749
+issue_comment_url: https://api.github.com/repos/Eddie-Fannie/vuepress-theme-bydovis/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/Eddie-Fannie/vuepress-theme-bydovis/issues/events{/number}
+issues_url: https://api.github.com/repos/Eddie-Fannie/vuepress-theme-bydovis/issues{/number}
+keys_url: https://api.github.com/repos/Eddie-Fannie/vuepress-theme-bydovis/keys{/key_id}
+labels_url: https://api.github.com/repos/Eddie-Fannie/vuepress-theme-bydovis/labels{/name}
+language: JavaScript
+languages_url: https://api.github.com/repos/Eddie-Fannie/vuepress-theme-bydovis/languages
+license: null
+merges_url: https://api.github.com/repos/Eddie-Fannie/vuepress-theme-bydovis/merges
+milestones_url: https://api.github.com/repos/Eddie-Fannie/vuepress-theme-bydovis/milestones{/number}
+mirror_url: null
+name: vuepress-theme-bydovis
+network_count: 0
+node_id: MDEwOlJlcG9zaXRvcnkyNjM5NTU3NDk=
+notifications_url: https://api.github.com/repos/Eddie-Fannie/vuepress-theme-bydovis/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
+owner:
+  avatar_url: https://avatars0.githubusercontent.com/u/38432228?v=4
+  events_url: https://api.github.com/users/Eddie-Fannie/events{/privacy}
+  followers_url: https://api.github.com/users/Eddie-Fannie/followers
+  following_url: https://api.github.com/users/Eddie-Fannie/following{/other_user}
+  gists_url: https://api.github.com/users/Eddie-Fannie/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/Eddie-Fannie
+  id: 38432228
+  login: Eddie-Fannie
+  node_id: MDQ6VXNlcjM4NDMyMjI4
+  organizations_url: https://api.github.com/users/Eddie-Fannie/orgs
+  received_events_url: https://api.github.com/users/Eddie-Fannie/received_events
+  repos_url: https://api.github.com/users/Eddie-Fannie/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/Eddie-Fannie/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/Eddie-Fannie/subscriptions
+  type: User
+  url: https://api.github.com/users/Eddie-Fannie
+permissions:
+  admin: false
+  pull: true
+  push: false
+private: false
+pulls_url: https://api.github.com/repos/Eddie-Fannie/vuepress-theme-bydovis/pulls{/number}
+pushed_at: '2020-05-16T11:53:11Z'
+releases_url: https://api.github.com/repos/Eddie-Fannie/vuepress-theme-bydovis/releases{/id}
+size: 7621
+ssh_url: git@github.com:Eddie-Fannie/vuepress-theme-bydovis.git
+stargazers_count: 0
+stargazers_url: https://api.github.com/repos/Eddie-Fannie/vuepress-theme-bydovis/stargazers
+statuses_url: https://api.github.com/repos/Eddie-Fannie/vuepress-theme-bydovis/statuses/{sha}
+subscribers_count: 1
+subscribers_url: https://api.github.com/repos/Eddie-Fannie/vuepress-theme-bydovis/subscribers
+subscription_url: https://api.github.com/repos/Eddie-Fannie/vuepress-theme-bydovis/subscription
+svn_url: https://github.com/Eddie-Fannie/vuepress-theme-bydovis
+tags_url: https://api.github.com/repos/Eddie-Fannie/vuepress-theme-bydovis/tags
+teams_url: https://api.github.com/repos/Eddie-Fannie/vuepress-theme-bydovis/teams
+temp_clone_token: ''
+trees_url: https://api.github.com/repos/Eddie-Fannie/vuepress-theme-bydovis/git/trees{/sha}
+updated_at: '2020-05-16T11:53:15Z'
+url: https://api.github.com/repos/Eddie-Fannie/vuepress-theme-bydovis
+watchers: 0
+watchers_count: 0
+---
+
+### vuepress-theme-bydovis
+自定义主题

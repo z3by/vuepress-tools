@@ -29,7 +29,7 @@ git_tags_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope-templ
 git_url: git://github.com/Mister-Hope/vuepress-theme-hope-template.git
 has_downloads: true
 has_issues: true
-has_pages: false
+has_pages: true
 has_projects: true
 has_wiki: true
 homepage: https://mister-hope.github.io/vuepress-theme-hope-template/
@@ -83,11 +83,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope-template/pulls{/number}
-pushed_at: '2020-04-27T11:03:37Z'
+pushed_at: '2020-05-14T11:04:21Z'
 releases_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope-template/releases{/id}
-size: 519
+size: 2733
 ssh_url: git@github.com:Mister-Hope/vuepress-theme-hope-template.git
-stargazers_count: 1
+stargazers_count: 2
 stargazers_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope-template/stargazers
 statuses_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope-template/statuses/{sha}
 subscribers_count: 1
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope-template/
 teams_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope-template/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope-template/git/trees{/sha}
-updated_at: '2020-04-12T15:30:51Z'
+updated_at: '2020-05-08T07:20:00Z'
 url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope-template
-watchers: 1
-watchers_count: 1
+watchers: 2
+watchers_count: 2
 ---
 
 # vuepress-theme-hope template
@@ -112,15 +112,15 @@ You can begin your vuepress-theme-hope trip by creating a repo from this tempalt
 
 - Install deps:
 
-    Run `yarn install`
+  Run `yarn install`
 
 - Dev Env:
 
-    Run `yarn run serve`
+  Run `yarn run serve`
 
 - Build production files:
 
-    Run `yarn run build`
+  Run `yarn run build`
 
 ---
 
@@ -130,12 +130,12 @@ vuepress-theme-hope 的模板。
 
 - 安装依赖:
 
-    Run `yarn install`
+  Run `yarn install`
 
 - 测试环境:
 
-    Run `yarn run serve`
+  Run `yarn run serve`
 
 - 生产环境(构建文件):
 
-    Run `yarn run build`
+  Run `yarn run build`

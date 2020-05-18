@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/dongyuanxin/vuepress-plugin-comment/downloads
 events_url: https://api.github.com/repos/dongyuanxin/vuepress-plugin-comment/events
 fork: false
-forks: 5
-forks_count: 5
+forks: 7
+forks_count: 7
 forks_url: https://api.github.com/repos/dongyuanxin/vuepress-plugin-comment/forks
 full_name: dongyuanxin/vuepress-plugin-comment
 git_commits_url: https://api.github.com/repos/dongyuanxin/vuepress-plugin-comment/git/commits{/sha}
@@ -48,11 +48,11 @@ merges_url: https://api.github.com/repos/dongyuanxin/vuepress-plugin-comment/mer
 milestones_url: https://api.github.com/repos/dongyuanxin/vuepress-plugin-comment/milestones{/number}
 mirror_url: null
 name: vuepress-plugin-comment
-network_count: 5
+network_count: 7
 node_id: MDEwOlJlcG9zaXRvcnkxOTA4NTA2MTA=
 notifications_url: https://api.github.com/repos/dongyuanxin/vuepress-plugin-comment/notifications{?since,all,participating}
-open_issues: 2
-open_issues_count: 2
+open_issues: 3
+open_issues_count: 3
 owner:
   avatar_url: https://avatars2.githubusercontent.com/u/26399528?v=4
   events_url: https://api.github.com/users/dongyuanxin/events{/privacy}
@@ -78,7 +78,7 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/dongyuanxin/vuepress-plugin-comment/pulls{/number}
-pushed_at: '2020-02-08T05:20:28Z'
+pushed_at: '2020-05-13T07:56:41Z'
 releases_url: https://api.github.com/repos/dongyuanxin/vuepress-plugin-comment/releases{/id}
 size: 26
 ssh_url: git@github.com:dongyuanxin/vuepress-plugin-comment.git

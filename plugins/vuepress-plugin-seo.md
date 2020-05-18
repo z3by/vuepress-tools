@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo/downloads
 events_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo/events
 fork: false
-forks: 3
-forks_count: 3
+forks: 5
+forks_count: 5
 forks_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo/forks
 full_name: lorisleiva/vuepress-plugin-seo
 git_commits_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo/git/commits{/sha}
@@ -53,7 +53,7 @@ merges_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo/merges
 milestones_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo/milestones{/number}
 mirror_url: null
 name: vuepress-plugin-seo
-network_count: 3
+network_count: 5
 node_id: MDEwOlJlcG9zaXRvcnkxNjY0MTg4Nzg=
 notifications_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo/notifications{?since,all,participating}
 open_issues: 3
@@ -83,11 +83,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo/pulls{/number}
-pushed_at: '2020-02-12T05:43:28Z'
+pushed_at: '2020-05-17T21:41:51Z'
 releases_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo/releases{/id}
-size: 7
+size: 8
 ssh_url: git@github.com:lorisleiva/vuepress-plugin-seo.git
-stargazers_count: 65
+stargazers_count: 71
 stargazers_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo/stargazers
 statuses_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo/statuses/{sha}
 subscribers_count: 2
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo/tags
 teams_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo/git/trees{/sha}
-updated_at: '2020-04-20T22:16:26Z'
+updated_at: '2020-05-17T21:41:53Z'
 url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo
-watchers: 65
-watchers_count: 65
+watchers: 71
+watchers_count: 71
 ---
 
 # Vuepress Plugin SEO
@@ -138,7 +138,7 @@ The default options below show you how the relevant data is being retrieved from
     twitterCard: _ => 'summary_large_image',
     type: $page => ['articles', 'posts', 'blog'].some(folder => $page.regularPath.startsWith('/' + folder)) ? 'article' : 'website',
     url: (_, $site, path) => ($site.themeConfig.domain || '') + path,
-    image: ($page, $site) => $page.frontmatter.image && (($site.themeConfig.domain || '') + $page.frontmatter.image),
+    image: ($page, $site) => $page.frontmatter.image && (($site.themeConfig.domain && !$page.frontmatter.image.startsWith('http') || '') + $page.frontmatter.image),
     publishedAt: $page => $page.frontmatter.date && new Date($page.frontmatter.date),
     modifiedAt: $page => $page.lastUpdated && new Date($page.lastUpdated),
 }
@@ -169,7 +169,7 @@ Finally you can also add your own custom meta headers through the `customMeta` o
             $page, // Page configs provided by Vuepress
 
             // All the computed options from above:
-            siteTitle, title, description, author, tags, 
+            siteTitle, title, description, author, tags,
             twitterCard, type, url, image, publishedAt, modifiedAt,
         } = context
 

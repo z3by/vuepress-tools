@@ -82,7 +82,7 @@ pushed_at: '2019-12-24T12:14:41Z'
 releases_url: https://api.github.com/repos/llqgit/vuepress-plugin-visit/releases{/id}
 size: 3
 ssh_url: git@github.com:llqgit/vuepress-plugin-visit.git
-stargazers_count: 1
+stargazers_count: 0
 stargazers_url: https://api.github.com/repos/llqgit/vuepress-plugin-visit/stargazers
 statuses_url: https://api.github.com/repos/llqgit/vuepress-plugin-visit/statuses/{sha}
 subscribers_count: 1
@@ -93,10 +93,10 @@ tags_url: https://api.github.com/repos/llqgit/vuepress-plugin-visit/tags
 teams_url: https://api.github.com/repos/llqgit/vuepress-plugin-visit/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/llqgit/vuepress-plugin-visit/git/trees{/sha}
-updated_at: '2020-03-29T13:10:49Z'
+updated_at: '2020-05-13T19:11:57Z'
 url: https://api.github.com/repos/llqgit/vuepress-plugin-visit
-watchers: 1
-watchers_count: 1
+watchers: 0
+watchers_count: 0
 ---
 
 # vuepress-plugin-visit

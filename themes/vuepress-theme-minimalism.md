@@ -14,14 +14,15 @@ contributors_url: https://api.github.com/repos/onnezezt/vuepress-theme-minimalis
 created_at: '2020-01-22T04:12:46Z'
 default_branch: master
 deployments_url: https://api.github.com/repos/onnezezt/vuepress-theme-minimalism/deployments
-description: "\u4E00\u6B3E\u7B80\u6D01\u7684 vuepress \u4E3B\u9898\uFF0C\u517C\u5BB9\
-  \ hexo YAML front matter \u8BED\u6CD5\u3002"
+description: "A concise vuepress theme, compatible with hexo YAML front matter syntax.\
+  \ \u4E00\u6B3E\u7B80\u6D01\u7684 vuepress \u4E3B\u9898\uFF0C\u517C\u5BB9 hexo YAML\
+  \ front matter \u8BED\u6CD5\u3002"
 disabled: false
 downloads_url: https://api.github.com/repos/onnezezt/vuepress-theme-minimalism/downloads
 events_url: https://api.github.com/repos/onnezezt/vuepress-theme-minimalism/events
 fork: false
-forks: 0
-forks_count: 0
+forks: 1
+forks_count: 1
 forks_url: https://api.github.com/repos/onnezezt/vuepress-theme-minimalism/forks
 full_name: onnezezt/vuepress-theme-minimalism
 git_commits_url: https://api.github.com/repos/onnezezt/vuepress-theme-minimalism/git/commits{/sha}
@@ -54,7 +55,7 @@ merges_url: https://api.github.com/repos/onnezezt/vuepress-theme-minimalism/merg
 milestones_url: https://api.github.com/repos/onnezezt/vuepress-theme-minimalism/milestones{/number}
 mirror_url: null
 name: vuepress-theme-minimalism
-network_count: 0
+network_count: 1
 node_id: MDEwOlJlcG9zaXRvcnkyMzU0OTY1Mjg=
 notifications_url: https://api.github.com/repos/onnezezt/vuepress-theme-minimalism/notifications{?since,all,participating}
 open_issues: 0
@@ -84,14 +85,14 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/onnezezt/vuepress-theme-minimalism/pulls{/number}
-pushed_at: '2020-04-24T08:11:13Z'
+pushed_at: '2020-05-13T09:42:35Z'
 releases_url: https://api.github.com/repos/onnezezt/vuepress-theme-minimalism/releases{/id}
-size: 276
+size: 282
 ssh_url: git@github.com:onnezezt/vuepress-theme-minimalism.git
-stargazers_count: 1
+stargazers_count: 9
 stargazers_url: https://api.github.com/repos/onnezezt/vuepress-theme-minimalism/stargazers
 statuses_url: https://api.github.com/repos/onnezezt/vuepress-theme-minimalism/statuses/{sha}
-subscribers_count: 1
+subscribers_count: 0
 subscribers_url: https://api.github.com/repos/onnezezt/vuepress-theme-minimalism/subscribers
 subscription_url: https://api.github.com/repos/onnezezt/vuepress-theme-minimalism/subscription
 svn_url: https://github.com/onnezezt/vuepress-theme-minimalism
@@ -99,10 +100,10 @@ tags_url: https://api.github.com/repos/onnezezt/vuepress-theme-minimalism/tags
 teams_url: https://api.github.com/repos/onnezezt/vuepress-theme-minimalism/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/onnezezt/vuepress-theme-minimalism/git/trees{/sha}
-updated_at: '2020-04-24T08:11:16Z'
+updated_at: '2020-05-13T09:42:37Z'
 url: https://api.github.com/repos/onnezezt/vuepress-theme-minimalism
-watchers: 1
-watchers_count: 1
+watchers: 9
+watchers_count: 9
 ---
 
 # vuepress-theme-minimalism
@@ -135,7 +136,7 @@ module.exports = {
 }
 ```
 
-- 新建 posts 文件夹，文章写在 posts 目录,因为该主题根据 posts 文件夹下内容进行编译。注：文件夹名称区分大小写。
+- 新建 _posts 文件夹，文章写在 _posts 目录,因为该主题根据 _posts 文件夹下内容进行编译。注：文件夹名称区分大小写。
 
 #### 目录结构
 
@@ -143,7 +144,7 @@ module.exports = {
 .
 ├── docs
 │   ├── .vuepress #vuepress配置文件夹
-│   ├── posts #文章存放文件夹
+│   ├── _posts #文章存放文件夹
 ├── package.json
 └── yarn.lock
 ```
@@ -205,7 +206,7 @@ module.exports = {
       //首页背景颜色
       //设置主页背景颜色，false title为默认颜色
       show: true,
-      fileName: '/65231299_p0.jpg' // 背景图片名称，存放在public目录下
+      fileName: '/xxx.jpg' // 背景图片名称，存放在public目录下
     },
     PostsListPopover: false, //是否显示文章内容提示
     darkMode: {
@@ -229,7 +230,7 @@ module.exports = {
       //开启disqus评论
       use: false,
       option: {
-        name: '1net-1' // Replace PAGE_URL with your page's canonical URL variable
+        name: 'xxx' // Replace PAGE_URL with your page's canonical URL variable
       }
     }
   },

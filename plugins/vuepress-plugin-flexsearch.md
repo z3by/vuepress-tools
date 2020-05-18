@@ -23,8 +23,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/z3by/vuepress-plugin-flexsearch/downloads
 events_url: https://api.github.com/repos/z3by/vuepress-plugin-flexsearch/events
 fork: false
-forks: 4
-forks_count: 4
+forks: 5
+forks_count: 5
 forks_url: https://api.github.com/repos/z3by/vuepress-plugin-flexsearch/forks
 full_name: z3by/vuepress-plugin-flexsearch
 git_commits_url: https://api.github.com/repos/z3by/vuepress-plugin-flexsearch/git/commits{/sha}
@@ -57,7 +57,7 @@ merges_url: https://api.github.com/repos/z3by/vuepress-plugin-flexsearch/merges
 milestones_url: https://api.github.com/repos/z3by/vuepress-plugin-flexsearch/milestones{/number}
 mirror_url: null
 name: vuepress-plugin-flexsearch
-network_count: 4
+network_count: 5
 node_id: MDEwOlJlcG9zaXRvcnkyMzM5MzIzMzk=
 notifications_url: https://api.github.com/repos/z3by/vuepress-plugin-flexsearch/notifications{?since,all,participating}
 open_issues: 1
@@ -87,11 +87,11 @@ permissions:
   push: true
 private: false
 pulls_url: https://api.github.com/repos/z3by/vuepress-plugin-flexsearch/pulls{/number}
-pushed_at: '2020-04-27T13:26:16Z'
+pushed_at: '2020-05-09T05:06:31Z'
 releases_url: https://api.github.com/repos/z3by/vuepress-plugin-flexsearch/releases{/id}
-size: 428
+size: 508
 ssh_url: git@github.com:z3by/vuepress-plugin-flexsearch.git
-stargazers_count: 10
+stargazers_count: 11
 stargazers_url: https://api.github.com/repos/z3by/vuepress-plugin-flexsearch/stargazers
 statuses_url: https://api.github.com/repos/z3by/vuepress-plugin-flexsearch/statuses/{sha}
 subscribers_count: 3
@@ -102,10 +102,10 @@ tags_url: https://api.github.com/repos/z3by/vuepress-plugin-flexsearch/tags
 teams_url: https://api.github.com/repos/z3by/vuepress-plugin-flexsearch/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/z3by/vuepress-plugin-flexsearch/git/trees{/sha}
-updated_at: '2020-04-27T13:20:37Z'
+updated_at: '2020-05-09T05:06:34Z'
 url: https://api.github.com/repos/z3by/vuepress-plugin-flexsearch
-watchers: 10
-watchers_count: 10
+watchers: 11
+watchers_count: 11
 ---
 
 [![https://badgen.net/npm/v/vuepress-plugin-flexsearch](https://badgen.net/npm/v/vuepress-plugin-flexsearch)](https://www.npmjs.com/package/vuepress-plugin-flexsearch)
@@ -113,12 +113,11 @@ watchers_count: 10
 [![https://badgen.net/npm/license/vuepress-plugin-flexsearch](https://badgen.net/npm/license/vuepress-plugin-flexsearch)](https://github.com/z3by/vuepress-plugin-flexsearch/blob/master/LICENSE)
 [![https://badgen.net/github/contributors/z3by/vuepress-plugin-flexsearch](https://badgen.net/github/contributors/z3by/vuepress-plugin-flexsearch)](https://github.com/z3by/vuepress-plugin-flexsearch/graphs/contributors)
 
-
 # vuepress-plugin-flexsearch
 
 Next-Generation full text search library for Vuepress
 
-> A good replacement of the default Vuepress search plugin.
+> A great replacement of the default Vuepress search plugin.
 
 ## Installation
 
@@ -130,17 +129,48 @@ yarn add -D vuepress-plugin-flexsearch
 
 ## Usage
 
+Use the default settings:
+
 ```js
 // .vuepress/config.js
 
 module.exports = {
-    themeConfig: {
-      flexSearchOptions: {
-        // to override the default options you can see available options on https://github.com/nextapps-de/flexsearch
-      }
-    },
     plugins: [
       ['flexsearch'],
+      // other plugins
+    ]
+}
+```
+
+Or modify the settings to match your needs:
+
+```js
+// .vuepress/config.js
+
+module.exports = {
+    plugins: [
+      ['flexsearch', {
+        /*
+          Plugin custom options
+        */
+        maxSuggestions: 10,    // how many search suggestions to show on the menu, the default is 10.
+        searchPaths: ['path1', 'path2'],    // an array of paths to search in, keep it null to search all docs.
+        searchHotkeys: ['s'],    // Hot keys to activate the search input, the default is "s" but you can add more.
+        searchResultLength: 60,    // the length of the suggestion result text by characters, the default is 60 characters.
+        /*
+          Default FlexSearch options
+          To override the default options you can see available options at https://github.com/nextapps-de/flexsearch
+        */
+        search_options: {
+          encode: "icase",
+          tokenize: "forward",
+          resolution: 9,
+          doc: {
+            id: "key",
+            field: ["title", "content", "headers"],
+          }
+        }
+      }],
       // other plugins
     ]
 }
@@ -153,7 +183,3 @@ Thanks to [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch)
 ## Contributions
 
 PRs are welcome :heart:
-
-## Changelog
-
-Go to [Changelog](https://raw.githubusercontent.com/Ahmad Mostafa/vuepress-plugin-flexsearch/master/CHANGELOG.md)

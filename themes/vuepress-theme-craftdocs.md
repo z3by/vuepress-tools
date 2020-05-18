@@ -41,7 +41,7 @@ issue_events_url: https://api.github.com/repos/pixelandtonic/vuepress-theme-craf
 issues_url: https://api.github.com/repos/pixelandtonic/vuepress-theme-craftdocs/issues{/number}
 keys_url: https://api.github.com/repos/pixelandtonic/vuepress-theme-craftdocs/keys{/key_id}
 labels_url: https://api.github.com/repos/pixelandtonic/vuepress-theme-craftdocs/labels{/name}
-language: JavaScript
+language: Vue
 languages_url: https://api.github.com/repos/pixelandtonic/vuepress-theme-craftdocs/languages
 license:
   key: mit
@@ -102,11 +102,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/pixelandtonic/vuepress-theme-craftdocs/pulls{/number}
-pushed_at: '2020-04-17T17:32:04Z'
+pushed_at: '2020-05-07T00:31:20Z'
 releases_url: https://api.github.com/repos/pixelandtonic/vuepress-theme-craftdocs/releases{/id}
-size: 537
+size: 543
 ssh_url: git@github.com:pixelandtonic/vuepress-theme-craftdocs.git
-stargazers_count: 51
+stargazers_count: 53
 stargazers_url: https://api.github.com/repos/pixelandtonic/vuepress-theme-craftdocs/stargazers
 statuses_url: https://api.github.com/repos/pixelandtonic/vuepress-theme-craftdocs/statuses/{sha}
 subscribers_count: 4
@@ -117,10 +117,10 @@ tags_url: https://api.github.com/repos/pixelandtonic/vuepress-theme-craftdocs/ta
 teams_url: https://api.github.com/repos/pixelandtonic/vuepress-theme-craftdocs/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/pixelandtonic/vuepress-theme-craftdocs/git/trees{/sha}
-updated_at: '2020-04-21T09:48:35Z'
+updated_at: '2020-05-11T10:07:39Z'
 url: https://api.github.com/repos/pixelandtonic/vuepress-theme-craftdocs
-watchers: 51
-watchers_count: 51
+watchers: 53
+watchers_count: 53
 ---
 
 # Craft Documentation Theme for VuePress
@@ -130,7 +130,7 @@ This is the [VuePress](https://vuepress.vuejs.org/) theme used for [Craft CMS do
 It makes the following changes over the default VuePress theme:
 
 - Adds support for [code language toggles](#code-toggles) and [split page views](#split-views).
-- Disables [interpolation](https://vuepress.vuejs.org/guide/using-vue.html#interpolation) by wrapping all page content in a big `v-pre` block.
+- Disables [interpolation](https://vuepress.vuejs.org/guide/using-vue.html#interpolation) for all inline `<code>` tags.
 - Improves `<table>` styling.
 
 ## Setup

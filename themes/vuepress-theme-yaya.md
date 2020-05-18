@@ -78,9 +78,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/Heyff12/vuepress-theme-yaya/pulls{/number}
-pushed_at: '2020-04-21T05:21:07Z'
+pushed_at: '2020-05-16T03:40:50Z'
 releases_url: https://api.github.com/repos/Heyff12/vuepress-theme-yaya/releases{/id}
-size: 9679
+size: 9174
 ssh_url: git@github.com:Heyff12/vuepress-theme-yaya.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/Heyff12/vuepress-theme-yaya/stargazers
@@ -93,7 +93,7 @@ tags_url: https://api.github.com/repos/Heyff12/vuepress-theme-yaya/tags
 teams_url: https://api.github.com/repos/Heyff12/vuepress-theme-yaya/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/Heyff12/vuepress-theme-yaya/git/trees{/sha}
-updated_at: '2020-04-21T05:19:18Z'
+updated_at: '2020-05-02T07:21:33Z'
 url: https://api.github.com/repos/Heyff12/vuepress-theme-yaya
 watchers: 0
 watchers_count: 0
@@ -116,6 +116,8 @@ watchers_count: 0
 ⛳️ 自定义导航 
 🚧 评论及阅读量支持，评论使用参考[valine](https://valine.js.org/),配置themeConfig.valine中的appId、appKey
    该项目docs里面的config.js未配置valine,故看不到评论
+🌈 动画首页，需要在 themeCofig增加配置  author、homePageEnterUrl
+
 
 ## 🚧 安装
 
@@ -137,6 +139,8 @@ npm i vuepress-theme-yaya
     theme: 'yaya',
     themeConfig: {
         logo: '/logo.png',
+        author: 'Yaya', //首页动画——用于在首页动画展示 作者名称
+        homePageEnterUrl: '/study/', //首页动画——enter入口链接
         search: true,
         picListBg: '/bg.jpg',
         workListBg: '/bg.jpg',

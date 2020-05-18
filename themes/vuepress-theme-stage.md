@@ -1,0 +1,102 @@
+---
+archive_url: https://api.github.com/repos/markyong/vuepress-theme-stage/{archive_format}{/ref}
+archived: false
+assignees_url: https://api.github.com/repos/markyong/vuepress-theme-stage/assignees{/user}
+blobs_url: https://api.github.com/repos/markyong/vuepress-theme-stage/git/blobs{/sha}
+branches_url: https://api.github.com/repos/markyong/vuepress-theme-stage/branches{/branch}
+clone_url: https://github.com/markyong/vuepress-theme-stage.git
+collaborators_url: https://api.github.com/repos/markyong/vuepress-theme-stage/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/markyong/vuepress-theme-stage/comments{/number}
+commits_url: https://api.github.com/repos/markyong/vuepress-theme-stage/commits{/sha}
+compare_url: https://api.github.com/repos/markyong/vuepress-theme-stage/compare/{base}...{head}
+contents_url: https://api.github.com/repos/markyong/vuepress-theme-stage/contents/{+path}
+contributors_url: https://api.github.com/repos/markyong/vuepress-theme-stage/contributors
+created_at: '2020-05-16T15:40:09Z'
+default_branch: master
+deployments_url: https://api.github.com/repos/markyong/vuepress-theme-stage/deployments
+description: null
+disabled: false
+downloads_url: https://api.github.com/repos/markyong/vuepress-theme-stage/downloads
+events_url: https://api.github.com/repos/markyong/vuepress-theme-stage/events
+fork: false
+forks: 0
+forks_count: 0
+forks_url: https://api.github.com/repos/markyong/vuepress-theme-stage/forks
+full_name: markyong/vuepress-theme-stage
+git_commits_url: https://api.github.com/repos/markyong/vuepress-theme-stage/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/markyong/vuepress-theme-stage/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/markyong/vuepress-theme-stage/git/tags{/sha}
+git_url: git://github.com/markyong/vuepress-theme-stage.git
+has_downloads: true
+has_issues: true
+has_pages: false
+has_projects: true
+has_wiki: true
+homepage: null
+hooks_url: https://api.github.com/repos/markyong/vuepress-theme-stage/hooks
+html_url: https://github.com/markyong/vuepress-theme-stage
+id: 264469288
+issue_comment_url: https://api.github.com/repos/markyong/vuepress-theme-stage/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/markyong/vuepress-theme-stage/issues/events{/number}
+issues_url: https://api.github.com/repos/markyong/vuepress-theme-stage/issues{/number}
+keys_url: https://api.github.com/repos/markyong/vuepress-theme-stage/keys{/key_id}
+labels_url: https://api.github.com/repos/markyong/vuepress-theme-stage/labels{/name}
+language: Vue
+languages_url: https://api.github.com/repos/markyong/vuepress-theme-stage/languages
+license: null
+merges_url: https://api.github.com/repos/markyong/vuepress-theme-stage/merges
+milestones_url: https://api.github.com/repos/markyong/vuepress-theme-stage/milestones{/number}
+mirror_url: null
+name: vuepress-theme-stage
+network_count: 0
+node_id: MDEwOlJlcG9zaXRvcnkyNjQ0NjkyODg=
+notifications_url: https://api.github.com/repos/markyong/vuepress-theme-stage/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
+owner:
+  avatar_url: https://avatars2.githubusercontent.com/u/24327611?v=4
+  events_url: https://api.github.com/users/markyong/events{/privacy}
+  followers_url: https://api.github.com/users/markyong/followers
+  following_url: https://api.github.com/users/markyong/following{/other_user}
+  gists_url: https://api.github.com/users/markyong/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/markyong
+  id: 24327611
+  login: markyong
+  node_id: MDQ6VXNlcjI0MzI3NjEx
+  organizations_url: https://api.github.com/users/markyong/orgs
+  received_events_url: https://api.github.com/users/markyong/received_events
+  repos_url: https://api.github.com/users/markyong/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/markyong/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/markyong/subscriptions
+  type: User
+  url: https://api.github.com/users/markyong
+permissions:
+  admin: false
+  pull: true
+  push: false
+private: false
+pulls_url: https://api.github.com/repos/markyong/vuepress-theme-stage/pulls{/number}
+pushed_at: '2020-05-17T14:55:26Z'
+releases_url: https://api.github.com/repos/markyong/vuepress-theme-stage/releases{/id}
+size: 295
+ssh_url: git@github.com:markyong/vuepress-theme-stage.git
+stargazers_count: 0
+stargazers_url: https://api.github.com/repos/markyong/vuepress-theme-stage/stargazers
+statuses_url: https://api.github.com/repos/markyong/vuepress-theme-stage/statuses/{sha}
+subscribers_count: 1
+subscribers_url: https://api.github.com/repos/markyong/vuepress-theme-stage/subscribers
+subscription_url: https://api.github.com/repos/markyong/vuepress-theme-stage/subscription
+svn_url: https://github.com/markyong/vuepress-theme-stage
+tags_url: https://api.github.com/repos/markyong/vuepress-theme-stage/tags
+teams_url: https://api.github.com/repos/markyong/vuepress-theme-stage/teams
+temp_clone_token: ''
+trees_url: https://api.github.com/repos/markyong/vuepress-theme-stage/git/trees{/sha}
+updated_at: '2020-05-17T14:55:28Z'
+url: https://api.github.com/repos/markyong/vuepress-theme-stage
+watchers: 0
+watchers_count: 0
+---
+
+# vuepress-theme-stage

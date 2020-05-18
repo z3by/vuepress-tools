@@ -51,8 +51,8 @@ name: vuepress-theme-photo-blog
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyNDQxMjI2OTM=
 notifications_url: https://api.github.com/repos/joaocac/vuepress-theme-photo-blog/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
+open_issues: 2
+open_issues_count: 2
 owner:
   avatar_url: https://avatars0.githubusercontent.com/u/1316019?v=4
   events_url: https://api.github.com/users/joaocac/events{/privacy}
@@ -78,9 +78,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/joaocac/vuepress-theme-photo-blog/pulls{/number}
-pushed_at: '2020-03-18T07:55:58Z'
+pushed_at: '2020-04-30T15:02:28Z'
 releases_url: https://api.github.com/repos/joaocac/vuepress-theme-photo-blog/releases{/id}
-size: 281
+size: 305
 ssh_url: git@github.com:joaocac/vuepress-theme-photo-blog.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/joaocac/vuepress-theme-photo-blog/stargazers

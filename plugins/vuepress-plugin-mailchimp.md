@@ -56,8 +56,8 @@ name: vuepress-plugin-mailchimp
 network_count: 1
 node_id: MDEwOlJlcG9zaXRvcnkyMjA3MzI5NDA=
 notifications_url: https://api.github.com/repos/newsbielt703/vuepress-plugin-mailchimp/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
+open_issues: 2
+open_issues_count: 2
 owner:
   avatar_url: https://avatars0.githubusercontent.com/u/38957202?v=4
   events_url: https://api.github.com/users/newsbielt703/events{/privacy}
@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/newsbielt703/vuepress-plugin-mailchimp/pulls{/number}
-pushed_at: '2020-03-27T07:03:47Z'
+pushed_at: '2020-05-08T19:39:08Z'
 releases_url: https://api.github.com/repos/newsbielt703/vuepress-plugin-mailchimp/releases{/id}
-size: 1396
+size: 1539
 ssh_url: git@github.com:newsbielt703/vuepress-plugin-mailchimp.git
 stargazers_count: 2
 stargazers_url: https://api.github.com/repos/newsbielt703/vuepress-plugin-mailchimp/stargazers

@@ -1,0 +1,101 @@
+---
+archive_url: https://api.github.com/repos/chsjr1996/vuepress-theme-vuetfolio/{archive_format}{/ref}
+archived: false
+assignees_url: https://api.github.com/repos/chsjr1996/vuepress-theme-vuetfolio/assignees{/user}
+blobs_url: https://api.github.com/repos/chsjr1996/vuepress-theme-vuetfolio/git/blobs{/sha}
+branches_url: https://api.github.com/repos/chsjr1996/vuepress-theme-vuetfolio/branches{/branch}
+clone_url: https://github.com/chsjr1996/vuepress-theme-vuetfolio.git
+collaborators_url: https://api.github.com/repos/chsjr1996/vuepress-theme-vuetfolio/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/chsjr1996/vuepress-theme-vuetfolio/comments{/number}
+commits_url: https://api.github.com/repos/chsjr1996/vuepress-theme-vuetfolio/commits{/sha}
+compare_url: https://api.github.com/repos/chsjr1996/vuepress-theme-vuetfolio/compare/{base}...{head}
+contents_url: https://api.github.com/repos/chsjr1996/vuepress-theme-vuetfolio/contents/{+path}
+contributors_url: https://api.github.com/repos/chsjr1996/vuepress-theme-vuetfolio/contributors
+created_at: '2020-05-10T15:53:41Z'
+default_branch: master
+deployments_url: https://api.github.com/repos/chsjr1996/vuepress-theme-vuetfolio/deployments
+description: A portfolio theme by chsjr1996
+disabled: false
+downloads_url: https://api.github.com/repos/chsjr1996/vuepress-theme-vuetfolio/downloads
+events_url: https://api.github.com/repos/chsjr1996/vuepress-theme-vuetfolio/events
+fork: false
+forks: 0
+forks_count: 0
+forks_url: https://api.github.com/repos/chsjr1996/vuepress-theme-vuetfolio/forks
+full_name: chsjr1996/vuepress-theme-vuetfolio
+git_commits_url: https://api.github.com/repos/chsjr1996/vuepress-theme-vuetfolio/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/chsjr1996/vuepress-theme-vuetfolio/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/chsjr1996/vuepress-theme-vuetfolio/git/tags{/sha}
+git_url: git://github.com/chsjr1996/vuepress-theme-vuetfolio.git
+has_downloads: true
+has_issues: true
+has_pages: false
+has_projects: true
+has_wiki: true
+homepage: null
+hooks_url: https://api.github.com/repos/chsjr1996/vuepress-theme-vuetfolio/hooks
+html_url: https://github.com/chsjr1996/vuepress-theme-vuetfolio
+id: 262822150
+issue_comment_url: https://api.github.com/repos/chsjr1996/vuepress-theme-vuetfolio/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/chsjr1996/vuepress-theme-vuetfolio/issues/events{/number}
+issues_url: https://api.github.com/repos/chsjr1996/vuepress-theme-vuetfolio/issues{/number}
+keys_url: https://api.github.com/repos/chsjr1996/vuepress-theme-vuetfolio/keys{/key_id}
+labels_url: https://api.github.com/repos/chsjr1996/vuepress-theme-vuetfolio/labels{/name}
+language: null
+languages_url: https://api.github.com/repos/chsjr1996/vuepress-theme-vuetfolio/languages
+license: null
+merges_url: https://api.github.com/repos/chsjr1996/vuepress-theme-vuetfolio/merges
+milestones_url: https://api.github.com/repos/chsjr1996/vuepress-theme-vuetfolio/milestones{/number}
+mirror_url: null
+name: vuepress-theme-vuetfolio
+network_count: 0
+node_id: MDEwOlJlcG9zaXRvcnkyNjI4MjIxNTA=
+notifications_url: https://api.github.com/repos/chsjr1996/vuepress-theme-vuetfolio/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
+owner:
+  avatar_url: https://avatars0.githubusercontent.com/u/33254540?v=4
+  events_url: https://api.github.com/users/chsjr1996/events{/privacy}
+  followers_url: https://api.github.com/users/chsjr1996/followers
+  following_url: https://api.github.com/users/chsjr1996/following{/other_user}
+  gists_url: https://api.github.com/users/chsjr1996/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/chsjr1996
+  id: 33254540
+  login: chsjr1996
+  node_id: MDQ6VXNlcjMzMjU0NTQw
+  organizations_url: https://api.github.com/users/chsjr1996/orgs
+  received_events_url: https://api.github.com/users/chsjr1996/received_events
+  repos_url: https://api.github.com/users/chsjr1996/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/chsjr1996/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/chsjr1996/subscriptions
+  type: User
+  url: https://api.github.com/users/chsjr1996
+permissions:
+  admin: false
+  pull: true
+  push: false
+private: false
+pulls_url: https://api.github.com/repos/chsjr1996/vuepress-theme-vuetfolio/pulls{/number}
+pushed_at: '2020-05-10T15:53:42Z'
+releases_url: https://api.github.com/repos/chsjr1996/vuepress-theme-vuetfolio/releases{/id}
+size: 0
+ssh_url: git@github.com:chsjr1996/vuepress-theme-vuetfolio.git
+stargazers_count: 0
+stargazers_url: https://api.github.com/repos/chsjr1996/vuepress-theme-vuetfolio/stargazers
+statuses_url: https://api.github.com/repos/chsjr1996/vuepress-theme-vuetfolio/statuses/{sha}
+subscribers_count: 1
+subscribers_url: https://api.github.com/repos/chsjr1996/vuepress-theme-vuetfolio/subscribers
+subscription_url: https://api.github.com/repos/chsjr1996/vuepress-theme-vuetfolio/subscription
+svn_url: https://github.com/chsjr1996/vuepress-theme-vuetfolio
+tags_url: https://api.github.com/repos/chsjr1996/vuepress-theme-vuetfolio/tags
+teams_url: https://api.github.com/repos/chsjr1996/vuepress-theme-vuetfolio/teams
+temp_clone_token: ''
+trees_url: https://api.github.com/repos/chsjr1996/vuepress-theme-vuetfolio/git/trees{/sha}
+updated_at: '2020-05-10T15:53:41Z'
+url: https://api.github.com/repos/chsjr1996/vuepress-theme-vuetfolio
+watchers: 0
+watchers_count: 0
+---
+
