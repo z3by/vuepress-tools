@@ -7,7 +7,7 @@
     "name": "Ahmad Mostafa",
     "email": "zoaby.am@gmail.com"
   },
-  "repository": "arab-open-source/vuepress-tools/vuepress-tools",
+  "repository": "z3by/vuepress-tools",
   "scripts": {
     "dev": "vuepress dev",
     "build": "node --max-old-space-size=8192 node_modules/vuepress/cli.js build"
