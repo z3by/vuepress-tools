@@ -113,13 +113,6 @@ module.exports = {
     ],
     ["seo"],
     ["flexsearch"],
-    require.resolve("./setTitle"),
-    [
-      "@vuepress/pwa",
-      {
-        serviceWorker: true,
-        updatePopup: true,
-      },
-    ],
+    require.resolve("./setTitle")
   ],
 };
