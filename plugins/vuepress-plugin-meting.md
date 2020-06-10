@@ -1,122 +1,147 @@
 ---
-archive_url: https://api.github.com/repos/SigureMo/vuepress-plugin-meting/{archive_format}{/ref}
+archive_url: https://api.github.com/repos/moefyit/vuepress-plugin-meting/{archive_format}{/ref}
 archived: false
-assignees_url: https://api.github.com/repos/SigureMo/vuepress-plugin-meting/assignees{/user}
-blobs_url: https://api.github.com/repos/SigureMo/vuepress-plugin-meting/git/blobs{/sha}
-branches_url: https://api.github.com/repos/SigureMo/vuepress-plugin-meting/branches{/branch}
-clone_url: https://github.com/SigureMo/vuepress-plugin-meting.git
-collaborators_url: https://api.github.com/repos/SigureMo/vuepress-plugin-meting/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/SigureMo/vuepress-plugin-meting/comments{/number}
-commits_url: https://api.github.com/repos/SigureMo/vuepress-plugin-meting/commits{/sha}
-compare_url: https://api.github.com/repos/SigureMo/vuepress-plugin-meting/compare/{base}...{head}
-contents_url: https://api.github.com/repos/SigureMo/vuepress-plugin-meting/contents/{+path}
-contributors_url: https://api.github.com/repos/SigureMo/vuepress-plugin-meting/contributors
+assignees_url: https://api.github.com/repos/moefyit/vuepress-plugin-meting/assignees{/user}
+blobs_url: https://api.github.com/repos/moefyit/vuepress-plugin-meting/git/blobs{/sha}
+branches_url: https://api.github.com/repos/moefyit/vuepress-plugin-meting/branches{/branch}
+clone_url: https://github.com/moefyit/vuepress-plugin-meting.git
+collaborators_url: https://api.github.com/repos/moefyit/vuepress-plugin-meting/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/moefyit/vuepress-plugin-meting/comments{/number}
+commits_url: https://api.github.com/repos/moefyit/vuepress-plugin-meting/commits{/sha}
+compare_url: https://api.github.com/repos/moefyit/vuepress-plugin-meting/compare/{base}...{head}
+contents_url: https://api.github.com/repos/moefyit/vuepress-plugin-meting/contents/{+path}
+contributors_url: https://api.github.com/repos/moefyit/vuepress-plugin-meting/contributors
 created_at: '2020-05-02T09:44:11Z'
 default_branch: master
-deployments_url: https://api.github.com/repos/SigureMo/vuepress-plugin-meting/deployments
-description: ':cake: A powerful plugin connect APlayer, Meting and VuePress.'
+deployments_url: https://api.github.com/repos/moefyit/vuepress-plugin-meting/deployments
+description: ':cake: A simple plugin connect APlayer, Meting and VuePress.'
 disabled: false
-downloads_url: https://api.github.com/repos/SigureMo/vuepress-plugin-meting/downloads
-events_url: https://api.github.com/repos/SigureMo/vuepress-plugin-meting/events
+downloads_url: https://api.github.com/repos/moefyit/vuepress-plugin-meting/downloads
+events_url: https://api.github.com/repos/moefyit/vuepress-plugin-meting/events
 fork: false
 forks: 1
 forks_count: 1
-forks_url: https://api.github.com/repos/SigureMo/vuepress-plugin-meting/forks
-full_name: SigureMo/vuepress-plugin-meting
-git_commits_url: https://api.github.com/repos/SigureMo/vuepress-plugin-meting/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/SigureMo/vuepress-plugin-meting/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/SigureMo/vuepress-plugin-meting/git/tags{/sha}
-git_url: git://github.com/SigureMo/vuepress-plugin-meting.git
+forks_url: https://api.github.com/repos/moefyit/vuepress-plugin-meting/forks
+full_name: moefyit/vuepress-plugin-meting
+git_commits_url: https://api.github.com/repos/moefyit/vuepress-plugin-meting/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/moefyit/vuepress-plugin-meting/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/moefyit/vuepress-plugin-meting/git/tags{/sha}
+git_url: git://github.com/moefyit/vuepress-plugin-meting.git
 has_downloads: true
 has_issues: true
 has_pages: false
 has_projects: true
 has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/SigureMo/vuepress-plugin-meting/hooks
-html_url: https://github.com/SigureMo/vuepress-plugin-meting
+homepage: https://moefyit.github.io/moefy-vuepress/
+hooks_url: https://api.github.com/repos/moefyit/vuepress-plugin-meting/hooks
+html_url: https://github.com/moefyit/vuepress-plugin-meting
 id: 260656326
-issue_comment_url: https://api.github.com/repos/SigureMo/vuepress-plugin-meting/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/SigureMo/vuepress-plugin-meting/issues/events{/number}
-issues_url: https://api.github.com/repos/SigureMo/vuepress-plugin-meting/issues{/number}
-keys_url: https://api.github.com/repos/SigureMo/vuepress-plugin-meting/keys{/key_id}
-labels_url: https://api.github.com/repos/SigureMo/vuepress-plugin-meting/labels{/name}
+issue_comment_url: https://api.github.com/repos/moefyit/vuepress-plugin-meting/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/moefyit/vuepress-plugin-meting/issues/events{/number}
+issues_url: https://api.github.com/repos/moefyit/vuepress-plugin-meting/issues{/number}
+keys_url: https://api.github.com/repos/moefyit/vuepress-plugin-meting/keys{/key_id}
+labels_url: https://api.github.com/repos/moefyit/vuepress-plugin-meting/labels{/name}
 language: Vue
-languages_url: https://api.github.com/repos/SigureMo/vuepress-plugin-meting/languages
+languages_url: https://api.github.com/repos/moefyit/vuepress-plugin-meting/languages
 license:
   key: mit
   name: MIT License
   node_id: MDc6TGljZW5zZTEz
   spdx_id: MIT
   url: https://api.github.com/licenses/mit
-merges_url: https://api.github.com/repos/SigureMo/vuepress-plugin-meting/merges
-milestones_url: https://api.github.com/repos/SigureMo/vuepress-plugin-meting/milestones{/number}
+merges_url: https://api.github.com/repos/moefyit/vuepress-plugin-meting/merges
+milestones_url: https://api.github.com/repos/moefyit/vuepress-plugin-meting/milestones{/number}
 mirror_url: null
 name: vuepress-plugin-meting
 network_count: 1
 node_id: MDEwOlJlcG9zaXRvcnkyNjA2NTYzMjY=
-notifications_url: https://api.github.com/repos/SigureMo/vuepress-plugin-meting/notifications{?since,all,participating}
+notifications_url: https://api.github.com/repos/moefyit/vuepress-plugin-meting/notifications{?since,all,participating}
 open_issues: 0
 open_issues_count: 0
-owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/38436475?v=4
-  events_url: https://api.github.com/users/SigureMo/events{/privacy}
-  followers_url: https://api.github.com/users/SigureMo/followers
-  following_url: https://api.github.com/users/SigureMo/following{/other_user}
-  gists_url: https://api.github.com/users/SigureMo/gists{/gist_id}
+organization:
+  avatar_url: https://avatars1.githubusercontent.com/u/65664118?v=4
+  events_url: https://api.github.com/users/moefyit/events{/privacy}
+  followers_url: https://api.github.com/users/moefyit/followers
+  following_url: https://api.github.com/users/moefyit/following{/other_user}
+  gists_url: https://api.github.com/users/moefyit/gists{/gist_id}
   gravatar_id: ''
-  html_url: https://github.com/SigureMo
-  id: 38436475
-  login: SigureMo
-  node_id: MDQ6VXNlcjM4NDM2NDc1
-  organizations_url: https://api.github.com/users/SigureMo/orgs
-  received_events_url: https://api.github.com/users/SigureMo/received_events
-  repos_url: https://api.github.com/users/SigureMo/repos
+  html_url: https://github.com/moefyit
+  id: 65664118
+  login: moefyit
+  node_id: MDEyOk9yZ2FuaXphdGlvbjY1NjY0MTE4
+  organizations_url: https://api.github.com/users/moefyit/orgs
+  received_events_url: https://api.github.com/users/moefyit/received_events
+  repos_url: https://api.github.com/users/moefyit/repos
   site_admin: false
-  starred_url: https://api.github.com/users/SigureMo/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/SigureMo/subscriptions
-  type: User
-  url: https://api.github.com/users/SigureMo
+  starred_url: https://api.github.com/users/moefyit/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/moefyit/subscriptions
+  type: Organization
+  url: https://api.github.com/users/moefyit
+owner:
+  avatar_url: https://avatars1.githubusercontent.com/u/65664118?v=4
+  events_url: https://api.github.com/users/moefyit/events{/privacy}
+  followers_url: https://api.github.com/users/moefyit/followers
+  following_url: https://api.github.com/users/moefyit/following{/other_user}
+  gists_url: https://api.github.com/users/moefyit/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/moefyit
+  id: 65664118
+  login: moefyit
+  node_id: MDEyOk9yZ2FuaXphdGlvbjY1NjY0MTE4
+  organizations_url: https://api.github.com/users/moefyit/orgs
+  received_events_url: https://api.github.com/users/moefyit/received_events
+  repos_url: https://api.github.com/users/moefyit/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/moefyit/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/moefyit/subscriptions
+  type: Organization
+  url: https://api.github.com/users/moefyit
 permissions:
   admin: false
   pull: true
   push: false
 private: false
-pulls_url: https://api.github.com/repos/SigureMo/vuepress-plugin-meting/pulls{/number}
-pushed_at: '2020-05-07T05:35:27Z'
-releases_url: https://api.github.com/repos/SigureMo/vuepress-plugin-meting/releases{/id}
-size: 27
-ssh_url: git@github.com:SigureMo/vuepress-plugin-meting.git
+pulls_url: https://api.github.com/repos/moefyit/vuepress-plugin-meting/pulls{/number}
+pushed_at: '2020-06-07T13:44:20Z'
+releases_url: https://api.github.com/repos/moefyit/vuepress-plugin-meting/releases{/id}
+size: 38
+ssh_url: git@github.com:moefyit/vuepress-plugin-meting.git
 stargazers_count: 2
-stargazers_url: https://api.github.com/repos/SigureMo/vuepress-plugin-meting/stargazers
-statuses_url: https://api.github.com/repos/SigureMo/vuepress-plugin-meting/statuses/{sha}
+stargazers_url: https://api.github.com/repos/moefyit/vuepress-plugin-meting/stargazers
+statuses_url: https://api.github.com/repos/moefyit/vuepress-plugin-meting/statuses/{sha}
 subscribers_count: 1
-subscribers_url: https://api.github.com/repos/SigureMo/vuepress-plugin-meting/subscribers
-subscription_url: https://api.github.com/repos/SigureMo/vuepress-plugin-meting/subscription
-svn_url: https://github.com/SigureMo/vuepress-plugin-meting
-tags_url: https://api.github.com/repos/SigureMo/vuepress-plugin-meting/tags
-teams_url: https://api.github.com/repos/SigureMo/vuepress-plugin-meting/teams
+subscribers_url: https://api.github.com/repos/moefyit/vuepress-plugin-meting/subscribers
+subscription_url: https://api.github.com/repos/moefyit/vuepress-plugin-meting/subscription
+svn_url: https://github.com/moefyit/vuepress-plugin-meting
+tags_url: https://api.github.com/repos/moefyit/vuepress-plugin-meting/tags
+teams_url: https://api.github.com/repos/moefyit/vuepress-plugin-meting/teams
 temp_clone_token: ''
-trees_url: https://api.github.com/repos/SigureMo/vuepress-plugin-meting/git/trees{/sha}
-updated_at: '2020-05-07T05:23:02Z'
-url: https://api.github.com/repos/SigureMo/vuepress-plugin-meting
+trees_url: https://api.github.com/repos/moefyit/vuepress-plugin-meting/git/trees{/sha}
+updated_at: '2020-06-07T13:44:22Z'
+url: https://api.github.com/repos/moefyit/vuepress-plugin-meting
 watchers: 2
 watchers_count: 2
 ---
 
-# vuepress-plugin-meting
+# vuepress-plugin-meting <GitHubLink repo="moefyit/vuepress-plugin-meting"/>
 
-:cake: A powerful plugin connect APlayer, Meting and VuePress
+:cake: A simple plugin connect APlayer, Meting and VuePress.
 
 <p align="center">
    <a href="https://www.npmjs.com/package/vuepress-plugin-meting" target="_blank"><img alt="npm" src="https://img.shields.io/npm/v/vuepress-plugin-meting.svg"></a>
-   <a href="https://github.com/SigureMo/vuepress-plugin-meting/stargazers" target="_blank"><img alt="GitHub stars" src="https://img.shields.io/github/stars/SigureMo/vuepress-plugin-meting"></a>
+   <a href="https://github.com/moefyit/vuepress-plugin-meting/stargazers" target="_blank"><img alt="GitHub stars" src="https://img.shields.io/github/stars/moefyit/vuepress-plugin-meting"></a>
    <a href="https://www.npmjs.com/package/vuepress-plugin-meting" target="_blank"><img alt="downloads" src="https://img.shields.io/npm/dt/vuepress-plugin-meting.svg"></a>
    <a href="https://www.npmjs.com/package/vuepress-plugin-meting" target="_blank"><img alt="downloads" src="https://img.shields.io/npm/dm/vuepress-plugin-meting.svg"></a>
-   <a href="https://github.com/SigureMo/vuepress-plugin-meting/blob/master/LICENSE" target="_blank"><img alt="GitHub license" src="https://img.shields.io/github/license/SigureMo/vuepress-plugin-meting"></a>
+   <a href="https://github.com/moefyit/vuepress-plugin-meting/blob/master/LICENSE" target="_blank"><img alt="GitHub license" src="https://img.shields.io/github/license/moefyit/vuepress-plugin-meting"></a>
 </p>
 
-- MyBlog: [www.sigure.xyz](https://www.sigure.xyz/)
+- Document: [moefy-vuepress](https://moefyit.github.io/moefy-vuepress/)
+- LiveDemo: [notev](https://www.sigure.xyz/)
+
+<Meting server="netease"
+        type="playlist"
+        mid="2539599584"
+        :lrc-type="3"/>
 
 ## Install
 
@@ -134,7 +159,8 @@ module.exports = {
     'meting', {
       metingApi,
       meting,
-      aplayer
+      aplayer,
+      mobile
     }
   ]
 }
@@ -145,11 +171,11 @@ module.exports = {
 - `<Meting/>` 组件支持 `meting` Options 和 `aplayer` Options，其中 `aplayer` 的 `audio` 选项将自动通过 metingApi 获取
 - `<APlayer/>` 组件支持 `aplayer` Options，当然，你需要自行提供 `audio` 音乐源
 
-`config.js` 中的 `meting` 选项和 `aplayer` 选项是全局 UI 组件的配置项，当 `meting` 选项被配置后，将自动注册一个全局 UI 组件 `<Meting/>`（吸底模式），这两个配置项不影响其他组件的配置项
+`config.js` 中的 `meting` 选项、`aplayer` 选项和 `mobile` 选项是全局 UI 组件的配置项，当 `meting` 选项被配置后，将自动注册一个全局 UI 组件 `<Meting/>`（吸底模式），这三个配置项不影响其他组件的配置项
 
 ## Options
 
-Options 分为 `metingApi`、`meting`、`aplayer` 三部分
+Options 分为 `metingApi`、`meting`、`aplayer`、`mobile` 四部分
 
 ### metingApi
 
@@ -275,6 +301,20 @@ meting: {
    - 类型：`string`
    - 默认值： `vuepress-plugin-meting`
    - 描述：设置存储播放器设置的 `localStorage` key
+
+### mobile
+
+用于控制全局吸底播放器在移动设备上的一些特殊选项
+
+- cover
+   - 类型：`boolean`
+   - 默认值： `true`
+   - 描述：是否显示封面图，如果隐藏的话可以防止播放器遮挡移动设备上的文字内容
+
+- lrc
+   - 类型：`boolean`
+   - 默认值： `true`
+   - 描述：是否显示歌词
 
 ## Examples
 

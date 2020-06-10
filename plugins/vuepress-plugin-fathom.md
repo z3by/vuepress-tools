@@ -102,9 +102,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/ubclaunchpad/vuepress-plugin-fathom/pulls{/number}
-pushed_at: '2020-05-06T19:39:37Z'
+pushed_at: '2020-06-03T15:42:16Z'
 releases_url: https://api.github.com/repos/ubclaunchpad/vuepress-plugin-fathom/releases{/id}
-size: 3
+size: 5
 ssh_url: git@github.com:ubclaunchpad/vuepress-plugin-fathom.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/ubclaunchpad/vuepress-plugin-fathom/stargazers
@@ -117,7 +117,7 @@ tags_url: https://api.github.com/repos/ubclaunchpad/vuepress-plugin-fathom/tags
 teams_url: https://api.github.com/repos/ubclaunchpad/vuepress-plugin-fathom/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/ubclaunchpad/vuepress-plugin-fathom/git/trees{/sha}
-updated_at: '2020-05-06T19:42:21Z'
+updated_at: '2020-06-03T15:42:19Z'
 url: https://api.github.com/repos/ubclaunchpad/vuepress-plugin-fathom
 watchers: 0
 watchers_count: 0

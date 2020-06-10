@@ -11,10 +11,10 @@ commits_url: https://api.github.com/repos/Eddie-Fannie/vuepress-theme-bydovis/co
 compare_url: https://api.github.com/repos/Eddie-Fannie/vuepress-theme-bydovis/compare/{base}...{head}
 contents_url: https://api.github.com/repos/Eddie-Fannie/vuepress-theme-bydovis/contents/{+path}
 contributors_url: https://api.github.com/repos/Eddie-Fannie/vuepress-theme-bydovis/contributors
-created_at: '2020-05-14T15:40:14Z'
+created_at: '2020-05-18T04:54:11Z'
 default_branch: master
 deployments_url: https://api.github.com/repos/Eddie-Fannie/vuepress-theme-bydovis/deployments
-description: "\u4E00\u4E2Avuepress\u7684\u81EA\u5B9A\u4E49\u4E3B\u9898"
+description: a theme for vuepress
 disabled: false
 downloads_url: https://api.github.com/repos/Eddie-Fannie/vuepress-theme-bydovis/downloads
 events_url: https://api.github.com/repos/Eddie-Fannie/vuepress-theme-bydovis/events
@@ -35,21 +35,26 @@ has_wiki: true
 homepage: null
 hooks_url: https://api.github.com/repos/Eddie-Fannie/vuepress-theme-bydovis/hooks
 html_url: https://github.com/Eddie-Fannie/vuepress-theme-bydovis
-id: 263955749
+id: 264830213
 issue_comment_url: https://api.github.com/repos/Eddie-Fannie/vuepress-theme-bydovis/issues/comments{/number}
 issue_events_url: https://api.github.com/repos/Eddie-Fannie/vuepress-theme-bydovis/issues/events{/number}
 issues_url: https://api.github.com/repos/Eddie-Fannie/vuepress-theme-bydovis/issues{/number}
 keys_url: https://api.github.com/repos/Eddie-Fannie/vuepress-theme-bydovis/keys{/key_id}
 labels_url: https://api.github.com/repos/Eddie-Fannie/vuepress-theme-bydovis/labels{/name}
-language: JavaScript
+language: Vue
 languages_url: https://api.github.com/repos/Eddie-Fannie/vuepress-theme-bydovis/languages
-license: null
+license:
+  key: mit
+  name: MIT License
+  node_id: MDc6TGljZW5zZTEz
+  spdx_id: MIT
+  url: https://api.github.com/licenses/mit
 merges_url: https://api.github.com/repos/Eddie-Fannie/vuepress-theme-bydovis/merges
 milestones_url: https://api.github.com/repos/Eddie-Fannie/vuepress-theme-bydovis/milestones{/number}
 mirror_url: null
 name: vuepress-theme-bydovis
 network_count: 0
-node_id: MDEwOlJlcG9zaXRvcnkyNjM5NTU3NDk=
+node_id: MDEwOlJlcG9zaXRvcnkyNjQ4MzAyMTM=
 notifications_url: https://api.github.com/repos/Eddie-Fannie/vuepress-theme-bydovis/notifications{?since,all,participating}
 open_issues: 0
 open_issues_count: 0
@@ -78,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/Eddie-Fannie/vuepress-theme-bydovis/pulls{/number}
-pushed_at: '2020-05-16T11:53:11Z'
+pushed_at: '2020-05-19T12:03:24Z'
 releases_url: https://api.github.com/repos/Eddie-Fannie/vuepress-theme-bydovis/releases{/id}
-size: 7621
+size: 27
 ssh_url: git@github.com:Eddie-Fannie/vuepress-theme-bydovis.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/Eddie-Fannie/vuepress-theme-bydovis/stargazers
@@ -93,11 +98,9 @@ tags_url: https://api.github.com/repos/Eddie-Fannie/vuepress-theme-bydovis/tags
 teams_url: https://api.github.com/repos/Eddie-Fannie/vuepress-theme-bydovis/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/Eddie-Fannie/vuepress-theme-bydovis/git/trees{/sha}
-updated_at: '2020-05-16T11:53:15Z'
+updated_at: '2020-05-19T12:03:27Z'
 url: https://api.github.com/repos/Eddie-Fannie/vuepress-theme-bydovis
 watchers: 0
 watchers_count: 0
 ---
 
-### vuepress-theme-bydovis
-自定义主题

@@ -56,8 +56,8 @@ name: vuepress-theme-gouv-fr
 network_count: 1
 node_id: MDEwOlJlcG9zaXRvcnkxOTAzNzMyMjE=
 notifications_url: https://api.github.com/repos/etalab/vuepress-theme-gouv-fr/notifications{?since,all,participating}
-open_issues: 3
-open_issues_count: 3
+open_issues: 4
+open_issues_count: 4
 organization:
   avatar_url: https://avatars1.githubusercontent.com/u/5313610?v=4
   events_url: https://api.github.com/users/etalab/events{/privacy}

@@ -87,7 +87,7 @@ pushed_at: '2019-07-15T14:02:59Z'
 releases_url: https://api.github.com/repos/keligijus/vuepress-plugin-podcast/releases{/id}
 size: 8
 ssh_url: git@github.com:keligijus/vuepress-plugin-podcast.git
-stargazers_count: 0
+stargazers_count: 1
 stargazers_url: https://api.github.com/repos/keligijus/vuepress-plugin-podcast/stargazers
 statuses_url: https://api.github.com/repos/keligijus/vuepress-plugin-podcast/statuses/{sha}
 subscribers_count: 0
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/keligijus/vuepress-plugin-podcast/tags
 teams_url: https://api.github.com/repos/keligijus/vuepress-plugin-podcast/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/keligijus/vuepress-plugin-podcast/git/trees{/sha}
-updated_at: '2019-07-15T14:03:01Z'
+updated_at: '2020-05-27T08:43:21Z'
 url: https://api.github.com/repos/keligijus/vuepress-plugin-podcast
-watchers: 0
-watchers_count: 0
+watchers: 1
+watchers_count: 1
 ---
 
 # Podcast feed xml generator for VuePress

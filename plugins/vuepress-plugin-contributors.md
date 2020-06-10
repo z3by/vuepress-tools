@@ -30,8 +30,8 @@ git_url: git://github.com/tlbootcamp/vuepress-plugin-contributors.git
 has_downloads: true
 has_issues: true
 has_pages: false
-has_projects: true
-has_wiki: true
+has_projects: false
+has_wiki: false
 homepage: null
 hooks_url: https://api.github.com/repos/tlbootcamp/vuepress-plugin-contributors/hooks
 html_url: https://github.com/tlbootcamp/vuepress-plugin-contributors
@@ -56,8 +56,8 @@ name: vuepress-plugin-contributors
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyNjQ2Nzg4NTI=
 notifications_url: https://api.github.com/repos/tlbootcamp/vuepress-plugin-contributors/notifications{?since,all,participating}
-open_issues: 2
-open_issues_count: 2
+open_issues: 3
+open_issues_count: 3
 organization:
   avatar_url: https://avatars1.githubusercontent.com/u/53175244?v=4
   events_url: https://api.github.com/users/tlbootcamp/events{/privacy}
@@ -102,9 +102,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/tlbootcamp/vuepress-plugin-contributors/pulls{/number}
-pushed_at: '2020-05-17T22:08:25Z'
+pushed_at: '2020-06-08T08:20:08Z'
 releases_url: https://api.github.com/repos/tlbootcamp/vuepress-plugin-contributors/releases{/id}
-size: 113
+size: 219
 ssh_url: git@github.com:tlbootcamp/vuepress-plugin-contributors.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/tlbootcamp/vuepress-plugin-contributors/stargazers
@@ -117,7 +117,7 @@ tags_url: https://api.github.com/repos/tlbootcamp/vuepress-plugin-contributors/t
 teams_url: https://api.github.com/repos/tlbootcamp/vuepress-plugin-contributors/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/tlbootcamp/vuepress-plugin-contributors/git/trees{/sha}
-updated_at: '2020-05-17T17:02:30Z'
+updated_at: '2020-05-18T12:47:04Z'
 url: https://api.github.com/repos/tlbootcamp/vuepress-plugin-contributors
 watchers: 0
 watchers_count: 0

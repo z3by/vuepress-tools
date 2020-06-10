@@ -82,7 +82,7 @@ pushed_at: '2020-03-30T14:20:38Z'
 releases_url: https://api.github.com/repos/mAKEkr/vuepress-theme-typewriter/releases{/id}
 size: 60
 ssh_url: git@github.com:mAKEkr/vuepress-theme-typewriter.git
-stargazers_count: 5
+stargazers_count: 6
 stargazers_url: https://api.github.com/repos/mAKEkr/vuepress-theme-typewriter/stargazers
 statuses_url: https://api.github.com/repos/mAKEkr/vuepress-theme-typewriter/statuses/{sha}
 subscribers_count: 1
@@ -93,10 +93,10 @@ tags_url: https://api.github.com/repos/mAKEkr/vuepress-theme-typewriter/tags
 teams_url: https://api.github.com/repos/mAKEkr/vuepress-theme-typewriter/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/mAKEkr/vuepress-theme-typewriter/git/trees{/sha}
-updated_at: '2020-03-30T14:19:51Z'
+updated_at: '2020-05-23T16:36:48Z'
 url: https://api.github.com/repos/mAKEkr/vuepress-theme-typewriter
-watchers: 5
-watchers_count: 5
+watchers: 6
+watchers_count: 6
 ---
 
 # Typewriter

@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/whoan/vuepress-theme-canvas/pulls{/number}
-pushed_at: '2020-04-18T17:31:47Z'
+pushed_at: '2020-06-07T13:38:49Z'
 releases_url: https://api.github.com/repos/whoan/vuepress-theme-canvas/releases{/id}
-size: 370
+size: 513
 ssh_url: git@github.com:whoan/vuepress-theme-canvas.git
 stargazers_count: 22
 stargazers_url: https://api.github.com/repos/whoan/vuepress-theme-canvas/stargazers
@@ -98,7 +98,7 @@ tags_url: https://api.github.com/repos/whoan/vuepress-theme-canvas/tags
 teams_url: https://api.github.com/repos/whoan/vuepress-theme-canvas/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/whoan/vuepress-theme-canvas/git/trees{/sha}
-updated_at: '2020-04-18T17:30:55Z'
+updated_at: '2020-06-07T13:38:47Z'
 url: https://api.github.com/repos/whoan/vuepress-theme-canvas
 watchers: 22
 watchers_count: 22

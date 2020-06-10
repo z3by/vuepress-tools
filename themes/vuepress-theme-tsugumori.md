@@ -78,9 +78,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/Karlbovsky/vuepress-theme-tsugumori/pulls{/number}
-pushed_at: '2020-05-08T11:59:08Z'
+pushed_at: '2020-06-07T09:49:08Z'
 releases_url: https://api.github.com/repos/Karlbovsky/vuepress-theme-tsugumori/releases{/id}
-size: 763
+size: 905
 ssh_url: git@github.com:Karlbovsky/vuepress-theme-tsugumori.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/Karlbovsky/vuepress-theme-tsugumori/stargazers
@@ -93,7 +93,7 @@ tags_url: https://api.github.com/repos/Karlbovsky/vuepress-theme-tsugumori/tags
 teams_url: https://api.github.com/repos/Karlbovsky/vuepress-theme-tsugumori/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/Karlbovsky/vuepress-theme-tsugumori/git/trees{/sha}
-updated_at: '2020-05-08T11:59:09Z'
+updated_at: '2020-06-07T09:49:03Z'
 url: https://api.github.com/repos/Karlbovsky/vuepress-theme-tsugumori
 watchers: 0
 watchers_count: 0

@@ -94,7 +94,7 @@ tags_url: https://api.github.com/repos/HiYue/vuepress-plugin-robots/tags
 teams_url: https://api.github.com/repos/HiYue/vuepress-plugin-robots/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/HiYue/vuepress-plugin-robots/git/trees{/sha}
-updated_at: '2020-03-04T09:54:48Z'
+updated_at: '2020-05-20T19:39:59Z'
 url: https://api.github.com/repos/HiYue/vuepress-plugin-robots
 watchers: 6
 watchers_count: 6

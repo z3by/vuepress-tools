@@ -109,7 +109,7 @@ ssh_url: git@github.com:shuaijs/vuepress-plugin-baidu-autopush.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/shuaijs/vuepress-plugin-baidu-autopush/stargazers
 statuses_url: https://api.github.com/repos/shuaijs/vuepress-plugin-baidu-autopush/statuses/{sha}
-subscribers_count: 1
+subscribers_count: 2
 subscribers_url: https://api.github.com/repos/shuaijs/vuepress-plugin-baidu-autopush/subscribers
 subscription_url: https://api.github.com/repos/shuaijs/vuepress-plugin-baidu-autopush/subscription
 svn_url: https://github.com/shuaijs/vuepress-plugin-baidu-autopush

@@ -51,8 +51,8 @@ name: vuepress-theme-crow
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkxODY1MTY3OTE=
 notifications_url: https://api.github.com/repos/hedongshu/vuepress-theme-crow/notifications{?since,all,participating}
-open_issues: 2
-open_issues_count: 2
+open_issues: 3
+open_issues_count: 3
 owner:
   avatar_url: https://avatars0.githubusercontent.com/u/22879313?v=4
   events_url: https://api.github.com/users/hedongshu/events{/privacy}
@@ -78,9 +78,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/hedongshu/vuepress-theme-crow/pulls{/number}
-pushed_at: '2020-03-14T18:35:03Z'
+pushed_at: '2020-06-06T15:54:01Z'
 releases_url: https://api.github.com/repos/hedongshu/vuepress-theme-crow/releases{/id}
-size: 390
+size: 309
 ssh_url: git@github.com:hedongshu/vuepress-theme-crow.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/hedongshu/vuepress-theme-crow/stargazers

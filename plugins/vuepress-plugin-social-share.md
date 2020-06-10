@@ -83,11 +83,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/ntnyq/vuepress-plugin-social-share/pulls{/number}
-pushed_at: '2020-05-05T10:42:01Z'
+pushed_at: '2020-06-07T03:31:53Z'
 releases_url: https://api.github.com/repos/ntnyq/vuepress-plugin-social-share/releases{/id}
-size: 913
+size: 1453
 ssh_url: git@github.com:ntnyq/vuepress-plugin-social-share.git
-stargazers_count: 15
+stargazers_count: 17
 stargazers_url: https://api.github.com/repos/ntnyq/vuepress-plugin-social-share/stargazers
 statuses_url: https://api.github.com/repos/ntnyq/vuepress-plugin-social-share/statuses/{sha}
 subscribers_count: 0
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/ntnyq/vuepress-plugin-social-share/tags
 teams_url: https://api.github.com/repos/ntnyq/vuepress-plugin-social-share/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/ntnyq/vuepress-plugin-social-share/git/trees{/sha}
-updated_at: '2020-05-12T05:14:43Z'
+updated_at: '2020-05-31T09:46:20Z'
 url: https://api.github.com/repos/ntnyq/vuepress-plugin-social-share
-watchers: 15
-watchers_count: 15
+watchers: 17
+watchers_count: 17
 ---
 
 # vuepress-plugin-social-share

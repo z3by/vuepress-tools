@@ -83,7 +83,7 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/IKangXu/vuepress-plugin-rss/pulls{/number}
-pushed_at: '2020-03-17T09:10:15Z'
+pushed_at: '2020-06-03T03:34:57Z'
 releases_url: https://api.github.com/repos/IKangXu/vuepress-plugin-rss/releases{/id}
 size: 4
 ssh_url: git@github.com:IKangXu/vuepress-plugin-rss.git
@@ -98,7 +98,7 @@ tags_url: https://api.github.com/repos/IKangXu/vuepress-plugin-rss/tags
 teams_url: https://api.github.com/repos/IKangXu/vuepress-plugin-rss/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/IKangXu/vuepress-plugin-rss/git/trees{/sha}
-updated_at: '2020-03-17T09:10:17Z'
+updated_at: '2020-06-03T03:35:00Z'
 url: https://api.github.com/repos/IKangXu/vuepress-plugin-rss
 watchers: 0
 watchers_count: 0

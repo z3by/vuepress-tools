@@ -98,7 +98,7 @@ tags_url: https://api.github.com/repos/znicholasbrown/vuepress-plugin-code-copy/
 teams_url: https://api.github.com/repos/znicholasbrown/vuepress-plugin-code-copy/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/znicholasbrown/vuepress-plugin-code-copy/git/trees{/sha}
-updated_at: '2020-05-03T11:15:29Z'
+updated_at: '2020-05-24T20:19:17Z'
 url: https://api.github.com/repos/znicholasbrown/vuepress-plugin-code-copy
 watchers: 31
 watchers_count: 31

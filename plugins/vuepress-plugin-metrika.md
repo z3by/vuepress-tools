@@ -56,8 +56,8 @@ name: vuepress-plugin-metrika
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyNTczNzc3MDU=
 notifications_url: https://api.github.com/repos/teners/vuepress-plugin-metrika/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
+open_issues: 1
+open_issues_count: 1
 owner:
   avatar_url: https://avatars0.githubusercontent.com/u/4928316?v=4
   events_url: https://api.github.com/users/teners/events{/privacy}
@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/teners/vuepress-plugin-metrika/pulls{/number}
-pushed_at: '2020-05-09T23:53:36Z'
+pushed_at: '2020-06-08T06:43:54Z'
 releases_url: https://api.github.com/repos/teners/vuepress-plugin-metrika/releases{/id}
-size: 112
+size: 217
 ssh_url: git@github.com:teners/vuepress-plugin-metrika.git
 stargazers_count: 1
 stargazers_url: https://api.github.com/repos/teners/vuepress-plugin-metrika/stargazers

@@ -85,7 +85,7 @@ ssh_url: git@github.com:simonwjackson/vuepress-plugin-hotjar.git
 stargazers_count: 1
 stargazers_url: https://api.github.com/repos/simonwjackson/vuepress-plugin-hotjar/stargazers
 statuses_url: https://api.github.com/repos/simonwjackson/vuepress-plugin-hotjar/statuses/{sha}
-subscribers_count: 1
+subscribers_count: 2
 subscribers_url: https://api.github.com/repos/simonwjackson/vuepress-plugin-hotjar/subscribers
 subscription_url: https://api.github.com/repos/simonwjackson/vuepress-plugin-hotjar/subscription
 svn_url: https://github.com/simonwjackson/vuepress-plugin-hotjar

@@ -1,6 +1,10 @@
 const fs = require("fs");
 const { description } = require("../package");
 
+const themesSidebar = fs.readdirSync(`${__dirname}/../themes/`).filter((val) => val !== "README.md")
+const pluginsSidebar = fs.readdirSync(`${__dirname}/../plugins/`).filter((val) => val !== "README.md")
+
+
 module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
@@ -90,8 +94,8 @@ module.exports = {
       },
     ],
     sidebar: {
-      "/themes/": fs.readdirSync(`${__dirname}/../themes/`),
-      "/plugins/": fs.readdirSync(`${__dirname}/../plugins/`),
+      "/themes/": themesSidebar,
+      "/plugins/": pluginsSidebar,
     },
   },
 

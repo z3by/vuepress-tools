@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/sqrthree/vuepress-theme-api/downloads
 events_url: https://api.github.com/repos/sqrthree/vuepress-theme-api/events
 fork: false
-forks: 32
-forks_count: 32
+forks: 33
+forks_count: 33
 forks_url: https://api.github.com/repos/sqrthree/vuepress-theme-api/forks
 full_name: sqrthree/vuepress-theme-api
 git_commits_url: https://api.github.com/repos/sqrthree/vuepress-theme-api/git/commits{/sha}
@@ -53,7 +53,7 @@ merges_url: https://api.github.com/repos/sqrthree/vuepress-theme-api/merges
 milestones_url: https://api.github.com/repos/sqrthree/vuepress-theme-api/milestones{/number}
 mirror_url: null
 name: vuepress-theme-api
-network_count: 32
+network_count: 33
 node_id: MDEwOlJlcG9zaXRvcnkxMzM4MzAzNDk=
 notifications_url: https://api.github.com/repos/sqrthree/vuepress-theme-api/notifications{?since,all,participating}
 open_issues: 2
@@ -83,11 +83,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/sqrthree/vuepress-theme-api/pulls{/number}
-pushed_at: '2020-04-25T14:47:58Z'
+pushed_at: '2020-06-09T09:04:21Z'
 releases_url: https://api.github.com/repos/sqrthree/vuepress-theme-api/releases{/id}
-size: 1140
+size: 1339
 ssh_url: git@github.com:sqrthree/vuepress-theme-api.git
-stargazers_count: 200
+stargazers_count: 204
 stargazers_url: https://api.github.com/repos/sqrthree/vuepress-theme-api/stargazers
 statuses_url: https://api.github.com/repos/sqrthree/vuepress-theme-api/statuses/{sha}
 subscribers_count: 5
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/sqrthree/vuepress-theme-api/tags
 teams_url: https://api.github.com/repos/sqrthree/vuepress-theme-api/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/sqrthree/vuepress-theme-api/git/trees{/sha}
-updated_at: '2020-05-18T03:06:11Z'
+updated_at: '2020-06-09T09:04:24Z'
 url: https://api.github.com/repos/sqrthree/vuepress-theme-api
-watchers: 200
-watchers_count: 200
+watchers: 204
+watchers_count: 204
 ---
 
 > v1.0.0 is beta, going to release in the next few days.

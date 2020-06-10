@@ -82,7 +82,7 @@ pushed_at: '2020-05-13T07:56:41Z'
 releases_url: https://api.github.com/repos/dongyuanxin/vuepress-plugin-comment/releases{/id}
 size: 26
 ssh_url: git@github.com:dongyuanxin/vuepress-plugin-comment.git
-stargazers_count: 17
+stargazers_count: 18
 stargazers_url: https://api.github.com/repos/dongyuanxin/vuepress-plugin-comment/stargazers
 statuses_url: https://api.github.com/repos/dongyuanxin/vuepress-plugin-comment/statuses/{sha}
 subscribers_count: 1
@@ -93,10 +93,10 @@ tags_url: https://api.github.com/repos/dongyuanxin/vuepress-plugin-comment/tags
 teams_url: https://api.github.com/repos/dongyuanxin/vuepress-plugin-comment/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/dongyuanxin/vuepress-plugin-comment/git/trees{/sha}
-updated_at: '2020-03-24T07:19:58Z'
+updated_at: '2020-05-24T20:19:19Z'
 url: https://api.github.com/repos/dongyuanxin/vuepress-plugin-comment
-watchers: 17
-watchers_count: 17
+watchers: 18
+watchers_count: 18
 ---
 
 # Vuepress-comment-plugin

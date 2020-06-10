@@ -57,8 +57,8 @@ name: vuepress-theme-yuu
 network_count: 5
 node_id: MDEwOlJlcG9zaXRvcnkxNDUyNTU3MDI=
 notifications_url: https://api.github.com/repos/Danktuary/vuepress-theme-yuu/notifications{?since,all,participating}
-open_issues: 3
-open_issues_count: 3
+open_issues: 2
+open_issues_count: 2
 owner:
   avatar_url: https://avatars2.githubusercontent.com/u/13043871?v=4
   events_url: https://api.github.com/users/Danktuary/events{/privacy}
@@ -84,11 +84,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/Danktuary/vuepress-theme-yuu/pulls{/number}
-pushed_at: '2020-05-14T01:23:54Z'
+pushed_at: '2020-05-22T23:42:00Z'
 releases_url: https://api.github.com/repos/Danktuary/vuepress-theme-yuu/releases{/id}
 size: 310
 ssh_url: git@github.com:Danktuary/vuepress-theme-yuu.git
-stargazers_count: 43
+stargazers_count: 46
 stargazers_url: https://api.github.com/repos/Danktuary/vuepress-theme-yuu/stargazers
 statuses_url: https://api.github.com/repos/Danktuary/vuepress-theme-yuu/statuses/{sha}
 subscribers_count: 3
@@ -99,10 +99,10 @@ tags_url: https://api.github.com/repos/Danktuary/vuepress-theme-yuu/tags
 teams_url: https://api.github.com/repos/Danktuary/vuepress-theme-yuu/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/Danktuary/vuepress-theme-yuu/git/trees{/sha}
-updated_at: '2020-05-14T01:23:56Z'
+updated_at: '2020-06-09T11:01:23Z'
 url: https://api.github.com/repos/Danktuary/vuepress-theme-yuu
-watchers: 43
-watchers_count: 43
+watchers: 46
+watchers_count: 46
 ---
 
 <div align="center">

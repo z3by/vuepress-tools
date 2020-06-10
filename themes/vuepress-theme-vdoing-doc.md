@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/xugaoyi/vuepress-theme-vdoing-doc/pulls{/number}
-pushed_at: '2020-05-15T05:32:34Z'
+pushed_at: '2020-06-10T10:40:34Z'
 releases_url: https://api.github.com/repos/xugaoyi/vuepress-theme-vdoing-doc/releases{/id}
-size: 2207
+size: 2247
 ssh_url: git@github.com:xugaoyi/vuepress-theme-vdoing-doc.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/xugaoyi/vuepress-theme-vdoing-doc/stargazers
@@ -98,7 +98,7 @@ tags_url: https://api.github.com/repos/xugaoyi/vuepress-theme-vdoing-doc/tags
 teams_url: https://api.github.com/repos/xugaoyi/vuepress-theme-vdoing-doc/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/xugaoyi/vuepress-theme-vdoing-doc/git/trees{/sha}
-updated_at: '2020-05-15T03:46:23Z'
+updated_at: '2020-06-10T10:38:46Z'
 url: https://api.github.com/repos/xugaoyi/vuepress-theme-vdoing-doc
 watchers: 0
 watchers_count: 0

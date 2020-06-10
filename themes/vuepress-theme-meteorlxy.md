@@ -83,14 +83,14 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/meteorlxy/vuepress-theme-meteorlxy/pulls{/number}
-pushed_at: '2020-04-28T04:43:29Z'
+pushed_at: '2020-06-06T13:22:03Z'
 releases_url: https://api.github.com/repos/meteorlxy/vuepress-theme-meteorlxy/releases{/id}
-size: 3570
+size: 3720
 ssh_url: git@github.com:meteorlxy/vuepress-theme-meteorlxy.git
-stargazers_count: 263
+stargazers_count: 267
 stargazers_url: https://api.github.com/repos/meteorlxy/vuepress-theme-meteorlxy/stargazers
 statuses_url: https://api.github.com/repos/meteorlxy/vuepress-theme-meteorlxy/statuses/{sha}
-subscribers_count: 6
+subscribers_count: 7
 subscribers_url: https://api.github.com/repos/meteorlxy/vuepress-theme-meteorlxy/subscribers
 subscription_url: https://api.github.com/repos/meteorlxy/vuepress-theme-meteorlxy/subscription
 svn_url: https://github.com/meteorlxy/vuepress-theme-meteorlxy
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/meteorlxy/vuepress-theme-meteorlxy/tags
 teams_url: https://api.github.com/repos/meteorlxy/vuepress-theme-meteorlxy/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/meteorlxy/vuepress-theme-meteorlxy/git/trees{/sha}
-updated_at: '2020-05-15T08:12:06Z'
+updated_at: '2020-06-04T05:16:47Z'
 url: https://api.github.com/repos/meteorlxy/vuepress-theme-meteorlxy
-watchers: 263
-watchers_count: 263
+watchers: 267
+watchers_count: 267
 ---
 
 # VuePress Blog Theme - Meteorlxy

@@ -87,7 +87,7 @@ pushed_at: '2020-03-21T01:00:32Z'
 releases_url: https://api.github.com/repos/tolking/vuepress-plugin-reading-progress/releases{/id}
 size: 12
 ssh_url: git@github.com:tolking/vuepress-plugin-reading-progress.git
-stargazers_count: 14
+stargazers_count: 15
 stargazers_url: https://api.github.com/repos/tolking/vuepress-plugin-reading-progress/stargazers
 statuses_url: https://api.github.com/repos/tolking/vuepress-plugin-reading-progress/statuses/{sha}
 subscribers_count: 1
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/tolking/vuepress-plugin-reading-progress/
 teams_url: https://api.github.com/repos/tolking/vuepress-plugin-reading-progress/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/tolking/vuepress-plugin-reading-progress/git/trees{/sha}
-updated_at: '2020-03-21T00:55:17Z'
+updated_at: '2020-06-02T11:26:36Z'
 url: https://api.github.com/repos/tolking/vuepress-plugin-reading-progress
-watchers: 14
-watchers_count: 14
+watchers: 15
+watchers_count: 15
 ---
 
 # vuepress-plugin-reading-progress

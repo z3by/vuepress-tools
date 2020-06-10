@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/gitldy1013/vuepress-theme-ldy/pulls{/number}
-pushed_at: '2020-01-02T06:58:30Z'
+pushed_at: '2020-05-26T05:12:17Z'
 releases_url: https://api.github.com/repos/gitldy1013/vuepress-theme-ldy/releases{/id}
-size: 877
+size: 879
 ssh_url: git@github.com:gitldy1013/vuepress-theme-ldy.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/gitldy1013/vuepress-theme-ldy/stargazers
@@ -98,7 +98,7 @@ tags_url: https://api.github.com/repos/gitldy1013/vuepress-theme-ldy/tags
 teams_url: https://api.github.com/repos/gitldy1013/vuepress-theme-ldy/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/gitldy1013/vuepress-theme-ldy/git/trees{/sha}
-updated_at: '2020-01-02T06:58:32Z'
+updated_at: '2020-05-26T05:12:20Z'
 url: https://api.github.com/repos/gitldy1013/vuepress-theme-ldy
 watchers: 0
 watchers_count: 0

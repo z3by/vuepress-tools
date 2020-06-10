@@ -102,9 +102,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/tlbootcamp/vuepress-plugin-generate-tree/pulls{/number}
-pushed_at: '2020-05-09T12:51:42Z'
+pushed_at: '2020-06-07T09:44:53Z'
 releases_url: https://api.github.com/repos/tlbootcamp/vuepress-plugin-generate-tree/releases{/id}
-size: 91
+size: 94
 ssh_url: git@github.com:tlbootcamp/vuepress-plugin-generate-tree.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/tlbootcamp/vuepress-plugin-generate-tree/stargazers
@@ -117,7 +117,7 @@ tags_url: https://api.github.com/repos/tlbootcamp/vuepress-plugin-generate-tree/
 teams_url: https://api.github.com/repos/tlbootcamp/vuepress-plugin-generate-tree/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/tlbootcamp/vuepress-plugin-generate-tree/git/trees{/sha}
-updated_at: '2020-05-09T12:51:44Z'
+updated_at: '2020-06-07T09:43:13Z'
 url: https://api.github.com/repos/tlbootcamp/vuepress-plugin-generate-tree
 watchers: 0
 watchers_count: 0

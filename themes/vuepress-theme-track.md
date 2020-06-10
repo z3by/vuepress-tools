@@ -87,7 +87,7 @@ pushed_at: '2018-12-19T14:33:16Z'
 releases_url: https://api.github.com/repos/tomieric/vuepress-theme-track/releases{/id}
 size: 2264
 ssh_url: git@github.com:tomieric/vuepress-theme-track.git
-stargazers_count: 12
+stargazers_count: 13
 stargazers_url: https://api.github.com/repos/tomieric/vuepress-theme-track/stargazers
 statuses_url: https://api.github.com/repos/tomieric/vuepress-theme-track/statuses/{sha}
 subscribers_count: 1
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/tomieric/vuepress-theme-track/tags
 teams_url: https://api.github.com/repos/tomieric/vuepress-theme-track/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/tomieric/vuepress-theme-track/git/trees{/sha}
-updated_at: '2020-02-14T08:42:10Z'
+updated_at: '2020-06-08T14:44:14Z'
 url: https://api.github.com/repos/tomieric/vuepress-theme-track
-watchers: 12
-watchers_count: 12
+watchers: 13
+watchers_count: 13
 ---
 
 # vuepress-theme-track

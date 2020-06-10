@@ -56,8 +56,8 @@ name: vuepress-theme-blogue
 network_count: 3
 node_id: MDEwOlJlcG9zaXRvcnkxMzkyODc3Nzk=
 notifications_url: https://api.github.com/repos/ocavue/vuepress-theme-blogue/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
+open_issues: 2
+open_issues_count: 2
 owner:
   avatar_url: https://avatars2.githubusercontent.com/u/24715727?v=4
   events_url: https://api.github.com/users/ocavue/events{/privacy}
@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/ocavue/vuepress-theme-blogue/pulls{/number}
-pushed_at: '2020-03-14T15:24:23Z'
+pushed_at: '2020-06-06T15:33:27Z'
 releases_url: https://api.github.com/repos/ocavue/vuepress-theme-blogue/releases{/id}
-size: 652
+size: 545
 ssh_url: git@github.com:ocavue/vuepress-theme-blogue.git
 stargazers_count: 6
 stargazers_url: https://api.github.com/repos/ocavue/vuepress-theme-blogue/stargazers

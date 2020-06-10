@@ -56,8 +56,8 @@ name: vuepress-theme-tabsp
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyMTE3NTk3MTM=
 notifications_url: https://api.github.com/repos/tabsp/vuepress-theme-tabsp/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
+open_issues: 2
+open_issues_count: 2
 owner:
   avatar_url: https://avatars0.githubusercontent.com/u/55568111?v=4
   events_url: https://api.github.com/users/tabsp/events{/privacy}
@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/tabsp/vuepress-theme-tabsp/pulls{/number}
-pushed_at: '2020-04-05T06:03:16Z'
+pushed_at: '2020-06-07T08:10:17Z'
 releases_url: https://api.github.com/repos/tabsp/vuepress-theme-tabsp/releases{/id}
-size: 294
+size: 404
 ssh_url: git@github.com:tabsp/vuepress-theme-tabsp.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/tabsp/vuepress-theme-tabsp/stargazers

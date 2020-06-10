@@ -51,8 +51,8 @@ name: vuepress-theme-yaya
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyNTEwMDQyNjM=
 notifications_url: https://api.github.com/repos/Heyff12/vuepress-theme-yaya/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
+open_issues: 1
+open_issues_count: 1
 owner:
   avatar_url: https://avatars3.githubusercontent.com/u/16876083?v=4
   events_url: https://api.github.com/users/Heyff12/events{/privacy}
@@ -78,9 +78,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/Heyff12/vuepress-theme-yaya/pulls{/number}
-pushed_at: '2020-05-16T03:40:50Z'
+pushed_at: '2020-06-08T01:27:30Z'
 releases_url: https://api.github.com/repos/Heyff12/vuepress-theme-yaya/releases{/id}
-size: 9174
+size: 9271
 ssh_url: git@github.com:Heyff12/vuepress-theme-yaya.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/Heyff12/vuepress-theme-yaya/stargazers

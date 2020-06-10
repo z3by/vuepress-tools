@@ -85,7 +85,7 @@ ssh_url: git@github.com:fadeev/vuepress-theme-cosmos.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/fadeev/vuepress-theme-cosmos/stargazers
 statuses_url: https://api.github.com/repos/fadeev/vuepress-theme-cosmos/statuses/{sha}
-subscribers_count: 1
+subscribers_count: 2
 subscribers_url: https://api.github.com/repos/fadeev/vuepress-theme-cosmos/subscribers
 subscription_url: https://api.github.com/repos/fadeev/vuepress-theme-cosmos/subscription
 svn_url: https://github.com/fadeev/vuepress-theme-cosmos

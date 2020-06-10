@@ -51,8 +51,8 @@ name: vuepress-plugin-code-doc
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkxOTc4MTQwNDQ=
 notifications_url: https://api.github.com/repos/jardenliu/vuepress-plugin-code-doc/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
+open_issues: 2
+open_issues_count: 2
 owner:
   avatar_url: https://avatars1.githubusercontent.com/u/15191056?v=4
   events_url: https://api.github.com/users/jardenliu/events{/privacy}
@@ -78,9 +78,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/jardenliu/vuepress-plugin-code-doc/pulls{/number}
-pushed_at: '2020-04-06T06:31:55Z'
+pushed_at: '2020-06-07T01:45:51Z'
 releases_url: https://api.github.com/repos/jardenliu/vuepress-plugin-code-doc/releases{/id}
-size: 461
+size: 580
 ssh_url: git@github.com:jardenliu/vuepress-plugin-code-doc.git
 stargazers_count: 1
 stargazers_url: https://api.github.com/repos/jardenliu/vuepress-plugin-code-doc/stargazers

@@ -84,9 +84,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/g-plane/vuepress-theme-simple-blog/pulls{/number}
-pushed_at: '2019-06-13T15:18:55Z'
+pushed_at: '2020-06-10T10:49:00Z'
 releases_url: https://api.github.com/repos/g-plane/vuepress-theme-simple-blog/releases{/id}
-size: 170
+size: 176
 ssh_url: git@github.com:g-plane/vuepress-theme-simple-blog.git
 stargazers_count: 1
 stargazers_url: https://api.github.com/repos/g-plane/vuepress-theme-simple-blog/stargazers
@@ -99,7 +99,7 @@ tags_url: https://api.github.com/repos/g-plane/vuepress-theme-simple-blog/tags
 teams_url: https://api.github.com/repos/g-plane/vuepress-theme-simple-blog/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/g-plane/vuepress-theme-simple-blog/git/trees{/sha}
-updated_at: '2019-08-16T05:02:39Z'
+updated_at: '2020-06-10T10:49:03Z'
 url: https://api.github.com/repos/g-plane/vuepress-theme-simple-blog
 watchers: 1
 watchers_count: 1
@@ -165,8 +165,6 @@ module.exports = {
 - Customizable footer text.
 - Navigation bar supports VueRouter's `<router-link>` component.
 - Out-of-the-box Disqus support.
-
-Additionally, this fork contains unit tests for the theme, while origin work doesn't contain. And the unit tests is written in TypeScript.
 
 ## 📃 License
 

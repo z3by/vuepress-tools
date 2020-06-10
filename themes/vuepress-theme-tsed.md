@@ -51,8 +51,8 @@ name: vuepress-theme-tsed
 network_count: 1
 node_id: MDEwOlJlcG9zaXRvcnkxNDQ0NDgzODM=
 notifications_url: https://api.github.com/repos/TypedProject/vuepress-theme-tsed/notifications{?since,all,participating}
-open_issues: 2
-open_issues_count: 2
+open_issues: 0
+open_issues_count: 0
 organization:
   avatar_url: https://avatars0.githubusercontent.com/u/34125411?v=4
   events_url: https://api.github.com/users/TypedProject/events{/privacy}
@@ -97,9 +97,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/TypedProject/vuepress-theme-tsed/pulls{/number}
-pushed_at: '2020-03-21T17:50:59Z'
+pushed_at: '2020-06-07T09:40:27Z'
 releases_url: https://api.github.com/repos/TypedProject/vuepress-theme-tsed/releases{/id}
-size: 2026
+size: 2679
 ssh_url: git@github.com:TypedProject/vuepress-theme-tsed.git
 stargazers_count: 3
 stargazers_url: https://api.github.com/repos/TypedProject/vuepress-theme-tsed/stargazers
@@ -112,7 +112,7 @@ tags_url: https://api.github.com/repos/TypedProject/vuepress-theme-tsed/tags
 teams_url: https://api.github.com/repos/TypedProject/vuepress-theme-tsed/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/TypedProject/vuepress-theme-tsed/git/trees{/sha}
-updated_at: '2020-03-21T17:49:58Z'
+updated_at: '2020-06-07T09:40:29Z'
 url: https://api.github.com/repos/TypedProject/vuepress-theme-tsed
 watchers: 3
 watchers_count: 3

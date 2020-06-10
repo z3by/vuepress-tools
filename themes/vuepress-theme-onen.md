@@ -87,7 +87,7 @@ pushed_at: '2019-10-18T19:52:54Z'
 releases_url: https://api.github.com/repos/Colasour/vuepress-theme-oneN/releases{/id}
 size: 274
 ssh_url: git@github.com:Colasour/vuepress-theme-oneN.git
-stargazers_count: 36
+stargazers_count: 37
 stargazers_url: https://api.github.com/repos/Colasour/vuepress-theme-oneN/stargazers
 statuses_url: https://api.github.com/repos/Colasour/vuepress-theme-oneN/statuses/{sha}
 subscribers_count: 2
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/Colasour/vuepress-theme-oneN/tags
 teams_url: https://api.github.com/repos/Colasour/vuepress-theme-oneN/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/Colasour/vuepress-theme-oneN/git/trees{/sha}
-updated_at: '2020-04-29T07:59:08Z'
+updated_at: '2020-05-21T01:33:23Z'
 url: https://api.github.com/repos/Colasour/vuepress-theme-oneN
-watchers: 36
-watchers_count: 36
+watchers: 37
+watchers_count: 37
 ---
 
 <div align="center">

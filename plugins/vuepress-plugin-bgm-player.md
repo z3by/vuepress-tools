@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-bgm-player/downloads
 events_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-bgm-player/events
 fork: false
-forks: 2
-forks_count: 2
+forks: 3
+forks_count: 3
 forks_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-bgm-player/forks
 full_name: vuepress-reco/vuepress-plugin-bgm-player
 git_commits_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-bgm-player/git/commits{/sha}
@@ -53,7 +53,7 @@ merges_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-bgm-playe
 milestones_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-bgm-player/milestones{/number}
 mirror_url: null
 name: vuepress-plugin-bgm-player
-network_count: 2
+network_count: 3
 node_id: MDEwOlJlcG9zaXRvcnkyMjIzMzgzNzg=
 notifications_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-bgm-player/notifications{?since,all,participating}
 open_issues: 1

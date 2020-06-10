@@ -56,8 +56,8 @@ name: vuepress-plugin-ipfs
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyMjU4ODE5MDI=
 notifications_url: https://api.github.com/repos/cwaring/vuepress-plugin-ipfs/notifications{?since,all,participating}
-open_issues: 3
-open_issues_count: 3
+open_issues: 2
+open_issues_count: 2
 owner:
   avatar_url: https://avatars2.githubusercontent.com/u/106938?v=4
   events_url: https://api.github.com/users/cwaring/events{/privacy}
@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/cwaring/vuepress-plugin-ipfs/pulls{/number}
-pushed_at: '2020-04-22T13:38:06Z'
+pushed_at: '2020-05-21T15:51:47Z'
 releases_url: https://api.github.com/repos/cwaring/vuepress-plugin-ipfs/releases{/id}
-size: 19
+size: 23
 ssh_url: git@github.com:cwaring/vuepress-plugin-ipfs.git
 stargazers_count: 7
 stargazers_url: https://api.github.com/repos/cwaring/vuepress-plugin-ipfs/stargazers
@@ -98,7 +98,7 @@ tags_url: https://api.github.com/repos/cwaring/vuepress-plugin-ipfs/tags
 teams_url: https://api.github.com/repos/cwaring/vuepress-plugin-ipfs/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/cwaring/vuepress-plugin-ipfs/git/trees{/sha}
-updated_at: '2020-04-22T13:38:08Z'
+updated_at: '2020-05-21T15:51:49Z'
 url: https://api.github.com/repos/cwaring/vuepress-plugin-ipfs
 watchers: 7
 watchers_count: 7

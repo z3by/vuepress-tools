@@ -82,7 +82,7 @@ pushed_at: '2020-03-19T16:00:28Z'
 releases_url: https://api.github.com/repos/jsmith/vuepress-theme-terminal/releases{/id}
 size: 659
 ssh_url: git@github.com:jsmith/vuepress-theme-terminal.git
-stargazers_count: 53
+stargazers_count: 55
 stargazers_url: https://api.github.com/repos/jsmith/vuepress-theme-terminal/stargazers
 statuses_url: https://api.github.com/repos/jsmith/vuepress-theme-terminal/statuses/{sha}
 subscribers_count: 1
@@ -93,10 +93,10 @@ tags_url: https://api.github.com/repos/jsmith/vuepress-theme-terminal/tags
 teams_url: https://api.github.com/repos/jsmith/vuepress-theme-terminal/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/jsmith/vuepress-theme-terminal/git/trees{/sha}
-updated_at: '2020-05-09T02:49:24Z'
+updated_at: '2020-05-23T19:27:53Z'
 url: https://api.github.com/repos/jsmith/vuepress-theme-terminal
-watchers: 53
-watchers_count: 53
+watchers: 55
+watchers_count: 55
 ---
 
 # vuepress-theme-terminal

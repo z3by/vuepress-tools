@@ -28,10 +28,10 @@ git_refs_url: https://api.github.com/repos/ozelotjp/vuepress-theme-meteorlxy-ori
 git_tags_url: https://api.github.com/repos/ozelotjp/vuepress-theme-meteorlxy-original/git/tags{/sha}
 git_url: git://github.com/ozelotjp/vuepress-theme-meteorlxy-original.git
 has_downloads: true
-has_issues: false
+has_issues: true
 has_pages: false
 has_projects: false
-has_wiki: true
+has_wiki: false
 homepage: null
 hooks_url: https://api.github.com/repos/ozelotjp/vuepress-theme-meteorlxy-original/hooks
 html_url: https://github.com/ozelotjp/vuepress-theme-meteorlxy-original
@@ -98,7 +98,7 @@ tags_url: https://api.github.com/repos/ozelotjp/vuepress-theme-meteorlxy-origina
 teams_url: https://api.github.com/repos/ozelotjp/vuepress-theme-meteorlxy-original/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/ozelotjp/vuepress-theme-meteorlxy-original/git/trees{/sha}
-updated_at: '2020-02-02T05:17:56Z'
+updated_at: '2020-06-05T05:52:57Z'
 url: https://api.github.com/repos/ozelotjp/vuepress-theme-meteorlxy-original
 watchers: 0
 watchers_count: 0

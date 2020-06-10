@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/xiguaxigua/vuepress-plugin-demo-block/downloads
 events_url: https://api.github.com/repos/xiguaxigua/vuepress-plugin-demo-block/events
 fork: false
-forks: 20
-forks_count: 20
+forks: 23
+forks_count: 23
 forks_url: https://api.github.com/repos/xiguaxigua/vuepress-plugin-demo-block/forks
 full_name: xiguaxigua/vuepress-plugin-demo-block
 git_commits_url: https://api.github.com/repos/xiguaxigua/vuepress-plugin-demo-block/git/commits{/sha}
@@ -53,11 +53,11 @@ merges_url: https://api.github.com/repos/xiguaxigua/vuepress-plugin-demo-block/m
 milestones_url: https://api.github.com/repos/xiguaxigua/vuepress-plugin-demo-block/milestones{/number}
 mirror_url: null
 name: vuepress-plugin-demo-block
-network_count: 20
+network_count: 23
 node_id: MDEwOlJlcG9zaXRvcnkxNjM1ODIxODk=
 notifications_url: https://api.github.com/repos/xiguaxigua/vuepress-plugin-demo-block/notifications{?since,all,participating}
-open_issues: 19
-open_issues_count: 19
+open_issues: 21
+open_issues_count: 21
 owner:
   avatar_url: https://avatars0.githubusercontent.com/u/9931685?v=4
   events_url: https://api.github.com/users/xiguaxigua/events{/privacy}
@@ -83,11 +83,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/xiguaxigua/vuepress-plugin-demo-block/pulls{/number}
-pushed_at: '2020-05-17T10:58:37Z'
+pushed_at: '2020-06-04T17:43:26Z'
 releases_url: https://api.github.com/repos/xiguaxigua/vuepress-plugin-demo-block/releases{/id}
 size: 817
 ssh_url: git@github.com:xiguaxigua/vuepress-plugin-demo-block.git
-stargazers_count: 59
+stargazers_count: 69
 stargazers_url: https://api.github.com/repos/xiguaxigua/vuepress-plugin-demo-block/stargazers
 statuses_url: https://api.github.com/repos/xiguaxigua/vuepress-plugin-demo-block/statuses/{sha}
 subscribers_count: 0
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/xiguaxigua/vuepress-plugin-demo-block/tag
 teams_url: https://api.github.com/repos/xiguaxigua/vuepress-plugin-demo-block/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/xiguaxigua/vuepress-plugin-demo-block/git/trees{/sha}
-updated_at: '2020-05-16T17:06:34Z'
+updated_at: '2020-06-09T16:19:20Z'
 url: https://api.github.com/repos/xiguaxigua/vuepress-plugin-demo-block
-watchers: 59
-watchers_count: 59
+watchers: 69
+watchers_count: 69
 ---
 
 # vuepress-plugin-demo-block

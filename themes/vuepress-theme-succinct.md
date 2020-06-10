@@ -32,7 +32,7 @@ has_issues: true
 has_pages: true
 has_projects: false
 has_wiki: true
-homepage: https://mflash.dev/vuepress-theme-succinct/
+homepage: https://microflash.github.io/vuepress-theme-succinct/
 hooks_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/hooks
 html_url: https://github.com/Microflash/vuepress-theme-succinct
 id: 156448215
@@ -98,7 +98,7 @@ tags_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/tags
 teams_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/git/trees{/sha}
-updated_at: '2020-05-10T09:14:20Z'
+updated_at: '2020-05-21T17:18:17Z'
 url: https://api.github.com/repos/Microflash/vuepress-theme-succinct
 watchers: 7
 watchers_count: 7

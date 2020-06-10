@@ -56,8 +56,8 @@ name: vuepress-theme-lost
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyMjY1Mzc1MzQ=
 notifications_url: https://api.github.com/repos/pirtor/vuepress-theme-lost/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
+open_issues: 2
+open_issues_count: 2
 owner:
   avatar_url: https://avatars3.githubusercontent.com/u/50062214?v=4
   events_url: https://api.github.com/users/pirtor/events{/privacy}
@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/pirtor/vuepress-theme-lost/pulls{/number}
-pushed_at: '2020-04-05T13:55:05Z'
+pushed_at: '2020-06-07T14:28:14Z'
 releases_url: https://api.github.com/repos/pirtor/vuepress-theme-lost/releases{/id}
-size: 404
+size: 505
 ssh_url: git@github.com:pirtor/vuepress-theme-lost.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/pirtor/vuepress-theme-lost/stargazers

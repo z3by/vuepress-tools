@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope/downloads
 events_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope/events
 fork: false
-forks: 4
-forks_count: 4
+forks: 7
+forks_count: 7
 forks_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope/forks
 full_name: Mister-Hope/vuepress-theme-hope
 git_commits_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope/git/commits{/sha}
@@ -53,11 +53,11 @@ merges_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope/merges
 milestones_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope/milestones{/number}
 mirror_url: null
 name: vuepress-theme-hope
-network_count: 4
+network_count: 7
 node_id: MDEwOlJlcG9zaXRvcnkyMTU1MjI0MDM=
 notifications_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope/notifications{?since,all,participating}
-open_issues: 10
-open_issues_count: 10
+open_issues: 8
+open_issues_count: 8
 owner:
   avatar_url: https://avatars0.githubusercontent.com/u/33315834?v=4
   events_url: https://api.github.com/users/Mister-Hope/events{/privacy}
@@ -83,11 +83,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope/pulls{/number}
-pushed_at: '2020-05-15T18:32:03Z'
+pushed_at: '2020-06-09T14:56:08Z'
 releases_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope/releases{/id}
-size: 46592
+size: 64649
 ssh_url: git@github.com:Mister-Hope/vuepress-theme-hope.git
-stargazers_count: 29
+stargazers_count: 32
 stargazers_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope/stargazers
 statuses_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope/statuses/{sha}
 subscribers_count: 1
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope/tags
 teams_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope/git/trees{/sha}
-updated_at: '2020-05-16T14:00:11Z'
+updated_at: '2020-06-06T11:49:56Z'
 url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope
-watchers: 29
-watchers_count: 29
+watchers: 32
+watchers_count: 32
 ---
 
 <p align="center">
@@ -128,8 +128,8 @@ watchers_count: 29
 主题很大程度上保持了 Vuepress 默认主题的风格。同时主题做了如下优化：
 
 - 为导航栏、侧边栏提供了外观美化与功能增强
-- 全新的主题色，允许您在浏览过程中动态切换
-- 深色模式，允许您手动切换或者是自动应用您的颜色配置
+- 全新的主题色，允许你在浏览过程中动态切换
+- 深色模式，允许你手动切换或者是自动应用你的颜色配置
 - 增加了 PWA 支持与全屏按钮增强沉浸感
 - 为 Markdown 添加了更多语法，丰富文档与博客写作
 - 为所有页面添加阅读量统计与作者、写作日期展示

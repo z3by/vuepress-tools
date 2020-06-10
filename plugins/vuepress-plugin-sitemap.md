@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/ekoeryanto/vuepress-plugin-sitemap/downloads
 events_url: https://api.github.com/repos/ekoeryanto/vuepress-plugin-sitemap/events
 fork: false
-forks: 9
-forks_count: 9
+forks: 8
+forks_count: 8
 forks_url: https://api.github.com/repos/ekoeryanto/vuepress-plugin-sitemap/forks
 full_name: ekoeryanto/vuepress-plugin-sitemap
 git_commits_url: https://api.github.com/repos/ekoeryanto/vuepress-plugin-sitemap/git/commits{/sha}
@@ -53,11 +53,11 @@ merges_url: https://api.github.com/repos/ekoeryanto/vuepress-plugin-sitemap/merg
 milestones_url: https://api.github.com/repos/ekoeryanto/vuepress-plugin-sitemap/milestones{/number}
 mirror_url: null
 name: vuepress-plugin-sitemap
-network_count: 9
+network_count: 8
 node_id: MDEwOlJlcG9zaXRvcnkxNTA3ODI4MTM=
 notifications_url: https://api.github.com/repos/ekoeryanto/vuepress-plugin-sitemap/notifications{?since,all,participating}
-open_issues: 7
-open_issues_count: 7
+open_issues: 5
+open_issues_count: 5
 owner:
   avatar_url: https://avatars0.githubusercontent.com/u/36023898?v=4
   events_url: https://api.github.com/users/ekoeryanto/events{/privacy}
@@ -83,11 +83,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/ekoeryanto/vuepress-plugin-sitemap/pulls{/number}
-pushed_at: '2020-05-15T09:59:18Z'
+pushed_at: '2020-05-22T13:56:17Z'
 releases_url: https://api.github.com/repos/ekoeryanto/vuepress-plugin-sitemap/releases{/id}
-size: 142
+size: 144
 ssh_url: git@github.com:ekoeryanto/vuepress-plugin-sitemap.git
-stargazers_count: 63
+stargazers_count: 65
 stargazers_url: https://api.github.com/repos/ekoeryanto/vuepress-plugin-sitemap/stargazers
 statuses_url: https://api.github.com/repos/ekoeryanto/vuepress-plugin-sitemap/statuses/{sha}
 subscribers_count: 3
@@ -98,15 +98,16 @@ tags_url: https://api.github.com/repos/ekoeryanto/vuepress-plugin-sitemap/tags
 teams_url: https://api.github.com/repos/ekoeryanto/vuepress-plugin-sitemap/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/ekoeryanto/vuepress-plugin-sitemap/git/trees{/sha}
-updated_at: '2020-04-20T22:16:22Z'
+updated_at: '2020-06-02T11:41:59Z'
 url: https://api.github.com/repos/ekoeryanto/vuepress-plugin-sitemap
-watchers: 63
-watchers_count: 63
+watchers: 65
+watchers_count: 65
 ---
 
 # vuepress-plugin-sitemap
 
 Sitemap generator plugin for vuepress.
+
 
 ## Install
 
@@ -123,6 +124,7 @@ Sitemap generator plugin for vuepress.
   ```
 
 > in v2.0.0, dependencies except `sitemap` are moved to peerDependencies so we need to install `esm` module manually (`chalk` and `commander` are already installed by `vuepress`) when we use this plugin with *cli method*.
+
 
 ## Usage
 
@@ -161,6 +163,7 @@ There's no plugin supported with Vuepress v0.x so we need to run it after the bu
    }
    ```
 
+
 ## Options
 
 ```yml
@@ -184,7 +187,7 @@ urls:
   default: [],
   description: custom urls to append
   example: [
-    { url: '/place', changefreq: 'montly'}
+    { url: '/place', changefreq: 'monthly' }
   ]
 
 exclude:
@@ -201,9 +204,12 @@ dateFormatter:
   default: time => new Date(time).toISOString()
 ```
 
+
 ## Frontmatter Options
+
 To override global option for a specific page, we can use `sitemap` key on the frontmatter,
 currently we just have 2 options, they are `exclude` and `changefreq`.
+
 
 ### Example
 
@@ -219,9 +225,11 @@ sitemap:
 **Note:**
 Other options of [sitemap](https://npm.im/sitemap) can be used, all options passed except `urls`, `hostname`, `cacheTime`, `xslUrl`, `xmlNs` and `outFile` will be passed to `sitemap.createSitemap` constructor.
 
+
 ## Related Plugins
 
 * [Server Push Links Generator](https://github.com/ekoeryanto/vuepress-plugin-server-push)
+
 
 ## Credits
 * [JetBrains s.r.o](https://www.jetbrains.com/?from=vuepress-plugin-sitemap)

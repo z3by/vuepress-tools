@@ -1,124 +1,126 @@
 ---
-archive_url: https://api.github.com/repos/onnezezt/vuepress-theme-minimalism/{archive_format}{/ref}
+archive_url: https://api.github.com/repos/sogud/vuepress-theme-minimalism/{archive_format}{/ref}
 archived: false
-assignees_url: https://api.github.com/repos/onnezezt/vuepress-theme-minimalism/assignees{/user}
-blobs_url: https://api.github.com/repos/onnezezt/vuepress-theme-minimalism/git/blobs{/sha}
-branches_url: https://api.github.com/repos/onnezezt/vuepress-theme-minimalism/branches{/branch}
-clone_url: https://github.com/onnezezt/vuepress-theme-minimalism.git
-collaborators_url: https://api.github.com/repos/onnezezt/vuepress-theme-minimalism/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/onnezezt/vuepress-theme-minimalism/comments{/number}
-commits_url: https://api.github.com/repos/onnezezt/vuepress-theme-minimalism/commits{/sha}
-compare_url: https://api.github.com/repos/onnezezt/vuepress-theme-minimalism/compare/{base}...{head}
-contents_url: https://api.github.com/repos/onnezezt/vuepress-theme-minimalism/contents/{+path}
-contributors_url: https://api.github.com/repos/onnezezt/vuepress-theme-minimalism/contributors
+assignees_url: https://api.github.com/repos/sogud/vuepress-theme-minimalism/assignees{/user}
+blobs_url: https://api.github.com/repos/sogud/vuepress-theme-minimalism/git/blobs{/sha}
+branches_url: https://api.github.com/repos/sogud/vuepress-theme-minimalism/branches{/branch}
+clone_url: https://github.com/sogud/vuepress-theme-minimalism.git
+collaborators_url: https://api.github.com/repos/sogud/vuepress-theme-minimalism/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/sogud/vuepress-theme-minimalism/comments{/number}
+commits_url: https://api.github.com/repos/sogud/vuepress-theme-minimalism/commits{/sha}
+compare_url: https://api.github.com/repos/sogud/vuepress-theme-minimalism/compare/{base}...{head}
+contents_url: https://api.github.com/repos/sogud/vuepress-theme-minimalism/contents/{+path}
+contributors_url: https://api.github.com/repos/sogud/vuepress-theme-minimalism/contributors
 created_at: '2020-01-22T04:12:46Z'
 default_branch: master
-deployments_url: https://api.github.com/repos/onnezezt/vuepress-theme-minimalism/deployments
+deployments_url: https://api.github.com/repos/sogud/vuepress-theme-minimalism/deployments
 description: "A concise vuepress theme, compatible with hexo YAML front matter syntax.\
-  \ \u4E00\u6B3E\u7B80\u6D01\u7684 vuepress \u4E3B\u9898\uFF0C\u517C\u5BB9 hexo YAML\
-  \ front matter \u8BED\u6CD5\u3002"
+  \ \u4E00\u6B3E\u7B80\u6D01\u7684 vuepress \u4E3B\u9898\u3002"
 disabled: false
-downloads_url: https://api.github.com/repos/onnezezt/vuepress-theme-minimalism/downloads
-events_url: https://api.github.com/repos/onnezezt/vuepress-theme-minimalism/events
+downloads_url: https://api.github.com/repos/sogud/vuepress-theme-minimalism/downloads
+events_url: https://api.github.com/repos/sogud/vuepress-theme-minimalism/events
 fork: false
 forks: 1
 forks_count: 1
-forks_url: https://api.github.com/repos/onnezezt/vuepress-theme-minimalism/forks
-full_name: onnezezt/vuepress-theme-minimalism
-git_commits_url: https://api.github.com/repos/onnezezt/vuepress-theme-minimalism/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/onnezezt/vuepress-theme-minimalism/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/onnezezt/vuepress-theme-minimalism/git/tags{/sha}
-git_url: git://github.com/onnezezt/vuepress-theme-minimalism.git
+forks_url: https://api.github.com/repos/sogud/vuepress-theme-minimalism/forks
+full_name: sogud/vuepress-theme-minimalism
+git_commits_url: https://api.github.com/repos/sogud/vuepress-theme-minimalism/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/sogud/vuepress-theme-minimalism/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/sogud/vuepress-theme-minimalism/git/tags{/sha}
+git_url: git://github.com/sogud/vuepress-theme-minimalism.git
 has_downloads: true
 has_issues: true
 has_pages: false
 has_projects: true
 has_wiki: true
 homepage: https://1net.world
-hooks_url: https://api.github.com/repos/onnezezt/vuepress-theme-minimalism/hooks
-html_url: https://github.com/onnezezt/vuepress-theme-minimalism
+hooks_url: https://api.github.com/repos/sogud/vuepress-theme-minimalism/hooks
+html_url: https://github.com/sogud/vuepress-theme-minimalism
 id: 235496528
-issue_comment_url: https://api.github.com/repos/onnezezt/vuepress-theme-minimalism/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/onnezezt/vuepress-theme-minimalism/issues/events{/number}
-issues_url: https://api.github.com/repos/onnezezt/vuepress-theme-minimalism/issues{/number}
-keys_url: https://api.github.com/repos/onnezezt/vuepress-theme-minimalism/keys{/key_id}
-labels_url: https://api.github.com/repos/onnezezt/vuepress-theme-minimalism/labels{/name}
+issue_comment_url: https://api.github.com/repos/sogud/vuepress-theme-minimalism/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/sogud/vuepress-theme-minimalism/issues/events{/number}
+issues_url: https://api.github.com/repos/sogud/vuepress-theme-minimalism/issues{/number}
+keys_url: https://api.github.com/repos/sogud/vuepress-theme-minimalism/keys{/key_id}
+labels_url: https://api.github.com/repos/sogud/vuepress-theme-minimalism/labels{/name}
 language: CSS
-languages_url: https://api.github.com/repos/onnezezt/vuepress-theme-minimalism/languages
+languages_url: https://api.github.com/repos/sogud/vuepress-theme-minimalism/languages
 license:
   key: mit
   name: MIT License
   node_id: MDc6TGljZW5zZTEz
   spdx_id: MIT
   url: https://api.github.com/licenses/mit
-merges_url: https://api.github.com/repos/onnezezt/vuepress-theme-minimalism/merges
-milestones_url: https://api.github.com/repos/onnezezt/vuepress-theme-minimalism/milestones{/number}
+merges_url: https://api.github.com/repos/sogud/vuepress-theme-minimalism/merges
+milestones_url: https://api.github.com/repos/sogud/vuepress-theme-minimalism/milestones{/number}
 mirror_url: null
 name: vuepress-theme-minimalism
 network_count: 1
 node_id: MDEwOlJlcG9zaXRvcnkyMzU0OTY1Mjg=
-notifications_url: https://api.github.com/repos/onnezezt/vuepress-theme-minimalism/notifications{?since,all,participating}
+notifications_url: https://api.github.com/repos/sogud/vuepress-theme-minimalism/notifications{?since,all,participating}
 open_issues: 0
 open_issues_count: 0
 owner:
   avatar_url: https://avatars0.githubusercontent.com/u/20726419?v=4
-  events_url: https://api.github.com/users/onnezezt/events{/privacy}
-  followers_url: https://api.github.com/users/onnezezt/followers
-  following_url: https://api.github.com/users/onnezezt/following{/other_user}
-  gists_url: https://api.github.com/users/onnezezt/gists{/gist_id}
+  events_url: https://api.github.com/users/sogud/events{/privacy}
+  followers_url: https://api.github.com/users/sogud/followers
+  following_url: https://api.github.com/users/sogud/following{/other_user}
+  gists_url: https://api.github.com/users/sogud/gists{/gist_id}
   gravatar_id: ''
-  html_url: https://github.com/onnezezt
+  html_url: https://github.com/sogud
   id: 20726419
-  login: onnezezt
+  login: sogud
   node_id: MDQ6VXNlcjIwNzI2NDE5
-  organizations_url: https://api.github.com/users/onnezezt/orgs
-  received_events_url: https://api.github.com/users/onnezezt/received_events
-  repos_url: https://api.github.com/users/onnezezt/repos
+  organizations_url: https://api.github.com/users/sogud/orgs
+  received_events_url: https://api.github.com/users/sogud/received_events
+  repos_url: https://api.github.com/users/sogud/repos
   site_admin: false
-  starred_url: https://api.github.com/users/onnezezt/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/onnezezt/subscriptions
+  starred_url: https://api.github.com/users/sogud/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/sogud/subscriptions
   type: User
-  url: https://api.github.com/users/onnezezt
+  url: https://api.github.com/users/sogud
 permissions:
   admin: false
   pull: true
   push: false
 private: false
-pulls_url: https://api.github.com/repos/onnezezt/vuepress-theme-minimalism/pulls{/number}
-pushed_at: '2020-05-13T09:42:35Z'
-releases_url: https://api.github.com/repos/onnezezt/vuepress-theme-minimalism/releases{/id}
-size: 282
-ssh_url: git@github.com:onnezezt/vuepress-theme-minimalism.git
-stargazers_count: 9
-stargazers_url: https://api.github.com/repos/onnezezt/vuepress-theme-minimalism/stargazers
-statuses_url: https://api.github.com/repos/onnezezt/vuepress-theme-minimalism/statuses/{sha}
+pulls_url: https://api.github.com/repos/sogud/vuepress-theme-minimalism/pulls{/number}
+pushed_at: '2020-05-22T09:40:42Z'
+releases_url: https://api.github.com/repos/sogud/vuepress-theme-minimalism/releases{/id}
+size: 294
+ssh_url: git@github.com:sogud/vuepress-theme-minimalism.git
+stargazers_count: 14
+stargazers_url: https://api.github.com/repos/sogud/vuepress-theme-minimalism/stargazers
+statuses_url: https://api.github.com/repos/sogud/vuepress-theme-minimalism/statuses/{sha}
 subscribers_count: 0
-subscribers_url: https://api.github.com/repos/onnezezt/vuepress-theme-minimalism/subscribers
-subscription_url: https://api.github.com/repos/onnezezt/vuepress-theme-minimalism/subscription
-svn_url: https://github.com/onnezezt/vuepress-theme-minimalism
-tags_url: https://api.github.com/repos/onnezezt/vuepress-theme-minimalism/tags
-teams_url: https://api.github.com/repos/onnezezt/vuepress-theme-minimalism/teams
+subscribers_url: https://api.github.com/repos/sogud/vuepress-theme-minimalism/subscribers
+subscription_url: https://api.github.com/repos/sogud/vuepress-theme-minimalism/subscription
+svn_url: https://github.com/sogud/vuepress-theme-minimalism
+tags_url: https://api.github.com/repos/sogud/vuepress-theme-minimalism/tags
+teams_url: https://api.github.com/repos/sogud/vuepress-theme-minimalism/teams
 temp_clone_token: ''
-trees_url: https://api.github.com/repos/onnezezt/vuepress-theme-minimalism/git/trees{/sha}
-updated_at: '2020-05-13T09:42:37Z'
-url: https://api.github.com/repos/onnezezt/vuepress-theme-minimalism
-watchers: 9
-watchers_count: 9
+trees_url: https://api.github.com/repos/sogud/vuepress-theme-minimalism/git/trees{/sha}
+updated_at: '2020-06-08T05:13:52Z'
+url: https://api.github.com/repos/sogud/vuepress-theme-minimalism
+watchers: 14
+watchers_count: 14
 ---
 
 # vuepress-theme-minimalism
+[中文](https://github.com/onnezezt/vuepress-theme-minimalism/blob/master/Zh.md)
 
-![NPM](https://img.shields.io/npm/l/vuepress-theme-minimalism) ![npm](https://img.shields.io/npm/v/vuepress-theme-minimalism) ![npm](https://img.shields.io/npm/dt/vuepress-theme-minimalism)
+![NPM](https://img.shields.io/npm/l/vuepress-theme-minimalism) 
+<a href="https://www.npmjs.com/package/vuepress-theme-minimalism"> <img src="https://img.shields.io/npm/v/vuepress-theme-minimalism" alt=""></a>
+<a href="https://www.npmjs.com/package/vuepress-theme-minimalism"> <img src="https://img.shields.io/npm/dt/vuepress-theme-minimalism" alt=""></a>
 
-## 介绍
+## introduction
 
-一款简洁的 vuepress 主题，兼容 hexo YAML front matter 语法。
+A minimalist vuepress theme, compatible with hexo YAML front matter syntax.
 
-预览地址：https://1net.world
+preview：https://1net.world
 
-## 快速上手
+## Quick Start
 
-#### 安装
+#### install
 
 ```
 npm i -S vuepress-theme-minimalism
@@ -126,7 +128,7 @@ or
 yarn add vuepress-theme-minimalism
 ```
 
-- 在 config.js 使用 theme。
+- Use theme in config.js.
 
 ```js
 module.exports = {
@@ -136,26 +138,26 @@ module.exports = {
 }
 ```
 
-- 新建 _posts 文件夹，文章写在 _posts 目录,因为该主题根据 _posts 文件夹下内容进行编译。注：文件夹名称区分大小写。
+- new _posts folder, article written in _posts directory, as the topic is compiled based on the content under the _posts folder. Note: Folder names are case-sensitive.
 
-#### 目录结构
+#### Directory Structure
 
 ```
 .
 ├── docs
-│   ├── .vuepress #vuepress配置文件夹
-│   ├── _posts #文章存放文件夹
+│   ├── .vuepress #vuepress configuration folder
+│   ├── _posts #Article Storage Folder
 ├── package.json
 └── yarn.lock
 ```
 
-#### 书写
+#### write
 
-开始写一篇博客，书写正确的格式如下：
+Start writing a blog that is written in the correct format as follows.：
 
 ```markdown
 ---
-title: vuepress主题配置
+title: vuepress
 tags:
   - vuepress
   - markdown
@@ -163,26 +165,26 @@ tags:
 
 # vuepress-theme-minimalism
 
-## 介绍
+##  introduction
 
-一款简洁的 vuepress 主题，兼容 hexo YAML front matter 语法。
+A minimalist vuepress theme, compatible with hexo YAML front matter syntax.
 ```
 
-## 主题配置
+## Theme configuration
 
-#### 主题颜色配置
+#### Theme color configuration
 
-.vuepress 目录下新建 styles 文件夹，新建 palette.styl 配置 css 变量。
+New styles folder in .vuepress directory, new palette.styl Configure css variables.
 
-目前支持以下几个颜色配置：
+The following color configurations are currently supported.
 
 ``` stylus
-$accentColor = #31837c //主题色
-$textColor = #2c3e50 //文字颜色
-$nprogressColor = #399c9c //nprogress颜色
+$accentColor = #31837c 
+$textColor = #2c3e50 
+$nprogressColor = #399c9c 
 ```
 
-#### config.js 配置
+#### config.js configuration
 
 ```js
 module.exports = {
@@ -192,28 +194,29 @@ module.exports = {
   description: 'description...',
   themeConfig: {
     headerText: {
-      //deader 文字
+      //deader text
       index: 'ホーム',
       all: '一覧',
       tags: 'カテゴリー',
       timeline: 'タイムライン',
       seacrh: '探す'
     },
-    //footer 文字
+    //footer text
     footerText:
       '©2020 Power by <a href="https://vuepress.vuejs.org">VuePress</a> <a href="https://github.com/onnezezt/vuepress-theme-minimalism">Theme minimalism</a>',
     homeBackground: {
-      //首页背景颜色
-      //设置主页背景颜色，false title为默认颜色
+      //Home Background Color
+      //Set home page background color, false title is the default color
       show: true,
-      fileName: '/xxx.jpg' // 背景图片名称，存放在public目录下
+      fileName: '/xxx.jpg' // Background image name, stored in the public directory
     },
-    PostsListPopover: false, //是否显示文章内容提示
+    PostsListPopover: false, //Whether to display the article content prompt
+
     darkMode: {
-      //暗模式配置
-      switch: true, //开关
-      auto: true, //自动开启
-      on: '18', //时间
+      //dark mode configuration
+      switch: true, 
+      auto: true, //automatic start
+      on: '18', //Time.
       off: '6'
     },
     vssue: {
@@ -223,11 +226,11 @@ module.exports = {
         owner: 'onnezezt',
         repo: 'onnezezt.github.io',
         clientId: 'xxxx',
-        clientSecret: 'xxxx' // 只有在使用某些平台时需要
+        clientSecret: 'xxxx' // It is only necessary to use certain platforms
       }
     }，
     disqus: {
-      //开启disqus评论
+      //use disqus reviews.
       use: false,
       option: {
         name: 'xxx' // Replace PAGE_URL with your page's canonical URL variable

@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/yscoder/vuepress-theme-indigo/downloads
 events_url: https://api.github.com/repos/yscoder/vuepress-theme-indigo/events
 fork: false
-forks: 26
-forks_count: 26
+forks: 25
+forks_count: 25
 forks_url: https://api.github.com/repos/yscoder/vuepress-theme-indigo/forks
 full_name: yscoder/vuepress-theme-indigo
 git_commits_url: https://api.github.com/repos/yscoder/vuepress-theme-indigo/git/commits{/sha}
@@ -53,7 +53,7 @@ merges_url: https://api.github.com/repos/yscoder/vuepress-theme-indigo/merges
 milestones_url: https://api.github.com/repos/yscoder/vuepress-theme-indigo/milestones{/number}
 mirror_url: null
 name: vuepress-theme-indigo
-network_count: 26
+network_count: 25
 node_id: MDEwOlJlcG9zaXRvcnkxMjk0OTcxODY=
 notifications_url: https://api.github.com/repos/yscoder/vuepress-theme-indigo/notifications{?since,all,participating}
 open_issues: 4
@@ -90,7 +90,7 @@ ssh_url: git@github.com:yscoder/vuepress-theme-indigo.git
 stargazers_count: 87
 stargazers_url: https://api.github.com/repos/yscoder/vuepress-theme-indigo/stargazers
 statuses_url: https://api.github.com/repos/yscoder/vuepress-theme-indigo/statuses/{sha}
-subscribers_count: 2
+subscribers_count: 3
 subscribers_url: https://api.github.com/repos/yscoder/vuepress-theme-indigo/subscribers
 subscription_url: https://api.github.com/repos/yscoder/vuepress-theme-indigo/subscription
 svn_url: https://github.com/yscoder/vuepress-theme-indigo

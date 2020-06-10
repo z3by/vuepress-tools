@@ -87,7 +87,7 @@ pushed_at: '2020-05-16T21:22:10Z'
 releases_url: https://api.github.com/repos/tjventurini/vuepress-plugin-zengarden-tags/releases{/id}
 size: 3
 ssh_url: git@github.com:tjventurini/vuepress-plugin-zengarden-tags.git
-stargazers_count: 0
+stargazers_count: 1
 stargazers_url: https://api.github.com/repos/tjventurini/vuepress-plugin-zengarden-tags/stargazers
 statuses_url: https://api.github.com/repos/tjventurini/vuepress-plugin-zengarden-tags/statuses/{sha}
 subscribers_count: 1
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/tjventurini/vuepress-plugin-zengarden-tag
 teams_url: https://api.github.com/repos/tjventurini/vuepress-plugin-zengarden-tags/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/tjventurini/vuepress-plugin-zengarden-tags/git/trees{/sha}
-updated_at: '2020-05-16T21:22:13Z'
+updated_at: '2020-05-30T17:00:01Z'
 url: https://api.github.com/repos/tjventurini/vuepress-plugin-zengarden-tags
-watchers: 0
-watchers_count: 0
+watchers: 1
+watchers_count: 1
 ---
 
 # VuePress Plugin Zengarden Tags

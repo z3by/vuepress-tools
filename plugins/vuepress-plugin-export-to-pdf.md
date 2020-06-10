@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/petr-chelpanov/vuepress-plugin-export-to-pdf/downloads
 events_url: https://api.github.com/repos/petr-chelpanov/vuepress-plugin-export-to-pdf/events
 fork: false
-forks: 0
-forks_count: 0
+forks: 1
+forks_count: 1
 forks_url: https://api.github.com/repos/petr-chelpanov/vuepress-plugin-export-to-pdf/forks
 full_name: petr-chelpanov/vuepress-plugin-export-to-pdf
 git_commits_url: https://api.github.com/repos/petr-chelpanov/vuepress-plugin-export-to-pdf/git/commits{/sha}
@@ -53,7 +53,7 @@ merges_url: https://api.github.com/repos/petr-chelpanov/vuepress-plugin-export-t
 milestones_url: https://api.github.com/repos/petr-chelpanov/vuepress-plugin-export-to-pdf/milestones{/number}
 mirror_url: null
 name: vuepress-plugin-export-to-pdf
-network_count: 0
+network_count: 1
 node_id: MDEwOlJlcG9zaXRvcnkxOTYyMDg2OTA=
 notifications_url: https://api.github.com/repos/petr-chelpanov/vuepress-plugin-export-to-pdf/notifications{?since,all,participating}
 open_issues: 0

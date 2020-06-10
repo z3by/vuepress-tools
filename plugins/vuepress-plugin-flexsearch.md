@@ -60,8 +60,8 @@ name: vuepress-plugin-flexsearch
 network_count: 5
 node_id: MDEwOlJlcG9zaXRvcnkyMzM5MzIzMzk=
 notifications_url: https://api.github.com/repos/z3by/vuepress-plugin-flexsearch/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
+open_issues: 4
+open_issues_count: 4
 owner:
   avatar_url: https://avatars1.githubusercontent.com/u/36268825?v=4
   events_url: https://api.github.com/users/z3by/events{/privacy}
@@ -87,11 +87,11 @@ permissions:
   push: true
 private: false
 pulls_url: https://api.github.com/repos/z3by/vuepress-plugin-flexsearch/pulls{/number}
-pushed_at: '2020-05-09T05:06:31Z'
+pushed_at: '2020-06-07T18:19:01Z'
 releases_url: https://api.github.com/repos/z3by/vuepress-plugin-flexsearch/releases{/id}
-size: 508
+size: 731
 ssh_url: git@github.com:z3by/vuepress-plugin-flexsearch.git
-stargazers_count: 11
+stargazers_count: 12
 stargazers_url: https://api.github.com/repos/z3by/vuepress-plugin-flexsearch/stargazers
 statuses_url: https://api.github.com/repos/z3by/vuepress-plugin-flexsearch/statuses/{sha}
 subscribers_count: 3
@@ -102,10 +102,10 @@ tags_url: https://api.github.com/repos/z3by/vuepress-plugin-flexsearch/tags
 teams_url: https://api.github.com/repos/z3by/vuepress-plugin-flexsearch/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/z3by/vuepress-plugin-flexsearch/git/trees{/sha}
-updated_at: '2020-05-09T05:06:34Z'
+updated_at: '2020-06-04T01:55:09Z'
 url: https://api.github.com/repos/z3by/vuepress-plugin-flexsearch
-watchers: 11
-watchers_count: 11
+watchers: 12
+watchers_count: 12
 ---
 
 [![https://badgen.net/npm/v/vuepress-plugin-flexsearch](https://badgen.net/npm/v/vuepress-plugin-flexsearch)](https://www.npmjs.com/package/vuepress-plugin-flexsearch)

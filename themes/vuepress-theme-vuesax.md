@@ -51,8 +51,8 @@ name: vuepress-theme-vuesax
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyNTU2MDkxMTE=
 notifications_url: https://api.github.com/repos/lq782655835/vuepress-theme-vuesax/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
+open_issues: 1
+open_issues_count: 1
 owner:
   avatar_url: https://avatars2.githubusercontent.com/u/6310131?v=4
   events_url: https://api.github.com/users/lq782655835/events{/privacy}
@@ -78,9 +78,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/lq782655835/vuepress-theme-vuesax/pulls{/number}
-pushed_at: '2020-05-07T12:49:10Z'
+pushed_at: '2020-06-08T03:21:07Z'
 releases_url: https://api.github.com/repos/lq782655835/vuepress-theme-vuesax/releases{/id}
-size: 1112
+size: 1256
 ssh_url: git@github.com:lq782655835/vuepress-theme-vuesax.git
 stargazers_count: 2
 stargazers_url: https://api.github.com/repos/lq782655835/vuepress-theme-vuesax/stargazers

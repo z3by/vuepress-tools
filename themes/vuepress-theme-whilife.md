@@ -88,7 +88,7 @@ pushed_at: '2019-11-22T12:15:57Z'
 releases_url: https://api.github.com/repos/yuzibe/vuepress-theme-whilife/releases{/id}
 size: 141
 ssh_url: git@github.com:yuzibe/vuepress-theme-whilife.git
-stargazers_count: 1
+stargazers_count: 2
 stargazers_url: https://api.github.com/repos/yuzibe/vuepress-theme-whilife/stargazers
 statuses_url: https://api.github.com/repos/yuzibe/vuepress-theme-whilife/statuses/{sha}
 subscribers_count: 1
@@ -99,10 +99,10 @@ tags_url: https://api.github.com/repos/yuzibe/vuepress-theme-whilife/tags
 teams_url: https://api.github.com/repos/yuzibe/vuepress-theme-whilife/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/yuzibe/vuepress-theme-whilife/git/trees{/sha}
-updated_at: '2019-11-22T12:15:59Z'
+updated_at: '2020-06-02T14:27:46Z'
 url: https://api.github.com/repos/yuzibe/vuepress-theme-whilife
-watchers: 1
-watchers_count: 1
+watchers: 2
+watchers_count: 2
 ---
 
 

@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo/downloads
 events_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo/events
 fork: false
-forks: 5
-forks_count: 5
+forks: 4
+forks_count: 4
 forks_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo/forks
 full_name: lorisleiva/vuepress-plugin-seo
 git_commits_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo/git/commits{/sha}
@@ -53,11 +53,11 @@ merges_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo/merges
 milestones_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo/milestones{/number}
 mirror_url: null
 name: vuepress-plugin-seo
-network_count: 5
+network_count: 4
 node_id: MDEwOlJlcG9zaXRvcnkxNjY0MTg4Nzg=
 notifications_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo/notifications{?since,all,participating}
-open_issues: 3
-open_issues_count: 3
+open_issues: 2
+open_issues_count: 2
 owner:
   avatar_url: https://avatars1.githubusercontent.com/u/3642397?v=4
   events_url: https://api.github.com/users/lorisleiva/events{/privacy}
@@ -83,14 +83,14 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo/pulls{/number}
-pushed_at: '2020-05-17T21:41:51Z'
+pushed_at: '2020-05-23T07:29:35Z'
 releases_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo/releases{/id}
-size: 8
+size: 11
 ssh_url: git@github.com:lorisleiva/vuepress-plugin-seo.git
-stargazers_count: 71
+stargazers_count: 77
 stargazers_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo/stargazers
 statuses_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo/statuses/{sha}
-subscribers_count: 2
+subscribers_count: 3
 subscribers_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo/subscribers
 subscription_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo/subscription
 svn_url: https://github.com/lorisleiva/vuepress-plugin-seo
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo/tags
 teams_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo/git/trees{/sha}
-updated_at: '2020-05-17T21:41:53Z'
+updated_at: '2020-05-31T11:32:47Z'
 url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo
-watchers: 71
-watchers_count: 71
+watchers: 77
+watchers_count: 77
 ---
 
 # Vuepress Plugin SEO
@@ -173,7 +173,7 @@ Finally you can also add your own custom meta headers through the `customMeta` o
             twitterCard, type, url, image, publishedAt, modifiedAt,
         } = context
 
-        add('twitter:site', $site.themeConfigs.twitter)
+        add('twitter:site', $site.themeConfig.twitter)
         // -> <meta name="twitter:site" content="@github"></meta>
 
         add('book:isbn', '9780091929114', 'property')

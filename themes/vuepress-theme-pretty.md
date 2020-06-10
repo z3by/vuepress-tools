@@ -56,8 +56,8 @@ name: vuepress-theme-pretty
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyMjYyOTgwNDQ=
 notifications_url: https://api.github.com/repos/yywc/vuepress-theme-pretty/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
+open_issues: 2
+open_issues_count: 2
 owner:
   avatar_url: https://avatars1.githubusercontent.com/u/18376480?v=4
   events_url: https://api.github.com/users/yywc/events{/privacy}
@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/yywc/vuepress-theme-pretty/pulls{/number}
-pushed_at: '2020-03-14T16:33:58Z'
+pushed_at: '2020-06-07T14:37:27Z'
 releases_url: https://api.github.com/repos/yywc/vuepress-theme-pretty/releases{/id}
-size: 274
+size: 417
 ssh_url: git@github.com:yywc/vuepress-theme-pretty.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/yywc/vuepress-theme-pretty/stargazers

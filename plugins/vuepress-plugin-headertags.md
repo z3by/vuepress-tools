@@ -101,7 +101,7 @@ pushed_at: '2020-04-10T19:57:14Z'
 releases_url: https://api.github.com/repos/Aphorica/vuepress-plugin-headertags/releases{/id}
 size: 3
 ssh_url: git@github.com:Aphorica/vuepress-plugin-headertags.git
-stargazers_count: 0
+stargazers_count: 1
 stargazers_url: https://api.github.com/repos/Aphorica/vuepress-plugin-headertags/stargazers
 statuses_url: https://api.github.com/repos/Aphorica/vuepress-plugin-headertags/statuses/{sha}
 subscribers_count: 1
@@ -112,10 +112,10 @@ tags_url: https://api.github.com/repos/Aphorica/vuepress-plugin-headertags/tags
 teams_url: https://api.github.com/repos/Aphorica/vuepress-plugin-headertags/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/Aphorica/vuepress-plugin-headertags/git/trees{/sha}
-updated_at: '2020-04-10T19:57:16Z'
+updated_at: '2020-05-30T22:57:39Z'
 url: https://api.github.com/repos/Aphorica/vuepress-plugin-headertags
-watchers: 0
-watchers_count: 0
+watchers: 1
+watchers_count: 1
 ---
 
 # vuepress-plugin-headertags

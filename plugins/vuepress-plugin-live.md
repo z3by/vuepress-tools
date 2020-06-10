@@ -102,11 +102,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/vue-styleguidist/vuepress-plugin-live/pulls{/number}
-pushed_at: '2020-04-20T15:31:54Z'
+pushed_at: '2020-06-06T19:29:45Z'
 releases_url: https://api.github.com/repos/vue-styleguidist/vuepress-plugin-live/releases{/id}
-size: 532
+size: 655
 ssh_url: git@github.com:vue-styleguidist/vuepress-plugin-live.git
-stargazers_count: 20
+stargazers_count: 21
 stargazers_url: https://api.github.com/repos/vue-styleguidist/vuepress-plugin-live/stargazers
 statuses_url: https://api.github.com/repos/vue-styleguidist/vuepress-plugin-live/statuses/{sha}
 subscribers_count: 2
@@ -117,10 +117,10 @@ tags_url: https://api.github.com/repos/vue-styleguidist/vuepress-plugin-live/tag
 teams_url: https://api.github.com/repos/vue-styleguidist/vuepress-plugin-live/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/vue-styleguidist/vuepress-plugin-live/git/trees{/sha}
-updated_at: '2020-04-29T13:40:30Z'
+updated_at: '2020-06-06T19:29:41Z'
 url: https://api.github.com/repos/vue-styleguidist/vuepress-plugin-live
-watchers: 20
-watchers_count: 20
+watchers: 21
+watchers_count: 21
 ---
 
 # vuepress-plugin-live

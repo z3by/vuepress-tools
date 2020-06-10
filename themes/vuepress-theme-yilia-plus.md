@@ -88,7 +88,7 @@ pushed_at: '2019-09-23T03:00:02Z'
 releases_url: https://api.github.com/repos/JoeyBling/vuepress-theme-yilia-plus/releases{/id}
 size: 438
 ssh_url: git@github.com:JoeyBling/vuepress-theme-yilia-plus.git
-stargazers_count: 10
+stargazers_count: 14
 stargazers_url: https://api.github.com/repos/JoeyBling/vuepress-theme-yilia-plus/stargazers
 statuses_url: https://api.github.com/repos/JoeyBling/vuepress-theme-yilia-plus/statuses/{sha}
 subscribers_count: 1
@@ -99,10 +99,10 @@ tags_url: https://api.github.com/repos/JoeyBling/vuepress-theme-yilia-plus/tags
 teams_url: https://api.github.com/repos/JoeyBling/vuepress-theme-yilia-plus/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/JoeyBling/vuepress-theme-yilia-plus/git/trees{/sha}
-updated_at: '2020-03-17T13:24:09Z'
+updated_at: '2020-06-05T02:33:11Z'
 url: https://api.github.com/repos/JoeyBling/vuepress-theme-yilia-plus
-watchers: 10
-watchers_count: 10
+watchers: 14
+watchers_count: 14
 ---
 
 # vuepress-theme-yilia-plus

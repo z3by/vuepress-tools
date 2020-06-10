@@ -20,8 +20,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/Chenyating/vuepress-theme-ting/downloads
 events_url: https://api.github.com/repos/Chenyating/vuepress-theme-ting/events
 fork: false
-forks: 3
-forks_count: 3
+forks: 4
+forks_count: 4
 forks_url: https://api.github.com/repos/Chenyating/vuepress-theme-ting/forks
 full_name: Chenyating/vuepress-theme-ting
 git_commits_url: https://api.github.com/repos/Chenyating/vuepress-theme-ting/git/commits{/sha}
@@ -49,11 +49,11 @@ merges_url: https://api.github.com/repos/Chenyating/vuepress-theme-ting/merges
 milestones_url: https://api.github.com/repos/Chenyating/vuepress-theme-ting/milestones{/number}
 mirror_url: null
 name: vuepress-theme-ting
-network_count: 3
+network_count: 4
 node_id: MDEwOlJlcG9zaXRvcnkyMjEyMDA0MzE=
 notifications_url: https://api.github.com/repos/Chenyating/vuepress-theme-ting/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
+open_issues: 2
+open_issues_count: 2
 owner:
   avatar_url: https://avatars2.githubusercontent.com/u/29857880?v=4
   events_url: https://api.github.com/users/Chenyating/events{/privacy}
@@ -79,11 +79,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/Chenyating/vuepress-theme-ting/pulls{/number}
-pushed_at: '2020-05-13T09:21:01Z'
+pushed_at: '2020-06-08T06:20:35Z'
 releases_url: https://api.github.com/repos/Chenyating/vuepress-theme-ting/releases{/id}
-size: 13777
+size: 13678
 ssh_url: git@github.com:Chenyating/vuepress-theme-ting.git
-stargazers_count: 36
+stargazers_count: 40
 stargazers_url: https://api.github.com/repos/Chenyating/vuepress-theme-ting/stargazers
 statuses_url: https://api.github.com/repos/Chenyating/vuepress-theme-ting/statuses/{sha}
 subscribers_count: 1
@@ -94,10 +94,10 @@ tags_url: https://api.github.com/repos/Chenyating/vuepress-theme-ting/tags
 teams_url: https://api.github.com/repos/Chenyating/vuepress-theme-ting/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/Chenyating/vuepress-theme-ting/git/trees{/sha}
-updated_at: '2020-05-16T09:45:44Z'
+updated_at: '2020-06-10T06:54:12Z'
 url: https://api.github.com/repos/Chenyating/vuepress-theme-ting
-watchers: 36
-watchers_count: 36
+watchers: 40
+watchers_count: 40
 ---
 
 # vuepress-theme-ting

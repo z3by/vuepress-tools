@@ -85,7 +85,7 @@ ssh_url: git@github.com:stickmy/vuepress-theme-yubisaki-example.git
 stargazers_count: 3
 stargazers_url: https://api.github.com/repos/stickmy/vuepress-theme-yubisaki-example/stargazers
 statuses_url: https://api.github.com/repos/stickmy/vuepress-theme-yubisaki-example/statuses/{sha}
-subscribers_count: 2
+subscribers_count: 1
 subscribers_url: https://api.github.com/repos/stickmy/vuepress-theme-yubisaki-example/subscribers
 subscription_url: https://api.github.com/repos/stickmy/vuepress-theme-yubisaki-example/subscription
 svn_url: https://github.com/stickmy/vuepress-theme-yubisaki-example

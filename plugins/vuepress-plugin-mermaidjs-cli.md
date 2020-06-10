@@ -91,7 +91,7 @@ ssh_url: git@github.com:gwleclerc/vuepress-plugin-mermaidjs-cli.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/gwleclerc/vuepress-plugin-mermaidjs-cli/stargazers
 statuses_url: https://api.github.com/repos/gwleclerc/vuepress-plugin-mermaidjs-cli/statuses/{sha}
-subscribers_count: 1
+subscribers_count: 2
 subscribers_url: https://api.github.com/repos/gwleclerc/vuepress-plugin-mermaidjs-cli/subscribers
 subscription_url: https://api.github.com/repos/gwleclerc/vuepress-plugin-mermaidjs-cli/subscription
 svn_url: https://github.com/gwleclerc/vuepress-plugin-mermaidjs-cli

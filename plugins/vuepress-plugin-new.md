@@ -56,8 +56,8 @@ name: vuepress-plugin-new
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkxOTQ5NzU2ODI=
 notifications_url: https://api.github.com/repos/x-bao/vuepress-plugin-new/notifications{?since,all,participating}
-open_issues: 2
-open_issues_count: 2
+open_issues: 3
+open_issues_count: 3
 owner:
   avatar_url: https://avatars2.githubusercontent.com/u/34507012?v=4
   events_url: https://api.github.com/users/x-bao/events{/privacy}
@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/x-bao/vuepress-plugin-new/pulls{/number}
-pushed_at: '2020-04-04T17:34:18Z'
+pushed_at: '2020-06-07T00:01:29Z'
 releases_url: https://api.github.com/repos/x-bao/vuepress-plugin-new/releases{/id}
-size: 928
+size: 1095
 ssh_url: git@github.com:x-bao/vuepress-plugin-new.git
 stargazers_count: 1
 stargazers_url: https://api.github.com/repos/x-bao/vuepress-plugin-new/stargazers

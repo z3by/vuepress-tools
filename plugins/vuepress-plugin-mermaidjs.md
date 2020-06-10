@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/eFrane/vuepress-plugin-mermaidjs/downloads
 events_url: https://api.github.com/repos/eFrane/vuepress-plugin-mermaidjs/events
 fork: false
-forks: 4
-forks_count: 4
+forks: 5
+forks_count: 5
 forks_url: https://api.github.com/repos/eFrane/vuepress-plugin-mermaidjs/forks
 full_name: eFrane/vuepress-plugin-mermaidjs
 git_commits_url: https://api.github.com/repos/eFrane/vuepress-plugin-mermaidjs/git/commits{/sha}
@@ -48,11 +48,11 @@ merges_url: https://api.github.com/repos/eFrane/vuepress-plugin-mermaidjs/merges
 milestones_url: https://api.github.com/repos/eFrane/vuepress-plugin-mermaidjs/milestones{/number}
 mirror_url: null
 name: vuepress-plugin-mermaidjs
-network_count: 4
+network_count: 5
 node_id: MDEwOlJlcG9zaXRvcnkyMTUyOTE3OTU=
 notifications_url: https://api.github.com/repos/eFrane/vuepress-plugin-mermaidjs/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
+open_issues: 1
+open_issues_count: 1
 owner:
   avatar_url: https://avatars3.githubusercontent.com/u/237165?v=4
   events_url: https://api.github.com/users/eFrane/events{/privacy}
@@ -78,11 +78,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/eFrane/vuepress-plugin-mermaidjs/pulls{/number}
-pushed_at: '2020-05-07T08:18:48Z'
+pushed_at: '2020-05-26T18:56:50Z'
 releases_url: https://api.github.com/repos/eFrane/vuepress-plugin-mermaidjs/releases{/id}
-size: 103
+size: 118
 ssh_url: git@github.com:eFrane/vuepress-plugin-mermaidjs.git
-stargazers_count: 15
+stargazers_count: 17
 stargazers_url: https://api.github.com/repos/eFrane/vuepress-plugin-mermaidjs/stargazers
 statuses_url: https://api.github.com/repos/eFrane/vuepress-plugin-mermaidjs/statuses/{sha}
 subscribers_count: 2
@@ -93,13 +93,14 @@ tags_url: https://api.github.com/repos/eFrane/vuepress-plugin-mermaidjs/tags
 teams_url: https://api.github.com/repos/eFrane/vuepress-plugin-mermaidjs/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/eFrane/vuepress-plugin-mermaidjs/git/trees{/sha}
-updated_at: '2020-05-07T08:18:50Z'
+updated_at: '2020-06-02T10:16:40Z'
 url: https://api.github.com/repos/eFrane/vuepress-plugin-mermaidjs
-watchers: 15
-watchers_count: 15
+watchers: 17
+watchers_count: 17
 ---
 
 [![npm version](https://badge.fury.io/js/vuepress-plugin-mermaidjs.svg)](https://badge.fury.io/js/vuepress-plugin-mermaidjs)
+[![Build Status](https://travis-ci.com/eFrane/vuepress-plugin-mermaidjs.svg?branch=master)](https://travis-ci.com/eFrane/vuepress-plugin-mermaidjs)
 
 # VuePress Plugin for mermaid.js
 

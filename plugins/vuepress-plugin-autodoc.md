@@ -56,8 +56,8 @@ name: vuepress-plugin-autodoc
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyNDY3MDgyNTg=
 notifications_url: https://api.github.com/repos/bprinty/vuepress-plugin-autodoc/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
+open_issues: 1
+open_issues_count: 1
 owner:
   avatar_url: https://avatars3.githubusercontent.com/u/3347800?v=4
   events_url: https://api.github.com/users/bprinty/events{/privacy}
@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/bprinty/vuepress-plugin-autodoc/pulls{/number}
-pushed_at: '2020-04-18T12:15:36Z'
+pushed_at: '2020-06-07T23:33:03Z'
 releases_url: https://api.github.com/repos/bprinty/vuepress-plugin-autodoc/releases{/id}
-size: 601
+size: 785
 ssh_url: git@github.com:bprinty/vuepress-plugin-autodoc.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/bprinty/vuepress-plugin-autodoc/stargazers

@@ -14,7 +14,7 @@ contributors_url: https://api.github.com/repos/markyong/vuepress-theme-stage/con
 created_at: '2020-05-16T15:40:09Z'
 default_branch: master
 deployments_url: https://api.github.com/repos/markyong/vuepress-theme-stage/deployments
-description: null
+description: Refreshing and comfortable theme for Vuepress
 disabled: false
 downloads_url: https://api.github.com/repos/markyong/vuepress-theme-stage/downloads
 events_url: https://api.github.com/repos/markyong/vuepress-theme-stage/events
@@ -32,7 +32,7 @@ has_issues: true
 has_pages: false
 has_projects: true
 has_wiki: true
-homepage: null
+homepage: ''
 hooks_url: https://api.github.com/repos/markyong/vuepress-theme-stage/hooks
 html_url: https://github.com/markyong/vuepress-theme-stage
 id: 264469288
@@ -51,8 +51,8 @@ name: vuepress-theme-stage
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyNjQ0NjkyODg=
 notifications_url: https://api.github.com/repos/markyong/vuepress-theme-stage/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
+open_issues: 1
+open_issues_count: 1
 owner:
   avatar_url: https://avatars2.githubusercontent.com/u/24327611?v=4
   events_url: https://api.github.com/users/markyong/events{/privacy}
@@ -78,9 +78,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/markyong/vuepress-theme-stage/pulls{/number}
-pushed_at: '2020-05-17T14:55:26Z'
+pushed_at: '2020-06-08T07:12:59Z'
 releases_url: https://api.github.com/repos/markyong/vuepress-theme-stage/releases{/id}
-size: 295
+size: 428
 ssh_url: git@github.com:markyong/vuepress-theme-stage.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/markyong/vuepress-theme-stage/stargazers
@@ -93,7 +93,7 @@ tags_url: https://api.github.com/repos/markyong/vuepress-theme-stage/tags
 teams_url: https://api.github.com/repos/markyong/vuepress-theme-stage/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/markyong/vuepress-theme-stage/git/trees{/sha}
-updated_at: '2020-05-17T14:55:28Z'
+updated_at: '2020-05-24T10:03:58Z'
 url: https://api.github.com/repos/markyong/vuepress-theme-stage
 watchers: 0
 watchers_count: 0

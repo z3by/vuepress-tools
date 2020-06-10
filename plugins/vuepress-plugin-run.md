@@ -51,8 +51,8 @@ name: vuepress-plugin-run
 network_count: 1
 node_id: MDEwOlJlcG9zaXRvcnkyMjYwOTEwNzc=
 notifications_url: https://api.github.com/repos/dream2023/vuepress-plugin-run/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
+open_issues: 2
+open_issues_count: 2
 owner:
   avatar_url: https://avatars0.githubusercontent.com/u/19297757?v=4
   events_url: https://api.github.com/users/dream2023/events{/privacy}
@@ -78,11 +78,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/dream2023/vuepress-plugin-run/pulls{/number}
-pushed_at: '2020-03-14T16:06:13Z'
+pushed_at: '2020-06-07T14:25:04Z'
 releases_url: https://api.github.com/repos/dream2023/vuepress-plugin-run/releases{/id}
-size: 461
+size: 573
 ssh_url: git@github.com:dream2023/vuepress-plugin-run.git
-stargazers_count: 9
+stargazers_count: 10
 stargazers_url: https://api.github.com/repos/dream2023/vuepress-plugin-run/stargazers
 statuses_url: https://api.github.com/repos/dream2023/vuepress-plugin-run/statuses/{sha}
 subscribers_count: 1
@@ -93,10 +93,10 @@ tags_url: https://api.github.com/repos/dream2023/vuepress-plugin-run/tags
 teams_url: https://api.github.com/repos/dream2023/vuepress-plugin-run/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/dream2023/vuepress-plugin-run/git/trees{/sha}
-updated_at: '2020-05-11T11:41:45Z'
+updated_at: '2020-05-20T02:59:14Z'
 url: https://api.github.com/repos/dream2023/vuepress-plugin-run
-watchers: 9
-watchers_count: 9
+watchers: 10
+watchers_count: 10
 ---
 
 # vuepress-plugin-run | vuepress 在线运行 Vue 单文件

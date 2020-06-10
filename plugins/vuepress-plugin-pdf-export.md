@@ -20,8 +20,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/SnowdogApps/vuepress-plugin-pdf-export/downloads
 events_url: https://api.github.com/repos/SnowdogApps/vuepress-plugin-pdf-export/events
 fork: false
-forks: 0
-forks_count: 0
+forks: 1
+forks_count: 1
 forks_url: https://api.github.com/repos/SnowdogApps/vuepress-plugin-pdf-export/forks
 full_name: SnowdogApps/vuepress-plugin-pdf-export
 git_commits_url: https://api.github.com/repos/SnowdogApps/vuepress-plugin-pdf-export/git/commits{/sha}
@@ -54,11 +54,11 @@ merges_url: https://api.github.com/repos/SnowdogApps/vuepress-plugin-pdf-export/
 milestones_url: https://api.github.com/repos/SnowdogApps/vuepress-plugin-pdf-export/milestones{/number}
 mirror_url: null
 name: vuepress-plugin-pdf-export
-network_count: 0
+network_count: 1
 node_id: MDEwOlJlcG9zaXRvcnkyNDgzMTY5NzU=
 notifications_url: https://api.github.com/repos/SnowdogApps/vuepress-plugin-pdf-export/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
+open_issues: 2
+open_issues_count: 2
 organization:
   avatar_url: https://avatars1.githubusercontent.com/u/1844298?v=4
   events_url: https://api.github.com/users/SnowdogApps/events{/privacy}
@@ -103,7 +103,7 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/SnowdogApps/vuepress-plugin-pdf-export/pulls{/number}
-pushed_at: '2020-03-18T21:11:16Z'
+pushed_at: '2020-06-09T13:46:19Z'
 releases_url: https://api.github.com/repos/SnowdogApps/vuepress-plugin-pdf-export/releases{/id}
 size: 28
 ssh_url: git@github.com:SnowdogApps/vuepress-plugin-pdf-export.git
@@ -118,7 +118,7 @@ tags_url: https://api.github.com/repos/SnowdogApps/vuepress-plugin-pdf-export/ta
 teams_url: https://api.github.com/repos/SnowdogApps/vuepress-plugin-pdf-export/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/SnowdogApps/vuepress-plugin-pdf-export/git/trees{/sha}
-updated_at: '2020-04-25T08:46:18Z'
+updated_at: '2020-06-09T01:22:14Z'
 url: https://api.github.com/repos/SnowdogApps/vuepress-plugin-pdf-export
 watchers: 2
 watchers_count: 2

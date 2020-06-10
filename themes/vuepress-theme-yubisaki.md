@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/Yubisaki/vuepress-theme-yubisaki/downloads
 events_url: https://api.github.com/repos/Yubisaki/vuepress-theme-yubisaki/events
 fork: false
-forks: 16
-forks_count: 16
+forks: 15
+forks_count: 15
 forks_url: https://api.github.com/repos/Yubisaki/vuepress-theme-yubisaki/forks
 full_name: Yubisaki/vuepress-theme-yubisaki
 git_commits_url: https://api.github.com/repos/Yubisaki/vuepress-theme-yubisaki/git/commits{/sha}
@@ -32,7 +32,7 @@ has_issues: true
 has_pages: false
 has_projects: true
 has_wiki: true
-homepage: https://wuwaki.me/yubisaki/intro.html
+homepage: ''
 hooks_url: https://api.github.com/repos/Yubisaki/vuepress-theme-yubisaki/hooks
 html_url: https://github.com/Yubisaki/vuepress-theme-yubisaki
 id: 130498382
@@ -53,7 +53,7 @@ merges_url: https://api.github.com/repos/Yubisaki/vuepress-theme-yubisaki/merges
 milestones_url: https://api.github.com/repos/Yubisaki/vuepress-theme-yubisaki/milestones{/number}
 mirror_url: null
 name: vuepress-theme-yubisaki
-network_count: 16
+network_count: 15
 node_id: MDEwOlJlcG9zaXRvcnkxMzA0OTgzODI=
 notifications_url: https://api.github.com/repos/Yubisaki/vuepress-theme-yubisaki/notifications{?since,all,participating}
 open_issues: 0
@@ -106,10 +106,10 @@ pushed_at: '2019-10-08T06:42:10Z'
 releases_url: https://api.github.com/repos/Yubisaki/vuepress-theme-yubisaki/releases{/id}
 size: 736
 ssh_url: git@github.com:Yubisaki/vuepress-theme-yubisaki.git
-stargazers_count: 189
+stargazers_count: 190
 stargazers_url: https://api.github.com/repos/Yubisaki/vuepress-theme-yubisaki/stargazers
 statuses_url: https://api.github.com/repos/Yubisaki/vuepress-theme-yubisaki/statuses/{sha}
-subscribers_count: 7
+subscribers_count: 6
 subscribers_url: https://api.github.com/repos/Yubisaki/vuepress-theme-yubisaki/subscribers
 subscription_url: https://api.github.com/repos/Yubisaki/vuepress-theme-yubisaki/subscription
 svn_url: https://github.com/Yubisaki/vuepress-theme-yubisaki
@@ -117,10 +117,10 @@ tags_url: https://api.github.com/repos/Yubisaki/vuepress-theme-yubisaki/tags
 teams_url: https://api.github.com/repos/Yubisaki/vuepress-theme-yubisaki/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/Yubisaki/vuepress-theme-yubisaki/git/trees{/sha}
-updated_at: '2020-05-15T08:12:08Z'
+updated_at: '2020-06-10T10:38:19Z'
 url: https://api.github.com/repos/Yubisaki/vuepress-theme-yubisaki
-watchers: 189
-watchers_count: 189
+watchers: 190
+watchers_count: 190
 ---
 
 <pre>

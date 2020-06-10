@@ -20,8 +20,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/padarom/vuepress-plugin-code-switcher/downloads
 events_url: https://api.github.com/repos/padarom/vuepress-plugin-code-switcher/events
 fork: false
-forks: 1
-forks_count: 1
+forks: 2
+forks_count: 2
 forks_url: https://api.github.com/repos/padarom/vuepress-plugin-code-switcher/forks
 full_name: padarom/vuepress-plugin-code-switcher
 git_commits_url: https://api.github.com/repos/padarom/vuepress-plugin-code-switcher/git/commits{/sha}
@@ -54,7 +54,7 @@ merges_url: https://api.github.com/repos/padarom/vuepress-plugin-code-switcher/m
 milestones_url: https://api.github.com/repos/padarom/vuepress-plugin-code-switcher/milestones{/number}
 mirror_url: null
 name: vuepress-plugin-code-switcher
-network_count: 1
+network_count: 2
 node_id: MDEwOlJlcG9zaXRvcnkxNjk3NTQzNzg=
 notifications_url: https://api.github.com/repos/padarom/vuepress-plugin-code-switcher/notifications{?since,all,participating}
 open_issues: 0
@@ -88,7 +88,7 @@ pushed_at: '2019-12-06T12:53:54Z'
 releases_url: https://api.github.com/repos/padarom/vuepress-plugin-code-switcher/releases{/id}
 size: 1630
 ssh_url: git@github.com:padarom/vuepress-plugin-code-switcher.git
-stargazers_count: 21
+stargazers_count: 23
 stargazers_url: https://api.github.com/repos/padarom/vuepress-plugin-code-switcher/stargazers
 statuses_url: https://api.github.com/repos/padarom/vuepress-plugin-code-switcher/statuses/{sha}
 subscribers_count: 0
@@ -99,10 +99,10 @@ tags_url: https://api.github.com/repos/padarom/vuepress-plugin-code-switcher/tag
 teams_url: https://api.github.com/repos/padarom/vuepress-plugin-code-switcher/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/padarom/vuepress-plugin-code-switcher/git/trees{/sha}
-updated_at: '2020-05-11T10:07:47Z'
+updated_at: '2020-06-07T11:24:48Z'
 url: https://api.github.com/repos/padarom/vuepress-plugin-code-switcher
-watchers: 21
-watchers_count: 21
+watchers: 23
+watchers_count: 23
 ---
 
 # vuepress-plugin-code-switcher

@@ -20,8 +20,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/taojunnan/vuepress-plugin-full-text-search/downloads
 events_url: https://api.github.com/repos/taojunnan/vuepress-plugin-full-text-search/events
 fork: false
-forks: 0
-forks_count: 0
+forks: 1
+forks_count: 1
 forks_url: https://api.github.com/repos/taojunnan/vuepress-plugin-full-text-search/forks
 full_name: taojunnan/vuepress-plugin-full-text-search
 git_commits_url: https://api.github.com/repos/taojunnan/vuepress-plugin-full-text-search/git/commits{/sha}
@@ -49,7 +49,7 @@ merges_url: https://api.github.com/repos/taojunnan/vuepress-plugin-full-text-sea
 milestones_url: https://api.github.com/repos/taojunnan/vuepress-plugin-full-text-search/milestones{/number}
 mirror_url: null
 name: vuepress-plugin-full-text-search
-network_count: 0
+network_count: 1
 node_id: MDEwOlJlcG9zaXRvcnkyNTQyOTI3NTk=
 notifications_url: https://api.github.com/repos/taojunnan/vuepress-plugin-full-text-search/notifications{?since,all,participating}
 open_issues: 0
@@ -83,7 +83,7 @@ pushed_at: '2020-04-09T07:28:59Z'
 releases_url: https://api.github.com/repos/taojunnan/vuepress-plugin-full-text-search/releases{/id}
 size: 7
 ssh_url: git@github.com:taojunnan/vuepress-plugin-full-text-search.git
-stargazers_count: 0
+stargazers_count: 1
 stargazers_url: https://api.github.com/repos/taojunnan/vuepress-plugin-full-text-search/stargazers
 statuses_url: https://api.github.com/repos/taojunnan/vuepress-plugin-full-text-search/statuses/{sha}
 subscribers_count: 1
@@ -94,10 +94,10 @@ tags_url: https://api.github.com/repos/taojunnan/vuepress-plugin-full-text-searc
 teams_url: https://api.github.com/repos/taojunnan/vuepress-plugin-full-text-search/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/taojunnan/vuepress-plugin-full-text-search/git/trees{/sha}
-updated_at: '2020-04-09T07:29:01Z'
+updated_at: '2020-05-25T16:07:32Z'
 url: https://api.github.com/repos/taojunnan/vuepress-plugin-full-text-search
-watchers: 0
-watchers_count: 0
+watchers: 1
+watchers_count: 1
 ---
 
 # vuepress 中文全文搜索插件

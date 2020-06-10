@@ -14,8 +14,7 @@ contributors_url: https://api.github.com/repos/LYTzeng/vuepress-plugin-first-cre
 created_at: '2020-03-12T05:26:14Z'
 default_branch: master
 deployments_url: https://api.github.com/repos/LYTzeng/vuepress-plugin-first-created/deployments
-description: first-created plugin for VuePress, a modified plugin from vuepress-plugin-first-created
-  plugin.
+description: first-created plugin for VuePress, a modified plugin from vuepress-plugin-first-create.
 disabled: false
 downloads_url: https://api.github.com/repos/LYTzeng/vuepress-plugin-first-created/downloads
 events_url: https://api.github.com/repos/LYTzeng/vuepress-plugin-first-created/events
@@ -33,7 +32,7 @@ has_issues: true
 has_pages: false
 has_projects: true
 has_wiki: true
-homepage: null
+homepage: ''
 hooks_url: https://api.github.com/repos/LYTzeng/vuepress-plugin-first-created/hooks
 html_url: https://github.com/LYTzeng/vuepress-plugin-first-created
 id: 246750892
@@ -99,7 +98,7 @@ tags_url: https://api.github.com/repos/LYTzeng/vuepress-plugin-first-created/tag
 teams_url: https://api.github.com/repos/LYTzeng/vuepress-plugin-first-created/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/LYTzeng/vuepress-plugin-first-created/git/trees{/sha}
-updated_at: '2020-03-12T05:41:29Z'
+updated_at: '2020-06-01T13:25:38Z'
 url: https://api.github.com/repos/LYTzeng/vuepress-plugin-first-created
 watchers: 0
 watchers_count: 0

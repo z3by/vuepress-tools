@@ -84,11 +84,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/shanyuhai123/vuepress-plugin-auto-sidebar/pulls{/number}
-pushed_at: '2020-04-12T05:59:28Z'
+pushed_at: '2020-06-05T01:12:58Z'
 releases_url: https://api.github.com/repos/shanyuhai123/vuepress-plugin-auto-sidebar/releases{/id}
-size: 581
+size: 582
 ssh_url: git@github.com:shanyuhai123/vuepress-plugin-auto-sidebar.git
-stargazers_count: 28
+stargazers_count: 33
 stargazers_url: https://api.github.com/repos/shanyuhai123/vuepress-plugin-auto-sidebar/stargazers
 statuses_url: https://api.github.com/repos/shanyuhai123/vuepress-plugin-auto-sidebar/statuses/{sha}
 subscribers_count: 2
@@ -99,10 +99,10 @@ tags_url: https://api.github.com/repos/shanyuhai123/vuepress-plugin-auto-sidebar
 teams_url: https://api.github.com/repos/shanyuhai123/vuepress-plugin-auto-sidebar/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/shanyuhai123/vuepress-plugin-auto-sidebar/git/trees{/sha}
-updated_at: '2020-05-07T11:17:19Z'
+updated_at: '2020-06-09T08:56:19Z'
 url: https://api.github.com/repos/shanyuhai123/vuepress-plugin-auto-sidebar
-watchers: 28
-watchers_count: 28
+watchers: 33
+watchers_count: 33
 ---
 
 # Vuepress Plugin Auto Sidebar
@@ -133,8 +133,4 @@ module.exports = {
 }
 ```
 
-更详细的文档见 [vuepress 自动生成侧边栏](https://shanyuhai123.github.io/vuepress-plugin-auto-sidebar)。
-
-
-
-> 若访问 `github.io` 存在问题，可尝试 [修改 hosts](https://docs.shanyuhai.top/tools/github/config-github-hosts.html)。
+:book: **更详细的文档见 [vuepress 自动生成侧边栏](https://shanyuhai123.github.io/vuepress-plugin-auto-sidebar)。**

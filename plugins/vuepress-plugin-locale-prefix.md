@@ -56,8 +56,8 @@ name: vuepress-plugin-locale-prefix
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyNTk5NjU2MTk=
 notifications_url: https://api.github.com/repos/tlbootcamp/vuepress-plugin-locale-prefix/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
+open_issues: 1
+open_issues_count: 1
 organization:
   avatar_url: https://avatars1.githubusercontent.com/u/53175244?v=4
   events_url: https://api.github.com/users/tlbootcamp/events{/privacy}
@@ -102,9 +102,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/tlbootcamp/vuepress-plugin-locale-prefix/pulls{/number}
-pushed_at: '2020-05-01T05:46:11Z'
+pushed_at: '2020-06-08T05:15:04Z'
 releases_url: https://api.github.com/repos/tlbootcamp/vuepress-plugin-locale-prefix/releases{/id}
-size: 87
+size: 180
 ssh_url: git@github.com:tlbootcamp/vuepress-plugin-locale-prefix.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/tlbootcamp/vuepress-plugin-locale-prefix/stargazers

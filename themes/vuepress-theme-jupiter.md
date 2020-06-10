@@ -90,7 +90,7 @@ ssh_url: git@github.com:Xuminhua/vuepress-theme-jupiter.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/Xuminhua/vuepress-theme-jupiter/stargazers
 statuses_url: https://api.github.com/repos/Xuminhua/vuepress-theme-jupiter/statuses/{sha}
-subscribers_count: 0
+subscribers_count: 1
 subscribers_url: https://api.github.com/repos/Xuminhua/vuepress-theme-jupiter/subscribers
 subscription_url: https://api.github.com/repos/Xuminhua/vuepress-theme-jupiter/subscription
 svn_url: https://github.com/Xuminhua/vuepress-theme-jupiter

@@ -51,8 +51,8 @@ name: vuepress-theme-something
 network_count: 1
 node_id: MDEwOlJlcG9zaXRvcnkyNDk0MjU3Mzg=
 notifications_url: https://api.github.com/repos/vczyh/vuepress-theme-something/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
+open_issues: 1
+open_issues_count: 1
 owner:
   avatar_url: https://avatars2.githubusercontent.com/u/33161749?v=4
   events_url: https://api.github.com/users/vczyh/events{/privacy}
@@ -78,9 +78,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/vczyh/vuepress-theme-something/pulls{/number}
-pushed_at: '2020-04-30T20:02:37Z'
+pushed_at: '2020-06-08T03:58:08Z'
 releases_url: https://api.github.com/repos/vczyh/vuepress-theme-something/releases{/id}
-size: 839
+size: 974
 ssh_url: git@github.com:vczyh/vuepress-theme-something.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/vczyh/vuepress-theme-something/stargazers

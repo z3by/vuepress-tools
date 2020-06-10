@@ -20,8 +20,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/leo-buneev/vuepress-plugin-fulltext-search/downloads
 events_url: https://api.github.com/repos/leo-buneev/vuepress-plugin-fulltext-search/events
 fork: false
-forks: 5
-forks_count: 5
+forks: 8
+forks_count: 8
 forks_url: https://api.github.com/repos/leo-buneev/vuepress-plugin-fulltext-search/forks
 full_name: leo-buneev/vuepress-plugin-fulltext-search
 git_commits_url: https://api.github.com/repos/leo-buneev/vuepress-plugin-fulltext-search/git/commits{/sha}
@@ -54,11 +54,11 @@ merges_url: https://api.github.com/repos/leo-buneev/vuepress-plugin-fulltext-sea
 milestones_url: https://api.github.com/repos/leo-buneev/vuepress-plugin-fulltext-search/milestones{/number}
 mirror_url: null
 name: vuepress-plugin-fulltext-search
-network_count: 5
+network_count: 8
 node_id: MDEwOlJlcG9zaXRvcnkyNTAzNzc1Mzg=
 notifications_url: https://api.github.com/repos/leo-buneev/vuepress-plugin-fulltext-search/notifications{?since,all,participating}
-open_issues: 5
-open_issues_count: 5
+open_issues: 8
+open_issues_count: 8
 owner:
   avatar_url: https://avatars0.githubusercontent.com/u/5142323?v=4
   events_url: https://api.github.com/users/leo-buneev/events{/privacy}
@@ -84,11 +84,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/leo-buneev/vuepress-plugin-fulltext-search/pulls{/number}
-pushed_at: '2020-05-08T06:19:07Z'
+pushed_at: '2020-06-08T01:34:49Z'
 releases_url: https://api.github.com/repos/leo-buneev/vuepress-plugin-fulltext-search/releases{/id}
-size: 193
+size: 362
 ssh_url: git@github.com:leo-buneev/vuepress-plugin-fulltext-search.git
-stargazers_count: 6
+stargazers_count: 8
 stargazers_url: https://api.github.com/repos/leo-buneev/vuepress-plugin-fulltext-search/stargazers
 statuses_url: https://api.github.com/repos/leo-buneev/vuepress-plugin-fulltext-search/statuses/{sha}
 subscribers_count: 2
@@ -99,10 +99,10 @@ tags_url: https://api.github.com/repos/leo-buneev/vuepress-plugin-fulltext-searc
 teams_url: https://api.github.com/repos/leo-buneev/vuepress-plugin-fulltext-search/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/leo-buneev/vuepress-plugin-fulltext-search/git/trees{/sha}
-updated_at: '2020-05-07T18:42:53Z'
+updated_at: '2020-05-24T20:19:24Z'
 url: https://api.github.com/repos/leo-buneev/vuepress-plugin-fulltext-search
-watchers: 6
-watchers_count: 6
+watchers: 8
+watchers_count: 8
 ---
 
 # vuepress-plugin-fulltext-search

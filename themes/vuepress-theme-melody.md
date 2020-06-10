@@ -87,7 +87,7 @@ pushed_at: '2020-04-24T13:02:06Z'
 releases_url: https://api.github.com/repos/Molunerfinn/vuepress-theme-melody/releases{/id}
 size: 227
 ssh_url: git@github.com:Molunerfinn/vuepress-theme-melody.git
-stargazers_count: 24
+stargazers_count: 25
 stargazers_url: https://api.github.com/repos/Molunerfinn/vuepress-theme-melody/stargazers
 statuses_url: https://api.github.com/repos/Molunerfinn/vuepress-theme-melody/statuses/{sha}
 subscribers_count: 3
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/Molunerfinn/vuepress-theme-melody/tags
 teams_url: https://api.github.com/repos/Molunerfinn/vuepress-theme-melody/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/Molunerfinn/vuepress-theme-melody/git/trees{/sha}
-updated_at: '2020-05-03T18:09:06Z'
+updated_at: '2020-06-03T05:42:56Z'
 url: https://api.github.com/repos/Molunerfinn/vuepress-theme-melody
-watchers: 24
-watchers_count: 24
+watchers: 25
+watchers_count: 25
 ---
 
 # vuepress-theme-melody

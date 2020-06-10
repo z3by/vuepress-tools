@@ -78,11 +78,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/Mister-Hope/vuepress-plugin-md-enhance-docs/pulls{/number}
-pushed_at: '2020-05-15T02:50:45Z'
+pushed_at: '2020-06-06T11:58:31Z'
 releases_url: https://api.github.com/repos/Mister-Hope/vuepress-plugin-md-enhance-docs/releases{/id}
-size: 15313
+size: 16946
 ssh_url: git@github.com:Mister-Hope/vuepress-plugin-md-enhance-docs.git
-stargazers_count: 0
+stargazers_count: 1
 stargazers_url: https://api.github.com/repos/Mister-Hope/vuepress-plugin-md-enhance-docs/stargazers
 statuses_url: https://api.github.com/repos/Mister-Hope/vuepress-plugin-md-enhance-docs/statuses/{sha}
 subscribers_count: 1
@@ -93,9 +93,9 @@ tags_url: https://api.github.com/repos/Mister-Hope/vuepress-plugin-md-enhance-do
 teams_url: https://api.github.com/repos/Mister-Hope/vuepress-plugin-md-enhance-docs/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/Mister-Hope/vuepress-plugin-md-enhance-docs/git/trees{/sha}
-updated_at: '2020-05-15T02:50:48Z'
+updated_at: '2020-06-06T11:58:33Z'
 url: https://api.github.com/repos/Mister-Hope/vuepress-plugin-md-enhance-docs
-watchers: 0
-watchers_count: 0
+watchers: 1
+watchers_count: 1
 ---
 

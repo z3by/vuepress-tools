@@ -56,8 +56,8 @@ name: vuepress-theme-eugeo
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkxODE2NzUwMTY=
 notifications_url: https://api.github.com/repos/yyyang1996/vuepress-theme-eugeo/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
+open_issues: 1
+open_issues_count: 1
 owner:
   avatar_url: https://avatars2.githubusercontent.com/u/34713301?v=4
   events_url: https://api.github.com/users/yyyang1996/events{/privacy}
@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/yyyang1996/vuepress-theme-eugeo/pulls{/number}
-pushed_at: '2020-04-10T16:17:14Z'
+pushed_at: '2020-06-08T02:47:17Z'
 releases_url: https://api.github.com/repos/yyyang1996/vuepress-theme-eugeo/releases{/id}
-size: 820
+size: 934
 ssh_url: git@github.com:yyyang1996/vuepress-theme-eugeo.git
 stargazers_count: 6
 stargazers_url: https://api.github.com/repos/yyyang1996/vuepress-theme-eugeo/stargazers

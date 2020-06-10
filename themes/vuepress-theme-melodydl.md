@@ -83,11 +83,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/youdeliang/vuepress-theme-melodydl/pulls{/number}
-pushed_at: '2020-05-08T02:06:16Z'
+pushed_at: '2020-06-06T10:06:24Z'
 releases_url: https://api.github.com/repos/youdeliang/vuepress-theme-melodydl/releases{/id}
-size: 7450
+size: 7833
 ssh_url: git@github.com:youdeliang/vuepress-theme-melodydl.git
-stargazers_count: 3
+stargazers_count: 4
 stargazers_url: https://api.github.com/repos/youdeliang/vuepress-theme-melodydl/stargazers
 statuses_url: https://api.github.com/repos/youdeliang/vuepress-theme-melodydl/statuses/{sha}
 subscribers_count: 1
@@ -98,56 +98,66 @@ tags_url: https://api.github.com/repos/youdeliang/vuepress-theme-melodydl/tags
 teams_url: https://api.github.com/repos/youdeliang/vuepress-theme-melodydl/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/youdeliang/vuepress-theme-melodydl/git/trees{/sha}
-updated_at: '2020-05-10T15:57:50Z'
+updated_at: '2020-06-06T10:06:27Z'
 url: https://api.github.com/repos/youdeliang/vuepress-theme-melodydl
-watchers: 3
-watchers_count: 3
+watchers: 4
+watchers_count: 4
 ---
 
-## 速览
-- [x]  这是一款 Vuepress 主题，集成了博客所需的分类、TAG墙、分页、评论等功能。
-- [x]  主题追求极简，配置上手简单，适配移动端。
-- [x] [预览地址](ydlcq.cn)
-- [x] 博客效果展示：
+# VuePress Blog Theme 
+
+[![](https://img.shields.io/circleci/build/github/youdeliang/vuepress-theme-melodydl)](https://circleci.com/gh/youdeliang/vuepress-theme-melodydl)
+[![](https://img.shields.io/npm/v/vuepress-theme-melodydl)](https://www.npmjs.com/package/vuepress-theme-melodydl)
+[![](https://img.shields.io/github/license/youdeliang/vuepress-theme-melodydl)](https://github.com/youdeliang/vuepress-theme-melodydl/blob/master/LICENSE)
+
+English | [简体中文](https://raw.githubusercontent.com/You DeLiang/vuepress-theme-melodydl/master/README-zh.md)
+
+## Features
+- [x]  This is theme of Vuepress，support the Tag、Pagination and Comment of Blog。
+- [x]  Theme is minimalist，config is simple，mobile is adaptive。
+- [x] [Address](https://www.ydlcq.cn/)
+- [x] Blog Show：
 
 ![](https://user-gold-cdn.xitu.io/2020/5/2/171d4a46cd1c4caf?w=599&h=287&f=gif&s=1994152)
-## 主题使用
 
-### 安装主题
-创建一个新的项目 my-blog：
-```
-mkdir my-blog
-cd my-blog
-```
-初始化 yarn 或 npm ：
+## Getting Started
+
+### installation
+Create a new project `myBlog`：
 
 ```
-yarn init  或 npm init -y
+mkdir myBlog
+cd myBlog
 ```
-安装 vuepress 和 vuepress-theme-melodydl：
+init by yarn or npm ：
+
+```
+yarn init  or npm init -y
+```
+install `vuepress` 和 `vuepress-theme-melodydl`：
 
 ```
 yarn add vuepress vuepress-theme-melodydl
-或
+or
 npm install vuepress vuepress-theme-melodydl
 ```
-创建 src/_posts 文件夹和 Vuepress 配置文件，项目结构大致为：
+Create `src/_posts` directory and the config file of Vuepress. The structure of your project looks like：
 
 ```
 my-blog
-├── src # Blog 源文件目录
-│   ├── .vuepress # Vuepress 目录
-│   │   └── public # Vuepress 静态资源文件
-│   │   └── config.js # Vuepress 配置文件
-│   └── about # About 页面 文件夹
-│   │   ├── index.md  # about 页面内容文件
-│   └── _posts # 博客文件夹
+├── src # Blog source files directory
+│   ├── .vuepress # Vuepress directory
+│   │   └── public # Vuepress static directory
+│   │   └── config.js # Vuepress config file
+│   └── about # About page directory
+│   │   ├── index.md  # about page directory
+│   └── _posts # Post directory
 │       ├── xxx.md
 │       ...
 └── package.json
 ```
 
-在 package.json 加入 script 字段：
+add script files into `package.json`:
 
 ```
 {
@@ -158,111 +168,111 @@ my-blog
 }
 ```
 
-### 配置主题
-在 src/.vuepress/config.js 中配置 Vuepress 和主题：
+### Config the theme 
+Config Vuepress and this theme in `src/.vuepress/config.js`：
 
 
 <details>
-  <summary>点击展示配置示例</summary>
+  <summary>click to expand the config</summary>
 
     module.exports = {
-        // 网站 Title
-          title: 'Top 的博客 ｜ Top Blog',
+          // Website title
+          title: 'Top Blog',
           
-          // 网站描述
-          description: '个人博客',
+          // Description of your website
+          description: 'Personal Blog',
           
-          // 网站 favicon 图标设置等
+          // Favicon and others of website
           head: [
             ['link', { rel: 'icon', href: '/favicon.ico' }],
             ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no' }]
           ],
           
-          // 使用的主题
+          // Theme to use
           theme: 'melodydl',
           
-          // 主题配置
+          // Theme config
           themeConfig: {
             title: 'Top Blog',
 
-        // 个人信息（没有或不想设置的，删掉对应字段即可）
+        // Personal information
         personalInfo: {
         
-        // 名称
+          // Nikename
           name: 'melodydl',
           
-          // 头像 public文件夹下
+          // Avatar image
           avatar: '/avatar-top.jpeg',
           
-          // 头部背景图
+          // Background image in header
           headerBackgroundImg: '/avatar-bg.jpeg',
           
-          // 个人简介 (支持 HTML)
-          description: 'In me the tiger sniffs the rose<br/>心有猛虎，细嗅蔷薇',
+          // Introduction of yourself (HTML supported)
+          description: 'In me the tiger sniffs the rose,
           
-           // 电子邮箱
+          // Email
           email: 'facecode@foxmail.com',
           
-          // 所在地
+          // Location
           location: 'Shanghai, China'
         },
-        // 顶部导航栏内容
+        // Header config (Optional)
         nav: [ 
           {text: 'HOME', link: '/' },
           {text: 'ABOUT', link: '/about/'},
           {text: 'TAGS', link: '/tags/'}      
         ],
         
-        // 首页头部标题背景图设置，图片直接放在 public 文件夹下
+        //  Background image of navbar in public directory 
         header: {
           home: {
             title: 'Top Blog', 
-            subtitle: '好好生活，慢慢相遇', 
+            subtitle: 'Happy Life, slowly meeting', 
             headerImage: '/home-bg.jpeg'
           },
           
-          // tag页面头部标题背景图设置，图片直接放在 public 文件夹下
+          // title and background image about tag in public directory
           tags: {
             title: 'Tags', 
-            subtitle: '遇见你花光了我所有的运气', 
+            subtitle: 'It took all my luck to meet you', 
             headerImage: '/tags-bg.jpg'
           },
           
-          // 文章详情头部背景图
+          // background image of Post's navbar
           postHeaderImg: '/post-bg.jpeg',
         },
         
-        // 社交平台帐号信息 
+        // Accounts of SNS
         sns: {
-          // 简书账号和链接
+          // Jianshu account and link
           "jianshu": { 
             account: "jianshu", 
             link: "https://www.jianshu.com/u/5dddaee8f351", 
           },
           
-          // 新浪 账号和链接
+          // Weibo account and link
           "weibo": { 
             account: "",
             link: ""
           },
           
-          // 知乎 帐号和链接
+          // Zhihu account and link
           "zhihu": { 
             account: "zhihu",
             link: "https://www.zhihu.com/people/sheng-tang-de-xing-kong"
           },
           
-          // Github 帐号和链接
+          // Github account and link
           "github": { 
             account: "github",
             link: "https://github.com/youdeliang"
           }
         },
-        // 底部 footer 的相关设置 
+        // Footer of website config
         footer: {
-          // gitbutton  配置
+          // Gitbutton config
           gitbtn: {
-            // 仓库地址
+            // github repository
             repository: "https://ghbtns.com/github-btn.html?user=youdeliang&repo=vuepress-theme-top&type=star&count=true",
             frameborder: 0,
             scrolling: 0,
@@ -270,19 +280,19 @@ my-blog
             height: "20px"
           },
           
-          // 添加自定义 footer
+          // Add footer content
           custom: `Copyright &copy; Top Blog 2020 <br /> 
             Theme By <a href="https://www.vuepress.cn/" target="_blank">VuePress</a>
             | <a href="https://www.github.com/youdeliang/" target="_blank">youdeliang</a>`
         },
         
-        // 分页配置
+        // Pagination config
         pagination: {
-          // 每页文章数量
+          // number of perPage
           perPage: 5,
         },
         
-        // vssue 评论配置, 如果不需要，可以设置 comments: false
+        // Comments config. See the [Posts Comments] section below.
         comments: {    
           owner: 'youdeliang',
           repo: 'vuepress-theme-melodydl',
@@ -294,51 +304,50 @@ my-blog
     }
 </details>
 
-### about页面配置
+### About page config
 
 ```
 ---
 layout: about 
 title: About
-subtitle: 你可以很好，但你无需完美
-headerImage: /about-bg.jpg # public 文件夹下的图片
+subtitle: You can be great but you don't have to be perfect
+headerImage: /about-bg.jpg # picture in public directory
 ---
 
-下面为个人信息等内容...
+About personal Information...
 ```
 
-### 创建博客
-在 src/_posts 下创建 md 文件
+### Write your posts
+Create first files in `src/_posts`:
 
 ```
-<!-- _posts/2019-04-01-JS异步编程方案总结.md -->
+<!-- _posts/2019-04-01-Promise.md -->
 ---
-title: "JS异步编程方案总结"
+title: "JavaScript about Promise"
 date: 2019-04-01
 tags:
   - Promise
   - JavaScript
 ---
 
-本篇博客主要是对 Javcscript 异步编程方案总结
+This is my first post.
 
-more 上面的内容是摘要，将显示在目录中。
+The content above `more` is the excerpt, which will be displayed in the posts list.
 
 <!-- more -->
 
-more 下面的内容只有浏览这篇文章时才会完全展示，不会显示在目录中。
+The content below `more` will only be displayed when viewing this post, and will not be displayed in the posts list.
 
 ```
 
-运行相应 script 生成你的博客网站
+Run the `script` to generate your blog website:
 
 ```
-# 开发
+# develop
 npm run dev
-# 构建
+# build
 npm run build
 ```
 
-## 最后
-如果觉得主题好用的话，请给个 Star 鼓励下～谢谢 🙏🙏
-
+## End
+If you like the theme, you can Star to support me ~~ Thank you🙏🙏

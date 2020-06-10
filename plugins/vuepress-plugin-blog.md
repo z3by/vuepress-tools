@@ -104,7 +104,7 @@ ssh_url: git@github.com:Yubisaki/vuepress-plugin-blog.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/Yubisaki/vuepress-plugin-blog/stargazers
 statuses_url: https://api.github.com/repos/Yubisaki/vuepress-plugin-blog/statuses/{sha}
-subscribers_count: 1
+subscribers_count: 0
 subscribers_url: https://api.github.com/repos/Yubisaki/vuepress-plugin-blog/subscribers
 subscription_url: https://api.github.com/repos/Yubisaki/vuepress-plugin-blog/subscription
 svn_url: https://github.com/Yubisaki/vuepress-plugin-blog

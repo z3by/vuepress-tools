@@ -1,120 +1,101 @@
 ---
-archive_url: https://api.github.com/repos/story-archive/vuepress-theme-story/{archive_format}{/ref}
-archived: true
-assignees_url: https://api.github.com/repos/story-archive/vuepress-theme-story/assignees{/user}
-blobs_url: https://api.github.com/repos/story-archive/vuepress-theme-story/git/blobs{/sha}
-branches_url: https://api.github.com/repos/story-archive/vuepress-theme-story/branches{/branch}
-clone_url: https://github.com/story-archive/vuepress-theme-story.git
-collaborators_url: https://api.github.com/repos/story-archive/vuepress-theme-story/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/story-archive/vuepress-theme-story/comments{/number}
-commits_url: https://api.github.com/repos/story-archive/vuepress-theme-story/commits{/sha}
-compare_url: https://api.github.com/repos/story-archive/vuepress-theme-story/compare/{base}...{head}
-contents_url: https://api.github.com/repos/story-archive/vuepress-theme-story/contents/{+path}
-contributors_url: https://api.github.com/repos/story-archive/vuepress-theme-story/contributors
-created_at: '2019-04-29T13:14:03Z'
+archive_url: https://api.github.com/repos/TonyRice/vuepress-theme-story/{archive_format}{/ref}
+archived: false
+assignees_url: https://api.github.com/repos/TonyRice/vuepress-theme-story/assignees{/user}
+blobs_url: https://api.github.com/repos/TonyRice/vuepress-theme-story/git/blobs{/sha}
+branches_url: https://api.github.com/repos/TonyRice/vuepress-theme-story/branches{/branch}
+clone_url: https://github.com/TonyRice/vuepress-theme-story.git
+collaborators_url: https://api.github.com/repos/TonyRice/vuepress-theme-story/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/TonyRice/vuepress-theme-story/comments{/number}
+commits_url: https://api.github.com/repos/TonyRice/vuepress-theme-story/commits{/sha}
+compare_url: https://api.github.com/repos/TonyRice/vuepress-theme-story/compare/{base}...{head}
+contents_url: https://api.github.com/repos/TonyRice/vuepress-theme-story/contents/{+path}
+contributors_url: https://api.github.com/repos/TonyRice/vuepress-theme-story/contributors
+created_at: '2019-09-10T05:20:55Z'
 default_branch: master
-deployments_url: https://api.github.com/repos/story-archive/vuepress-theme-story/deployments
+deployments_url: https://api.github.com/repos/TonyRice/vuepress-theme-story/deployments
 description: Vuepress 0.x theme for storyscript staticly-generated frontends
 disabled: false
-downloads_url: https://api.github.com/repos/story-archive/vuepress-theme-story/downloads
-events_url: https://api.github.com/repos/story-archive/vuepress-theme-story/events
+downloads_url: https://api.github.com/repos/TonyRice/vuepress-theme-story/downloads
+events_url: https://api.github.com/repos/TonyRice/vuepress-theme-story/events
 fork: false
-forks: 2
-forks_count: 2
-forks_url: https://api.github.com/repos/story-archive/vuepress-theme-story/forks
-full_name: story-archive/vuepress-theme-story
-git_commits_url: https://api.github.com/repos/story-archive/vuepress-theme-story/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/story-archive/vuepress-theme-story/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/story-archive/vuepress-theme-story/git/tags{/sha}
-git_url: git://github.com/story-archive/vuepress-theme-story.git
+forks: 1
+forks_count: 1
+forks_url: https://api.github.com/repos/TonyRice/vuepress-theme-story/forks
+full_name: TonyRice/vuepress-theme-story
+git_commits_url: https://api.github.com/repos/TonyRice/vuepress-theme-story/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/TonyRice/vuepress-theme-story/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/TonyRice/vuepress-theme-story/git/tags{/sha}
+git_url: git://github.com/TonyRice/vuepress-theme-story.git
 has_downloads: true
-has_issues: true
+has_issues: false
 has_pages: false
 has_projects: true
 has_wiki: true
 homepage: ''
-hooks_url: https://api.github.com/repos/story-archive/vuepress-theme-story/hooks
-html_url: https://github.com/story-archive/vuepress-theme-story
-id: 184074090
-issue_comment_url: https://api.github.com/repos/story-archive/vuepress-theme-story/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/story-archive/vuepress-theme-story/issues/events{/number}
-issues_url: https://api.github.com/repos/story-archive/vuepress-theme-story/issues{/number}
-keys_url: https://api.github.com/repos/story-archive/vuepress-theme-story/keys{/key_id}
-labels_url: https://api.github.com/repos/story-archive/vuepress-theme-story/labels{/name}
-language: Vue
-languages_url: https://api.github.com/repos/story-archive/vuepress-theme-story/languages
+hooks_url: https://api.github.com/repos/TonyRice/vuepress-theme-story/hooks
+html_url: https://github.com/TonyRice/vuepress-theme-story
+id: 207471506
+issue_comment_url: https://api.github.com/repos/TonyRice/vuepress-theme-story/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/TonyRice/vuepress-theme-story/issues/events{/number}
+issues_url: https://api.github.com/repos/TonyRice/vuepress-theme-story/issues{/number}
+keys_url: https://api.github.com/repos/TonyRice/vuepress-theme-story/keys{/key_id}
+labels_url: https://api.github.com/repos/TonyRice/vuepress-theme-story/labels{/name}
+language: null
+languages_url: https://api.github.com/repos/TonyRice/vuepress-theme-story/languages
 license: null
-merges_url: https://api.github.com/repos/story-archive/vuepress-theme-story/merges
-milestones_url: https://api.github.com/repos/story-archive/vuepress-theme-story/milestones{/number}
+merges_url: https://api.github.com/repos/TonyRice/vuepress-theme-story/merges
+milestones_url: https://api.github.com/repos/TonyRice/vuepress-theme-story/milestones{/number}
 mirror_url: null
 name: vuepress-theme-story
-network_count: 2
-node_id: MDEwOlJlcG9zaXRvcnkxODQwNzQwOTA=
-notifications_url: https://api.github.com/repos/story-archive/vuepress-theme-story/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
-organization:
-  avatar_url: https://avatars2.githubusercontent.com/u/60889080?v=4
-  events_url: https://api.github.com/users/story-archive/events{/privacy}
-  followers_url: https://api.github.com/users/story-archive/followers
-  following_url: https://api.github.com/users/story-archive/following{/other_user}
-  gists_url: https://api.github.com/users/story-archive/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/story-archive
-  id: 60889080
-  login: story-archive
-  node_id: MDEyOk9yZ2FuaXphdGlvbjYwODg5MDgw
-  organizations_url: https://api.github.com/users/story-archive/orgs
-  received_events_url: https://api.github.com/users/story-archive/received_events
-  repos_url: https://api.github.com/users/story-archive/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/story-archive/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/story-archive/subscriptions
-  type: Organization
-  url: https://api.github.com/users/story-archive
+network_count: 1
+node_id: MDEwOlJlcG9zaXRvcnkyMDc0NzE1MDY=
+notifications_url: https://api.github.com/repos/TonyRice/vuepress-theme-story/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/60889080?v=4
-  events_url: https://api.github.com/users/story-archive/events{/privacy}
-  followers_url: https://api.github.com/users/story-archive/followers
-  following_url: https://api.github.com/users/story-archive/following{/other_user}
-  gists_url: https://api.github.com/users/story-archive/gists{/gist_id}
+  avatar_url: https://avatars2.githubusercontent.com/u/1211376?v=4
+  events_url: https://api.github.com/users/TonyRice/events{/privacy}
+  followers_url: https://api.github.com/users/TonyRice/followers
+  following_url: https://api.github.com/users/TonyRice/following{/other_user}
+  gists_url: https://api.github.com/users/TonyRice/gists{/gist_id}
   gravatar_id: ''
-  html_url: https://github.com/story-archive
-  id: 60889080
-  login: story-archive
-  node_id: MDEyOk9yZ2FuaXphdGlvbjYwODg5MDgw
-  organizations_url: https://api.github.com/users/story-archive/orgs
-  received_events_url: https://api.github.com/users/story-archive/received_events
-  repos_url: https://api.github.com/users/story-archive/repos
+  html_url: https://github.com/TonyRice
+  id: 1211376
+  login: TonyRice
+  node_id: MDQ6VXNlcjEyMTEzNzY=
+  organizations_url: https://api.github.com/users/TonyRice/orgs
+  received_events_url: https://api.github.com/users/TonyRice/received_events
+  repos_url: https://api.github.com/users/TonyRice/repos
   site_admin: false
-  starred_url: https://api.github.com/users/story-archive/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/story-archive/subscriptions
-  type: Organization
-  url: https://api.github.com/users/story-archive
+  starred_url: https://api.github.com/users/TonyRice/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/TonyRice/subscriptions
+  type: User
+  url: https://api.github.com/users/TonyRice
 permissions:
   admin: false
   pull: true
   push: false
 private: false
-pulls_url: https://api.github.com/repos/story-archive/vuepress-theme-story/pulls{/number}
-pushed_at: '2019-11-02T04:37:14Z'
-releases_url: https://api.github.com/repos/story-archive/vuepress-theme-story/releases{/id}
-size: 369
-ssh_url: git@github.com:story-archive/vuepress-theme-story.git
-stargazers_count: 1
-stargazers_url: https://api.github.com/repos/story-archive/vuepress-theme-story/stargazers
-statuses_url: https://api.github.com/repos/story-archive/vuepress-theme-story/statuses/{sha}
-subscribers_count: 5
-subscribers_url: https://api.github.com/repos/story-archive/vuepress-theme-story/subscribers
-subscription_url: https://api.github.com/repos/story-archive/vuepress-theme-story/subscription
-svn_url: https://github.com/story-archive/vuepress-theme-story
-tags_url: https://api.github.com/repos/story-archive/vuepress-theme-story/tags
-teams_url: https://api.github.com/repos/story-archive/vuepress-theme-story/teams
+pulls_url: https://api.github.com/repos/TonyRice/vuepress-theme-story/pulls{/number}
+pushed_at: '2019-09-10T05:21:27Z'
+releases_url: https://api.github.com/repos/TonyRice/vuepress-theme-story/releases{/id}
+size: 342
+ssh_url: git@github.com:TonyRice/vuepress-theme-story.git
+stargazers_count: 0
+stargazers_url: https://api.github.com/repos/TonyRice/vuepress-theme-story/stargazers
+statuses_url: https://api.github.com/repos/TonyRice/vuepress-theme-story/statuses/{sha}
+subscribers_count: 0
+subscribers_url: https://api.github.com/repos/TonyRice/vuepress-theme-story/subscribers
+subscription_url: https://api.github.com/repos/TonyRice/vuepress-theme-story/subscription
+svn_url: https://github.com/TonyRice/vuepress-theme-story
+tags_url: https://api.github.com/repos/TonyRice/vuepress-theme-story/tags
+teams_url: https://api.github.com/repos/TonyRice/vuepress-theme-story/teams
 temp_clone_token: ''
-trees_url: https://api.github.com/repos/story-archive/vuepress-theme-story/git/trees{/sha}
-updated_at: '2020-02-10T15:42:03Z'
-url: https://api.github.com/repos/story-archive/vuepress-theme-story
-watchers: 1
-watchers_count: 1
+trees_url: https://api.github.com/repos/TonyRice/vuepress-theme-story/git/trees{/sha}
+updated_at: '2020-05-19T12:24:06Z'
+url: https://api.github.com/repos/TonyRice/vuepress-theme-story
+watchers: 0
+watchers_count: 0
 ---
 

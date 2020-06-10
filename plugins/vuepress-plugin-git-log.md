@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/vuepress/vuepress-plugin-git-log/downloads
 events_url: https://api.github.com/repos/vuepress/vuepress-plugin-git-log/events
 fork: false
-forks: 1
-forks_count: 1
+forks: 2
+forks_count: 2
 forks_url: https://api.github.com/repos/vuepress/vuepress-plugin-git-log/forks
 full_name: vuepress/vuepress-plugin-git-log
 git_commits_url: https://api.github.com/repos/vuepress/vuepress-plugin-git-log/git/commits{/sha}
@@ -53,7 +53,7 @@ merges_url: https://api.github.com/repos/vuepress/vuepress-plugin-git-log/merges
 milestones_url: https://api.github.com/repos/vuepress/vuepress-plugin-git-log/milestones{/number}
 mirror_url: null
 name: vuepress-plugin-git-log
-network_count: 1
+network_count: 2
 node_id: MDEwOlJlcG9zaXRvcnkxNzY0NTU2OTk=
 notifications_url: https://api.github.com/repos/vuepress/vuepress-plugin-git-log/notifications{?since,all,participating}
 open_issues: 0

@@ -14,7 +14,7 @@ contributors_url: https://api.github.com/repos/konnga/vuepress-theme-antd-docs/c
 created_at: '2020-04-27T07:01:03Z'
 default_branch: master
 deployments_url: https://api.github.com/repos/konnga/vuepress-theme-antd-docs/deployments
-description: null
+description: vuepress theme for ant design
 disabled: false
 downloads_url: https://api.github.com/repos/konnga/vuepress-theme-antd-docs/downloads
 events_url: https://api.github.com/repos/konnga/vuepress-theme-antd-docs/events
@@ -32,7 +32,7 @@ has_issues: true
 has_pages: false
 has_projects: true
 has_wiki: true
-homepage: null
+homepage: ''
 hooks_url: https://api.github.com/repos/konnga/vuepress-theme-antd-docs/hooks
 html_url: https://github.com/konnga/vuepress-theme-antd-docs
 id: 259232376
@@ -56,8 +56,8 @@ name: vuepress-theme-antd-docs
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyNTkyMzIzNzY=
 notifications_url: https://api.github.com/repos/konnga/vuepress-theme-antd-docs/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
+open_issues: 1
+open_issues_count: 1
 owner:
   avatar_url: https://avatars1.githubusercontent.com/u/18214609?v=4
   events_url: https://api.github.com/users/konnga/events{/privacy}
@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/konnga/vuepress-theme-antd-docs/pulls{/number}
-pushed_at: '2020-05-18T03:40:32Z'
+pushed_at: '2020-06-08T05:10:19Z'
 releases_url: https://api.github.com/repos/konnga/vuepress-theme-antd-docs/releases{/id}
-size: 438
+size: 525
 ssh_url: git@github.com:konnga/vuepress-theme-antd-docs.git
 stargazers_count: 1
 stargazers_url: https://api.github.com/repos/konnga/vuepress-theme-antd-docs/stargazers
@@ -98,13 +98,13 @@ tags_url: https://api.github.com/repos/konnga/vuepress-theme-antd-docs/tags
 teams_url: https://api.github.com/repos/konnga/vuepress-theme-antd-docs/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/konnga/vuepress-theme-antd-docs/git/trees{/sha}
-updated_at: '2020-05-18T03:40:34Z'
+updated_at: '2020-05-20T01:43:18Z'
 url: https://api.github.com/repos/konnga/vuepress-theme-antd-docs
 watchers: 1
 watchers_count: 1
 ---
 
-本项目是使用 vuepress 开发的文档平台，用于在线展示组件的使用方式及相关文档。
+本项目是使用 vuepress 开发的文档平台，ant design 文档风格，用于在线展示组件的使用方式及相关文档。
 
 demo: http://114.67.95.144/docs/
 
@@ -118,6 +118,13 @@ yarn vuepress-theme-antd-docs
 
 npm install vuepress-theme-antd-docs
 ```
+
+## Todo
+
+- [] API Table 组件
+- [] 侧边栏分类
+- [] 代码显示
+- [] 索引菜单层级
 
 ## 配置说明
 
@@ -246,3 +253,4 @@ footerWrap:
 ---
 ```
 
+> 灵感来自 vuepress-theme-antdocs，个人改进和实现。

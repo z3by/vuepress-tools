@@ -106,7 +106,7 @@ pushed_at: '2019-10-07T14:34:29Z'
 releases_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-example-preview/releases{/id}
 size: 22
 ssh_url: git@github.com:vuepressjs/vuepress-plugin-example-preview.git
-stargazers_count: 14
+stargazers_count: 15
 stargazers_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-example-preview/stargazers
 statuses_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-example-preview/statuses/{sha}
 subscribers_count: 2
@@ -117,10 +117,10 @@ tags_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-example-previe
 teams_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-example-preview/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-example-preview/git/trees{/sha}
-updated_at: '2020-02-21T10:06:49Z'
+updated_at: '2020-05-24T20:19:26Z'
 url: https://api.github.com/repos/vuepressjs/vuepress-plugin-example-preview
-watchers: 14
-watchers_count: 14
+watchers: 15
+watchers_count: 15
 ---
 
 # Example Preview plugin for Vuepress [![Build Status](https://badgen.net/circleci/github/posva/vuepress-plugin-example-preview)](https://circleci.com/gh/posva/vuepress-plugin-example-preview) [![npm package](https://badgen.net/npm/v/vuepress-plugin-example-preview)](https://www.npmjs.com/package/vuepress-plugin-example-preview) [![coverage](https://badgen.net/codecov/c/github/posva/vuepress-plugin-example-preview)](https://codecov.io/github/posva/vuepress-plugin-example-preview) [![thanks](https://badgen.net/badge/thanks/♥/pink)](https://github.com/posva/thanks)

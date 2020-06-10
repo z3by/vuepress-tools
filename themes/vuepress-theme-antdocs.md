@@ -20,8 +20,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/zpfz/vuepress-theme-antdocs/downloads
 events_url: https://api.github.com/repos/zpfz/vuepress-theme-antdocs/events
 fork: false
-forks: 8
-forks_count: 8
+forks: 9
+forks_count: 9
 forks_url: https://api.github.com/repos/zpfz/vuepress-theme-antdocs/forks
 full_name: zpfz/vuepress-theme-antdocs
 git_commits_url: https://api.github.com/repos/zpfz/vuepress-theme-antdocs/git/commits{/sha}
@@ -54,7 +54,7 @@ merges_url: https://api.github.com/repos/zpfz/vuepress-theme-antdocs/merges
 milestones_url: https://api.github.com/repos/zpfz/vuepress-theme-antdocs/milestones{/number}
 mirror_url: null
 name: vuepress-theme-antdocs
-network_count: 8
+network_count: 9
 node_id: MDEwOlJlcG9zaXRvcnkyNDI5NDAwODg=
 notifications_url: https://api.github.com/repos/zpfz/vuepress-theme-antdocs/notifications{?since,all,participating}
 open_issues: 1
@@ -84,11 +84,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/zpfz/vuepress-theme-antdocs/pulls{/number}
-pushed_at: '2020-05-16T16:31:33Z'
+pushed_at: '2020-06-09T15:32:31Z'
 releases_url: https://api.github.com/repos/zpfz/vuepress-theme-antdocs/releases{/id}
-size: 149
+size: 159
 ssh_url: git@github.com:zpfz/vuepress-theme-antdocs.git
-stargazers_count: 49
+stargazers_count: 57
 stargazers_url: https://api.github.com/repos/zpfz/vuepress-theme-antdocs/stargazers
 statuses_url: https://api.github.com/repos/zpfz/vuepress-theme-antdocs/statuses/{sha}
 subscribers_count: 1
@@ -99,10 +99,10 @@ tags_url: https://api.github.com/repos/zpfz/vuepress-theme-antdocs/tags
 teams_url: https://api.github.com/repos/zpfz/vuepress-theme-antdocs/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/zpfz/vuepress-theme-antdocs/git/trees{/sha}
-updated_at: '2020-05-16T16:31:36Z'
+updated_at: '2020-06-09T15:32:34Z'
 url: https://api.github.com/repos/zpfz/vuepress-theme-antdocs
-watchers: 49
-watchers_count: 49
+watchers: 57
+watchers_count: 57
 ---
 
 <div align="center"><img src="https://s2.ax1x.com/2020/02/27/3aIcDK.png" height = "150" /></div>
@@ -153,6 +153,11 @@ You can get help here: [Using a theme](https://vuepress.vuejs.org/theme/using-a-
 <p align="center"><img src="https://s2.ax1x.com/2020/02/28/3B3lOf.png"/></p>
 
 # Changlog
+
+### 1.1.1
+
+- Fixed the bug that the sidebar close button displayed.
+- Added title attribute for sidebar.
 
 ### 1.1.0
 

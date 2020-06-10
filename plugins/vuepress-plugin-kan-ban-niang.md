@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-kan-ban-niang/downloads
 events_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-kan-ban-niang/events
 fork: false
-forks: 1
-forks_count: 1
+forks: 2
+forks_count: 2
 forks_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-kan-ban-niang/forks
 full_name: vuepress-reco/vuepress-plugin-kan-ban-niang
 git_commits_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-kan-ban-niang/git/commits{/sha}
@@ -53,7 +53,7 @@ merges_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-kan-ban-n
 milestones_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-kan-ban-niang/milestones{/number}
 mirror_url: null
 name: vuepress-plugin-kan-ban-niang
-network_count: 1
+network_count: 2
 node_id: MDEwOlJlcG9zaXRvcnkyMTQ1Njg2OTQ=
 notifications_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-kan-ban-niang/notifications{?since,all,participating}
 open_issues: 2

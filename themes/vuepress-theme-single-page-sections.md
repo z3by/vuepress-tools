@@ -57,8 +57,8 @@ name: vuepress-theme-single-page-sections
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyMjIzMDEzOTk=
 notifications_url: https://api.github.com/repos/ptandler/vuepress-theme-single-page-sections/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
+open_issues: 1
+open_issues_count: 1
 owner:
   avatar_url: https://avatars1.githubusercontent.com/u/934595?v=4
   events_url: https://api.github.com/users/ptandler/events{/privacy}
@@ -84,9 +84,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/ptandler/vuepress-theme-single-page-sections/pulls{/number}
-pushed_at: '2020-04-01T18:53:39Z'
+pushed_at: '2020-06-07T23:37:49Z'
 releases_url: https://api.github.com/repos/ptandler/vuepress-theme-single-page-sections/releases{/id}
-size: 3117
+size: 12268
 ssh_url: git@github.com:ptandler/vuepress-theme-single-page-sections.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/ptandler/vuepress-theme-single-page-sections/stargazers
@@ -99,7 +99,7 @@ tags_url: https://api.github.com/repos/ptandler/vuepress-theme-single-page-secti
 teams_url: https://api.github.com/repos/ptandler/vuepress-theme-single-page-sections/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/ptandler/vuepress-theme-single-page-sections/git/trees{/sha}
-updated_at: '2020-04-01T18:53:01Z'
+updated_at: '2020-05-27T21:06:03Z'
 url: https://api.github.com/repos/ptandler/vuepress-theme-single-page-sections
 watchers: 0
 watchers_count: 0
@@ -137,7 +137,7 @@ It also defines a couple of social icons that you can use to link to your online
   <br/>
   <Contact-Email name="someone" domain="example.com" /> <!-- webmaster is the default name if not passed -->
   ```
-  * non-digits from phone numbers are stripped to create the `tel:` URL.
+  - non-digits from phone numbers are stripped to create the `tel:` URL.
 - For public numbers you can choose whether or not to obfuscate emails and phone numers by passing the `obfuscate` prop (which defaults to `true`):
   ```md
   <Contact-Phone title="Phone" country="49" city="1234" number="56789" obfuscate="false" />
@@ -147,26 +147,27 @@ It also defines a couple of social icons that you can use to link to your online
 
 ## Combine personal and public contact information on your homepage
 
-Do you know this situation? There are contact information such as your private email, mobile number, 
+Do you know this situation? There are contact information such as your private email, mobile number,
 or instant messengers that you don't want to be available for everyone.
+
 - But on the other side, it would be nice if you could send your complete contact information to selected contacts
-you trust in a way that is nicely displayed.
+  you trust in a way that is nicely displayed.
 
 Facing this issue, I came up with the idea that I could amend my homepage such that I can create a
-*personal link* that includes the contact information I would like to make available to *some* contacts.
+_personal link_ that includes the contact information I would like to make available to _some_ contacts.
 And for those, additional information should be displayed.
-Or even better, I could create *different links* for *different groups of contacts*, such as my friends, business contacts
+Or even better, I could create _different links_ for _different groups of contacts_, such as my friends, business contacts
 and so on.
 
-However, I didn't want to have the personal contact information somewhere hidden in the HTML or JavaScript to really 
+However, I didn't want to have the personal contact information somewhere hidden in the HTML or JavaScript to really
 protect privacy here.
 
-So I came up with the idea that I could *pass* the personal contact information to the homepage using *URL parameters*.
-The vue theme then, will check for contact information passed in the URL, include it *and stores it in local storage* to 
-be available later on for this person, e.g. when navigating. The theme treats information found in the URL, the local storage, 
+So I came up with the idea that I could _pass_ the personal contact information to the homepage using _URL parameters_.
+The vue theme then, will check for contact information passed in the URL, include it _and stores it in local storage_ to
+be available later on for this person, e.g. when navigating. The theme treats information found in the URL, the local storage,
 or passed from the markdown files to the theme's Vue component `<Contact-Details>` in exactly the same way.
 
-On the other hand, contact information provided directly to the Vue component is obfuscated to provide some challenges 
+On the other hand, contact information provided directly to the Vue component is obfuscated to provide some challenges
 for harvesting bots and to avoid spam.
 
 Put contact information that should be available to the public directly in your markdown:

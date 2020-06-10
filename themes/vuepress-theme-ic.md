@@ -79,9 +79,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/IKangXu/vuepress-theme-ic/pulls{/number}
-pushed_at: '2020-04-10T08:21:09Z'
+pushed_at: '2020-06-03T03:33:18Z'
 releases_url: https://api.github.com/repos/IKangXu/vuepress-theme-ic/releases{/id}
-size: 574
+size: 575
 ssh_url: git@github.com:IKangXu/vuepress-theme-ic.git
 stargazers_count: 1
 stargazers_url: https://api.github.com/repos/IKangXu/vuepress-theme-ic/stargazers
@@ -94,7 +94,7 @@ tags_url: https://api.github.com/repos/IKangXu/vuepress-theme-ic/tags
 teams_url: https://api.github.com/repos/IKangXu/vuepress-theme-ic/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/IKangXu/vuepress-theme-ic/git/trees{/sha}
-updated_at: '2020-04-10T08:21:12Z'
+updated_at: '2020-06-03T03:33:20Z'
 url: https://api.github.com/repos/IKangXu/vuepress-theme-ic
 watchers: 1
 watchers_count: 1

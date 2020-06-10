@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/vuepress-reco/vuepress-theme-reco-demo/downloads
 events_url: https://api.github.com/repos/vuepress-reco/vuepress-theme-reco-demo/events
 fork: false
-forks: 6
-forks_count: 6
+forks: 8
+forks_count: 8
 forks_url: https://api.github.com/repos/vuepress-reco/vuepress-theme-reco-demo/forks
 full_name: vuepress-reco/vuepress-theme-reco-demo
 git_commits_url: https://api.github.com/repos/vuepress-reco/vuepress-theme-reco-demo/git/commits{/sha}
@@ -48,7 +48,7 @@ merges_url: https://api.github.com/repos/vuepress-reco/vuepress-theme-reco-demo/
 milestones_url: https://api.github.com/repos/vuepress-reco/vuepress-theme-reco-demo/milestones{/number}
 mirror_url: null
 name: vuepress-theme-reco-demo
-network_count: 6
+network_count: 8
 node_id: MDEwOlJlcG9zaXRvcnkxODE2Mjg0NzM=
 notifications_url: https://api.github.com/repos/vuepress-reco/vuepress-theme-reco-demo/notifications{?since,all,participating}
 open_issues: 0
@@ -97,9 +97,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/vuepress-reco/vuepress-theme-reco-demo/pulls{/number}
-pushed_at: '2020-04-21T16:25:47Z'
+pushed_at: '2020-05-29T15:48:03Z'
 releases_url: https://api.github.com/repos/vuepress-reco/vuepress-theme-reco-demo/releases{/id}
-size: 1359
+size: 1361
 ssh_url: git@github.com:vuepress-reco/vuepress-theme-reco-demo.git
 stargazers_count: 5
 stargazers_url: https://api.github.com/repos/vuepress-reco/vuepress-theme-reco-demo/stargazers

@@ -56,8 +56,8 @@ name: vuepress-theme-medium
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyNTA3NzgxMDQ=
 notifications_url: https://api.github.com/repos/SagarMahapatra/vuepress-theme-medium/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
+open_issues: 2
+open_issues_count: 2
 owner:
   avatar_url: https://avatars2.githubusercontent.com/u/6312056?v=4
   events_url: https://api.github.com/users/SagarMahapatra/events{/privacy}
@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/SagarMahapatra/vuepress-theme-medium/pulls{/number}
-pushed_at: '2020-03-28T12:23:14Z'
+pushed_at: '2020-06-08T01:32:34Z'
 releases_url: https://api.github.com/repos/SagarMahapatra/vuepress-theme-medium/releases{/id}
-size: 758
+size: 1071
 ssh_url: git@github.com:SagarMahapatra/vuepress-theme-medium.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/SagarMahapatra/vuepress-theme-medium/stargazers

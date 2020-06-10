@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/QiShaoXuan/vuepress-plugin-cat/downloads
 events_url: https://api.github.com/repos/QiShaoXuan/vuepress-plugin-cat/events
 fork: false
-forks: 19
-forks_count: 19
+forks: 20
+forks_count: 20
 forks_url: https://api.github.com/repos/QiShaoXuan/vuepress-plugin-cat/forks
 full_name: QiShaoXuan/vuepress-plugin-cat
 git_commits_url: https://api.github.com/repos/QiShaoXuan/vuepress-plugin-cat/git/commits{/sha}
@@ -48,7 +48,7 @@ merges_url: https://api.github.com/repos/QiShaoXuan/vuepress-plugin-cat/merges
 milestones_url: https://api.github.com/repos/QiShaoXuan/vuepress-plugin-cat/milestones{/number}
 mirror_url: null
 name: vuepress-plugin-cat
-network_count: 19
+network_count: 20
 node_id: MDEwOlJlcG9zaXRvcnkyMDE4NjU5NDg=
 notifications_url: https://api.github.com/repos/QiShaoXuan/vuepress-plugin-cat/notifications{?since,all,participating}
 open_issues: 5
@@ -82,7 +82,7 @@ pushed_at: '2019-11-27T12:00:56Z'
 releases_url: https://api.github.com/repos/QiShaoXuan/vuepress-plugin-cat/releases{/id}
 size: 44
 ssh_url: git@github.com:QiShaoXuan/vuepress-plugin-cat.git
-stargazers_count: 107
+stargazers_count: 112
 stargazers_url: https://api.github.com/repos/QiShaoXuan/vuepress-plugin-cat/stargazers
 statuses_url: https://api.github.com/repos/QiShaoXuan/vuepress-plugin-cat/statuses/{sha}
 subscribers_count: 0
@@ -93,10 +93,10 @@ tags_url: https://api.github.com/repos/QiShaoXuan/vuepress-plugin-cat/tags
 teams_url: https://api.github.com/repos/QiShaoXuan/vuepress-plugin-cat/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/QiShaoXuan/vuepress-plugin-cat/git/trees{/sha}
-updated_at: '2020-05-13T19:11:58Z'
+updated_at: '2020-06-07T06:51:32Z'
 url: https://api.github.com/repos/QiShaoXuan/vuepress-plugin-cat
-watchers: 107
-watchers_count: 107
+watchers: 112
+watchers_count: 112
 ---
 
 # vuepress-plugin-cat

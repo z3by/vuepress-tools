@@ -51,8 +51,8 @@ name: vuepress-theme-system
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyMzYzMDU4Njg=
 notifications_url: https://api.github.com/repos/francoisromain/vuepress-theme-system/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
+open_issues: 1
+open_issues_count: 1
 owner:
   avatar_url: https://avatars1.githubusercontent.com/u/156539?v=4
   events_url: https://api.github.com/users/francoisromain/events{/privacy}

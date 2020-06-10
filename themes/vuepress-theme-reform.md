@@ -78,11 +78,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/xuzhongpeng/vuepress-theme-reform/pulls{/number}
-pushed_at: '2020-04-07T10:02:10Z'
+pushed_at: '2020-05-26T16:02:28Z'
 releases_url: https://api.github.com/repos/xuzhongpeng/vuepress-theme-reform/releases{/id}
-size: 609
+size: 543
 ssh_url: git@github.com:xuzhongpeng/vuepress-theme-reform.git
-stargazers_count: 15
+stargazers_count: 17
 stargazers_url: https://api.github.com/repos/xuzhongpeng/vuepress-theme-reform/stargazers
 statuses_url: https://api.github.com/repos/xuzhongpeng/vuepress-theme-reform/statuses/{sha}
 subscribers_count: 0
@@ -93,10 +93,10 @@ tags_url: https://api.github.com/repos/xuzhongpeng/vuepress-theme-reform/tags
 teams_url: https://api.github.com/repos/xuzhongpeng/vuepress-theme-reform/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/xuzhongpeng/vuepress-theme-reform/git/trees{/sha}
-updated_at: '2020-04-10T19:53:53Z'
+updated_at: '2020-06-08T06:36:24Z'
 url: https://api.github.com/repos/xuzhongpeng/vuepress-theme-reform
-watchers: 15
-watchers_count: 15
+watchers: 17
+watchers_count: 17
 ---
 
 ## 介绍
