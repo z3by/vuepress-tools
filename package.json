@@ -10,7 +10,7 @@
   "repository": "z3by/vuepress-tools",
   "scripts": {
     "dev": "vuepress dev",
-    "build": "node --max-old-space-size=8192 node_modules/vuepress/cli.js build"
+    "build": "vuepress build"
   },
   "license": "MIT",
   "devDependencies": {
