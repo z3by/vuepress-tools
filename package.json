@@ -10,7 +10,7 @@
   "repository": "z3by/vuepress-tools",
   "scripts": {
     "dev": "vuepress dev",
-    "build": "vuepress build"
+    "build": "node --max-old-space-size=8192 node_modules/vuepress/cli.js build"
   },
   "license": "MIT",
   "devDependencies": {
@@ -25,7 +25,7 @@
     "stylus": "^0.54.5",
     "stylus-loader": "^3.0.2",
     "vue-themify-icons": "^1.0.0",
-    "vuepress": "1.4.0",
+    "vuepress": "1.5.1",
     "vuepress-plugin-container": "^2.0.2",
     "vuepress-plugin-flexsearch": "0.0.3",
     "vuepress-plugin-seo": "^0.1.2",
