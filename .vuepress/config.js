@@ -112,7 +112,6 @@ module.exports = {
       },
     ],
     ["seo"],
-    ["flexsearch"],
     require.resolve("./setTitle")
   ],
 };
