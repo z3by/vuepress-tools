@@ -68,14 +68,14 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */
   themeConfig: {
-    repo: "/arab-open-source/vuepress-tools",
+    repo: "/z3by/vuepress-tools",
     logo: "/img/vuepress-tools-logo.png",
     editLinks: false,
     docsDir: "",
     editLinkText: "",
     lastUpdated: false,
     author: "Ahmad Mostafa",
-    domain: "vuepress.tools",
+    domain: "z3by.github.io/vuepress.tools",
     nav: [
       {
         text: "Home",
