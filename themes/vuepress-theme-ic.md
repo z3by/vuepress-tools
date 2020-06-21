@@ -20,8 +20,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/IKangXu/vuepress-theme-ic/downloads
 events_url: https://api.github.com/repos/IKangXu/vuepress-theme-ic/events
 fork: false
-forks: 0
-forks_count: 0
+forks: 1
+forks_count: 1
 forks_url: https://api.github.com/repos/IKangXu/vuepress-theme-ic/forks
 full_name: IKangXu/vuepress-theme-ic
 git_commits_url: https://api.github.com/repos/IKangXu/vuepress-theme-ic/git/commits{/sha}
@@ -49,7 +49,7 @@ merges_url: https://api.github.com/repos/IKangXu/vuepress-theme-ic/merges
 milestones_url: https://api.github.com/repos/IKangXu/vuepress-theme-ic/milestones{/number}
 mirror_url: null
 name: vuepress-theme-ic
-network_count: 0
+network_count: 1
 node_id: MDEwOlJlcG9zaXRvcnkyMzQyMDg1MDc=
 notifications_url: https://api.github.com/repos/IKangXu/vuepress-theme-ic/notifications{?since,all,participating}
 open_issues: 0
@@ -83,7 +83,7 @@ pushed_at: '2020-06-03T03:33:18Z'
 releases_url: https://api.github.com/repos/IKangXu/vuepress-theme-ic/releases{/id}
 size: 575
 ssh_url: git@github.com:IKangXu/vuepress-theme-ic.git
-stargazers_count: 1
+stargazers_count: 2
 stargazers_url: https://api.github.com/repos/IKangXu/vuepress-theme-ic/stargazers
 statuses_url: https://api.github.com/repos/IKangXu/vuepress-theme-ic/statuses/{sha}
 subscribers_count: 1
@@ -94,10 +94,10 @@ tags_url: https://api.github.com/repos/IKangXu/vuepress-theme-ic/tags
 teams_url: https://api.github.com/repos/IKangXu/vuepress-theme-ic/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/IKangXu/vuepress-theme-ic/git/trees{/sha}
-updated_at: '2020-06-03T03:33:20Z'
+updated_at: '2020-06-18T05:48:05Z'
 url: https://api.github.com/repos/IKangXu/vuepress-theme-ic
-watchers: 1
-watchers_count: 1
+watchers: 2
+watchers_count: 2
 ---
 
 :tada::tada::tada: A note-style vuepress blog theme with simple, clear and practical features for the purpose

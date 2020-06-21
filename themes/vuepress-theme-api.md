@@ -56,8 +56,8 @@ name: vuepress-theme-api
 network_count: 33
 node_id: MDEwOlJlcG9zaXRvcnkxMzM4MzAzNDk=
 notifications_url: https://api.github.com/repos/sqrthree/vuepress-theme-api/notifications{?since,all,participating}
-open_issues: 2
-open_issues_count: 2
+open_issues: 3
+open_issues_count: 3
 owner:
   avatar_url: https://avatars2.githubusercontent.com/u/8622362?v=4
   events_url: https://api.github.com/users/sqrthree/events{/privacy}
@@ -87,7 +87,7 @@ pushed_at: '2020-06-09T09:04:21Z'
 releases_url: https://api.github.com/repos/sqrthree/vuepress-theme-api/releases{/id}
 size: 1339
 ssh_url: git@github.com:sqrthree/vuepress-theme-api.git
-stargazers_count: 204
+stargazers_count: 211
 stargazers_url: https://api.github.com/repos/sqrthree/vuepress-theme-api/stargazers
 statuses_url: https://api.github.com/repos/sqrthree/vuepress-theme-api/statuses/{sha}
 subscribers_count: 5
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/sqrthree/vuepress-theme-api/tags
 teams_url: https://api.github.com/repos/sqrthree/vuepress-theme-api/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/sqrthree/vuepress-theme-api/git/trees{/sha}
-updated_at: '2020-06-09T09:04:24Z'
+updated_at: '2020-06-20T22:05:57Z'
 url: https://api.github.com/repos/sqrthree/vuepress-theme-api
-watchers: 204
-watchers_count: 204
+watchers: 211
+watchers_count: 211
 ---
 
 > v1.0.0 is beta, going to release in the next few days.

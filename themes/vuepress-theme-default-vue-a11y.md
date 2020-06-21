@@ -102,9 +102,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/vue-a11y/vuepress-theme-default-vue-a11y/pulls{/number}
-pushed_at: '2020-06-02T11:21:37Z'
+pushed_at: '2020-06-15T10:04:10Z'
 releases_url: https://api.github.com/repos/vue-a11y/vuepress-theme-default-vue-a11y/releases{/id}
-size: 2292
+size: 2836
 ssh_url: git@github.com:vue-a11y/vuepress-theme-default-vue-a11y.git
 stargazers_count: 2
 stargazers_url: https://api.github.com/repos/vue-a11y/vuepress-theme-default-vue-a11y/stargazers
@@ -117,7 +117,7 @@ tags_url: https://api.github.com/repos/vue-a11y/vuepress-theme-default-vue-a11y/
 teams_url: https://api.github.com/repos/vue-a11y/vuepress-theme-default-vue-a11y/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/vue-a11y/vuepress-theme-default-vue-a11y/git/trees{/sha}
-updated_at: '2020-06-02T11:21:40Z'
+updated_at: '2020-06-15T10:04:13Z'
 url: https://api.github.com/repos/vue-a11y/vuepress-theme-default-vue-a11y
 watchers: 2
 watchers_count: 2

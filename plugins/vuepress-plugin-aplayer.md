@@ -90,7 +90,7 @@ ssh_url: git@github.com:upcwangying/vuepress-plugin-aplayer.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/upcwangying/vuepress-plugin-aplayer/stargazers
 statuses_url: https://api.github.com/repos/upcwangying/vuepress-plugin-aplayer/statuses/{sha}
-subscribers_count: 1
+subscribers_count: 2
 subscribers_url: https://api.github.com/repos/upcwangying/vuepress-plugin-aplayer/subscribers
 subscription_url: https://api.github.com/repos/upcwangying/vuepress-plugin-aplayer/subscription
 svn_url: https://github.com/upcwangying/vuepress-plugin-aplayer

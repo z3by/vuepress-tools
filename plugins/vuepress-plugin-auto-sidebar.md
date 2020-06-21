@@ -20,8 +20,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/shanyuhai123/vuepress-plugin-auto-sidebar/downloads
 events_url: https://api.github.com/repos/shanyuhai123/vuepress-plugin-auto-sidebar/events
 fork: false
-forks: 2
-forks_count: 2
+forks: 4
+forks_count: 4
 forks_url: https://api.github.com/repos/shanyuhai123/vuepress-plugin-auto-sidebar/forks
 full_name: shanyuhai123/vuepress-plugin-auto-sidebar
 git_commits_url: https://api.github.com/repos/shanyuhai123/vuepress-plugin-auto-sidebar/git/commits{/sha}
@@ -54,7 +54,7 @@ merges_url: https://api.github.com/repos/shanyuhai123/vuepress-plugin-auto-sideb
 milestones_url: https://api.github.com/repos/shanyuhai123/vuepress-plugin-auto-sidebar/milestones{/number}
 mirror_url: null
 name: vuepress-plugin-auto-sidebar
-network_count: 2
+network_count: 4
 node_id: MDEwOlJlcG9zaXRvcnkyMzAxMTM4MTA=
 notifications_url: https://api.github.com/repos/shanyuhai123/vuepress-plugin-auto-sidebar/notifications{?since,all,participating}
 open_issues: 1
@@ -84,14 +84,14 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/shanyuhai123/vuepress-plugin-auto-sidebar/pulls{/number}
-pushed_at: '2020-06-05T01:12:58Z'
+pushed_at: '2020-06-17T04:51:18Z'
 releases_url: https://api.github.com/repos/shanyuhai123/vuepress-plugin-auto-sidebar/releases{/id}
-size: 582
+size: 585
 ssh_url: git@github.com:shanyuhai123/vuepress-plugin-auto-sidebar.git
-stargazers_count: 33
+stargazers_count: 34
 stargazers_url: https://api.github.com/repos/shanyuhai123/vuepress-plugin-auto-sidebar/stargazers
 statuses_url: https://api.github.com/repos/shanyuhai123/vuepress-plugin-auto-sidebar/statuses/{sha}
-subscribers_count: 2
+subscribers_count: 1
 subscribers_url: https://api.github.com/repos/shanyuhai123/vuepress-plugin-auto-sidebar/subscribers
 subscription_url: https://api.github.com/repos/shanyuhai123/vuepress-plugin-auto-sidebar/subscription
 svn_url: https://github.com/shanyuhai123/vuepress-plugin-auto-sidebar
@@ -99,10 +99,10 @@ tags_url: https://api.github.com/repos/shanyuhai123/vuepress-plugin-auto-sidebar
 teams_url: https://api.github.com/repos/shanyuhai123/vuepress-plugin-auto-sidebar/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/shanyuhai123/vuepress-plugin-auto-sidebar/git/trees{/sha}
-updated_at: '2020-06-09T08:56:19Z'
+updated_at: '2020-06-17T04:51:21Z'
 url: https://api.github.com/repos/shanyuhai123/vuepress-plugin-auto-sidebar
-watchers: 33
-watchers_count: 33
+watchers: 34
+watchers_count: 34
 ---
 
 # Vuepress Plugin Auto Sidebar

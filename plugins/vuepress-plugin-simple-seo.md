@@ -87,7 +87,7 @@ pushed_at: '2020-01-14T16:12:05Z'
 releases_url: https://api.github.com/repos/limdongjin/vuepress-plugin-simple-seo/releases{/id}
 size: 6978
 ssh_url: git@github.com:limdongjin/vuepress-plugin-simple-seo.git
-stargazers_count: 7
+stargazers_count: 8
 stargazers_url: https://api.github.com/repos/limdongjin/vuepress-plugin-simple-seo/stargazers
 statuses_url: https://api.github.com/repos/limdongjin/vuepress-plugin-simple-seo/statuses/{sha}
 subscribers_count: 0
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/limdongjin/vuepress-plugin-simple-seo/tag
 teams_url: https://api.github.com/repos/limdongjin/vuepress-plugin-simple-seo/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/limdongjin/vuepress-plugin-simple-seo/git/trees{/sha}
-updated_at: '2020-03-03T04:03:19Z'
+updated_at: '2020-06-12T10:14:30Z'
 url: https://api.github.com/repos/limdongjin/vuepress-plugin-simple-seo
-watchers: 7
-watchers_count: 7
+watchers: 8
+watchers_count: 8
 ---
 
 # vuepress-plugin-simple-seo

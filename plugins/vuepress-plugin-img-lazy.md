@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/tolking/vuepress-plugin-img-lazy/downloads
 events_url: https://api.github.com/repos/tolking/vuepress-plugin-img-lazy/events
 fork: false
-forks: 1
-forks_count: 1
+forks: 2
+forks_count: 2
 forks_url: https://api.github.com/repos/tolking/vuepress-plugin-img-lazy/forks
 full_name: tolking/vuepress-plugin-img-lazy
 git_commits_url: https://api.github.com/repos/tolking/vuepress-plugin-img-lazy/git/commits{/sha}
@@ -53,7 +53,7 @@ merges_url: https://api.github.com/repos/tolking/vuepress-plugin-img-lazy/merges
 milestones_url: https://api.github.com/repos/tolking/vuepress-plugin-img-lazy/milestones{/number}
 mirror_url: null
 name: vuepress-plugin-img-lazy
-network_count: 1
+network_count: 2
 node_id: MDEwOlJlcG9zaXRvcnkyMDk5NDU5NjA=
 notifications_url: https://api.github.com/repos/tolking/vuepress-plugin-img-lazy/notifications{?since,all,participating}
 open_issues: 0
@@ -87,7 +87,7 @@ pushed_at: '2020-04-04T02:39:32Z'
 releases_url: https://api.github.com/repos/tolking/vuepress-plugin-img-lazy/releases{/id}
 size: 555
 ssh_url: git@github.com:tolking/vuepress-plugin-img-lazy.git
-stargazers_count: 9
+stargazers_count: 8
 stargazers_url: https://api.github.com/repos/tolking/vuepress-plugin-img-lazy/stargazers
 statuses_url: https://api.github.com/repos/tolking/vuepress-plugin-img-lazy/statuses/{sha}
 subscribers_count: 2
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/tolking/vuepress-plugin-img-lazy/tags
 teams_url: https://api.github.com/repos/tolking/vuepress-plugin-img-lazy/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/tolking/vuepress-plugin-img-lazy/git/trees{/sha}
-updated_at: '2020-04-15T22:20:15Z'
+updated_at: '2020-06-16T04:06:08Z'
 url: https://api.github.com/repos/tolking/vuepress-plugin-img-lazy
-watchers: 9
-watchers_count: 9
+watchers: 8
+watchers_count: 8
 ---
 
 # vuepress-plugin-img-lazy

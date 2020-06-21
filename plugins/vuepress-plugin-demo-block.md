@@ -87,7 +87,7 @@ pushed_at: '2020-06-04T17:43:26Z'
 releases_url: https://api.github.com/repos/xiguaxigua/vuepress-plugin-demo-block/releases{/id}
 size: 817
 ssh_url: git@github.com:xiguaxigua/vuepress-plugin-demo-block.git
-stargazers_count: 69
+stargazers_count: 71
 stargazers_url: https://api.github.com/repos/xiguaxigua/vuepress-plugin-demo-block/stargazers
 statuses_url: https://api.github.com/repos/xiguaxigua/vuepress-plugin-demo-block/statuses/{sha}
 subscribers_count: 0
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/xiguaxigua/vuepress-plugin-demo-block/tag
 teams_url: https://api.github.com/repos/xiguaxigua/vuepress-plugin-demo-block/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/xiguaxigua/vuepress-plugin-demo-block/git/trees{/sha}
-updated_at: '2020-06-09T16:19:20Z'
+updated_at: '2020-06-16T08:47:58Z'
 url: https://api.github.com/repos/xiguaxigua/vuepress-plugin-demo-block
-watchers: 69
-watchers_count: 69
+watchers: 71
+watchers_count: 71
 ---
 
 # vuepress-plugin-demo-block

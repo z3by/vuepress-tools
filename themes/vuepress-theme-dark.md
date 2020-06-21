@@ -87,7 +87,7 @@ pushed_at: '2018-10-01T19:16:56Z'
 releases_url: https://api.github.com/repos/visualfanatic/vuepress-theme-dark/releases{/id}
 size: 155
 ssh_url: git@github.com:visualfanatic/vuepress-theme-dark.git
-stargazers_count: 11
+stargazers_count: 13
 stargazers_url: https://api.github.com/repos/visualfanatic/vuepress-theme-dark/stargazers
 statuses_url: https://api.github.com/repos/visualfanatic/vuepress-theme-dark/statuses/{sha}
 subscribers_count: 1
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/visualfanatic/vuepress-theme-dark/tags
 teams_url: https://api.github.com/repos/visualfanatic/vuepress-theme-dark/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/visualfanatic/vuepress-theme-dark/git/trees{/sha}
-updated_at: '2020-05-03T17:44:01Z'
+updated_at: '2020-06-20T17:05:08Z'
 url: https://api.github.com/repos/visualfanatic/vuepress-theme-dark
-watchers: 11
-watchers_count: 11
+watchers: 13
+watchers_count: 13
 ---
 
 <p align="center"><img src="vuepress.png" width="20%"></p>

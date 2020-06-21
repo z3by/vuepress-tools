@@ -84,9 +84,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/g-plane/vuepress-theme-simple-blog/pulls{/number}
-pushed_at: '2020-06-10T10:49:00Z'
+pushed_at: '2020-06-10T15:15:21Z'
 releases_url: https://api.github.com/repos/g-plane/vuepress-theme-simple-blog/releases{/id}
-size: 176
+size: 177
 ssh_url: git@github.com:g-plane/vuepress-theme-simple-blog.git
 stargazers_count: 1
 stargazers_url: https://api.github.com/repos/g-plane/vuepress-theme-simple-blog/stargazers
@@ -99,7 +99,7 @@ tags_url: https://api.github.com/repos/g-plane/vuepress-theme-simple-blog/tags
 teams_url: https://api.github.com/repos/g-plane/vuepress-theme-simple-blog/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/g-plane/vuepress-theme-simple-blog/git/trees{/sha}
-updated_at: '2020-06-10T10:49:03Z'
+updated_at: '2020-06-10T15:15:24Z'
 url: https://api.github.com/repos/g-plane/vuepress-theme-simple-blog
 watchers: 1
 watchers_count: 1

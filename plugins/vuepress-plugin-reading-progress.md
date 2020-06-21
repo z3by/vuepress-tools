@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/tolking/vuepress-plugin-reading-progress/downloads
 events_url: https://api.github.com/repos/tolking/vuepress-plugin-reading-progress/events
 fork: false
-forks: 0
-forks_count: 0
+forks: 1
+forks_count: 1
 forks_url: https://api.github.com/repos/tolking/vuepress-plugin-reading-progress/forks
 full_name: tolking/vuepress-plugin-reading-progress
 git_commits_url: https://api.github.com/repos/tolking/vuepress-plugin-reading-progress/git/commits{/sha}
@@ -53,7 +53,7 @@ merges_url: https://api.github.com/repos/tolking/vuepress-plugin-reading-progres
 milestones_url: https://api.github.com/repos/tolking/vuepress-plugin-reading-progress/milestones{/number}
 mirror_url: null
 name: vuepress-plugin-reading-progress
-network_count: 0
+network_count: 1
 node_id: MDEwOlJlcG9zaXRvcnkxODEyODI5MTg=
 notifications_url: https://api.github.com/repos/tolking/vuepress-plugin-reading-progress/notifications{?since,all,participating}
 open_issues: 0
@@ -87,7 +87,7 @@ pushed_at: '2020-03-21T01:00:32Z'
 releases_url: https://api.github.com/repos/tolking/vuepress-plugin-reading-progress/releases{/id}
 size: 12
 ssh_url: git@github.com:tolking/vuepress-plugin-reading-progress.git
-stargazers_count: 15
+stargazers_count: 16
 stargazers_url: https://api.github.com/repos/tolking/vuepress-plugin-reading-progress/stargazers
 statuses_url: https://api.github.com/repos/tolking/vuepress-plugin-reading-progress/statuses/{sha}
 subscribers_count: 1
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/tolking/vuepress-plugin-reading-progress/
 teams_url: https://api.github.com/repos/tolking/vuepress-plugin-reading-progress/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/tolking/vuepress-plugin-reading-progress/git/trees{/sha}
-updated_at: '2020-06-02T11:26:36Z'
+updated_at: '2020-06-18T04:03:24Z'
 url: https://api.github.com/repos/tolking/vuepress-plugin-reading-progress
-watchers: 15
-watchers_count: 15
+watchers: 16
+watchers_count: 16
 ---
 
 # vuepress-plugin-reading-progress

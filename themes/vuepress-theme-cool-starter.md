@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/FriendlyUser/vuepress-theme-cool-starter/pulls{/number}
-pushed_at: '2020-06-07T01:05:14Z'
+pushed_at: '2020-06-20T15:34:35Z'
 releases_url: https://api.github.com/repos/FriendlyUser/vuepress-theme-cool-starter/releases{/id}
-size: 6364
+size: 7016
 ssh_url: git@github.com:FriendlyUser/vuepress-theme-cool-starter.git
 stargazers_count: 50
 stargazers_url: https://api.github.com/repos/FriendlyUser/vuepress-theme-cool-starter/stargazers

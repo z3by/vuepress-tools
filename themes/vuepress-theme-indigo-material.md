@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/zhhlwd/vuepress-theme-indigo-material/downloads
 events_url: https://api.github.com/repos/zhhlwd/vuepress-theme-indigo-material/events
 fork: false
-forks: 37
-forks_count: 37
+forks: 39
+forks_count: 39
 forks_url: https://api.github.com/repos/zhhlwd/vuepress-theme-indigo-material/forks
 full_name: zhhlwd/vuepress-theme-indigo-material
 git_commits_url: https://api.github.com/repos/zhhlwd/vuepress-theme-indigo-material/git/commits{/sha}
@@ -53,7 +53,7 @@ merges_url: https://api.github.com/repos/zhhlwd/vuepress-theme-indigo-material/m
 milestones_url: https://api.github.com/repos/zhhlwd/vuepress-theme-indigo-material/milestones{/number}
 mirror_url: null
 name: vuepress-theme-indigo-material
-network_count: 37
+network_count: 39
 node_id: MDEwOlJlcG9zaXRvcnkxNzE0NzQzMDk=
 notifications_url: https://api.github.com/repos/zhhlwd/vuepress-theme-indigo-material/notifications{?since,all,participating}
 open_issues: 3
@@ -87,7 +87,7 @@ pushed_at: '2019-07-05T01:05:30Z'
 releases_url: https://api.github.com/repos/zhhlwd/vuepress-theme-indigo-material/releases{/id}
 size: 1371
 ssh_url: git@github.com:zhhlwd/vuepress-theme-indigo-material.git
-stargazers_count: 253
+stargazers_count: 251
 stargazers_url: https://api.github.com/repos/zhhlwd/vuepress-theme-indigo-material/stargazers
 statuses_url: https://api.github.com/repos/zhhlwd/vuepress-theme-indigo-material/statuses/{sha}
 subscribers_count: 4
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/zhhlwd/vuepress-theme-indigo-material/tag
 teams_url: https://api.github.com/repos/zhhlwd/vuepress-theme-indigo-material/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/zhhlwd/vuepress-theme-indigo-material/git/trees{/sha}
-updated_at: '2020-06-01T06:21:12Z'
+updated_at: '2020-06-20T23:45:50Z'
 url: https://api.github.com/repos/zhhlwd/vuepress-theme-indigo-material
-watchers: 253
-watchers_count: 253
+watchers: 251
+watchers_count: 251
 ---
 
 <h1 align="center">vuepress-theme-indigo-material</h1>

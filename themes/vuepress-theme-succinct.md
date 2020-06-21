@@ -12,7 +12,7 @@ compare_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/com
 contents_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/contents/{+path}
 contributors_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/contributors
 created_at: '2018-11-06T21:10:10Z'
-default_branch: master
+default_branch: main
 deployments_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/deployments
 description: A slightly opinionated theme for Vuepress
 disabled: false
@@ -29,7 +29,7 @@ git_tags_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/gi
 git_url: git://github.com/Microflash/vuepress-theme-succinct.git
 has_downloads: true
 has_issues: true
-has_pages: true
+has_pages: false
 has_projects: false
 has_wiki: true
 homepage: https://microflash.github.io/vuepress-theme-succinct/
@@ -58,24 +58,43 @@ node_id: MDEwOlJlcG9zaXRvcnkxNTY0NDgyMTU=
 notifications_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/notifications{?since,all,participating}
 open_issues: 0
 open_issues_count: 0
-owner:
-  avatar_url: https://avatars0.githubusercontent.com/u/19614213?v=4
+organization:
+  avatar_url: https://avatars0.githubusercontent.com/u/67139419?v=4
   events_url: https://api.github.com/users/Microflash/events{/privacy}
   followers_url: https://api.github.com/users/Microflash/followers
   following_url: https://api.github.com/users/Microflash/following{/other_user}
   gists_url: https://api.github.com/users/Microflash/gists{/gist_id}
   gravatar_id: ''
   html_url: https://github.com/Microflash
-  id: 19614213
+  id: 67139419
   login: Microflash
-  node_id: MDQ6VXNlcjE5NjE0MjEz
+  node_id: MDEyOk9yZ2FuaXphdGlvbjY3MTM5NDE5
   organizations_url: https://api.github.com/users/Microflash/orgs
   received_events_url: https://api.github.com/users/Microflash/received_events
   repos_url: https://api.github.com/users/Microflash/repos
   site_admin: false
   starred_url: https://api.github.com/users/Microflash/starred{/owner}{/repo}
   subscriptions_url: https://api.github.com/users/Microflash/subscriptions
-  type: User
+  type: Organization
+  url: https://api.github.com/users/Microflash
+owner:
+  avatar_url: https://avatars0.githubusercontent.com/u/67139419?v=4
+  events_url: https://api.github.com/users/Microflash/events{/privacy}
+  followers_url: https://api.github.com/users/Microflash/followers
+  following_url: https://api.github.com/users/Microflash/following{/other_user}
+  gists_url: https://api.github.com/users/Microflash/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/Microflash
+  id: 67139419
+  login: Microflash
+  node_id: MDEyOk9yZ2FuaXphdGlvbjY3MTM5NDE5
+  organizations_url: https://api.github.com/users/Microflash/orgs
+  received_events_url: https://api.github.com/users/Microflash/received_events
+  repos_url: https://api.github.com/users/Microflash/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/Microflash/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/Microflash/subscriptions
+  type: Organization
   url: https://api.github.com/users/Microflash
 permissions:
   admin: false
@@ -83,7 +102,7 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/pulls{/number}
-pushed_at: '2020-04-04T08:03:04Z'
+pushed_at: '2020-06-20T06:46:32Z'
 releases_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/releases{/id}
 size: 774
 ssh_url: git@github.com:Microflash/vuepress-theme-succinct.git
@@ -98,7 +117,7 @@ tags_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/tags
 teams_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/git/trees{/sha}
-updated_at: '2020-05-21T17:18:17Z'
+updated_at: '2020-06-19T06:24:21Z'
 url: https://api.github.com/repos/Microflash/vuepress-theme-succinct
 watchers: 7
 watchers_count: 7
@@ -108,7 +127,7 @@ watchers_count: 7
 
 [![Vuepress](https://img.shields.io/github/package-json/dependency-version/Microflash/vuepress-theme-succinct/@vuepress/plugin-search?label=vuepress)](https://github.com/vuejs/vuepress)
 [![npm](https://img.shields.io/npm/v/vuepress-theme-succinct)](https://www.npmjs.com/package/vuepress-theme-succinct)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](https://raw.githubusercontent.com/Naiyer Asif/vuepress-theme-succinct/master/LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](https://raw.githubusercontent.com/Microflash/vuepress-theme-succinct/main/LICENSE)
 
 A slightly opinionated theme for Vuepress
 

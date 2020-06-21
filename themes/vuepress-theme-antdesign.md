@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/whu-luojian/vuepress-theme-antdesign/downloads
 events_url: https://api.github.com/repos/whu-luojian/vuepress-theme-antdesign/events
 fork: false
-forks: 1
-forks_count: 1
+forks: 0
+forks_count: 0
 forks_url: https://api.github.com/repos/whu-luojian/vuepress-theme-antdesign/forks
 full_name: whu-luojian/vuepress-theme-antdesign
 git_commits_url: https://api.github.com/repos/whu-luojian/vuepress-theme-antdesign/git/commits{/sha}
@@ -48,7 +48,7 @@ merges_url: https://api.github.com/repos/whu-luojian/vuepress-theme-antdesign/me
 milestones_url: https://api.github.com/repos/whu-luojian/vuepress-theme-antdesign/milestones{/number}
 mirror_url: null
 name: vuepress-theme-antdesign
-network_count: 1
+network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyNjU3ODczNzA=
 notifications_url: https://api.github.com/repos/whu-luojian/vuepress-theme-antdesign/notifications{?since,all,participating}
 open_issues: 0
@@ -78,7 +78,7 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/whu-luojian/vuepress-theme-antdesign/pulls{/number}
-pushed_at: '2020-05-21T14:38:12Z'
+pushed_at: '2020-06-11T02:58:42Z'
 releases_url: https://api.github.com/repos/whu-luojian/vuepress-theme-antdesign/releases{/id}
 size: 589
 ssh_url: git@github.com:whu-luojian/vuepress-theme-antdesign.git

@@ -82,7 +82,7 @@ pushed_at: '2020-06-08T03:58:08Z'
 releases_url: https://api.github.com/repos/vczyh/vuepress-theme-something/releases{/id}
 size: 974
 ssh_url: git@github.com:vczyh/vuepress-theme-something.git
-stargazers_count: 0
+stargazers_count: 1
 stargazers_url: https://api.github.com/repos/vczyh/vuepress-theme-something/stargazers
 statuses_url: https://api.github.com/repos/vczyh/vuepress-theme-something/statuses/{sha}
 subscribers_count: 1
@@ -93,10 +93,10 @@ tags_url: https://api.github.com/repos/vczyh/vuepress-theme-something/tags
 teams_url: https://api.github.com/repos/vczyh/vuepress-theme-something/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/vczyh/vuepress-theme-something/git/trees{/sha}
-updated_at: '2020-04-30T20:02:40Z'
+updated_at: '2020-06-11T13:47:34Z'
 url: https://api.github.com/repos/vczyh/vuepress-theme-something
-watchers: 0
-watchers_count: 0
+watchers: 1
+watchers_count: 1
 ---
 
 

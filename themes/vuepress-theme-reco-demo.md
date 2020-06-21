@@ -97,9 +97,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/vuepress-reco/vuepress-theme-reco-demo/pulls{/number}
-pushed_at: '2020-05-29T15:48:03Z'
+pushed_at: '2020-06-21T07:33:32Z'
 releases_url: https://api.github.com/repos/vuepress-reco/vuepress-theme-reco-demo/releases{/id}
-size: 1361
+size: 1464
 ssh_url: git@github.com:vuepress-reco/vuepress-theme-reco-demo.git
 stargazers_count: 5
 stargazers_url: https://api.github.com/repos/vuepress-reco/vuepress-theme-reco-demo/stargazers

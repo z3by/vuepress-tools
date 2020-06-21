@@ -56,8 +56,8 @@ name: vuepress-plugin-tailwind
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyNDg5MTIwMzQ=
 notifications_url: https://api.github.com/repos/kawarimidoll/vuepress-plugin-tailwind/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
+open_issues: 1
+open_issues_count: 1
 owner:
   avatar_url: https://avatars0.githubusercontent.com/u/8146876?v=4
   events_url: https://api.github.com/users/kawarimidoll/events{/privacy}
@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/kawarimidoll/vuepress-plugin-tailwind/pulls{/number}
-pushed_at: '2020-05-12T06:53:11Z'
+pushed_at: '2020-06-15T07:55:34Z'
 releases_url: https://api.github.com/repos/kawarimidoll/vuepress-plugin-tailwind/releases{/id}
-size: 166
+size: 178
 ssh_url: git@github.com:kawarimidoll/vuepress-plugin-tailwind.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/kawarimidoll/vuepress-plugin-tailwind/stargazers

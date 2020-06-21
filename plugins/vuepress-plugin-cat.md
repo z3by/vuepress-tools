@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/QiShaoXuan/vuepress-plugin-cat/downloads
 events_url: https://api.github.com/repos/QiShaoXuan/vuepress-plugin-cat/events
 fork: false
-forks: 20
-forks_count: 20
+forks: 21
+forks_count: 21
 forks_url: https://api.github.com/repos/QiShaoXuan/vuepress-plugin-cat/forks
 full_name: QiShaoXuan/vuepress-plugin-cat
 git_commits_url: https://api.github.com/repos/QiShaoXuan/vuepress-plugin-cat/git/commits{/sha}
@@ -48,7 +48,7 @@ merges_url: https://api.github.com/repos/QiShaoXuan/vuepress-plugin-cat/merges
 milestones_url: https://api.github.com/repos/QiShaoXuan/vuepress-plugin-cat/milestones{/number}
 mirror_url: null
 name: vuepress-plugin-cat
-network_count: 20
+network_count: 21
 node_id: MDEwOlJlcG9zaXRvcnkyMDE4NjU5NDg=
 notifications_url: https://api.github.com/repos/QiShaoXuan/vuepress-plugin-cat/notifications{?since,all,participating}
 open_issues: 5

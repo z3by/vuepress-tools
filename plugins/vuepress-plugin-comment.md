@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/dongyuanxin/vuepress-plugin-comment/downloads
 events_url: https://api.github.com/repos/dongyuanxin/vuepress-plugin-comment/events
 fork: false
-forks: 7
-forks_count: 7
+forks: 8
+forks_count: 8
 forks_url: https://api.github.com/repos/dongyuanxin/vuepress-plugin-comment/forks
 full_name: dongyuanxin/vuepress-plugin-comment
 git_commits_url: https://api.github.com/repos/dongyuanxin/vuepress-plugin-comment/git/commits{/sha}
@@ -48,7 +48,7 @@ merges_url: https://api.github.com/repos/dongyuanxin/vuepress-plugin-comment/mer
 milestones_url: https://api.github.com/repos/dongyuanxin/vuepress-plugin-comment/milestones{/number}
 mirror_url: null
 name: vuepress-plugin-comment
-network_count: 7
+network_count: 8
 node_id: MDEwOlJlcG9zaXRvcnkxOTA4NTA2MTA=
 notifications_url: https://api.github.com/repos/dongyuanxin/vuepress-plugin-comment/notifications{?since,all,participating}
 open_issues: 3

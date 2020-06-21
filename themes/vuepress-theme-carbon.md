@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/lupas/vuepress-theme-carbon/pulls{/number}
-pushed_at: '2020-04-20T22:53:17Z'
+pushed_at: '2020-06-15T17:47:05Z'
 releases_url: https://api.github.com/repos/lupas/vuepress-theme-carbon/releases{/id}
-size: 402
+size: 404
 ssh_url: git@github.com:lupas/vuepress-theme-carbon.git
 stargazers_count: 1
 stargazers_url: https://api.github.com/repos/lupas/vuepress-theme-carbon/stargazers
@@ -98,7 +98,7 @@ tags_url: https://api.github.com/repos/lupas/vuepress-theme-carbon/tags
 teams_url: https://api.github.com/repos/lupas/vuepress-theme-carbon/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/lupas/vuepress-theme-carbon/git/trees{/sha}
-updated_at: '2020-04-20T22:53:19Z'
+updated_at: '2020-06-15T17:47:07Z'
 url: https://api.github.com/repos/lupas/vuepress-theme-carbon
 watchers: 1
 watchers_count: 1
@@ -135,7 +135,7 @@ yarn add vuepress-theme-carbon -D
 module.exports = {
   theme: 'carbon',
   themeConfig: {
-    // Your ad ID and placement lavbel from your Carbon Ads tag:
+    // Your ad ID and placement label from your Carbon Ads tag:
     carbonAds: {
       serve: "yourServeId",
       placement: "yourPlacementLabel"

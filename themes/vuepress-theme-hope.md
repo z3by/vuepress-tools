@@ -14,13 +14,13 @@ contributors_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope/c
 created_at: '2019-10-16T10:36:41Z'
 default_branch: master
 deployments_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope/deployments
-description: A light vuepress theme
+description: "A vuepress theme with tons of features\u2728"
 disabled: false
 downloads_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope/downloads
 events_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope/events
 fork: false
-forks: 7
-forks_count: 7
+forks: 8
+forks_count: 8
 forks_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope/forks
 full_name: Mister-Hope/vuepress-theme-hope
 git_commits_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope/git/commits{/sha}
@@ -53,11 +53,11 @@ merges_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope/merges
 milestones_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope/milestones{/number}
 mirror_url: null
 name: vuepress-theme-hope
-network_count: 7
+network_count: 8
 node_id: MDEwOlJlcG9zaXRvcnkyMTU1MjI0MDM=
 notifications_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope/notifications{?since,all,participating}
-open_issues: 8
-open_issues_count: 8
+open_issues: 4
+open_issues_count: 4
 owner:
   avatar_url: https://avatars0.githubusercontent.com/u/33315834?v=4
   events_url: https://api.github.com/users/Mister-Hope/events{/privacy}
@@ -83,11 +83,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope/pulls{/number}
-pushed_at: '2020-06-09T14:56:08Z'
+pushed_at: '2020-06-19T14:04:52Z'
 releases_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope/releases{/id}
-size: 64649
+size: 70482
 ssh_url: git@github.com:Mister-Hope/vuepress-theme-hope.git
-stargazers_count: 32
+stargazers_count: 34
 stargazers_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope/stargazers
 statuses_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope/statuses/{sha}
 subscribers_count: 1
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope/tags
 teams_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope/git/trees{/sha}
-updated_at: '2020-06-06T11:49:56Z'
+updated_at: '2020-06-18T12:36:44Z'
 url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope
-watchers: 32
-watchers_count: 32
+watchers: 34
+watchers_count: 34
 ---
 
 <p align="center">
@@ -115,7 +115,7 @@ watchers_count: 32
 
 [![Version](https://img.shields.io/npm/v/vuepress-theme-hope.svg?style=flat-square&logo=npm) ![Downloads](https://img.shields.io/npm/dm/vuepress-theme-hope.svg?style=flat-square&logo=npm) ![Size](https://img.shields.io/bundlephobia/min/vuepress-theme-hope?style=flat-square&logo=npm) ![Dependencies](https://img.shields.io/librariesio/release/npm/vuepress-theme-hope?style=flat-square)](https://www.npmjs.com/package/vuepress-theme-hope)
 
-![Issues](https://img.shields.io/github/issues-raw/mister-hope/vuepress-theme-hope?style=flat-square&logo=github)
+[![DeepScan grade](https://deepscan.io/api/teams/9792/projects/12381/branches/190414/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=9792&pid=12381&bid=190414) ![Issues](https://img.shields.io/github/issues-raw/mister-hope/vuepress-theme-hope?style=flat-square&logo=github)
 
 一个轻量的 vuepress 主题 / A light vuepress theme
 

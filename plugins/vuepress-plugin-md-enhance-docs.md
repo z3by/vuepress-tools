@@ -51,8 +51,8 @@ name: vuepress-plugin-md-enhance-docs
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyMjE0Mjc0NTk=
 notifications_url: https://api.github.com/repos/Mister-Hope/vuepress-plugin-md-enhance-docs/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
+open_issues: 1
+open_issues_count: 1
 owner:
   avatar_url: https://avatars0.githubusercontent.com/u/33315834?v=4
   events_url: https://api.github.com/users/Mister-Hope/events{/privacy}
@@ -78,9 +78,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/Mister-Hope/vuepress-plugin-md-enhance-docs/pulls{/number}
-pushed_at: '2020-06-06T11:58:31Z'
+pushed_at: '2020-06-18T12:37:31Z'
 releases_url: https://api.github.com/repos/Mister-Hope/vuepress-plugin-md-enhance-docs/releases{/id}
-size: 16946
+size: 20836
 ssh_url: git@github.com:Mister-Hope/vuepress-plugin-md-enhance-docs.git
 stargazers_count: 1
 stargazers_url: https://api.github.com/repos/Mister-Hope/vuepress-plugin-md-enhance-docs/stargazers
@@ -93,7 +93,7 @@ tags_url: https://api.github.com/repos/Mister-Hope/vuepress-plugin-md-enhance-do
 teams_url: https://api.github.com/repos/Mister-Hope/vuepress-plugin-md-enhance-docs/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/Mister-Hope/vuepress-plugin-md-enhance-docs/git/trees{/sha}
-updated_at: '2020-06-06T11:58:33Z'
+updated_at: '2020-06-18T12:37:33Z'
 url: https://api.github.com/repos/Mister-Hope/vuepress-plugin-md-enhance-docs
 watchers: 1
 watchers_count: 1

@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/xuekai-china/vuepress-plugin-right-anchor/downloads
 events_url: https://api.github.com/repos/xuekai-china/vuepress-plugin-right-anchor/events
 fork: false
-forks: 0
-forks_count: 0
+forks: 1
+forks_count: 1
 forks_url: https://api.github.com/repos/xuekai-china/vuepress-plugin-right-anchor/forks
 full_name: xuekai-china/vuepress-plugin-right-anchor
 git_commits_url: https://api.github.com/repos/xuekai-china/vuepress-plugin-right-anchor/git/commits{/sha}
@@ -53,11 +53,11 @@ merges_url: https://api.github.com/repos/xuekai-china/vuepress-plugin-right-anch
 milestones_url: https://api.github.com/repos/xuekai-china/vuepress-plugin-right-anchor/milestones{/number}
 mirror_url: null
 name: vuepress-plugin-right-anchor
-network_count: 0
+network_count: 1
 node_id: MDEwOlJlcG9zaXRvcnkyNTY3Mjk4MjY=
 notifications_url: https://api.github.com/repos/xuekai-china/vuepress-plugin-right-anchor/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
+open_issues: 2
+open_issues_count: 2
 owner:
   avatar_url: https://avatars2.githubusercontent.com/u/49433924?v=4
   events_url: https://api.github.com/users/xuekai-china/events{/privacy}
@@ -83,11 +83,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/xuekai-china/vuepress-plugin-right-anchor/pulls{/number}
-pushed_at: '2020-04-23T08:23:16Z'
+pushed_at: '2020-06-19T07:32:45Z'
 releases_url: https://api.github.com/repos/xuekai-china/vuepress-plugin-right-anchor/releases{/id}
 size: 18
 ssh_url: git@github.com:xuekai-china/vuepress-plugin-right-anchor.git
-stargazers_count: 0
+stargazers_count: 1
 stargazers_url: https://api.github.com/repos/xuekai-china/vuepress-plugin-right-anchor/stargazers
 statuses_url: https://api.github.com/repos/xuekai-china/vuepress-plugin-right-anchor/statuses/{sha}
 subscribers_count: 2
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/xuekai-china/vuepress-plugin-right-anchor
 teams_url: https://api.github.com/repos/xuekai-china/vuepress-plugin-right-anchor/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/xuekai-china/vuepress-plugin-right-anchor/git/trees{/sha}
-updated_at: '2020-04-23T08:23:19Z'
+updated_at: '2020-06-13T06:00:52Z'
 url: https://api.github.com/repos/xuekai-china/vuepress-plugin-right-anchor
-watchers: 0
-watchers_count: 0
+watchers: 1
+watchers_count: 1
 ---
 
 <h1 align="center">vuepress-plugin-right-anchor</h1>

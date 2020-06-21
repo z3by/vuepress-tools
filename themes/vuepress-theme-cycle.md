@@ -98,7 +98,7 @@ tags_url: https://api.github.com/repos/leCapsimRy/vuepress-theme-cycle/tags
 teams_url: https://api.github.com/repos/leCapsimRy/vuepress-theme-cycle/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/leCapsimRy/vuepress-theme-cycle/git/trees{/sha}
-updated_at: '2020-06-08T05:18:04Z'
+updated_at: '2020-06-16T05:46:07Z'
 url: https://api.github.com/repos/leCapsimRy/vuepress-theme-cycle
 watchers: 8
 watchers_count: 8

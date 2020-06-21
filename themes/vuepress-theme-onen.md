@@ -14,7 +14,7 @@ contributors_url: https://api.github.com/repos/Colasour/vuepress-theme-oneN/cont
 created_at: '2019-08-07T23:01:44Z'
 default_branch: master
 deployments_url: https://api.github.com/repos/Colasour/vuepress-theme-oneN/deployments
-description: "\U0001F388 A vuepress theme for oneN  https://vincenthy.site"
+description: "\U0001F388 A vuepress theme for oneN  colasour.site"
 disabled: false
 downloads_url: https://api.github.com/repos/Colasour/vuepress-theme-oneN/downloads
 events_url: https://api.github.com/repos/Colasour/vuepress-theme-oneN/events
@@ -98,7 +98,7 @@ tags_url: https://api.github.com/repos/Colasour/vuepress-theme-oneN/tags
 teams_url: https://api.github.com/repos/Colasour/vuepress-theme-oneN/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/Colasour/vuepress-theme-oneN/git/trees{/sha}
-updated_at: '2020-05-21T01:33:23Z'
+updated_at: '2020-06-15T08:18:55Z'
 url: https://api.github.com/repos/Colasour/vuepress-theme-oneN
 watchers: 37
 watchers_count: 37

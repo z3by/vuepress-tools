@@ -87,7 +87,7 @@ pushed_at: '2019-05-14T13:30:56Z'
 releases_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez/releases{/id}
 size: 1148
 ssh_url: git@github.com:ktquez/vuepress-theme-ktquez.git
-stargazers_count: 295
+stargazers_count: 294
 stargazers_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez/stargazers
 statuses_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez/statuses/{sha}
 subscribers_count: 11
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez/tags
 teams_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez/git/trees{/sha}
-updated_at: '2020-05-23T19:04:51Z'
+updated_at: '2020-06-20T23:39:36Z'
 url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez
-watchers: 295
-watchers_count: 295
+watchers: 294
+watchers_count: 294
 ---
 
 # vuepress-theme-ktquez
@@ -118,18 +118,33 @@ https://github.com/ktquez/vuepress-theme-ktquez-starter
 ---
 
 ## Table of Contents
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [Translations](#translations-of-the-theme)
-- [Newsletter](#newsletter)
-- [Responsive images](#responsive-post-cover)
-- [Structure](#structure-directores-suggestion)
+- [vuepress-theme-ktquez](#vuepress-theme-ktquez)
+  - [Vuepress theme ktquez starter](#vuepress-theme-ktquez-starter)
+  - [Table of Contents](#table-of-contents)
+  - [Installation](#installation)
+  - [Configuration](#configuration)
+    - [themeConfig](#themeconfig)
+  - [Translations of the theme](#translations-of-the-theme)
+  - [Newsletter](#newsletter)
+  - [Responsive post cover](#responsive-post-cover)
+- [Structure directores (Suggestion)](#structure-directores-suggestion)
 - [Frontmatter](#frontmatter)
-- [Override CSS](#override-css-stylus)
-- [Accessibility](#the-best-pratice-of-accessibility-includes)
-- [Lazy-Load](#lazy-load)
+  - [Home](#home)
+  - [Post](#post)
+  - [Category](#category)
+  - [Author](#author)
+  - [Page](#page)
+- [Override CSS (Stylus)](#override-css-stylus)
+- [The best pratice of accessibility includes](#the-best-pratice-of-accessibility-includes)
+- [Lazy-load](#lazy-load)
 - [And more](#and-more)
-- [Tools](#tools)
+  - [Anaytics campaign in posts](#anaytics-campaign-in-posts)
+  - [Fonts](#fonts)
+  - [Assets](#assets)
+  - [Ads](#ads)
+  - [Tools](#tools)
+  - [License](#license)
+  - [Contributing](#contributing)
 
 
 ## Installation
@@ -517,7 +532,7 @@ In addition to good practices such as:
 
 # Lazy-load
 
-It is possible to delay media loading using the global component <lazy-load>.
+It is possible to delay media loading using the global component \<lazy-load\>.
 
 In any markdown files you can to use this component, for example load a Youtube video
 
@@ -631,9 +646,3 @@ Tools that can help you:
 If you want a faster communication, find me on [@ktquez](https://twitter.com/ktquez)
 
 **Thank you**
-
-
-
-
-
-

@@ -1,108 +1,107 @@
 ---
-archive_url: https://api.github.com/repos/xugaoyi/vuepress-theme-vdoing/{archive_format}{/ref}
+archive_url: https://api.github.com/repos/duanqimiao/vuepress-theme-vdoing/{archive_format}{/ref}
 archived: false
-assignees_url: https://api.github.com/repos/xugaoyi/vuepress-theme-vdoing/assignees{/user}
-blobs_url: https://api.github.com/repos/xugaoyi/vuepress-theme-vdoing/git/blobs{/sha}
-branches_url: https://api.github.com/repos/xugaoyi/vuepress-theme-vdoing/branches{/branch}
-clone_url: https://github.com/xugaoyi/vuepress-theme-vdoing.git
-collaborators_url: https://api.github.com/repos/xugaoyi/vuepress-theme-vdoing/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/xugaoyi/vuepress-theme-vdoing/comments{/number}
-commits_url: https://api.github.com/repos/xugaoyi/vuepress-theme-vdoing/commits{/sha}
-compare_url: https://api.github.com/repos/xugaoyi/vuepress-theme-vdoing/compare/{base}...{head}
-contents_url: https://api.github.com/repos/xugaoyi/vuepress-theme-vdoing/contents/{+path}
-contributors_url: https://api.github.com/repos/xugaoyi/vuepress-theme-vdoing/contributors
-created_at: '2019-11-30T07:17:46Z'
+assignees_url: https://api.github.com/repos/duanqimiao/vuepress-theme-vdoing/assignees{/user}
+blobs_url: https://api.github.com/repos/duanqimiao/vuepress-theme-vdoing/git/blobs{/sha}
+branches_url: https://api.github.com/repos/duanqimiao/vuepress-theme-vdoing/branches{/branch}
+clone_url: https://github.com/duanqimiao/vuepress-theme-vdoing.git
+collaborators_url: https://api.github.com/repos/duanqimiao/vuepress-theme-vdoing/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/duanqimiao/vuepress-theme-vdoing/comments{/number}
+commits_url: https://api.github.com/repos/duanqimiao/vuepress-theme-vdoing/commits{/sha}
+compare_url: https://api.github.com/repos/duanqimiao/vuepress-theme-vdoing/compare/{base}...{head}
+contents_url: https://api.github.com/repos/duanqimiao/vuepress-theme-vdoing/contents/{+path}
+contributors_url: https://api.github.com/repos/duanqimiao/vuepress-theme-vdoing/contributors
+created_at: '2020-06-11T08:16:26Z'
 default_branch: master
-deployments_url: https://api.github.com/repos/xugaoyi/vuepress-theme-vdoing/deployments
-description: "\U0001F680\u4E00\u6B3E\u7B80\u6D01\u9AD8\u6548\u7684VuePress \u77E5\u8BC6\
-  \u7BA1\u7406&\u535A\u5BA2(blog) \u4E3B\u9898"
+deployments_url: https://api.github.com/repos/duanqimiao/vuepress-theme-vdoing/deployments
+description: My Blog Website
 disabled: false
-downloads_url: https://api.github.com/repos/xugaoyi/vuepress-theme-vdoing/downloads
-events_url: https://api.github.com/repos/xugaoyi/vuepress-theme-vdoing/events
+downloads_url: https://api.github.com/repos/duanqimiao/vuepress-theme-vdoing/downloads
+events_url: https://api.github.com/repos/duanqimiao/vuepress-theme-vdoing/events
 fork: false
-forks: 44
-forks_count: 44
-forks_url: https://api.github.com/repos/xugaoyi/vuepress-theme-vdoing/forks
-full_name: xugaoyi/vuepress-theme-vdoing
-git_commits_url: https://api.github.com/repos/xugaoyi/vuepress-theme-vdoing/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/xugaoyi/vuepress-theme-vdoing/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/xugaoyi/vuepress-theme-vdoing/git/tags{/sha}
-git_url: git://github.com/xugaoyi/vuepress-theme-vdoing.git
+forks: 0
+forks_count: 0
+forks_url: https://api.github.com/repos/duanqimiao/vuepress-theme-vdoing/forks
+full_name: duanqimiao/vuepress-theme-vdoing
+git_commits_url: https://api.github.com/repos/duanqimiao/vuepress-theme-vdoing/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/duanqimiao/vuepress-theme-vdoing/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/duanqimiao/vuepress-theme-vdoing/git/tags{/sha}
+git_url: git://github.com/duanqimiao/vuepress-theme-vdoing.git
 has_downloads: true
 has_issues: true
 has_pages: true
 has_projects: true
 has_wiki: true
-homepage: https://xugaoyi.com/
-hooks_url: https://api.github.com/repos/xugaoyi/vuepress-theme-vdoing/hooks
-html_url: https://github.com/xugaoyi/vuepress-theme-vdoing
-id: 224974884
-issue_comment_url: https://api.github.com/repos/xugaoyi/vuepress-theme-vdoing/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/xugaoyi/vuepress-theme-vdoing/issues/events{/number}
-issues_url: https://api.github.com/repos/xugaoyi/vuepress-theme-vdoing/issues{/number}
-keys_url: https://api.github.com/repos/xugaoyi/vuepress-theme-vdoing/keys{/key_id}
-labels_url: https://api.github.com/repos/xugaoyi/vuepress-theme-vdoing/labels{/name}
+homepage: null
+hooks_url: https://api.github.com/repos/duanqimiao/vuepress-theme-vdoing/hooks
+html_url: https://github.com/duanqimiao/vuepress-theme-vdoing
+id: 271490385
+issue_comment_url: https://api.github.com/repos/duanqimiao/vuepress-theme-vdoing/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/duanqimiao/vuepress-theme-vdoing/issues/events{/number}
+issues_url: https://api.github.com/repos/duanqimiao/vuepress-theme-vdoing/issues{/number}
+keys_url: https://api.github.com/repos/duanqimiao/vuepress-theme-vdoing/keys{/key_id}
+labels_url: https://api.github.com/repos/duanqimiao/vuepress-theme-vdoing/labels{/name}
 language: Vue
-languages_url: https://api.github.com/repos/xugaoyi/vuepress-theme-vdoing/languages
+languages_url: https://api.github.com/repos/duanqimiao/vuepress-theme-vdoing/languages
 license:
   key: mit
   name: MIT License
   node_id: MDc6TGljZW5zZTEz
   spdx_id: MIT
   url: https://api.github.com/licenses/mit
-merges_url: https://api.github.com/repos/xugaoyi/vuepress-theme-vdoing/merges
-milestones_url: https://api.github.com/repos/xugaoyi/vuepress-theme-vdoing/milestones{/number}
+merges_url: https://api.github.com/repos/duanqimiao/vuepress-theme-vdoing/merges
+milestones_url: https://api.github.com/repos/duanqimiao/vuepress-theme-vdoing/milestones{/number}
 mirror_url: null
 name: vuepress-theme-vdoing
-network_count: 44
-node_id: MDEwOlJlcG9zaXRvcnkyMjQ5NzQ4ODQ=
-notifications_url: https://api.github.com/repos/xugaoyi/vuepress-theme-vdoing/notifications{?since,all,participating}
-open_issues: 208
-open_issues_count: 208
+network_count: 0
+node_id: MDEwOlJlcG9zaXRvcnkyNzE0OTAzODU=
+notifications_url: https://api.github.com/repos/duanqimiao/vuepress-theme-vdoing/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/5212214?v=4
-  events_url: https://api.github.com/users/xugaoyi/events{/privacy}
-  followers_url: https://api.github.com/users/xugaoyi/followers
-  following_url: https://api.github.com/users/xugaoyi/following{/other_user}
-  gists_url: https://api.github.com/users/xugaoyi/gists{/gist_id}
+  avatar_url: https://avatars2.githubusercontent.com/u/17025523?v=4
+  events_url: https://api.github.com/users/duanqimiao/events{/privacy}
+  followers_url: https://api.github.com/users/duanqimiao/followers
+  following_url: https://api.github.com/users/duanqimiao/following{/other_user}
+  gists_url: https://api.github.com/users/duanqimiao/gists{/gist_id}
   gravatar_id: ''
-  html_url: https://github.com/xugaoyi
-  id: 5212214
-  login: xugaoyi
-  node_id: MDQ6VXNlcjUyMTIyMTQ=
-  organizations_url: https://api.github.com/users/xugaoyi/orgs
-  received_events_url: https://api.github.com/users/xugaoyi/received_events
-  repos_url: https://api.github.com/users/xugaoyi/repos
+  html_url: https://github.com/duanqimiao
+  id: 17025523
+  login: duanqimiao
+  node_id: MDQ6VXNlcjE3MDI1NTIz
+  organizations_url: https://api.github.com/users/duanqimiao/orgs
+  received_events_url: https://api.github.com/users/duanqimiao/received_events
+  repos_url: https://api.github.com/users/duanqimiao/repos
   site_admin: false
-  starred_url: https://api.github.com/users/xugaoyi/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/xugaoyi/subscriptions
+  starred_url: https://api.github.com/users/duanqimiao/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/duanqimiao/subscriptions
   type: User
-  url: https://api.github.com/users/xugaoyi
+  url: https://api.github.com/users/duanqimiao
 permissions:
   admin: false
   pull: true
   push: false
 private: false
-pulls_url: https://api.github.com/repos/xugaoyi/vuepress-theme-vdoing/pulls{/number}
-pushed_at: '2020-06-10T05:04:52Z'
-releases_url: https://api.github.com/repos/xugaoyi/vuepress-theme-vdoing/releases{/id}
-size: 7954
-ssh_url: git@github.com:xugaoyi/vuepress-theme-vdoing.git
-stargazers_count: 272
-stargazers_url: https://api.github.com/repos/xugaoyi/vuepress-theme-vdoing/stargazers
-statuses_url: https://api.github.com/repos/xugaoyi/vuepress-theme-vdoing/statuses/{sha}
-subscribers_count: 6
-subscribers_url: https://api.github.com/repos/xugaoyi/vuepress-theme-vdoing/subscribers
-subscription_url: https://api.github.com/repos/xugaoyi/vuepress-theme-vdoing/subscription
-svn_url: https://github.com/xugaoyi/vuepress-theme-vdoing
-tags_url: https://api.github.com/repos/xugaoyi/vuepress-theme-vdoing/tags
-teams_url: https://api.github.com/repos/xugaoyi/vuepress-theme-vdoing/teams
+pulls_url: https://api.github.com/repos/duanqimiao/vuepress-theme-vdoing/pulls{/number}
+pushed_at: '2020-06-11T09:29:23Z'
+releases_url: https://api.github.com/repos/duanqimiao/vuepress-theme-vdoing/releases{/id}
+size: 6119
+ssh_url: git@github.com:duanqimiao/vuepress-theme-vdoing.git
+stargazers_count: 0
+stargazers_url: https://api.github.com/repos/duanqimiao/vuepress-theme-vdoing/stargazers
+statuses_url: https://api.github.com/repos/duanqimiao/vuepress-theme-vdoing/statuses/{sha}
+subscribers_count: 1
+subscribers_url: https://api.github.com/repos/duanqimiao/vuepress-theme-vdoing/subscribers
+subscription_url: https://api.github.com/repos/duanqimiao/vuepress-theme-vdoing/subscription
+svn_url: https://github.com/duanqimiao/vuepress-theme-vdoing
+tags_url: https://api.github.com/repos/duanqimiao/vuepress-theme-vdoing/tags
+teams_url: https://api.github.com/repos/duanqimiao/vuepress-theme-vdoing/teams
 temp_clone_token: ''
-trees_url: https://api.github.com/repos/xugaoyi/vuepress-theme-vdoing/git/trees{/sha}
-updated_at: '2020-06-10T05:43:50Z'
-url: https://api.github.com/repos/xugaoyi/vuepress-theme-vdoing
-watchers: 272
-watchers_count: 272
+trees_url: https://api.github.com/repos/duanqimiao/vuepress-theme-vdoing/git/trees{/sha}
+updated_at: '2020-06-11T09:24:38Z'
+url: https://api.github.com/repos/duanqimiao/vuepress-theme-vdoing
+watchers: 0
+watchers_count: 0
 ---
 
 <p align="center"><a href="https://xugaoyi.com/" target="_blank" rel="noopener noreferrer"><img width="180" src="https://cdn.jsdelivr.net/gh/xugaoyi/image_store/blog/20200409124835.png" alt="logo"></a></p>

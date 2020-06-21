@@ -84,11 +84,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/ttskch/vuepress-theme-blog-vuetify/pulls{/number}
-pushed_at: '2020-05-21T02:20:56Z'
+pushed_at: '2020-06-21T07:37:59Z'
 releases_url: https://api.github.com/repos/ttskch/vuepress-theme-blog-vuetify/releases{/id}
-size: 7012
+size: 7379
 ssh_url: git@github.com:ttskch/vuepress-theme-blog-vuetify.git
-stargazers_count: 5
+stargazers_count: 6
 stargazers_url: https://api.github.com/repos/ttskch/vuepress-theme-blog-vuetify/stargazers
 statuses_url: https://api.github.com/repos/ttskch/vuepress-theme-blog-vuetify/statuses/{sha}
 subscribers_count: 1
@@ -99,10 +99,10 @@ tags_url: https://api.github.com/repos/ttskch/vuepress-theme-blog-vuetify/tags
 teams_url: https://api.github.com/repos/ttskch/vuepress-theme-blog-vuetify/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/ttskch/vuepress-theme-blog-vuetify/git/trees{/sha}
-updated_at: '2020-06-09T02:23:37Z'
+updated_at: '2020-06-21T07:38:02Z'
 url: https://api.github.com/repos/ttskch/vuepress-theme-blog-vuetify
-watchers: 5
-watchers_count: 5
+watchers: 6
+watchers_count: 6
 ---
 
 # vuepress-theme-blog-vuetify

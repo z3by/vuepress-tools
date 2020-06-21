@@ -56,8 +56,8 @@ name: vuepress-plugin-seo
 network_count: 4
 node_id: MDEwOlJlcG9zaXRvcnkxNjY0MTg4Nzg=
 notifications_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo/notifications{?since,all,participating}
-open_issues: 2
-open_issues_count: 2
+open_issues: 3
+open_issues_count: 3
 owner:
   avatar_url: https://avatars1.githubusercontent.com/u/3642397?v=4
   events_url: https://api.github.com/users/lorisleiva/events{/privacy}
@@ -87,7 +87,7 @@ pushed_at: '2020-05-23T07:29:35Z'
 releases_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo/releases{/id}
 size: 11
 ssh_url: git@github.com:lorisleiva/vuepress-plugin-seo.git
-stargazers_count: 77
+stargazers_count: 79
 stargazers_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo/stargazers
 statuses_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo/statuses/{sha}
 subscribers_count: 3
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo/tags
 teams_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo/git/trees{/sha}
-updated_at: '2020-05-31T11:32:47Z'
+updated_at: '2020-06-14T08:35:03Z'
 url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo
-watchers: 77
-watchers_count: 77
+watchers: 79
+watchers_count: 79
 ---
 
 # Vuepress Plugin SEO
