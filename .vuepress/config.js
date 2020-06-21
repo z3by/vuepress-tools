@@ -75,7 +75,7 @@ module.exports = {
     editLinkText: "",
     lastUpdated: false,
     author: "Ahmad Mostafa",
-    domain: "z3by.github.io/vuepress.tools",
+    domain: "z3by.github.io/vuepress-tools",
     nav: [
       {
         text: "Home",
@@ -108,7 +108,7 @@ module.exports = {
     [
       "sitemap",
       {
-        hostname: "https://vuepress.tools",
+        hostname: "https://z3by.github.io/vuepress-tools",
       },
     ],
     ["seo"],
