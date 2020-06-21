@@ -1,9 +1,12 @@
 const fs = require("fs");
 const { description } = require("../package");
 
-const themesSidebar = fs.readdirSync(`${__dirname}/../themes/`).filter((val) => val !== "README.md")
-const pluginsSidebar = fs.readdirSync(`${__dirname}/../plugins/`).filter((val) => val !== "README.md")
-
+const themesSidebar = fs
+  .readdirSync(`${__dirname}/../themes/`)
+  .filter((val) => val !== "README.md");
+const pluginsSidebar = fs
+  .readdirSync(`${__dirname}/../plugins/`)
+  .filter((val) => val !== "README.md");
 
 module.exports = {
   /**
@@ -60,12 +63,14 @@ module.exports = {
     ],
     ["meta", { name: "msapplication-TileColor", content: "#da532c" }],
     ["meta", { name: "theme-color", content: "#ffffff" }],
-    ["script",
+    [
+      "script",
       {
         "data-ad-client": "ca-pub-8518970931701152",
         async: true,
-        src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
-      }],
+        src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+      },
+    ],
   ],
 
   /**
@@ -118,6 +123,12 @@ module.exports = {
       },
     ],
     ["seo"],
-    require.resolve("./setTitle")
+    [
+      "@vuepress/google-analytics",
+      {
+        ga: "UA-144752623-6",
+      },
+    ],
+    require.resolve("./setTitle"),
   ],
 };
