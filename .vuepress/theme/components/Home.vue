@@ -1,111 +1,76 @@
 <template>
-
   <main class="fade-in">
-    <div
-      class="home"
-      aria-labelledby="main-title"
-    >
+    <div class="home" aria-labelledby="main-title">
       <div class="bg-gradient"></div>
       <header class="hero">
-        <div
-          align="center"
-          class="img-container"
-        >
+        <div align="center" class="img-container">
           <img
             v-if="data.heroImage"
             :src="$withBase(data.heroImage)"
             :alt="data.heroAlt || 'hero'"
-          >
+          />
         </div>
 
         <div>
-          <h1
-            v-if="data.heroText !== null"
-            id="main-title"
-          >{{ data.heroText || $title || 'Hello' }}</h1>
+          <h1 v-if="data.heroText !== null" id="main-title">
+            {{ data.heroText || $title || "Hello" }}
+          </h1>
 
           <p class="description">
-            {{ data.tagline || $description || 'Welcome to your VuePress site' }}
+            {{
+              data.tagline || $description || "Welcome to your VuePress site"
+            }}
           </p>
 
-          <div
-            class="action"
-            v-if="data.actionText && data.actionLink"
-          >
-            <NavLink
-              class="action-button"
-              :item="actionLink"
-            />
+          <div class="action" v-if="data.actionText && data.actionLink">
+            <NavLink class="action-button" :item="actionLink" />
           </div>
         </div>
       </header>
 
-      <div
-        class="centerflipcards"
-        v-if="data.features && data.features.length"
-      >
+      <div v-if="data.features && data.features.length" class="features-list">
         <div
-          class="square-flip"
           v-for="(feature, index) in data.features"
           :key="index"
+          class="feature"
         >
-          <div
-            class='square'
-            data-image="https://images.unsplash.com/photo-1477313372947-d68a7d410e9f?dpr=1&auto=format&crop=entropy&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb"
-          >
-            <div class="square-container">
-              <h2 class="textshadow">{{feature.title}}</h2>
-            </div>
-            <div class="flip-overlay"></div>
+          <h2>{{ feature.title }}</h2>
+          <p>{{ feature.details }}</p>
+          <div>
+            <img :src="$withBase(feature.img)" :alt="feature.title" />
           </div>
-          <div
-            class='square2'
-            data-image="https://images.unsplash.com/photo-1477313372947-d68a7d410e9f?dpr=1&auto=format&crop=entropy&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb"
-          >
-            <div class="square-container2">
-              <div class="align-center">
-                <p>{{feature.details}}</p>
-                <router-link
-                  :to="feature.link"
-                  class="action-button"
-                >Explore</router-link>
-              </div>
-            </div>
-            <div class="flip-overlay"></div>
-          </div>
+          <router-link :to="feature.link" class="action-button">
+            Explore
+          </router-link>
         </div>
       </div>
 
       <Content class="theme-default-content custom" />
 
-      <footer
-        class="footer"
-        v-if="data.footer"
-      >
-      </footer>
+      <footer class="footer" v-if="data.footer"></footer>
     </div>
   </main>
 </template>
 
 <script>
-import NavLink from '@theme/components/NavLink.vue'
+import NavLink from "@theme/components/NavLink.vue";
 
 export default {
   components: { NavLink },
 
   computed: {
-    data () {
-      return this.$page.frontmatter
+    data() {
+      return this.$page.frontmatter;
     },
 
-    actionLink () {
+    actionLink() {
       return {
         link: this.data.actionLink,
-        text: this.data.actionText
-      }
-    }
-  }
-}
+        text: this.data.actionText,
+      };
+    },
+  },
+};
 </script>
 
 <style lang="stylus">
@@ -115,20 +80,28 @@ export default {
   margin: 0px auto;
   display: block;
 
+@keyframes gradient-background {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
   .bg-gradient {
     position: absolute;
     left: 0;
     width: 100vw;
-    height: 12rem;
-    background: linear-gradient($accentColor, $accentColorLight);
+    height: 15rem;
+    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+	  background-size: 400% 400%;
+	  animation: gradient-background 20s ease infinite;
   }
 
   .hero {
     display: flex;
     flex-direction: row;
     margin: 0 auto;
-    margin-top: 2rem;
-    box-shadow: 10px 5px 20px rgba(0, 0, 0, 0.1);
+    margin-top: 3rem;
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+    border-radius: 1rem;
     background-color: white;
     padding: 1.5rem;
     position: relative;
@@ -229,180 +202,30 @@ export default {
         padding: 0.6rem 1.2rem;
       }
     }
+  }
+}
+.features-list {
+  max-width: 45rem;
+  margin: 5rem auto;
 
-    .feature {
-      h2 {
-        font-size: 1.25rem;
-      }
+  .feature {
+    background: linear-gradient(to bottom right, lighten(beige, 40%), lighten(beige, 80%));
+    box-shadow: .3rem .3rem .5rem 0 lighten(gray, 80%),
+                -0.6rem -0.6rem 1rem 0 white;
+    margin-top: 5rem;
+    border-radius: 4rem;
+    padding: 3rem;
+
+    h2 {
+      border none;
+      font-size 2.4rem;
+      margin 0;
+    }
+
+    img {
+      max-width: 100%;
+      margin 1rem;
     }
   }
-}
-
-.square-flip {
-  perspective: 1000;
-  transform: perspective(1000px);
-  transform-style: preserve-3d;
-  position: relative;
-}
-
-.square-flip {
-  width: 100%;
-  height: 300px;
-}
-
-.square, .square2 {
-  width: 100%;
-  height: 100%;
-}
-
-.square {
-  background-size: cover;
-  background-position: center center;
-  transition: transform 0.6s cubic-bezier(0.5, 0.3, 0.3, 1);
-  overflow: hidden;
-  position: absolute;
-  top: 0;
-  backface-visibility: hidden;
-}
-
-.square-flip .square {
-  transform: rotateY(0deg);
-  transform-style: preserve-3d;
-  z-index: 1;
-}
-
-.square-flip:hover .square {
-  transform: rotateY(-180deg);
-  transform-style: preserve-3d;
-}
-
-.square2 {
-  background-size: cover;
-  background-position: center center;
-  transition: transform 0.6s cubic-bezier(0.5, 0.3, 0.3, 1);
-  overflow: hidden;
-  position: absolute;
-  top: 0;
-  backface-visibility: hidden;
-}
-
-.square-flip .square2 {
-  transform: rotateY(180deg);
-  transform-style: preserve-3d;
-  z-index: 1;
-}
-
-.square-flip:hover .square2 {
-  transform: rotateY(0deg);
-  transform-style: preserve-3d;
-}
-
-.square-container {
-  padding: 40px;
-  text-align: center;
-  position: relative;
-  top: 50%;
-  transition: transform 0.6s cubic-bezier(0.5, 0.3, 0.3, 1);
-  transform: translateY(-50%) translateX(0px) scale(1);
-  transform-style: preserve-3d;
-  z-index: 2;
-}
-
-.square-flip:hover .square-container {
-  transform: translateY(-50%) translateX(-650px) scale(0.88);
-  transform-style: preserve-3d;
-}
-
-.square-container2 {
-  padding: 40px;
-  text-align: center;
-  position: relative;
-  top: 50%;
-  transition: transform 0.6s cubic-bezier(0.5, 0.3, 0.3, 1);
-  transform: translateY(-50%) translateX(650px) translateZ(60px) scale(0.88);
-  transform-style: preserve-3d;
-  z-index: 2;
-}
-
-.square-flip:hover .square-container2 {
-  transform: translateY(-50%) translateX(0px) translateZ(0px) scale(1);
-  transform-style: preserve-3d;
-}
-
-.square-flip h2 {
-  color: white;
-  border: none;
-}
-
-.square-flip h3 {
-  color: white;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 26px;
-}
-
-.flip-overlay {
-  display: block;
-  background: linear-gradient($accentColor, darken($accentColorLight, 30%));
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-
-.align-center {
-  margin: 0 auto;
-}
-
-.square-flip .square .boxshadow, .square-flip .square .textshadow, .square-flip .square2 .boxshadow, .square-flip .square2 .textshadow {
-  transition: 0.6s;
-}
-
-.square-flip .square .boxshadow {
-  box-shadow: 24px 42px 58px -8px rgba(0, 0, 0, 0.3);
-}
-
-.square-flip .square .textshadow {
-  text-shadow: 24px 42px 58px -8px rgba(0, 0, 0, 0.3);
-}
-
-.square-flip:hover .square .boxshadow, .square-flip:hover .square .textshadow {
-  box-shadow: 240px 42px 58px -8px rgba(0, 0, 0, 0);
-}
-
-.square-flip .square2 .boxshadow {
-  box-shadow: 240px 42px 58px -8px rgba(0, 0, 0, 0);
-}
-
-.square-flip .square2 .textshadow {
-  text-shadow: 240px 42px 58px -8px rgba(0, 0, 0, 0);
-}
-
-.square-flip:hover .square2 .boxshadow, .square-flip:hover .square2 .textshadow {
-  box-shadow: 24px 42px 58px -8px rgba(0, 0, 0, 0.3);
-}
-
-/* You can delete this style */
-.centerflipcards {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  grid-gap: 3rem;
-  width: 100%;
-  text-align: center;
-  margin: 6rem auto;
-  position: relative;
-  z-index: 12;
-
-  @media (max-width: ($MQNarrow + 1px)) {
-    grid-template-columns: 1fr;
-  }
-}
-
-.clearfix {
-  clear: both;
-}
-
-.centerflipcards p {
-  color: $lightColor;
 }
 </style>

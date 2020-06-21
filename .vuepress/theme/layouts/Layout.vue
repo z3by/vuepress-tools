@@ -24,7 +24,7 @@
       <slot name="page-top" #top />
       <slot name="page-bottom" #bottom />
     </Page>
-    <p class="text-right m-1">
+    <p class="m-1">
       Made with ❤️ by
       <a
         href="http://ahmadmostafa.com"

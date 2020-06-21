@@ -48,7 +48,7 @@ export default {
 <style lang="stylus" scoped>
 .sidebar-link {
   display: flex;
-  padding: 0.5rem;
+  padding: 1rem;
 
   &:hover {
     background-color: $hoverBgColor;
