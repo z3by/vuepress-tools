@@ -6,10 +6,6 @@
       data-ad-slot="3317068607"
     />
     <Content class="theme-default-content fade-in" />
-    <InArticleAdsense
-      data-ad-client="ca-pub-8518970931701152"
-      data-ad-slot="3317068607"
-    />
     <PageEdit />
 
     <PageNav v-bind="{ sidebarItems }" />
@@ -33,5 +29,6 @@ export default {
 
 .page
   padding-bottom 2rem
+  padding-top 4rem
   display block
 </style>
