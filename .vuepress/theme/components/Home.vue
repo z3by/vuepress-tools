@@ -46,7 +46,14 @@
       </div>
 
       <Content class="theme-default-content custom" />
-
+      <ins
+        class="adsbygoogle"
+        style="display:block"
+        data-ad-client="ca-pub-8518970931701152"
+        data-ad-slot="1315196571"
+        data-ad-format="auto"
+        data-full-width-responsive="true"
+      ></ins>
       <footer class="footer" v-if="data.footer"></footer>
     </div>
   </main>
