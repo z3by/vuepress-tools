@@ -1,14 +1,15 @@
 <template>
   <main class="page">
     <slot name="top" />
-    <ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8518970931701152"
-     data-ad-slot="3317068607"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-  
+    <InArticleAdsense
+      data-ad-client="ca-pub-8518970931701152"
+      data-ad-slot="3317068607"
+    />
     <Content class="theme-default-content fade-in" />
+    <InArticleAdsense
+      data-ad-client="ca-pub-8518970931701152"
+      data-ad-slot="3317068607"
+    />
     <PageEdit />
 
     <PageNav v-bind="{ sidebarItems }" />
@@ -18,13 +19,13 @@
 </template>
 
 <script>
-import PageEdit from '@theme/components/PageEdit.vue'
-import PageNav from '@theme/components/PageNav.vue'
+import PageEdit from "@theme/components/PageEdit.vue";
+import PageNav from "@theme/components/PageNav.vue";
 
 export default {
   components: { PageEdit, PageNav },
-  props: ['sidebarItems']
-}
+  props: ["sidebarItems"],
+};
 </script>
 
 <style lang="stylus">
@@ -33,5 +34,4 @@ export default {
 .page
   padding-bottom 2rem
   display block
-
 </style>

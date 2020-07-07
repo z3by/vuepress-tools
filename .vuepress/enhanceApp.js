@@ -1,8 +1,4 @@
-/**
- * Client app enhancement file.
- *
- * https://v1.vuepress.vuejs.org/guide/basic-config.html#app-level-enhancements
- */
+import Ads from 'vue-google-adsense'
 
 export default ({
   Vue, // the version of Vue being used in the VuePress app
@@ -10,5 +6,9 @@ export default ({
   router, // the router instance for the app
   siteData // site metadata
 }) => {
-  // ...apply enhancements for the site.
+  Vue.use(require('vue-script2'))
+
+  Vue.use(Ads.Adsense)
+  Vue.use(Ads.InArticleAdsense)
+  Vue.use(Ads.InFeedAdsense)
 }
