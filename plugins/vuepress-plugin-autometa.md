@@ -87,7 +87,7 @@ pushed_at: '2020-04-25T01:18:06Z'
 releases_url: https://api.github.com/repos/webmasterish/vuepress-plugin-autometa/releases{/id}
 size: 34
 ssh_url: git@github.com:webmasterish/vuepress-plugin-autometa.git
-stargazers_count: 33
+stargazers_count: 35
 stargazers_url: https://api.github.com/repos/webmasterish/vuepress-plugin-autometa/stargazers
 statuses_url: https://api.github.com/repos/webmasterish/vuepress-plugin-autometa/statuses/{sha}
 subscribers_count: 1
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/webmasterish/vuepress-plugin-autometa/tag
 teams_url: https://api.github.com/repos/webmasterish/vuepress-plugin-autometa/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/webmasterish/vuepress-plugin-autometa/git/trees{/sha}
-updated_at: '2020-05-24T22:57:56Z'
+updated_at: '2020-07-06T10:51:28Z'
 url: https://api.github.com/repos/webmasterish/vuepress-plugin-autometa
-watchers: 33
-watchers_count: 33
+watchers: 35
+watchers_count: 35
 ---
 
 # VuePress Plugin Auto Meta

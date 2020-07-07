@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/vxhly/vuepress-plugin-one-click-copy/pulls{/number}
-pushed_at: '2020-03-16T09:34:20Z'
+pushed_at: '2020-06-28T13:01:05Z'
 releases_url: https://api.github.com/repos/vxhly/vuepress-plugin-one-click-copy/releases{/id}
-size: 8
+size: 9
 ssh_url: git@github.com:vxhly/vuepress-plugin-one-click-copy.git
 stargazers_count: 3
 stargazers_url: https://api.github.com/repos/vxhly/vuepress-plugin-one-click-copy/stargazers
@@ -98,7 +98,7 @@ tags_url: https://api.github.com/repos/vxhly/vuepress-plugin-one-click-copy/tags
 teams_url: https://api.github.com/repos/vxhly/vuepress-plugin-one-click-copy/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/vxhly/vuepress-plugin-one-click-copy/git/trees{/sha}
-updated_at: '2020-06-04T07:59:14Z'
+updated_at: '2020-06-28T13:01:07Z'
 url: https://api.github.com/repos/vxhly/vuepress-plugin-one-click-copy
 watchers: 3
 watchers_count: 3

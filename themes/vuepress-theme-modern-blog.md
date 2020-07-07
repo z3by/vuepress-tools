@@ -91,7 +91,7 @@ pushed_at: '2020-06-08T08:09:26Z'
 releases_url: https://api.github.com/repos/z3by/vuepress-theme-modern-blog/releases{/id}
 size: 3786
 ssh_url: git@github.com:z3by/vuepress-theme-modern-blog.git
-stargazers_count: 48
+stargazers_count: 49
 stargazers_url: https://api.github.com/repos/z3by/vuepress-theme-modern-blog/stargazers
 statuses_url: https://api.github.com/repos/z3by/vuepress-theme-modern-blog/statuses/{sha}
 subscribers_count: 4
@@ -102,10 +102,10 @@ tags_url: https://api.github.com/repos/z3by/vuepress-theme-modern-blog/tags
 teams_url: https://api.github.com/repos/z3by/vuepress-theme-modern-blog/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/z3by/vuepress-theme-modern-blog/git/trees{/sha}
-updated_at: '2020-06-20T21:21:50Z'
+updated_at: '2020-07-02T15:30:05Z'
 url: https://api.github.com/repos/z3by/vuepress-theme-modern-blog
-watchers: 48
-watchers_count: 48
+watchers: 49
+watchers_count: 49
 ---
 
 # vuepress-theme-modern-blog

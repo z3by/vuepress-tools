@@ -1,169 +1,192 @@
 ---
-archive_url: https://api.github.com/repos/vvni/vuepress-theme-resume/{archive_format}{/ref}
+archive_url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume/{archive_format}{/ref}
 archived: false
-assignees_url: https://api.github.com/repos/vvni/vuepress-theme-resume/assignees{/user}
-blobs_url: https://api.github.com/repos/vvni/vuepress-theme-resume/git/blobs{/sha}
-branches_url: https://api.github.com/repos/vvni/vuepress-theme-resume/branches{/branch}
-clone_url: https://github.com/vvni/vuepress-theme-resume.git
-collaborators_url: https://api.github.com/repos/vvni/vuepress-theme-resume/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/vvni/vuepress-theme-resume/comments{/number}
-commits_url: https://api.github.com/repos/vvni/vuepress-theme-resume/commits{/sha}
-compare_url: https://api.github.com/repos/vvni/vuepress-theme-resume/compare/{base}...{head}
-contents_url: https://api.github.com/repos/vvni/vuepress-theme-resume/contents/{+path}
-contributors_url: https://api.github.com/repos/vvni/vuepress-theme-resume/contributors
-created_at: '2020-03-20T11:54:20Z'
+assignees_url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume/assignees{/user}
+blobs_url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume/git/blobs{/sha}
+branches_url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume/branches{/branch}
+clone_url: https://github.com/wannaxiao/vuepress-theme-resume.git
+collaborators_url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume/comments{/number}
+commits_url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume/commits{/sha}
+compare_url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume/compare/{base}...{head}
+contents_url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume/contents/{+path}
+contributors_url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume/contributors
+created_at: '2018-06-03T07:19:01Z'
 default_branch: master
-deployments_url: https://api.github.com/repos/vvni/vuepress-theme-resume/deployments
-description: A beautiful vuepress resume theme.
+deployments_url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume/deployments
+description: "\U0001F408 \u4E66\u5199\u7B80\u6D01\u4F18\u96C5\u7684\u524D\u7AEF\u7A0B\
+  \u5E8F\u5458 markdown \u7B80\u5386\uFF0C\u7531 vuepress \u9A71\u52A8"
 disabled: false
-downloads_url: https://api.github.com/repos/vvni/vuepress-theme-resume/downloads
-events_url: https://api.github.com/repos/vvni/vuepress-theme-resume/events
+downloads_url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume/downloads
+events_url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume/events
 fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/vvni/vuepress-theme-resume/forks
-full_name: vvni/vuepress-theme-resume
-git_commits_url: https://api.github.com/repos/vvni/vuepress-theme-resume/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/vvni/vuepress-theme-resume/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/vvni/vuepress-theme-resume/git/tags{/sha}
-git_url: git://github.com/vvni/vuepress-theme-resume.git
+forks: 51
+forks_count: 51
+forks_url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume/forks
+full_name: wannaxiao/vuepress-theme-resume
+git_commits_url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume/git/tags{/sha}
+git_url: git://github.com/wannaxiao/vuepress-theme-resume.git
 has_downloads: true
 has_issues: true
-has_pages: false
+has_pages: true
 has_projects: true
 has_wiki: true
-homepage: https://vuepress-theme-resume.now.sh
-hooks_url: https://api.github.com/repos/vvni/vuepress-theme-resume/hooks
-html_url: https://github.com/vvni/vuepress-theme-resume
-id: 248743490
-issue_comment_url: https://api.github.com/repos/vvni/vuepress-theme-resume/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/vvni/vuepress-theme-resume/issues/events{/number}
-issues_url: https://api.github.com/repos/vvni/vuepress-theme-resume/issues{/number}
-keys_url: https://api.github.com/repos/vvni/vuepress-theme-resume/keys{/key_id}
-labels_url: https://api.github.com/repos/vvni/vuepress-theme-resume/labels{/name}
+homepage: https://wannaxiao.github.io/vuepress-theme-resume/example/dist/
+hooks_url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume/hooks
+html_url: https://github.com/wannaxiao/vuepress-theme-resume
+id: 135882493
+issue_comment_url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume/issues/events{/number}
+issues_url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume/issues{/number}
+keys_url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume/keys{/key_id}
+labels_url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume/labels{/name}
 language: Vue
-languages_url: https://api.github.com/repos/vvni/vuepress-theme-resume/languages
+languages_url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume/languages
 license:
   key: mit
   name: MIT License
   node_id: MDc6TGljZW5zZTEz
   spdx_id: MIT
   url: https://api.github.com/licenses/mit
-merges_url: https://api.github.com/repos/vvni/vuepress-theme-resume/merges
-milestones_url: https://api.github.com/repos/vvni/vuepress-theme-resume/milestones{/number}
+merges_url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume/merges
+milestones_url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume/milestones{/number}
 mirror_url: null
 name: vuepress-theme-resume
-network_count: 0
-node_id: MDEwOlJlcG9zaXRvcnkyNDg3NDM0OTA=
-notifications_url: https://api.github.com/repos/vvni/vuepress-theme-resume/notifications{?since,all,participating}
-open_issues: 8
-open_issues_count: 8
+network_count: 51
+node_id: MDEwOlJlcG9zaXRvcnkxMzU4ODI0OTM=
+notifications_url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume/notifications{?since,all,participating}
+open_issues: 2
+open_issues_count: 2
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/50414099?v=4
-  events_url: https://api.github.com/users/vvni/events{/privacy}
-  followers_url: https://api.github.com/users/vvni/followers
-  following_url: https://api.github.com/users/vvni/following{/other_user}
-  gists_url: https://api.github.com/users/vvni/gists{/gist_id}
+  avatar_url: https://avatars1.githubusercontent.com/u/13219417?v=4
+  events_url: https://api.github.com/users/wannaxiao/events{/privacy}
+  followers_url: https://api.github.com/users/wannaxiao/followers
+  following_url: https://api.github.com/users/wannaxiao/following{/other_user}
+  gists_url: https://api.github.com/users/wannaxiao/gists{/gist_id}
   gravatar_id: ''
-  html_url: https://github.com/vvni
-  id: 50414099
-  login: vvni
-  node_id: MDQ6VXNlcjUwNDE0MDk5
-  organizations_url: https://api.github.com/users/vvni/orgs
-  received_events_url: https://api.github.com/users/vvni/received_events
-  repos_url: https://api.github.com/users/vvni/repos
+  html_url: https://github.com/wannaxiao
+  id: 13219417
+  login: wannaxiao
+  node_id: MDQ6VXNlcjEzMjE5NDE3
+  organizations_url: https://api.github.com/users/wannaxiao/orgs
+  received_events_url: https://api.github.com/users/wannaxiao/received_events
+  repos_url: https://api.github.com/users/wannaxiao/repos
   site_admin: false
-  starred_url: https://api.github.com/users/vvni/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/vvni/subscriptions
+  starred_url: https://api.github.com/users/wannaxiao/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/wannaxiao/subscriptions
   type: User
-  url: https://api.github.com/users/vvni
+  url: https://api.github.com/users/wannaxiao
 permissions:
   admin: false
   pull: true
   push: false
 private: false
-pulls_url: https://api.github.com/repos/vvni/vuepress-theme-resume/pulls{/number}
-pushed_at: '2020-06-04T12:07:25Z'
-releases_url: https://api.github.com/repos/vvni/vuepress-theme-resume/releases{/id}
-size: 292
-ssh_url: git@github.com:vvni/vuepress-theme-resume.git
-stargazers_count: 3
-stargazers_url: https://api.github.com/repos/vvni/vuepress-theme-resume/stargazers
-statuses_url: https://api.github.com/repos/vvni/vuepress-theme-resume/statuses/{sha}
-subscribers_count: 1
-subscribers_url: https://api.github.com/repos/vvni/vuepress-theme-resume/subscribers
-subscription_url: https://api.github.com/repos/vvni/vuepress-theme-resume/subscription
-svn_url: https://github.com/vvni/vuepress-theme-resume
-tags_url: https://api.github.com/repos/vvni/vuepress-theme-resume/tags
-teams_url: https://api.github.com/repos/vvni/vuepress-theme-resume/teams
+pulls_url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume/pulls{/number}
+pushed_at: '2020-05-09T00:20:04Z'
+releases_url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume/releases{/id}
+size: 1031
+ssh_url: git@github.com:wannaxiao/vuepress-theme-resume.git
+stargazers_count: 145
+stargazers_url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume/stargazers
+statuses_url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume/statuses/{sha}
+subscribers_count: 2
+subscribers_url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume/subscribers
+subscription_url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume/subscription
+svn_url: https://github.com/wannaxiao/vuepress-theme-resume
+tags_url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume/tags
+teams_url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume/teams
 temp_clone_token: ''
-trees_url: https://api.github.com/repos/vvni/vuepress-theme-resume/git/trees{/sha}
-updated_at: '2020-04-07T18:15:03Z'
-url: https://api.github.com/repos/vvni/vuepress-theme-resume
-watchers: 3
-watchers_count: 3
+trees_url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume/git/trees{/sha}
+updated_at: '2020-06-27T12:54:47Z'
+url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume
+watchers: 145
+watchers_count: 145
 ---
 
-# vuepress-theme-resume
+## 🐈 介绍
 
-[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier) ![GitHub top language](https://img.shields.io/github/languages/top/vvni/vuepress-theme-resume?style=flat-square) <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)<!-- ALL-CONTRIBUTORS-BADGE:END --> ![GitHub last commit](https://img.shields.io/github/last-commit/vvni/vuepress-theme-resume?style=flat-square) ![GitHub](https://img.shields.io/github/license/vvni/vuepress-theme-resume?style=flat-square)
+当我们在使用 markdown 书写简历时，都有哪些痛点 🤒？
 
-> 🔱 A beautiful vuepress resume theme.
+1.  使用编辑器自带的 markdown 预览。缺点：不够精致(丑)emmmm
+2.  使用 Bear (付费)。缺点：导出 pdf 时无法修改参数(默认字体过大/过宽，导致无法压缩成1页)emmmm
 
-## Table of Contents
+在试用了 Mac 上几乎所有的 markdown 软件之后，都不够满意 🤕...
 
-- [Feature](#Feature)
-- [Screenshot](#Screenshot)
-- [Examples](#Examples)
-- [Install](#Install)
-- [Usage](#Usage)
-- [Contributors](#Contributors)
-- [License](#License)
+于是...
 
-## Feature
+![](imgs/eg.jpg)
 
-- ✨ The default theme is React's official website style.
+## 🚀 开始
 
-## Screenshot
+### 方式一：直接开始
 
-<img src="https://raw.githubusercontent.com/-.-/vuepress-theme-resume/master/screenshots/default.png" alt="" width="500" />
+1.  第一步：git clone 或 download 该项目
 
-## Examples
+2.  第二步：cd 进入项目目录
 
-- [example](https://raw.githubusercontent.com/-.-/vuepress-theme-resume/master/examples/README.md)
-
-## Install
+> 若环境中不存在 `yarn`/`npm`，则需要先[安装yarn](https://yarnpkg.com/zh-Hans/docs/install)
 
 ```bash
-yarn add @vvni/vuepress-theme-resume -D -E
+# 安装依赖包
+yarn # 或 npm i
+
+# 开始
+yarn dev # 或 npm run dev
 ```
 
-## Usage
+`yarn dev`运行完后，使用浏览器打开提供的网址
+
+3.  第三步：修改 example/README.md，保存后网页将自动热更新
+
+### 方式二：使用主题
+
+```bash
+yarn add -D vuepress-theme-resume # 或使用npm：npm i -D vuepress-theme-resume
+```
 
 ```js
-// .vuepress/config.js
-module.exports = {
-  theme: "@vvni/resume",
-};
+// .vuepress/config.js 中添加
+theme: 'resume',
 ```
 
-## Contributors
+### 样式覆盖
 
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/vvni"><img src="https://avatars2.githubusercontent.com/u/50414099?v=4" width="100px;" alt=""/><br /><sub><b>Vanilla</b></sub></a><br /><a href="https://github.com/vvni/vuepress-theme-resume/commits?author=vvni" title="Code">💻</a> <a href="https://github.com/vvni/vuepress-theme-resume/commits?author=vvni" title="Documentation">📖</a></td>
-  </tr>
-</table>
+创建 .vuepress/styles/palette.styl 文件
 
-<!-- markdownlint-enable -->
-<!-- prettier-ignore-end -->
+```css
+/* font */
+$fontSize = 13px
+$fontWeight = 400
 
-<!-- ALL-CONTRIBUTORS-LIST:END -->
+/* colors */
+$accentColor = #4688F1
+$textColor = #161F28
+$borderColor = #eaecef
+```
+
+### 常见问题
+
+> 如何导出为 pdf?
+
+chrome 页面中右键 -> 打印 -> 另存为 pdf。
+
+注意：打印-更多设置-取消勾选页眉和页脚。否则会有标题和日期。
+
+> 导出的 pdf 如何控制只有 1 页？
+
+方法一：.vuepress/styles/palette.styl 修改基准字体大小 $fontSize <br>
+方法二：chrome 打印 -> 更多设置 -> 缩放
+
+## 💡 协作
+
+如果你有更好的想法，欢迎 PR 👏
+
+如果它对你有所帮助，可以点一下 <b>⭐️<a href="#">Star</a></b> ~ 😉
 
 ## License
 
-[MIT](https://raw.githubusercontent.com/-.-/vuepress-theme-resume/master/LICENSE) © vvni
+[MIT](http://opensource.org/licenses/MIT)
+
+Copyright (c) 2018-present, momoko

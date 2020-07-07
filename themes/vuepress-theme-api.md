@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/sqrthree/vuepress-theme-api/downloads
 events_url: https://api.github.com/repos/sqrthree/vuepress-theme-api/events
 fork: false
-forks: 33
-forks_count: 33
+forks: 35
+forks_count: 35
 forks_url: https://api.github.com/repos/sqrthree/vuepress-theme-api/forks
 full_name: sqrthree/vuepress-theme-api
 git_commits_url: https://api.github.com/repos/sqrthree/vuepress-theme-api/git/commits{/sha}
@@ -53,7 +53,7 @@ merges_url: https://api.github.com/repos/sqrthree/vuepress-theme-api/merges
 milestones_url: https://api.github.com/repos/sqrthree/vuepress-theme-api/milestones{/number}
 mirror_url: null
 name: vuepress-theme-api
-network_count: 33
+network_count: 35
 node_id: MDEwOlJlcG9zaXRvcnkxMzM4MzAzNDk=
 notifications_url: https://api.github.com/repos/sqrthree/vuepress-theme-api/notifications{?since,all,participating}
 open_issues: 3
@@ -87,7 +87,7 @@ pushed_at: '2020-06-09T09:04:21Z'
 releases_url: https://api.github.com/repos/sqrthree/vuepress-theme-api/releases{/id}
 size: 1339
 ssh_url: git@github.com:sqrthree/vuepress-theme-api.git
-stargazers_count: 211
+stargazers_count: 214
 stargazers_url: https://api.github.com/repos/sqrthree/vuepress-theme-api/stargazers
 statuses_url: https://api.github.com/repos/sqrthree/vuepress-theme-api/statuses/{sha}
 subscribers_count: 5
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/sqrthree/vuepress-theme-api/tags
 teams_url: https://api.github.com/repos/sqrthree/vuepress-theme-api/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/sqrthree/vuepress-theme-api/git/trees{/sha}
-updated_at: '2020-06-20T22:05:57Z'
+updated_at: '2020-07-07T01:57:09Z'
 url: https://api.github.com/repos/sqrthree/vuepress-theme-api
-watchers: 211
-watchers_count: 211
+watchers: 214
+watchers_count: 214
 ---
 
 > v1.0.0 is beta, going to release in the next few days.

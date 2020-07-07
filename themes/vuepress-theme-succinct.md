@@ -12,7 +12,7 @@ compare_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/com
 contents_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/contents/{+path}
 contributors_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/contributors
 created_at: '2018-11-06T21:10:10Z'
-default_branch: main
+default_branch: master
 deployments_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/deployments
 description: A slightly opinionated theme for Vuepress
 disabled: false
@@ -29,7 +29,7 @@ git_tags_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/gi
 git_url: git://github.com/Microflash/vuepress-theme-succinct.git
 has_downloads: true
 has_issues: true
-has_pages: false
+has_pages: true
 has_projects: false
 has_wiki: true
 homepage: https://microflash.github.io/vuepress-theme-succinct/
@@ -102,9 +102,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/pulls{/number}
-pushed_at: '2020-06-20T06:46:32Z'
+pushed_at: '2020-07-04T15:28:39Z'
 releases_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/releases{/id}
-size: 774
+size: 866
 ssh_url: git@github.com:Microflash/vuepress-theme-succinct.git
 stargazers_count: 7
 stargazers_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/stargazers
@@ -117,7 +117,7 @@ tags_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/tags
 teams_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/git/trees{/sha}
-updated_at: '2020-06-19T06:24:21Z'
+updated_at: '2020-07-04T15:28:42Z'
 url: https://api.github.com/repos/Microflash/vuepress-theme-succinct
 watchers: 7
 watchers_count: 7
@@ -127,7 +127,7 @@ watchers_count: 7
 
 [![Vuepress](https://img.shields.io/github/package-json/dependency-version/Microflash/vuepress-theme-succinct/@vuepress/plugin-search?label=vuepress)](https://github.com/vuejs/vuepress)
 [![npm](https://img.shields.io/npm/v/vuepress-theme-succinct)](https://www.npmjs.com/package/vuepress-theme-succinct)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](https://raw.githubusercontent.com/Microflash/vuepress-theme-succinct/main/LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](https://raw.githubusercontent.com/Microflash/vuepress-theme-succinct/master/LICENSE)
 
 A slightly opinionated theme for Vuepress
 

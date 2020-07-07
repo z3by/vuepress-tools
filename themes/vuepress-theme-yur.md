@@ -32,7 +32,7 @@ has_issues: true
 has_pages: false
 has_projects: true
 has_wiki: true
-homepage: https://imwiki.cn/
+homepage: https://wiki.cnguu.cn
 hooks_url: https://api.github.com/repos/cnguu/vuepress-theme-yur/hooks
 html_url: https://github.com/cnguu/vuepress-theme-yur
 id: 207346928
@@ -87,7 +87,7 @@ pushed_at: '2020-06-15T16:00:35Z'
 releases_url: https://api.github.com/repos/cnguu/vuepress-theme-yur/releases{/id}
 size: 6856
 ssh_url: git@github.com:cnguu/vuepress-theme-yur.git
-stargazers_count: 123
+stargazers_count: 126
 stargazers_url: https://api.github.com/repos/cnguu/vuepress-theme-yur/stargazers
 statuses_url: https://api.github.com/repos/cnguu/vuepress-theme-yur/statuses/{sha}
 subscribers_count: 2
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/cnguu/vuepress-theme-yur/tags
 teams_url: https://api.github.com/repos/cnguu/vuepress-theme-yur/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/cnguu/vuepress-theme-yur/git/trees{/sha}
-updated_at: '2020-06-19T22:02:21Z'
+updated_at: '2020-07-07T02:42:35Z'
 url: https://api.github.com/repos/cnguu/vuepress-theme-yur
-watchers: 123
-watchers_count: 123
+watchers: 126
+watchers_count: 126
 ---
 
 # VuePress Theme - Yur

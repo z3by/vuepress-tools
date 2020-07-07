@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/vxhly/vuepress-plugin-nest/pulls{/number}
-pushed_at: '2020-03-16T09:31:10Z'
+pushed_at: '2020-06-28T12:43:20Z'
 releases_url: https://api.github.com/repos/vxhly/vuepress-plugin-nest/releases{/id}
-size: 8
+size: 9
 ssh_url: git@github.com:vxhly/vuepress-plugin-nest.git
 stargazers_count: 2
 stargazers_url: https://api.github.com/repos/vxhly/vuepress-plugin-nest/stargazers
@@ -98,7 +98,7 @@ tags_url: https://api.github.com/repos/vxhly/vuepress-plugin-nest/tags
 teams_url: https://api.github.com/repos/vxhly/vuepress-plugin-nest/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/vxhly/vuepress-plugin-nest/git/trees{/sha}
-updated_at: '2020-03-16T09:31:12Z'
+updated_at: '2020-06-28T12:43:22Z'
 url: https://api.github.com/repos/vxhly/vuepress-plugin-nest
 watchers: 2
 watchers_count: 2

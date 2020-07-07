@@ -87,7 +87,7 @@ pushed_at: '2019-07-30T16:44:00Z'
 releases_url: https://api.github.com/repos/ulivz/vuepress-plugin-check-md/releases{/id}
 size: 223
 ssh_url: git@github.com:ulivz/vuepress-plugin-check-md.git
-stargazers_count: 16
+stargazers_count: 17
 stargazers_url: https://api.github.com/repos/ulivz/vuepress-plugin-check-md/stargazers
 statuses_url: https://api.github.com/repos/ulivz/vuepress-plugin-check-md/statuses/{sha}
 subscribers_count: 2
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/ulivz/vuepress-plugin-check-md/tags
 teams_url: https://api.github.com/repos/ulivz/vuepress-plugin-check-md/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/ulivz/vuepress-plugin-check-md/git/trees{/sha}
-updated_at: '2020-04-26T22:06:20Z'
+updated_at: '2020-07-07T10:35:11Z'
 url: https://api.github.com/repos/ulivz/vuepress-plugin-check-md
-watchers: 16
-watchers_count: 16
+watchers: 17
+watchers_count: 17
 ---
 
 # vuepress-plugin-check-md

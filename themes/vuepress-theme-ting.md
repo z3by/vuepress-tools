@@ -52,8 +52,8 @@ name: vuepress-theme-ting
 network_count: 6
 node_id: MDEwOlJlcG9zaXRvcnkyMjEyMDA0MzE=
 notifications_url: https://api.github.com/repos/Chenyating/vuepress-theme-ting/notifications{?since,all,participating}
-open_issues: 4
-open_issues_count: 4
+open_issues: 3
+open_issues_count: 3
 owner:
   avatar_url: https://avatars2.githubusercontent.com/u/29857880?v=4
   events_url: https://api.github.com/users/Chenyating/events{/privacy}
@@ -79,11 +79,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/Chenyating/vuepress-theme-ting/pulls{/number}
-pushed_at: '2020-06-17T09:20:18Z'
+pushed_at: '2020-06-30T08:11:21Z'
 releases_url: https://api.github.com/repos/Chenyating/vuepress-theme-ting/releases{/id}
-size: 13709
+size: 13716
 ssh_url: git@github.com:Chenyating/vuepress-theme-ting.git
-stargazers_count: 46
+stargazers_count: 48
 stargazers_url: https://api.github.com/repos/Chenyating/vuepress-theme-ting/stargazers
 statuses_url: https://api.github.com/repos/Chenyating/vuepress-theme-ting/statuses/{sha}
 subscribers_count: 1
@@ -94,10 +94,10 @@ tags_url: https://api.github.com/repos/Chenyating/vuepress-theme-ting/tags
 teams_url: https://api.github.com/repos/Chenyating/vuepress-theme-ting/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/Chenyating/vuepress-theme-ting/git/trees{/sha}
-updated_at: '2020-06-20T18:53:31Z'
+updated_at: '2020-06-30T08:07:23Z'
 url: https://api.github.com/repos/Chenyating/vuepress-theme-ting
-watchers: 46
-watchers_count: 46
+watchers: 48
+watchers_count: 48
 ---
 
 # vuepress-theme-ting

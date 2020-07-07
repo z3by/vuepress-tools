@@ -88,7 +88,7 @@ pushed_at: '2020-05-22T23:42:00Z'
 releases_url: https://api.github.com/repos/Danktuary/vuepress-theme-yuu/releases{/id}
 size: 310
 ssh_url: git@github.com:Danktuary/vuepress-theme-yuu.git
-stargazers_count: 46
+stargazers_count: 47
 stargazers_url: https://api.github.com/repos/Danktuary/vuepress-theme-yuu/stargazers
 statuses_url: https://api.github.com/repos/Danktuary/vuepress-theme-yuu/statuses/{sha}
 subscribers_count: 3
@@ -99,10 +99,10 @@ tags_url: https://api.github.com/repos/Danktuary/vuepress-theme-yuu/tags
 teams_url: https://api.github.com/repos/Danktuary/vuepress-theme-yuu/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/Danktuary/vuepress-theme-yuu/git/trees{/sha}
-updated_at: '2020-06-09T11:01:23Z'
+updated_at: '2020-07-01T08:58:35Z'
 url: https://api.github.com/repos/Danktuary/vuepress-theme-yuu
-watchers: 46
-watchers_count: 46
+watchers: 47
+watchers_count: 47
 ---
 
 <div align="center">

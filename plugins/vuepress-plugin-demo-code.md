@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/BuptStEve/vuepress-plugin-demo-code/downloads
 events_url: https://api.github.com/repos/BuptStEve/vuepress-plugin-demo-code/events
 fork: false
-forks: 17
-forks_count: 17
+forks: 19
+forks_count: 19
 forks_url: https://api.github.com/repos/BuptStEve/vuepress-plugin-demo-code/forks
 full_name: BuptStEve/vuepress-plugin-demo-code
 git_commits_url: https://api.github.com/repos/BuptStEve/vuepress-plugin-demo-code/git/commits{/sha}
@@ -53,7 +53,7 @@ merges_url: https://api.github.com/repos/BuptStEve/vuepress-plugin-demo-code/mer
 milestones_url: https://api.github.com/repos/BuptStEve/vuepress-plugin-demo-code/milestones{/number}
 mirror_url: null
 name: vuepress-plugin-demo-code
-network_count: 17
+network_count: 19
 node_id: MDEwOlJlcG9zaXRvcnkxNjc3OTQ3NTI=
 notifications_url: https://api.github.com/repos/BuptStEve/vuepress-plugin-demo-code/notifications{?since,all,participating}
 open_issues: 1
@@ -87,7 +87,7 @@ pushed_at: '2020-05-27T08:02:21Z'
 releases_url: https://api.github.com/repos/BuptStEve/vuepress-plugin-demo-code/releases{/id}
 size: 1065
 ssh_url: git@github.com:BuptStEve/vuepress-plugin-demo-code.git
-stargazers_count: 75
+stargazers_count: 77
 stargazers_url: https://api.github.com/repos/BuptStEve/vuepress-plugin-demo-code/stargazers
 statuses_url: https://api.github.com/repos/BuptStEve/vuepress-plugin-demo-code/statuses/{sha}
 subscribers_count: 1
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/BuptStEve/vuepress-plugin-demo-code/tags
 teams_url: https://api.github.com/repos/BuptStEve/vuepress-plugin-demo-code/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/BuptStEve/vuepress-plugin-demo-code/git/trees{/sha}
-updated_at: '2020-06-16T06:10:51Z'
+updated_at: '2020-07-06T15:31:49Z'
 url: https://api.github.com/repos/BuptStEve/vuepress-plugin-demo-code
-watchers: 75
-watchers_count: 75
+watchers: 77
+watchers_count: 77
 ---
 
 <h1 align="center">vuepress-plugin-demo-code</h1>

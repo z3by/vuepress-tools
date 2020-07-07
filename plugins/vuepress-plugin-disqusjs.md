@@ -82,7 +82,7 @@ pushed_at: '2020-06-09T13:02:34Z'
 releases_url: https://api.github.com/repos/saltbo/vuepress-plugin-disqusjs/releases{/id}
 size: 62
 ssh_url: git@github.com:saltbo/vuepress-plugin-disqusjs.git
-stargazers_count: 1
+stargazers_count: 0
 stargazers_url: https://api.github.com/repos/saltbo/vuepress-plugin-disqusjs/stargazers
 statuses_url: https://api.github.com/repos/saltbo/vuepress-plugin-disqusjs/statuses/{sha}
 subscribers_count: 1
@@ -93,10 +93,10 @@ tags_url: https://api.github.com/repos/saltbo/vuepress-plugin-disqusjs/tags
 teams_url: https://api.github.com/repos/saltbo/vuepress-plugin-disqusjs/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/saltbo/vuepress-plugin-disqusjs/git/trees{/sha}
-updated_at: '2020-06-09T13:02:37Z'
+updated_at: '2020-06-24T08:21:04Z'
 url: https://api.github.com/repos/saltbo/vuepress-plugin-disqusjs
-watchers: 1
-watchers_count: 1
+watchers: 0
+watchers_count: 0
 ---
 
 # Vuepress Plugin Disqusjs

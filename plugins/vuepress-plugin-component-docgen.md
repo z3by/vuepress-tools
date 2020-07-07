@@ -106,7 +106,7 @@ pushed_at: '2019-03-09T00:47:00Z'
 releases_url: https://api.github.com/repos/youngtailors/vuepress-plugin-component-docgen/releases{/id}
 size: 859
 ssh_url: git@github.com:youngtailors/vuepress-plugin-component-docgen.git
-stargazers_count: 12
+stargazers_count: 13
 stargazers_url: https://api.github.com/repos/youngtailors/vuepress-plugin-component-docgen/stargazers
 statuses_url: https://api.github.com/repos/youngtailors/vuepress-plugin-component-docgen/statuses/{sha}
 subscribers_count: 2
@@ -117,10 +117,10 @@ tags_url: https://api.github.com/repos/youngtailors/vuepress-plugin-component-do
 teams_url: https://api.github.com/repos/youngtailors/vuepress-plugin-component-docgen/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/youngtailors/vuepress-plugin-component-docgen/git/trees{/sha}
-updated_at: '2020-04-12T07:29:13Z'
+updated_at: '2020-07-06T15:37:21Z'
 url: https://api.github.com/repos/youngtailors/vuepress-plugin-component-docgen
-watchers: 12
-watchers_count: 12
+watchers: 13
+watchers_count: 13
 ---
 
 # vuepress-plugin-component-docgen

@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/mlinquan/vuepress-plugin-baidu-tongji/downloads
 events_url: https://api.github.com/repos/mlinquan/vuepress-plugin-baidu-tongji/events
 fork: false
-forks: 0
-forks_count: 0
+forks: 1
+forks_count: 1
 forks_url: https://api.github.com/repos/mlinquan/vuepress-plugin-baidu-tongji/forks
 full_name: mlinquan/vuepress-plugin-baidu-tongji
 git_commits_url: https://api.github.com/repos/mlinquan/vuepress-plugin-baidu-tongji/git/commits{/sha}
@@ -48,7 +48,7 @@ merges_url: https://api.github.com/repos/mlinquan/vuepress-plugin-baidu-tongji/m
 milestones_url: https://api.github.com/repos/mlinquan/vuepress-plugin-baidu-tongji/milestones{/number}
 mirror_url: null
 name: vuepress-plugin-baidu-tongji
-network_count: 0
+network_count: 1
 node_id: MDEwOlJlcG9zaXRvcnkxNjAwNjU2MzI=
 notifications_url: https://api.github.com/repos/mlinquan/vuepress-plugin-baidu-tongji/notifications{?since,all,participating}
 open_issues: 0

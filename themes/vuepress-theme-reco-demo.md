@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/vuepress-reco/vuepress-theme-reco-demo/downloads
 events_url: https://api.github.com/repos/vuepress-reco/vuepress-theme-reco-demo/events
 fork: false
-forks: 8
-forks_count: 8
+forks: 7
+forks_count: 7
 forks_url: https://api.github.com/repos/vuepress-reco/vuepress-theme-reco-demo/forks
 full_name: vuepress-reco/vuepress-theme-reco-demo
 git_commits_url: https://api.github.com/repos/vuepress-reco/vuepress-theme-reco-demo/git/commits{/sha}
@@ -48,7 +48,7 @@ merges_url: https://api.github.com/repos/vuepress-reco/vuepress-theme-reco-demo/
 milestones_url: https://api.github.com/repos/vuepress-reco/vuepress-theme-reco-demo/milestones{/number}
 mirror_url: null
 name: vuepress-theme-reco-demo
-network_count: 8
+network_count: 7
 node_id: MDEwOlJlcG9zaXRvcnkxODE2Mjg0NzM=
 notifications_url: https://api.github.com/repos/vuepress-reco/vuepress-theme-reco-demo/notifications{?since,all,participating}
 open_issues: 0

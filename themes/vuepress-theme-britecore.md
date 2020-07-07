@@ -23,8 +23,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/z3by/vuepress-theme-britecore/downloads
 events_url: https://api.github.com/repos/z3by/vuepress-theme-britecore/events
 fork: false
-forks: 0
-forks_count: 0
+forks: 1
+forks_count: 1
 forks_url: https://api.github.com/repos/z3by/vuepress-theme-britecore/forks
 full_name: z3by/vuepress-theme-britecore
 git_commits_url: https://api.github.com/repos/z3by/vuepress-theme-britecore/git/commits{/sha}
@@ -57,7 +57,7 @@ merges_url: https://api.github.com/repos/z3by/vuepress-theme-britecore/merges
 milestones_url: https://api.github.com/repos/z3by/vuepress-theme-britecore/milestones{/number}
 mirror_url: null
 name: vuepress-theme-britecore
-network_count: 0
+network_count: 1
 node_id: MDEwOlJlcG9zaXRvcnkyMTM5ODA1NzU=
 notifications_url: https://api.github.com/repos/z3by/vuepress-theme-britecore/notifications{?since,all,participating}
 open_issues: 2

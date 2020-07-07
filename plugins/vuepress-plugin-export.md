@@ -83,11 +83,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/ulivz/vuepress-plugin-export/pulls{/number}
-pushed_at: '2020-06-06T13:45:11Z'
+pushed_at: '2020-06-26T20:52:01Z'
 releases_url: https://api.github.com/repos/ulivz/vuepress-plugin-export/releases{/id}
 size: 1324
 ssh_url: git@github.com:ulivz/vuepress-plugin-export.git
-stargazers_count: 56
+stargazers_count: 57
 stargazers_url: https://api.github.com/repos/ulivz/vuepress-plugin-export/stargazers
 statuses_url: https://api.github.com/repos/ulivz/vuepress-plugin-export/statuses/{sha}
 subscribers_count: 4
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/ulivz/vuepress-plugin-export/tags
 teams_url: https://api.github.com/repos/ulivz/vuepress-plugin-export/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/ulivz/vuepress-plugin-export/git/trees{/sha}
-updated_at: '2020-06-08T09:22:13Z'
+updated_at: '2020-07-04T11:03:13Z'
 url: https://api.github.com/repos/ulivz/vuepress-plugin-export
-watchers: 56
-watchers_count: 56
+watchers: 57
+watchers_count: 57
 ---
 
 # vuepress-plugin-export

@@ -87,10 +87,10 @@ pushed_at: '2020-01-21T09:45:23Z'
 releases_url: https://api.github.com/repos/ZjBlog/vuepress-theme-zjblog/releases{/id}
 size: 216
 ssh_url: git@github.com:ZjBlog/vuepress-theme-zjblog.git
-stargazers_count: 2
+stargazers_count: 3
 stargazers_url: https://api.github.com/repos/ZjBlog/vuepress-theme-zjblog/stargazers
 statuses_url: https://api.github.com/repos/ZjBlog/vuepress-theme-zjblog/statuses/{sha}
-subscribers_count: 1
+subscribers_count: 2
 subscribers_url: https://api.github.com/repos/ZjBlog/vuepress-theme-zjblog/subscribers
 subscription_url: https://api.github.com/repos/ZjBlog/vuepress-theme-zjblog/subscription
 svn_url: https://github.com/ZjBlog/vuepress-theme-zjblog
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/ZjBlog/vuepress-theme-zjblog/tags
 teams_url: https://api.github.com/repos/ZjBlog/vuepress-theme-zjblog/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/ZjBlog/vuepress-theme-zjblog/git/trees{/sha}
-updated_at: '2020-01-21T09:45:26Z'
+updated_at: '2020-07-03T08:38:54Z'
 url: https://api.github.com/repos/ZjBlog/vuepress-theme-zjblog
-watchers: 2
-watchers_count: 2
+watchers: 3
+watchers_count: 3
 ---
 
   ![](https://github.com/ZjBlog/vuepress-theme-zjblog/workflows/npm/badge.svg)

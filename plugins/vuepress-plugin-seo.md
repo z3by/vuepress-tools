@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo/downloads
 events_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo/events
 fork: false
-forks: 4
-forks_count: 4
+forks: 5
+forks_count: 5
 forks_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo/forks
 full_name: lorisleiva/vuepress-plugin-seo
 git_commits_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo/git/commits{/sha}
@@ -53,11 +53,11 @@ merges_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo/merges
 milestones_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo/milestones{/number}
 mirror_url: null
 name: vuepress-plugin-seo
-network_count: 4
+network_count: 5
 node_id: MDEwOlJlcG9zaXRvcnkxNjY0MTg4Nzg=
 notifications_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo/notifications{?since,all,participating}
-open_issues: 3
-open_issues_count: 3
+open_issues: 4
+open_issues_count: 4
 owner:
   avatar_url: https://avatars1.githubusercontent.com/u/3642397?v=4
   events_url: https://api.github.com/users/lorisleiva/events{/privacy}
@@ -83,11 +83,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo/pulls{/number}
-pushed_at: '2020-05-23T07:29:35Z'
+pushed_at: '2020-06-28T07:08:13Z'
 releases_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo/releases{/id}
-size: 11
+size: 16
 ssh_url: git@github.com:lorisleiva/vuepress-plugin-seo.git
-stargazers_count: 79
+stargazers_count: 80
 stargazers_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo/stargazers
 statuses_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo/statuses/{sha}
 subscribers_count: 3
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo/tags
 teams_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo/git/trees{/sha}
-updated_at: '2020-06-14T08:35:03Z'
+updated_at: '2020-07-07T13:32:49Z'
 url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo
-watchers: 79
-watchers_count: 79
+watchers: 80
+watchers_count: 80
 ---
 
 # Vuepress Plugin SEO

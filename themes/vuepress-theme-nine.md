@@ -102,9 +102,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/nine-theme/vuepress-theme-nine/pulls{/number}
-pushed_at: '2020-01-13T10:06:31Z'
+pushed_at: '2020-07-07T06:23:05Z'
 releases_url: https://api.github.com/repos/nine-theme/vuepress-theme-nine/releases{/id}
-size: 4633
+size: 4454
 ssh_url: git@github.com:nine-theme/vuepress-theme-nine.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/nine-theme/vuepress-theme-nine/stargazers
@@ -117,7 +117,7 @@ tags_url: https://api.github.com/repos/nine-theme/vuepress-theme-nine/tags
 teams_url: https://api.github.com/repos/nine-theme/vuepress-theme-nine/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/nine-theme/vuepress-theme-nine/git/trees{/sha}
-updated_at: '2020-04-27T01:38:21Z'
+updated_at: '2020-07-07T06:23:08Z'
 url: https://api.github.com/repos/nine-theme/vuepress-theme-nine
 watchers: 0
 watchers_count: 0
@@ -125,15 +125,15 @@ watchers_count: 0
 
 # Vuepress Theme - Nine
 
-![npm](https://img.shields.io/npm/v/vuepress-theme-nine)
-![npm](https://img.shields.io/npm/dt/vuepress-theme-nine?label=npm)
-![NPM](https://img.shields.io/npm/l/vuepress-theme-nine)
+![npm](https://img.shields.io/npm/v/@nines/vuepress-theme-nine)
+![npm](https://img.shields.io/npm/dt/@nines/vuepress-theme-nine?label=npm)
+![NPM](https://img.shields.io/npm/l/@nines/vuepress-theme-nine)
 
 An other theme for [Vuepress](https://vuepress.vuejs.org)
 
 ## Documentation
 
-:book: [Live Demo and Docs](https://hub.alili.fun)
+:book: [Live Demo and Docs](https://hub.alili.fun/vuepress-theme-nine)
 
 ## LICENSE
 

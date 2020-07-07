@@ -98,7 +98,7 @@ tags_url: https://api.github.com/repos/cwaring/vuepress-plugin-ipfs/tags
 teams_url: https://api.github.com/repos/cwaring/vuepress-plugin-ipfs/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/cwaring/vuepress-plugin-ipfs/git/trees{/sha}
-updated_at: '2020-05-21T15:51:49Z'
+updated_at: '2020-07-06T19:59:57Z'
 url: https://api.github.com/repos/cwaring/vuepress-plugin-ipfs
 watchers: 7
 watchers_count: 7

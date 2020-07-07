@@ -56,8 +56,8 @@ name: vuepress-plugin-code-copy
 network_count: 5
 node_id: MDEwOlJlcG9zaXRvcnkyMDczMTYxNzI=
 notifications_url: https://api.github.com/repos/znicholasbrown/vuepress-plugin-code-copy/notifications{?since,all,participating}
-open_issues: 2
-open_issues_count: 2
+open_issues: 3
+open_issues_count: 3
 owner:
   avatar_url: https://avatars3.githubusercontent.com/u/27291717?v=4
   events_url: https://api.github.com/users/znicholasbrown/events{/privacy}

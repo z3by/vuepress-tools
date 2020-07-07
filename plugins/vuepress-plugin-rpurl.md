@@ -51,8 +51,8 @@ name: vuepress-plugin-rpurl
 network_count: 2
 node_id: MDEwOlJlcG9zaXRvcnkyMDY0NjEzMTY=
 notifications_url: https://api.github.com/repos/boboidream/vuepress-plugin-rpurl/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
+open_issues: 1
+open_issues_count: 1
 owner:
   avatar_url: https://avatars0.githubusercontent.com/u/13171903?v=4
   events_url: https://api.github.com/users/boboidream/events{/privacy}

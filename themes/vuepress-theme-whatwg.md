@@ -56,8 +56,8 @@ name: vuepress-theme-whatwg
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyNTE1NzY2Mjg=
 notifications_url: https://api.github.com/repos/whatwgc/vuepress-theme-whatwg/notifications{?since,all,participating}
-open_issues: 8
-open_issues_count: 8
+open_issues: 9
+open_issues_count: 9
 organization:
   avatar_url: https://avatars2.githubusercontent.com/u/62925612?v=4
   events_url: https://api.github.com/users/whatwgc/events{/privacy}
@@ -102,9 +102,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/whatwgc/vuepress-theme-whatwg/pulls{/number}
-pushed_at: '2020-06-08T01:34:49Z'
+pushed_at: '2020-07-01T15:59:38Z'
 releases_url: https://api.github.com/repos/whatwgc/vuepress-theme-whatwg/releases{/id}
-size: 533
+size: 535
 ssh_url: git@github.com:whatwgc/vuepress-theme-whatwg.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/whatwgc/vuepress-theme-whatwg/stargazers

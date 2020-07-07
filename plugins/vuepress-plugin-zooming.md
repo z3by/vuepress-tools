@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/vuepress/vuepress-plugin-zooming/downloads
 events_url: https://api.github.com/repos/vuepress/vuepress-plugin-zooming/events
 fork: false
-forks: 2
-forks_count: 2
+forks: 1
+forks_count: 1
 forks_url: https://api.github.com/repos/vuepress/vuepress-plugin-zooming/forks
 full_name: vuepress/vuepress-plugin-zooming
 git_commits_url: https://api.github.com/repos/vuepress/vuepress-plugin-zooming/git/commits{/sha}
@@ -53,7 +53,7 @@ merges_url: https://api.github.com/repos/vuepress/vuepress-plugin-zooming/merges
 milestones_url: https://api.github.com/repos/vuepress/vuepress-plugin-zooming/milestones{/number}
 mirror_url: null
 name: vuepress-plugin-zooming
-network_count: 2
+network_count: 1
 node_id: MDEwOlJlcG9zaXRvcnkxNzY3NzA4Mjk=
 notifications_url: https://api.github.com/repos/vuepress/vuepress-plugin-zooming/notifications{?since,all,participating}
 open_issues: 0

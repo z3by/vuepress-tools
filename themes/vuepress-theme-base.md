@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/petedavisdev/vuepress-theme-base/pulls{/number}
-pushed_at: '2020-06-21T12:50:27Z'
+pushed_at: '2020-07-07T13:13:33Z'
 releases_url: https://api.github.com/repos/petedavisdev/vuepress-theme-base/releases{/id}
-size: 846
+size: 849
 ssh_url: git@github.com:petedavisdev/vuepress-theme-base.git
 stargazers_count: 1
 stargazers_url: https://api.github.com/repos/petedavisdev/vuepress-theme-base/stargazers

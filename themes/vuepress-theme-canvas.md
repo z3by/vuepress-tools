@@ -83,11 +83,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/whoan/vuepress-theme-canvas/pulls{/number}
-pushed_at: '2020-06-07T13:38:49Z'
+pushed_at: '2020-07-04T01:41:06Z'
 releases_url: https://api.github.com/repos/whoan/vuepress-theme-canvas/releases{/id}
-size: 513
+size: 515
 ssh_url: git@github.com:whoan/vuepress-theme-canvas.git
-stargazers_count: 22
+stargazers_count: 23
 stargazers_url: https://api.github.com/repos/whoan/vuepress-theme-canvas/stargazers
 statuses_url: https://api.github.com/repos/whoan/vuepress-theme-canvas/statuses/{sha}
 subscribers_count: 2
@@ -98,17 +98,17 @@ tags_url: https://api.github.com/repos/whoan/vuepress-theme-canvas/tags
 teams_url: https://api.github.com/repos/whoan/vuepress-theme-canvas/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/whoan/vuepress-theme-canvas/git/trees{/sha}
-updated_at: '2020-06-07T13:38:47Z'
+updated_at: '2020-07-04T20:24:49Z'
 url: https://api.github.com/repos/whoan/vuepress-theme-canvas
-watchers: 22
-watchers_count: 22
+watchers: 23
+watchers_count: 23
 ---
 
 # Vuepress theme Canvas
 
 [Vuepress][vuepress] custom theme for blogging inspired on [Canvas: a Simple, Powerful Blog Publishing Platform][canvas]
 
-You can see [my own blog](https://whoan.me) as an example.
+You can see [my own blog](https://whoan.online) as an example.
 
 ## Installation
 

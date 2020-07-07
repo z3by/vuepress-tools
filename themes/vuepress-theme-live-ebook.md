@@ -106,7 +106,7 @@ pushed_at: '2020-05-08T16:52:32Z'
 releases_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/releases{/id}
 size: 924
 ssh_url: git@github.com:netguru/vuepress-theme-live-ebook.git
-stargazers_count: 22
+stargazers_count: 23
 stargazers_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/stargazers
 statuses_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/statuses/{sha}
 subscribers_count: 8
@@ -117,10 +117,10 @@ tags_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/tags
 teams_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/git/trees{/sha}
-updated_at: '2020-06-21T01:24:16Z'
+updated_at: '2020-06-26T01:35:42Z'
 url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook
-watchers: 22
-watchers_count: 22
+watchers: 23
+watchers_count: 23
 ---
 
 # vuepress-theme-live-ebook

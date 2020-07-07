@@ -97,9 +97,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/getnacelle/vuepress-theme-docs/pulls{/number}
-pushed_at: '2020-06-18T20:08:12Z'
+pushed_at: '2020-06-29T16:03:18Z'
 releases_url: https://api.github.com/repos/getnacelle/vuepress-theme-docs/releases{/id}
-size: 329
+size: 472
 ssh_url: git@github.com:getnacelle/vuepress-theme-docs.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/getnacelle/vuepress-theme-docs/stargazers
@@ -112,9 +112,47 @@ tags_url: https://api.github.com/repos/getnacelle/vuepress-theme-docs/tags
 teams_url: https://api.github.com/repos/getnacelle/vuepress-theme-docs/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/getnacelle/vuepress-theme-docs/git/trees{/sha}
-updated_at: '2020-06-18T20:08:14Z'
+updated_at: '2020-06-29T16:03:22Z'
 url: https://api.github.com/repos/getnacelle/vuepress-theme-docs
 watchers: 0
 watchers_count: 0
 ---
 
+# Nacelle Vuepress Documentation Theme
+
+Theme used for the [Nacelle documentation](https://docs.getnacelle.com/).
+
+## Getting Started
+
+### Install the theme
+
+```
+npm i @nacelle/vuepress-theme-docs -S
+```
+
+### Add to Vuepress config
+
+In your Vuepress theme config:
+
+```js
+module.exports = {
+  // default vuepress config settings
+  theme: '@nacelle/vuepress-theme-docs',
+  themeConfig: {
+    // vuepress default theme settings
+    logo: 'path/to/header-logo.svg',
+    footerLogo: 'path/to/footer-logo.svg',
+  },
+}
+```
+
+## Development
+
+After cloning the theme project, navigate to the documentation project. Once there, link the cloned theme project. Example:
+
+```
+cd docs-project
+npm link ../path/to/theme
+```
+
+You can now start the documentation project using the Nacelle theme. More information about theme inheritance and development can be found [here](https://vuepress.vuejs.org/theme/inheritance.html).

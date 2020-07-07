@@ -87,7 +87,7 @@ pushed_at: '2019-09-11T08:57:09Z'
 releases_url: https://api.github.com/repos/leCapsimRy/vuepress-theme-cycle/releases{/id}
 size: 7143
 ssh_url: git@github.com:leCapsimRy/vuepress-theme-cycle.git
-stargazers_count: 8
+stargazers_count: 9
 stargazers_url: https://api.github.com/repos/leCapsimRy/vuepress-theme-cycle/stargazers
 statuses_url: https://api.github.com/repos/leCapsimRy/vuepress-theme-cycle/statuses/{sha}
 subscribers_count: 1
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/leCapsimRy/vuepress-theme-cycle/tags
 teams_url: https://api.github.com/repos/leCapsimRy/vuepress-theme-cycle/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/leCapsimRy/vuepress-theme-cycle/git/trees{/sha}
-updated_at: '2020-06-16T05:46:07Z'
+updated_at: '2020-06-29T17:20:44Z'
 url: https://api.github.com/repos/leCapsimRy/vuepress-theme-cycle
-watchers: 8
-watchers_count: 8
+watchers: 9
+watchers_count: 9
 ---
 
 # vuepress-theme-cycle

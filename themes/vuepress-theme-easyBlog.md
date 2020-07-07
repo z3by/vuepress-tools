@@ -51,8 +51,8 @@ name: vuepress-theme-easyBlog
 network_count: 1
 node_id: MDEwOlJlcG9zaXRvcnkxNjIwNzgxNTY=
 notifications_url: https://api.github.com/repos/facexl/vuepress-theme-easyBlog/notifications{?since,all,participating}
-open_issues: 4
-open_issues_count: 4
+open_issues: 0
+open_issues_count: 0
 owner:
   avatar_url: https://avatars3.githubusercontent.com/u/25611177?v=4
   events_url: https://api.github.com/users/facexl/events{/privacy}
@@ -78,9 +78,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/facexl/vuepress-theme-easyBlog/pulls{/number}
-pushed_at: '2020-06-19T08:16:46Z'
+pushed_at: '2020-07-02T17:19:38Z'
 releases_url: https://api.github.com/repos/facexl/vuepress-theme-easyBlog/releases{/id}
-size: 3081
+size: 2000
 ssh_url: git@github.com:facexl/vuepress-theme-easyBlog.git
 stargazers_count: 4
 stargazers_url: https://api.github.com/repos/facexl/vuepress-theme-easyBlog/stargazers
@@ -93,7 +93,7 @@ tags_url: https://api.github.com/repos/facexl/vuepress-theme-easyBlog/tags
 teams_url: https://api.github.com/repos/facexl/vuepress-theme-easyBlog/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/facexl/vuepress-theme-easyBlog/git/trees{/sha}
-updated_at: '2020-06-19T08:16:48Z'
+updated_at: '2020-07-02T17:19:40Z'
 url: https://api.github.com/repos/facexl/vuepress-theme-easyBlog
 watchers: 4
 watchers_count: 4

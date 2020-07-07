@@ -56,8 +56,8 @@ name: vuepress-plugin-tabs
 network_count: 7
 node_id: MDEwOlJlcG9zaXRvcnkxNzUzNjcyMDI=
 notifications_url: https://api.github.com/repos/superbiger/vuepress-plugin-tabs/notifications{?since,all,participating}
-open_issues: 4
-open_issues_count: 4
+open_issues: 5
+open_issues_count: 5
 owner:
   avatar_url: https://avatars2.githubusercontent.com/u/16386583?v=4
   events_url: https://api.github.com/users/superbiger/events{/privacy}
@@ -87,7 +87,7 @@ pushed_at: '2020-06-06T15:27:45Z'
 releases_url: https://api.github.com/repos/superbiger/vuepress-plugin-tabs/releases{/id}
 size: 2433
 ssh_url: git@github.com:superbiger/vuepress-plugin-tabs.git
-stargazers_count: 16
+stargazers_count: 18
 stargazers_url: https://api.github.com/repos/superbiger/vuepress-plugin-tabs/stargazers
 statuses_url: https://api.github.com/repos/superbiger/vuepress-plugin-tabs/statuses/{sha}
 subscribers_count: 3
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/superbiger/vuepress-plugin-tabs/tags
 teams_url: https://api.github.com/repos/superbiger/vuepress-plugin-tabs/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/superbiger/vuepress-plugin-tabs/git/trees{/sha}
-updated_at: '2020-06-18T13:49:11Z'
+updated_at: '2020-06-29T14:43:22Z'
 url: https://api.github.com/repos/superbiger/vuepress-plugin-tabs
-watchers: 16
-watchers_count: 16
+watchers: 18
+watchers_count: 18
 ---
 
 # [vuepress-plugin-element-tabs](https://superbiger.github.io/vuepress-plugin-tabs/)

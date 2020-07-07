@@ -144,7 +144,7 @@ watchers_count: 1
 
 * 浏览器内进行访问
 
-  ![展示图](https://raw.githubusercontent.com/jianjustin/vuepress-theme-shadow/master/website.png)
+  ![展示图](https://raw.githubusercontent.com/极北之地/vuepress-theme-shadow/master/website.png)
 
 
 

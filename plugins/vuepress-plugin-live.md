@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/vue-styleguidist/vuepress-plugin-live/downloads
 events_url: https://api.github.com/repos/vue-styleguidist/vuepress-plugin-live/events
 fork: false
-forks: 1
-forks_count: 1
+forks: 0
+forks_count: 0
 forks_url: https://api.github.com/repos/vue-styleguidist/vuepress-plugin-live/forks
 full_name: vue-styleguidist/vuepress-plugin-live
 git_commits_url: https://api.github.com/repos/vue-styleguidist/vuepress-plugin-live/git/commits{/sha}
@@ -53,7 +53,7 @@ merges_url: https://api.github.com/repos/vue-styleguidist/vuepress-plugin-live/m
 milestones_url: https://api.github.com/repos/vue-styleguidist/vuepress-plugin-live/milestones{/number}
 mirror_url: null
 name: vuepress-plugin-live
-network_count: 1
+network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkxODYxODIxNjI=
 notifications_url: https://api.github.com/repos/vue-styleguidist/vuepress-plugin-live/notifications{?since,all,participating}
 open_issues: 4
@@ -102,9 +102,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/vue-styleguidist/vuepress-plugin-live/pulls{/number}
-pushed_at: '2020-06-06T19:29:45Z'
+pushed_at: '2020-06-26T16:31:21Z'
 releases_url: https://api.github.com/repos/vue-styleguidist/vuepress-plugin-live/releases{/id}
-size: 655
+size: 687
 ssh_url: git@github.com:vue-styleguidist/vuepress-plugin-live.git
 stargazers_count: 21
 stargazers_url: https://api.github.com/repos/vue-styleguidist/vuepress-plugin-live/stargazers
@@ -117,7 +117,7 @@ tags_url: https://api.github.com/repos/vue-styleguidist/vuepress-plugin-live/tag
 teams_url: https://api.github.com/repos/vue-styleguidist/vuepress-plugin-live/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/vue-styleguidist/vuepress-plugin-live/git/trees{/sha}
-updated_at: '2020-06-06T19:29:41Z'
+updated_at: '2020-06-26T16:31:24Z'
 url: https://api.github.com/repos/vue-styleguidist/vuepress-plugin-live
 watchers: 21
 watchers_count: 21

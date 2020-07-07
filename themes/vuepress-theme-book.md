@@ -83,11 +83,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/cyrilf/vuepress-theme-book/pulls{/number}
-pushed_at: '2020-04-14T17:22:13Z'
+pushed_at: '2020-07-01T09:48:27Z'
 releases_url: https://api.github.com/repos/cyrilf/vuepress-theme-book/releases{/id}
-size: 705
+size: 1882
 ssh_url: git@github.com:cyrilf/vuepress-theme-book.git
-stargazers_count: 0
+stargazers_count: 2
 stargazers_url: https://api.github.com/repos/cyrilf/vuepress-theme-book/stargazers
 statuses_url: https://api.github.com/repos/cyrilf/vuepress-theme-book/statuses/{sha}
 subscribers_count: 1
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/cyrilf/vuepress-theme-book/tags
 teams_url: https://api.github.com/repos/cyrilf/vuepress-theme-book/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/cyrilf/vuepress-theme-book/git/trees{/sha}
-updated_at: '2020-04-14T17:22:15Z'
+updated_at: '2020-07-07T14:16:02Z'
 url: https://api.github.com/repos/cyrilf/vuepress-theme-book
-watchers: 0
-watchers_count: 0
+watchers: 2
+watchers_count: 2
 ---
 
 # VuePress theme - Gitbook inspired
@@ -110,79 +110,67 @@ A [VuePress](https://vuepress.vuejs.org) theme inspired by [Gitbook](https://doc
 
 ![screenshot](screenshot.png)
 
-[Live demo](https://opportunist.luseeds.com)
+[Live demo](https://vuepress-theme-book.netlify.app)
 
 I really love their clean and minimalist style, so I decided to do a theme for VuePress.
 
 It is **not** 100% identical to a Gitbook page, some choices are made to respect VuePress limitations.
-It is based on `@vuepress/theme-default` and only extend it.
+It is based on `@vuepress/theme-default` and I only extend it.
 
-You can see a **live demo** on the [opportunist website](https://opportunist.luseeds.com) by [luseeds](https://luseeds.com)
+You can see a **live demo** on the [demo website](https://vuepress-theme-book.netlify.app)
+
+## Using the Theme
+
+If you want to use this theme on your own project, please refers to the Theme Readme.
+
+### [Go to the Theme Readme](https://raw.githubusercontent.com/cyrilf/vuepress-theme-book/master/packages/vuepress-theme-book/README.md)
+
+## Websites using this theme:
+
+- [The Wise Opportunist](https://opportunist.luseeds.com) by [luseeds](https://luseeds.com)
 
 Want to add your website too? Send me a PR. :v:
 
-## Installation
+## Developing:
 
-`npm install --save-dev vuepress-theme-book`
+This repo makes use of [yarn workspaces](https://yarnpkg.com/lang/en/docs/workspaces/) to link packages together whilst developing.
+This means you can run the demo dev tasks whilst developing the theme package and see latest theme changes on the demo site.
+Here, you're at the entry point. You can find the demo under [packages/demo](https://raw.githubusercontent.com/cyrilf/vuepress-theme-book/master/packages/demo) and the theme under [packages/vuepress-theme-book](https://raw.githubusercontent.com/cyrilf/vuepress-theme-book/master/packages/vuepress-theme-book)
 
-## Usage
+### Install dependencies
 
-In your `.vuepress/config.js` file simply add:
+`yarn`
 
-```js
-module.exports = {
-  theme: "book",
-  ...
-}
-```
+### Run demo site in development mode
 
-## Configuration
+`yarn develop`
 
-There is no specific configuration for this theme.
-However, as we're extending the default theme you can configure all of their options.
+### Build
 
-Find out more on [the default theme config page](https://v1.vuepress.vuejs.org/theme/default-theme-config.html)
-All these config can be added to your `.vuepress/config.js` file under the key `themeConfig`.
+`yarn build`
 
-Also, if you want to change the color palette, you can modify your `.vuepress/styles/palette.styl`.
-The available variables are (including the [default theme ones](https://v1.vuepress.vuejs.org/config/#palette-styl)):
+## If you like it, please STAR it
 
-```stylus
-// colors
-$accentColor = #3eaf7c
-$textColor = #3b454e
-$titleColor = #242a31
-$borderColor = #eaecef
-$sidebarHeaderColor = #697179
-$sidebarBgColor = #f5f7f9
-$lightDelimiterColor = #e6ecf1
-$codeBgColor = #282c34
-$arrowBgColor = #ccc
-$badgeTipColor = #42b983
-$badgeWarningColor = darken(#ffe564, 35%)
-$badgeErrorColor = #DA5961
+If you enjoy using it, please star it!
 
-// layout
-$navbarHeight = 4rem
-$sidebarWidth = 18.625rem
-$contentWidth = 740px
-$homePageWidth = 960px
+## Feedback
 
-// responsive breakpoints
-$MQNarrow = 959px
-$MQMobile = 719px
-$MQMobileNarrow = 419px
-```
-
-## License
-
-[MIT](https://github.com/cyrilf/vuepress-theme-book/blob/master/LICENSE)
+Feel free to create an [issue](https://github.com/cyrilf/vuepress-theme-book/issues).
 
 ## Contributing
+
+I would be more than happy to receive feedback/issues/pull requests, so don't hesitate.
+
+- Check the [open issues](https://github.com/cyrilf/vuepress-theme-book/issues) or [open a new issue](https://github.com/cyrilf/vuepress-theme-book/issues/new) to start a discussion around your feature idea or the bug you found.
+- Fork [the repository](https://github.com/cyrilf/vuepress-theme-book), make changes and send a pull request
 
 I would be more than happy to receive feedback/issues/pull request, so don't hesitate.
 
 - Check the open issues or open a new issue to start a discussion around your feature idea or the bug you found.
 - Fork repository, make changes and send a pull request
+
+## License
+
+[MIT](https://github.com/cyrilf/vuepress-theme-book/blob/master/LICENSE)
 
 Thank you!

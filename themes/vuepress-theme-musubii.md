@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/qrac/vuepress-theme-musubii/downloads
 events_url: https://api.github.com/repos/qrac/vuepress-theme-musubii/events
 fork: false
-forks: 0
-forks_count: 0
+forks: 1
+forks_count: 1
 forks_url: https://api.github.com/repos/qrac/vuepress-theme-musubii/forks
 full_name: qrac/vuepress-theme-musubii
 git_commits_url: https://api.github.com/repos/qrac/vuepress-theme-musubii/git/commits{/sha}
@@ -53,7 +53,7 @@ merges_url: https://api.github.com/repos/qrac/vuepress-theme-musubii/merges
 milestones_url: https://api.github.com/repos/qrac/vuepress-theme-musubii/milestones{/number}
 mirror_url: null
 name: vuepress-theme-musubii
-network_count: 0
+network_count: 1
 node_id: MDEwOlJlcG9zaXRvcnkxODQ5Njg4Njk=
 notifications_url: https://api.github.com/repos/qrac/vuepress-theme-musubii/notifications{?since,all,participating}
 open_issues: 0

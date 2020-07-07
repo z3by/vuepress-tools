@@ -83,7 +83,7 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/vxhly/vuepress-plugin-reward/pulls{/number}
-pushed_at: '2020-03-16T09:35:52Z'
+pushed_at: '2020-06-28T13:03:51Z'
 releases_url: https://api.github.com/repos/vxhly/vuepress-plugin-reward/releases{/id}
 size: 7
 ssh_url: git@github.com:vxhly/vuepress-plugin-reward.git
@@ -98,7 +98,7 @@ tags_url: https://api.github.com/repos/vxhly/vuepress-plugin-reward/tags
 teams_url: https://api.github.com/repos/vxhly/vuepress-plugin-reward/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/vxhly/vuepress-plugin-reward/git/trees{/sha}
-updated_at: '2020-03-16T09:35:54Z'
+updated_at: '2020-06-28T13:03:53Z'
 url: https://api.github.com/repos/vxhly/vuepress-plugin-reward
 watchers: 1
 watchers_count: 1

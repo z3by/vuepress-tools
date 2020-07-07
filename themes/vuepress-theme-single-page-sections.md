@@ -84,9 +84,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/ptandler/vuepress-theme-single-page-sections/pulls{/number}
-pushed_at: '2020-06-07T23:37:49Z'
+pushed_at: '2020-06-23T16:26:51Z'
 releases_url: https://api.github.com/repos/ptandler/vuepress-theme-single-page-sections/releases{/id}
-size: 12268
+size: 12272
 ssh_url: git@github.com:ptandler/vuepress-theme-single-page-sections.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/ptandler/vuepress-theme-single-page-sections/stargazers
@@ -99,7 +99,7 @@ tags_url: https://api.github.com/repos/ptandler/vuepress-theme-single-page-secti
 teams_url: https://api.github.com/repos/ptandler/vuepress-theme-single-page-sections/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/ptandler/vuepress-theme-single-page-sections/git/trees{/sha}
-updated_at: '2020-05-27T21:06:03Z'
+updated_at: '2020-06-23T16:26:54Z'
 url: https://api.github.com/repos/ptandler/vuepress-theme-single-page-sections
 watchers: 0
 watchers_count: 0

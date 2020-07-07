@@ -87,7 +87,7 @@ pushed_at: '2020-06-09T08:26:20Z'
 releases_url: https://api.github.com/repos/yuchanns/vuepress-theme-yuchanns/releases{/id}
 size: 5330
 ssh_url: git@github.com:yuchanns/vuepress-theme-yuchanns.git
-stargazers_count: 8
+stargazers_count: 9
 stargazers_url: https://api.github.com/repos/yuchanns/vuepress-theme-yuchanns/stargazers
 statuses_url: https://api.github.com/repos/yuchanns/vuepress-theme-yuchanns/statuses/{sha}
 subscribers_count: 0
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/yuchanns/vuepress-theme-yuchanns/tags
 teams_url: https://api.github.com/repos/yuchanns/vuepress-theme-yuchanns/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/yuchanns/vuepress-theme-yuchanns/git/trees{/sha}
-updated_at: '2020-06-21T13:40:39Z'
+updated_at: '2020-06-29T17:36:58Z'
 url: https://api.github.com/repos/yuchanns/vuepress-theme-yuchanns
-watchers: 8
-watchers_count: 8
+watchers: 9
+watchers_count: 9
 ---
 
 # VuePress Blog Theme yuchanns

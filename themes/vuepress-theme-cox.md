@@ -78,9 +78,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/bedeute/vuepress-theme-cox/pulls{/number}
-pushed_at: '2020-06-07T17:20:04Z'
+pushed_at: '2020-06-22T13:02:46Z'
 releases_url: https://api.github.com/repos/bedeute/vuepress-theme-cox/releases{/id}
-size: 458
+size: 482
 ssh_url: git@github.com:bedeute/vuepress-theme-cox.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/bedeute/vuepress-theme-cox/stargazers
@@ -93,7 +93,7 @@ tags_url: https://api.github.com/repos/bedeute/vuepress-theme-cox/tags
 teams_url: https://api.github.com/repos/bedeute/vuepress-theme-cox/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/bedeute/vuepress-theme-cox/git/trees{/sha}
-updated_at: '2020-01-30T18:33:39Z'
+updated_at: '2020-06-22T13:02:48Z'
 url: https://api.github.com/repos/bedeute/vuepress-theme-cox
 watchers: 0
 watchers_count: 0

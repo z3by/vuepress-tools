@@ -87,7 +87,7 @@ pushed_at: '2020-06-08T08:50:19Z'
 releases_url: https://api.github.com/repos/kencc/vuepress-theme-minos/releases{/id}
 size: 8913
 ssh_url: git@github.com:kencc/vuepress-theme-minos.git
-stargazers_count: 1
+stargazers_count: 2
 stargazers_url: https://api.github.com/repos/kencc/vuepress-theme-minos/stargazers
 statuses_url: https://api.github.com/repos/kencc/vuepress-theme-minos/statuses/{sha}
 subscribers_count: 1
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/kencc/vuepress-theme-minos/tags
 teams_url: https://api.github.com/repos/kencc/vuepress-theme-minos/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/kencc/vuepress-theme-minos/git/trees{/sha}
-updated_at: '2020-06-19T12:48:58Z'
+updated_at: '2020-06-24T09:23:26Z'
 url: https://api.github.com/repos/kencc/vuepress-theme-minos
-watchers: 1
-watchers_count: 1
+watchers: 2
+watchers_count: 2
 ---
 
 ## Minos

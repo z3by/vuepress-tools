@@ -87,7 +87,7 @@ pushed_at: '2020-06-12T10:04:36Z'
 releases_url: https://api.github.com/repos/spekulatius/vuepress-plugin-web-monetization/releases{/id}
 size: 2
 ssh_url: git@github.com:spekulatius/vuepress-plugin-web-monetization.git
-stargazers_count: 1
+stargazers_count: 2
 stargazers_url: https://api.github.com/repos/spekulatius/vuepress-plugin-web-monetization/stargazers
 statuses_url: https://api.github.com/repos/spekulatius/vuepress-plugin-web-monetization/statuses/{sha}
 subscribers_count: 1
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/spekulatius/vuepress-plugin-web-monetizat
 teams_url: https://api.github.com/repos/spekulatius/vuepress-plugin-web-monetization/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/spekulatius/vuepress-plugin-web-monetization/git/trees{/sha}
-updated_at: '2020-06-13T15:50:25Z'
+updated_at: '2020-07-05T05:15:46Z'
 url: https://api.github.com/repos/spekulatius/vuepress-plugin-web-monetization
-watchers: 1
-watchers_count: 1
+watchers: 2
+watchers_count: 2
 ---
 
 # Vuepress Plugin Web-Monetization

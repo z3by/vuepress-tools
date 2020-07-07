@@ -87,7 +87,7 @@ pushed_at: '2020-04-13T13:48:51Z'
 releases_url: https://api.github.com/repos/Puritanic/vuepress-theme-solarized/releases{/id}
 size: 67
 ssh_url: git@github.com:Puritanic/vuepress-theme-solarized.git
-stargazers_count: 0
+stargazers_count: 1
 stargazers_url: https://api.github.com/repos/Puritanic/vuepress-theme-solarized/stargazers
 statuses_url: https://api.github.com/repos/Puritanic/vuepress-theme-solarized/statuses/{sha}
 subscribers_count: 1
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/Puritanic/vuepress-theme-solarized/tags
 teams_url: https://api.github.com/repos/Puritanic/vuepress-theme-solarized/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/Puritanic/vuepress-theme-solarized/git/trees{/sha}
-updated_at: '2020-04-13T13:48:54Z'
+updated_at: '2020-07-01T11:55:25Z'
 url: https://api.github.com/repos/Puritanic/vuepress-theme-solarized
-watchers: 0
-watchers_count: 0
+watchers: 1
+watchers_count: 1
 ---
 
 # vuepress-theme-solarized
