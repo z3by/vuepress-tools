@@ -71,12 +71,8 @@ module.exports = {
         src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
       },
     ],
-    [
-      "script",
-      {
-        src: "/ads.js",
-      },
-    ],
+    ['script', {},
+      '(adsbygoogle = window.adsbygoogle || []).push({  google_ad_client: <your code here>,  enable_page_level_ads: true });'],
   ],
 
   /**
