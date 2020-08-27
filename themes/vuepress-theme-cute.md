@@ -51,8 +51,8 @@ name: vuepress-theme-cute
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkxNzExNDg0MjY=
 notifications_url: https://api.github.com/repos/linrz/vuepress-theme-cute/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
+open_issues: 4
+open_issues_count: 4
 owner:
   avatar_url: https://avatars3.githubusercontent.com/u/33575974?v=4
   events_url: https://api.github.com/users/linrz/events{/privacy}
@@ -78,9 +78,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/linrz/vuepress-theme-cute/pulls{/number}
-pushed_at: '2020-03-26T09:14:28Z'
+pushed_at: '2020-08-07T22:56:49Z'
 releases_url: https://api.github.com/repos/linrz/vuepress-theme-cute/releases{/id}
-size: 904
+size: 1306
 ssh_url: git@github.com:linrz/vuepress-theme-cute.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/linrz/vuepress-theme-cute/stargazers

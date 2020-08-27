@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/ulivz/vuepress-plugin-check-md/downloads
 events_url: https://api.github.com/repos/ulivz/vuepress-plugin-check-md/events
 fork: false
-forks: 0
-forks_count: 0
+forks: 2
+forks_count: 2
 forks_url: https://api.github.com/repos/ulivz/vuepress-plugin-check-md/forks
 full_name: ulivz/vuepress-plugin-check-md
 git_commits_url: https://api.github.com/repos/ulivz/vuepress-plugin-check-md/git/commits{/sha}
@@ -53,7 +53,7 @@ merges_url: https://api.github.com/repos/ulivz/vuepress-plugin-check-md/merges
 milestones_url: https://api.github.com/repos/ulivz/vuepress-plugin-check-md/milestones{/number}
 mirror_url: null
 name: vuepress-plugin-check-md
-network_count: 0
+network_count: 2
 node_id: MDEwOlJlcG9zaXRvcnkxOTk2MDk4NDM=
 notifications_url: https://api.github.com/repos/ulivz/vuepress-plugin-check-md/notifications{?since,all,participating}
 open_issues: 2
@@ -87,7 +87,7 @@ pushed_at: '2019-07-30T16:44:00Z'
 releases_url: https://api.github.com/repos/ulivz/vuepress-plugin-check-md/releases{/id}
 size: 223
 ssh_url: git@github.com:ulivz/vuepress-plugin-check-md.git
-stargazers_count: 17
+stargazers_count: 20
 stargazers_url: https://api.github.com/repos/ulivz/vuepress-plugin-check-md/stargazers
 statuses_url: https://api.github.com/repos/ulivz/vuepress-plugin-check-md/statuses/{sha}
 subscribers_count: 2
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/ulivz/vuepress-plugin-check-md/tags
 teams_url: https://api.github.com/repos/ulivz/vuepress-plugin-check-md/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/ulivz/vuepress-plugin-check-md/git/trees{/sha}
-updated_at: '2020-07-07T10:35:11Z'
+updated_at: '2020-08-14T19:19:09Z'
 url: https://api.github.com/repos/ulivz/vuepress-plugin-check-md
-watchers: 17
-watchers_count: 17
+watchers: 20
+watchers_count: 20
 ---
 
 # vuepress-plugin-check-md

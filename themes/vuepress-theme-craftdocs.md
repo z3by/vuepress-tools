@@ -56,8 +56,8 @@ name: vuepress-theme-craftdocs
 network_count: 12
 node_id: MDEwOlJlcG9zaXRvcnkxMzI1MjE2NDI=
 notifications_url: https://api.github.com/repos/pixelandtonic/vuepress-theme-craftdocs/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
+open_issues: 0
+open_issues_count: 0
 organization:
   avatar_url: https://avatars3.githubusercontent.com/u/1022868?v=4
   events_url: https://api.github.com/users/pixelandtonic/events{/privacy}
@@ -102,11 +102,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/pixelandtonic/vuepress-theme-craftdocs/pulls{/number}
-pushed_at: '2020-06-18T23:05:12Z'
+pushed_at: '2020-07-17T15:05:06Z'
 releases_url: https://api.github.com/repos/pixelandtonic/vuepress-theme-craftdocs/releases{/id}
-size: 550
+size: 410
 ssh_url: git@github.com:pixelandtonic/vuepress-theme-craftdocs.git
-stargazers_count: 57
+stargazers_count: 62
 stargazers_url: https://api.github.com/repos/pixelandtonic/vuepress-theme-craftdocs/stargazers
 statuses_url: https://api.github.com/repos/pixelandtonic/vuepress-theme-craftdocs/statuses/{sha}
 subscribers_count: 4
@@ -117,10 +117,10 @@ tags_url: https://api.github.com/repos/pixelandtonic/vuepress-theme-craftdocs/ta
 teams_url: https://api.github.com/repos/pixelandtonic/vuepress-theme-craftdocs/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/pixelandtonic/vuepress-theme-craftdocs/git/trees{/sha}
-updated_at: '2020-07-07T04:51:39Z'
+updated_at: '2020-08-13T03:01:46Z'
 url: https://api.github.com/repos/pixelandtonic/vuepress-theme-craftdocs
-watchers: 57
-watchers_count: 57
+watchers: 62
+watchers_count: 62
 ---
 
 # Craft Documentation Theme for VuePress

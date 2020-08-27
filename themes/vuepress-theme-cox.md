@@ -51,8 +51,8 @@ name: vuepress-theme-cox
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyMzI3MjEzMjM=
 notifications_url: https://api.github.com/repos/bedeute/vuepress-theme-cox/notifications{?since,all,participating}
-open_issues: 3
-open_issues_count: 3
+open_issues: 6
+open_issues_count: 6
 owner:
   avatar_url: https://avatars2.githubusercontent.com/u/1776866?v=4
   events_url: https://api.github.com/users/bedeute/events{/privacy}
@@ -78,9 +78,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/bedeute/vuepress-theme-cox/pulls{/number}
-pushed_at: '2020-06-22T13:02:46Z'
+pushed_at: '2020-08-07T23:49:37Z'
 releases_url: https://api.github.com/repos/bedeute/vuepress-theme-cox/releases{/id}
-size: 482
+size: 717
 ssh_url: git@github.com:bedeute/vuepress-theme-cox.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/bedeute/vuepress-theme-cox/stargazers

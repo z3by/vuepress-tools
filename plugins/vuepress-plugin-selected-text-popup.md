@@ -56,8 +56,8 @@ name: vuepress-plugin-selected-text-popup
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyMjU5ODg4ODA=
 notifications_url: https://api.github.com/repos/znicholasbrown/vuepress-plugin-selected-text-popup/notifications{?since,all,participating}
-open_issues: 2
-open_issues_count: 2
+open_issues: 5
+open_issues_count: 5
 owner:
   avatar_url: https://avatars3.githubusercontent.com/u/27291717?v=4
   events_url: https://api.github.com/users/znicholasbrown/events{/privacy}
@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/znicholasbrown/vuepress-plugin-selected-text-popup/pulls{/number}
-pushed_at: '2020-06-07T14:16:06Z'
+pushed_at: '2020-08-07T23:46:07Z'
 releases_url: https://api.github.com/repos/znicholasbrown/vuepress-plugin-selected-text-popup/releases{/id}
-size: 340
+size: 661
 ssh_url: git@github.com:znicholasbrown/vuepress-plugin-selected-text-popup.git
 stargazers_count: 1
 stargazers_url: https://api.github.com/repos/znicholasbrown/vuepress-plugin-selected-text-popup/stargazers

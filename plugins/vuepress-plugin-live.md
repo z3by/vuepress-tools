@@ -56,8 +56,8 @@ name: vuepress-plugin-live
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkxODYxODIxNjI=
 notifications_url: https://api.github.com/repos/vue-styleguidist/vuepress-plugin-live/notifications{?since,all,participating}
-open_issues: 4
-open_issues_count: 4
+open_issues: 2
+open_issues_count: 2
 organization:
   avatar_url: https://avatars3.githubusercontent.com/u/29342568?v=4
   events_url: https://api.github.com/users/vue-styleguidist/events{/privacy}
@@ -102,11 +102,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/vue-styleguidist/vuepress-plugin-live/pulls{/number}
-pushed_at: '2020-06-26T16:31:21Z'
+pushed_at: '2020-08-20T13:51:51Z'
 releases_url: https://api.github.com/repos/vue-styleguidist/vuepress-plugin-live/releases{/id}
-size: 687
+size: 1221
 ssh_url: git@github.com:vue-styleguidist/vuepress-plugin-live.git
-stargazers_count: 21
+stargazers_count: 22
 stargazers_url: https://api.github.com/repos/vue-styleguidist/vuepress-plugin-live/stargazers
 statuses_url: https://api.github.com/repos/vue-styleguidist/vuepress-plugin-live/statuses/{sha}
 subscribers_count: 2
@@ -117,10 +117,10 @@ tags_url: https://api.github.com/repos/vue-styleguidist/vuepress-plugin-live/tag
 teams_url: https://api.github.com/repos/vue-styleguidist/vuepress-plugin-live/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/vue-styleguidist/vuepress-plugin-live/git/trees{/sha}
-updated_at: '2020-06-26T16:31:24Z'
+updated_at: '2020-08-20T13:51:53Z'
 url: https://api.github.com/repos/vue-styleguidist/vuepress-plugin-live
-watchers: 21
-watchers_count: 21
+watchers: 22
+watchers_count: 22
 ---
 
 # vuepress-plugin-live
@@ -144,10 +144,8 @@ yarn add -D vuepress-plugin-live
 //.vuepress/config.js
 module.exports = {
   //...
-  plugins: [
-    ["live"],
-  ]
-}
+  plugins: [["live"]],
+};
 ```
 
 ## Usage
@@ -158,3 +156,72 @@ In your markdown file just add a `live` flag to your fenced code blocks.
 &lt;button&gt;example&lt;/button&gt;
 ```
 </code></pre>
+
+## Options
+
+### layout
+
+Path to a custom layout for the vue-live instances
+
+#### default
+
+`vuepress-plugin-live/layout.vue`
+
+#### example
+
+```js
+//.vuepress/config.js
+module.exports = {
+  //...
+  plugins: [
+    ["live", { layout: path.resolve(__dirname, "../VueLiveLayout.vue") }],
+  ],
+};
+```
+
+### noSsr
+
+Avoid server side rendering the components in components if they are not ssr ready. Remember that vuepress build pre-compiles the html pages you need.
+
+#### default
+
+`false`
+
+#### example
+
+```js
+//.vuepress/config.js
+module.exports = {
+  //...
+  plugins: [["live", { noSsr: true }]],
+};
+```
+
+### liveFilter
+
+Allows users of theis plugin to say what fenced blocks will be rendered with vue-live.
+
+#### default
+
+```js
+(lang) => / live$/.test(lang) && / live /.test(lang);
+```
+
+#### example
+
+```js
+//.vuepress/config.js
+module.exports = {
+  //...
+  plugins: [
+    [
+      "live",
+      {
+        liveFilter(lang) {
+          return ["vue", "js", "jsx"].includes(lang);
+        },
+      },
+    ],
+  ],
+};
+```

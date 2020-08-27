@@ -56,8 +56,8 @@ name: vuepress-theme-elegant
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyMDkwMDYxNDk=
 notifications_url: https://api.github.com/repos/maoyuanjun/vuepress-theme-elegant/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
+open_issues: 1
+open_issues_count: 1
 owner:
   avatar_url: https://avatars1.githubusercontent.com/u/8637758?v=4
   events_url: https://api.github.com/users/maoyuanjun/events{/privacy}
@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/maoyuanjun/vuepress-theme-elegant/pulls{/number}
-pushed_at: '2019-09-18T15:52:00Z'
+pushed_at: '2020-07-13T22:31:07Z'
 releases_url: https://api.github.com/repos/maoyuanjun/vuepress-theme-elegant/releases{/id}
-size: 760
+size: 889
 ssh_url: git@github.com:maoyuanjun/vuepress-theme-elegant.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/maoyuanjun/vuepress-theme-elegant/stargazers

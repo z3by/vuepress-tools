@@ -57,8 +57,8 @@ name: vuepress-plugin-code-switcher
 network_count: 2
 node_id: MDEwOlJlcG9zaXRvcnkxNjk3NTQzNzg=
 notifications_url: https://api.github.com/repos/padarom/vuepress-plugin-code-switcher/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
+open_issues: 1
+open_issues_count: 1
 owner:
   avatar_url: https://avatars3.githubusercontent.com/u/3678770?v=4
   events_url: https://api.github.com/users/padarom/events{/privacy}
@@ -88,7 +88,7 @@ pushed_at: '2019-12-06T12:53:54Z'
 releases_url: https://api.github.com/repos/padarom/vuepress-plugin-code-switcher/releases{/id}
 size: 1630
 ssh_url: git@github.com:padarom/vuepress-plugin-code-switcher.git
-stargazers_count: 23
+stargazers_count: 25
 stargazers_url: https://api.github.com/repos/padarom/vuepress-plugin-code-switcher/stargazers
 statuses_url: https://api.github.com/repos/padarom/vuepress-plugin-code-switcher/statuses/{sha}
 subscribers_count: 0
@@ -99,10 +99,10 @@ tags_url: https://api.github.com/repos/padarom/vuepress-plugin-code-switcher/tag
 teams_url: https://api.github.com/repos/padarom/vuepress-plugin-code-switcher/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/padarom/vuepress-plugin-code-switcher/git/trees{/sha}
-updated_at: '2020-06-07T11:24:48Z'
+updated_at: '2020-08-16T16:20:05Z'
 url: https://api.github.com/repos/padarom/vuepress-plugin-code-switcher
-watchers: 23
-watchers_count: 23
+watchers: 25
+watchers_count: 25
 ---
 
 # vuepress-plugin-code-switcher

@@ -51,8 +51,8 @@ name: vuepress-theme-talltotal
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkxNzY5MTU0MDQ=
 notifications_url: https://api.github.com/repos/talltotal/vuepress-theme-talltotal/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
+open_issues: 3
+open_issues_count: 3
 owner:
   avatar_url: https://avatars3.githubusercontent.com/u/17965996?v=4
   events_url: https://api.github.com/users/talltotal/events{/privacy}
@@ -78,9 +78,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/talltotal/vuepress-theme-talltotal/pulls{/number}
-pushed_at: '2020-04-20T12:28:19Z'
+pushed_at: '2020-08-07T23:07:18Z'
 releases_url: https://api.github.com/repos/talltotal/vuepress-theme-talltotal/releases{/id}
-size: 808
+size: 1323
 ssh_url: git@github.com:talltotal/vuepress-theme-talltotal.git
 stargazers_count: 1
 stargazers_url: https://api.github.com/repos/talltotal/vuepress-theme-talltotal/stargazers

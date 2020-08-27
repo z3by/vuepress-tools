@@ -102,9 +102,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/MenuDocs/vuepress-theme-reco-edit/pulls{/number}
-pushed_at: '2020-06-06T15:22:16Z'
+pushed_at: '2020-08-21T16:53:16Z'
 releases_url: https://api.github.com/repos/MenuDocs/vuepress-theme-reco-edit/releases{/id}
-size: 151
+size: 155
 ssh_url: git@github.com:MenuDocs/vuepress-theme-reco-edit.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/MenuDocs/vuepress-theme-reco-edit/stargazers
@@ -117,7 +117,7 @@ tags_url: https://api.github.com/repos/MenuDocs/vuepress-theme-reco-edit/tags
 teams_url: https://api.github.com/repos/MenuDocs/vuepress-theme-reco-edit/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/MenuDocs/vuepress-theme-reco-edit/git/trees{/sha}
-updated_at: '2020-06-06T15:22:18Z'
+updated_at: '2020-08-21T16:53:18Z'
 url: https://api.github.com/repos/MenuDocs/vuepress-theme-reco-edit
 watchers: 0
 watchers_count: 0
@@ -125,4 +125,54 @@ watchers_count: 0
 
 # VuePress Theme Reco Edit
 
-Just a simple edit done by the MenuDocs team to add a couple features and alter some chinese to english.
+Just some simple edits done by the MenuDocs team to add a couple features and alter some chinese to english.
+
+## Changes you can use
+
+### 404 messages
+
+We've added custom 404 messages that you can mix with the default ones.
+
+```javascript
+module.exports = {
+    themeConfig: {
+        // Custom 404 messages, omit to keep the default messages.
+        notFoundMessages: [ `Oops, I think you found a dead link.` ],
+        // This will mix the notFoundMessages with the default messages
+        mixNotFoundMessages: true
+    }
+};
+``` 
+
+### Page authors
+
+Now you can have multiple authors with hyperlinks to another site or by default, their github.
+
+```markdown
+---
+authors:
+- User 
+- [User]
+- [Example User, https://github.com/User]
+- [User, https://example.com]
+---
+
+# My markdown page
+```
+
+This is what will be shown for each.
+1. [User](https://github.com/User) (https:\//github.com/User)
+2. [User](https://github.com/User) (https:\//github.com/User)
+2. [Example User](https://github.com/User) (https:\//github.com/User)
+3. [User](https://example.com) (https:\//example.com)
+
+## Changes to improve the visual aspect
+
+### Tags
+
+Tags will be separated with a comma, before it was separated with a space.
+
+## Work in progress changes
+
+- Accent colours
+

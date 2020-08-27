@@ -56,8 +56,8 @@ name: vuepress-theme-antd-docs
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyNTkyMzIzNzY=
 notifications_url: https://api.github.com/repos/konnga/vuepress-theme-antd-docs/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
+open_issues: 4
+open_issues_count: 4
 owner:
   avatar_url: https://avatars1.githubusercontent.com/u/18214609?v=4
   events_url: https://api.github.com/users/konnga/events{/privacy}
@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/konnga/vuepress-theme-antd-docs/pulls{/number}
-pushed_at: '2020-06-08T05:10:19Z'
+pushed_at: '2020-08-08T00:14:57Z'
 releases_url: https://api.github.com/repos/konnga/vuepress-theme-antd-docs/releases{/id}
-size: 525
+size: 762
 ssh_url: git@github.com:konnga/vuepress-theme-antd-docs.git
 stargazers_count: 1
 stargazers_url: https://api.github.com/repos/konnga/vuepress-theme-antd-docs/stargazers

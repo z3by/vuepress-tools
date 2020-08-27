@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/eFrane/vuepress-plugin-mermaidjs/downloads
 events_url: https://api.github.com/repos/eFrane/vuepress-plugin-mermaidjs/events
 fork: false
-forks: 5
-forks_count: 5
+forks: 6
+forks_count: 6
 forks_url: https://api.github.com/repos/eFrane/vuepress-plugin-mermaidjs/forks
 full_name: eFrane/vuepress-plugin-mermaidjs
 git_commits_url: https://api.github.com/repos/eFrane/vuepress-plugin-mermaidjs/git/commits{/sha}
@@ -48,7 +48,7 @@ merges_url: https://api.github.com/repos/eFrane/vuepress-plugin-mermaidjs/merges
 milestones_url: https://api.github.com/repos/eFrane/vuepress-plugin-mermaidjs/milestones{/number}
 mirror_url: null
 name: vuepress-plugin-mermaidjs
-network_count: 5
+network_count: 6
 node_id: MDEwOlJlcG9zaXRvcnkyMTUyOTE3OTU=
 notifications_url: https://api.github.com/repos/eFrane/vuepress-plugin-mermaidjs/notifications{?since,all,participating}
 open_issues: 1
@@ -78,11 +78,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/eFrane/vuepress-plugin-mermaidjs/pulls{/number}
-pushed_at: '2020-05-26T18:56:50Z'
+pushed_at: '2020-08-24T04:44:05Z'
 releases_url: https://api.github.com/repos/eFrane/vuepress-plugin-mermaidjs/releases{/id}
-size: 118
+size: 149
 ssh_url: git@github.com:eFrane/vuepress-plugin-mermaidjs.git
-stargazers_count: 19
+stargazers_count: 24
 stargazers_url: https://api.github.com/repos/eFrane/vuepress-plugin-mermaidjs/stargazers
 statuses_url: https://api.github.com/repos/eFrane/vuepress-plugin-mermaidjs/statuses/{sha}
 subscribers_count: 2
@@ -93,10 +93,10 @@ tags_url: https://api.github.com/repos/eFrane/vuepress-plugin-mermaidjs/tags
 teams_url: https://api.github.com/repos/eFrane/vuepress-plugin-mermaidjs/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/eFrane/vuepress-plugin-mermaidjs/git/trees{/sha}
-updated_at: '2020-07-01T03:23:59Z'
+updated_at: '2020-08-24T04:44:03Z'
 url: https://api.github.com/repos/eFrane/vuepress-plugin-mermaidjs
-watchers: 19
-watchers_count: 19
+watchers: 24
+watchers_count: 24
 ---
 
 [![npm version](https://badge.fury.io/js/vuepress-plugin-mermaidjs.svg)](https://badge.fury.io/js/vuepress-plugin-mermaidjs)

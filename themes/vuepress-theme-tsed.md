@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/TypedProject/vuepress-theme-tsed/downloads
 events_url: https://api.github.com/repos/TypedProject/vuepress-theme-tsed/events
 fork: false
-forks: 2
-forks_count: 2
+forks: 3
+forks_count: 3
 forks_url: https://api.github.com/repos/TypedProject/vuepress-theme-tsed/forks
 full_name: TypedProject/vuepress-theme-tsed
 git_commits_url: https://api.github.com/repos/TypedProject/vuepress-theme-tsed/git/commits{/sha}
@@ -48,11 +48,11 @@ merges_url: https://api.github.com/repos/TypedProject/vuepress-theme-tsed/merges
 milestones_url: https://api.github.com/repos/TypedProject/vuepress-theme-tsed/milestones{/number}
 mirror_url: null
 name: vuepress-theme-tsed
-network_count: 2
+network_count: 3
 node_id: MDEwOlJlcG9zaXRvcnkxNDQ0NDgzODM=
 notifications_url: https://api.github.com/repos/TypedProject/vuepress-theme-tsed/notifications{?since,all,participating}
-open_issues: 6
-open_issues_count: 6
+open_issues: 7
+open_issues_count: 7
 organization:
   avatar_url: https://avatars0.githubusercontent.com/u/34125411?v=4
   events_url: https://api.github.com/users/TypedProject/events{/privacy}
@@ -97,9 +97,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/TypedProject/vuepress-theme-tsed/pulls{/number}
-pushed_at: '2020-07-07T06:02:07Z'
+pushed_at: '2020-08-24T06:01:43Z'
 releases_url: https://api.github.com/repos/TypedProject/vuepress-theme-tsed/releases{/id}
-size: 4981
+size: 3440
 ssh_url: git@github.com:TypedProject/vuepress-theme-tsed.git
 stargazers_count: 3
 stargazers_url: https://api.github.com/repos/TypedProject/vuepress-theme-tsed/stargazers
@@ -112,7 +112,7 @@ tags_url: https://api.github.com/repos/TypedProject/vuepress-theme-tsed/tags
 teams_url: https://api.github.com/repos/TypedProject/vuepress-theme-tsed/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/TypedProject/vuepress-theme-tsed/git/trees{/sha}
-updated_at: '2020-06-26T09:06:12Z'
+updated_at: '2020-07-29T14:30:10Z'
 url: https://api.github.com/repos/TypedProject/vuepress-theme-tsed
 watchers: 3
 watchers_count: 3

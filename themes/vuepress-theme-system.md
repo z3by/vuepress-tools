@@ -51,8 +51,8 @@ name: vuepress-theme-system
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyMzYzMDU4Njg=
 notifications_url: https://api.github.com/repos/francoisromain/vuepress-theme-system/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
+open_issues: 2
+open_issues_count: 2
 owner:
   avatar_url: https://avatars1.githubusercontent.com/u/156539?v=4
   events_url: https://api.github.com/users/francoisromain/events{/privacy}
@@ -78,9 +78,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/francoisromain/vuepress-theme-system/pulls{/number}
-pushed_at: '2020-03-27T09:20:47Z'
+pushed_at: '2020-07-19T09:50:42Z'
 releases_url: https://api.github.com/repos/francoisromain/vuepress-theme-system/releases{/id}
-size: 216
+size: 247
 ssh_url: git@github.com:francoisromain/vuepress-theme-system.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/francoisromain/vuepress-theme-system/stargazers

@@ -51,8 +51,8 @@ name: vuepress-theme-trskillblog
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyMTc0NTE0Njg=
 notifications_url: https://api.github.com/repos/Tr-blank/vuepress-theme-trskillblog/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
+open_issues: 1
+open_issues_count: 1
 owner:
   avatar_url: https://avatars1.githubusercontent.com/u/10918415?v=4
   events_url: https://api.github.com/users/Tr-blank/events{/privacy}
@@ -78,9 +78,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/Tr-blank/vuepress-theme-trskillblog/pulls{/number}
-pushed_at: '2019-11-01T11:14:43Z'
+pushed_at: '2020-07-18T15:15:19Z'
 releases_url: https://api.github.com/repos/Tr-blank/vuepress-theme-trskillblog/releases{/id}
-size: 29
+size: 58
 ssh_url: git@github.com:Tr-blank/vuepress-theme-trskillblog.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/Tr-blank/vuepress-theme-trskillblog/stargazers

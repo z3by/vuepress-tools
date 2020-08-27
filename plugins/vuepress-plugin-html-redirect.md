@@ -106,7 +106,7 @@ pushed_at: '2020-03-28T16:09:04Z'
 releases_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-html-redirect/releases{/id}
 size: 15
 ssh_url: git@github.com:vuepressjs/vuepress-plugin-html-redirect.git
-stargazers_count: 2
+stargazers_count: 3
 stargazers_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-html-redirect/stargazers
 statuses_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-html-redirect/statuses/{sha}
 subscribers_count: 1
@@ -117,10 +117,10 @@ tags_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-html-redirect/
 teams_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-html-redirect/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-html-redirect/git/trees{/sha}
-updated_at: '2020-03-28T16:09:06Z'
+updated_at: '2020-07-07T21:18:34Z'
 url: https://api.github.com/repos/vuepressjs/vuepress-plugin-html-redirect
-watchers: 2
-watchers_count: 2
+watchers: 3
+watchers_count: 3
 ---
 
 # @vuepress/plugin-html-redirect

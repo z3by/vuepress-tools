@@ -51,8 +51,8 @@ name: vuepress-plugin-code-doc
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkxOTc4MTQwNDQ=
 notifications_url: https://api.github.com/repos/jardenliu/vuepress-plugin-code-doc/notifications{?since,all,participating}
-open_issues: 2
-open_issues_count: 2
+open_issues: 1
+open_issues_count: 1
 owner:
   avatar_url: https://avatars1.githubusercontent.com/u/15191056?v=4
   events_url: https://api.github.com/users/jardenliu/events{/privacy}
@@ -78,9 +78,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/jardenliu/vuepress-plugin-code-doc/pulls{/number}
-pushed_at: '2020-06-07T01:45:51Z'
+pushed_at: '2020-08-07T23:23:45Z'
 releases_url: https://api.github.com/repos/jardenliu/vuepress-plugin-code-doc/releases{/id}
-size: 580
+size: 1183
 ssh_url: git@github.com:jardenliu/vuepress-plugin-code-doc.git
 stargazers_count: 1
 stargazers_url: https://api.github.com/repos/jardenliu/vuepress-plugin-code-doc/stargazers
@@ -93,13 +93,38 @@ tags_url: https://api.github.com/repos/jardenliu/vuepress-plugin-code-doc/tags
 teams_url: https://api.github.com/repos/jardenliu/vuepress-plugin-code-doc/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/jardenliu/vuepress-plugin-code-doc/git/trees{/sha}
-updated_at: '2019-08-17T13:32:38Z'
+updated_at: '2020-07-23T03:47:20Z'
 url: https://api.github.com/repos/jardenliu/vuepress-plugin-code-doc
 watchers: 1
 watchers_count: 1
 ---
 
 # vuepress-plugin-code-doc
+> 🤩🤩🤩Writing Vuepress Documents Like Element-UI
+
+[📚中文文档](https://raw.githubusercontent.com/流君酱/vuepress-plugin-code-doc/master/README_CN.md) 丨 [📚English Docs](https://raw.githubusercontent.com/流君酱/vuepress-plugin-code-doc/master/README.md)
+
+## Installation
+Install plugin for your Vuepress project.
+```bash
+    $ yarn add vuepress-plugin-code-doc
+    #or
+    $ npm i vuepress-plugin-code-doc
+```
+
+## Usage
+In `.vuepress/config.js`, require the plugin and set it to the config. as follow:
+```js
+
+const CodeDocPlugin = require('vuepress-plugin-code-doc')
+const CodeDocOpt = {}
+
+module.exports = {
+    title: 'Vuepress Plugin Code Doc',
+    plugins: [[CodeDocPlugin, CodeDocOpt]]
+}
+
+```
 
 ## Options
 

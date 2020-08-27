@@ -56,8 +56,8 @@ name: vuepress-plugin-code-copy
 network_count: 5
 node_id: MDEwOlJlcG9zaXRvcnkyMDczMTYxNzI=
 notifications_url: https://api.github.com/repos/znicholasbrown/vuepress-plugin-code-copy/notifications{?since,all,participating}
-open_issues: 3
-open_issues_count: 3
+open_issues: 4
+open_issues_count: 4
 owner:
   avatar_url: https://avatars3.githubusercontent.com/u/27291717?v=4
   events_url: https://api.github.com/users/znicholasbrown/events{/privacy}
@@ -87,7 +87,7 @@ pushed_at: '2020-02-20T05:48:51Z'
 releases_url: https://api.github.com/repos/znicholasbrown/vuepress-plugin-code-copy/releases{/id}
 size: 44
 ssh_url: git@github.com:znicholasbrown/vuepress-plugin-code-copy.git
-stargazers_count: 32
+stargazers_count: 35
 stargazers_url: https://api.github.com/repos/znicholasbrown/vuepress-plugin-code-copy/stargazers
 statuses_url: https://api.github.com/repos/znicholasbrown/vuepress-plugin-code-copy/statuses/{sha}
 subscribers_count: 2
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/znicholasbrown/vuepress-plugin-code-copy/
 teams_url: https://api.github.com/repos/znicholasbrown/vuepress-plugin-code-copy/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/znicholasbrown/vuepress-plugin-code-copy/git/trees{/sha}
-updated_at: '2020-06-17T06:06:13Z'
+updated_at: '2020-08-07T11:10:16Z'
 url: https://api.github.com/repos/znicholasbrown/vuepress-plugin-code-copy
-watchers: 32
-watchers_count: 32
+watchers: 35
+watchers_count: 35
 ---
 
 # Vuepress Code Copy Plugin

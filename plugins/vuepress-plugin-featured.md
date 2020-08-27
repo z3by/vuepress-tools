@@ -60,8 +60,8 @@ name: vuepress-plugin-featured
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyMTUzNTkwNzI=
 notifications_url: https://api.github.com/repos/z3by/vuepress-plugin-featured/notifications{?since,all,participating}
-open_issues: 2
-open_issues_count: 2
+open_issues: 3
+open_issues_count: 3
 owner:
   avatar_url: https://avatars1.githubusercontent.com/u/36268825?v=4
   events_url: https://api.github.com/users/z3by/events{/privacy}
@@ -87,11 +87,11 @@ permissions:
   push: true
 private: false
 pulls_url: https://api.github.com/repos/z3by/vuepress-plugin-featured/pulls{/number}
-pushed_at: '2020-04-30T12:31:28Z'
+pushed_at: '2020-07-18T13:12:53Z'
 releases_url: https://api.github.com/repos/z3by/vuepress-plugin-featured/releases{/id}
-size: 21
+size: 27
 ssh_url: git@github.com:z3by/vuepress-plugin-featured.git
-stargazers_count: 0
+stargazers_count: 1
 stargazers_url: https://api.github.com/repos/z3by/vuepress-plugin-featured/stargazers
 statuses_url: https://api.github.com/repos/z3by/vuepress-plugin-featured/statuses/{sha}
 subscribers_count: 2
@@ -102,10 +102,10 @@ tags_url: https://api.github.com/repos/z3by/vuepress-plugin-featured/tags
 teams_url: https://api.github.com/repos/z3by/vuepress-plugin-featured/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/z3by/vuepress-plugin-featured/git/trees{/sha}
-updated_at: '2019-10-23T14:14:01Z'
+updated_at: '2020-07-20T19:57:54Z'
 url: https://api.github.com/repos/z3by/vuepress-plugin-featured
-watchers: 0
-watchers_count: 0
+watchers: 1
+watchers_count: 1
 ---
 
 # vuepress-plugin-blog-featured

@@ -57,8 +57,8 @@ name: vuepress-theme-seeker
 network_count: 3
 node_id: MDEwOlJlcG9zaXRvcnkxOTE0ODUxODI=
 notifications_url: https://api.github.com/repos/wensonsmith/vuepress-theme-seeker/notifications{?since,all,participating}
-open_issues: 9
-open_issues_count: 9
+open_issues: 12
+open_issues_count: 12
 owner:
   avatar_url: https://avatars1.githubusercontent.com/u/2544185?v=4
   events_url: https://api.github.com/users/wensonsmith/events{/privacy}
@@ -84,11 +84,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/wensonsmith/vuepress-theme-seeker/pulls{/number}
-pushed_at: '2020-06-07T08:14:23Z'
+pushed_at: '2020-08-07T23:35:39Z'
 releases_url: https://api.github.com/repos/wensonsmith/vuepress-theme-seeker/releases{/id}
-size: 629
+size: 749
 ssh_url: git@github.com:wensonsmith/vuepress-theme-seeker.git
-stargazers_count: 41
+stargazers_count: 43
 stargazers_url: https://api.github.com/repos/wensonsmith/vuepress-theme-seeker/stargazers
 statuses_url: https://api.github.com/repos/wensonsmith/vuepress-theme-seeker/statuses/{sha}
 subscribers_count: 0
@@ -99,10 +99,10 @@ tags_url: https://api.github.com/repos/wensonsmith/vuepress-theme-seeker/tags
 teams_url: https://api.github.com/repos/wensonsmith/vuepress-theme-seeker/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/wensonsmith/vuepress-theme-seeker/git/trees{/sha}
-updated_at: '2020-05-21T13:22:00Z'
+updated_at: '2020-08-22T11:38:35Z'
 url: https://api.github.com/repos/wensonsmith/vuepress-theme-seeker
-watchers: 41
-watchers_count: 41
+watchers: 43
+watchers_count: 43
 ---
 
 # Seeker

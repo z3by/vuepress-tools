@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/ChaselLHL/vuepress-theme-Secondary_element/downloads
 events_url: https://api.github.com/repos/ChaselLHL/vuepress-theme-Secondary_element/events
 fork: false
-forks: 1
-forks_count: 1
+forks: 2
+forks_count: 2
 forks_url: https://api.github.com/repos/ChaselLHL/vuepress-theme-Secondary_element/forks
 full_name: ChaselLHL/vuepress-theme-Secondary_element
 git_commits_url: https://api.github.com/repos/ChaselLHL/vuepress-theme-Secondary_element/git/commits{/sha}
@@ -53,7 +53,7 @@ merges_url: https://api.github.com/repos/ChaselLHL/vuepress-theme-Secondary_elem
 milestones_url: https://api.github.com/repos/ChaselLHL/vuepress-theme-Secondary_element/milestones{/number}
 mirror_url: null
 name: vuepress-theme-Secondary_element
-network_count: 1
+network_count: 2
 node_id: MDEwOlJlcG9zaXRvcnkyMDE5Mjk4OTc=
 notifications_url: https://api.github.com/repos/ChaselLHL/vuepress-theme-Secondary_element/notifications{?since,all,participating}
 open_issues: 0
@@ -87,7 +87,7 @@ pushed_at: '2019-11-23T09:23:23Z'
 releases_url: https://api.github.com/repos/ChaselLHL/vuepress-theme-Secondary_element/releases{/id}
 size: 68
 ssh_url: git@github.com:ChaselLHL/vuepress-theme-Secondary_element.git
-stargazers_count: 1
+stargazers_count: 2
 stargazers_url: https://api.github.com/repos/ChaselLHL/vuepress-theme-Secondary_element/stargazers
 statuses_url: https://api.github.com/repos/ChaselLHL/vuepress-theme-Secondary_element/statuses/{sha}
 subscribers_count: 1
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/ChaselLHL/vuepress-theme-Secondary_elemen
 teams_url: https://api.github.com/repos/ChaselLHL/vuepress-theme-Secondary_element/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/ChaselLHL/vuepress-theme-Secondary_element/git/trees{/sha}
-updated_at: '2019-11-23T09:23:25Z'
+updated_at: '2020-08-13T11:42:54Z'
 url: https://api.github.com/repos/ChaselLHL/vuepress-theme-Secondary_element
-watchers: 1
-watchers_count: 1
+watchers: 2
+watchers_count: 2
 ---
 
 ##  仿b站风格的一套vuepress主题， 基于默认主题修改， 食べにようこそ(版本号：1.0.4)

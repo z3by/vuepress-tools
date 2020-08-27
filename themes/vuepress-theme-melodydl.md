@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/youdeliang/vuepress-theme-melodydl/downloads
 events_url: https://api.github.com/repos/youdeliang/vuepress-theme-melodydl/events
 fork: false
-forks: 4
-forks_count: 4
+forks: 5
+forks_count: 5
 forks_url: https://api.github.com/repos/youdeliang/vuepress-theme-melodydl/forks
 full_name: youdeliang/vuepress-theme-melodydl
 git_commits_url: https://api.github.com/repos/youdeliang/vuepress-theme-melodydl/git/commits{/sha}
@@ -32,7 +32,7 @@ has_issues: true
 has_pages: true
 has_projects: true
 has_wiki: true
-homepage: https://www.ydlcq.cn
+homepage: https://youdeliang.github.io/
 hooks_url: https://api.github.com/repos/youdeliang/vuepress-theme-melodydl/hooks
 html_url: https://github.com/youdeliang/vuepress-theme-melodydl
 id: 256963284
@@ -53,11 +53,11 @@ merges_url: https://api.github.com/repos/youdeliang/vuepress-theme-melodydl/merg
 milestones_url: https://api.github.com/repos/youdeliang/vuepress-theme-melodydl/milestones{/number}
 mirror_url: null
 name: vuepress-theme-melodydl
-network_count: 4
+network_count: 5
 node_id: MDEwOlJlcG9zaXRvcnkyNTY5NjMyODQ=
 notifications_url: https://api.github.com/repos/youdeliang/vuepress-theme-melodydl/notifications{?since,all,participating}
-open_issues: 3
-open_issues_count: 3
+open_issues: 5
+open_issues_count: 5
 owner:
   avatar_url: https://avatars2.githubusercontent.com/u/46002903?v=4
   events_url: https://api.github.com/users/youdeliang/events{/privacy}
@@ -83,11 +83,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/youdeliang/vuepress-theme-melodydl/pulls{/number}
-pushed_at: '2020-06-06T10:06:24Z'
+pushed_at: '2020-08-08T00:15:42Z'
 releases_url: https://api.github.com/repos/youdeliang/vuepress-theme-melodydl/releases{/id}
-size: 7833
+size: 8207
 ssh_url: git@github.com:youdeliang/vuepress-theme-melodydl.git
-stargazers_count: 7
+stargazers_count: 9
 stargazers_url: https://api.github.com/repos/youdeliang/vuepress-theme-melodydl/stargazers
 statuses_url: https://api.github.com/repos/youdeliang/vuepress-theme-melodydl/statuses/{sha}
 subscribers_count: 1
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/youdeliang/vuepress-theme-melodydl/tags
 teams_url: https://api.github.com/repos/youdeliang/vuepress-theme-melodydl/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/youdeliang/vuepress-theme-melodydl/git/trees{/sha}
-updated_at: '2020-07-07T09:30:55Z'
+updated_at: '2020-08-07T05:18:31Z'
 url: https://api.github.com/repos/youdeliang/vuepress-theme-melodydl
-watchers: 7
-watchers_count: 7
+watchers: 9
+watchers_count: 9
 ---
 
 # VuePress Blog Theme 

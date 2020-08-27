@@ -32,7 +32,7 @@ has_issues: true
 has_pages: false
 has_projects: true
 has_wiki: true
-homepage: https://opportunist.luseeds.com/
+homepage: https://vuepress-theme-book.netlify.app
 hooks_url: https://api.github.com/repos/cyrilf/vuepress-theme-book/hooks
 html_url: https://github.com/cyrilf/vuepress-theme-book
 id: 254900564
@@ -83,11 +83,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/cyrilf/vuepress-theme-book/pulls{/number}
-pushed_at: '2020-07-01T09:48:27Z'
+pushed_at: '2020-08-13T12:58:22Z'
 releases_url: https://api.github.com/repos/cyrilf/vuepress-theme-book/releases{/id}
-size: 1882
+size: 2192
 ssh_url: git@github.com:cyrilf/vuepress-theme-book.git
-stargazers_count: 2
+stargazers_count: 12
 stargazers_url: https://api.github.com/repos/cyrilf/vuepress-theme-book/stargazers
 statuses_url: https://api.github.com/repos/cyrilf/vuepress-theme-book/statuses/{sha}
 subscribers_count: 1
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/cyrilf/vuepress-theme-book/tags
 teams_url: https://api.github.com/repos/cyrilf/vuepress-theme-book/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/cyrilf/vuepress-theme-book/git/trees{/sha}
-updated_at: '2020-07-07T14:16:02Z'
+updated_at: '2020-08-13T12:58:22Z'
 url: https://api.github.com/repos/cyrilf/vuepress-theme-book
-watchers: 2
-watchers_count: 2
+watchers: 12
+watchers_count: 12
 ---
 
 # VuePress theme - Gitbook inspired

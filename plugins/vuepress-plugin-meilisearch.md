@@ -14,7 +14,7 @@ contributors_url: https://api.github.com/repos/meilisearch/vuepress-plugin-meili
 created_at: '2020-04-08T09:22:10Z'
 default_branch: master
 deployments_url: https://api.github.com/repos/meilisearch/vuepress-plugin-meilisearch/deployments
-description: Add a relevant and typo tolerant search bar to your Vuepress
+description: Add a relevant and typo tolerant search bar to your VuePress
 disabled: false
 downloads_url: https://api.github.com/repos/meilisearch/vuepress-plugin-meilisearch/downloads
 events_url: https://api.github.com/repos/meilisearch/vuepress-plugin-meilisearch/events
@@ -32,7 +32,7 @@ has_issues: true
 has_pages: false
 has_projects: true
 has_wiki: true
-homepage: null
+homepage: ''
 hooks_url: https://api.github.com/repos/meilisearch/vuepress-plugin-meilisearch/hooks
 html_url: https://github.com/meilisearch/vuepress-plugin-meilisearch
 id: 254041626
@@ -56,8 +56,8 @@ name: vuepress-plugin-meilisearch
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyNTQwNDE2MjY=
 notifications_url: https://api.github.com/repos/meilisearch/vuepress-plugin-meilisearch/notifications{?since,all,participating}
-open_issues: 3
-open_issues_count: 3
+open_issues: 5
+open_issues_count: 5
 organization:
   avatar_url: https://avatars1.githubusercontent.com/u/43250847?v=4
   events_url: https://api.github.com/users/meilisearch/events{/privacy}
@@ -102,11 +102,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/meilisearch/vuepress-plugin-meilisearch/pulls{/number}
-pushed_at: '2020-07-06T11:16:29Z'
+pushed_at: '2020-08-24T15:14:29Z'
 releases_url: https://api.github.com/repos/meilisearch/vuepress-plugin-meilisearch/releases{/id}
-size: 13447
+size: 13511
 ssh_url: git@github.com:meilisearch/vuepress-plugin-meilisearch.git
-stargazers_count: 9
+stargazers_count: 12
 stargazers_url: https://api.github.com/repos/meilisearch/vuepress-plugin-meilisearch/stargazers
 statuses_url: https://api.github.com/repos/meilisearch/vuepress-plugin-meilisearch/statuses/{sha}
 subscribers_count: 3
@@ -117,10 +117,10 @@ tags_url: https://api.github.com/repos/meilisearch/vuepress-plugin-meilisearch/t
 teams_url: https://api.github.com/repos/meilisearch/vuepress-plugin-meilisearch/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/meilisearch/vuepress-plugin-meilisearch/git/trees{/sha}
-updated_at: '2020-07-07T09:19:49Z'
+updated_at: '2020-08-24T15:14:31Z'
 url: https://api.github.com/repos/meilisearch/vuepress-plugin-meilisearch
-watchers: 9
-watchers_count: 9
+watchers: 12
+watchers_count: 12
 ---
 
 <p align="center">
@@ -243,6 +243,7 @@ module.exports = {
 
 This package is compatible with the following MeiliSearch versions:
 
+- `v0.13.X`
 - `v0.12.X`
 - `v0.11.X`
 - `v0.10.X`

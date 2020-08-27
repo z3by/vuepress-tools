@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/kalisio/vuepress-theme-kalisio/downloads
 events_url: https://api.github.com/repos/kalisio/vuepress-theme-kalisio/events
 fork: false
-forks: 1
-forks_count: 1
+forks: 2
+forks_count: 2
 forks_url: https://api.github.com/repos/kalisio/vuepress-theme-kalisio/forks
 full_name: kalisio/vuepress-theme-kalisio
 git_commits_url: https://api.github.com/repos/kalisio/vuepress-theme-kalisio/git/commits{/sha}
@@ -48,7 +48,7 @@ merges_url: https://api.github.com/repos/kalisio/vuepress-theme-kalisio/merges
 milestones_url: https://api.github.com/repos/kalisio/vuepress-theme-kalisio/milestones{/number}
 mirror_url: null
 name: vuepress-theme-kalisio
-network_count: 1
+network_count: 2
 node_id: MDEwOlJlcG9zaXRvcnkxMzc0Nzc0Njg=
 notifications_url: https://api.github.com/repos/kalisio/vuepress-theme-kalisio/notifications{?since,all,participating}
 open_issues: 0
@@ -97,9 +97,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/kalisio/vuepress-theme-kalisio/pulls{/number}
-pushed_at: '2020-02-22T13:29:22Z'
+pushed_at: '2020-08-25T11:23:53Z'
 releases_url: https://api.github.com/repos/kalisio/vuepress-theme-kalisio/releases{/id}
-size: 129
+size: 144
 ssh_url: git@github.com:kalisio/vuepress-theme-kalisio.git
 stargazers_count: 1
 stargazers_url: https://api.github.com/repos/kalisio/vuepress-theme-kalisio/stargazers

@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/webmasterish/vuepress-plugin-feed/downloads
 events_url: https://api.github.com/repos/webmasterish/vuepress-plugin-feed/events
 fork: false
-forks: 5
-forks_count: 5
+forks: 6
+forks_count: 6
 forks_url: https://api.github.com/repos/webmasterish/vuepress-plugin-feed/forks
 full_name: webmasterish/vuepress-plugin-feed
 git_commits_url: https://api.github.com/repos/webmasterish/vuepress-plugin-feed/git/commits{/sha}
@@ -53,7 +53,7 @@ merges_url: https://api.github.com/repos/webmasterish/vuepress-plugin-feed/merge
 milestones_url: https://api.github.com/repos/webmasterish/vuepress-plugin-feed/milestones{/number}
 mirror_url: null
 name: vuepress-plugin-feed
-network_count: 5
+network_count: 6
 node_id: MDEwOlJlcG9zaXRvcnkxNjU5MTg2MjY=
 notifications_url: https://api.github.com/repos/webmasterish/vuepress-plugin-feed/notifications{?since,all,participating}
 open_issues: 4

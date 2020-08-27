@@ -97,14 +97,14 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/vuepress-reco/vuepress-theme-reco-demo/pulls{/number}
-pushed_at: '2020-06-21T07:33:32Z'
+pushed_at: '2020-08-06T02:56:17Z'
 releases_url: https://api.github.com/repos/vuepress-reco/vuepress-theme-reco-demo/releases{/id}
-size: 1464
+size: 1467
 ssh_url: git@github.com:vuepress-reco/vuepress-theme-reco-demo.git
 stargazers_count: 5
 stargazers_url: https://api.github.com/repos/vuepress-reco/vuepress-theme-reco-demo/stargazers
 statuses_url: https://api.github.com/repos/vuepress-reco/vuepress-theme-reco-demo/statuses/{sha}
-subscribers_count: 1
+subscribers_count: 2
 subscribers_url: https://api.github.com/repos/vuepress-reco/vuepress-theme-reco-demo/subscribers
 subscription_url: https://api.github.com/repos/vuepress-reco/vuepress-theme-reco-demo/subscription
 svn_url: https://github.com/vuepress-reco/vuepress-theme-reco-demo
@@ -112,7 +112,7 @@ tags_url: https://api.github.com/repos/vuepress-reco/vuepress-theme-reco-demo/ta
 teams_url: https://api.github.com/repos/vuepress-reco/vuepress-theme-reco-demo/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/vuepress-reco/vuepress-theme-reco-demo/git/trees{/sha}
-updated_at: '2019-09-17T15:23:40Z'
+updated_at: '2020-07-11T14:02:29Z'
 url: https://api.github.com/repos/vuepress-reco/vuepress-theme-reco-demo
 watchers: 5
 watchers_count: 5
@@ -127,41 +127,21 @@ Blog demo for vuepress-theme-reco
 **npx**
 
 ```
-npx @vuepress-reco/theme-cli init my-blog
+npx @vuepress-reco/theme-cli init
 ```
 
 **npm**
 
 ```bash
-# init
+# 初始化
 npm install @vuepress-reco/theme-cli -g
-theme-cli init my-blog
-
-# install
-cd my-blog
-npm install
-
-# run
-npm run dev
-
-# build
-npm run build
+theme-cli init
 ```
 
 **yarn**
 
 ```bash
-# init
+# 初始化
 yarn global add @vuepress-reco/theme-cli
-theme-cli init my-blog
-
-# install
-cd my-blog
-yarn install
-
-# run
-yarn dev
-
-# build
-yarn build
+theme-cli init
 ```

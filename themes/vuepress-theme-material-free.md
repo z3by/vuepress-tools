@@ -20,8 +20,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/gabrielwillemann/vuepress-theme-material-free/downloads
 events_url: https://api.github.com/repos/gabrielwillemann/vuepress-theme-material-free/events
 fork: false
-forks: 0
-forks_count: 0
+forks: 1
+forks_count: 1
 forks_url: https://api.github.com/repos/gabrielwillemann/vuepress-theme-material-free/forks
 full_name: gabrielwillemann/vuepress-theme-material-free
 git_commits_url: https://api.github.com/repos/gabrielwillemann/vuepress-theme-material-free/git/commits{/sha}
@@ -54,7 +54,7 @@ merges_url: https://api.github.com/repos/gabrielwillemann/vuepress-theme-materia
 milestones_url: https://api.github.com/repos/gabrielwillemann/vuepress-theme-material-free/milestones{/number}
 mirror_url: null
 name: vuepress-theme-material-free
-network_count: 0
+network_count: 1
 node_id: MDEwOlJlcG9zaXRvcnkyNTQ0MzcyNzQ=
 notifications_url: https://api.github.com/repos/gabrielwillemann/vuepress-theme-material-free/notifications{?since,all,participating}
 open_issues: 0

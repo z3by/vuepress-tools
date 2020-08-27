@@ -56,8 +56,8 @@ name: vuepress-theme-cool
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyMDc3OTA1NTI=
 notifications_url: https://api.github.com/repos/davidroyer/vuepress-theme-cool/notifications{?since,all,participating}
-open_issues: 2
-open_issues_count: 2
+open_issues: 3
+open_issues_count: 3
 owner:
   avatar_url: https://avatars3.githubusercontent.com/u/8834693?v=4
   events_url: https://api.github.com/users/davidroyer/events{/privacy}
@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/davidroyer/vuepress-theme-cool/pulls{/number}
-pushed_at: '2020-06-07T06:29:31Z'
+pushed_at: '2020-07-18T06:10:43Z'
 releases_url: https://api.github.com/repos/davidroyer/vuepress-theme-cool/releases{/id}
-size: 501
+size: 629
 ssh_url: git@github.com:davidroyer/vuepress-theme-cool.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/davidroyer/vuepress-theme-cool/stargazers

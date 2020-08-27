@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/xxholly32/vuepress-plugin-gitalk-maker/downloads
 events_url: https://api.github.com/repos/xxholly32/vuepress-plugin-gitalk-maker/events
 fork: false
-forks: 0
-forks_count: 0
+forks: 1
+forks_count: 1
 forks_url: https://api.github.com/repos/xxholly32/vuepress-plugin-gitalk-maker/forks
 full_name: xxholly32/vuepress-plugin-gitalk-maker
 git_commits_url: https://api.github.com/repos/xxholly32/vuepress-plugin-gitalk-maker/git/commits{/sha}
@@ -48,11 +48,11 @@ merges_url: https://api.github.com/repos/xxholly32/vuepress-plugin-gitalk-maker/
 milestones_url: https://api.github.com/repos/xxholly32/vuepress-plugin-gitalk-maker/milestones{/number}
 mirror_url: null
 name: vuepress-plugin-gitalk-maker
-network_count: 0
+network_count: 1
 node_id: MDEwOlJlcG9zaXRvcnkyMDcwNjk3ODg=
 notifications_url: https://api.github.com/repos/xxholly32/vuepress-plugin-gitalk-maker/notifications{?since,all,participating}
-open_issues: 3
-open_issues_count: 3
+open_issues: 1
+open_issues_count: 1
 owner:
   avatar_url: https://avatars2.githubusercontent.com/u/6063358?v=4
   events_url: https://api.github.com/users/xxholly32/events{/privacy}
@@ -78,11 +78,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/xxholly32/vuepress-plugin-gitalk-maker/pulls{/number}
-pushed_at: '2020-06-07T06:11:12Z'
+pushed_at: '2020-08-24T06:19:53Z'
 releases_url: https://api.github.com/repos/xxholly32/vuepress-plugin-gitalk-maker/releases{/id}
-size: 525
+size: 1468
 ssh_url: git@github.com:xxholly32/vuepress-plugin-gitalk-maker.git
-stargazers_count: 10
+stargazers_count: 11
 stargazers_url: https://api.github.com/repos/xxholly32/vuepress-plugin-gitalk-maker/stargazers
 statuses_url: https://api.github.com/repos/xxholly32/vuepress-plugin-gitalk-maker/statuses/{sha}
 subscribers_count: 2
@@ -93,10 +93,10 @@ tags_url: https://api.github.com/repos/xxholly32/vuepress-plugin-gitalk-maker/ta
 teams_url: https://api.github.com/repos/xxholly32/vuepress-plugin-gitalk-maker/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/xxholly32/vuepress-plugin-gitalk-maker/git/trees{/sha}
-updated_at: '2020-03-05T06:11:25Z'
+updated_at: '2020-08-24T06:19:47Z'
 url: https://api.github.com/repos/xxholly32/vuepress-plugin-gitalk-maker
-watchers: 10
-watchers_count: 10
+watchers: 11
+watchers_count: 11
 ---
 
 # vuepress-plugin-gitalk-maker

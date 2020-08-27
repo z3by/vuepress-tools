@@ -1,0 +1,101 @@
+---
+archive_url: https://api.github.com/repos/Vultur/vuepress-theme-antdoc/{archive_format}{/ref}
+archived: false
+assignees_url: https://api.github.com/repos/Vultur/vuepress-theme-antdoc/assignees{/user}
+blobs_url: https://api.github.com/repos/Vultur/vuepress-theme-antdoc/git/blobs{/sha}
+branches_url: https://api.github.com/repos/Vultur/vuepress-theme-antdoc/branches{/branch}
+clone_url: https://github.com/Vultur/vuepress-theme-antdoc.git
+collaborators_url: https://api.github.com/repos/Vultur/vuepress-theme-antdoc/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/Vultur/vuepress-theme-antdoc/comments{/number}
+commits_url: https://api.github.com/repos/Vultur/vuepress-theme-antdoc/commits{/sha}
+compare_url: https://api.github.com/repos/Vultur/vuepress-theme-antdoc/compare/{base}...{head}
+contents_url: https://api.github.com/repos/Vultur/vuepress-theme-antdoc/contents/{+path}
+contributors_url: https://api.github.com/repos/Vultur/vuepress-theme-antdoc/contributors
+created_at: '2020-08-01T14:32:39Z'
+default_branch: master
+deployments_url: https://api.github.com/repos/Vultur/vuepress-theme-antdoc/deployments
+description: "Ant Design 4.0 \u5B98\u7F51\u98CE\u683C\u7684 VuePress \u4E3B\u9898"
+disabled: false
+downloads_url: https://api.github.com/repos/Vultur/vuepress-theme-antdoc/downloads
+events_url: https://api.github.com/repos/Vultur/vuepress-theme-antdoc/events
+fork: false
+forks: 0
+forks_count: 0
+forks_url: https://api.github.com/repos/Vultur/vuepress-theme-antdoc/forks
+full_name: Vultur/vuepress-theme-antdoc
+git_commits_url: https://api.github.com/repos/Vultur/vuepress-theme-antdoc/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/Vultur/vuepress-theme-antdoc/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/Vultur/vuepress-theme-antdoc/git/tags{/sha}
+git_url: git://github.com/Vultur/vuepress-theme-antdoc.git
+has_downloads: true
+has_issues: true
+has_pages: false
+has_projects: true
+has_wiki: true
+homepage: null
+hooks_url: https://api.github.com/repos/Vultur/vuepress-theme-antdoc/hooks
+html_url: https://github.com/Vultur/vuepress-theme-antdoc
+id: 284276501
+issue_comment_url: https://api.github.com/repos/Vultur/vuepress-theme-antdoc/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/Vultur/vuepress-theme-antdoc/issues/events{/number}
+issues_url: https://api.github.com/repos/Vultur/vuepress-theme-antdoc/issues{/number}
+keys_url: https://api.github.com/repos/Vultur/vuepress-theme-antdoc/keys{/key_id}
+labels_url: https://api.github.com/repos/Vultur/vuepress-theme-antdoc/labels{/name}
+language: null
+languages_url: https://api.github.com/repos/Vultur/vuepress-theme-antdoc/languages
+license: null
+merges_url: https://api.github.com/repos/Vultur/vuepress-theme-antdoc/merges
+milestones_url: https://api.github.com/repos/Vultur/vuepress-theme-antdoc/milestones{/number}
+mirror_url: null
+name: vuepress-theme-antdoc
+network_count: 0
+node_id: MDEwOlJlcG9zaXRvcnkyODQyNzY1MDE=
+notifications_url: https://api.github.com/repos/Vultur/vuepress-theme-antdoc/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
+owner:
+  avatar_url: https://avatars0.githubusercontent.com/u/15240953?v=4
+  events_url: https://api.github.com/users/Vultur/events{/privacy}
+  followers_url: https://api.github.com/users/Vultur/followers
+  following_url: https://api.github.com/users/Vultur/following{/other_user}
+  gists_url: https://api.github.com/users/Vultur/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/Vultur
+  id: 15240953
+  login: Vultur
+  node_id: MDQ6VXNlcjE1MjQwOTUz
+  organizations_url: https://api.github.com/users/Vultur/orgs
+  received_events_url: https://api.github.com/users/Vultur/received_events
+  repos_url: https://api.github.com/users/Vultur/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/Vultur/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/Vultur/subscriptions
+  type: User
+  url: https://api.github.com/users/Vultur
+permissions:
+  admin: false
+  pull: true
+  push: false
+private: false
+pulls_url: https://api.github.com/repos/Vultur/vuepress-theme-antdoc/pulls{/number}
+pushed_at: '2020-08-01T14:32:40Z'
+releases_url: https://api.github.com/repos/Vultur/vuepress-theme-antdoc/releases{/id}
+size: 0
+ssh_url: git@github.com:Vultur/vuepress-theme-antdoc.git
+stargazers_count: 0
+stargazers_url: https://api.github.com/repos/Vultur/vuepress-theme-antdoc/stargazers
+statuses_url: https://api.github.com/repos/Vultur/vuepress-theme-antdoc/statuses/{sha}
+subscribers_count: 1
+subscribers_url: https://api.github.com/repos/Vultur/vuepress-theme-antdoc/subscribers
+subscription_url: https://api.github.com/repos/Vultur/vuepress-theme-antdoc/subscription
+svn_url: https://github.com/Vultur/vuepress-theme-antdoc
+tags_url: https://api.github.com/repos/Vultur/vuepress-theme-antdoc/tags
+teams_url: https://api.github.com/repos/Vultur/vuepress-theme-antdoc/teams
+temp_clone_token: ''
+trees_url: https://api.github.com/repos/Vultur/vuepress-theme-antdoc/git/trees{/sha}
+updated_at: '2020-08-01T14:32:39Z'
+url: https://api.github.com/repos/Vultur/vuepress-theme-antdoc
+watchers: 0
+watchers_count: 0
+---
+

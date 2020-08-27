@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/yyyang1996/vuepress-theme-eugeo/pulls{/number}
-pushed_at: '2020-06-18T10:07:09Z'
+pushed_at: '2020-08-13T13:07:55Z'
 releases_url: https://api.github.com/repos/yyyang1996/vuepress-theme-eugeo/releases{/id}
-size: 934
+size: 1391
 ssh_url: git@github.com:yyyang1996/vuepress-theme-eugeo.git
 stargazers_count: 6
 stargazers_url: https://api.github.com/repos/yyyang1996/vuepress-theme-eugeo/stargazers
@@ -98,7 +98,7 @@ tags_url: https://api.github.com/repos/yyyang1996/vuepress-theme-eugeo/tags
 teams_url: https://api.github.com/repos/yyyang1996/vuepress-theme-eugeo/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/yyyang1996/vuepress-theme-eugeo/git/trees{/sha}
-updated_at: '2020-06-18T10:04:35Z'
+updated_at: '2020-08-13T13:05:27Z'
 url: https://api.github.com/repos/yyyang1996/vuepress-theme-eugeo
 watchers: 6
 watchers_count: 6

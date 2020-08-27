@@ -83,11 +83,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/tolking/vuepress-plugin-img-lazy/pulls{/number}
-pushed_at: '2020-07-07T13:59:35Z'
+pushed_at: '2020-07-09T12:19:22Z'
 releases_url: https://api.github.com/repos/tolking/vuepress-plugin-img-lazy/releases{/id}
-size: 558
+size: 628
 ssh_url: git@github.com:tolking/vuepress-plugin-img-lazy.git
-stargazers_count: 8
+stargazers_count: 9
 stargazers_url: https://api.github.com/repos/tolking/vuepress-plugin-img-lazy/stargazers
 statuses_url: https://api.github.com/repos/tolking/vuepress-plugin-img-lazy/statuses/{sha}
 subscribers_count: 2
@@ -98,19 +98,19 @@ tags_url: https://api.github.com/repos/tolking/vuepress-plugin-img-lazy/tags
 teams_url: https://api.github.com/repos/tolking/vuepress-plugin-img-lazy/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/tolking/vuepress-plugin-img-lazy/git/trees{/sha}
-updated_at: '2020-07-07T14:17:35Z'
+updated_at: '2020-08-21T18:15:31Z'
 url: https://api.github.com/repos/tolking/vuepress-plugin-img-lazy
-watchers: 8
-watchers_count: 8
+watchers: 9
+watchers_count: 9
 ---
 
 # vuepress-plugin-img-lazy
 
 > a vuepress plugin to better supporting image lazy loading
 
-**The plugin will preferentially use native image [lazy-loading](https://caniuse.com/#feat=loading-lazy-attr), if the browser does not support it, it will be implemented through lozad**
+**The plugin will preferentially use native image [lazy-loading](https://caniuse.com/#feat=loading-lazy-attr), if the browser does not support it, it will be implemented through [IntersectionObserver](https://caniuse.com/#feat=intersectionobserver)**
 
-base on [markdown-it-img-lazy](https://github.com/tolking/markdown-it-img-lazy) and [markdown-it-imsize](https://github.com/tatsy/markdown-it-imsize) and [lozad](https://github.com/ApoorvSaxena/lozad.js)
+base on [markdown-it-img-lazy](https://github.com/tolking/markdown-it-img-lazy) and [markdown-it-imsize](https://github.com/tatsy/markdown-it-imsize)
 
 [Live Demo and Documentation](https://tolking.github.io/vuepress-plugin-img-lazy/preview.html)
 
@@ -179,17 +179,33 @@ export default {
 
 ## Options
 
-### useLoading
+### useNative
 - Type: `Boolben`
 - Default: `true`
+- Required: `false`
 
 Use the native image lazy-loading for the web
 
 ### selector
 - Type: `string`
 - Default: `lazy`
+- Required: `false`
 
 Default class name for image
+
+### rootMargin
+- Type: `String`
+- Default: `200px`
+- Required: `false`
+
+rootMargin for IntersectionObserver
+
+### prefix
+- Type: `string` `Function`
+- Default: `src => src && src.charAt(0) === '/' && !src.startsWith(ctx.base) ? ctx.base + src.slice(1) : src`
+- Required: `false`
+
+Config prefix for src in images
 
 ## Other
 

@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/xugaoyi/vuepress-theme-vdoing-doc/downloads
 events_url: https://api.github.com/repos/xugaoyi/vuepress-theme-vdoing-doc/events
 fork: false
-forks: 2
-forks_count: 2
+forks: 3
+forks_count: 3
 forks_url: https://api.github.com/repos/xugaoyi/vuepress-theme-vdoing-doc/forks
 full_name: xugaoyi/vuepress-theme-vdoing-doc
 git_commits_url: https://api.github.com/repos/xugaoyi/vuepress-theme-vdoing-doc/git/commits{/sha}
@@ -53,7 +53,7 @@ merges_url: https://api.github.com/repos/xugaoyi/vuepress-theme-vdoing-doc/merge
 milestones_url: https://api.github.com/repos/xugaoyi/vuepress-theme-vdoing-doc/milestones{/number}
 mirror_url: null
 name: vuepress-theme-vdoing-doc
-network_count: 2
+network_count: 3
 node_id: MDEwOlJlcG9zaXRvcnkyNjM1ODkxNjQ=
 notifications_url: https://api.github.com/repos/xugaoyi/vuepress-theme-vdoing-doc/notifications{?since,all,participating}
 open_issues: 0
@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/xugaoyi/vuepress-theme-vdoing-doc/pulls{/number}
-pushed_at: '2020-07-01T09:11:31Z'
+pushed_at: '2020-08-24T14:33:54Z'
 releases_url: https://api.github.com/repos/xugaoyi/vuepress-theme-vdoing-doc/releases{/id}
-size: 2265
+size: 2274
 ssh_url: git@github.com:xugaoyi/vuepress-theme-vdoing-doc.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/xugaoyi/vuepress-theme-vdoing-doc/stargazers
@@ -98,7 +98,7 @@ tags_url: https://api.github.com/repos/xugaoyi/vuepress-theme-vdoing-doc/tags
 teams_url: https://api.github.com/repos/xugaoyi/vuepress-theme-vdoing-doc/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/xugaoyi/vuepress-theme-vdoing-doc/git/trees{/sha}
-updated_at: '2020-07-01T09:09:44Z'
+updated_at: '2020-08-24T14:32:24Z'
 url: https://api.github.com/repos/xugaoyi/vuepress-theme-vdoing-doc
 watchers: 0
 watchers_count: 0
@@ -109,4 +109,5 @@ watchers_count: 0
 
 <h2 align="center">vuepress-theme-vdoing</h2>
 
+[文档地址](https://xugaoyi.github.io/vuepress-theme-vdoing-doc/)
 [主题仓库](https://github.com/xugaoyi/vuepress-theme-vdoing)

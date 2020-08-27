@@ -78,9 +78,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/YasinChan/vuepress-theme-inherit/pulls{/number}
-pushed_at: '2020-06-09T03:20:34Z'
+pushed_at: '2020-08-10T08:42:02Z'
 releases_url: https://api.github.com/repos/YasinChan/vuepress-theme-inherit/releases{/id}
-size: 307
+size: 728
 ssh_url: git@github.com:YasinChan/vuepress-theme-inherit.git
 stargazers_count: 4
 stargazers_url: https://api.github.com/repos/YasinChan/vuepress-theme-inherit/stargazers
@@ -93,7 +93,7 @@ tags_url: https://api.github.com/repos/YasinChan/vuepress-theme-inherit/tags
 teams_url: https://api.github.com/repos/YasinChan/vuepress-theme-inherit/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/YasinChan/vuepress-theme-inherit/git/trees{/sha}
-updated_at: '2020-06-09T03:20:37Z'
+updated_at: '2020-08-10T08:41:57Z'
 url: https://api.github.com/repos/YasinChan/vuepress-theme-inherit
 watchers: 4
 watchers_count: 4

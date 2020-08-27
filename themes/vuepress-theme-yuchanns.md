@@ -83,14 +83,14 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/yuchanns/vuepress-theme-yuchanns/pulls{/number}
-pushed_at: '2020-06-09T08:26:20Z'
+pushed_at: '2020-08-08T05:17:39Z'
 releases_url: https://api.github.com/repos/yuchanns/vuepress-theme-yuchanns/releases{/id}
-size: 5330
+size: 5802
 ssh_url: git@github.com:yuchanns/vuepress-theme-yuchanns.git
 stargazers_count: 9
 stargazers_url: https://api.github.com/repos/yuchanns/vuepress-theme-yuchanns/stargazers
 statuses_url: https://api.github.com/repos/yuchanns/vuepress-theme-yuchanns/statuses/{sha}
-subscribers_count: 0
+subscribers_count: 1
 subscribers_url: https://api.github.com/repos/yuchanns/vuepress-theme-yuchanns/subscribers
 subscription_url: https://api.github.com/repos/yuchanns/vuepress-theme-yuchanns/subscription
 svn_url: https://github.com/yuchanns/vuepress-theme-yuchanns
@@ -98,7 +98,7 @@ tags_url: https://api.github.com/repos/yuchanns/vuepress-theme-yuchanns/tags
 teams_url: https://api.github.com/repos/yuchanns/vuepress-theme-yuchanns/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/yuchanns/vuepress-theme-yuchanns/git/trees{/sha}
-updated_at: '2020-06-29T17:36:58Z'
+updated_at: '2020-08-08T05:17:40Z'
 url: https://api.github.com/repos/yuchanns/vuepress-theme-yuchanns
 watchers: 9
 watchers_count: 9

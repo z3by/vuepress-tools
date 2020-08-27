@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/alexander-heimbuch/vuepress-theme-millidocs/downloads
 events_url: https://api.github.com/repos/alexander-heimbuch/vuepress-theme-millidocs/events
 fork: false
-forks: 1
-forks_count: 1
+forks: 0
+forks_count: 0
 forks_url: https://api.github.com/repos/alexander-heimbuch/vuepress-theme-millidocs/forks
 full_name: alexander-heimbuch/vuepress-theme-millidocs
 git_commits_url: https://api.github.com/repos/alexander-heimbuch/vuepress-theme-millidocs/git/commits{/sha}
@@ -48,7 +48,7 @@ merges_url: https://api.github.com/repos/alexander-heimbuch/vuepress-theme-milli
 milestones_url: https://api.github.com/repos/alexander-heimbuch/vuepress-theme-millidocs/milestones{/number}
 mirror_url: null
 name: vuepress-theme-millidocs
-network_count: 1
+network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkxNDQwNTQ4NjU=
 notifications_url: https://api.github.com/repos/alexander-heimbuch/vuepress-theme-millidocs/notifications{?since,all,participating}
 open_issues: 0

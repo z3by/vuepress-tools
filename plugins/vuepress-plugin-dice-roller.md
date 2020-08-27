@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/GreenImp/vuepress-plugin-dice-roller/pulls{/number}
-pushed_at: '2020-06-27T22:54:56Z'
+pushed_at: '2020-08-09T02:10:31Z'
 releases_url: https://api.github.com/repos/GreenImp/vuepress-plugin-dice-roller/releases{/id}
-size: 289
+size: 843
 ssh_url: git@github.com:GreenImp/vuepress-plugin-dice-roller.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/GreenImp/vuepress-plugin-dice-roller/stargazers
@@ -98,7 +98,7 @@ tags_url: https://api.github.com/repos/GreenImp/vuepress-plugin-dice-roller/tags
 teams_url: https://api.github.com/repos/GreenImp/vuepress-plugin-dice-roller/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/GreenImp/vuepress-plugin-dice-roller/git/trees{/sha}
-updated_at: '2020-06-27T22:54:20Z'
+updated_at: '2020-08-09T02:08:43Z'
 url: https://api.github.com/repos/GreenImp/vuepress-plugin-dice-roller
 watchers: 0
 watchers_count: 0

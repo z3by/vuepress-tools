@@ -56,8 +56,8 @@ name: vuepress-theme-standard
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyNjc3OTYzNjU=
 notifications_url: https://api.github.com/repos/team-pianoforte/vuepress-theme-standard/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
+open_issues: 1
+open_issues_count: 1
 organization:
   avatar_url: https://avatars2.githubusercontent.com/u/52128251?v=4
   events_url: https://api.github.com/users/team-pianoforte/events{/privacy}
@@ -102,9 +102,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/team-pianoforte/vuepress-theme-standard/pulls{/number}
-pushed_at: '2020-06-15T19:24:12Z'
+pushed_at: '2020-08-08T00:26:40Z'
 releases_url: https://api.github.com/repos/team-pianoforte/vuepress-theme-standard/releases{/id}
-size: 831
+size: 1108
 ssh_url: git@github.com:team-pianoforte/vuepress-theme-standard.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/team-pianoforte/vuepress-theme-standard/stargazers
@@ -117,7 +117,7 @@ tags_url: https://api.github.com/repos/team-pianoforte/vuepress-theme-standard/t
 teams_url: https://api.github.com/repos/team-pianoforte/vuepress-theme-standard/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/team-pianoforte/vuepress-theme-standard/git/trees{/sha}
-updated_at: '2020-06-15T19:07:58Z'
+updated_at: '2020-07-21T21:44:55Z'
 url: https://api.github.com/repos/team-pianoforte/vuepress-theme-standard
 watchers: 0
 watchers_count: 0

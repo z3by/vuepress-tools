@@ -20,8 +20,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/Danktuary/vuepress-theme-yuu/downloads
 events_url: https://api.github.com/repos/Danktuary/vuepress-theme-yuu/events
 fork: false
-forks: 5
-forks_count: 5
+forks: 6
+forks_count: 6
 forks_url: https://api.github.com/repos/Danktuary/vuepress-theme-yuu/forks
 full_name: Danktuary/vuepress-theme-yuu
 git_commits_url: https://api.github.com/repos/Danktuary/vuepress-theme-yuu/git/commits{/sha}
@@ -54,7 +54,7 @@ merges_url: https://api.github.com/repos/Danktuary/vuepress-theme-yuu/merges
 milestones_url: https://api.github.com/repos/Danktuary/vuepress-theme-yuu/milestones{/number}
 mirror_url: null
 name: vuepress-theme-yuu
-network_count: 5
+network_count: 6
 node_id: MDEwOlJlcG9zaXRvcnkxNDUyNTU3MDI=
 notifications_url: https://api.github.com/repos/Danktuary/vuepress-theme-yuu/notifications{?since,all,participating}
 open_issues: 2
@@ -84,11 +84,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/Danktuary/vuepress-theme-yuu/pulls{/number}
-pushed_at: '2020-05-22T23:42:00Z'
+pushed_at: '2020-07-17T01:43:53Z'
 releases_url: https://api.github.com/repos/Danktuary/vuepress-theme-yuu/releases{/id}
-size: 310
+size: 322
 ssh_url: git@github.com:Danktuary/vuepress-theme-yuu.git
-stargazers_count: 47
+stargazers_count: 49
 stargazers_url: https://api.github.com/repos/Danktuary/vuepress-theme-yuu/stargazers
 statuses_url: https://api.github.com/repos/Danktuary/vuepress-theme-yuu/statuses/{sha}
 subscribers_count: 3
@@ -99,10 +99,10 @@ tags_url: https://api.github.com/repos/Danktuary/vuepress-theme-yuu/tags
 teams_url: https://api.github.com/repos/Danktuary/vuepress-theme-yuu/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/Danktuary/vuepress-theme-yuu/git/trees{/sha}
-updated_at: '2020-07-01T08:58:35Z'
+updated_at: '2020-08-22T11:26:31Z'
 url: https://api.github.com/repos/Danktuary/vuepress-theme-yuu
-watchers: 47
-watchers_count: 47
+watchers: 49
+watchers_count: 49
 ---
 
 <div align="center">

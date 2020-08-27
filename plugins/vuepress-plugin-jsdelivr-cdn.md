@@ -56,8 +56,8 @@ name: vuepress-plugin-jsdelivr-cdn
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyNjE5MzQ5MjU=
 notifications_url: https://api.github.com/repos/gezihuzi/vuepress-plugin-jsdelivr-cdn/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
+open_issues: 0
+open_issues_count: 0
 owner:
   avatar_url: https://avatars3.githubusercontent.com/u/12797966?v=4
   events_url: https://api.github.com/users/gezihuzi/events{/privacy}

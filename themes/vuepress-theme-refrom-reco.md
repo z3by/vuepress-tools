@@ -56,8 +56,8 @@ name: vuepress-theme-refrom-reco
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyMjE0MjA2MzY=
 notifications_url: https://api.github.com/repos/jiangwei618/vuepress-theme-refrom-reco/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
+open_issues: 2
+open_issues_count: 2
 owner:
   avatar_url: https://avatars2.githubusercontent.com/u/29230742?v=4
   events_url: https://api.github.com/users/jiangwei618/events{/privacy}
@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/jiangwei618/vuepress-theme-refrom-reco/pulls{/number}
-pushed_at: '2020-03-14T12:21:06Z'
+pushed_at: '2020-07-18T19:04:01Z'
 releases_url: https://api.github.com/repos/jiangwei618/vuepress-theme-refrom-reco/releases{/id}
-size: 69536
+size: 69566
 ssh_url: git@github.com:jiangwei618/vuepress-theme-refrom-reco.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/jiangwei618/vuepress-theme-refrom-reco/stargazers

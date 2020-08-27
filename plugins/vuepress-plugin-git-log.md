@@ -56,8 +56,8 @@ name: vuepress-plugin-git-log
 network_count: 2
 node_id: MDEwOlJlcG9zaXRvcnkxNzY0NTU2OTk=
 notifications_url: https://api.github.com/repos/vuepress/vuepress-plugin-git-log/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
+open_issues: 1
+open_issues_count: 1
 organization:
   avatar_url: https://avatars2.githubusercontent.com/u/48539483?v=4
   events_url: https://api.github.com/users/vuepress/events{/privacy}

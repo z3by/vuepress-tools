@@ -51,8 +51,8 @@ name: vuepress-theme-cbin
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkxNzcwNzY3NzI=
 notifications_url: https://api.github.com/repos/anncwb/vuepress-theme-cbin/notifications{?since,all,participating}
-open_issues: 2
-open_issues_count: 2
+open_issues: 5
+open_issues_count: 5
 owner:
   avatar_url: https://avatars2.githubusercontent.com/u/28132598?v=4
   events_url: https://api.github.com/users/anncwb/events{/privacy}
@@ -78,9 +78,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/anncwb/vuepress-theme-cbin/pulls{/number}
-pushed_at: '2020-06-06T14:21:35Z'
+pushed_at: '2020-08-07T23:00:15Z'
 releases_url: https://api.github.com/repos/anncwb/vuepress-theme-cbin/releases{/id}
-size: 443
+size: 829
 ssh_url: git@github.com:anncwb/vuepress-theme-cbin.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/anncwb/vuepress-theme-cbin/stargazers

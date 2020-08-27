@@ -56,8 +56,8 @@ name: vuepress-theme-zero
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyMjM5MDcyNDE=
 notifications_url: https://api.github.com/repos/lalalazero/vuepress-theme-zero/notifications{?since,all,participating}
-open_issues: 2
-open_issues_count: 2
+open_issues: 5
+open_issues_count: 5
 owner:
   avatar_url: https://avatars1.githubusercontent.com/u/20458239?v=4
   events_url: https://api.github.com/users/lalalazero/events{/privacy}
@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/lalalazero/vuepress-theme-zero/pulls{/number}
-pushed_at: '2020-06-07T13:23:38Z'
+pushed_at: '2020-08-07T23:43:24Z'
 releases_url: https://api.github.com/repos/lalalazero/vuepress-theme-zero/releases{/id}
-size: 580
+size: 897
 ssh_url: git@github.com:lalalazero/vuepress-theme-zero.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/lalalazero/vuepress-theme-zero/stargazers

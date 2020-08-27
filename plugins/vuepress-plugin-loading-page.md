@@ -102,9 +102,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/nine-theme/vuepress-plugin-loading-page/pulls{/number}
-pushed_at: '2020-01-12T16:26:43Z'
+pushed_at: '2020-08-18T06:22:56Z'
 releases_url: https://api.github.com/repos/nine-theme/vuepress-plugin-loading-page/releases{/id}
-size: 29
+size: 35
 ssh_url: git@github.com:nine-theme/vuepress-plugin-loading-page.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/nine-theme/vuepress-plugin-loading-page/stargazers
@@ -117,7 +117,7 @@ tags_url: https://api.github.com/repos/nine-theme/vuepress-plugin-loading-page/t
 teams_url: https://api.github.com/repos/nine-theme/vuepress-plugin-loading-page/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/nine-theme/vuepress-plugin-loading-page/git/trees{/sha}
-updated_at: '2020-04-27T01:41:33Z'
+updated_at: '2020-08-18T06:22:58Z'
 url: https://api.github.com/repos/nine-theme/vuepress-plugin-loading-page
 watchers: 0
 watchers_count: 0
@@ -140,7 +140,7 @@ watchers_count: 0
 |component name|LoadingPage（主题开发时使用）|
 
 ```sh
-npm install @nines/vuepress-plugin-ga
+npm install @nines/vuepress-plugin-loading-page
 ```
 
 ```vue

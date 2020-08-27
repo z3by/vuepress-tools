@@ -57,8 +57,8 @@ name: vuepress-plugin-gotop-plus
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyMTA0OTgyMDg=
 notifications_url: https://api.github.com/repos/JoeyBling/vuepress-plugin-gotop-plus/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
+open_issues: 1
+open_issues_count: 1
 owner:
   avatar_url: https://avatars1.githubusercontent.com/u/25240064?v=4
   events_url: https://api.github.com/users/JoeyBling/events{/privacy}
@@ -84,9 +84,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/JoeyBling/vuepress-plugin-gotop-plus/pulls{/number}
-pushed_at: '2020-05-12T06:44:00Z'
+pushed_at: '2020-07-20T16:47:25Z'
 releases_url: https://api.github.com/repos/JoeyBling/vuepress-plugin-gotop-plus/releases{/id}
-size: 304
+size: 305
 ssh_url: git@github.com:JoeyBling/vuepress-plugin-gotop-plus.git
 stargazers_count: 3
 stargazers_url: https://api.github.com/repos/JoeyBling/vuepress-plugin-gotop-plus/stargazers

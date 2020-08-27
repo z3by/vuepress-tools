@@ -56,8 +56,8 @@ name: vuepress-theme-base
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyNjc5MjgyMDE=
 notifications_url: https://api.github.com/repos/petedavisdev/vuepress-theme-base/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
+open_issues: 2
+open_issues_count: 2
 owner:
   avatar_url: https://avatars3.githubusercontent.com/u/7900180?v=4
   events_url: https://api.github.com/users/petedavisdev/events{/privacy}
@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/petedavisdev/vuepress-theme-base/pulls{/number}
-pushed_at: '2020-07-07T13:13:33Z'
+pushed_at: '2020-08-14T05:28:19Z'
 releases_url: https://api.github.com/repos/petedavisdev/vuepress-theme-base/releases{/id}
-size: 849
+size: 478
 ssh_url: git@github.com:petedavisdev/vuepress-theme-base.git
 stargazers_count: 1
 stargazers_url: https://api.github.com/repos/petedavisdev/vuepress-theme-base/stargazers
@@ -98,7 +98,7 @@ tags_url: https://api.github.com/repos/petedavisdev/vuepress-theme-base/tags
 teams_url: https://api.github.com/repos/petedavisdev/vuepress-theme-base/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/petedavisdev/vuepress-theme-base/git/trees{/sha}
-updated_at: '2020-06-19T03:36:37Z'
+updated_at: '2020-08-14T15:23:11Z'
 url: https://api.github.com/repos/petedavisdev/vuepress-theme-base
 watchers: 1
 watchers_count: 1
@@ -124,7 +124,11 @@ This theme will be multipurpose, with [features](#features) to help you create a
 
 ## Usage
 
-There are three options for using this theme:
+```
+npm i vuepress-theme-base
+```
+
+There are three options for using this theme. I recommend starting with option 1 and moving on to 2 and 3 as needed.
 
 1. [Just add styles](#option-1-just-add-styles) for your website
 2. [Use as a parent theme](#option-2-use-as-a-parent-theme) for your own website theme
@@ -134,15 +138,17 @@ There are three options for using this theme:
 
 For a standard one-off site may only need to add styles, which you can do you can do that in your `.vuepress/styles/index.styl` file.
 
-1. If you already have a VuePress site, install with `npm i -D vuepress-theme-base`
+1. If you already have a VuePress site, install with `npm i vuepress-theme-base`
 2. Add `theme: 'base'` to your .vuepress/config.js file
+3. Configure **.vuepress/config.js** as required
+4. Add **.vuepress/styles/index.styl** and write your CSS styles in there
 
 ### Option 2: Use as a parent theme
 
 If you are developing a one-off theme for your site, you can install this theme and then add or override layouts and components in your own `.vuepress/theme` folder.
 
-1. If you already have a VuePress site, install with `npm i -D vuepress-theme-base`
-2. Add `extend: 'base'` to your .vuepress/theme/index.js file
+1. If you already have a VuePress site, install with `npm i vuepress-theme-base`
+2. Add `extend: 'base'` to your **.vuepress/theme/index.js** file
 
 ### Option 3: Use as a template repo to create and share your own VuePress themes
 
@@ -151,7 +157,7 @@ If you are developing a one-off theme for your site, you can install this theme 
 3. Clone your repo to your computer and start making changes
 4. Run `npm start` to see your theme with the example content
 6. When you are happy with your theme, `npm publish` so that it can be installed in any VuePress site
-5. Run `npm run deploy` to deploy example site on GitHub Pages
+5. Run `npm run deploy` to deploy an example site on GitHub Pages
 
 ## Features (WIP)
 
@@ -171,10 +177,8 @@ This theme makes is easy to classify your pages into collections. You can set a 
 
 ``` js
 themeConfig: {
-  defaultLayouts: [
+  collections: [
     { directory: 'blog', layout: 'Post' },
-    { directory: 'shop', layout: 'Product' },
-    { directory: '', layout: 'LandingPage' }
   ]
 }
 ```
@@ -182,10 +186,11 @@ themeConfig: {
 You can then use the Collection theme to display lists of pages. You specify this in the frontmatter of the collection page, 'blog.md' for example could start with:
 
 ``` md
----
-title: Blog
-layout: Collection
----
+# Any markdown page
+
+Use the appropriate list component like so
+
+<PostList directory="blog" />
 ```
 
 ### Styling

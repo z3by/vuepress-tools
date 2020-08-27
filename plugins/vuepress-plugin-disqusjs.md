@@ -78,9 +78,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/saltbo/vuepress-plugin-disqusjs/pulls{/number}
-pushed_at: '2020-06-09T13:02:34Z'
+pushed_at: '2020-07-21T02:56:58Z'
 releases_url: https://api.github.com/repos/saltbo/vuepress-plugin-disqusjs/releases{/id}
-size: 62
+size: 122
 ssh_url: git@github.com:saltbo/vuepress-plugin-disqusjs.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/saltbo/vuepress-plugin-disqusjs/stargazers
@@ -93,7 +93,7 @@ tags_url: https://api.github.com/repos/saltbo/vuepress-plugin-disqusjs/tags
 teams_url: https://api.github.com/repos/saltbo/vuepress-plugin-disqusjs/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/saltbo/vuepress-plugin-disqusjs/git/trees{/sha}
-updated_at: '2020-06-24T08:21:04Z'
+updated_at: '2020-07-21T02:56:53Z'
 url: https://api.github.com/repos/saltbo/vuepress-plugin-disqusjs
 watchers: 0
 watchers_count: 0

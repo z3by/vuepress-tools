@@ -20,8 +20,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/zpfz/vuepress-theme-antdocs/downloads
 events_url: https://api.github.com/repos/zpfz/vuepress-theme-antdocs/events
 fork: false
-forks: 12
-forks_count: 12
+forks: 17
+forks_count: 17
 forks_url: https://api.github.com/repos/zpfz/vuepress-theme-antdocs/forks
 full_name: zpfz/vuepress-theme-antdocs
 git_commits_url: https://api.github.com/repos/zpfz/vuepress-theme-antdocs/git/commits{/sha}
@@ -54,11 +54,11 @@ merges_url: https://api.github.com/repos/zpfz/vuepress-theme-antdocs/merges
 milestones_url: https://api.github.com/repos/zpfz/vuepress-theme-antdocs/milestones{/number}
 mirror_url: null
 name: vuepress-theme-antdocs
-network_count: 12
+network_count: 17
 node_id: MDEwOlJlcG9zaXRvcnkyNDI5NDAwODg=
 notifications_url: https://api.github.com/repos/zpfz/vuepress-theme-antdocs/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
+open_issues: 1
+open_issues_count: 1
 owner:
   avatar_url: https://avatars3.githubusercontent.com/u/49757965?v=4
   events_url: https://api.github.com/users/zpfz/events{/privacy}
@@ -84,11 +84,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/zpfz/vuepress-theme-antdocs/pulls{/number}
-pushed_at: '2020-06-09T15:32:31Z'
+pushed_at: '2020-08-07T03:17:59Z'
 releases_url: https://api.github.com/repos/zpfz/vuepress-theme-antdocs/releases{/id}
-size: 159
+size: 81
 ssh_url: git@github.com:zpfz/vuepress-theme-antdocs.git
-stargazers_count: 70
+stargazers_count: 88
 stargazers_url: https://api.github.com/repos/zpfz/vuepress-theme-antdocs/stargazers
 statuses_url: https://api.github.com/repos/zpfz/vuepress-theme-antdocs/statuses/{sha}
 subscribers_count: 1
@@ -99,10 +99,10 @@ tags_url: https://api.github.com/repos/zpfz/vuepress-theme-antdocs/tags
 teams_url: https://api.github.com/repos/zpfz/vuepress-theme-antdocs/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/zpfz/vuepress-theme-antdocs/git/trees{/sha}
-updated_at: '2020-07-03T07:58:14Z'
+updated_at: '2020-08-17T07:19:37Z'
 url: https://api.github.com/repos/zpfz/vuepress-theme-antdocs
-watchers: 70
-watchers_count: 70
+watchers: 88
+watchers_count: 88
 ---
 
 <div align="center"><img src="https://s2.ax1x.com/2020/02/27/3aIcDK.png" height = "150" /></div>

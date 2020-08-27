@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/xuzhongpeng/vuepress-theme-reform/downloads
 events_url: https://api.github.com/repos/xuzhongpeng/vuepress-theme-reform/events
 fork: false
-forks: 3
-forks_count: 3
+forks: 4
+forks_count: 4
 forks_url: https://api.github.com/repos/xuzhongpeng/vuepress-theme-reform/forks
 full_name: xuzhongpeng/vuepress-theme-reform
 git_commits_url: https://api.github.com/repos/xuzhongpeng/vuepress-theme-reform/git/commits{/sha}
@@ -48,7 +48,7 @@ merges_url: https://api.github.com/repos/xuzhongpeng/vuepress-theme-reform/merge
 milestones_url: https://api.github.com/repos/xuzhongpeng/vuepress-theme-reform/milestones{/number}
 mirror_url: null
 name: vuepress-theme-reform
-network_count: 3
+network_count: 4
 node_id: MDEwOlJlcG9zaXRvcnkxODU5NjY5ODg=
 notifications_url: https://api.github.com/repos/xuzhongpeng/vuepress-theme-reform/notifications{?since,all,participating}
 open_issues: 0
@@ -78,9 +78,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/xuzhongpeng/vuepress-theme-reform/pulls{/number}
-pushed_at: '2020-05-26T16:02:28Z'
+pushed_at: '2020-08-02T08:13:02Z'
 releases_url: https://api.github.com/repos/xuzhongpeng/vuepress-theme-reform/releases{/id}
-size: 543
+size: 546
 ssh_url: git@github.com:xuzhongpeng/vuepress-theme-reform.git
 stargazers_count: 17
 stargazers_url: https://api.github.com/repos/xuzhongpeng/vuepress-theme-reform/stargazers
@@ -93,7 +93,7 @@ tags_url: https://api.github.com/repos/xuzhongpeng/vuepress-theme-reform/tags
 teams_url: https://api.github.com/repos/xuzhongpeng/vuepress-theme-reform/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/xuzhongpeng/vuepress-theme-reform/git/trees{/sha}
-updated_at: '2020-06-08T06:36:24Z'
+updated_at: '2020-08-02T08:12:41Z'
 url: https://api.github.com/repos/xuzhongpeng/vuepress-theme-reform
 watchers: 17
 watchers_count: 17
@@ -104,6 +104,8 @@ watchers_count: 17
 项目地址：[vuepress-theme-reform](https://github.com/xuzhongpeng/vuepress-theme-reform)
 
 效果展示： [我的博客](http://JSShou.cn)
+
+立即下载zip包体验(项目已简单配置好)： [blog.zip](https://blog-1253495453.cos.ap-chongqing.myqcloud.com/blog/blog.zip)
 
 此主题继承至 vuepress 的默认主题，添加功能有标签页改造，主页改造，博客分类及展示，gitalk 集成及 gitalk 自动化配置
 

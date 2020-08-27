@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/wxsms/vuepress-theme-mini/pulls{/number}
-pushed_at: '2020-01-07T03:47:30Z'
+pushed_at: '2020-08-25T09:51:20Z'
 releases_url: https://api.github.com/repos/wxsms/vuepress-theme-mini/releases{/id}
-size: 44
+size: 57
 ssh_url: git@github.com:wxsms/vuepress-theme-mini.git
 stargazers_count: 2
 stargazers_url: https://api.github.com/repos/wxsms/vuepress-theme-mini/stargazers
@@ -98,7 +98,7 @@ tags_url: https://api.github.com/repos/wxsms/vuepress-theme-mini/tags
 teams_url: https://api.github.com/repos/wxsms/vuepress-theme-mini/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/wxsms/vuepress-theme-mini/git/trees{/sha}
-updated_at: '2020-01-07T03:47:33Z'
+updated_at: '2020-08-25T09:51:22Z'
 url: https://api.github.com/repos/wxsms/vuepress-theme-mini
 watchers: 2
 watchers_count: 2
@@ -113,8 +113,8 @@ watchers_count: 2
 
 A minimal blogging theme of VuePress.
 
-* extended from [@vuepress/theme-default](https://github.com/vuejs/vuepress/tree/master/packages/%40vuepress/theme-default)
-* With [Valine](https://valine.js.org/) comment system integrated
+* extended from [@vuepress/theme-default](https://github.com/vuejs/vuepress/tree/master/packages/%40vuepress/theme-default).
+* With [Valine](https://valine.js.org/) comment system integrated.
 
 ## Example
 

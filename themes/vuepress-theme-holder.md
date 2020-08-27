@@ -1,0 +1,108 @@
+---
+archive_url: https://api.github.com/repos/caizhiyuannn/vuepress-theme-holder/{archive_format}{/ref}
+archived: false
+assignees_url: https://api.github.com/repos/caizhiyuannn/vuepress-theme-holder/assignees{/user}
+blobs_url: https://api.github.com/repos/caizhiyuannn/vuepress-theme-holder/git/blobs{/sha}
+branches_url: https://api.github.com/repos/caizhiyuannn/vuepress-theme-holder/branches{/branch}
+clone_url: https://github.com/caizhiyuannn/vuepress-theme-holder.git
+collaborators_url: https://api.github.com/repos/caizhiyuannn/vuepress-theme-holder/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/caizhiyuannn/vuepress-theme-holder/comments{/number}
+commits_url: https://api.github.com/repos/caizhiyuannn/vuepress-theme-holder/commits{/sha}
+compare_url: https://api.github.com/repos/caizhiyuannn/vuepress-theme-holder/compare/{base}...{head}
+contents_url: https://api.github.com/repos/caizhiyuannn/vuepress-theme-holder/contents/{+path}
+contributors_url: https://api.github.com/repos/caizhiyuannn/vuepress-theme-holder/contributors
+created_at: '2020-07-24T03:00:35Z'
+default_branch: master
+deployments_url: https://api.github.com/repos/caizhiyuannn/vuepress-theme-holder/deployments
+description: vuepress theme
+disabled: false
+downloads_url: https://api.github.com/repos/caizhiyuannn/vuepress-theme-holder/downloads
+events_url: https://api.github.com/repos/caizhiyuannn/vuepress-theme-holder/events
+fork: false
+forks: 0
+forks_count: 0
+forks_url: https://api.github.com/repos/caizhiyuannn/vuepress-theme-holder/forks
+full_name: caizhiyuannn/vuepress-theme-holder
+git_commits_url: https://api.github.com/repos/caizhiyuannn/vuepress-theme-holder/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/caizhiyuannn/vuepress-theme-holder/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/caizhiyuannn/vuepress-theme-holder/git/tags{/sha}
+git_url: git://github.com/caizhiyuannn/vuepress-theme-holder.git
+has_downloads: true
+has_issues: true
+has_pages: false
+has_projects: true
+has_wiki: true
+homepage: null
+hooks_url: https://api.github.com/repos/caizhiyuannn/vuepress-theme-holder/hooks
+html_url: https://github.com/caizhiyuannn/vuepress-theme-holder
+id: 282108687
+issue_comment_url: https://api.github.com/repos/caizhiyuannn/vuepress-theme-holder/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/caizhiyuannn/vuepress-theme-holder/issues/events{/number}
+issues_url: https://api.github.com/repos/caizhiyuannn/vuepress-theme-holder/issues{/number}
+keys_url: https://api.github.com/repos/caizhiyuannn/vuepress-theme-holder/keys{/key_id}
+labels_url: https://api.github.com/repos/caizhiyuannn/vuepress-theme-holder/labels{/name}
+language: null
+languages_url: https://api.github.com/repos/caizhiyuannn/vuepress-theme-holder/languages
+license:
+  key: mit
+  name: MIT License
+  node_id: MDc6TGljZW5zZTEz
+  spdx_id: MIT
+  url: https://api.github.com/licenses/mit
+merges_url: https://api.github.com/repos/caizhiyuannn/vuepress-theme-holder/merges
+milestones_url: https://api.github.com/repos/caizhiyuannn/vuepress-theme-holder/milestones{/number}
+mirror_url: null
+name: vuepress-theme-holder
+network_count: 0
+node_id: MDEwOlJlcG9zaXRvcnkyODIxMDg2ODc=
+notifications_url: https://api.github.com/repos/caizhiyuannn/vuepress-theme-holder/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
+owner:
+  avatar_url: https://avatars0.githubusercontent.com/u/19798945?v=4
+  events_url: https://api.github.com/users/caizhiyuannn/events{/privacy}
+  followers_url: https://api.github.com/users/caizhiyuannn/followers
+  following_url: https://api.github.com/users/caizhiyuannn/following{/other_user}
+  gists_url: https://api.github.com/users/caizhiyuannn/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/caizhiyuannn
+  id: 19798945
+  login: caizhiyuannn
+  node_id: MDQ6VXNlcjE5Nzk4OTQ1
+  organizations_url: https://api.github.com/users/caizhiyuannn/orgs
+  received_events_url: https://api.github.com/users/caizhiyuannn/received_events
+  repos_url: https://api.github.com/users/caizhiyuannn/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/caizhiyuannn/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/caizhiyuannn/subscriptions
+  type: User
+  url: https://api.github.com/users/caizhiyuannn
+permissions:
+  admin: false
+  pull: true
+  push: false
+private: false
+pulls_url: https://api.github.com/repos/caizhiyuannn/vuepress-theme-holder/pulls{/number}
+pushed_at: '2020-07-24T03:00:37Z'
+releases_url: https://api.github.com/repos/caizhiyuannn/vuepress-theme-holder/releases{/id}
+size: 1
+ssh_url: git@github.com:caizhiyuannn/vuepress-theme-holder.git
+stargazers_count: 0
+stargazers_url: https://api.github.com/repos/caizhiyuannn/vuepress-theme-holder/stargazers
+statuses_url: https://api.github.com/repos/caizhiyuannn/vuepress-theme-holder/statuses/{sha}
+subscribers_count: 0
+subscribers_url: https://api.github.com/repos/caizhiyuannn/vuepress-theme-holder/subscribers
+subscription_url: https://api.github.com/repos/caizhiyuannn/vuepress-theme-holder/subscription
+svn_url: https://github.com/caizhiyuannn/vuepress-theme-holder
+tags_url: https://api.github.com/repos/caizhiyuannn/vuepress-theme-holder/tags
+teams_url: https://api.github.com/repos/caizhiyuannn/vuepress-theme-holder/teams
+temp_clone_token: ''
+trees_url: https://api.github.com/repos/caizhiyuannn/vuepress-theme-holder/git/trees{/sha}
+updated_at: '2020-07-24T03:00:40Z'
+url: https://api.github.com/repos/caizhiyuannn/vuepress-theme-holder
+watchers: 0
+watchers_count: 0
+---
+
+# vuepress-theme-holder
+vuepress theme

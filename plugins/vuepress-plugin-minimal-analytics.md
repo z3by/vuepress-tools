@@ -87,7 +87,7 @@ pushed_at: '2019-01-22T06:16:21Z'
 releases_url: https://api.github.com/repos/webmasterish/vuepress-plugin-minimal-analytics/releases{/id}
 size: 20
 ssh_url: git@github.com:webmasterish/vuepress-plugin-minimal-analytics.git
-stargazers_count: 9
+stargazers_count: 10
 stargazers_url: https://api.github.com/repos/webmasterish/vuepress-plugin-minimal-analytics/stargazers
 statuses_url: https://api.github.com/repos/webmasterish/vuepress-plugin-minimal-analytics/statuses/{sha}
 subscribers_count: 1
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/webmasterish/vuepress-plugin-minimal-anal
 teams_url: https://api.github.com/repos/webmasterish/vuepress-plugin-minimal-analytics/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/webmasterish/vuepress-plugin-minimal-analytics/git/trees{/sha}
-updated_at: '2020-06-12T10:14:26Z'
+updated_at: '2020-07-10T15:53:07Z'
 url: https://api.github.com/repos/webmasterish/vuepress-plugin-minimal-analytics
-watchers: 9
-watchers_count: 9
+watchers: 10
+watchers_count: 10
 ---
 
 # VuePress Plugin Minimal Google Analytics

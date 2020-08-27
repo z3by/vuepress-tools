@@ -56,8 +56,8 @@ name: vuepress-plugin-yuque
 network_count: 19
 node_id: MDEwOlJlcG9zaXRvcnkxNjkxMTY3Mjg=
 notifications_url: https://api.github.com/repos/ulivz/vuepress-plugin-yuque/notifications{?since,all,participating}
-open_issues: 31
-open_issues_count: 31
+open_issues: 32
+open_issues_count: 32
 owner:
   avatar_url: https://avatars1.githubusercontent.com/u/23133919?v=4
   events_url: https://api.github.com/users/ulivz/events{/privacy}
@@ -83,14 +83,14 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/ulivz/vuepress-plugin-yuque/pulls{/number}
-pushed_at: '2020-06-06T14:48:08Z'
+pushed_at: '2020-08-07T23:03:07Z'
 releases_url: https://api.github.com/repos/ulivz/vuepress-plugin-yuque/releases{/id}
-size: 1557
+size: 1784
 ssh_url: git@github.com:ulivz/vuepress-plugin-yuque.git
-stargazers_count: 215
+stargazers_count: 223
 stargazers_url: https://api.github.com/repos/ulivz/vuepress-plugin-yuque/stargazers
 statuses_url: https://api.github.com/repos/ulivz/vuepress-plugin-yuque/statuses/{sha}
-subscribers_count: 5
+subscribers_count: 7
 subscribers_url: https://api.github.com/repos/ulivz/vuepress-plugin-yuque/subscribers
 subscription_url: https://api.github.com/repos/ulivz/vuepress-plugin-yuque/subscription
 svn_url: https://github.com/ulivz/vuepress-plugin-yuque
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/ulivz/vuepress-plugin-yuque/tags
 teams_url: https://api.github.com/repos/ulivz/vuepress-plugin-yuque/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/ulivz/vuepress-plugin-yuque/git/trees{/sha}
-updated_at: '2020-07-05T12:02:23Z'
+updated_at: '2020-08-25T02:39:32Z'
 url: https://api.github.com/repos/ulivz/vuepress-plugin-yuque
-watchers: 215
-watchers_count: 215
+watchers: 223
+watchers_count: 223
 ---
 
 # vuepress-plugin-yuque

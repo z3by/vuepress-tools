@@ -51,8 +51,8 @@ name: vuepress-plugin-external-link-checks
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyNDY1OTkxNDc=
 notifications_url: https://api.github.com/repos/bidoubiwa/vuepress-plugin-external-link-checks/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
+open_issues: 1
+open_issues_count: 1
 owner:
   avatar_url: https://avatars1.githubusercontent.com/u/33010418?v=4
   events_url: https://api.github.com/users/bidoubiwa/events{/privacy}
@@ -78,9 +78,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/bidoubiwa/vuepress-plugin-external-link-checks/pulls{/number}
-pushed_at: '2020-03-22T15:59:34Z'
+pushed_at: '2020-07-19T21:48:17Z'
 releases_url: https://api.github.com/repos/bidoubiwa/vuepress-plugin-external-link-checks/releases{/id}
-size: 329
+size: 398
 ssh_url: git@github.com:bidoubiwa/vuepress-plugin-external-link-checks.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/bidoubiwa/vuepress-plugin-external-link-checks/stargazers

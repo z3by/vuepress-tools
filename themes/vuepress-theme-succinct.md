@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/downloads
 events_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/events
 fork: false
-forks: 0
-forks_count: 0
+forks: 1
+forks_count: 1
 forks_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/forks
 full_name: Microflash/vuepress-theme-succinct
 git_commits_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/git/commits{/sha}
@@ -53,7 +53,7 @@ merges_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/merg
 milestones_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/milestones{/number}
 mirror_url: null
 name: vuepress-theme-succinct
-network_count: 0
+network_count: 1
 node_id: MDEwOlJlcG9zaXRvcnkxNTY0NDgyMTU=
 notifications_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/notifications{?since,all,participating}
 open_issues: 0
@@ -102,11 +102,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/pulls{/number}
-pushed_at: '2020-07-04T15:28:39Z'
+pushed_at: '2020-07-24T18:07:05Z'
 releases_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/releases{/id}
-size: 866
+size: 967
 ssh_url: git@github.com:Microflash/vuepress-theme-succinct.git
-stargazers_count: 7
+stargazers_count: 10
 stargazers_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/stargazers
 statuses_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/statuses/{sha}
 subscribers_count: 2
@@ -117,10 +117,10 @@ tags_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/tags
 teams_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/git/trees{/sha}
-updated_at: '2020-07-04T15:28:42Z'
+updated_at: '2020-08-23T01:30:23Z'
 url: https://api.github.com/repos/Microflash/vuepress-theme-succinct
-watchers: 7
-watchers_count: 7
+watchers: 10
+watchers_count: 10
 ---
 
 # vuepress-theme-succinct
@@ -171,6 +171,10 @@ module.exports = {
 ```
 
 Check out the [documentation](https://microflash.github.io/vuepress-theme-succinct/) built with Vuepress and Succinct :smile: for more details.
+
+## Contribute
+
+Contributions from the community are welcome and deeply appreciated. Refer to the [contribution guidelines](https://raw.githubusercontent.com/Microflash/vuepress-theme-succinct/master/CONTRIBUTING.md) to get started.
 
 ## Plugins
 

@@ -56,8 +56,8 @@ name: vuepress-theme-blogplus
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyNzYwMDg5NDE=
 notifications_url: https://api.github.com/repos/Dushusir/vuepress-theme-blogplus/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
+open_issues: 4
+open_issues_count: 4
 owner:
   avatar_url: https://avatars1.githubusercontent.com/u/26371161?v=4
   events_url: https://api.github.com/users/Dushusir/events{/privacy}
@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/Dushusir/vuepress-theme-blogplus/pulls{/number}
-pushed_at: '2020-07-01T01:57:29Z'
+pushed_at: '2020-08-08T00:34:28Z'
 releases_url: https://api.github.com/repos/Dushusir/vuepress-theme-blogplus/releases{/id}
-size: 622
+size: 1611
 ssh_url: git@github.com:Dushusir/vuepress-theme-blogplus.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/Dushusir/vuepress-theme-blogplus/stargazers

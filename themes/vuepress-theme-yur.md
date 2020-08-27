@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/cnguu/vuepress-theme-yur/downloads
 events_url: https://api.github.com/repos/cnguu/vuepress-theme-yur/events
 fork: false
-forks: 23
-forks_count: 23
+forks: 22
+forks_count: 22
 forks_url: https://api.github.com/repos/cnguu/vuepress-theme-yur/forks
 full_name: cnguu/vuepress-theme-yur
 git_commits_url: https://api.github.com/repos/cnguu/vuepress-theme-yur/git/commits{/sha}
@@ -53,7 +53,7 @@ merges_url: https://api.github.com/repos/cnguu/vuepress-theme-yur/merges
 milestones_url: https://api.github.com/repos/cnguu/vuepress-theme-yur/milestones{/number}
 mirror_url: null
 name: vuepress-theme-yur
-network_count: 23
+network_count: 22
 node_id: MDEwOlJlcG9zaXRvcnkyMDczNDY5Mjg=
 notifications_url: https://api.github.com/repos/cnguu/vuepress-theme-yur/notifications{?since,all,participating}
 open_issues: 0
@@ -83,11 +83,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/cnguu/vuepress-theme-yur/pulls{/number}
-pushed_at: '2020-06-15T16:00:35Z'
+pushed_at: '2020-08-16T02:23:53Z'
 releases_url: https://api.github.com/repos/cnguu/vuepress-theme-yur/releases{/id}
-size: 6856
+size: 6864
 ssh_url: git@github.com:cnguu/vuepress-theme-yur.git
-stargazers_count: 126
+stargazers_count: 132
 stargazers_url: https://api.github.com/repos/cnguu/vuepress-theme-yur/stargazers
 statuses_url: https://api.github.com/repos/cnguu/vuepress-theme-yur/statuses/{sha}
 subscribers_count: 2
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/cnguu/vuepress-theme-yur/tags
 teams_url: https://api.github.com/repos/cnguu/vuepress-theme-yur/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/cnguu/vuepress-theme-yur/git/trees{/sha}
-updated_at: '2020-07-07T02:42:35Z'
+updated_at: '2020-08-20T09:59:44Z'
 url: https://api.github.com/repos/cnguu/vuepress-theme-yur
-watchers: 126
-watchers_count: 126
+watchers: 132
+watchers_count: 132
 ---
 
 # VuePress Theme - Yur

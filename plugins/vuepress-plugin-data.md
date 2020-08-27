@@ -56,8 +56,8 @@ name: vuepress-plugin-data
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyNjAzMjI4NDI=
 notifications_url: https://api.github.com/repos/psalaets/vuepress-plugin-data/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
+open_issues: 3
+open_issues_count: 3
 owner:
   avatar_url: https://avatars0.githubusercontent.com/u/123952?v=4
   events_url: https://api.github.com/users/psalaets/events{/privacy}
@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/psalaets/vuepress-plugin-data/pulls{/number}
-pushed_at: '2020-06-16T00:35:49Z'
+pushed_at: '2020-08-08T00:15:52Z'
 releases_url: https://api.github.com/repos/psalaets/vuepress-plugin-data/releases{/id}
-size: 554
+size: 1071
 ssh_url: git@github.com:psalaets/vuepress-plugin-data.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/psalaets/vuepress-plugin-data/stargazers

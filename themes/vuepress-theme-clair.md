@@ -1,6 +1,6 @@
 ---
 archive_url: https://api.github.com/repos/clair-design/vuepress-theme-clair/{archive_format}{/ref}
-archived: false
+archived: true
 assignees_url: https://api.github.com/repos/clair-design/vuepress-theme-clair/assignees{/user}
 blobs_url: https://api.github.com/repos/clair-design/vuepress-theme-clair/git/blobs{/sha}
 branches_url: https://api.github.com/repos/clair-design/vuepress-theme-clair/branches{/branch}
@@ -112,7 +112,7 @@ tags_url: https://api.github.com/repos/clair-design/vuepress-theme-clair/tags
 teams_url: https://api.github.com/repos/clair-design/vuepress-theme-clair/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/clair-design/vuepress-theme-clair/git/trees{/sha}
-updated_at: '2019-02-28T01:27:32Z'
+updated_at: '2020-07-22T07:55:00Z'
 url: https://api.github.com/repos/clair-design/vuepress-theme-clair
 watchers: 0
 watchers_count: 0

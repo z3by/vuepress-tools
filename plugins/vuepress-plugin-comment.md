@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/dongyuanxin/vuepress-plugin-comment/downloads
 events_url: https://api.github.com/repos/dongyuanxin/vuepress-plugin-comment/events
 fork: false
-forks: 8
-forks_count: 8
+forks: 9
+forks_count: 9
 forks_url: https://api.github.com/repos/dongyuanxin/vuepress-plugin-comment/forks
 full_name: dongyuanxin/vuepress-plugin-comment
 git_commits_url: https://api.github.com/repos/dongyuanxin/vuepress-plugin-comment/git/commits{/sha}
@@ -48,7 +48,7 @@ merges_url: https://api.github.com/repos/dongyuanxin/vuepress-plugin-comment/mer
 milestones_url: https://api.github.com/repos/dongyuanxin/vuepress-plugin-comment/milestones{/number}
 mirror_url: null
 name: vuepress-plugin-comment
-network_count: 8
+network_count: 9
 node_id: MDEwOlJlcG9zaXRvcnkxOTA4NTA2MTA=
 notifications_url: https://api.github.com/repos/dongyuanxin/vuepress-plugin-comment/notifications{?since,all,participating}
 open_issues: 3
@@ -82,7 +82,7 @@ pushed_at: '2020-05-13T07:56:41Z'
 releases_url: https://api.github.com/repos/dongyuanxin/vuepress-plugin-comment/releases{/id}
 size: 26
 ssh_url: git@github.com:dongyuanxin/vuepress-plugin-comment.git
-stargazers_count: 18
+stargazers_count: 21
 stargazers_url: https://api.github.com/repos/dongyuanxin/vuepress-plugin-comment/stargazers
 statuses_url: https://api.github.com/repos/dongyuanxin/vuepress-plugin-comment/statuses/{sha}
 subscribers_count: 1
@@ -93,10 +93,10 @@ tags_url: https://api.github.com/repos/dongyuanxin/vuepress-plugin-comment/tags
 teams_url: https://api.github.com/repos/dongyuanxin/vuepress-plugin-comment/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/dongyuanxin/vuepress-plugin-comment/git/trees{/sha}
-updated_at: '2020-05-24T20:19:19Z'
+updated_at: '2020-08-19T19:50:04Z'
 url: https://api.github.com/repos/dongyuanxin/vuepress-plugin-comment
-watchers: 18
-watchers_count: 18
+watchers: 21
+watchers_count: 21
 ---
 
 # Vuepress-comment-plugin

@@ -102,9 +102,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/vuepress/vuepress-plugin-copyright/pulls{/number}
-pushed_at: '2020-03-14T08:02:58Z'
+pushed_at: '2020-07-16T21:20:15Z'
 releases_url: https://api.github.com/repos/vuepress/vuepress-plugin-copyright/releases{/id}
-size: 48
+size: 68
 ssh_url: git@github.com:vuepress/vuepress-plugin-copyright.git
 stargazers_count: 1
 stargazers_url: https://api.github.com/repos/vuepress/vuepress-plugin-copyright/stargazers

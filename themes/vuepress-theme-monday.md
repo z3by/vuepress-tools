@@ -78,9 +78,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/Karlbovsky/vuepress-theme-monday/pulls{/number}
-pushed_at: '2020-06-07T09:48:31Z'
+pushed_at: '2020-08-02T09:35:08Z'
 releases_url: https://api.github.com/repos/Karlbovsky/vuepress-theme-monday/releases{/id}
-size: 442
+size: 927
 ssh_url: git@github.com:Karlbovsky/vuepress-theme-monday.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/Karlbovsky/vuepress-theme-monday/stargazers
@@ -93,7 +93,7 @@ tags_url: https://api.github.com/repos/Karlbovsky/vuepress-theme-monday/tags
 teams_url: https://api.github.com/repos/Karlbovsky/vuepress-theme-monday/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/Karlbovsky/vuepress-theme-monday/git/trees{/sha}
-updated_at: '2020-06-07T09:48:26Z'
+updated_at: '2020-08-02T09:35:10Z'
 url: https://api.github.com/repos/Karlbovsky/vuepress-theme-monday
 watchers: 0
 watchers_count: 0

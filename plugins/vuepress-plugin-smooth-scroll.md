@@ -106,7 +106,7 @@ pushed_at: '2019-10-09T07:43:05Z'
 releases_url: https://api.github.com/repos/vuepress/vuepress-plugin-smooth-scroll/releases{/id}
 size: 212
 ssh_url: git@github.com:vuepress/vuepress-plugin-smooth-scroll.git
-stargazers_count: 7
+stargazers_count: 8
 stargazers_url: https://api.github.com/repos/vuepress/vuepress-plugin-smooth-scroll/stargazers
 statuses_url: https://api.github.com/repos/vuepress/vuepress-plugin-smooth-scroll/statuses/{sha}
 subscribers_count: 1
@@ -117,10 +117,10 @@ tags_url: https://api.github.com/repos/vuepress/vuepress-plugin-smooth-scroll/ta
 teams_url: https://api.github.com/repos/vuepress/vuepress-plugin-smooth-scroll/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/vuepress/vuepress-plugin-smooth-scroll/git/trees{/sha}
-updated_at: '2019-10-09T07:43:20Z'
+updated_at: '2020-07-22T13:12:51Z'
 url: https://api.github.com/repos/vuepress/vuepress-plugin-smooth-scroll
-watchers: 7
-watchers_count: 7
+watchers: 8
+watchers_count: 8
 ---
 
 # vuepress-plugin-smooth-scroll

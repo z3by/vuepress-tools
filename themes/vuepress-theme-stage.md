@@ -51,8 +51,8 @@ name: vuepress-theme-stage
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyNjQ0NjkyODg=
 notifications_url: https://api.github.com/repos/markyong/vuepress-theme-stage/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
+open_issues: 3
+open_issues_count: 3
 owner:
   avatar_url: https://avatars2.githubusercontent.com/u/24327611?v=4
   events_url: https://api.github.com/users/markyong/events{/privacy}
@@ -78,9 +78,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/markyong/vuepress-theme-stage/pulls{/number}
-pushed_at: '2020-06-08T07:12:59Z'
+pushed_at: '2020-08-08T00:16:13Z'
 releases_url: https://api.github.com/repos/markyong/vuepress-theme-stage/releases{/id}
-size: 428
+size: 652
 ssh_url: git@github.com:markyong/vuepress-theme-stage.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/markyong/vuepress-theme-stage/stargazers

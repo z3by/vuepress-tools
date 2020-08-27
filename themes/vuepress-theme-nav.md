@@ -109,7 +109,7 @@ ssh_url: git@github.com:zeroNav/vuepress-theme-nav.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/zeroNav/vuepress-theme-nav/stargazers
 statuses_url: https://api.github.com/repos/zeroNav/vuepress-theme-nav/statuses/{sha}
-subscribers_count: 1
+subscribers_count: 2
 subscribers_url: https://api.github.com/repos/zeroNav/vuepress-theme-nav/subscribers
 subscription_url: https://api.github.com/repos/zeroNav/vuepress-theme-nav/subscription
 svn_url: https://github.com/zeroNav/vuepress-theme-nav

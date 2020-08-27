@@ -83,7 +83,7 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/ulivz/vuepress-plugin-i18n-ui/pulls{/number}
-pushed_at: '2019-12-29T03:10:39Z'
+pushed_at: '2020-07-17T11:46:56Z'
 releases_url: https://api.github.com/repos/ulivz/vuepress-plugin-i18n-ui/releases{/id}
 size: 3384
 ssh_url: git@github.com:ulivz/vuepress-plugin-i18n-ui.git

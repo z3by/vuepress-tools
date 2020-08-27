@@ -56,8 +56,8 @@ name: vuepress-plugin-simple-seo
 network_count: 1
 node_id: MDEwOlJlcG9zaXRvcnkxNjYxMTQ0OTQ=
 notifications_url: https://api.github.com/repos/limdongjin/vuepress-plugin-simple-seo/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
+open_issues: 0
+open_issues_count: 0
 owner:
   avatar_url: https://avatars0.githubusercontent.com/u/30315743?v=4
   events_url: https://api.github.com/users/limdongjin/events{/privacy}
@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/limdongjin/vuepress-plugin-simple-seo/pulls{/number}
-pushed_at: '2020-01-14T16:12:05Z'
+pushed_at: '2020-08-15T05:32:55Z'
 releases_url: https://api.github.com/repos/limdongjin/vuepress-plugin-simple-seo/releases{/id}
-size: 6978
+size: 6973
 ssh_url: git@github.com:limdongjin/vuepress-plugin-simple-seo.git
 stargazers_count: 8
 stargazers_url: https://api.github.com/repos/limdongjin/vuepress-plugin-simple-seo/stargazers
@@ -98,7 +98,7 @@ tags_url: https://api.github.com/repos/limdongjin/vuepress-plugin-simple-seo/tag
 teams_url: https://api.github.com/repos/limdongjin/vuepress-plugin-simple-seo/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/limdongjin/vuepress-plugin-simple-seo/git/trees{/sha}
-updated_at: '2020-06-12T10:14:30Z'
+updated_at: '2020-08-15T05:32:57Z'
 url: https://api.github.com/repos/limdongjin/vuepress-plugin-simple-seo
 watchers: 8
 watchers_count: 8

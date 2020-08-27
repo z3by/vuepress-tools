@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/jsmith/vuepress-theme-terminal/downloads
 events_url: https://api.github.com/repos/jsmith/vuepress-theme-terminal/events
 fork: false
-forks: 7
-forks_count: 7
+forks: 8
+forks_count: 8
 forks_url: https://api.github.com/repos/jsmith/vuepress-theme-terminal/forks
 full_name: jsmith/vuepress-theme-terminal
 git_commits_url: https://api.github.com/repos/jsmith/vuepress-theme-terminal/git/commits{/sha}
@@ -48,7 +48,7 @@ merges_url: https://api.github.com/repos/jsmith/vuepress-theme-terminal/merges
 milestones_url: https://api.github.com/repos/jsmith/vuepress-theme-terminal/milestones{/number}
 mirror_url: null
 name: vuepress-theme-terminal
-network_count: 7
+network_count: 8
 node_id: MDEwOlJlcG9zaXRvcnkxNDc5MzMyMTE=
 notifications_url: https://api.github.com/repos/jsmith/vuepress-theme-terminal/notifications{?since,all,participating}
 open_issues: 0
@@ -82,7 +82,7 @@ pushed_at: '2020-03-19T16:00:28Z'
 releases_url: https://api.github.com/repos/jsmith/vuepress-theme-terminal/releases{/id}
 size: 659
 ssh_url: git@github.com:jsmith/vuepress-theme-terminal.git
-stargazers_count: 58
+stargazers_count: 60
 stargazers_url: https://api.github.com/repos/jsmith/vuepress-theme-terminal/stargazers
 statuses_url: https://api.github.com/repos/jsmith/vuepress-theme-terminal/statuses/{sha}
 subscribers_count: 1
@@ -93,10 +93,10 @@ tags_url: https://api.github.com/repos/jsmith/vuepress-theme-terminal/tags
 teams_url: https://api.github.com/repos/jsmith/vuepress-theme-terminal/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/jsmith/vuepress-theme-terminal/git/trees{/sha}
-updated_at: '2020-07-07T10:46:11Z'
+updated_at: '2020-08-12T15:48:49Z'
 url: https://api.github.com/repos/jsmith/vuepress-theme-terminal
-watchers: 58
-watchers_count: 58
+watchers: 60
+watchers_count: 60
 ---
 
 # vuepress-theme-terminal

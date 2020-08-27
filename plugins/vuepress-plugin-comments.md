@@ -41,9 +41,14 @@ issue_events_url: https://api.github.com/repos/nine-theme/vuepress-plugin-commen
 issues_url: https://api.github.com/repos/nine-theme/vuepress-plugin-comments/issues{/number}
 keys_url: https://api.github.com/repos/nine-theme/vuepress-plugin-comments/keys{/key_id}
 labels_url: https://api.github.com/repos/nine-theme/vuepress-plugin-comments/labels{/name}
-language: null
+language: Vue
 languages_url: https://api.github.com/repos/nine-theme/vuepress-plugin-comments/languages
-license: null
+license:
+  key: mit
+  name: MIT License
+  node_id: MDc6TGljZW5zZTEz
+  spdx_id: MIT
+  url: https://api.github.com/licenses/mit
 merges_url: https://api.github.com/repos/nine-theme/vuepress-plugin-comments/merges
 milestones_url: https://api.github.com/repos/nine-theme/vuepress-plugin-comments/milestones{/number}
 mirror_url: null
@@ -97,9 +102,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/nine-theme/vuepress-plugin-comments/pulls{/number}
-pushed_at: '2020-07-06T02:16:37Z'
+pushed_at: '2020-08-18T06:19:09Z'
 releases_url: https://api.github.com/repos/nine-theme/vuepress-plugin-comments/releases{/id}
-size: 0
+size: 10
 ssh_url: git@github.com:nine-theme/vuepress-plugin-comments.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/nine-theme/vuepress-plugin-comments/stargazers
@@ -112,7 +117,7 @@ tags_url: https://api.github.com/repos/nine-theme/vuepress-plugin-comments/tags
 teams_url: https://api.github.com/repos/nine-theme/vuepress-plugin-comments/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/nine-theme/vuepress-plugin-comments/git/trees{/sha}
-updated_at: '2020-07-06T02:16:40Z'
+updated_at: '2020-08-18T06:19:12Z'
 url: https://api.github.com/repos/nine-theme/vuepress-plugin-comments
 watchers: 0
 watchers_count: 0

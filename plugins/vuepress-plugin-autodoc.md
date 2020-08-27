@@ -56,8 +56,8 @@ name: vuepress-plugin-autodoc
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyNDY3MDgyNTg=
 notifications_url: https://api.github.com/repos/bprinty/vuepress-plugin-autodoc/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
+open_issues: 4
+open_issues_count: 4
 owner:
   avatar_url: https://avatars3.githubusercontent.com/u/3347800?v=4
   events_url: https://api.github.com/users/bprinty/events{/privacy}
@@ -83,11 +83,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/bprinty/vuepress-plugin-autodoc/pulls{/number}
-pushed_at: '2020-06-07T23:33:03Z'
+pushed_at: '2020-08-08T00:00:21Z'
 releases_url: https://api.github.com/repos/bprinty/vuepress-plugin-autodoc/releases{/id}
-size: 785
+size: 1335
 ssh_url: git@github.com:bprinty/vuepress-plugin-autodoc.git
-stargazers_count: 0
+stargazers_count: 1
 stargazers_url: https://api.github.com/repos/bprinty/vuepress-plugin-autodoc/stargazers
 statuses_url: https://api.github.com/repos/bprinty/vuepress-plugin-autodoc/statuses/{sha}
 subscribers_count: 1
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/bprinty/vuepress-plugin-autodoc/tags
 teams_url: https://api.github.com/repos/bprinty/vuepress-plugin-autodoc/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/bprinty/vuepress-plugin-autodoc/git/trees{/sha}
-updated_at: '2020-04-18T12:15:16Z'
+updated_at: '2020-08-06T07:22:44Z'
 url: https://api.github.com/repos/bprinty/vuepress-plugin-autodoc
-watchers: 0
-watchers_count: 0
+watchers: 1
+watchers_count: 1
 ---
 
 # Vuepress Autodoc Plugin

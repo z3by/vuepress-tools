@@ -78,9 +78,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/artiely/vuepress-plugin-valine/pulls{/number}
-pushed_at: '2020-04-07T12:21:07Z'
+pushed_at: '2020-08-21T03:47:04Z'
 releases_url: https://api.github.com/repos/artiely/vuepress-plugin-valine/releases{/id}
-size: 7
+size: 9
 ssh_url: git@github.com:artiely/vuepress-plugin-valine.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/artiely/vuepress-plugin-valine/stargazers
@@ -93,7 +93,7 @@ tags_url: https://api.github.com/repos/artiely/vuepress-plugin-valine/tags
 teams_url: https://api.github.com/repos/artiely/vuepress-plugin-valine/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/artiely/vuepress-plugin-valine/git/trees{/sha}
-updated_at: '2020-04-07T12:21:09Z'
+updated_at: '2020-08-21T03:47:06Z'
 url: https://api.github.com/repos/artiely/vuepress-plugin-valine
 watchers: 0
 watchers_count: 0

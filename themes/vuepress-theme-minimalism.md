@@ -88,7 +88,7 @@ pushed_at: '2020-05-22T09:40:42Z'
 releases_url: https://api.github.com/repos/sogud/vuepress-theme-minimalism/releases{/id}
 size: 294
 ssh_url: git@github.com:sogud/vuepress-theme-minimalism.git
-stargazers_count: 14
+stargazers_count: 20
 stargazers_url: https://api.github.com/repos/sogud/vuepress-theme-minimalism/stargazers
 statuses_url: https://api.github.com/repos/sogud/vuepress-theme-minimalism/statuses/{sha}
 subscribers_count: 0
@@ -99,10 +99,10 @@ tags_url: https://api.github.com/repos/sogud/vuepress-theme-minimalism/tags
 teams_url: https://api.github.com/repos/sogud/vuepress-theme-minimalism/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/sogud/vuepress-theme-minimalism/git/trees{/sha}
-updated_at: '2020-06-08T05:13:52Z'
+updated_at: '2020-08-06T07:47:05Z'
 url: https://api.github.com/repos/sogud/vuepress-theme-minimalism
-watchers: 14
-watchers_count: 14
+watchers: 20
+watchers_count: 20
 ---
 
 # vuepress-theme-minimalism

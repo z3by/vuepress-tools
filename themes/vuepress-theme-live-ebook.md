@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/downloads
 events_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/events
 fork: false
-forks: 3
-forks_count: 3
+forks: 5
+forks_count: 5
 forks_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/forks
 full_name: netguru/vuepress-theme-live-ebook
 git_commits_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/git/commits{/sha}
@@ -53,7 +53,7 @@ merges_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/merge
 milestones_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/milestones{/number}
 mirror_url: null
 name: vuepress-theme-live-ebook
-network_count: 3
+network_count: 5
 node_id: MDEwOlJlcG9zaXRvcnkxNjMyNzk2MTI=
 notifications_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/notifications{?since,all,participating}
 open_issues: 6
@@ -102,11 +102,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/pulls{/number}
-pushed_at: '2020-05-08T16:52:32Z'
+pushed_at: '2020-07-17T15:39:17Z'
 releases_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/releases{/id}
 size: 924
 ssh_url: git@github.com:netguru/vuepress-theme-live-ebook.git
-stargazers_count: 23
+stargazers_count: 24
 stargazers_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/stargazers
 statuses_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/statuses/{sha}
 subscribers_count: 8
@@ -117,10 +117,10 @@ tags_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/tags
 teams_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/git/trees{/sha}
-updated_at: '2020-06-26T01:35:42Z'
+updated_at: '2020-08-13T07:28:46Z'
 url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook
-watchers: 23
-watchers_count: 23
+watchers: 24
+watchers_count: 24
 ---
 
 # vuepress-theme-live-ebook

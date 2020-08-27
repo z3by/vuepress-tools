@@ -56,8 +56,8 @@ name: vuepress-plugin-bgm-player
 network_count: 3
 node_id: MDEwOlJlcG9zaXRvcnkyMjIzMzgzNzg=
 notifications_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-bgm-player/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
+open_issues: 2
+open_issues_count: 2
 organization:
   avatar_url: https://avatars0.githubusercontent.com/u/54167020?v=4
   events_url: https://api.github.com/users/vuepress-reco/events{/privacy}

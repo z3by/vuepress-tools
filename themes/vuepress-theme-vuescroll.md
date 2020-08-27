@@ -97,14 +97,14 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/YvesCoding/vuepress-theme-vuescroll/pulls{/number}
-pushed_at: '2020-02-16T12:12:22Z'
+pushed_at: '2020-07-18T12:00:47Z'
 releases_url: https://api.github.com/repos/YvesCoding/vuepress-theme-vuescroll/releases{/id}
-size: 204
+size: 205
 ssh_url: git@github.com:YvesCoding/vuepress-theme-vuescroll.git
 stargazers_count: 1
 stargazers_url: https://api.github.com/repos/YvesCoding/vuepress-theme-vuescroll/stargazers
 statuses_url: https://api.github.com/repos/YvesCoding/vuepress-theme-vuescroll/statuses/{sha}
-subscribers_count: 0
+subscribers_count: 1
 subscribers_url: https://api.github.com/repos/YvesCoding/vuepress-theme-vuescroll/subscribers
 subscription_url: https://api.github.com/repos/YvesCoding/vuepress-theme-vuescroll/subscription
 svn_url: https://github.com/YvesCoding/vuepress-theme-vuescroll
@@ -112,7 +112,7 @@ tags_url: https://api.github.com/repos/YvesCoding/vuepress-theme-vuescroll/tags
 teams_url: https://api.github.com/repos/YvesCoding/vuepress-theme-vuescroll/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/YvesCoding/vuepress-theme-vuescroll/git/trees{/sha}
-updated_at: '2020-02-16T12:12:24Z'
+updated_at: '2020-07-18T12:00:50Z'
 url: https://api.github.com/repos/YvesCoding/vuepress-theme-vuescroll
 watchers: 1
 watchers_count: 1

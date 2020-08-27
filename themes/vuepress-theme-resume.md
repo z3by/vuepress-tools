@@ -20,8 +20,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume/downloads
 events_url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume/events
 fork: false
-forks: 51
-forks_count: 51
+forks: 54
+forks_count: 54
 forks_url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume/forks
 full_name: wannaxiao/vuepress-theme-resume
 git_commits_url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume/git/commits{/sha}
@@ -54,7 +54,7 @@ merges_url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume/merges
 milestones_url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume/milestones{/number}
 mirror_url: null
 name: vuepress-theme-resume
-network_count: 51
+network_count: 54
 node_id: MDEwOlJlcG9zaXRvcnkxMzU4ODI0OTM=
 notifications_url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume/notifications{?since,all,participating}
 open_issues: 2
@@ -88,7 +88,7 @@ pushed_at: '2020-05-09T00:20:04Z'
 releases_url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume/releases{/id}
 size: 1031
 ssh_url: git@github.com:wannaxiao/vuepress-theme-resume.git
-stargazers_count: 145
+stargazers_count: 153
 stargazers_url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume/stargazers
 statuses_url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume/statuses/{sha}
 subscribers_count: 2
@@ -99,10 +99,10 @@ tags_url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume/tags
 teams_url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume/git/trees{/sha}
-updated_at: '2020-06-27T12:54:47Z'
+updated_at: '2020-08-24T09:42:59Z'
 url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume
-watchers: 145
-watchers_count: 145
+watchers: 153
+watchers_count: 153
 ---
 
 ## 🐈 介绍

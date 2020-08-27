@@ -83,11 +83,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/viko16/vuepress-theme-simple/pulls{/number}
-pushed_at: '2020-03-30T06:41:01Z'
+pushed_at: '2020-07-14T02:33:38Z'
 releases_url: https://api.github.com/repos/viko16/vuepress-theme-simple/releases{/id}
-size: 32
+size: 35
 ssh_url: git@github.com:viko16/vuepress-theme-simple.git
-stargazers_count: 61
+stargazers_count: 66
 stargazers_url: https://api.github.com/repos/viko16/vuepress-theme-simple/stargazers
 statuses_url: https://api.github.com/repos/viko16/vuepress-theme-simple/statuses/{sha}
 subscribers_count: 3
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/viko16/vuepress-theme-simple/tags
 teams_url: https://api.github.com/repos/viko16/vuepress-theme-simple/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/viko16/vuepress-theme-simple/git/trees{/sha}
-updated_at: '2020-06-23T11:40:25Z'
+updated_at: '2020-08-13T02:58:13Z'
 url: https://api.github.com/repos/viko16/vuepress-theme-simple
-watchers: 61
-watchers_count: 61
+watchers: 66
+watchers_count: 66
 ---
 
 # vuepress-theme-simple

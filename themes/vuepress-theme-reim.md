@@ -1,0 +1,102 @@
+---
+archive_url: https://api.github.com/repos/StarGuideX/vuepress-theme-reim/{archive_format}{/ref}
+archived: false
+assignees_url: https://api.github.com/repos/StarGuideX/vuepress-theme-reim/assignees{/user}
+blobs_url: https://api.github.com/repos/StarGuideX/vuepress-theme-reim/git/blobs{/sha}
+branches_url: https://api.github.com/repos/StarGuideX/vuepress-theme-reim/branches{/branch}
+clone_url: https://github.com/StarGuideX/vuepress-theme-reim.git
+collaborators_url: https://api.github.com/repos/StarGuideX/vuepress-theme-reim/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/StarGuideX/vuepress-theme-reim/comments{/number}
+commits_url: https://api.github.com/repos/StarGuideX/vuepress-theme-reim/commits{/sha}
+compare_url: https://api.github.com/repos/StarGuideX/vuepress-theme-reim/compare/{base}...{head}
+contents_url: https://api.github.com/repos/StarGuideX/vuepress-theme-reim/contents/{+path}
+contributors_url: https://api.github.com/repos/StarGuideX/vuepress-theme-reim/contributors
+created_at: '2020-08-17T11:38:50Z'
+default_branch: master
+deployments_url: https://api.github.com/repos/StarGuideX/vuepress-theme-reim/deployments
+description: null
+disabled: false
+downloads_url: https://api.github.com/repos/StarGuideX/vuepress-theme-reim/downloads
+events_url: https://api.github.com/repos/StarGuideX/vuepress-theme-reim/events
+fork: false
+forks: 0
+forks_count: 0
+forks_url: https://api.github.com/repos/StarGuideX/vuepress-theme-reim/forks
+full_name: StarGuideX/vuepress-theme-reim
+git_commits_url: https://api.github.com/repos/StarGuideX/vuepress-theme-reim/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/StarGuideX/vuepress-theme-reim/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/StarGuideX/vuepress-theme-reim/git/tags{/sha}
+git_url: git://github.com/StarGuideX/vuepress-theme-reim.git
+has_downloads: true
+has_issues: true
+has_pages: false
+has_projects: true
+has_wiki: true
+homepage: null
+hooks_url: https://api.github.com/repos/StarGuideX/vuepress-theme-reim/hooks
+html_url: https://github.com/StarGuideX/vuepress-theme-reim
+id: 288164140
+issue_comment_url: https://api.github.com/repos/StarGuideX/vuepress-theme-reim/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/StarGuideX/vuepress-theme-reim/issues/events{/number}
+issues_url: https://api.github.com/repos/StarGuideX/vuepress-theme-reim/issues{/number}
+keys_url: https://api.github.com/repos/StarGuideX/vuepress-theme-reim/keys{/key_id}
+labels_url: https://api.github.com/repos/StarGuideX/vuepress-theme-reim/labels{/name}
+language: Vue
+languages_url: https://api.github.com/repos/StarGuideX/vuepress-theme-reim/languages
+license: null
+merges_url: https://api.github.com/repos/StarGuideX/vuepress-theme-reim/merges
+milestones_url: https://api.github.com/repos/StarGuideX/vuepress-theme-reim/milestones{/number}
+mirror_url: null
+name: vuepress-theme-reim
+network_count: 0
+node_id: MDEwOlJlcG9zaXRvcnkyODgxNjQxNDA=
+notifications_url: https://api.github.com/repos/StarGuideX/vuepress-theme-reim/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
+owner:
+  avatar_url: https://avatars0.githubusercontent.com/u/26317444?v=4
+  events_url: https://api.github.com/users/StarGuideX/events{/privacy}
+  followers_url: https://api.github.com/users/StarGuideX/followers
+  following_url: https://api.github.com/users/StarGuideX/following{/other_user}
+  gists_url: https://api.github.com/users/StarGuideX/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/StarGuideX
+  id: 26317444
+  login: StarGuideX
+  node_id: MDQ6VXNlcjI2MzE3NDQ0
+  organizations_url: https://api.github.com/users/StarGuideX/orgs
+  received_events_url: https://api.github.com/users/StarGuideX/received_events
+  repos_url: https://api.github.com/users/StarGuideX/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/StarGuideX/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/StarGuideX/subscriptions
+  type: User
+  url: https://api.github.com/users/StarGuideX
+permissions:
+  admin: false
+  pull: true
+  push: false
+private: false
+pulls_url: https://api.github.com/repos/StarGuideX/vuepress-theme-reim/pulls{/number}
+pushed_at: '2020-08-25T11:31:24Z'
+releases_url: https://api.github.com/repos/StarGuideX/vuepress-theme-reim/releases{/id}
+size: 1126
+ssh_url: git@github.com:StarGuideX/vuepress-theme-reim.git
+stargazers_count: 0
+stargazers_url: https://api.github.com/repos/StarGuideX/vuepress-theme-reim/stargazers
+statuses_url: https://api.github.com/repos/StarGuideX/vuepress-theme-reim/statuses/{sha}
+subscribers_count: 1
+subscribers_url: https://api.github.com/repos/StarGuideX/vuepress-theme-reim/subscribers
+subscription_url: https://api.github.com/repos/StarGuideX/vuepress-theme-reim/subscription
+svn_url: https://github.com/StarGuideX/vuepress-theme-reim
+tags_url: https://api.github.com/repos/StarGuideX/vuepress-theme-reim/tags
+teams_url: https://api.github.com/repos/StarGuideX/vuepress-theme-reim/teams
+temp_clone_token: ''
+trees_url: https://api.github.com/repos/StarGuideX/vuepress-theme-reim/git/trees{/sha}
+updated_at: '2020-08-25T11:31:26Z'
+url: https://api.github.com/repos/StarGuideX/vuepress-theme-reim
+watchers: 0
+watchers_count: 0
+---
+
+# vuepress-theme-reim

@@ -56,8 +56,8 @@ name: vuepress-theme-orbit
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyNjgzNzkzOTc=
 notifications_url: https://api.github.com/repos/adrianhall/vuepress-theme-orbit/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
+open_issues: 1
+open_issues_count: 1
 owner:
   avatar_url: https://avatars0.githubusercontent.com/u/1489465?v=4
   events_url: https://api.github.com/users/adrianhall/events{/privacy}
@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/adrianhall/vuepress-theme-orbit/pulls{/number}
-pushed_at: '2020-06-14T20:04:44Z'
+pushed_at: '2020-08-08T00:26:13Z'
 releases_url: https://api.github.com/repos/adrianhall/vuepress-theme-orbit/releases{/id}
-size: 311
+size: 595
 ssh_url: git@github.com:adrianhall/vuepress-theme-orbit.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/adrianhall/vuepress-theme-orbit/stargazers
@@ -98,7 +98,7 @@ tags_url: https://api.github.com/repos/adrianhall/vuepress-theme-orbit/tags
 teams_url: https://api.github.com/repos/adrianhall/vuepress-theme-orbit/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/adrianhall/vuepress-theme-orbit/git/trees{/sha}
-updated_at: '2020-06-14T20:04:42Z'
+updated_at: '2020-07-20T23:13:13Z'
 url: https://api.github.com/repos/adrianhall/vuepress-theme-orbit
 watchers: 0
 watchers_count: 0

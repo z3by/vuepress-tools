@@ -20,8 +20,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/Chenyating/vuepress-theme-ting/downloads
 events_url: https://api.github.com/repos/Chenyating/vuepress-theme-ting/events
 fork: false
-forks: 6
-forks_count: 6
+forks: 7
+forks_count: 7
 forks_url: https://api.github.com/repos/Chenyating/vuepress-theme-ting/forks
 full_name: Chenyating/vuepress-theme-ting
 git_commits_url: https://api.github.com/repos/Chenyating/vuepress-theme-ting/git/commits{/sha}
@@ -49,7 +49,7 @@ merges_url: https://api.github.com/repos/Chenyating/vuepress-theme-ting/merges
 milestones_url: https://api.github.com/repos/Chenyating/vuepress-theme-ting/milestones{/number}
 mirror_url: null
 name: vuepress-theme-ting
-network_count: 6
+network_count: 7
 node_id: MDEwOlJlcG9zaXRvcnkyMjEyMDA0MzE=
 notifications_url: https://api.github.com/repos/Chenyating/vuepress-theme-ting/notifications{?since,all,participating}
 open_issues: 3
@@ -79,11 +79,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/Chenyating/vuepress-theme-ting/pulls{/number}
-pushed_at: '2020-06-30T08:11:21Z'
+pushed_at: '2020-08-13T02:20:13Z'
 releases_url: https://api.github.com/repos/Chenyating/vuepress-theme-ting/releases{/id}
-size: 13716
+size: 14241
 ssh_url: git@github.com:Chenyating/vuepress-theme-ting.git
-stargazers_count: 48
+stargazers_count: 57
 stargazers_url: https://api.github.com/repos/Chenyating/vuepress-theme-ting/stargazers
 statuses_url: https://api.github.com/repos/Chenyating/vuepress-theme-ting/statuses/{sha}
 subscribers_count: 1
@@ -94,10 +94,10 @@ tags_url: https://api.github.com/repos/Chenyating/vuepress-theme-ting/tags
 teams_url: https://api.github.com/repos/Chenyating/vuepress-theme-ting/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/Chenyating/vuepress-theme-ting/git/trees{/sha}
-updated_at: '2020-06-30T08:07:23Z'
+updated_at: '2020-08-24T09:01:39Z'
 url: https://api.github.com/repos/Chenyating/vuepress-theme-ting
-watchers: 48
-watchers_count: 48
+watchers: 57
+watchers_count: 57
 ---
 
 # vuepress-theme-ting

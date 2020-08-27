@@ -56,8 +56,8 @@ name: vuepress-theme-default-rtl
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyNDgzMjk0OTU=
 notifications_url: https://api.github.com/repos/Alizadeh118/vuepress-theme-default-rtl/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
+open_issues: 1
+open_issues_count: 1
 owner:
   avatar_url: https://avatars1.githubusercontent.com/u/13087224?v=4
   events_url: https://api.github.com/users/Alizadeh118/events{/privacy}
@@ -87,7 +87,7 @@ pushed_at: '2020-03-24T13:44:12Z'
 releases_url: https://api.github.com/repos/Alizadeh118/vuepress-theme-default-rtl/releases{/id}
 size: 750
 ssh_url: git@github.com:Alizadeh118/vuepress-theme-default-rtl.git
-stargazers_count: 0
+stargazers_count: 3
 stargazers_url: https://api.github.com/repos/Alizadeh118/vuepress-theme-default-rtl/stargazers
 statuses_url: https://api.github.com/repos/Alizadeh118/vuepress-theme-default-rtl/statuses/{sha}
 subscribers_count: 0
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/Alizadeh118/vuepress-theme-default-rtl/ta
 teams_url: https://api.github.com/repos/Alizadeh118/vuepress-theme-default-rtl/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/Alizadeh118/vuepress-theme-default-rtl/git/trees{/sha}
-updated_at: '2020-03-24T13:57:55Z'
+updated_at: '2020-08-12T17:45:39Z'
 url: https://api.github.com/repos/Alizadeh118/vuepress-theme-default-rtl
-watchers: 0
-watchers_count: 0
+watchers: 3
+watchers_count: 3
 ---
 
 # vuepress-theme-default-rtl

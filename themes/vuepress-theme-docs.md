@@ -32,7 +32,7 @@ has_issues: true
 has_pages: false
 has_projects: true
 has_wiki: true
-homepage: null
+homepage: ''
 hooks_url: https://api.github.com/repos/getnacelle/vuepress-theme-docs/hooks
 html_url: https://github.com/getnacelle/vuepress-theme-docs
 id: 272985853
@@ -97,14 +97,14 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/getnacelle/vuepress-theme-docs/pulls{/number}
-pushed_at: '2020-06-29T16:03:18Z'
+pushed_at: '2020-07-24T16:48:26Z'
 releases_url: https://api.github.com/repos/getnacelle/vuepress-theme-docs/releases{/id}
-size: 472
+size: 500
 ssh_url: git@github.com:getnacelle/vuepress-theme-docs.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/getnacelle/vuepress-theme-docs/stargazers
 statuses_url: https://api.github.com/repos/getnacelle/vuepress-theme-docs/statuses/{sha}
-subscribers_count: 1
+subscribers_count: 5
 subscribers_url: https://api.github.com/repos/getnacelle/vuepress-theme-docs/subscribers
 subscription_url: https://api.github.com/repos/getnacelle/vuepress-theme-docs/subscription
 svn_url: https://github.com/getnacelle/vuepress-theme-docs
@@ -112,7 +112,7 @@ tags_url: https://api.github.com/repos/getnacelle/vuepress-theme-docs/tags
 teams_url: https://api.github.com/repos/getnacelle/vuepress-theme-docs/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/getnacelle/vuepress-theme-docs/git/trees{/sha}
-updated_at: '2020-06-29T16:03:22Z'
+updated_at: '2020-07-24T16:48:21Z'
 url: https://api.github.com/repos/getnacelle/vuepress-theme-docs
 watchers: 0
 watchers_count: 0

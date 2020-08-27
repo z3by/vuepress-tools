@@ -23,8 +23,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/z3by/vuepress-theme-modern-blog/downloads
 events_url: https://api.github.com/repos/z3by/vuepress-theme-modern-blog/events
 fork: false
-forks: 20
-forks_count: 20
+forks: 21
+forks_count: 21
 forks_url: https://api.github.com/repos/z3by/vuepress-theme-modern-blog/forks
 full_name: z3by/vuepress-theme-modern-blog
 git_commits_url: https://api.github.com/repos/z3by/vuepress-theme-modern-blog/git/commits{/sha}
@@ -57,11 +57,11 @@ merges_url: https://api.github.com/repos/z3by/vuepress-theme-modern-blog/merges
 milestones_url: https://api.github.com/repos/z3by/vuepress-theme-modern-blog/milestones{/number}
 mirror_url: null
 name: vuepress-theme-modern-blog
-network_count: 20
+network_count: 21
 node_id: MDEwOlJlcG9zaXRvcnkyMjUyMDQ2OTg=
 notifications_url: https://api.github.com/repos/z3by/vuepress-theme-modern-blog/notifications{?since,all,participating}
-open_issues: 5
-open_issues_count: 5
+open_issues: 12
+open_issues_count: 12
 owner:
   avatar_url: https://avatars1.githubusercontent.com/u/36268825?v=4
   events_url: https://api.github.com/users/z3by/events{/privacy}
@@ -87,11 +87,11 @@ permissions:
   push: true
 private: false
 pulls_url: https://api.github.com/repos/z3by/vuepress-theme-modern-blog/pulls{/number}
-pushed_at: '2020-06-08T08:09:26Z'
+pushed_at: '2020-08-08T00:22:27Z'
 releases_url: https://api.github.com/repos/z3by/vuepress-theme-modern-blog/releases{/id}
-size: 3786
+size: 5211
 ssh_url: git@github.com:z3by/vuepress-theme-modern-blog.git
-stargazers_count: 49
+stargazers_count: 56
 stargazers_url: https://api.github.com/repos/z3by/vuepress-theme-modern-blog/stargazers
 statuses_url: https://api.github.com/repos/z3by/vuepress-theme-modern-blog/statuses/{sha}
 subscribers_count: 4
@@ -102,10 +102,10 @@ tags_url: https://api.github.com/repos/z3by/vuepress-theme-modern-blog/tags
 teams_url: https://api.github.com/repos/z3by/vuepress-theme-modern-blog/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/z3by/vuepress-theme-modern-blog/git/trees{/sha}
-updated_at: '2020-07-02T15:30:05Z'
+updated_at: '2020-08-25T06:02:50Z'
 url: https://api.github.com/repos/z3by/vuepress-theme-modern-blog
-watchers: 49
-watchers_count: 49
+watchers: 56
+watchers_count: 56
 ---
 
 # vuepress-theme-modern-blog

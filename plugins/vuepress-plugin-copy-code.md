@@ -56,8 +56,8 @@ name: vuepress-plugin-copy-code
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyNTEyMjU1MDE=
 notifications_url: https://api.github.com/repos/artiely/vuepress-plugin-copy-code/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
+open_issues: 1
+open_issues_count: 1
 owner:
   avatar_url: https://avatars0.githubusercontent.com/u/19198355?v=4
   events_url: https://api.github.com/users/artiely/events{/privacy}
@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/artiely/vuepress-plugin-copy-code/pulls{/number}
-pushed_at: '2020-04-09T07:42:32Z'
+pushed_at: '2020-07-20T02:14:04Z'
 releases_url: https://api.github.com/repos/artiely/vuepress-plugin-copy-code/releases{/id}
-size: 23
+size: 40
 ssh_url: git@github.com:artiely/vuepress-plugin-copy-code.git
 stargazers_count: 1
 stargazers_url: https://api.github.com/repos/artiely/vuepress-plugin-copy-code/stargazers

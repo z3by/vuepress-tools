@@ -57,8 +57,8 @@ name: vuepress-plugin-svg-sprite
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyNDg3MDk1NDU=
 notifications_url: https://api.github.com/repos/xiaoluoboding/vuepress-plugin-svg-sprite/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
+open_issues: 1
+open_issues_count: 1
 owner:
   avatar_url: https://avatars0.githubusercontent.com/u/6118824?v=4
   events_url: https://api.github.com/users/xiaoluoboding/events{/privacy}
@@ -84,9 +84,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/xiaoluoboding/vuepress-plugin-svg-sprite/pulls{/number}
-pushed_at: '2020-03-20T09:22:37Z'
+pushed_at: '2020-07-19T22:46:46Z'
 releases_url: https://api.github.com/repos/xiaoluoboding/vuepress-plugin-svg-sprite/releases{/id}
-size: 24
+size: 49
 ssh_url: git@github.com:xiaoluoboding/vuepress-plugin-svg-sprite.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/xiaoluoboding/vuepress-plugin-svg-sprite/stargazers

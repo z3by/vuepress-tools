@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/boboidream/vuepress-plugin-rpurl/downloads
 events_url: https://api.github.com/repos/boboidream/vuepress-plugin-rpurl/events
 fork: false
-forks: 2
-forks_count: 2
+forks: 3
+forks_count: 3
 forks_url: https://api.github.com/repos/boboidream/vuepress-plugin-rpurl/forks
 full_name: boboidream/vuepress-plugin-rpurl
 git_commits_url: https://api.github.com/repos/boboidream/vuepress-plugin-rpurl/git/commits{/sha}
@@ -48,7 +48,7 @@ merges_url: https://api.github.com/repos/boboidream/vuepress-plugin-rpurl/merges
 milestones_url: https://api.github.com/repos/boboidream/vuepress-plugin-rpurl/milestones{/number}
 mirror_url: null
 name: vuepress-plugin-rpurl
-network_count: 2
+network_count: 3
 node_id: MDEwOlJlcG9zaXRvcnkyMDY0NjEzMTY=
 notifications_url: https://api.github.com/repos/boboidream/vuepress-plugin-rpurl/notifications{?since,all,participating}
 open_issues: 1

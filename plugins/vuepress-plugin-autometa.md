@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/webmasterish/vuepress-plugin-autometa/downloads
 events_url: https://api.github.com/repos/webmasterish/vuepress-plugin-autometa/events
 fork: false
-forks: 4
-forks_count: 4
+forks: 6
+forks_count: 6
 forks_url: https://api.github.com/repos/webmasterish/vuepress-plugin-autometa/forks
 full_name: webmasterish/vuepress-plugin-autometa
 git_commits_url: https://api.github.com/repos/webmasterish/vuepress-plugin-autometa/git/commits{/sha}
@@ -53,7 +53,7 @@ merges_url: https://api.github.com/repos/webmasterish/vuepress-plugin-autometa/m
 milestones_url: https://api.github.com/repos/webmasterish/vuepress-plugin-autometa/milestones{/number}
 mirror_url: null
 name: vuepress-plugin-autometa
-network_count: 4
+network_count: 6
 node_id: MDEwOlJlcG9zaXRvcnkxNjM0MTY2NjU=
 notifications_url: https://api.github.com/repos/webmasterish/vuepress-plugin-autometa/notifications{?since,all,participating}
 open_issues: 3
@@ -87,7 +87,7 @@ pushed_at: '2020-04-25T01:18:06Z'
 releases_url: https://api.github.com/repos/webmasterish/vuepress-plugin-autometa/releases{/id}
 size: 34
 ssh_url: git@github.com:webmasterish/vuepress-plugin-autometa.git
-stargazers_count: 35
+stargazers_count: 36
 stargazers_url: https://api.github.com/repos/webmasterish/vuepress-plugin-autometa/stargazers
 statuses_url: https://api.github.com/repos/webmasterish/vuepress-plugin-autometa/statuses/{sha}
 subscribers_count: 1
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/webmasterish/vuepress-plugin-autometa/tag
 teams_url: https://api.github.com/repos/webmasterish/vuepress-plugin-autometa/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/webmasterish/vuepress-plugin-autometa/git/trees{/sha}
-updated_at: '2020-07-06T10:51:28Z'
+updated_at: '2020-08-07T16:56:45Z'
 url: https://api.github.com/repos/webmasterish/vuepress-plugin-autometa
-watchers: 35
-watchers_count: 35
+watchers: 36
+watchers_count: 36
 ---
 
 # VuePress Plugin Auto Meta

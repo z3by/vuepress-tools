@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/visualfanatic/vuepress-theme-dark/downloads
 events_url: https://api.github.com/repos/visualfanatic/vuepress-theme-dark/events
 fork: false
-forks: 2
-forks_count: 2
+forks: 1
+forks_count: 1
 forks_url: https://api.github.com/repos/visualfanatic/vuepress-theme-dark/forks
 full_name: visualfanatic/vuepress-theme-dark
 git_commits_url: https://api.github.com/repos/visualfanatic/vuepress-theme-dark/git/commits{/sha}
@@ -53,7 +53,7 @@ merges_url: https://api.github.com/repos/visualfanatic/vuepress-theme-dark/merge
 milestones_url: https://api.github.com/repos/visualfanatic/vuepress-theme-dark/milestones{/number}
 mirror_url: null
 name: vuepress-theme-dark
-network_count: 2
+network_count: 1
 node_id: MDEwOlJlcG9zaXRvcnkxNDY5MzY2NzU=
 notifications_url: https://api.github.com/repos/visualfanatic/vuepress-theme-dark/notifications{?since,all,participating}
 open_issues: 1

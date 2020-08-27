@@ -52,8 +52,8 @@ name: vuepress-plugin-image
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyMDg3NzczODY=
 notifications_url: https://api.github.com/repos/im/vuepress-plugin-image/notifications{?since,all,participating}
-open_issues: 2
-open_issues_count: 2
+open_issues: 5
+open_issues_count: 5
 owner:
   avatar_url: https://avatars2.githubusercontent.com/u/12029165?v=4
   events_url: https://api.github.com/users/im/events{/privacy}
@@ -79,9 +79,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/im/vuepress-plugin-image/pulls{/number}
-pushed_at: '2020-06-07T07:15:17Z'
+pushed_at: '2020-08-07T23:34:46Z'
 releases_url: https://api.github.com/repos/im/vuepress-plugin-image/releases{/id}
-size: 713
+size: 1040
 ssh_url: git@github.com:im/vuepress-plugin-image.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/im/vuepress-plugin-image/stargazers

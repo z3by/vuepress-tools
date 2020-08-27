@@ -90,7 +90,7 @@ ssh_url: git@github.com:lvqq/vuepress-plugin-click.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/lvqq/vuepress-plugin-click/stargazers
 statuses_url: https://api.github.com/repos/lvqq/vuepress-plugin-click/statuses/{sha}
-subscribers_count: 1
+subscribers_count: 2
 subscribers_url: https://api.github.com/repos/lvqq/vuepress-plugin-click/subscribers
 subscription_url: https://api.github.com/repos/lvqq/vuepress-plugin-click/subscription
 svn_url: https://github.com/lvqq/vuepress-plugin-click

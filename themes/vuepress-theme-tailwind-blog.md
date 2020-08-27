@@ -52,8 +52,8 @@ name: vuepress-theme-tailwind-blog
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyNDE5NTM3MTE=
 notifications_url: https://api.github.com/repos/recodable/vuepress-theme-tailwind-blog/notifications{?since,all,participating}
-open_issues: 3
-open_issues_count: 3
+open_issues: 6
+open_issues_count: 6
 organization:
   avatar_url: https://avatars2.githubusercontent.com/u/55709797?v=4
   events_url: https://api.github.com/users/recodable/events{/privacy}
@@ -98,9 +98,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/recodable/vuepress-theme-tailwind-blog/pulls{/number}
-pushed_at: '2020-06-07T21:19:39Z'
+pushed_at: '2020-08-07T23:58:53Z'
 releases_url: https://api.github.com/repos/recodable/vuepress-theme-tailwind-blog/releases{/id}
-size: 6835
+size: 7312
 ssh_url: git@github.com:recodable/vuepress-theme-tailwind-blog.git
 stargazers_count: 2
 stargazers_url: https://api.github.com/repos/recodable/vuepress-theme-tailwind-blog/stargazers

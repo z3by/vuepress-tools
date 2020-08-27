@@ -97,11 +97,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/vbox-moe/vuepress-theme-vbox/pulls{/number}
-pushed_at: '2020-07-06T11:59:49Z'
+pushed_at: '2020-08-04T05:52:01Z'
 releases_url: https://api.github.com/repos/vbox-moe/vuepress-theme-vbox/releases{/id}
-size: 571
+size: 631
 ssh_url: git@github.com:vbox-moe/vuepress-theme-vbox.git
-stargazers_count: 1
+stargazers_count: 2
 stargazers_url: https://api.github.com/repos/vbox-moe/vuepress-theme-vbox/stargazers
 statuses_url: https://api.github.com/repos/vbox-moe/vuepress-theme-vbox/statuses/{sha}
 subscribers_count: 1
@@ -112,9 +112,9 @@ tags_url: https://api.github.com/repos/vbox-moe/vuepress-theme-vbox/tags
 teams_url: https://api.github.com/repos/vbox-moe/vuepress-theme-vbox/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/vbox-moe/vuepress-theme-vbox/git/trees{/sha}
-updated_at: '2020-07-06T11:59:51Z'
+updated_at: '2020-07-18T04:20:50Z'
 url: https://api.github.com/repos/vbox-moe/vuepress-theme-vbox
-watchers: 1
-watchers_count: 1
+watchers: 2
+watchers_count: 2
 ---
 

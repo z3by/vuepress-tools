@@ -102,11 +102,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/moefyit/vuepress-plugin-ribbon/pulls{/number}
-pushed_at: '2020-06-07T13:45:15Z'
+pushed_at: '2020-07-07T18:19:45Z'
 releases_url: https://api.github.com/repos/moefyit/vuepress-plugin-ribbon/releases{/id}
-size: 283
+size: 286
 ssh_url: git@github.com:moefyit/vuepress-plugin-ribbon.git
-stargazers_count: 12
+stargazers_count: 13
 stargazers_url: https://api.github.com/repos/moefyit/vuepress-plugin-ribbon/stargazers
 statuses_url: https://api.github.com/repos/moefyit/vuepress-plugin-ribbon/statuses/{sha}
 subscribers_count: 2
@@ -117,10 +117,10 @@ tags_url: https://api.github.com/repos/moefyit/vuepress-plugin-ribbon/tags
 teams_url: https://api.github.com/repos/moefyit/vuepress-plugin-ribbon/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/moefyit/vuepress-plugin-ribbon/git/trees{/sha}
-updated_at: '2020-06-16T07:22:48Z'
+updated_at: '2020-07-28T13:59:40Z'
 url: https://api.github.com/repos/moefyit/vuepress-plugin-ribbon
-watchers: 12
-watchers_count: 12
+watchers: 13
+watchers_count: 13
 ---
 
 # vuepress-plugin-ribbon <GitHubLink repo="moefyit/vuepress-plugin-ribbon"/>

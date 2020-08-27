@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/zpj80231/vuepress-plugin-boxx/downloads
 events_url: https://api.github.com/repos/zpj80231/vuepress-plugin-boxx/events
 fork: false
-forks: 0
-forks_count: 0
+forks: 1
+forks_count: 1
 forks_url: https://api.github.com/repos/zpj80231/vuepress-plugin-boxx/forks
 full_name: zpj80231/vuepress-plugin-boxx
 git_commits_url: https://api.github.com/repos/zpj80231/vuepress-plugin-boxx/git/commits{/sha}
@@ -53,7 +53,7 @@ merges_url: https://api.github.com/repos/zpj80231/vuepress-plugin-boxx/merges
 milestones_url: https://api.github.com/repos/zpj80231/vuepress-plugin-boxx/milestones{/number}
 mirror_url: null
 name: vuepress-plugin-boxx
-network_count: 0
+network_count: 1
 node_id: MDEwOlJlcG9zaXRvcnkyMjIyNTM1MDI=
 notifications_url: https://api.github.com/repos/zpj80231/vuepress-plugin-boxx/notifications{?since,all,participating}
 open_issues: 0
@@ -87,7 +87,7 @@ pushed_at: '2020-04-17T00:45:25Z'
 releases_url: https://api.github.com/repos/zpj80231/vuepress-plugin-boxx/releases{/id}
 size: 34
 ssh_url: git@github.com:zpj80231/vuepress-plugin-boxx.git
-stargazers_count: 2
+stargazers_count: 3
 stargazers_url: https://api.github.com/repos/zpj80231/vuepress-plugin-boxx/stargazers
 statuses_url: https://api.github.com/repos/zpj80231/vuepress-plugin-boxx/statuses/{sha}
 subscribers_count: 1
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/zpj80231/vuepress-plugin-boxx/tags
 teams_url: https://api.github.com/repos/zpj80231/vuepress-plugin-boxx/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/zpj80231/vuepress-plugin-boxx/git/trees{/sha}
-updated_at: '2020-06-22T06:34:43Z'
+updated_at: '2020-08-12T08:14:36Z'
 url: https://api.github.com/repos/zpj80231/vuepress-plugin-boxx
-watchers: 2
-watchers_count: 2
+watchers: 3
+watchers_count: 3
 ---
 
 

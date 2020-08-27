@@ -87,7 +87,7 @@ pushed_at: '2018-05-14T10:10:07Z'
 releases_url: https://api.github.com/repos/yliaho/vuepress-theme-valle/releases{/id}
 size: 290
 ssh_url: git@github.com:yliaho/vuepress-theme-valle.git
-stargazers_count: 30
+stargazers_count: 29
 stargazers_url: https://api.github.com/repos/yliaho/vuepress-theme-valle/stargazers
 statuses_url: https://api.github.com/repos/yliaho/vuepress-theme-valle/statuses/{sha}
 subscribers_count: 1
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/yliaho/vuepress-theme-valle/tags
 teams_url: https://api.github.com/repos/yliaho/vuepress-theme-valle/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/yliaho/vuepress-theme-valle/git/trees{/sha}
-updated_at: '2020-02-14T09:17:45Z'
+updated_at: '2020-08-16T20:14:28Z'
 url: https://api.github.com/repos/yliaho/vuepress-theme-valle
-watchers: 30
-watchers_count: 30
+watchers: 29
+watchers_count: 29
 ---
 
 # vuepress-theme-valle

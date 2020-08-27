@@ -97,9 +97,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/tangodata/vuepress-theme-loaded/pulls{/number}
-pushed_at: '2019-10-31T15:07:41Z'
+pushed_at: '2020-07-17T08:03:30Z'
 releases_url: https://api.github.com/repos/tangodata/vuepress-theme-loaded/releases{/id}
-size: 199
+size: 72
 ssh_url: git@github.com:tangodata/vuepress-theme-loaded.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/tangodata/vuepress-theme-loaded/stargazers

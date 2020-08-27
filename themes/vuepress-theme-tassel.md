@@ -78,9 +78,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/hirCodd/vuepress-theme-tassel/pulls{/number}
-pushed_at: '2020-03-14T10:22:20Z'
+pushed_at: '2020-07-17T01:20:45Z'
 releases_url: https://api.github.com/repos/hirCodd/vuepress-theme-tassel/releases{/id}
-size: 741
+size: 740
 ssh_url: git@github.com:hirCodd/vuepress-theme-tassel.git
 stargazers_count: 1
 stargazers_url: https://api.github.com/repos/hirCodd/vuepress-theme-tassel/stargazers

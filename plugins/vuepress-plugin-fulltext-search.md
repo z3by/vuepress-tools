@@ -57,8 +57,8 @@ name: vuepress-plugin-fulltext-search
 network_count: 9
 node_id: MDEwOlJlcG9zaXRvcnkyNTAzNzc1Mzg=
 notifications_url: https://api.github.com/repos/leo-buneev/vuepress-plugin-fulltext-search/notifications{?since,all,participating}
-open_issues: 8
-open_issues_count: 8
+open_issues: 4
+open_issues_count: 4
 owner:
   avatar_url: https://avatars0.githubusercontent.com/u/5142323?v=4
   events_url: https://api.github.com/users/leo-buneev/events{/privacy}
@@ -84,11 +84,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/leo-buneev/vuepress-plugin-fulltext-search/pulls{/number}
-pushed_at: '2020-06-13T10:06:12Z'
+pushed_at: '2020-08-08T00:06:54Z'
 releases_url: https://api.github.com/repos/leo-buneev/vuepress-plugin-fulltext-search/releases{/id}
-size: 362
+size: 1379
 ssh_url: git@github.com:leo-buneev/vuepress-plugin-fulltext-search.git
-stargazers_count: 9
+stargazers_count: 14
 stargazers_url: https://api.github.com/repos/leo-buneev/vuepress-plugin-fulltext-search/stargazers
 statuses_url: https://api.github.com/repos/leo-buneev/vuepress-plugin-fulltext-search/statuses/{sha}
 subscribers_count: 3
@@ -99,10 +99,10 @@ tags_url: https://api.github.com/repos/leo-buneev/vuepress-plugin-fulltext-searc
 teams_url: https://api.github.com/repos/leo-buneev/vuepress-plugin-fulltext-search/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/leo-buneev/vuepress-plugin-fulltext-search/git/trees{/sha}
-updated_at: '2020-06-17T13:08:20Z'
+updated_at: '2020-08-14T03:58:11Z'
 url: https://api.github.com/repos/leo-buneev/vuepress-plugin-fulltext-search
-watchers: 9
-watchers_count: 9
+watchers: 14
+watchers_count: 14
 ---
 
 # vuepress-plugin-fulltext-search

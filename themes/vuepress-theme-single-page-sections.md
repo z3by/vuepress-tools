@@ -20,8 +20,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/ptandler/vuepress-theme-single-page-sections/downloads
 events_url: https://api.github.com/repos/ptandler/vuepress-theme-single-page-sections/events
 fork: false
-forks: 0
-forks_count: 0
+forks: 1
+forks_count: 1
 forks_url: https://api.github.com/repos/ptandler/vuepress-theme-single-page-sections/forks
 full_name: ptandler/vuepress-theme-single-page-sections
 git_commits_url: https://api.github.com/repos/ptandler/vuepress-theme-single-page-sections/git/commits{/sha}
@@ -54,11 +54,11 @@ merges_url: https://api.github.com/repos/ptandler/vuepress-theme-single-page-sec
 milestones_url: https://api.github.com/repos/ptandler/vuepress-theme-single-page-sections/milestones{/number}
 mirror_url: null
 name: vuepress-theme-single-page-sections
-network_count: 0
+network_count: 1
 node_id: MDEwOlJlcG9zaXRvcnkyMjIzMDEzOTk=
 notifications_url: https://api.github.com/repos/ptandler/vuepress-theme-single-page-sections/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
+open_issues: 4
+open_issues_count: 4
 owner:
   avatar_url: https://avatars1.githubusercontent.com/u/934595?v=4
   events_url: https://api.github.com/users/ptandler/events{/privacy}
@@ -84,11 +84,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/ptandler/vuepress-theme-single-page-sections/pulls{/number}
-pushed_at: '2020-06-23T16:26:51Z'
+pushed_at: '2020-08-08T00:01:46Z'
 releases_url: https://api.github.com/repos/ptandler/vuepress-theme-single-page-sections/releases{/id}
-size: 12272
+size: 12763
 ssh_url: git@github.com:ptandler/vuepress-theme-single-page-sections.git
-stargazers_count: 0
+stargazers_count: 1
 stargazers_url: https://api.github.com/repos/ptandler/vuepress-theme-single-page-sections/stargazers
 statuses_url: https://api.github.com/repos/ptandler/vuepress-theme-single-page-sections/statuses/{sha}
 subscribers_count: 1
@@ -99,10 +99,10 @@ tags_url: https://api.github.com/repos/ptandler/vuepress-theme-single-page-secti
 teams_url: https://api.github.com/repos/ptandler/vuepress-theme-single-page-sections/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/ptandler/vuepress-theme-single-page-sections/git/trees{/sha}
-updated_at: '2020-06-23T16:26:54Z'
+updated_at: '2020-07-07T21:15:56Z'
 url: https://api.github.com/repos/ptandler/vuepress-theme-single-page-sections
-watchers: 0
-watchers_count: 0
+watchers: 1
+watchers_count: 1
 ---
 
 # Single Page VuePress Theme

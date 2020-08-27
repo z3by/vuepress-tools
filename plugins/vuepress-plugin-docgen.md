@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/f3ltron/vuepress-plugin-docgen/pulls{/number}
-pushed_at: '2020-06-06T19:30:08Z'
+pushed_at: '2020-08-08T00:02:28Z'
 releases_url: https://api.github.com/repos/f3ltron/vuepress-plugin-docgen/releases{/id}
-size: 1654
+size: 2069
 ssh_url: git@github.com:f3ltron/vuepress-plugin-docgen.git
 stargazers_count: 27
 stargazers_url: https://api.github.com/repos/f3ltron/vuepress-plugin-docgen/stargazers
@@ -98,7 +98,7 @@ tags_url: https://api.github.com/repos/f3ltron/vuepress-plugin-docgen/tags
 teams_url: https://api.github.com/repos/f3ltron/vuepress-plugin-docgen/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/f3ltron/vuepress-plugin-docgen/git/trees{/sha}
-updated_at: '2020-07-06T15:45:00Z'
+updated_at: '2020-08-08T00:02:24Z'
 url: https://api.github.com/repos/f3ltron/vuepress-plugin-docgen
 watchers: 27
 watchers_count: 27

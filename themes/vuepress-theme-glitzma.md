@@ -56,8 +56,8 @@ name: vuepress-theme-glitzma
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkxODI5ODkyNDQ=
 notifications_url: https://api.github.com/repos/glitzma/vuepress-theme-glitzma/notifications{?since,all,participating}
-open_issues: 4
-open_issues_count: 4
+open_issues: 7
+open_issues_count: 7
 owner:
   avatar_url: https://avatars0.githubusercontent.com/u/49772593?v=4
   events_url: https://api.github.com/users/glitzma/events{/privacy}
@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/glitzma/vuepress-theme-glitzma/pulls{/number}
-pushed_at: '2020-06-06T21:26:13Z'
+pushed_at: '2020-08-07T23:13:44Z'
 releases_url: https://api.github.com/repos/glitzma/vuepress-theme-glitzma/releases{/id}
-size: 3644
+size: 4072
 ssh_url: git@github.com:glitzma/vuepress-theme-glitzma.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/glitzma/vuepress-theme-glitzma/stargazers

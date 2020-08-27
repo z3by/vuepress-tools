@@ -56,8 +56,8 @@ name: vuepress-theme-feed
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyNjUyMzI3MjU=
 notifications_url: https://api.github.com/repos/xieyx/vuepress-theme-feed/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
+open_issues: 2
+open_issues_count: 2
 owner:
   avatar_url: https://avatars1.githubusercontent.com/u/19400528?v=4
   events_url: https://api.github.com/users/xieyx/events{/privacy}
@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/xieyx/vuepress-theme-feed/pulls{/number}
-pushed_at: '2020-06-09T10:43:29Z'
+pushed_at: '2020-08-08T00:24:30Z'
 releases_url: https://api.github.com/repos/xieyx/vuepress-theme-feed/releases{/id}
-size: 1518
+size: 1734
 ssh_url: git@github.com:xieyx/vuepress-theme-feed.git
 stargazers_count: 2
 stargazers_url: https://api.github.com/repos/xieyx/vuepress-theme-feed/stargazers

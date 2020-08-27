@@ -56,8 +56,8 @@ name: vuepress-plugin-svg-icons
 network_count: 1
 node_id: MDEwOlJlcG9zaXRvcnkxNzI5NTI1NzE=
 notifications_url: https://api.github.com/repos/ntnyq/vuepress-plugin-svg-icons/notifications{?since,all,participating}
-open_issues: 2
-open_issues_count: 2
+open_issues: 1
+open_issues_count: 1
 owner:
   avatar_url: https://avatars2.githubusercontent.com/u/22659150?v=4
   events_url: https://api.github.com/users/ntnyq/events{/privacy}
@@ -83,11 +83,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/ntnyq/vuepress-plugin-svg-icons/pulls{/number}
-pushed_at: '2020-06-06T13:33:57Z'
+pushed_at: '2020-08-08T20:19:27Z'
 releases_url: https://api.github.com/repos/ntnyq/vuepress-plugin-svg-icons/releases{/id}
-size: 775
+size: 785
 ssh_url: git@github.com:ntnyq/vuepress-plugin-svg-icons.git
-stargazers_count: 7
+stargazers_count: 8
 stargazers_url: https://api.github.com/repos/ntnyq/vuepress-plugin-svg-icons/stargazers
 statuses_url: https://api.github.com/repos/ntnyq/vuepress-plugin-svg-icons/statuses/{sha}
 subscribers_count: 0
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/ntnyq/vuepress-plugin-svg-icons/tags
 teams_url: https://api.github.com/repos/ntnyq/vuepress-plugin-svg-icons/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/ntnyq/vuepress-plugin-svg-icons/git/trees{/sha}
-updated_at: '2020-04-19T17:46:59Z'
+updated_at: '2020-08-23T11:44:31Z'
 url: https://api.github.com/repos/ntnyq/vuepress-plugin-svg-icons
-watchers: 7
-watchers_count: 7
+watchers: 8
+watchers_count: 8
 ---
 
 # vuepress-plugin-svg-icons

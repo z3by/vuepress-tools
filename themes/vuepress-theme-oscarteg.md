@@ -1,6 +1,6 @@
 ---
 archive_url: https://api.github.com/repos/Oscarteg/vuepress-theme-oscarteg/{archive_format}{/ref}
-archived: true
+archived: false
 assignees_url: https://api.github.com/repos/Oscarteg/vuepress-theme-oscarteg/assignees{/user}
 blobs_url: https://api.github.com/repos/Oscarteg/vuepress-theme-oscarteg/git/blobs{/sha}
 branches_url: https://api.github.com/repos/Oscarteg/vuepress-theme-oscarteg/branches{/branch}
@@ -11,8 +11,8 @@ commits_url: https://api.github.com/repos/Oscarteg/vuepress-theme-oscarteg/commi
 compare_url: https://api.github.com/repos/Oscarteg/vuepress-theme-oscarteg/compare/{base}...{head}
 contents_url: https://api.github.com/repos/Oscarteg/vuepress-theme-oscarteg/contents/{+path}
 contributors_url: https://api.github.com/repos/Oscarteg/vuepress-theme-oscarteg/contributors
-created_at: '2018-10-12T12:48:38Z'
-default_branch: master
+created_at: '2020-07-12T22:27:18Z'
+default_branch: feature/katex
 deployments_url: https://api.github.com/repos/Oscarteg/vuepress-theme-oscarteg/deployments
 description: null
 disabled: false
@@ -35,7 +35,7 @@ has_wiki: true
 homepage: ''
 hooks_url: https://api.github.com/repos/Oscarteg/vuepress-theme-oscarteg/hooks
 html_url: https://github.com/Oscarteg/vuepress-theme-oscarteg
-id: 152749685
+id: 279158398
 issue_comment_url: https://api.github.com/repos/Oscarteg/vuepress-theme-oscarteg/issues/comments{/number}
 issue_events_url: https://api.github.com/repos/Oscarteg/vuepress-theme-oscarteg/issues/events{/number}
 issues_url: https://api.github.com/repos/Oscarteg/vuepress-theme-oscarteg/issues{/number}
@@ -54,10 +54,10 @@ milestones_url: https://api.github.com/repos/Oscarteg/vuepress-theme-oscarteg/mi
 mirror_url: null
 name: vuepress-theme-oscarteg
 network_count: 0
-node_id: MDEwOlJlcG9zaXRvcnkxNTI3NDk2ODU=
+node_id: MDEwOlJlcG9zaXRvcnkyNzkxNTgzOTg=
 notifications_url: https://api.github.com/repos/Oscarteg/vuepress-theme-oscarteg/notifications{?since,all,participating}
-open_issues: 8
-open_issues_count: 8
+open_issues: 7
+open_issues_count: 7
 owner:
   avatar_url: https://avatars3.githubusercontent.com/u/8656565?v=4
   events_url: https://api.github.com/users/Oscarteg/events{/privacy}
@@ -83,14 +83,14 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/Oscarteg/vuepress-theme-oscarteg/pulls{/number}
-pushed_at: '2020-03-10T17:45:16Z'
+pushed_at: '2020-08-08T00:38:16Z'
 releases_url: https://api.github.com/repos/Oscarteg/vuepress-theme-oscarteg/releases{/id}
-size: 244
+size: 1336
 ssh_url: git@github.com:Oscarteg/vuepress-theme-oscarteg.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/Oscarteg/vuepress-theme-oscarteg/stargazers
 statuses_url: https://api.github.com/repos/Oscarteg/vuepress-theme-oscarteg/statuses/{sha}
-subscribers_count: 1
+subscribers_count: 0
 subscribers_url: https://api.github.com/repos/Oscarteg/vuepress-theme-oscarteg/subscribers
 subscription_url: https://api.github.com/repos/Oscarteg/vuepress-theme-oscarteg/subscription
 svn_url: https://github.com/Oscarteg/vuepress-theme-oscarteg
@@ -98,7 +98,7 @@ tags_url: https://api.github.com/repos/Oscarteg/vuepress-theme-oscarteg/tags
 teams_url: https://api.github.com/repos/Oscarteg/vuepress-theme-oscarteg/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/Oscarteg/vuepress-theme-oscarteg/git/trees{/sha}
-updated_at: '2020-03-10T20:02:20Z'
+updated_at: '2020-07-12T22:27:54Z'
 url: https://api.github.com/repos/Oscarteg/vuepress-theme-oscarteg
 watchers: 0
 watchers_count: 0
@@ -114,8 +114,6 @@ The theme for all vuepress things
 2. Add a `.vuepress/config.js` file.
 3. Copy the `tailwind.js` file to the root of your folder.
 4. Copy the images from the public folder to `.vuepress/public`.
-
-- `rsync -azP node_modules/vuepress-theme-oscarteg/public .vuepress/`
 
 ## Example config
 
@@ -149,7 +147,3 @@ module.exports = {
   }
 };
 ```
-
-## Netlify
-
-This theme is able to use netlify cms just edit the `config.yml` with the correct name and repo

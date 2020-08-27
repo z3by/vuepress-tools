@@ -51,8 +51,8 @@ name: vuepress-plugin-api-docs-generator
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyMDcwNzA5ODM=
 notifications_url: https://api.github.com/repos/evaera/vuepress-plugin-api-docs-generator/notifications{?since,all,participating}
-open_issues: 4
-open_issues_count: 4
+open_issues: 5
+open_issues_count: 5
 owner:
   avatar_url: https://avatars3.githubusercontent.com/u/2489210?v=4
   events_url: https://api.github.com/users/evaera/events{/privacy}
@@ -78,11 +78,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/evaera/vuepress-plugin-api-docs-generator/pulls{/number}
-pushed_at: '2020-04-30T00:06:17Z'
+pushed_at: '2020-07-18T19:05:16Z'
 releases_url: https://api.github.com/repos/evaera/vuepress-plugin-api-docs-generator/releases{/id}
-size: 185
+size: 220
 ssh_url: git@github.com:evaera/vuepress-plugin-api-docs-generator.git
-stargazers_count: 2
+stargazers_count: 3
 stargazers_url: https://api.github.com/repos/evaera/vuepress-plugin-api-docs-generator/stargazers
 statuses_url: https://api.github.com/repos/evaera/vuepress-plugin-api-docs-generator/statuses/{sha}
 subscribers_count: 1
@@ -93,10 +93,10 @@ tags_url: https://api.github.com/repos/evaera/vuepress-plugin-api-docs-generator
 teams_url: https://api.github.com/repos/evaera/vuepress-plugin-api-docs-generator/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/evaera/vuepress-plugin-api-docs-generator/git/trees{/sha}
-updated_at: '2020-04-30T00:06:19Z'
+updated_at: '2020-08-06T07:22:42Z'
 url: https://api.github.com/repos/evaera/vuepress-plugin-api-docs-generator
-watchers: 2
-watchers_count: 2
+watchers: 3
+watchers_count: 3
 ---
 
 <div align="center">

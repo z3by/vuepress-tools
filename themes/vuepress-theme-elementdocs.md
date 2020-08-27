@@ -78,9 +78,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/xiaoxiaofei2016/vuepress-theme-elementdocs/pulls{/number}
-pushed_at: '2020-07-07T12:13:52Z'
+pushed_at: '2020-07-17T13:54:02Z'
 releases_url: https://api.github.com/repos/xiaoxiaofei2016/vuepress-theme-elementdocs/releases{/id}
-size: 38
+size: 74
 ssh_url: git@github.com:xiaoxiaofei2016/vuepress-theme-elementdocs.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/xiaoxiaofei2016/vuepress-theme-elementdocs/stargazers
@@ -93,15 +93,15 @@ tags_url: https://api.github.com/repos/xiaoxiaofei2016/vuepress-theme-elementdoc
 teams_url: https://api.github.com/repos/xiaoxiaofei2016/vuepress-theme-elementdocs/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/xiaoxiaofei2016/vuepress-theme-elementdocs/git/trees{/sha}
-updated_at: '2020-07-07T12:13:55Z'
+updated_at: '2020-07-17T13:54:05Z'
 url: https://api.github.com/repos/xiaoxiaofei2016/vuepress-theme-elementdocs
 watchers: 0
 watchers_count: 0
 ---
 
-<div align="center"><img src="https://s2.ax1x.com/2020/02/27/3aIcDK.png" height = "150" /></div>
+<div align="center"><img src="https://t9.baidu.com/it/u=3528916773,3720315611&fm=193" height = "150" /></div>
 
-<h1 align="center">ElementUIDocs</h1>
+<h1 align="center">Elementuidocs</h1>
 
 <div align="center">
 
@@ -140,6 +140,7 @@ module.exports = {
   theme: 'elementuidocs'
 }
 ```
+在styles目录下建立style.scss和palette.scss文件，分别用来自定义样式和自定义颜色样式
 You can get help here: [Using a theme](https://vuepress.vuejs.org/theme/using-a-theme.html#theme-shorthand)
 
 # Preview

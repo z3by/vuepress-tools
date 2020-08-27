@@ -102,9 +102,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/vue-a11y/vuepress-theme-default-vue-a11y/pulls{/number}
-pushed_at: '2020-07-01T19:31:42Z'
+pushed_at: '2020-07-09T15:47:49Z'
 releases_url: https://api.github.com/repos/vue-a11y/vuepress-theme-default-vue-a11y/releases{/id}
-size: 3076
+size: 3274
 ssh_url: git@github.com:vue-a11y/vuepress-theme-default-vue-a11y.git
 stargazers_count: 2
 stargazers_url: https://api.github.com/repos/vue-a11y/vuepress-theme-default-vue-a11y/stargazers

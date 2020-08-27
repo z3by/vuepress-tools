@@ -56,8 +56,8 @@ name: vuepress-plugin-fish
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyMjQ3ODIxNjM=
 notifications_url: https://api.github.com/repos/kevinBobo/vuepress-plugin-fish/notifications{?since,all,participating}
-open_issues: 2
-open_issues_count: 2
+open_issues: 3
+open_issues_count: 3
 owner:
   avatar_url: https://avatars3.githubusercontent.com/u/29720482?v=4
   events_url: https://api.github.com/users/kevinBobo/events{/privacy}
@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/kevinBobo/vuepress-plugin-fish/pulls{/number}
-pushed_at: '2020-03-14T14:59:38Z'
+pushed_at: '2020-07-18T22:28:42Z'
 releases_url: https://api.github.com/repos/kevinBobo/vuepress-plugin-fish/releases{/id}
-size: 35
+size: 51
 ssh_url: git@github.com:kevinBobo/vuepress-plugin-fish.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/kevinBobo/vuepress-plugin-fish/stargazers

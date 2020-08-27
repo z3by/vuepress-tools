@@ -56,8 +56,8 @@ name: vuepress-plugin-define
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyMjIyMjA0MTc=
 notifications_url: https://api.github.com/repos/sqrthree/vuepress-plugin-define/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
+open_issues: 4
+open_issues_count: 4
 owner:
   avatar_url: https://avatars2.githubusercontent.com/u/8622362?v=4
   events_url: https://api.github.com/users/sqrthree/events{/privacy}
@@ -83,11 +83,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/sqrthree/vuepress-plugin-define/pulls{/number}
-pushed_at: '2020-03-12T02:32:44Z'
+pushed_at: '2020-08-07T23:43:43Z'
 releases_url: https://api.github.com/repos/sqrthree/vuepress-plugin-define/releases{/id}
-size: 331
+size: 763
 ssh_url: git@github.com:sqrthree/vuepress-plugin-define.git
-stargazers_count: 0
+stargazers_count: 1
 stargazers_url: https://api.github.com/repos/sqrthree/vuepress-plugin-define/stargazers
 statuses_url: https://api.github.com/repos/sqrthree/vuepress-plugin-define/statuses/{sha}
 subscribers_count: 1
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/sqrthree/vuepress-plugin-define/tags
 teams_url: https://api.github.com/repos/sqrthree/vuepress-plugin-define/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/sqrthree/vuepress-plugin-define/git/trees{/sha}
-updated_at: '2020-03-12T02:32:33Z'
+updated_at: '2020-07-21T16:52:16Z'
 url: https://api.github.com/repos/sqrthree/vuepress-plugin-define
-watchers: 0
-watchers_count: 0
+watchers: 1
+watchers_count: 1
 ---
 
 [![npm](https://img.shields.io/npm/v/vuepress-plugin-define)](https://www.npmjs.com/package/vuepress-plugin-define)

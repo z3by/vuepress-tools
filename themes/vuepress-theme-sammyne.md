@@ -56,8 +56,8 @@ name: vuepress-theme-sammyne
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkxOTQ0ODc1NjA=
 notifications_url: https://api.github.com/repos/sammyne/vuepress-theme-sammyne/notifications{?since,all,participating}
-open_issues: 3
-open_issues_count: 3
+open_issues: 5
+open_issues_count: 5
 owner:
   avatar_url: https://avatars1.githubusercontent.com/u/16666661?v=4
   events_url: https://api.github.com/users/sammyne/events{/privacy}
@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/sammyne/vuepress-theme-sammyne/pulls{/number}
-pushed_at: '2020-03-15T08:43:50Z'
+pushed_at: '2020-08-07T23:17:17Z'
 releases_url: https://api.github.com/repos/sammyne/vuepress-theme-sammyne/releases{/id}
-size: 338
+size: 545
 ssh_url: git@github.com:sammyne/vuepress-theme-sammyne.git
 stargazers_count: 1
 stargazers_url: https://api.github.com/repos/sammyne/vuepress-theme-sammyne/stargazers

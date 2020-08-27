@@ -1,0 +1,102 @@
+---
+archive_url: https://api.github.com/repos/LDQ-first/vuepress-theme-api-test1-starter-kit/{archive_format}{/ref}
+archived: false
+assignees_url: https://api.github.com/repos/LDQ-first/vuepress-theme-api-test1-starter-kit/assignees{/user}
+blobs_url: https://api.github.com/repos/LDQ-first/vuepress-theme-api-test1-starter-kit/git/blobs{/sha}
+branches_url: https://api.github.com/repos/LDQ-first/vuepress-theme-api-test1-starter-kit/branches{/branch}
+clone_url: https://github.com/LDQ-first/vuepress-theme-api-test1-starter-kit.git
+collaborators_url: https://api.github.com/repos/LDQ-first/vuepress-theme-api-test1-starter-kit/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/LDQ-first/vuepress-theme-api-test1-starter-kit/comments{/number}
+commits_url: https://api.github.com/repos/LDQ-first/vuepress-theme-api-test1-starter-kit/commits{/sha}
+compare_url: https://api.github.com/repos/LDQ-first/vuepress-theme-api-test1-starter-kit/compare/{base}...{head}
+contents_url: https://api.github.com/repos/LDQ-first/vuepress-theme-api-test1-starter-kit/contents/{+path}
+contributors_url: https://api.github.com/repos/LDQ-first/vuepress-theme-api-test1-starter-kit/contributors
+created_at: '2020-07-29T14:15:26Z'
+default_branch: master
+deployments_url: https://api.github.com/repos/LDQ-first/vuepress-theme-api-test1-starter-kit/deployments
+description: null
+disabled: false
+downloads_url: https://api.github.com/repos/LDQ-first/vuepress-theme-api-test1-starter-kit/downloads
+events_url: https://api.github.com/repos/LDQ-first/vuepress-theme-api-test1-starter-kit/events
+fork: false
+forks: 0
+forks_count: 0
+forks_url: https://api.github.com/repos/LDQ-first/vuepress-theme-api-test1-starter-kit/forks
+full_name: LDQ-first/vuepress-theme-api-test1-starter-kit
+git_commits_url: https://api.github.com/repos/LDQ-first/vuepress-theme-api-test1-starter-kit/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/LDQ-first/vuepress-theme-api-test1-starter-kit/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/LDQ-first/vuepress-theme-api-test1-starter-kit/git/tags{/sha}
+git_url: git://github.com/LDQ-first/vuepress-theme-api-test1-starter-kit.git
+has_downloads: true
+has_issues: true
+has_pages: false
+has_projects: true
+has_wiki: true
+homepage: null
+hooks_url: https://api.github.com/repos/LDQ-first/vuepress-theme-api-test1-starter-kit/hooks
+html_url: https://github.com/LDQ-first/vuepress-theme-api-test1-starter-kit
+id: 283518084
+issue_comment_url: https://api.github.com/repos/LDQ-first/vuepress-theme-api-test1-starter-kit/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/LDQ-first/vuepress-theme-api-test1-starter-kit/issues/events{/number}
+issues_url: https://api.github.com/repos/LDQ-first/vuepress-theme-api-test1-starter-kit/issues{/number}
+keys_url: https://api.github.com/repos/LDQ-first/vuepress-theme-api-test1-starter-kit/keys{/key_id}
+labels_url: https://api.github.com/repos/LDQ-first/vuepress-theme-api-test1-starter-kit/labels{/name}
+language: null
+languages_url: https://api.github.com/repos/LDQ-first/vuepress-theme-api-test1-starter-kit/languages
+license: null
+merges_url: https://api.github.com/repos/LDQ-first/vuepress-theme-api-test1-starter-kit/merges
+milestones_url: https://api.github.com/repos/LDQ-first/vuepress-theme-api-test1-starter-kit/milestones{/number}
+mirror_url: null
+name: vuepress-theme-api-test1-starter-kit
+network_count: 0
+node_id: MDEwOlJlcG9zaXRvcnkyODM1MTgwODQ=
+notifications_url: https://api.github.com/repos/LDQ-first/vuepress-theme-api-test1-starter-kit/notifications{?since,all,participating}
+open_issues: 1
+open_issues_count: 1
+owner:
+  avatar_url: https://avatars2.githubusercontent.com/u/16303135?v=4
+  events_url: https://api.github.com/users/LDQ-first/events{/privacy}
+  followers_url: https://api.github.com/users/LDQ-first/followers
+  following_url: https://api.github.com/users/LDQ-first/following{/other_user}
+  gists_url: https://api.github.com/users/LDQ-first/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/LDQ-first
+  id: 16303135
+  login: LDQ-first
+  node_id: MDQ6VXNlcjE2MzAzMTM1
+  organizations_url: https://api.github.com/users/LDQ-first/orgs
+  received_events_url: https://api.github.com/users/LDQ-first/received_events
+  repos_url: https://api.github.com/users/LDQ-first/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/LDQ-first/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/LDQ-first/subscriptions
+  type: User
+  url: https://api.github.com/users/LDQ-first
+permissions:
+  admin: false
+  pull: true
+  push: false
+private: false
+pulls_url: https://api.github.com/repos/LDQ-first/vuepress-theme-api-test1-starter-kit/pulls{/number}
+pushed_at: '2020-08-08T00:43:16Z'
+releases_url: https://api.github.com/repos/LDQ-first/vuepress-theme-api-test1-starter-kit/releases{/id}
+size: 150
+ssh_url: git@github.com:LDQ-first/vuepress-theme-api-test1-starter-kit.git
+stargazers_count: 0
+stargazers_url: https://api.github.com/repos/LDQ-first/vuepress-theme-api-test1-starter-kit/stargazers
+statuses_url: https://api.github.com/repos/LDQ-first/vuepress-theme-api-test1-starter-kit/statuses/{sha}
+subscribers_count: 1
+subscribers_url: https://api.github.com/repos/LDQ-first/vuepress-theme-api-test1-starter-kit/subscribers
+subscription_url: https://api.github.com/repos/LDQ-first/vuepress-theme-api-test1-starter-kit/subscription
+svn_url: https://github.com/LDQ-first/vuepress-theme-api-test1-starter-kit
+tags_url: https://api.github.com/repos/LDQ-first/vuepress-theme-api-test1-starter-kit/tags
+teams_url: https://api.github.com/repos/LDQ-first/vuepress-theme-api-test1-starter-kit/teams
+temp_clone_token: ''
+trees_url: https://api.github.com/repos/LDQ-first/vuepress-theme-api-test1-starter-kit/git/trees{/sha}
+updated_at: '2020-07-29T16:33:57Z'
+url: https://api.github.com/repos/LDQ-first/vuepress-theme-api-test1-starter-kit
+watchers: 0
+watchers_count: 0
+---
+
+# vuepress-theme-api-test1-starter-kit

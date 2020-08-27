@@ -56,8 +56,8 @@ name: vuepress-plugin-helper-live2d
 network_count: 4
 node_id: MDEwOlJlcG9zaXRvcnkyMDg3NTk3MjU=
 notifications_url: https://api.github.com/repos/JoeyBling/vuepress-plugin-helper-live2d/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
+open_issues: 1
+open_issues_count: 1
 owner:
   avatar_url: https://avatars1.githubusercontent.com/u/25240064?v=4
   events_url: https://api.github.com/users/JoeyBling/events{/privacy}
@@ -83,11 +83,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/JoeyBling/vuepress-plugin-helper-live2d/pulls{/number}
-pushed_at: '2020-05-31T05:27:19Z'
+pushed_at: '2020-07-20T20:12:26Z'
 releases_url: https://api.github.com/repos/JoeyBling/vuepress-plugin-helper-live2d/releases{/id}
-size: 16183
+size: 16185
 ssh_url: git@github.com:JoeyBling/vuepress-plugin-helper-live2d.git
-stargazers_count: 15
+stargazers_count: 19
 stargazers_url: https://api.github.com/repos/JoeyBling/vuepress-plugin-helper-live2d/stargazers
 statuses_url: https://api.github.com/repos/JoeyBling/vuepress-plugin-helper-live2d/statuses/{sha}
 subscribers_count: 2
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/JoeyBling/vuepress-plugin-helper-live2d/t
 teams_url: https://api.github.com/repos/JoeyBling/vuepress-plugin-helper-live2d/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/JoeyBling/vuepress-plugin-helper-live2d/git/trees{/sha}
-updated_at: '2020-07-05T14:36:48Z'
+updated_at: '2020-08-18T10:27:36Z'
 url: https://api.github.com/repos/JoeyBling/vuepress-plugin-helper-live2d
-watchers: 15
-watchers_count: 15
+watchers: 19
+watchers_count: 19
 ---
 
 # vuepress-plugin-helper-live2d

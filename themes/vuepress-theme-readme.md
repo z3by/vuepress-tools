@@ -56,8 +56,8 @@ name: vuepress-theme-readme
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyNDYzMjczMjM=
 notifications_url: https://api.github.com/repos/zhb333/vuepress-theme-readme/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
+open_issues: 4
+open_issues_count: 4
 owner:
   avatar_url: https://avatars2.githubusercontent.com/u/26917599?v=4
   events_url: https://api.github.com/users/zhb333/events{/privacy}
@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/zhb333/vuepress-theme-readme/pulls{/number}
-pushed_at: '2020-06-07T23:33:57Z'
+pushed_at: '2020-08-08T00:03:13Z'
 releases_url: https://api.github.com/repos/zhb333/vuepress-theme-readme/releases{/id}
-size: 203
+size: 488
 ssh_url: git@github.com:zhb333/vuepress-theme-readme.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/zhb333/vuepress-theme-readme/stargazers

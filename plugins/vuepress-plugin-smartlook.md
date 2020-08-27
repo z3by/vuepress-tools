@@ -56,8 +56,8 @@ name: vuepress-plugin-smartlook
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyNDg3NzIzNDY=
 notifications_url: https://api.github.com/repos/webkitty/vuepress-plugin-smartlook/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
+open_issues: 1
+open_issues_count: 1
 organization:
   avatar_url: https://avatars0.githubusercontent.com/u/31770177?v=4
   events_url: https://api.github.com/users/webkitty/events{/privacy}
@@ -102,9 +102,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/webkitty/vuepress-plugin-smartlook/pulls{/number}
-pushed_at: '2020-03-23T12:26:53Z'
+pushed_at: '2020-08-21T06:27:15Z'
 releases_url: https://api.github.com/repos/webkitty/vuepress-plugin-smartlook/releases{/id}
-size: 9
+size: 19
 ssh_url: git@github.com:webkitty/vuepress-plugin-smartlook.git
 stargazers_count: 1
 stargazers_url: https://api.github.com/repos/webkitty/vuepress-plugin-smartlook/stargazers
@@ -117,7 +117,7 @@ tags_url: https://api.github.com/repos/webkitty/vuepress-plugin-smartlook/tags
 teams_url: https://api.github.com/repos/webkitty/vuepress-plugin-smartlook/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/webkitty/vuepress-plugin-smartlook/git/trees{/sha}
-updated_at: '2020-03-26T11:40:04Z'
+updated_at: '2020-08-12T16:47:10Z'
 url: https://api.github.com/repos/webkitty/vuepress-plugin-smartlook
 watchers: 1
 watchers_count: 1
@@ -126,16 +126,39 @@ watchers_count: 1
 <h1 align=center>Smartlook ❤️ Vuepress</h1>
 
 <p align=center>
-🌐 <a href="https://f3l1x.io">f3l1x.io</a> | 💻 <a href="https://github.com/f3l1x">f3l1x</a> | 🐦 <a href="https://twitter.com/xf3l1x">@xf3l1x</a>
+   VuePress plugin for Smartlook.
 </p>
 
-## Installation
+<p align=center>
+🕹 <a href="https://f3l1x.io">f3l1x.io</a> | 💻 <a href="https://github.com/f3l1x">f3l1x</a> | 🐦 <a href="https://twitter.com/xf3l1x">@xf3l1x</a>
+</p>
+
+<p align=center>
+	<a href="https://github.com/webkitty/vuepress-plugin-smartlook/actions">
+		<img src="https://badgen.net/github/checks/webkitty/vuepress-plugin-smartlook">
+	</a>
+	<a href="https://www.npmjs.com/package/vuepress-plugin-smartlook">
+		<img src="https://badgen.net/npm/v/vuepress-plugin-smartlook">
+	</a>
+	<a href="https://www.npmjs.com/package/vuepress-plugin-smartlook">
+		<img src="https://badgen.net/npm/dt/vuepress-plugin-smartlook">
+	</a>
+	<a href="/LICENSE">
+		<img src="https://badgen.net/github/license/webkitty/vuepress-plugin-smartlook">
+	</a>
+</p>
+
+-----
+
+## Usage
+
+To install latest version use [NPM](https://npmjs.com).
 
 ```
 npm install --save vuepress-plugin-smartlook
 ```
 
-## Usage
+## Documentation
 
 1. Register at [smartlook.com](https://www.smartlook.com/).
 2. Get tracking code (Projects -> Tracking code).
@@ -155,3 +178,13 @@ module.exports = {
   ]
 };
 ```
+
+## Development
+
+<a href="https://github.com/f3l1x">
+    <img width="80" height="80" src="https://avatars2.githubusercontent.com/u/538058?v=3&s=80">
+</a>
+
+-----
+
+Consider to [support](https://github.com/sponsors/f3l1x) **f3l1x**. Also thank you for using this package.

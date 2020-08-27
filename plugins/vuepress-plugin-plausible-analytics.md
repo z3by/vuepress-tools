@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/leoloso/vuepress-plugin-plausible-analytics/downloads
 events_url: https://api.github.com/repos/leoloso/vuepress-plugin-plausible-analytics/events
 fork: false
-forks: 0
-forks_count: 0
+forks: 1
+forks_count: 1
 forks_url: https://api.github.com/repos/leoloso/vuepress-plugin-plausible-analytics/forks
 full_name: leoloso/vuepress-plugin-plausible-analytics
 git_commits_url: https://api.github.com/repos/leoloso/vuepress-plugin-plausible-analytics/git/commits{/sha}
@@ -53,7 +53,7 @@ merges_url: https://api.github.com/repos/leoloso/vuepress-plugin-plausible-analy
 milestones_url: https://api.github.com/repos/leoloso/vuepress-plugin-plausible-analytics/milestones{/number}
 mirror_url: null
 name: vuepress-plugin-plausible-analytics
-network_count: 0
+network_count: 1
 node_id: MDEwOlJlcG9zaXRvcnkyNTY3NTkzMjE=
 notifications_url: https://api.github.com/repos/leoloso/vuepress-plugin-plausible-analytics/notifications{?since,all,participating}
 open_issues: 0

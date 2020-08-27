@@ -56,8 +56,8 @@ name: vuepress-theme-hope-template
 network_count: 1
 node_id: MDEwOlJlcG9zaXRvcnkyNDE5MTc3OTU=
 notifications_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope-template/notifications{?since,all,participating}
-open_issues: 2
-open_issues_count: 2
+open_issues: 0
+open_issues_count: 0
 owner:
   avatar_url: https://avatars0.githubusercontent.com/u/33315834?v=4
   events_url: https://api.github.com/users/Mister-Hope/events{/privacy}
@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope-template/pulls{/number}
-pushed_at: '2020-07-07T10:43:21Z'
+pushed_at: '2020-08-25T03:03:21Z'
 releases_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope-template/releases{/id}
-size: 4443
+size: 4750
 ssh_url: git@github.com:Mister-Hope/vuepress-theme-hope-template.git
 stargazers_count: 3
 stargazers_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope-template/stargazers
@@ -98,7 +98,7 @@ tags_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope-template/
 teams_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope-template/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope-template/git/trees{/sha}
-updated_at: '2020-07-07T10:41:13Z'
+updated_at: '2020-08-25T03:01:50Z'
 url: https://api.github.com/repos/Mister-Hope/vuepress-theme-hope-template
 watchers: 3
 watchers_count: 3

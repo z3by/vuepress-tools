@@ -83,7 +83,7 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/spekulatius/vuepress-plugin-web-monetization/pulls{/number}
-pushed_at: '2020-06-12T10:04:36Z'
+pushed_at: '2020-08-19T16:35:36Z'
 releases_url: https://api.github.com/repos/spekulatius/vuepress-plugin-web-monetization/releases{/id}
 size: 2
 ssh_url: git@github.com:spekulatius/vuepress-plugin-web-monetization.git
@@ -98,7 +98,7 @@ tags_url: https://api.github.com/repos/spekulatius/vuepress-plugin-web-monetizat
 teams_url: https://api.github.com/repos/spekulatius/vuepress-plugin-web-monetization/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/spekulatius/vuepress-plugin-web-monetization/git/trees{/sha}
-updated_at: '2020-07-05T05:15:46Z'
+updated_at: '2020-08-19T16:35:38Z'
 url: https://api.github.com/repos/spekulatius/vuepress-plugin-web-monetization
 watchers: 2
 watchers_count: 2

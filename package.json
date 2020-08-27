@@ -34,7 +34,6 @@
     "vuepress-plugin-smooth-scroll": "0.0.9"
   },
   "dependencies": {
-    "vue-google-adsense": "^1.8.3",
     "vue-script2": "^2.1.0"
   }
 }

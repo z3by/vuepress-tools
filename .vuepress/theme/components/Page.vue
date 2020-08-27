@@ -1,10 +1,6 @@
 <template>
   <main class="page">
     <slot name="top" />
-    <InArticleAdsense
-      data-ad-client="ca-pub-8518970931701152"
-      data-ad-slot="3317068607"
-    />
     <Content class="theme-default-content fade-in" />
     <PageEdit />
 

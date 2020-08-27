@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/tolking/vuepress-theme-ououe/downloads
 events_url: https://api.github.com/repos/tolking/vuepress-theme-ououe/events
 fork: false
-forks: 12
-forks_count: 12
+forks: 13
+forks_count: 13
 forks_url: https://api.github.com/repos/tolking/vuepress-theme-ououe/forks
 full_name: tolking/vuepress-theme-ououe
 git_commits_url: https://api.github.com/repos/tolking/vuepress-theme-ououe/git/commits{/sha}
@@ -53,7 +53,7 @@ merges_url: https://api.github.com/repos/tolking/vuepress-theme-ououe/merges
 milestones_url: https://api.github.com/repos/tolking/vuepress-theme-ououe/milestones{/number}
 mirror_url: null
 name: vuepress-theme-ououe
-network_count: 12
+network_count: 13
 node_id: MDEwOlJlcG9zaXRvcnkxNzIxNzAyODk=
 notifications_url: https://api.github.com/repos/tolking/vuepress-theme-ououe/notifications{?since,all,participating}
 open_issues: 0
@@ -83,11 +83,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/tolking/vuepress-theme-ououe/pulls{/number}
-pushed_at: '2020-06-06T02:51:19Z'
+pushed_at: '2020-08-09T03:46:09Z'
 releases_url: https://api.github.com/repos/tolking/vuepress-theme-ououe/releases{/id}
-size: 869
+size: 978
 ssh_url: git@github.com:tolking/vuepress-theme-ououe.git
-stargazers_count: 55
+stargazers_count: 58
 stargazers_url: https://api.github.com/repos/tolking/vuepress-theme-ououe/stargazers
 statuses_url: https://api.github.com/repos/tolking/vuepress-theme-ououe/statuses/{sha}
 subscribers_count: 2
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/tolking/vuepress-theme-ououe/tags
 teams_url: https://api.github.com/repos/tolking/vuepress-theme-ououe/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/tolking/vuepress-theme-ououe/git/trees{/sha}
-updated_at: '2020-07-04T12:22:28Z'
+updated_at: '2020-08-25T04:36:08Z'
 url: https://api.github.com/repos/tolking/vuepress-theme-ououe
-watchers: 55
-watchers_count: 55
+watchers: 58
+watchers_count: 58
 ---
 
 # vuepress-theme-ououe
@@ -145,7 +145,3 @@ module.exports = {
 ## License
 
 [MIT](http://opensource.org/licenses/MIT)
-
-## Keywords
-
-vue vuepress blog blog-theme vuepress-theme light-theme dark-theme prefers-color-scheme

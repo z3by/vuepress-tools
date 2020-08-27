@@ -87,7 +87,7 @@ pushed_at: '2020-01-13T00:46:49Z'
 releases_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-disqus/releases{/id}
 size: 8
 ssh_url: git@github.com:lorisleiva/vuepress-plugin-disqus.git
-stargazers_count: 22
+stargazers_count: 23
 stargazers_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-disqus/stargazers
 statuses_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-disqus/statuses/{sha}
 subscribers_count: 1
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-disqus/tags
 teams_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-disqus/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-disqus/git/trees{/sha}
-updated_at: '2020-03-29T21:05:34Z'
+updated_at: '2020-08-23T01:19:38Z'
 url: https://api.github.com/repos/lorisleiva/vuepress-plugin-disqus
-watchers: 22
-watchers_count: 22
+watchers: 23
+watchers_count: 23
 ---
 
 # Vuepress Plugin Disqus

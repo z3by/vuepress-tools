@@ -14,7 +14,7 @@ contributors_url: https://api.github.com/repos/kisstar/vuepress-theme-extreme/co
 created_at: '2020-03-31T14:07:18Z'
 default_branch: master
 deployments_url: https://api.github.com/repos/kisstar/vuepress-theme-extreme/deployments
-description: Black and white, a brief and extreme VuePress theme
+description: Black and white, a brief and extreme VuePress theme.
 disabled: false
 downloads_url: https://api.github.com/repos/kisstar/vuepress-theme-extreme/downloads
 events_url: https://api.github.com/repos/kisstar/vuepress-theme-extreme/events
@@ -56,8 +56,8 @@ name: vuepress-theme-extreme
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyNTE2MjE1NjA=
 notifications_url: https://api.github.com/repos/kisstar/vuepress-theme-extreme/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
+open_issues: 1
+open_issues_count: 1
 owner:
   avatar_url: https://avatars0.githubusercontent.com/u/58550322?v=4
   events_url: https://api.github.com/users/kisstar/events{/privacy}
@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/kisstar/vuepress-theme-extreme/pulls{/number}
-pushed_at: '2020-05-30T08:01:17Z'
+pushed_at: '2020-07-13T22:48:24Z'
 releases_url: https://api.github.com/repos/kisstar/vuepress-theme-extreme/releases{/id}
-size: 1381
+size: 1561
 ssh_url: git@github.com:kisstar/vuepress-theme-extreme.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/kisstar/vuepress-theme-extreme/stargazers
@@ -98,7 +98,7 @@ tags_url: https://api.github.com/repos/kisstar/vuepress-theme-extreme/tags
 teams_url: https://api.github.com/repos/kisstar/vuepress-theme-extreme/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/kisstar/vuepress-theme-extreme/git/trees{/sha}
-updated_at: '2020-05-30T08:01:20Z'
+updated_at: '2020-08-02T02:01:12Z'
 url: https://api.github.com/repos/kisstar/vuepress-theme-extreme
 watchers: 0
 watchers_count: 0

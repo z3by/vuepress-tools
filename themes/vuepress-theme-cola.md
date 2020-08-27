@@ -85,7 +85,7 @@ ssh_url: git@github.com:cdswyda/vuepress-theme-cola.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/cdswyda/vuepress-theme-cola/stargazers
 statuses_url: https://api.github.com/repos/cdswyda/vuepress-theme-cola/statuses/{sha}
-subscribers_count: 1
+subscribers_count: 2
 subscribers_url: https://api.github.com/repos/cdswyda/vuepress-theme-cola/subscribers
 subscription_url: https://api.github.com/repos/cdswyda/vuepress-theme-cola/subscription
 svn_url: https://github.com/cdswyda/vuepress-theme-cola

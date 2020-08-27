@@ -102,9 +102,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/EasyHexo/vuepress-theme-macgs/pulls{/number}
-pushed_at: '2020-03-24T13:31:23Z'
+pushed_at: '2020-08-01T08:31:29Z'
 releases_url: https://api.github.com/repos/EasyHexo/vuepress-theme-macgs/releases{/id}
-size: 276
+size: 408
 ssh_url: git@github.com:EasyHexo/vuepress-theme-macgs.git
 stargazers_count: 13
 stargazers_url: https://api.github.com/repos/EasyHexo/vuepress-theme-macgs/stargazers
@@ -117,7 +117,7 @@ tags_url: https://api.github.com/repos/EasyHexo/vuepress-theme-macgs/tags
 teams_url: https://api.github.com/repos/EasyHexo/vuepress-theme-macgs/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/EasyHexo/vuepress-theme-macgs/git/trees{/sha}
-updated_at: '2020-05-09T04:13:15Z'
+updated_at: '2020-08-01T08:31:13Z'
 url: https://api.github.com/repos/EasyHexo/vuepress-theme-macgs
 watchers: 13
 watchers_count: 13

@@ -41,7 +41,7 @@ issue_events_url: https://api.github.com/repos/nine-theme/vuepress-plugin-back-t
 issues_url: https://api.github.com/repos/nine-theme/vuepress-plugin-back-to-top/issues{/number}
 keys_url: https://api.github.com/repos/nine-theme/vuepress-plugin-back-to-top/keys{/key_id}
 labels_url: https://api.github.com/repos/nine-theme/vuepress-plugin-back-to-top/labels{/name}
-language: JavaScript
+language: Vue
 languages_url: https://api.github.com/repos/nine-theme/vuepress-plugin-back-to-top/languages
 license:
   key: mit
@@ -102,9 +102,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/nine-theme/vuepress-plugin-back-to-top/pulls{/number}
-pushed_at: '2020-01-12T16:26:43Z'
+pushed_at: '2020-08-20T11:36:24Z'
 releases_url: https://api.github.com/repos/nine-theme/vuepress-plugin-back-to-top/releases{/id}
-size: 41
+size: 51
 ssh_url: git@github.com:nine-theme/vuepress-plugin-back-to-top.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/nine-theme/vuepress-plugin-back-to-top/stargazers
@@ -117,7 +117,7 @@ tags_url: https://api.github.com/repos/nine-theme/vuepress-plugin-back-to-top/ta
 teams_url: https://api.github.com/repos/nine-theme/vuepress-plugin-back-to-top/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/nine-theme/vuepress-plugin-back-to-top/git/trees{/sha}
-updated_at: '2020-04-27T01:41:45Z'
+updated_at: '2020-08-20T11:36:27Z'
 url: https://api.github.com/repos/nine-theme/vuepress-plugin-back-to-top
 watchers: 0
 watchers_count: 0

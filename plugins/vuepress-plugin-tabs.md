@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/superbiger/vuepress-plugin-tabs/downloads
 events_url: https://api.github.com/repos/superbiger/vuepress-plugin-tabs/events
 fork: false
-forks: 7
-forks_count: 7
+forks: 9
+forks_count: 9
 forks_url: https://api.github.com/repos/superbiger/vuepress-plugin-tabs/forks
 full_name: superbiger/vuepress-plugin-tabs
 git_commits_url: https://api.github.com/repos/superbiger/vuepress-plugin-tabs/git/commits{/sha}
@@ -53,11 +53,11 @@ merges_url: https://api.github.com/repos/superbiger/vuepress-plugin-tabs/merges
 milestones_url: https://api.github.com/repos/superbiger/vuepress-plugin-tabs/milestones{/number}
 mirror_url: null
 name: vuepress-plugin-tabs
-network_count: 7
+network_count: 9
 node_id: MDEwOlJlcG9zaXRvcnkxNzUzNjcyMDI=
 notifications_url: https://api.github.com/repos/superbiger/vuepress-plugin-tabs/notifications{?since,all,participating}
-open_issues: 5
-open_issues_count: 5
+open_issues: 7
+open_issues_count: 7
 owner:
   avatar_url: https://avatars2.githubusercontent.com/u/16386583?v=4
   events_url: https://api.github.com/users/superbiger/events{/privacy}
@@ -83,14 +83,14 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/superbiger/vuepress-plugin-tabs/pulls{/number}
-pushed_at: '2020-06-06T15:27:45Z'
+pushed_at: '2020-08-07T23:05:54Z'
 releases_url: https://api.github.com/repos/superbiger/vuepress-plugin-tabs/releases{/id}
-size: 2433
+size: 2974
 ssh_url: git@github.com:superbiger/vuepress-plugin-tabs.git
-stargazers_count: 18
+stargazers_count: 20
 stargazers_url: https://api.github.com/repos/superbiger/vuepress-plugin-tabs/stargazers
 statuses_url: https://api.github.com/repos/superbiger/vuepress-plugin-tabs/statuses/{sha}
-subscribers_count: 3
+subscribers_count: 2
 subscribers_url: https://api.github.com/repos/superbiger/vuepress-plugin-tabs/subscribers
 subscription_url: https://api.github.com/repos/superbiger/vuepress-plugin-tabs/subscription
 svn_url: https://github.com/superbiger/vuepress-plugin-tabs
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/superbiger/vuepress-plugin-tabs/tags
 teams_url: https://api.github.com/repos/superbiger/vuepress-plugin-tabs/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/superbiger/vuepress-plugin-tabs/git/trees{/sha}
-updated_at: '2020-06-29T14:43:22Z'
+updated_at: '2020-08-04T08:19:07Z'
 url: https://api.github.com/repos/superbiger/vuepress-plugin-tabs
-watchers: 18
-watchers_count: 18
+watchers: 20
+watchers_count: 20
 ---
 
 # [vuepress-plugin-element-tabs](https://superbiger.github.io/vuepress-plugin-tabs/)

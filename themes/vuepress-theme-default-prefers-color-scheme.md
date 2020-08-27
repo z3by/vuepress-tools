@@ -83,11 +83,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/tolking/vuepress-theme-default-prefers-color-scheme/pulls{/number}
-pushed_at: '2020-05-24T03:59:11Z'
+pushed_at: '2020-07-19T03:35:07Z'
 releases_url: https://api.github.com/repos/tolking/vuepress-theme-default-prefers-color-scheme/releases{/id}
-size: 911
+size: 982
 ssh_url: git@github.com:tolking/vuepress-theme-default-prefers-color-scheme.git
-stargazers_count: 30
+stargazers_count: 34
 stargazers_url: https://api.github.com/repos/tolking/vuepress-theme-default-prefers-color-scheme/stargazers
 statuses_url: https://api.github.com/repos/tolking/vuepress-theme-default-prefers-color-scheme/statuses/{sha}
 subscribers_count: 3
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/tolking/vuepress-theme-default-prefers-co
 teams_url: https://api.github.com/repos/tolking/vuepress-theme-default-prefers-color-scheme/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/tolking/vuepress-theme-default-prefers-color-scheme/git/trees{/sha}
-updated_at: '2020-07-07T08:41:34Z'
+updated_at: '2020-08-12T06:48:00Z'
 url: https://api.github.com/repos/tolking/vuepress-theme-default-prefers-color-scheme
-watchers: 30
-watchers_count: 30
+watchers: 34
+watchers_count: 34
 ---
 
 # vuepress-theme-default-prefers-color-scheme
@@ -161,18 +161,11 @@ module.exports = {
     defaultTheme: { dark: [18, 6] },
     // or
     defaultTheme: { light: [6, 18], dark: [18, 6] },
-  },
-  // When using `light theme` or `dark theme`, you need to add a postcss plugins to your config.js
-  postcss: {
-    plugins: [
-      require('css-prefers-color-scheme/postcss'),
-      require('autoprefixer')
-    ]
   }
 }
 ```
 
-[Theme Config](https://v1.vuepress.vuejs.org/theme/default-theme-config.html)
+[Theme Config](https://vuepress.vuejs.org/theme/default-theme-config.html)
 
 ## Styling
 
@@ -183,7 +176,3 @@ To apply simple color overrides to the styling of the [default preset](https://g
 ## License
 
 [MIT](http://opensource.org/licenses/MIT)
-
-## Keywords
-
-vue vuepress documentation prefers-color-scheme default-theme light-theme dark-theme
