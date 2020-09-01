@@ -9,8 +9,8 @@
   },
   "repository": "z3by/vuepress-tools",
   "scripts": {
-    "dev": "vuepress dev",
-    "build": "node --max-old-space-size=8192 node_modules/vuepress/cli.js build"
+    "dev": "vuepress dev packages",
+    "build": "node --max-old-space-size=8192 node_modules/vuepress/cli.js build packages"
   },
   "license": "MIT",
   "devDependencies": {
@@ -32,8 +32,5 @@
     "vuepress-plugin-seo": "^0.1.2",
     "vuepress-plugin-sitemap": "^2.3.1",
     "vuepress-plugin-smooth-scroll": "0.0.9"
-  },
-  "dependencies": {
-    "vue-script2": "^2.1.0"
   }
 }

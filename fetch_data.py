@@ -12,15 +12,15 @@ github = Github(GITHUB_TOKEN)
 
 
 def main():
-    [os.remove('plugins/' + page)
-     for page in os.listdir('plugins') if page != 'README.md']
-    [os.remove('themes/' + page)
-     for page in os.listdir('themes') if page != 'README.md']
+    [os.remove('packages/plugins/' + page)
+     for page in os.listdir('packages/plugins') if page != 'README.md']
+    [os.remove('packages/themes/' + page)
+     for page in os.listdir('packages/themes') if page != 'README.md']
     print('Removed all current themes and plugins')
     plugins = fetch('vuepress-plugin')
     themes = fetch('vuepress-theme')
-    render(plugins, 'plugins', allowed_patterns=[r'*vuepress-plugin-*'])
-    render(themes, 'themes', allowed_patterns=[r'*vuepress-theme-*'])
+    render(plugins, 'packages/plugins', allowed_patterns=[r'*vuepress-plugin-*'])
+    render(themes, 'packages/themes', allowed_patterns=[r'*vuepress-theme-*'])
 
 
 def render(repos, folder, allowed_patterns=[]):

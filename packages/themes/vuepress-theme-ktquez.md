@@ -118,18 +118,33 @@ https://github.com/ktquez/vuepress-theme-ktquez-starter
 ---
 
 ## Table of Contents
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [Translations](#translations-of-the-theme)
-- [Newsletter](#newsletter)
-- [Responsive images](#responsive-post-cover)
-- [Structure](#structure-directores-suggestion)
+- [vuepress-theme-ktquez](#vuepress-theme-ktquez)
+  - [Vuepress theme ktquez starter](#vuepress-theme-ktquez-starter)
+  - [Table of Contents](#table-of-contents)
+  - [Installation](#installation)
+  - [Configuration](#configuration)
+    - [themeConfig](#themeconfig)
+  - [Translations of the theme](#translations-of-the-theme)
+  - [Newsletter](#newsletter)
+  - [Responsive post cover](#responsive-post-cover)
+- [Structure directores (Suggestion)](#structure-directores-suggestion)
 - [Frontmatter](#frontmatter)
-- [Override CSS](#override-css-stylus)
-- [Accessibility](#the-best-pratice-of-accessibility-includes)
-- [Lazy-Load](#lazy-load)
+  - [Home](#home)
+  - [Post](#post)
+  - [Category](#category)
+  - [Author](#author)
+  - [Page](#page)
+- [Override CSS (Stylus)](#override-css-stylus)
+- [The best pratice of accessibility includes](#the-best-pratice-of-accessibility-includes)
+- [Lazy-load](#lazy-load)
 - [And more](#and-more)
-- [Tools](#tools)
+  - [Anaytics campaign in posts](#anaytics-campaign-in-posts)
+  - [Fonts](#fonts)
+  - [Assets](#assets)
+  - [Ads](#ads)
+  - [Tools](#tools)
+  - [License](#license)
+  - [Contributing](#contributing)
 
 
 ## Installation
@@ -517,7 +532,7 @@ In addition to good practices such as:
 
 # Lazy-load
 
-It is possible to delay media loading using the global component <lazy-load>.
+It is possible to delay media loading using the global component \<lazy-load\>.
 
 In any markdown files you can to use this component, for example load a Youtube video
 

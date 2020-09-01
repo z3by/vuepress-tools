@@ -1,5 +1,5 @@
 const fs = require("fs");
-const { description } = require("../package");
+const { description } = require("../../package");
 
 const themesSidebar = fs
   .readdirSync(`${__dirname}/../themes/`)
@@ -72,7 +72,7 @@ module.exports = {
       },
     ],
     ['script', {},
-      '(adsbygoogle = window.adsbygoogle || []).push({  google_ad_client: <your code here>,  enable_page_level_ads: true });'],
+      '(adsbygoogle = window.adsbygoogle || []).push({  google_ad_client: "ca-pub-8518970931701152",  enable_page_level_ads: true });'],
   ],
 
   /**
