@@ -1,124 +1,124 @@
 ---
-archive_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-html-redirect/{archive_format}{/ref}
+archive_url: https://api.github.com/repos/vuepress/vuepress-plugin-html-redirect/{archive_format}{/ref}
 archived: false
-assignees_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-html-redirect/assignees{/user}
-blobs_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-html-redirect/git/blobs{/sha}
-branches_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-html-redirect/branches{/branch}
-clone_url: https://github.com/vuepressjs/vuepress-plugin-html-redirect.git
-collaborators_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-html-redirect/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-html-redirect/comments{/number}
-commits_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-html-redirect/commits{/sha}
-compare_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-html-redirect/compare/{base}...{head}
-contents_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-html-redirect/contents/{+path}
-contributors_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-html-redirect/contributors
+assignees_url: https://api.github.com/repos/vuepress/vuepress-plugin-html-redirect/assignees{/user}
+blobs_url: https://api.github.com/repos/vuepress/vuepress-plugin-html-redirect/git/blobs{/sha}
+branches_url: https://api.github.com/repos/vuepress/vuepress-plugin-html-redirect/branches{/branch}
+clone_url: https://github.com/vuepress/vuepress-plugin-html-redirect.git
+collaborators_url: https://api.github.com/repos/vuepress/vuepress-plugin-html-redirect/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/vuepress/vuepress-plugin-html-redirect/comments{/number}
+commits_url: https://api.github.com/repos/vuepress/vuepress-plugin-html-redirect/commits{/sha}
+compare_url: https://api.github.com/repos/vuepress/vuepress-plugin-html-redirect/compare/{base}...{head}
+contents_url: https://api.github.com/repos/vuepress/vuepress-plugin-html-redirect/contents/{+path}
+contributors_url: https://api.github.com/repos/vuepress/vuepress-plugin-html-redirect/contributors
 created_at: '2020-03-28T11:39:31Z'
 default_branch: master
-deployments_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-html-redirect/deployments
+deployments_url: https://api.github.com/repos/vuepress/vuepress-plugin-html-redirect/deployments
 description: 'A VuePress plugin to handle "redirection" with HTML. '
 disabled: false
-downloads_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-html-redirect/downloads
-events_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-html-redirect/events
+downloads_url: https://api.github.com/repos/vuepress/vuepress-plugin-html-redirect/downloads
+events_url: https://api.github.com/repos/vuepress/vuepress-plugin-html-redirect/events
 fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-html-redirect/forks
-full_name: vuepressjs/vuepress-plugin-html-redirect
-git_commits_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-html-redirect/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-html-redirect/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-html-redirect/git/tags{/sha}
-git_url: git://github.com/vuepressjs/vuepress-plugin-html-redirect.git
+forks: 2
+forks_count: 2
+forks_url: https://api.github.com/repos/vuepress/vuepress-plugin-html-redirect/forks
+full_name: vuepress/vuepress-plugin-html-redirect
+git_commits_url: https://api.github.com/repos/vuepress/vuepress-plugin-html-redirect/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/vuepress/vuepress-plugin-html-redirect/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/vuepress/vuepress-plugin-html-redirect/git/tags{/sha}
+git_url: git://github.com/vuepress/vuepress-plugin-html-redirect.git
 has_downloads: true
 has_issues: true
 has_pages: false
 has_projects: true
 has_wiki: true
 homepage: null
-hooks_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-html-redirect/hooks
-html_url: https://github.com/vuepressjs/vuepress-plugin-html-redirect
+hooks_url: https://api.github.com/repos/vuepress/vuepress-plugin-html-redirect/hooks
+html_url: https://github.com/vuepress/vuepress-plugin-html-redirect
 id: 250779496
-issue_comment_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-html-redirect/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-html-redirect/issues/events{/number}
-issues_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-html-redirect/issues{/number}
-keys_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-html-redirect/keys{/key_id}
-labels_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-html-redirect/labels{/name}
+issue_comment_url: https://api.github.com/repos/vuepress/vuepress-plugin-html-redirect/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/vuepress/vuepress-plugin-html-redirect/issues/events{/number}
+issues_url: https://api.github.com/repos/vuepress/vuepress-plugin-html-redirect/issues{/number}
+keys_url: https://api.github.com/repos/vuepress/vuepress-plugin-html-redirect/keys{/key_id}
+labels_url: https://api.github.com/repos/vuepress/vuepress-plugin-html-redirect/labels{/name}
 language: JavaScript
-languages_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-html-redirect/languages
+languages_url: https://api.github.com/repos/vuepress/vuepress-plugin-html-redirect/languages
 license:
   key: mit
   name: MIT License
   node_id: MDc6TGljZW5zZTEz
   spdx_id: MIT
   url: https://api.github.com/licenses/mit
-merges_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-html-redirect/merges
-milestones_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-html-redirect/milestones{/number}
+merges_url: https://api.github.com/repos/vuepress/vuepress-plugin-html-redirect/merges
+milestones_url: https://api.github.com/repos/vuepress/vuepress-plugin-html-redirect/milestones{/number}
 mirror_url: null
 name: vuepress-plugin-html-redirect
-network_count: 0
+network_count: 2
 node_id: MDEwOlJlcG9zaXRvcnkyNTA3Nzk0OTY=
-notifications_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-html-redirect/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
+notifications_url: https://api.github.com/repos/vuepress/vuepress-plugin-html-redirect/notifications{?since,all,participating}
+open_issues: 1
+open_issues_count: 1
 organization:
-  avatar_url: https://avatars2.githubusercontent.com/u/56227407?v=4
-  events_url: https://api.github.com/users/vuepressjs/events{/privacy}
-  followers_url: https://api.github.com/users/vuepressjs/followers
-  following_url: https://api.github.com/users/vuepressjs/following{/other_user}
-  gists_url: https://api.github.com/users/vuepressjs/gists{/gist_id}
+  avatar_url: https://avatars.githubusercontent.com/u/48539483?v=4
+  events_url: https://api.github.com/users/vuepress/events{/privacy}
+  followers_url: https://api.github.com/users/vuepress/followers
+  following_url: https://api.github.com/users/vuepress/following{/other_user}
+  gists_url: https://api.github.com/users/vuepress/gists{/gist_id}
   gravatar_id: ''
-  html_url: https://github.com/vuepressjs
-  id: 56227407
-  login: vuepressjs
-  node_id: MDEyOk9yZ2FuaXphdGlvbjU2MjI3NDA3
-  organizations_url: https://api.github.com/users/vuepressjs/orgs
-  received_events_url: https://api.github.com/users/vuepressjs/received_events
-  repos_url: https://api.github.com/users/vuepressjs/repos
+  html_url: https://github.com/vuepress
+  id: 48539483
+  login: vuepress
+  node_id: MDEyOk9yZ2FuaXphdGlvbjQ4NTM5NDgz
+  organizations_url: https://api.github.com/users/vuepress/orgs
+  received_events_url: https://api.github.com/users/vuepress/received_events
+  repos_url: https://api.github.com/users/vuepress/repos
   site_admin: false
-  starred_url: https://api.github.com/users/vuepressjs/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/vuepressjs/subscriptions
+  starred_url: https://api.github.com/users/vuepress/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/vuepress/subscriptions
   type: Organization
-  url: https://api.github.com/users/vuepressjs
+  url: https://api.github.com/users/vuepress
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/56227407?v=4
-  events_url: https://api.github.com/users/vuepressjs/events{/privacy}
-  followers_url: https://api.github.com/users/vuepressjs/followers
-  following_url: https://api.github.com/users/vuepressjs/following{/other_user}
-  gists_url: https://api.github.com/users/vuepressjs/gists{/gist_id}
+  avatar_url: https://avatars.githubusercontent.com/u/48539483?v=4
+  events_url: https://api.github.com/users/vuepress/events{/privacy}
+  followers_url: https://api.github.com/users/vuepress/followers
+  following_url: https://api.github.com/users/vuepress/following{/other_user}
+  gists_url: https://api.github.com/users/vuepress/gists{/gist_id}
   gravatar_id: ''
-  html_url: https://github.com/vuepressjs
-  id: 56227407
-  login: vuepressjs
-  node_id: MDEyOk9yZ2FuaXphdGlvbjU2MjI3NDA3
-  organizations_url: https://api.github.com/users/vuepressjs/orgs
-  received_events_url: https://api.github.com/users/vuepressjs/received_events
-  repos_url: https://api.github.com/users/vuepressjs/repos
+  html_url: https://github.com/vuepress
+  id: 48539483
+  login: vuepress
+  node_id: MDEyOk9yZ2FuaXphdGlvbjQ4NTM5NDgz
+  organizations_url: https://api.github.com/users/vuepress/orgs
+  received_events_url: https://api.github.com/users/vuepress/received_events
+  repos_url: https://api.github.com/users/vuepress/repos
   site_admin: false
-  starred_url: https://api.github.com/users/vuepressjs/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/vuepressjs/subscriptions
+  starred_url: https://api.github.com/users/vuepress/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/vuepress/subscriptions
   type: Organization
-  url: https://api.github.com/users/vuepressjs
+  url: https://api.github.com/users/vuepress
 permissions:
   admin: false
   pull: true
   push: false
 private: false
-pulls_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-html-redirect/pulls{/number}
+pulls_url: https://api.github.com/repos/vuepress/vuepress-plugin-html-redirect/pulls{/number}
 pushed_at: '2020-03-28T16:09:04Z'
-releases_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-html-redirect/releases{/id}
+releases_url: https://api.github.com/repos/vuepress/vuepress-plugin-html-redirect/releases{/id}
 size: 15
-ssh_url: git@github.com:vuepressjs/vuepress-plugin-html-redirect.git
+ssh_url: git@github.com:vuepress/vuepress-plugin-html-redirect.git
 stargazers_count: 3
-stargazers_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-html-redirect/stargazers
-statuses_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-html-redirect/statuses/{sha}
+stargazers_url: https://api.github.com/repos/vuepress/vuepress-plugin-html-redirect/stargazers
+statuses_url: https://api.github.com/repos/vuepress/vuepress-plugin-html-redirect/statuses/{sha}
 subscribers_count: 1
-subscribers_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-html-redirect/subscribers
-subscription_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-html-redirect/subscription
-svn_url: https://github.com/vuepressjs/vuepress-plugin-html-redirect
-tags_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-html-redirect/tags
-teams_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-html-redirect/teams
+subscribers_url: https://api.github.com/repos/vuepress/vuepress-plugin-html-redirect/subscribers
+subscription_url: https://api.github.com/repos/vuepress/vuepress-plugin-html-redirect/subscription
+svn_url: https://github.com/vuepress/vuepress-plugin-html-redirect
+tags_url: https://api.github.com/repos/vuepress/vuepress-plugin-html-redirect/tags
+teams_url: https://api.github.com/repos/vuepress/vuepress-plugin-html-redirect/teams
 temp_clone_token: ''
-trees_url: https://api.github.com/repos/vuepressjs/vuepress-plugin-html-redirect/git/trees{/sha}
-updated_at: '2020-07-07T21:18:34Z'
-url: https://api.github.com/repos/vuepressjs/vuepress-plugin-html-redirect
+trees_url: https://api.github.com/repos/vuepress/vuepress-plugin-html-redirect/git/trees{/sha}
+updated_at: '2020-10-14T16:12:54Z'
+url: https://api.github.com/repos/vuepress/vuepress-plugin-html-redirect
 watchers: 3
 watchers_count: 3
 ---

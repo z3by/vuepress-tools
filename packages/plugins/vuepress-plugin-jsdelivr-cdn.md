@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/gezihuzi/vuepress-plugin-jsdelivr-cdn/downloads
 events_url: https://api.github.com/repos/gezihuzi/vuepress-plugin-jsdelivr-cdn/events
 fork: false
-forks: 0
-forks_count: 0
+forks: 1
+forks_count: 1
 forks_url: https://api.github.com/repos/gezihuzi/vuepress-plugin-jsdelivr-cdn/forks
 full_name: gezihuzi/vuepress-plugin-jsdelivr-cdn
 git_commits_url: https://api.github.com/repos/gezihuzi/vuepress-plugin-jsdelivr-cdn/git/commits{/sha}
@@ -53,13 +53,13 @@ merges_url: https://api.github.com/repos/gezihuzi/vuepress-plugin-jsdelivr-cdn/m
 milestones_url: https://api.github.com/repos/gezihuzi/vuepress-plugin-jsdelivr-cdn/milestones{/number}
 mirror_url: null
 name: vuepress-plugin-jsdelivr-cdn
-network_count: 0
+network_count: 1
 node_id: MDEwOlJlcG9zaXRvcnkyNjE5MzQ5MjU=
 notifications_url: https://api.github.com/repos/gezihuzi/vuepress-plugin-jsdelivr-cdn/notifications{?since,all,participating}
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars3.githubusercontent.com/u/12797966?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/12797966?v=4
   events_url: https://api.github.com/users/gezihuzi/events{/privacy}
   followers_url: https://api.github.com/users/gezihuzi/followers
   following_url: https://api.github.com/users/gezihuzi/following{/other_user}

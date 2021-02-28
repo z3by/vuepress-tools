@@ -56,10 +56,10 @@ name: vuepress-plugin-data
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyNjAzMjI4NDI=
 notifications_url: https://api.github.com/repos/psalaets/vuepress-plugin-data/notifications{?since,all,participating}
-open_issues: 3
-open_issues_count: 3
+open_issues: 1
+open_issues_count: 1
 owner:
-  avatar_url: https://avatars0.githubusercontent.com/u/123952?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/123952?v=4
   events_url: https://api.github.com/users/psalaets/events{/privacy}
   followers_url: https://api.github.com/users/psalaets/followers
   following_url: https://api.github.com/users/psalaets/following{/other_user}
@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/psalaets/vuepress-plugin-data/pulls{/number}
-pushed_at: '2020-08-08T00:15:52Z'
+pushed_at: '2020-12-12T15:59:38Z'
 releases_url: https://api.github.com/repos/psalaets/vuepress-plugin-data/releases{/id}
-size: 1071
+size: 1760
 ssh_url: git@github.com:psalaets/vuepress-plugin-data.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/psalaets/vuepress-plugin-data/stargazers
@@ -98,7 +98,7 @@ tags_url: https://api.github.com/repos/psalaets/vuepress-plugin-data/tags
 teams_url: https://api.github.com/repos/psalaets/vuepress-plugin-data/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/psalaets/vuepress-plugin-data/git/trees{/sha}
-updated_at: '2020-06-16T00:35:44Z'
+updated_at: '2020-09-11T23:16:03Z'
 url: https://api.github.com/repos/psalaets/vuepress-plugin-data
 watchers: 0
 watchers_count: 0

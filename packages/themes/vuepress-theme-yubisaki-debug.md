@@ -54,7 +54,7 @@ notifications_url: https://api.github.com/repos/liulinboyi/vuepress-theme-yubisa
 open_issues: 1
 open_issues_count: 1
 owner:
-  avatar_url: https://avatars1.githubusercontent.com/u/41336612?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/41336612?v=4
   events_url: https://api.github.com/users/liulinboyi/events{/privacy}
   followers_url: https://api.github.com/users/liulinboyi/followers
   following_url: https://api.github.com/users/liulinboyi/following{/other_user}

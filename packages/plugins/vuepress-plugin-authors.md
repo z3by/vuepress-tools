@@ -63,7 +63,7 @@ notifications_url: https://api.github.com/repos/z3by/vuepress-plugin-authors/not
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars1.githubusercontent.com/u/36268825?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/36268825?v=4
   events_url: https://api.github.com/users/z3by/events{/privacy}
   followers_url: https://api.github.com/users/z3by/followers
   following_url: https://api.github.com/users/z3by/following{/other_user}
@@ -91,7 +91,7 @@ pushed_at: '2019-12-18T20:28:54Z'
 releases_url: https://api.github.com/repos/z3by/vuepress-plugin-authors/releases{/id}
 size: 122
 ssh_url: git@github.com:z3by/vuepress-plugin-authors.git
-stargazers_count: 2
+stargazers_count: 3
 stargazers_url: https://api.github.com/repos/z3by/vuepress-plugin-authors/stargazers
 statuses_url: https://api.github.com/repos/z3by/vuepress-plugin-authors/statuses/{sha}
 subscribers_count: 1
@@ -102,10 +102,10 @@ tags_url: https://api.github.com/repos/z3by/vuepress-plugin-authors/tags
 teams_url: https://api.github.com/repos/z3by/vuepress-plugin-authors/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/z3by/vuepress-plugin-authors/git/trees{/sha}
-updated_at: '2020-04-20T22:45:31Z'
+updated_at: '2021-02-08T21:45:24Z'
 url: https://api.github.com/repos/z3by/vuepress-plugin-authors
-watchers: 2
-watchers_count: 2
+watchers: 3
+watchers_count: 3
 ---
 
 # vuepress-plugin-authors

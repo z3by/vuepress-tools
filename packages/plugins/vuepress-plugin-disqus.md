@@ -12,7 +12,7 @@ compare_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-disqus/comp
 contents_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-disqus/contents/{+path}
 contributors_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-disqus/contributors
 created_at: '2019-02-04T18:15:40Z'
-default_branch: master
+default_branch: main
 deployments_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-disqus/deployments
 description: "\U0001F50C Register a global Disqus component to add to your layouts"
 disabled: false
@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-disqu
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars1.githubusercontent.com/u/3642397?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/3642397?v=4
   events_url: https://api.github.com/users/lorisleiva/events{/privacy}
   followers_url: https://api.github.com/users/lorisleiva/followers
   following_url: https://api.github.com/users/lorisleiva/following{/other_user}
@@ -83,11 +83,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-disqus/pulls{/number}
-pushed_at: '2020-01-13T00:46:49Z'
+pushed_at: '2020-12-03T11:54:03Z'
 releases_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-disqus/releases{/id}
 size: 8
 ssh_url: git@github.com:lorisleiva/vuepress-plugin-disqus.git
-stargazers_count: 23
+stargazers_count: 27
 stargazers_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-disqus/stargazers
 statuses_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-disqus/statuses/{sha}
 subscribers_count: 1
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-disqus/tags
 teams_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-disqus/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-disqus/git/trees{/sha}
-updated_at: '2020-08-23T01:19:38Z'
+updated_at: '2021-02-08T22:24:38Z'
 url: https://api.github.com/repos/lorisleiva/vuepress-plugin-disqus
-watchers: 23
-watchers_count: 23
+watchers: 27
+watchers_count: 27
 ---
 
 # Vuepress Plugin Disqus

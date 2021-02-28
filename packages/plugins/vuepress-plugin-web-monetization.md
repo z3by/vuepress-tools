@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/spekulatius/vuepress-plugin-web-
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars0.githubusercontent.com/u/8433587?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/8433587?v=4
   events_url: https://api.github.com/users/spekulatius/events{/privacy}
   followers_url: https://api.github.com/users/spekulatius/followers
   following_url: https://api.github.com/users/spekulatius/following{/other_user}
@@ -83,11 +83,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/spekulatius/vuepress-plugin-web-monetization/pulls{/number}
-pushed_at: '2020-08-19T16:35:36Z'
+pushed_at: '2021-01-19T10:14:14Z'
 releases_url: https://api.github.com/repos/spekulatius/vuepress-plugin-web-monetization/releases{/id}
-size: 2
+size: 5
 ssh_url: git@github.com:spekulatius/vuepress-plugin-web-monetization.git
-stargazers_count: 2
+stargazers_count: 7
 stargazers_url: https://api.github.com/repos/spekulatius/vuepress-plugin-web-monetization/stargazers
 statuses_url: https://api.github.com/repos/spekulatius/vuepress-plugin-web-monetization/statuses/{sha}
 subscribers_count: 1
@@ -98,21 +98,27 @@ tags_url: https://api.github.com/repos/spekulatius/vuepress-plugin-web-monetizat
 teams_url: https://api.github.com/repos/spekulatius/vuepress-plugin-web-monetization/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/spekulatius/vuepress-plugin-web-monetization/git/trees{/sha}
-updated_at: '2020-08-19T16:35:38Z'
+updated_at: '2021-01-19T10:14:12Z'
 url: https://api.github.com/repos/spekulatius/vuepress-plugin-web-monetization
-watchers: 2
-watchers_count: 2
+watchers: 7
+watchers_count: 7
 ---
 
-# Vuepress Plugin Web-Monetization
+# VuePress Plugin Web-Monetization
 
-Adds a web-monetization meta tag to your VuePress website. This allows you to monetize your content using the [web-monetization standard](https://webmonetization.org/).
+Adds a web-monetization meta tag to your [VuePress](https://github.com/vuejs/vuepress) website. This allows you to monetize your content using the [web-monetization standard](https://webmonetization.org/).
+
 
 ## Installation
 
 ```bash
-npm i vuepress-plugin-web-monetization
+npm install vuepress-plugin-web-monetization
+
+# or
+
+yarn add vuepress-plugin-web-monetization
 ```
+
 
 ## Usage
 
@@ -134,6 +140,12 @@ monetization: "$ilp.uphold.com/DrRw6MnEEqBB"
 ---
 ```
 
+
+## Privacy-friendly tracking for VuePress?
+
+If you value privacy, you might like this [VuePress plugin for Umami](https://github.com/spekulatius/vuepress-plugin-umami).
+
+
 ## License
 
-This package is release under the MIT license by [Peter Thaleikis](https://peterthaleikis.com).
+This package is released under the MIT license by [Peter Thaleikis](https://peterthaleikis.com).

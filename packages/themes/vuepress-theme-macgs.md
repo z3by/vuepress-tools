@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/EasyHexo/vuepress-theme-macgs/no
 open_issues: 0
 open_issues_count: 0
 organization:
-  avatar_url: https://avatars1.githubusercontent.com/u/44290508?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/44290508?v=4
   events_url: https://api.github.com/users/EasyHexo/events{/privacy}
   followers_url: https://api.github.com/users/EasyHexo/followers
   following_url: https://api.github.com/users/EasyHexo/following{/other_user}
@@ -78,7 +78,7 @@ organization:
   type: Organization
   url: https://api.github.com/users/EasyHexo
 owner:
-  avatar_url: https://avatars1.githubusercontent.com/u/44290508?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/44290508?v=4
   events_url: https://api.github.com/users/EasyHexo/events{/privacy}
   followers_url: https://api.github.com/users/EasyHexo/followers
   following_url: https://api.github.com/users/EasyHexo/following{/other_user}
@@ -106,7 +106,7 @@ pushed_at: '2020-08-01T08:31:29Z'
 releases_url: https://api.github.com/repos/EasyHexo/vuepress-theme-macgs/releases{/id}
 size: 408
 ssh_url: git@github.com:EasyHexo/vuepress-theme-macgs.git
-stargazers_count: 13
+stargazers_count: 14
 stargazers_url: https://api.github.com/repos/EasyHexo/vuepress-theme-macgs/stargazers
 statuses_url: https://api.github.com/repos/EasyHexo/vuepress-theme-macgs/statuses/{sha}
 subscribers_count: 1
@@ -117,10 +117,10 @@ tags_url: https://api.github.com/repos/EasyHexo/vuepress-theme-macgs/tags
 teams_url: https://api.github.com/repos/EasyHexo/vuepress-theme-macgs/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/EasyHexo/vuepress-theme-macgs/git/trees{/sha}
-updated_at: '2020-08-01T08:31:13Z'
+updated_at: '2020-12-19T05:37:36Z'
 url: https://api.github.com/repos/EasyHexo/vuepress-theme-macgs
-watchers: 13
-watchers_count: 13
+watchers: 14
+watchers_count: 14
 ---
 
 <div align="right">Language: :us:

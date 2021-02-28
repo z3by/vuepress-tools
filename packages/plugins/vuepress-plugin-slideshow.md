@@ -54,7 +54,7 @@ notifications_url: https://api.github.com/repos/padarom/vuepress-plugin-slidesho
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars3.githubusercontent.com/u/3678770?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/3678770?v=4
   events_url: https://api.github.com/users/padarom/events{/privacy}
   followers_url: https://api.github.com/users/padarom/followers
   following_url: https://api.github.com/users/padarom/following{/other_user}

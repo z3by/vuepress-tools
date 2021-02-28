@@ -1,0 +1,101 @@
+---
+archive_url: https://api.github.com/repos/sillevl/vuepress-plugin-browserframe/{archive_format}{/ref}
+archived: false
+assignees_url: https://api.github.com/repos/sillevl/vuepress-plugin-browserframe/assignees{/user}
+blobs_url: https://api.github.com/repos/sillevl/vuepress-plugin-browserframe/git/blobs{/sha}
+branches_url: https://api.github.com/repos/sillevl/vuepress-plugin-browserframe/branches{/branch}
+clone_url: https://github.com/sillevl/vuepress-plugin-browserframe.git
+collaborators_url: https://api.github.com/repos/sillevl/vuepress-plugin-browserframe/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/sillevl/vuepress-plugin-browserframe/comments{/number}
+commits_url: https://api.github.com/repos/sillevl/vuepress-plugin-browserframe/commits{/sha}
+compare_url: https://api.github.com/repos/sillevl/vuepress-plugin-browserframe/compare/{base}...{head}
+contents_url: https://api.github.com/repos/sillevl/vuepress-plugin-browserframe/contents/{+path}
+contributors_url: https://api.github.com/repos/sillevl/vuepress-plugin-browserframe/contributors
+created_at: '2020-10-27T11:50:12Z'
+default_branch: master
+deployments_url: https://api.github.com/repos/sillevl/vuepress-plugin-browserframe/deployments
+description: null
+disabled: false
+downloads_url: https://api.github.com/repos/sillevl/vuepress-plugin-browserframe/downloads
+events_url: https://api.github.com/repos/sillevl/vuepress-plugin-browserframe/events
+fork: false
+forks: 0
+forks_count: 0
+forks_url: https://api.github.com/repos/sillevl/vuepress-plugin-browserframe/forks
+full_name: sillevl/vuepress-plugin-browserframe
+git_commits_url: https://api.github.com/repos/sillevl/vuepress-plugin-browserframe/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/sillevl/vuepress-plugin-browserframe/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/sillevl/vuepress-plugin-browserframe/git/tags{/sha}
+git_url: git://github.com/sillevl/vuepress-plugin-browserframe.git
+has_downloads: true
+has_issues: true
+has_pages: false
+has_projects: true
+has_wiki: true
+homepage: null
+hooks_url: https://api.github.com/repos/sillevl/vuepress-plugin-browserframe/hooks
+html_url: https://github.com/sillevl/vuepress-plugin-browserframe
+id: 307683017
+issue_comment_url: https://api.github.com/repos/sillevl/vuepress-plugin-browserframe/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/sillevl/vuepress-plugin-browserframe/issues/events{/number}
+issues_url: https://api.github.com/repos/sillevl/vuepress-plugin-browserframe/issues{/number}
+keys_url: https://api.github.com/repos/sillevl/vuepress-plugin-browserframe/keys{/key_id}
+labels_url: https://api.github.com/repos/sillevl/vuepress-plugin-browserframe/labels{/name}
+language: CSS
+languages_url: https://api.github.com/repos/sillevl/vuepress-plugin-browserframe/languages
+license: null
+merges_url: https://api.github.com/repos/sillevl/vuepress-plugin-browserframe/merges
+milestones_url: https://api.github.com/repos/sillevl/vuepress-plugin-browserframe/milestones{/number}
+mirror_url: null
+name: vuepress-plugin-browserframe
+network_count: 0
+node_id: MDEwOlJlcG9zaXRvcnkzMDc2ODMwMTc=
+notifications_url: https://api.github.com/repos/sillevl/vuepress-plugin-browserframe/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
+owner:
+  avatar_url: https://avatars.githubusercontent.com/u/979071?v=4
+  events_url: https://api.github.com/users/sillevl/events{/privacy}
+  followers_url: https://api.github.com/users/sillevl/followers
+  following_url: https://api.github.com/users/sillevl/following{/other_user}
+  gists_url: https://api.github.com/users/sillevl/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/sillevl
+  id: 979071
+  login: sillevl
+  node_id: MDQ6VXNlcjk3OTA3MQ==
+  organizations_url: https://api.github.com/users/sillevl/orgs
+  received_events_url: https://api.github.com/users/sillevl/received_events
+  repos_url: https://api.github.com/users/sillevl/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/sillevl/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/sillevl/subscriptions
+  type: User
+  url: https://api.github.com/users/sillevl
+permissions:
+  admin: false
+  pull: true
+  push: false
+private: false
+pulls_url: https://api.github.com/repos/sillevl/vuepress-plugin-browserframe/pulls{/number}
+pushed_at: '2020-10-27T11:53:52Z'
+releases_url: https://api.github.com/repos/sillevl/vuepress-plugin-browserframe/releases{/id}
+size: 2
+ssh_url: git@github.com:sillevl/vuepress-plugin-browserframe.git
+stargazers_count: 0
+stargazers_url: https://api.github.com/repos/sillevl/vuepress-plugin-browserframe/stargazers
+statuses_url: https://api.github.com/repos/sillevl/vuepress-plugin-browserframe/statuses/{sha}
+subscribers_count: 1
+subscribers_url: https://api.github.com/repos/sillevl/vuepress-plugin-browserframe/subscribers
+subscription_url: https://api.github.com/repos/sillevl/vuepress-plugin-browserframe/subscription
+svn_url: https://github.com/sillevl/vuepress-plugin-browserframe
+tags_url: https://api.github.com/repos/sillevl/vuepress-plugin-browserframe/tags
+teams_url: https://api.github.com/repos/sillevl/vuepress-plugin-browserframe/teams
+temp_clone_token: ''
+trees_url: https://api.github.com/repos/sillevl/vuepress-plugin-browserframe/git/trees{/sha}
+updated_at: '2020-10-27T11:53:55Z'
+url: https://api.github.com/repos/sillevl/vuepress-plugin-browserframe
+watchers: 0
+watchers_count: 0
+---
+

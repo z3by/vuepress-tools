@@ -54,7 +54,7 @@ notifications_url: https://api.github.com/repos/xieyx/vuepress-theme-feed.github
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars1.githubusercontent.com/u/19400528?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/19400528?v=4
   events_url: https://api.github.com/users/xieyx/events{/privacy}
   followers_url: https://api.github.com/users/xieyx/followers
   following_url: https://api.github.com/users/xieyx/following{/other_user}

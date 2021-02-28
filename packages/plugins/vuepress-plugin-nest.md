@@ -32,7 +32,7 @@ has_issues: true
 has_pages: false
 has_projects: true
 has_wiki: true
-homepage: null
+homepage: https://vxhly.github.io/
 hooks_url: https://api.github.com/repos/vxhly/vuepress-plugin-nest/hooks
 html_url: https://github.com/vxhly/vuepress-plugin-nest
 id: 207966811
@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/vxhly/vuepress-plugin-nest/notif
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars0.githubusercontent.com/u/17906558?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/17906558?v=4
   events_url: https://api.github.com/users/vxhly/events{/privacy}
   followers_url: https://api.github.com/users/vxhly/followers
   following_url: https://api.github.com/users/vxhly/following{/other_user}
@@ -87,7 +87,7 @@ pushed_at: '2020-06-28T12:43:20Z'
 releases_url: https://api.github.com/repos/vxhly/vuepress-plugin-nest/releases{/id}
 size: 9
 ssh_url: git@github.com:vxhly/vuepress-plugin-nest.git
-stargazers_count: 2
+stargazers_count: 4
 stargazers_url: https://api.github.com/repos/vxhly/vuepress-plugin-nest/stargazers
 statuses_url: https://api.github.com/repos/vxhly/vuepress-plugin-nest/statuses/{sha}
 subscribers_count: 1
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/vxhly/vuepress-plugin-nest/tags
 teams_url: https://api.github.com/repos/vxhly/vuepress-plugin-nest/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/vxhly/vuepress-plugin-nest/git/trees{/sha}
-updated_at: '2020-06-28T12:43:22Z'
+updated_at: '2021-02-26T13:45:03Z'
 url: https://api.github.com/repos/vxhly/vuepress-plugin-nest
-watchers: 2
-watchers_count: 2
+watchers: 4
+watchers_count: 4
 ---
 
 # vuepress-plugin-nest

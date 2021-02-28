@@ -54,7 +54,7 @@ notifications_url: https://api.github.com/repos/yunabe/vuepress-plugin-mathjax-b
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars0.githubusercontent.com/u/255937?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/255937?v=4
   events_url: https://api.github.com/users/yunabe/events{/privacy}
   followers_url: https://api.github.com/users/yunabe/followers
   following_url: https://api.github.com/users/yunabe/following{/other_user}

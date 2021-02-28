@@ -56,10 +56,10 @@ name: vuepress-theme-neon
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkxODgyNzM2NDI=
 notifications_url: https://api.github.com/repos/summer1874/vuepress-theme-neon/notifications{?since,all,participating}
-open_issues: 7
-open_issues_count: 7
+open_issues: 9
+open_issues_count: 9
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/21187224?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/21187224?v=4
   events_url: https://api.github.com/users/summer1874/events{/privacy}
   followers_url: https://api.github.com/users/summer1874/followers
   following_url: https://api.github.com/users/summer1874/following{/other_user}
@@ -83,14 +83,14 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/summer1874/vuepress-theme-neon/pulls{/number}
-pushed_at: '2020-08-07T23:08:41Z'
+pushed_at: '2020-12-11T07:49:39Z'
 releases_url: https://api.github.com/repos/summer1874/vuepress-theme-neon/releases{/id}
-size: 3251
+size: 3606
 ssh_url: git@github.com:summer1874/vuepress-theme-neon.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/summer1874/vuepress-theme-neon/stargazers
 statuses_url: https://api.github.com/repos/summer1874/vuepress-theme-neon/statuses/{sha}
-subscribers_count: 0
+subscribers_count: 1
 subscribers_url: https://api.github.com/repos/summer1874/vuepress-theme-neon/subscribers
 subscription_url: https://api.github.com/repos/summer1874/vuepress-theme-neon/subscription
 svn_url: https://github.com/summer1874/vuepress-theme-neon

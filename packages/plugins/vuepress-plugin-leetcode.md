@@ -54,7 +54,7 @@ notifications_url: https://api.github.com/repos/arleyGuoLei/vuepress-plugin-leet
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars0.githubusercontent.com/u/40717741?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/40717741?v=4
   events_url: https://api.github.com/users/arleyGuoLei/events{/privacy}
   followers_url: https://api.github.com/users/arleyGuoLei/followers
   following_url: https://api.github.com/users/arleyGuoLei/following{/other_user}

@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/tolking/vuepress-plugin-reading-
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars0.githubusercontent.com/u/23313167?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/23313167?v=4
   events_url: https://api.github.com/users/tolking/events{/privacy}
   followers_url: https://api.github.com/users/tolking/followers
   following_url: https://api.github.com/users/tolking/following{/other_user}
@@ -87,7 +87,7 @@ pushed_at: '2020-07-05T04:52:24Z'
 releases_url: https://api.github.com/repos/tolking/vuepress-plugin-reading-progress/releases{/id}
 size: 13
 ssh_url: git@github.com:tolking/vuepress-plugin-reading-progress.git
-stargazers_count: 18
+stargazers_count: 22
 stargazers_url: https://api.github.com/repos/tolking/vuepress-plugin-reading-progress/stargazers
 statuses_url: https://api.github.com/repos/tolking/vuepress-plugin-reading-progress/statuses/{sha}
 subscribers_count: 1
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/tolking/vuepress-plugin-reading-progress/
 teams_url: https://api.github.com/repos/tolking/vuepress-plugin-reading-progress/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/tolking/vuepress-plugin-reading-progress/git/trees{/sha}
-updated_at: '2020-07-10T15:52:36Z'
+updated_at: '2021-02-08T22:28:14Z'
 url: https://api.github.com/repos/tolking/vuepress-plugin-reading-progress
-watchers: 18
-watchers_count: 18
+watchers: 22
+watchers_count: 22
 ---
 
 # vuepress-plugin-reading-progress

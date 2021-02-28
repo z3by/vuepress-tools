@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/downloads
 events_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/events
 fork: false
-forks: 1
-forks_count: 1
+forks: 3
+forks_count: 3
 forks_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/forks
 full_name: Microflash/vuepress-theme-succinct
 git_commits_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/git/commits{/sha}
@@ -29,10 +29,10 @@ git_tags_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/gi
 git_url: git://github.com/Microflash/vuepress-theme-succinct.git
 has_downloads: true
 has_issues: true
-has_pages: true
+has_pages: false
 has_projects: false
 has_wiki: true
-homepage: https://microflash.github.io/vuepress-theme-succinct/
+homepage: https://succinct.mflash.dev
 hooks_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/hooks
 html_url: https://github.com/Microflash/vuepress-theme-succinct
 id: 156448215
@@ -53,13 +53,13 @@ merges_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/merg
 milestones_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/milestones{/number}
 mirror_url: null
 name: vuepress-theme-succinct
-network_count: 1
+network_count: 3
 node_id: MDEwOlJlcG9zaXRvcnkxNTY0NDgyMTU=
 notifications_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
+open_issues: 1
+open_issues_count: 1
 organization:
-  avatar_url: https://avatars0.githubusercontent.com/u/67139419?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/67139419?v=4
   events_url: https://api.github.com/users/Microflash/events{/privacy}
   followers_url: https://api.github.com/users/Microflash/followers
   following_url: https://api.github.com/users/Microflash/following{/other_user}
@@ -78,7 +78,7 @@ organization:
   type: Organization
   url: https://api.github.com/users/Microflash
 owner:
-  avatar_url: https://avatars0.githubusercontent.com/u/67139419?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/67139419?v=4
   events_url: https://api.github.com/users/Microflash/events{/privacy}
   followers_url: https://api.github.com/users/Microflash/followers
   following_url: https://api.github.com/users/Microflash/following{/other_user}
@@ -102,14 +102,14 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/pulls{/number}
-pushed_at: '2020-07-24T18:07:05Z'
+pushed_at: '2020-12-31T05:20:47Z'
 releases_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/releases{/id}
-size: 967
+size: 884
 ssh_url: git@github.com:Microflash/vuepress-theme-succinct.git
-stargazers_count: 10
+stargazers_count: 22
 stargazers_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/stargazers
 statuses_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/statuses/{sha}
-subscribers_count: 2
+subscribers_count: 3
 subscribers_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/subscribers
 subscription_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/subscription
 svn_url: https://github.com/Microflash/vuepress-theme-succinct
@@ -117,10 +117,10 @@ tags_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/tags
 teams_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/Microflash/vuepress-theme-succinct/git/trees{/sha}
-updated_at: '2020-08-23T01:30:23Z'
+updated_at: '2021-02-23T06:39:16Z'
 url: https://api.github.com/repos/Microflash/vuepress-theme-succinct
-watchers: 10
-watchers_count: 10
+watchers: 22
+watchers_count: 22
 ---
 
 # vuepress-theme-succinct
@@ -133,9 +133,9 @@ A slightly opinionated theme for Vuepress
 
 ## Features
 
-- **Customizable typography**: Import and use your favorite web-fonts. Customize font sizes and text-adjustment for body text
+- **Customizable typography**: Webfont support with font size and text-adjustment customization
 - **Dark and light themes**: System theme detection with a theme-switcher to set the theme as per the user preference
-- **Accessible**: Succinct applies tweaks - deeper contrast, better legibility preferences, etc - to improve the readability
+- **Accessible**: Larger font size, deeper contrast, better legibility preferences to improve the readability
 
 ## Get Started
 
@@ -170,7 +170,7 @@ module.exports = {
 }
 ```
 
-Check out the [documentation](https://microflash.github.io/vuepress-theme-succinct/) built with Vuepress and Succinct :smile: for more details.
+Check out the [documentation](https://succinct.mflash.dev/) built with Vuepress and Succinct :smile: for more details.
 
 ## Contribute
 

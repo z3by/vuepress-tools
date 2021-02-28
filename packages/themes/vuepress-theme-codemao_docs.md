@@ -54,7 +54,7 @@ notifications_url: https://api.github.com/repos/KittenTeam/vuepress-theme-codema
 open_issues: 0
 open_issues_count: 0
 organization:
-  avatar_url: https://avatars0.githubusercontent.com/u/42024979?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/42024979?v=4
   events_url: https://api.github.com/users/KittenTeam/events{/privacy}
   followers_url: https://api.github.com/users/KittenTeam/followers
   following_url: https://api.github.com/users/KittenTeam/following{/other_user}
@@ -73,7 +73,7 @@ organization:
   type: Organization
   url: https://api.github.com/users/KittenTeam
 owner:
-  avatar_url: https://avatars0.githubusercontent.com/u/42024979?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/42024979?v=4
   events_url: https://api.github.com/users/KittenTeam/events{/privacy}
   followers_url: https://api.github.com/users/KittenTeam/followers
   following_url: https://api.github.com/users/KittenTeam/following{/other_user}
@@ -112,7 +112,7 @@ tags_url: https://api.github.com/repos/KittenTeam/vuepress-theme-codemao_docs/ta
 teams_url: https://api.github.com/repos/KittenTeam/vuepress-theme-codemao_docs/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/KittenTeam/vuepress-theme-codemao_docs/git/trees{/sha}
-updated_at: '2020-03-12T10:28:49Z'
+updated_at: '2020-10-22T00:57:35Z'
 url: https://api.github.com/repos/KittenTeam/vuepress-theme-codemao_docs
 watchers: 1
 watchers_count: 1
@@ -146,7 +146,7 @@ useScrollNav: true
 
 效果如红框所示：
 
-![效果](https://raw.githubusercontent.com/Kitten Team/vuepress-theme-codemao_docs/master/images/useScrollNav.jpg)
+![效果](https://raw.githubusercontent.com/KittenTeam/vuepress-theme-codemao_docs/master/images/useScrollNav.jpg)
 
 ## 分组标签链接
 

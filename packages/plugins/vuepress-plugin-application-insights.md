@@ -54,7 +54,7 @@ notifications_url: https://api.github.com/repos/Robjam/vuepress-plugin-applicati
 open_issues: 2
 open_issues_count: 2
 owner:
-  avatar_url: https://avatars0.githubusercontent.com/u/12609324?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/12609324?v=4
   events_url: https://api.github.com/users/Robjam/events{/privacy}
   followers_url: https://api.github.com/users/Robjam/followers
   following_url: https://api.github.com/users/Robjam/following{/other_user}

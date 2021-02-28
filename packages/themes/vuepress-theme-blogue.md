@@ -56,10 +56,10 @@ name: vuepress-theme-blogue
 network_count: 3
 node_id: MDEwOlJlcG9zaXRvcnkxMzkyODc3Nzk=
 notifications_url: https://api.github.com/repos/ocavue/vuepress-theme-blogue/notifications{?since,all,participating}
-open_issues: 4
-open_issues_count: 4
+open_issues: 0
+open_issues_count: 0
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/24715727?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/24715727?v=4
   events_url: https://api.github.com/users/ocavue/events{/privacy}
   followers_url: https://api.github.com/users/ocavue/followers
   following_url: https://api.github.com/users/ocavue/following{/other_user}
@@ -83,11 +83,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/ocavue/vuepress-theme-blogue/pulls{/number}
-pushed_at: '2020-08-07T23:05:33Z'
+pushed_at: '2020-12-27T14:22:35Z'
 releases_url: https://api.github.com/repos/ocavue/vuepress-theme-blogue/releases{/id}
-size: 820
+size: 608
 ssh_url: git@github.com:ocavue/vuepress-theme-blogue.git
-stargazers_count: 6
+stargazers_count: 9
 stargazers_url: https://api.github.com/repos/ocavue/vuepress-theme-blogue/stargazers
 statuses_url: https://api.github.com/repos/ocavue/vuepress-theme-blogue/statuses/{sha}
 subscribers_count: 1
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/ocavue/vuepress-theme-blogue/tags
 teams_url: https://api.github.com/repos/ocavue/vuepress-theme-blogue/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/ocavue/vuepress-theme-blogue/git/trees{/sha}
-updated_at: '2020-04-09T00:16:35Z'
+updated_at: '2021-01-24T18:26:12Z'
 url: https://api.github.com/repos/ocavue/vuepress-theme-blogue
-watchers: 6
-watchers_count: 6
+watchers: 9
+watchers_count: 9
 ---
 
 # vuepress-theme-blogue
@@ -116,7 +116,7 @@ watchers_count: 6
 
 ## Live demo
 
-https://ocavue.github.io/
+https://ocavue.com/
 
 ## Basic Usage
 
@@ -139,14 +139,21 @@ module.exports = {
     title: "Project Blogue",
     themeConfig: {
         avatarImage: "https://ws2.sinaimg.cn/large/006tKfTcgy1ftrhghh2cgj3074074dfp.jpg",
-        debug: false
+        blogPluginConfig: {
+            comment: {
+                // Which service you'd like to use
+                service: 'disqus',
+                // The owner's name of repository to store the issues and comments.
+                shortname: 'ocavue.com',
+            },
+        }
     }
 }
 ```
 
-- **`title`**: Your blog's title, will be displayed in the toolbar (AKA navbar).
-- **`avatarImage`**: URL string for avatar, will be displayed in the drawer (AKA sidebar).
-- **`debug`**: Whether to show [site and page metadata](https://vuepress.vuejs.org/guide/custom-themes.html#site-and-page-metadata) at bottom of every page.
+- **`title`**: Your blog's title, will be displayed in the toolbar/navbar
+- **`avatarImage`**: URL string for avatar, will be displayed in the drawer/sidebar.
+- **`blogPluginConfig`**: Any extra configuration for [vuepress-plugin-blog](https://github.com/vuepress/vuepress-plugin-blog)
 
 ## Blog Post Configuration
 
@@ -157,15 +164,22 @@ For every markdown file in your VuePress project, you need a [front matter](http
 title: My first blog
 date: 2018-07-01
 image: https://ws1.sinaimg.cn/large/006tNc79ly1fsxfr3d6eij31kw11x4qq.jpg
+tags: ["blog", "markdown"]
+hide: false
 ---
 ```
 
-- **`title`** (required): Your post's title. vuepress-theme-blogue will NOT find H1 title inside your markdown file.
-- **`date`** (required): Your post's date. Your need to use **YYYY-MM-DD** format. vuepress-theme-blogue use post's date to sort, so this field is required.
-- **`image`** (optional): Your post's cover image URL.
-- **`tags`** (optional)
+- **`title`** (required, string): Your post's title. vuepress-theme-blogue will NOT find H1 title inside your markdown file.
+- **`date`** (required, date): Your post's date. Your need to use **YYYY-MM-DD** format. vuepress-theme-blogue use post's date to sort, so this field is required.
+- **`image`** (optional, string): Your post's cover image URL.
+- **`tags`** (optional, list): Your post's tags.
+- **`hide`** (optional, boolean): Hide this post in the homepage.
 
 Your will need **README.md** and **about.md** in your docs directory. These two posts will not be displayed on the home page.
+
+## Comment
+
+`vuepress-theme-blogue` use `@vuepress/plugin-blog` to provide comment. Check [its document](https://vuepress-plugin-blog.ulivz.com/guide/getting-started.html#comment) for more details.
 
 ## Complete Example
 
@@ -175,7 +189,7 @@ See https://github.com/ocavue/vuepress-theme-blogue/tree/master/example
 
 - [x] Update vuepress to 1.0
 - [x] Tags
-- [ ] Comments
+- [x] Comments
 - [x] Configurable
 - [ ] Customizable sidebar
 

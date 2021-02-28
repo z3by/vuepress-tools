@@ -54,7 +54,7 @@ notifications_url: https://api.github.com/repos/wowthemesnet/vuepress-theme-medi
 open_issues: 1
 open_issues_count: 1
 owner:
-  avatar_url: https://avatars0.githubusercontent.com/u/5597992?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/5597992?v=4
   events_url: https://api.github.com/users/wowthemesnet/events{/privacy}
   followers_url: https://api.github.com/users/wowthemesnet/followers
   following_url: https://api.github.com/users/wowthemesnet/following{/other_user}
@@ -78,14 +78,14 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/wowthemesnet/vuepress-theme-mediumish/pulls{/number}
-pushed_at: '2020-03-04T14:32:58Z'
+pushed_at: '2020-11-09T17:49:38Z'
 releases_url: https://api.github.com/repos/wowthemesnet/vuepress-theme-mediumish/releases{/id}
 size: 1090
 ssh_url: git@github.com:wowthemesnet/vuepress-theme-mediumish.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/wowthemesnet/vuepress-theme-mediumish/stargazers
 statuses_url: https://api.github.com/repos/wowthemesnet/vuepress-theme-mediumish/statuses/{sha}
-subscribers_count: 1
+subscribers_count: 2
 subscribers_url: https://api.github.com/repos/wowthemesnet/vuepress-theme-mediumish/subscribers
 subscription_url: https://api.github.com/repos/wowthemesnet/vuepress-theme-mediumish/subscription
 svn_url: https://github.com/wowthemesnet/vuepress-theme-mediumish

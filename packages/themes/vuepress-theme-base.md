@@ -56,10 +56,10 @@ name: vuepress-theme-base
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyNjc5MjgyMDE=
 notifications_url: https://api.github.com/repos/petedavisdev/vuepress-theme-base/notifications{?since,all,participating}
-open_issues: 2
-open_issues_count: 2
+open_issues: 5
+open_issues_count: 5
 owner:
-  avatar_url: https://avatars3.githubusercontent.com/u/7900180?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/7900180?v=4
   events_url: https://api.github.com/users/petedavisdev/events{/privacy}
   followers_url: https://api.github.com/users/petedavisdev/followers
   following_url: https://api.github.com/users/petedavisdev/following{/other_user}
@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/petedavisdev/vuepress-theme-base/pulls{/number}
-pushed_at: '2020-08-14T05:28:19Z'
+pushed_at: '2020-11-18T14:36:50Z'
 releases_url: https://api.github.com/repos/petedavisdev/vuepress-theme-base/releases{/id}
-size: 478
+size: 993
 ssh_url: git@github.com:petedavisdev/vuepress-theme-base.git
 stargazers_count: 1
 stargazers_url: https://api.github.com/repos/petedavisdev/vuepress-theme-base/stargazers
@@ -98,7 +98,7 @@ tags_url: https://api.github.com/repos/petedavisdev/vuepress-theme-base/tags
 teams_url: https://api.github.com/repos/petedavisdev/vuepress-theme-base/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/petedavisdev/vuepress-theme-base/git/trees{/sha}
-updated_at: '2020-08-14T15:23:11Z'
+updated_at: '2020-11-18T14:36:15Z'
 url: https://api.github.com/repos/petedavisdev/vuepress-theme-base
 watchers: 1
 watchers_count: 1

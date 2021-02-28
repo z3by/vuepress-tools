@@ -54,7 +54,7 @@ notifications_url: https://api.github.com/repos/yemuguliunian/vuepress-plugin-in
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars3.githubusercontent.com/u/26818843?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/26818843?v=4
   events_url: https://api.github.com/users/yemuguliunian/events{/privacy}
   followers_url: https://api.github.com/users/yemuguliunian/followers
   following_url: https://api.github.com/users/yemuguliunian/following{/other_user}

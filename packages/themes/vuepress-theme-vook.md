@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/gitter-badger/vuepress-theme-voo
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/8518239?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/8518239?v=4
   events_url: https://api.github.com/users/gitter-badger/events{/privacy}
   followers_url: https://api.github.com/users/gitter-badger/followers
   following_url: https://api.github.com/users/gitter-badger/following{/other_user}

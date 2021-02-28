@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/qrac/vuepress-theme-musubii/downloads
 events_url: https://api.github.com/repos/qrac/vuepress-theme-musubii/events
 fork: false
-forks: 1
-forks_count: 1
+forks: 0
+forks_count: 0
 forks_url: https://api.github.com/repos/qrac/vuepress-theme-musubii/forks
 full_name: qrac/vuepress-theme-musubii
 git_commits_url: https://api.github.com/repos/qrac/vuepress-theme-musubii/git/commits{/sha}
@@ -53,13 +53,13 @@ merges_url: https://api.github.com/repos/qrac/vuepress-theme-musubii/merges
 milestones_url: https://api.github.com/repos/qrac/vuepress-theme-musubii/milestones{/number}
 mirror_url: null
 name: vuepress-theme-musubii
-network_count: 1
+network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkxODQ5Njg4Njk=
 notifications_url: https://api.github.com/repos/qrac/vuepress-theme-musubii/notifications{?since,all,participating}
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/9658016?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/9658016?v=4
   events_url: https://api.github.com/users/qrac/events{/privacy}
   followers_url: https://api.github.com/users/qrac/followers
   following_url: https://api.github.com/users/qrac/following{/other_user}
@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/qrac/vuepress-theme-musubii/pulls{/number}
-pushed_at: '2020-08-08T02:34:04Z'
+pushed_at: '2020-12-11T08:35:15Z'
 releases_url: https://api.github.com/repos/qrac/vuepress-theme-musubii/releases{/id}
-size: 1647
+size: 2227
 ssh_url: git@github.com:qrac/vuepress-theme-musubii.git
 stargazers_count: 2
 stargazers_url: https://api.github.com/repos/qrac/vuepress-theme-musubii/stargazers
@@ -98,7 +98,7 @@ tags_url: https://api.github.com/repos/qrac/vuepress-theme-musubii/tags
 teams_url: https://api.github.com/repos/qrac/vuepress-theme-musubii/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/qrac/vuepress-theme-musubii/git/trees{/sha}
-updated_at: '2020-08-08T02:34:00Z'
+updated_at: '2020-12-11T08:35:02Z'
 url: https://api.github.com/repos/qrac/vuepress-theme-musubii
 watchers: 2
 watchers_count: 2

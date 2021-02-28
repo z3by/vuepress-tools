@@ -54,7 +54,7 @@ notifications_url: https://api.github.com/repos/llqgit/vuepress-plugin-visit/not
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars1.githubusercontent.com/u/8063914?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/8063914?v=4
   events_url: https://api.github.com/users/llqgit/events{/privacy}
   followers_url: https://api.github.com/users/llqgit/followers
   following_url: https://api.github.com/users/llqgit/following{/other_user}

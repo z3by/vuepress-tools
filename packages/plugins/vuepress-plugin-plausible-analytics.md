@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/leoloso/vuepress-plugin-plausible-analytics/downloads
 events_url: https://api.github.com/repos/leoloso/vuepress-plugin-plausible-analytics/events
 fork: false
-forks: 1
-forks_count: 1
+forks: 2
+forks_count: 2
 forks_url: https://api.github.com/repos/leoloso/vuepress-plugin-plausible-analytics/forks
 full_name: leoloso/vuepress-plugin-plausible-analytics
 git_commits_url: https://api.github.com/repos/leoloso/vuepress-plugin-plausible-analytics/git/commits{/sha}
@@ -53,13 +53,13 @@ merges_url: https://api.github.com/repos/leoloso/vuepress-plugin-plausible-analy
 milestones_url: https://api.github.com/repos/leoloso/vuepress-plugin-plausible-analytics/milestones{/number}
 mirror_url: null
 name: vuepress-plugin-plausible-analytics
-network_count: 1
+network_count: 2
 node_id: MDEwOlJlcG9zaXRvcnkyNTY3NTkzMjE=
 notifications_url: https://api.github.com/repos/leoloso/vuepress-plugin-plausible-analytics/notifications{?since,all,participating}
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars0.githubusercontent.com/u/1981996?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/1981996?v=4
   events_url: https://api.github.com/users/leoloso/events{/privacy}
   followers_url: https://api.github.com/users/leoloso/followers
   following_url: https://api.github.com/users/leoloso/following{/other_user}
@@ -83,7 +83,7 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/leoloso/vuepress-plugin-plausible-analytics/pulls{/number}
-pushed_at: '2020-04-22T12:30:07Z'
+pushed_at: '2020-12-31T10:21:42Z'
 releases_url: https://api.github.com/repos/leoloso/vuepress-plugin-plausible-analytics/releases{/id}
 size: 7
 ssh_url: git@github.com:leoloso/vuepress-plugin-plausible-analytics.git

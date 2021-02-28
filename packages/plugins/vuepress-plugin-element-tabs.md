@@ -56,10 +56,10 @@ name: vuepress-plugin-element-tabs
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyMzQ3MDA5OTc=
 notifications_url: https://api.github.com/repos/yuhongda0315/vuepress-plugin-element-tabs/notifications{?since,all,participating}
-open_issues: 3
-open_issues_count: 3
+open_issues: 7
+open_issues_count: 7
 owner:
-  avatar_url: https://avatars1.githubusercontent.com/u/13547775?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/13547775?v=4
   events_url: https://api.github.com/users/yuhongda0315/events{/privacy}
   followers_url: https://api.github.com/users/yuhongda0315/followers
   following_url: https://api.github.com/users/yuhongda0315/following{/other_user}
@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/yuhongda0315/vuepress-plugin-element-tabs/pulls{/number}
-pushed_at: '2020-08-07T23:53:56Z'
+pushed_at: '2020-12-12T05:51:07Z'
 releases_url: https://api.github.com/repos/yuhongda0315/vuepress-plugin-element-tabs/releases{/id}
-size: 1067
+size: 2150
 ssh_url: git@github.com:yuhongda0315/vuepress-plugin-element-tabs.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/yuhongda0315/vuepress-plugin-element-tabs/stargazers

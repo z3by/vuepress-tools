@@ -20,8 +20,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/JoeyBling/vuepress-theme-yilia-plus/downloads
 events_url: https://api.github.com/repos/JoeyBling/vuepress-theme-yilia-plus/events
 fork: false
-forks: 6
-forks_count: 6
+forks: 8
+forks_count: 8
 forks_url: https://api.github.com/repos/JoeyBling/vuepress-theme-yilia-plus/forks
 full_name: JoeyBling/vuepress-theme-yilia-plus
 git_commits_url: https://api.github.com/repos/JoeyBling/vuepress-theme-yilia-plus/git/commits{/sha}
@@ -54,13 +54,13 @@ merges_url: https://api.github.com/repos/JoeyBling/vuepress-theme-yilia-plus/mer
 milestones_url: https://api.github.com/repos/JoeyBling/vuepress-theme-yilia-plus/milestones{/number}
 mirror_url: null
 name: vuepress-theme-yilia-plus
-network_count: 6
+network_count: 8
 node_id: MDEwOlJlcG9zaXRvcnkyMDY0NjQ5ODk=
 notifications_url: https://api.github.com/repos/JoeyBling/vuepress-theme-yilia-plus/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
+open_issues: 1
+open_issues_count: 1
 owner:
-  avatar_url: https://avatars1.githubusercontent.com/u/25240064?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/25240064?v=4
   events_url: https://api.github.com/users/JoeyBling/events{/privacy}
   followers_url: https://api.github.com/users/JoeyBling/followers
   following_url: https://api.github.com/users/JoeyBling/following{/other_user}
@@ -88,7 +88,7 @@ pushed_at: '2019-09-23T03:00:02Z'
 releases_url: https://api.github.com/repos/JoeyBling/vuepress-theme-yilia-plus/releases{/id}
 size: 438
 ssh_url: git@github.com:JoeyBling/vuepress-theme-yilia-plus.git
-stargazers_count: 21
+stargazers_count: 26
 stargazers_url: https://api.github.com/repos/JoeyBling/vuepress-theme-yilia-plus/stargazers
 statuses_url: https://api.github.com/repos/JoeyBling/vuepress-theme-yilia-plus/statuses/{sha}
 subscribers_count: 1
@@ -99,10 +99,10 @@ tags_url: https://api.github.com/repos/JoeyBling/vuepress-theme-yilia-plus/tags
 teams_url: https://api.github.com/repos/JoeyBling/vuepress-theme-yilia-plus/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/JoeyBling/vuepress-theme-yilia-plus/git/trees{/sha}
-updated_at: '2020-08-20T12:02:32Z'
+updated_at: '2021-02-22T02:53:36Z'
 url: https://api.github.com/repos/JoeyBling/vuepress-theme-yilia-plus
-watchers: 21
-watchers_count: 21
+watchers: 26
+watchers_count: 26
 ---
 
 # vuepress-theme-yilia-plus

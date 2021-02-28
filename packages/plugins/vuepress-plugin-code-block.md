@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/sillyY/vuepress-plugin-code-bloc
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars0.githubusercontent.com/u/20504116?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/20504116?v=4
   events_url: https://api.github.com/users/sillyY/events{/privacy}
   followers_url: https://api.github.com/users/sillyY/followers
   following_url: https://api.github.com/users/sillyY/following{/other_user}

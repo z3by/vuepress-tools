@@ -56,10 +56,10 @@ name: vuepress-theme-idg
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkxOTk2NDcwNTA=
 notifications_url: https://api.github.com/repos/evildoerX/vuepress-theme-idg/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
+open_issues: 2
+open_issues_count: 2
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/14358159?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/14358159?v=4
   events_url: https://api.github.com/users/evildoerX/events{/privacy}
   followers_url: https://api.github.com/users/evildoerX/followers
   following_url: https://api.github.com/users/evildoerX/following{/other_user}
@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/evildoerX/vuepress-theme-idg/pulls{/number}
-pushed_at: '2020-07-17T22:57:20Z'
+pushed_at: '2020-09-02T15:45:49Z'
 releases_url: https://api.github.com/repos/evildoerX/vuepress-theme-idg/releases{/id}
-size: 33
+size: 103
 ssh_url: git@github.com:evildoerX/vuepress-theme-idg.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/evildoerX/vuepress-theme-idg/stargazers

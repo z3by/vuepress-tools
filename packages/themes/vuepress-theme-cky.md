@@ -51,10 +51,10 @@ name: vuepress-theme-cky
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyMjI4NTQwODM=
 notifications_url: https://api.github.com/repos/cky917/vuepress-theme-cky/notifications{?since,all,participating}
-open_issues: 5
-open_issues_count: 5
+open_issues: 9
+open_issues_count: 9
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/12221080?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/12221080?v=4
   events_url: https://api.github.com/users/cky917/events{/privacy}
   followers_url: https://api.github.com/users/cky917/followers
   following_url: https://api.github.com/users/cky917/following{/other_user}
@@ -78,9 +78,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/cky917/vuepress-theme-cky/pulls{/number}
-pushed_at: '2020-08-07T23:45:13Z'
+pushed_at: '2020-12-12T03:15:09Z'
 releases_url: https://api.github.com/repos/cky917/vuepress-theme-cky/releases{/id}
-size: 1159
+size: 1563
 ssh_url: git@github.com:cky917/vuepress-theme-cky.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/cky917/vuepress-theme-cky/stargazers

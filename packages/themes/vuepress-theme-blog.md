@@ -54,7 +54,7 @@ notifications_url: https://api.github.com/repos/ycmjason/vuepress-theme-blog/not
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars3.githubusercontent.com/u/1251825?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/1251825?v=4
   events_url: https://api.github.com/users/ycmjason/events{/privacy}
   followers_url: https://api.github.com/users/ycmjason/followers
   following_url: https://api.github.com/users/ycmjason/following{/other_user}
@@ -85,7 +85,7 @@ ssh_url: git@github.com:ycmjason/vuepress-theme-blog.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/ycmjason/vuepress-theme-blog/stargazers
 statuses_url: https://api.github.com/repos/ycmjason/vuepress-theme-blog/statuses/{sha}
-subscribers_count: 2
+subscribers_count: 1
 subscribers_url: https://api.github.com/repos/ycmjason/vuepress-theme-blog/subscribers
 subscription_url: https://api.github.com/repos/ycmjason/vuepress-theme-blog/subscription
 svn_url: https://github.com/ycmjason/vuepress-theme-blog

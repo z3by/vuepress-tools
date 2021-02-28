@@ -54,7 +54,7 @@ notifications_url: https://api.github.com/repos/BioBoost/vuepress-theme-challeng
 open_issues: 4
 open_issues_count: 4
 owner:
-  avatar_url: https://avatars3.githubusercontent.com/u/5863590?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/5863590?v=4
   events_url: https://api.github.com/users/BioBoost/events{/privacy}
   followers_url: https://api.github.com/users/BioBoost/followers
   following_url: https://api.github.com/users/BioBoost/following{/other_user}

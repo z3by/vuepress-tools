@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/MMF-FE/vuepress-theme-piero/noti
 open_issues: 0
 open_issues_count: 0
 organization:
-  avatar_url: https://avatars1.githubusercontent.com/u/25544689?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/25544689?v=4
   events_url: https://api.github.com/users/MMF-FE/events{/privacy}
   followers_url: https://api.github.com/users/MMF-FE/followers
   following_url: https://api.github.com/users/MMF-FE/following{/other_user}
@@ -78,7 +78,7 @@ organization:
   type: Organization
   url: https://api.github.com/users/MMF-FE
 owner:
-  avatar_url: https://avatars1.githubusercontent.com/u/25544689?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/25544689?v=4
   events_url: https://api.github.com/users/MMF-FE/events{/privacy}
   followers_url: https://api.github.com/users/MMF-FE/followers
   following_url: https://api.github.com/users/MMF-FE/following{/other_user}

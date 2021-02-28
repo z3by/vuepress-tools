@@ -15,7 +15,8 @@ created_at: '2019-11-12T11:20:40Z'
 default_branch: master
 deployments_url: https://api.github.com/repos/Chenyating/vuepress-theme-ting/deployments
 description: "\u770B\u677F\u5A18+vuepress:frog::frog::frog:small fresh vuepress theme\
-  \ vuepress theme Ting:https://yating.online/"
+  \ vuepress theme Ting:\u505C\u670D\u52A1\u4E86\uFF0C\u5148\u7528\u8FD9\u4E2A\u9884\
+  \u89C8https://chenyating.github.io/"
 disabled: false
 downloads_url: https://api.github.com/repos/Chenyating/vuepress-theme-ting/downloads
 events_url: https://api.github.com/repos/Chenyating/vuepress-theme-ting/events
@@ -33,7 +34,7 @@ has_issues: true
 has_pages: false
 has_projects: true
 has_wiki: true
-homepage: https://yating.online/
+homepage: https://chenyating.github.io/
 hooks_url: https://api.github.com/repos/Chenyating/vuepress-theme-ting/hooks
 html_url: https://github.com/Chenyating/vuepress-theme-ting
 id: 221200431
@@ -52,10 +53,10 @@ name: vuepress-theme-ting
 network_count: 7
 node_id: MDEwOlJlcG9zaXRvcnkyMjEyMDA0MzE=
 notifications_url: https://api.github.com/repos/Chenyating/vuepress-theme-ting/notifications{?since,all,participating}
-open_issues: 3
-open_issues_count: 3
+open_issues: 6
+open_issues_count: 6
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/29857880?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/29857880?v=4
   events_url: https://api.github.com/users/Chenyating/events{/privacy}
   followers_url: https://api.github.com/users/Chenyating/followers
   following_url: https://api.github.com/users/Chenyating/following{/other_user}
@@ -79,11 +80,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/Chenyating/vuepress-theme-ting/pulls{/number}
-pushed_at: '2020-08-13T02:20:13Z'
+pushed_at: '2020-12-04T20:30:57Z'
 releases_url: https://api.github.com/repos/Chenyating/vuepress-theme-ting/releases{/id}
-size: 14241
+size: 14477
 ssh_url: git@github.com:Chenyating/vuepress-theme-ting.git
-stargazers_count: 57
+stargazers_count: 84
 stargazers_url: https://api.github.com/repos/Chenyating/vuepress-theme-ting/stargazers
 statuses_url: https://api.github.com/repos/Chenyating/vuepress-theme-ting/statuses/{sha}
 subscribers_count: 1
@@ -94,10 +95,10 @@ tags_url: https://api.github.com/repos/Chenyating/vuepress-theme-ting/tags
 teams_url: https://api.github.com/repos/Chenyating/vuepress-theme-ting/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/Chenyating/vuepress-theme-ting/git/trees{/sha}
-updated_at: '2020-08-24T09:01:39Z'
+updated_at: '2021-02-28T03:11:50Z'
 url: https://api.github.com/repos/Chenyating/vuepress-theme-ting
-watchers: 57
-watchers_count: 57
+watchers: 84
+watchers_count: 84
 ---
 
 # vuepress-theme-ting

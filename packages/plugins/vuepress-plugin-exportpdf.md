@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/maiscrm/vuepress-plugin-exportpdf/downloads
 events_url: https://api.github.com/repos/maiscrm/vuepress-plugin-exportpdf/events
 fork: false
-forks: 0
-forks_count: 0
+forks: 1
+forks_count: 1
 forks_url: https://api.github.com/repos/maiscrm/vuepress-plugin-exportpdf/forks
 full_name: maiscrm/vuepress-plugin-exportpdf
 git_commits_url: https://api.github.com/repos/maiscrm/vuepress-plugin-exportpdf/git/commits{/sha}
@@ -41,20 +41,20 @@ issue_events_url: https://api.github.com/repos/maiscrm/vuepress-plugin-exportpdf
 issues_url: https://api.github.com/repos/maiscrm/vuepress-plugin-exportpdf/issues{/number}
 keys_url: https://api.github.com/repos/maiscrm/vuepress-plugin-exportpdf/keys{/key_id}
 labels_url: https://api.github.com/repos/maiscrm/vuepress-plugin-exportpdf/labels{/name}
-language: null
+language: JavaScript
 languages_url: https://api.github.com/repos/maiscrm/vuepress-plugin-exportpdf/languages
 license: null
 merges_url: https://api.github.com/repos/maiscrm/vuepress-plugin-exportpdf/merges
 milestones_url: https://api.github.com/repos/maiscrm/vuepress-plugin-exportpdf/milestones{/number}
 mirror_url: null
 name: vuepress-plugin-exportpdf
-network_count: 0
+network_count: 1
 node_id: MDEwOlJlcG9zaXRvcnkyODEwNTExMTA=
 notifications_url: https://api.github.com/repos/maiscrm/vuepress-plugin-exportpdf/notifications{?since,all,participating}
 open_issues: 0
 open_issues_count: 0
 organization:
-  avatar_url: https://avatars3.githubusercontent.com/u/7091908?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/7091908?v=4
   events_url: https://api.github.com/users/maiscrm/events{/privacy}
   followers_url: https://api.github.com/users/maiscrm/followers
   following_url: https://api.github.com/users/maiscrm/following{/other_user}
@@ -73,7 +73,7 @@ organization:
   type: Organization
   url: https://api.github.com/users/maiscrm
 owner:
-  avatar_url: https://avatars3.githubusercontent.com/u/7091908?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/7091908?v=4
   events_url: https://api.github.com/users/maiscrm/events{/privacy}
   followers_url: https://api.github.com/users/maiscrm/followers
   following_url: https://api.github.com/users/maiscrm/following{/other_user}
@@ -97,9 +97,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/maiscrm/vuepress-plugin-exportpdf/pulls{/number}
-pushed_at: '2020-07-20T07:51:32Z'
+pushed_at: '2020-11-05T10:31:12Z'
 releases_url: https://api.github.com/repos/maiscrm/vuepress-plugin-exportpdf/releases{/id}
-size: 0
+size: 896
 ssh_url: git@github.com:maiscrm/vuepress-plugin-exportpdf.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/maiscrm/vuepress-plugin-exportpdf/stargazers
@@ -112,9 +112,73 @@ tags_url: https://api.github.com/repos/maiscrm/vuepress-plugin-exportpdf/tags
 teams_url: https://api.github.com/repos/maiscrm/vuepress-plugin-exportpdf/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/maiscrm/vuepress-plugin-exportpdf/git/trees{/sha}
-updated_at: '2020-07-20T07:51:30Z'
+updated_at: '2020-11-05T10:31:14Z'
 url: https://api.github.com/repos/maiscrm/vuepress-plugin-exportpdf
 watchers: 0
 watchers_count: 0
 ---
 
+# vuepress-plugin-exportpdf
+
+Inspired by [vuepress-plugin-export](https://github.com/ulivz/vuepress-plugin-export).
+
+> This plugin requires VuePress >= **1.0.0-alpha.44**.
+
+## Features
+
+- Merge all of your pages automatically.
+- Create outline by your sidebar.
+- Inject page numbers.
+
+## Install
+
+```shell
+npm i @maiscrm/vuepress-plugin-exportpdf
+```
+
+## Usage
+
+Using this plugin:
+
+```javascript
+// .vuepress/config.js
+module.exports = {
+  plugins: [
+    [
+      '@maiscrm/vuepress-plugin-exportpdf',
+      {
+        themeConfig: {
+          navbar: false,
+          nextLinks: false,
+          prevLinks: false,
+          sidebar: [
+            'docs/',
+            {
+              title: 'Plugin',
+              children: [
+                'docs/plugin/',
+                'docs/plugin/using-a-plugin'
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  ]
+}
+```
+
+Then run:
+
+```bash
+vuepress exportpdf [path/to/your/docs]
+```
+
+## Development
+
+```bash
+# Note that this package is powered by [puppeteer](https://github.com/GoogleChrome/puppeteer), if you are in a mysterious wall, consider setting this [environment variables](https://github.com/GoogleChrome/puppeteer/blob/v1.11.0/docs/api.md#environment-variables) before installation.
+export PUPPETEER_DOWNLOAD_HOST=https://npm.taobao.org/mirrors
+yarn install
+yarn exportpdf
+```

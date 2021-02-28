@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/vuepress/vuepress-plugin-copyrig
 open_issues: 4
 open_issues_count: 4
 organization:
-  avatar_url: https://avatars2.githubusercontent.com/u/48539483?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/48539483?v=4
   events_url: https://api.github.com/users/vuepress/events{/privacy}
   followers_url: https://api.github.com/users/vuepress/followers
   following_url: https://api.github.com/users/vuepress/following{/other_user}
@@ -78,7 +78,7 @@ organization:
   type: Organization
   url: https://api.github.com/users/vuepress
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/48539483?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/48539483?v=4
   events_url: https://api.github.com/users/vuepress/events{/privacy}
   followers_url: https://api.github.com/users/vuepress/followers
   following_url: https://api.github.com/users/vuepress/following{/other_user}
@@ -106,7 +106,7 @@ pushed_at: '2020-07-16T21:20:15Z'
 releases_url: https://api.github.com/repos/vuepress/vuepress-plugin-copyright/releases{/id}
 size: 68
 ssh_url: git@github.com:vuepress/vuepress-plugin-copyright.git
-stargazers_count: 1
+stargazers_count: 2
 stargazers_url: https://api.github.com/repos/vuepress/vuepress-plugin-copyright/stargazers
 statuses_url: https://api.github.com/repos/vuepress/vuepress-plugin-copyright/statuses/{sha}
 subscribers_count: 0
@@ -117,10 +117,10 @@ tags_url: https://api.github.com/repos/vuepress/vuepress-plugin-copyright/tags
 teams_url: https://api.github.com/repos/vuepress/vuepress-plugin-copyright/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/vuepress/vuepress-plugin-copyright/git/trees{/sha}
-updated_at: '2020-05-06T08:08:28Z'
+updated_at: '2021-01-21T01:55:32Z'
 url: https://api.github.com/repos/vuepress/vuepress-plugin-copyright
-watchers: 1
-watchers_count: 1
+watchers: 2
+watchers_count: 2
 ---
 
 # [vuepress-plugin-copyright](https://vuepress.github.io/plugins/copyright/)

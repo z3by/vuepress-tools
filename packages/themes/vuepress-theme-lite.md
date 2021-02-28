@@ -54,7 +54,7 @@ notifications_url: https://api.github.com/repos/HeskeyBaozi/vuepress-theme-lite/
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars3.githubusercontent.com/u/15819224?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/15819224?v=4
   events_url: https://api.github.com/users/HeskeyBaozi/events{/privacy}
   followers_url: https://api.github.com/users/HeskeyBaozi/followers
   following_url: https://api.github.com/users/HeskeyBaozi/following{/other_user}

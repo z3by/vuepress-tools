@@ -54,7 +54,7 @@ notifications_url: https://api.github.com/repos/YasinChan/vuepress-theme-inherit
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars1.githubusercontent.com/u/22654945?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/22654945?v=4
   events_url: https://api.github.com/users/YasinChan/events{/privacy}
   followers_url: https://api.github.com/users/YasinChan/followers
   following_url: https://api.github.com/users/YasinChan/following{/other_user}
@@ -78,11 +78,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/YasinChan/vuepress-theme-inherit/pulls{/number}
-pushed_at: '2020-08-10T08:42:02Z'
+pushed_at: '2020-12-16T02:48:10Z'
 releases_url: https://api.github.com/repos/YasinChan/vuepress-theme-inherit/releases{/id}
-size: 728
+size: 1009
 ssh_url: git@github.com:YasinChan/vuepress-theme-inherit.git
-stargazers_count: 4
+stargazers_count: 5
 stargazers_url: https://api.github.com/repos/YasinChan/vuepress-theme-inherit/stargazers
 statuses_url: https://api.github.com/repos/YasinChan/vuepress-theme-inherit/statuses/{sha}
 subscribers_count: 1
@@ -93,10 +93,10 @@ tags_url: https://api.github.com/repos/YasinChan/vuepress-theme-inherit/tags
 teams_url: https://api.github.com/repos/YasinChan/vuepress-theme-inherit/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/YasinChan/vuepress-theme-inherit/git/trees{/sha}
-updated_at: '2020-08-10T08:41:57Z'
+updated_at: '2020-12-16T02:48:03Z'
 url: https://api.github.com/repos/YasinChan/vuepress-theme-inherit
-watchers: 4
-watchers_count: 4
+watchers: 5
+watchers_count: 5
 ---
 
 # vuepress-theme-inherit

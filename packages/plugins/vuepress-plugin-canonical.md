@@ -54,7 +54,7 @@ notifications_url: https://api.github.com/repos/IOriens/vuepress-plugin-canonica
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/8137136?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/8137136?v=4
   events_url: https://api.github.com/users/IOriens/events{/privacy}
   followers_url: https://api.github.com/users/IOriens/followers
   following_url: https://api.github.com/users/IOriens/following{/other_user}
@@ -82,7 +82,7 @@ pushed_at: '2019-04-05T14:33:36Z'
 releases_url: https://api.github.com/repos/IOriens/vuepress-plugin-canonical/releases{/id}
 size: 1
 ssh_url: git@github.com:IOriens/vuepress-plugin-canonical.git
-stargazers_count: 13
+stargazers_count: 12
 stargazers_url: https://api.github.com/repos/IOriens/vuepress-plugin-canonical/stargazers
 statuses_url: https://api.github.com/repos/IOriens/vuepress-plugin-canonical/statuses/{sha}
 subscribers_count: 1
@@ -93,10 +93,10 @@ tags_url: https://api.github.com/repos/IOriens/vuepress-plugin-canonical/tags
 teams_url: https://api.github.com/repos/IOriens/vuepress-plugin-canonical/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/IOriens/vuepress-plugin-canonical/git/trees{/sha}
-updated_at: '2020-08-17T23:07:18Z'
+updated_at: '2020-08-27T12:00:45Z'
 url: https://api.github.com/repos/IOriens/vuepress-plugin-canonical
-watchers: 13
-watchers_count: 13
+watchers: 12
+watchers_count: 12
 ---
 
 # vuepress-plugin-canonical

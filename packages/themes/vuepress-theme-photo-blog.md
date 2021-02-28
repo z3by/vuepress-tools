@@ -54,7 +54,7 @@ notifications_url: https://api.github.com/repos/joaocac/vuepress-theme-photo-blo
 open_issues: 3
 open_issues_count: 3
 owner:
-  avatar_url: https://avatars0.githubusercontent.com/u/1316019?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/1316019?v=4
   events_url: https://api.github.com/users/joaocac/events{/privacy}
   followers_url: https://api.github.com/users/joaocac/followers
   following_url: https://api.github.com/users/joaocac/following{/other_user}
@@ -82,7 +82,7 @@ pushed_at: '2020-07-19T18:34:23Z'
 releases_url: https://api.github.com/repos/joaocac/vuepress-theme-photo-blog/releases{/id}
 size: 330
 ssh_url: git@github.com:joaocac/vuepress-theme-photo-blog.git
-stargazers_count: 0
+stargazers_count: 1
 stargazers_url: https://api.github.com/repos/joaocac/vuepress-theme-photo-blog/stargazers
 statuses_url: https://api.github.com/repos/joaocac/vuepress-theme-photo-blog/statuses/{sha}
 subscribers_count: 1
@@ -93,9 +93,9 @@ tags_url: https://api.github.com/repos/joaocac/vuepress-theme-photo-blog/tags
 teams_url: https://api.github.com/repos/joaocac/vuepress-theme-photo-blog/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/joaocac/vuepress-theme-photo-blog/git/trees{/sha}
-updated_at: '2020-03-02T22:50:44Z'
+updated_at: '2020-11-04T18:08:07Z'
 url: https://api.github.com/repos/joaocac/vuepress-theme-photo-blog
-watchers: 0
-watchers_count: 0
+watchers: 1
+watchers_count: 1
 ---
 

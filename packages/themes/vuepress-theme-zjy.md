@@ -60,7 +60,7 @@ notifications_url: https://api.github.com/repos/smile921/vuepress-theme-zjy/noti
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/1404755?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/1404755?v=4
   events_url: https://api.github.com/users/smile921/events{/privacy}
   followers_url: https://api.github.com/users/smile921/followers
   following_url: https://api.github.com/users/smile921/following{/other_user}

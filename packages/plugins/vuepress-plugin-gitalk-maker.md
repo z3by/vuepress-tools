@@ -51,10 +51,10 @@ name: vuepress-plugin-gitalk-maker
 network_count: 1
 node_id: MDEwOlJlcG9zaXRvcnkyMDcwNjk3ODg=
 notifications_url: https://api.github.com/repos/xxholly32/vuepress-plugin-gitalk-maker/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
+open_issues: 3
+open_issues_count: 3
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/6063358?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/6063358?v=4
   events_url: https://api.github.com/users/xxholly32/events{/privacy}
   followers_url: https://api.github.com/users/xxholly32/followers
   following_url: https://api.github.com/users/xxholly32/following{/other_user}
@@ -78,11 +78,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/xxholly32/vuepress-plugin-gitalk-maker/pulls{/number}
-pushed_at: '2020-08-24T06:19:53Z'
+pushed_at: '2020-12-11T20:10:29Z'
 releases_url: https://api.github.com/repos/xxholly32/vuepress-plugin-gitalk-maker/releases{/id}
-size: 1468
+size: 1737
 ssh_url: git@github.com:xxholly32/vuepress-plugin-gitalk-maker.git
-stargazers_count: 11
+stargazers_count: 12
 stargazers_url: https://api.github.com/repos/xxholly32/vuepress-plugin-gitalk-maker/stargazers
 statuses_url: https://api.github.com/repos/xxholly32/vuepress-plugin-gitalk-maker/statuses/{sha}
 subscribers_count: 2
@@ -93,10 +93,10 @@ tags_url: https://api.github.com/repos/xxholly32/vuepress-plugin-gitalk-maker/ta
 teams_url: https://api.github.com/repos/xxholly32/vuepress-plugin-gitalk-maker/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/xxholly32/vuepress-plugin-gitalk-maker/git/trees{/sha}
-updated_at: '2020-08-24T06:19:47Z'
+updated_at: '2020-10-03T07:56:53Z'
 url: https://api.github.com/repos/xxholly32/vuepress-plugin-gitalk-maker
-watchers: 11
-watchers_count: 11
+watchers: 12
+watchers_count: 12
 ---
 
 # vuepress-plugin-gitalk-maker

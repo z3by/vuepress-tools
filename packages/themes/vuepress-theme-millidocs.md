@@ -54,7 +54,7 @@ notifications_url: https://api.github.com/repos/alexander-heimbuch/vuepress-them
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars3.githubusercontent.com/u/7794717?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/7794717?v=4
   events_url: https://api.github.com/users/alexander-heimbuch/events{/privacy}
   followers_url: https://api.github.com/users/alexander-heimbuch/followers
   following_url: https://api.github.com/users/alexander-heimbuch/following{/other_user}

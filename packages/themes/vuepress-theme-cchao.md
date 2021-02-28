@@ -54,7 +54,7 @@ notifications_url: https://api.github.com/repos/2020807070/vuepress-theme-cchao/
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/24643401?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/24643401?v=4
   events_url: https://api.github.com/users/2020807070/events{/privacy}
   followers_url: https://api.github.com/users/2020807070/followers
   following_url: https://api.github.com/users/2020807070/following{/other_user}
@@ -85,7 +85,7 @@ ssh_url: git@github.com:2020807070/vuepress-theme-cchao.git
 stargazers_count: 29
 stargazers_url: https://api.github.com/repos/2020807070/vuepress-theme-cchao/stargazers
 statuses_url: https://api.github.com/repos/2020807070/vuepress-theme-cchao/statuses/{sha}
-subscribers_count: 0
+subscribers_count: 1
 subscribers_url: https://api.github.com/repos/2020807070/vuepress-theme-cchao/subscribers
 subscription_url: https://api.github.com/repos/2020807070/vuepress-theme-cchao/subscription
 svn_url: https://github.com/2020807070/vuepress-theme-cchao

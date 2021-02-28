@@ -51,10 +51,10 @@ name: vuepress-theme-antdesign
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyNjU3ODczNzA=
 notifications_url: https://api.github.com/repos/whu-luojian/vuepress-theme-antdesign/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
+open_issues: 1
+open_issues_count: 1
 owner:
-  avatar_url: https://avatars1.githubusercontent.com/u/20733943?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/20733943?v=4
   events_url: https://api.github.com/users/whu-luojian/events{/privacy}
   followers_url: https://api.github.com/users/whu-luojian/followers
   following_url: https://api.github.com/users/whu-luojian/following{/other_user}
@@ -78,9 +78,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/whu-luojian/vuepress-theme-antdesign/pulls{/number}
-pushed_at: '2020-06-11T02:58:42Z'
+pushed_at: '2020-12-12T18:30:58Z'
 releases_url: https://api.github.com/repos/whu-luojian/vuepress-theme-antdesign/releases{/id}
-size: 589
+size: 633
 ssh_url: git@github.com:whu-luojian/vuepress-theme-antdesign.git
 stargazers_count: 2
 stargazers_url: https://api.github.com/repos/whu-luojian/vuepress-theme-antdesign/stargazers
@@ -161,6 +161,6 @@ module.exports = {
 
 ## preview
 
-<p align="center"><img src="https://raw.githubusercontent.com/烟罗/vuepress-theme-antdesign/master/docs/blog-home.png" width="600" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/追光者/vuepress-theme-antdesign/master/docs/blog-home.png" width="600" /></p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/烟罗/vuepress-theme-antdesign/master/docs/blog-example.png" width="600"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/追光者/vuepress-theme-antdesign/master/docs/blog-example.png" width="600"/></p>

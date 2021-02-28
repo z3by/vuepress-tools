@@ -54,7 +54,7 @@ notifications_url: https://api.github.com/repos/talltotal/vuepress-plugin-editor
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars3.githubusercontent.com/u/17965996?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/17965996?v=4
   events_url: https://api.github.com/users/talltotal/events{/privacy}
   followers_url: https://api.github.com/users/talltotal/followers
   following_url: https://api.github.com/users/talltotal/following{/other_user}
@@ -78,9 +78,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/talltotal/vuepress-plugin-editor/pulls{/number}
-pushed_at: '2020-07-24T14:11:25Z'
+pushed_at: '2020-10-10T08:38:20Z'
 releases_url: https://api.github.com/repos/talltotal/vuepress-plugin-editor/releases{/id}
-size: 186
+size: 287
 ssh_url: git@github.com:talltotal/vuepress-plugin-editor.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/talltotal/vuepress-plugin-editor/stargazers
@@ -93,7 +93,7 @@ tags_url: https://api.github.com/repos/talltotal/vuepress-plugin-editor/tags
 teams_url: https://api.github.com/repos/talltotal/vuepress-plugin-editor/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/talltotal/vuepress-plugin-editor/git/trees{/sha}
-updated_at: '2020-07-24T14:11:28Z'
+updated_at: '2020-12-02T08:45:17Z'
 url: https://api.github.com/repos/talltotal/vuepress-plugin-editor
 watchers: 0
 watchers_count: 0
@@ -101,8 +101,7 @@ watchers_count: 0
 
 # [@talltotal/vuepress-plugin-editor](https://talltotal.github.io/vuepress-plugin-editor/)
 
-在文档中做一些简单的富文本操作，
-是本人使用频率最高的组件了。
+在VuePress文档中做一些简单的富文本操作。
 
 
 ## install
@@ -123,6 +122,8 @@ module.exports = {
 直接在文档中以组件元素的形式使用，接收两个参数：
 - `name` 模块的名字，需全站唯一
 - `type` ‘light’或‘dark’，主题色
+- `hideControls` 隐藏操作区
+- `minArea` 在组件内划分横向的区域数
 
 ```md
 <editor name="file-name" />

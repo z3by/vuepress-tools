@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/youngtailors/vuepress-plugin-com
 open_issues: 6
 open_issues_count: 6
 organization:
-  avatar_url: https://avatars3.githubusercontent.com/u/29174209?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/29174209?v=4
   events_url: https://api.github.com/users/youngtailors/events{/privacy}
   followers_url: https://api.github.com/users/youngtailors/followers
   following_url: https://api.github.com/users/youngtailors/following{/other_user}
@@ -78,7 +78,7 @@ organization:
   type: Organization
   url: https://api.github.com/users/youngtailors
 owner:
-  avatar_url: https://avatars3.githubusercontent.com/u/29174209?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/29174209?v=4
   events_url: https://api.github.com/users/youngtailors/events{/privacy}
   followers_url: https://api.github.com/users/youngtailors/followers
   following_url: https://api.github.com/users/youngtailors/following{/other_user}

@@ -1,0 +1,106 @@
+---
+archive_url: https://api.github.com/repos/ruizhengyun/vuepress-plugin-demo/{archive_format}{/ref}
+archived: false
+assignees_url: https://api.github.com/repos/ruizhengyun/vuepress-plugin-demo/assignees{/user}
+blobs_url: https://api.github.com/repos/ruizhengyun/vuepress-plugin-demo/git/blobs{/sha}
+branches_url: https://api.github.com/repos/ruizhengyun/vuepress-plugin-demo/branches{/branch}
+clone_url: https://github.com/ruizhengyun/vuepress-plugin-demo.git
+collaborators_url: https://api.github.com/repos/ruizhengyun/vuepress-plugin-demo/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/ruizhengyun/vuepress-plugin-demo/comments{/number}
+commits_url: https://api.github.com/repos/ruizhengyun/vuepress-plugin-demo/commits{/sha}
+compare_url: https://api.github.com/repos/ruizhengyun/vuepress-plugin-demo/compare/{base}...{head}
+contents_url: https://api.github.com/repos/ruizhengyun/vuepress-plugin-demo/contents/{+path}
+contributors_url: https://api.github.com/repos/ruizhengyun/vuepress-plugin-demo/contributors
+created_at: '2020-12-23T06:21:46Z'
+default_branch: main
+deployments_url: https://api.github.com/repos/ruizhengyun/vuepress-plugin-demo/deployments
+description: null
+disabled: false
+downloads_url: https://api.github.com/repos/ruizhengyun/vuepress-plugin-demo/downloads
+events_url: https://api.github.com/repos/ruizhengyun/vuepress-plugin-demo/events
+fork: false
+forks: 0
+forks_count: 0
+forks_url: https://api.github.com/repos/ruizhengyun/vuepress-plugin-demo/forks
+full_name: ruizhengyun/vuepress-plugin-demo
+git_commits_url: https://api.github.com/repos/ruizhengyun/vuepress-plugin-demo/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/ruizhengyun/vuepress-plugin-demo/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/ruizhengyun/vuepress-plugin-demo/git/tags{/sha}
+git_url: git://github.com/ruizhengyun/vuepress-plugin-demo.git
+has_downloads: true
+has_issues: true
+has_pages: false
+has_projects: true
+has_wiki: true
+homepage: null
+hooks_url: https://api.github.com/repos/ruizhengyun/vuepress-plugin-demo/hooks
+html_url: https://github.com/ruizhengyun/vuepress-plugin-demo
+id: 323820391
+issue_comment_url: https://api.github.com/repos/ruizhengyun/vuepress-plugin-demo/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/ruizhengyun/vuepress-plugin-demo/issues/events{/number}
+issues_url: https://api.github.com/repos/ruizhengyun/vuepress-plugin-demo/issues{/number}
+keys_url: https://api.github.com/repos/ruizhengyun/vuepress-plugin-demo/keys{/key_id}
+labels_url: https://api.github.com/repos/ruizhengyun/vuepress-plugin-demo/labels{/name}
+language: null
+languages_url: https://api.github.com/repos/ruizhengyun/vuepress-plugin-demo/languages
+license:
+  key: mit
+  name: MIT License
+  node_id: MDc6TGljZW5zZTEz
+  spdx_id: MIT
+  url: https://api.github.com/licenses/mit
+merges_url: https://api.github.com/repos/ruizhengyun/vuepress-plugin-demo/merges
+milestones_url: https://api.github.com/repos/ruizhengyun/vuepress-plugin-demo/milestones{/number}
+mirror_url: null
+name: vuepress-plugin-demo
+network_count: 0
+node_id: MDEwOlJlcG9zaXRvcnkzMjM4MjAzOTE=
+notifications_url: https://api.github.com/repos/ruizhengyun/vuepress-plugin-demo/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
+owner:
+  avatar_url: https://avatars.githubusercontent.com/u/6204303?v=4
+  events_url: https://api.github.com/users/ruizhengyun/events{/privacy}
+  followers_url: https://api.github.com/users/ruizhengyun/followers
+  following_url: https://api.github.com/users/ruizhengyun/following{/other_user}
+  gists_url: https://api.github.com/users/ruizhengyun/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/ruizhengyun
+  id: 6204303
+  login: ruizhengyun
+  node_id: MDQ6VXNlcjYyMDQzMDM=
+  organizations_url: https://api.github.com/users/ruizhengyun/orgs
+  received_events_url: https://api.github.com/users/ruizhengyun/received_events
+  repos_url: https://api.github.com/users/ruizhengyun/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/ruizhengyun/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/ruizhengyun/subscriptions
+  type: User
+  url: https://api.github.com/users/ruizhengyun
+permissions:
+  admin: false
+  pull: true
+  push: false
+private: false
+pulls_url: https://api.github.com/repos/ruizhengyun/vuepress-plugin-demo/pulls{/number}
+pushed_at: '2020-12-23T06:46:06Z'
+releases_url: https://api.github.com/repos/ruizhengyun/vuepress-plugin-demo/releases{/id}
+size: 169
+ssh_url: git@github.com:ruizhengyun/vuepress-plugin-demo.git
+stargazers_count: 0
+stargazers_url: https://api.github.com/repos/ruizhengyun/vuepress-plugin-demo/stargazers
+statuses_url: https://api.github.com/repos/ruizhengyun/vuepress-plugin-demo/statuses/{sha}
+subscribers_count: 1
+subscribers_url: https://api.github.com/repos/ruizhengyun/vuepress-plugin-demo/subscribers
+subscription_url: https://api.github.com/repos/ruizhengyun/vuepress-plugin-demo/subscription
+svn_url: https://github.com/ruizhengyun/vuepress-plugin-demo
+tags_url: https://api.github.com/repos/ruizhengyun/vuepress-plugin-demo/tags
+teams_url: https://api.github.com/repos/ruizhengyun/vuepress-plugin-demo/teams
+temp_clone_token: ''
+trees_url: https://api.github.com/repos/ruizhengyun/vuepress-plugin-demo/git/trees{/sha}
+updated_at: '2020-12-23T06:21:51Z'
+url: https://api.github.com/repos/ruizhengyun/vuepress-plugin-demo
+watchers: 0
+watchers_count: 0
+---
+

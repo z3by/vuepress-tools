@@ -56,10 +56,10 @@ name: vuepress-theme-homesite
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyMjEzODEwNTg=
 notifications_url: https://api.github.com/repos/jerryqii/vuepress-theme-homesite/notifications{?since,all,participating}
-open_issues: 5
-open_issues_count: 5
+open_issues: 7
+open_issues_count: 7
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/30589942?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/30589942?v=4
   events_url: https://api.github.com/users/jerryqii/events{/privacy}
   followers_url: https://api.github.com/users/jerryqii/followers
   following_url: https://api.github.com/users/jerryqii/following{/other_user}
@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/jerryqii/vuepress-theme-homesite/pulls{/number}
-pushed_at: '2020-08-07T23:42:40Z'
+pushed_at: '2020-12-29T12:46:36Z'
 releases_url: https://api.github.com/repos/jerryqii/vuepress-theme-homesite/releases{/id}
-size: 677
+size: 896
 ssh_url: git@github.com:jerryqii/vuepress-theme-homesite.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/jerryqii/vuepress-theme-homesite/stargazers
@@ -98,7 +98,7 @@ tags_url: https://api.github.com/repos/jerryqii/vuepress-theme-homesite/tags
 teams_url: https://api.github.com/repos/jerryqii/vuepress-theme-homesite/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/jerryqii/vuepress-theme-homesite/git/trees{/sha}
-updated_at: '2019-11-13T06:26:09Z'
+updated_at: '2020-12-29T12:46:38Z'
 url: https://api.github.com/repos/jerryqii/vuepress-theme-homesite
 watchers: 0
 watchers_count: 0

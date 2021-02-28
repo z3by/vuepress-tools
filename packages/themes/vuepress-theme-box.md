@@ -54,7 +54,7 @@ notifications_url: https://api.github.com/repos/paul-xiao/vuepress-theme-box/not
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars1.githubusercontent.com/u/14194568?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/14194568?v=4
   events_url: https://api.github.com/users/paul-xiao/events{/privacy}
   followers_url: https://api.github.com/users/paul-xiao/followers
   following_url: https://api.github.com/users/paul-xiao/following{/other_user}

@@ -56,10 +56,10 @@ name: vuepress-theme-minos
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyNjczNDQ1MTM=
 notifications_url: https://api.github.com/repos/kencc/vuepress-theme-minos/notifications{?since,all,participating}
-open_issues: 2
-open_issues_count: 2
+open_issues: 3
+open_issues_count: 3
 owner:
-  avatar_url: https://avatars0.githubusercontent.com/u/3927230?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/3927230?v=4
   events_url: https://api.github.com/users/kencc/events{/privacy}
   followers_url: https://api.github.com/users/kencc/followers
   following_url: https://api.github.com/users/kencc/following{/other_user}
@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/kencc/vuepress-theme-minos/pulls{/number}
-pushed_at: '2020-07-20T21:40:53Z'
+pushed_at: '2020-12-12T19:22:08Z'
 releases_url: https://api.github.com/repos/kencc/vuepress-theme-minos/releases{/id}
-size: 9063
+size: 9214
 ssh_url: git@github.com:kencc/vuepress-theme-minos.git
 stargazers_count: 2
 stargazers_url: https://api.github.com/repos/kencc/vuepress-theme-minos/stargazers

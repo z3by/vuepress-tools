@@ -54,7 +54,7 @@ notifications_url: https://api.github.com/repos/kybetter/vuepress-theme-kytest/n
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars1.githubusercontent.com/u/12093502?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/12093502?v=4
   events_url: https://api.github.com/users/kybetter/events{/privacy}
   followers_url: https://api.github.com/users/kybetter/followers
   following_url: https://api.github.com/users/kybetter/following{/other_user}

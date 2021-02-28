@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/yscoder/vuepress-theme-indigo/downloads
 events_url: https://api.github.com/repos/yscoder/vuepress-theme-indigo/events
 fork: false
-forks: 25
-forks_count: 25
+forks: 26
+forks_count: 26
 forks_url: https://api.github.com/repos/yscoder/vuepress-theme-indigo/forks
 full_name: yscoder/vuepress-theme-indigo
 git_commits_url: https://api.github.com/repos/yscoder/vuepress-theme-indigo/git/commits{/sha}
@@ -53,13 +53,13 @@ merges_url: https://api.github.com/repos/yscoder/vuepress-theme-indigo/merges
 milestones_url: https://api.github.com/repos/yscoder/vuepress-theme-indigo/milestones{/number}
 mirror_url: null
 name: vuepress-theme-indigo
-network_count: 25
+network_count: 26
 node_id: MDEwOlJlcG9zaXRvcnkxMjk0OTcxODY=
 notifications_url: https://api.github.com/repos/yscoder/vuepress-theme-indigo/notifications{?since,all,participating}
 open_issues: 4
 open_issues_count: 4
 owner:
-  avatar_url: https://avatars0.githubusercontent.com/u/12295378?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/12295378?v=4
   events_url: https://api.github.com/users/yscoder/events{/privacy}
   followers_url: https://api.github.com/users/yscoder/followers
   following_url: https://api.github.com/users/yscoder/following{/other_user}
@@ -87,7 +87,7 @@ pushed_at: '2018-11-05T14:06:37Z'
 releases_url: https://api.github.com/repos/yscoder/vuepress-theme-indigo/releases{/id}
 size: 3194
 ssh_url: git@github.com:yscoder/vuepress-theme-indigo.git
-stargazers_count: 88
+stargazers_count: 86
 stargazers_url: https://api.github.com/repos/yscoder/vuepress-theme-indigo/stargazers
 statuses_url: https://api.github.com/repos/yscoder/vuepress-theme-indigo/statuses/{sha}
 subscribers_count: 3
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/yscoder/vuepress-theme-indigo/tags
 teams_url: https://api.github.com/repos/yscoder/vuepress-theme-indigo/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/yscoder/vuepress-theme-indigo/git/trees{/sha}
-updated_at: '2020-08-16T20:14:09Z'
+updated_at: '2021-01-22T17:20:31Z'
 url: https://api.github.com/repos/yscoder/vuepress-theme-indigo
-watchers: 88
-watchers_count: 88
+watchers: 86
+watchers_count: 86
 ---
 
 # vuepress-theme-indigo

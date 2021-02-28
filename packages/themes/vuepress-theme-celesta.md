@@ -1,0 +1,109 @@
+---
+archive_url: https://api.github.com/repos/nsznsznjsz/vuepress-theme-celesta/{archive_format}{/ref}
+archived: false
+assignees_url: https://api.github.com/repos/nsznsznjsz/vuepress-theme-celesta/assignees{/user}
+blobs_url: https://api.github.com/repos/nsznsznjsz/vuepress-theme-celesta/git/blobs{/sha}
+branches_url: https://api.github.com/repos/nsznsznjsz/vuepress-theme-celesta/branches{/branch}
+clone_url: https://github.com/nsznsznjsz/vuepress-theme-celesta.git
+collaborators_url: https://api.github.com/repos/nsznsznjsz/vuepress-theme-celesta/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/nsznsznjsz/vuepress-theme-celesta/comments{/number}
+commits_url: https://api.github.com/repos/nsznsznjsz/vuepress-theme-celesta/commits{/sha}
+compare_url: https://api.github.com/repos/nsznsznjsz/vuepress-theme-celesta/compare/{base}...{head}
+contents_url: https://api.github.com/repos/nsznsznjsz/vuepress-theme-celesta/contents/{+path}
+contributors_url: https://api.github.com/repos/nsznsznjsz/vuepress-theme-celesta/contributors
+created_at: '2021-02-05T11:34:06Z'
+default_branch: main
+deployments_url: https://api.github.com/repos/nsznsznjsz/vuepress-theme-celesta/deployments
+description: Blog theme for vuepress-next
+disabled: false
+downloads_url: https://api.github.com/repos/nsznsznjsz/vuepress-theme-celesta/downloads
+events_url: https://api.github.com/repos/nsznsznjsz/vuepress-theme-celesta/events
+fork: false
+forks: 0
+forks_count: 0
+forks_url: https://api.github.com/repos/nsznsznjsz/vuepress-theme-celesta/forks
+full_name: nsznsznjsz/vuepress-theme-celesta
+git_commits_url: https://api.github.com/repos/nsznsznjsz/vuepress-theme-celesta/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/nsznsznjsz/vuepress-theme-celesta/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/nsznsznjsz/vuepress-theme-celesta/git/tags{/sha}
+git_url: git://github.com/nsznsznjsz/vuepress-theme-celesta.git
+has_downloads: true
+has_issues: true
+has_pages: false
+has_projects: true
+has_wiki: true
+homepage: null
+hooks_url: https://api.github.com/repos/nsznsznjsz/vuepress-theme-celesta/hooks
+html_url: https://github.com/nsznsznjsz/vuepress-theme-celesta
+id: 336253582
+issue_comment_url: https://api.github.com/repos/nsznsznjsz/vuepress-theme-celesta/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/nsznsznjsz/vuepress-theme-celesta/issues/events{/number}
+issues_url: https://api.github.com/repos/nsznsznjsz/vuepress-theme-celesta/issues{/number}
+keys_url: https://api.github.com/repos/nsznsznjsz/vuepress-theme-celesta/keys{/key_id}
+labels_url: https://api.github.com/repos/nsznsznjsz/vuepress-theme-celesta/labels{/name}
+language: SCSS
+languages_url: https://api.github.com/repos/nsznsznjsz/vuepress-theme-celesta/languages
+license:
+  key: mit
+  name: MIT License
+  node_id: MDc6TGljZW5zZTEz
+  spdx_id: MIT
+  url: https://api.github.com/licenses/mit
+merges_url: https://api.github.com/repos/nsznsznjsz/vuepress-theme-celesta/merges
+milestones_url: https://api.github.com/repos/nsznsznjsz/vuepress-theme-celesta/milestones{/number}
+mirror_url: null
+name: vuepress-theme-celesta
+network_count: 0
+node_id: MDEwOlJlcG9zaXRvcnkzMzYyNTM1ODI=
+notifications_url: https://api.github.com/repos/nsznsznjsz/vuepress-theme-celesta/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
+owner:
+  avatar_url: https://avatars.githubusercontent.com/u/41458459?v=4
+  events_url: https://api.github.com/users/nsznsznjsz/events{/privacy}
+  followers_url: https://api.github.com/users/nsznsznjsz/followers
+  following_url: https://api.github.com/users/nsznsznjsz/following{/other_user}
+  gists_url: https://api.github.com/users/nsznsznjsz/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/nsznsznjsz
+  id: 41458459
+  login: nsznsznjsz
+  node_id: MDQ6VXNlcjQxNDU4NDU5
+  organizations_url: https://api.github.com/users/nsznsznjsz/orgs
+  received_events_url: https://api.github.com/users/nsznsznjsz/received_events
+  repos_url: https://api.github.com/users/nsznsznjsz/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/nsznsznjsz/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/nsznsznjsz/subscriptions
+  type: User
+  url: https://api.github.com/users/nsznsznjsz
+permissions:
+  admin: false
+  pull: true
+  push: false
+private: false
+pulls_url: https://api.github.com/repos/nsznsznjsz/vuepress-theme-celesta/pulls{/number}
+pushed_at: '2021-02-05T11:37:34Z'
+releases_url: https://api.github.com/repos/nsznsznjsz/vuepress-theme-celesta/releases{/id}
+size: 30
+ssh_url: git@github.com:nsznsznjsz/vuepress-theme-celesta.git
+stargazers_count: 0
+stargazers_url: https://api.github.com/repos/nsznsznjsz/vuepress-theme-celesta/stargazers
+statuses_url: https://api.github.com/repos/nsznsznjsz/vuepress-theme-celesta/statuses/{sha}
+subscribers_count: 1
+subscribers_url: https://api.github.com/repos/nsznsznjsz/vuepress-theme-celesta/subscribers
+subscription_url: https://api.github.com/repos/nsznsznjsz/vuepress-theme-celesta/subscription
+svn_url: https://github.com/nsznsznjsz/vuepress-theme-celesta
+tags_url: https://api.github.com/repos/nsznsznjsz/vuepress-theme-celesta/tags
+teams_url: https://api.github.com/repos/nsznsznjsz/vuepress-theme-celesta/teams
+temp_clone_token: ''
+trees_url: https://api.github.com/repos/nsznsznjsz/vuepress-theme-celesta/git/trees{/sha}
+updated_at: '2021-02-05T11:37:37Z'
+url: https://api.github.com/repos/nsznsznjsz/vuepress-theme-celesta
+watchers: 0
+watchers_count: 0
+---
+
+# vuepress-theme-celesta
+
+Blog theme for vuepress, see [My blog](https://github.com/nsznsznjsz/blog/).

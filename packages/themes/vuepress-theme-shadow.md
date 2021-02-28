@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/jianjustin/vuepress-theme-shadow
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars3.githubusercontent.com/u/18155107?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/18155107?v=4
   events_url: https://api.github.com/users/jianjustin/events{/privacy}
   followers_url: https://api.github.com/users/jianjustin/followers
   following_url: https://api.github.com/users/jianjustin/following{/other_user}
@@ -90,7 +90,7 @@ ssh_url: git@github.com:jianjustin/vuepress-theme-shadow.git
 stargazers_count: 1
 stargazers_url: https://api.github.com/repos/jianjustin/vuepress-theme-shadow/stargazers
 statuses_url: https://api.github.com/repos/jianjustin/vuepress-theme-shadow/statuses/{sha}
-subscribers_count: 1
+subscribers_count: 2
 subscribers_url: https://api.github.com/repos/jianjustin/vuepress-theme-shadow/subscribers
 subscription_url: https://api.github.com/repos/jianjustin/vuepress-theme-shadow/subscription
 svn_url: https://github.com/jianjustin/vuepress-theme-shadow

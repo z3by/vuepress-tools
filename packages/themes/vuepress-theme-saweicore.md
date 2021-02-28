@@ -43,7 +43,12 @@ keys_url: https://api.github.com/repos/saweima12/vuepress-theme-saweicore/keys{/
 labels_url: https://api.github.com/repos/saweima12/vuepress-theme-saweicore/labels{/name}
 language: Vue
 languages_url: https://api.github.com/repos/saweima12/vuepress-theme-saweicore/languages
-license: null
+license:
+  key: mit
+  name: MIT License
+  node_id: MDc6TGljZW5zZTEz
+  spdx_id: MIT
+  url: https://api.github.com/licenses/mit
 merges_url: https://api.github.com/repos/saweima12/vuepress-theme-saweicore/merges
 milestones_url: https://api.github.com/repos/saweima12/vuepress-theme-saweicore/milestones{/number}
 mirror_url: null
@@ -54,7 +59,7 @@ notifications_url: https://api.github.com/repos/saweima12/vuepress-theme-saweico
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars0.githubusercontent.com/u/62002212?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/62002212?v=4
   events_url: https://api.github.com/users/saweima12/events{/privacy}
   followers_url: https://api.github.com/users/saweima12/followers
   following_url: https://api.github.com/users/saweima12/following{/other_user}
@@ -78,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/saweima12/vuepress-theme-saweicore/pulls{/number}
-pushed_at: '2020-08-18T14:36:18Z'
+pushed_at: '2020-11-12T03:35:23Z'
 releases_url: https://api.github.com/repos/saweima12/vuepress-theme-saweicore/releases{/id}
-size: 1034
+size: 1223
 ssh_url: git@github.com:saweima12/vuepress-theme-saweicore.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/saweima12/vuepress-theme-saweicore/stargazers
@@ -93,10 +98,22 @@ tags_url: https://api.github.com/repos/saweima12/vuepress-theme-saweicore/tags
 teams_url: https://api.github.com/repos/saweima12/vuepress-theme-saweicore/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/saweima12/vuepress-theme-saweicore/git/trees{/sha}
-updated_at: '2020-08-18T14:36:22Z'
+updated_at: '2020-11-12T03:35:25Z'
 url: https://api.github.com/repos/saweima12/vuepress-theme-saweicore
 watchers: 0
 watchers_count: 0
 ---
 
-# Vuepress-theme-saweicore
+# vuepress-theme-saweicore
+
+一款乾淨、簡潔的 Vuepress theme 。
+
+A clean and simple theme for Vuepress.
+
+## 雜談
+
+這是我的第一個 Nodejs side project ，許多的功能都尚未完善。不過基本的布局都完善的差不多，因此姑且能用。 如果有發現什麼問、或是有些什麼建議，歡迎透過 issue 交流一下。
+
+## Lience
+
+[MIT Lience](https://github.com/saweima12/vuepress-theme-saweicore/blob/master/LICENSE)

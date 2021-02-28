@@ -20,8 +20,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/sogud/vuepress-theme-minimalism/downloads
 events_url: https://api.github.com/repos/sogud/vuepress-theme-minimalism/events
 fork: false
-forks: 1
-forks_count: 1
+forks: 0
+forks_count: 0
 forks_url: https://api.github.com/repos/sogud/vuepress-theme-minimalism/forks
 full_name: sogud/vuepress-theme-minimalism
 git_commits_url: https://api.github.com/repos/sogud/vuepress-theme-minimalism/git/commits{/sha}
@@ -54,13 +54,13 @@ merges_url: https://api.github.com/repos/sogud/vuepress-theme-minimalism/merges
 milestones_url: https://api.github.com/repos/sogud/vuepress-theme-minimalism/milestones{/number}
 mirror_url: null
 name: vuepress-theme-minimalism
-network_count: 1
+network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyMzU0OTY1Mjg=
 notifications_url: https://api.github.com/repos/sogud/vuepress-theme-minimalism/notifications{?since,all,participating}
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars0.githubusercontent.com/u/20726419?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/20726419?v=4
   events_url: https://api.github.com/users/sogud/events{/privacy}
   followers_url: https://api.github.com/users/sogud/followers
   following_url: https://api.github.com/users/sogud/following{/other_user}
@@ -88,7 +88,7 @@ pushed_at: '2020-05-22T09:40:42Z'
 releases_url: https://api.github.com/repos/sogud/vuepress-theme-minimalism/releases{/id}
 size: 294
 ssh_url: git@github.com:sogud/vuepress-theme-minimalism.git
-stargazers_count: 20
+stargazers_count: 19
 stargazers_url: https://api.github.com/repos/sogud/vuepress-theme-minimalism/stargazers
 statuses_url: https://api.github.com/repos/sogud/vuepress-theme-minimalism/statuses/{sha}
 subscribers_count: 0
@@ -99,10 +99,10 @@ tags_url: https://api.github.com/repos/sogud/vuepress-theme-minimalism/tags
 teams_url: https://api.github.com/repos/sogud/vuepress-theme-minimalism/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/sogud/vuepress-theme-minimalism/git/trees{/sha}
-updated_at: '2020-08-06T07:47:05Z'
+updated_at: '2020-08-30T00:48:32Z'
 url: https://api.github.com/repos/sogud/vuepress-theme-minimalism
-watchers: 20
-watchers_count: 20
+watchers: 19
+watchers_count: 19
 ---
 
 # vuepress-theme-minimalism

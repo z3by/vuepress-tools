@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/yuhongda0315/vuepress-plugin-glo
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars1.githubusercontent.com/u/13547775?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/13547775?v=4
   events_url: https://api.github.com/users/yuhongda0315/events{/privacy}
   followers_url: https://api.github.com/users/yuhongda0315/followers
   following_url: https://api.github.com/users/yuhongda0315/following{/other_user}

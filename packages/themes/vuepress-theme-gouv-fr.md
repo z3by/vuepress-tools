@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/etalab/vuepress-theme-gouv-fr/downloads
 events_url: https://api.github.com/repos/etalab/vuepress-theme-gouv-fr/events
 fork: false
-forks: 1
-forks_count: 1
+forks: 2
+forks_count: 2
 forks_url: https://api.github.com/repos/etalab/vuepress-theme-gouv-fr/forks
 full_name: etalab/vuepress-theme-gouv-fr
 git_commits_url: https://api.github.com/repos/etalab/vuepress-theme-gouv-fr/git/commits{/sha}
@@ -53,13 +53,13 @@ merges_url: https://api.github.com/repos/etalab/vuepress-theme-gouv-fr/merges
 milestones_url: https://api.github.com/repos/etalab/vuepress-theme-gouv-fr/milestones{/number}
 mirror_url: null
 name: vuepress-theme-gouv-fr
-network_count: 1
+network_count: 2
 node_id: MDEwOlJlcG9zaXRvcnkxOTAzNzMyMjE=
 notifications_url: https://api.github.com/repos/etalab/vuepress-theme-gouv-fr/notifications{?since,all,participating}
-open_issues: 4
-open_issues_count: 4
+open_issues: 5
+open_issues_count: 5
 organization:
-  avatar_url: https://avatars1.githubusercontent.com/u/5313610?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/5313610?v=4
   events_url: https://api.github.com/users/etalab/events{/privacy}
   followers_url: https://api.github.com/users/etalab/followers
   following_url: https://api.github.com/users/etalab/following{/other_user}
@@ -78,7 +78,7 @@ organization:
   type: Organization
   url: https://api.github.com/users/etalab
 owner:
-  avatar_url: https://avatars1.githubusercontent.com/u/5313610?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/5313610?v=4
   events_url: https://api.github.com/users/etalab/events{/privacy}
   followers_url: https://api.github.com/users/etalab/followers
   following_url: https://api.github.com/users/etalab/following{/other_user}
@@ -102,11 +102,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/etalab/vuepress-theme-gouv-fr/pulls{/number}
-pushed_at: '2020-01-31T10:38:53Z'
+pushed_at: '2020-10-19T08:04:00Z'
 releases_url: https://api.github.com/repos/etalab/vuepress-theme-gouv-fr/releases{/id}
 size: 527
 ssh_url: git@github.com:etalab/vuepress-theme-gouv-fr.git
-stargazers_count: 2
+stargazers_count: 5
 stargazers_url: https://api.github.com/repos/etalab/vuepress-theme-gouv-fr/stargazers
 statuses_url: https://api.github.com/repos/etalab/vuepress-theme-gouv-fr/statuses/{sha}
 subscribers_count: 2
@@ -117,10 +117,10 @@ tags_url: https://api.github.com/repos/etalab/vuepress-theme-gouv-fr/tags
 teams_url: https://api.github.com/repos/etalab/vuepress-theme-gouv-fr/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/etalab/vuepress-theme-gouv-fr/git/trees{/sha}
-updated_at: '2020-01-31T10:38:38Z'
+updated_at: '2020-12-21T00:53:49Z'
 url: https://api.github.com/repos/etalab/vuepress-theme-gouv-fr
-watchers: 2
-watchers_count: 2
+watchers: 5
+watchers_count: 5
 ---
 
 [![npm](https://img.shields.io/npm/v/vuepress-theme-gouv-fr.svg?style=flat-square)](https://npmjs.org/package/vuepress-theme-gouv-fr "View this project on npm")

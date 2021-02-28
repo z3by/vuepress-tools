@@ -20,8 +20,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/Danktuary/vuepress-theme-yuu/downloads
 events_url: https://api.github.com/repos/Danktuary/vuepress-theme-yuu/events
 fork: false
-forks: 6
-forks_count: 6
+forks: 7
+forks_count: 7
 forks_url: https://api.github.com/repos/Danktuary/vuepress-theme-yuu/forks
 full_name: Danktuary/vuepress-theme-yuu
 git_commits_url: https://api.github.com/repos/Danktuary/vuepress-theme-yuu/git/commits{/sha}
@@ -42,7 +42,7 @@ issue_events_url: https://api.github.com/repos/Danktuary/vuepress-theme-yuu/issu
 issues_url: https://api.github.com/repos/Danktuary/vuepress-theme-yuu/issues{/number}
 keys_url: https://api.github.com/repos/Danktuary/vuepress-theme-yuu/keys{/key_id}
 labels_url: https://api.github.com/repos/Danktuary/vuepress-theme-yuu/labels{/name}
-language: CSS
+language: Stylus
 languages_url: https://api.github.com/repos/Danktuary/vuepress-theme-yuu/languages
 license:
   key: mit
@@ -54,13 +54,13 @@ merges_url: https://api.github.com/repos/Danktuary/vuepress-theme-yuu/merges
 milestones_url: https://api.github.com/repos/Danktuary/vuepress-theme-yuu/milestones{/number}
 mirror_url: null
 name: vuepress-theme-yuu
-network_count: 6
+network_count: 7
 node_id: MDEwOlJlcG9zaXRvcnkxNDUyNTU3MDI=
 notifications_url: https://api.github.com/repos/Danktuary/vuepress-theme-yuu/notifications{?since,all,participating}
-open_issues: 2
-open_issues_count: 2
+open_issues: 0
+open_issues_count: 0
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/13043871?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/13043871?v=4
   events_url: https://api.github.com/users/Danktuary/events{/privacy}
   followers_url: https://api.github.com/users/Danktuary/followers
   following_url: https://api.github.com/users/Danktuary/following{/other_user}
@@ -84,14 +84,14 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/Danktuary/vuepress-theme-yuu/pulls{/number}
-pushed_at: '2020-07-17T01:43:53Z'
+pushed_at: '2021-02-22T00:48:07Z'
 releases_url: https://api.github.com/repos/Danktuary/vuepress-theme-yuu/releases{/id}
-size: 322
+size: 569
 ssh_url: git@github.com:Danktuary/vuepress-theme-yuu.git
-stargazers_count: 49
+stargazers_count: 59
 stargazers_url: https://api.github.com/repos/Danktuary/vuepress-theme-yuu/stargazers
 statuses_url: https://api.github.com/repos/Danktuary/vuepress-theme-yuu/statuses/{sha}
-subscribers_count: 3
+subscribers_count: 2
 subscribers_url: https://api.github.com/repos/Danktuary/vuepress-theme-yuu/subscribers
 subscription_url: https://api.github.com/repos/Danktuary/vuepress-theme-yuu/subscription
 svn_url: https://github.com/Danktuary/vuepress-theme-yuu
@@ -99,19 +99,19 @@ tags_url: https://api.github.com/repos/Danktuary/vuepress-theme-yuu/tags
 teams_url: https://api.github.com/repos/Danktuary/vuepress-theme-yuu/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/Danktuary/vuepress-theme-yuu/git/trees{/sha}
-updated_at: '2020-08-22T11:26:31Z'
+updated_at: '2021-02-22T00:47:44Z'
 url: https://api.github.com/repos/Danktuary/vuepress-theme-yuu
-watchers: 49
-watchers_count: 49
+watchers: 59
+watchers_count: 59
 ---
 
 <div align="center">
-	<img src="https://i.imgur.com/uphwMrZ.jpg" title="Yuu" alt="Yuu" />
+	<img src="https://i.imgur.com/j9bfYBy.png" title="Yuu" alt="Yuu" />
 </div>
 
 # Yuu
 
-A VuePress theme that supports a dark theme, multiple color themes, and other useful features. Extended upon the default VuePress theme with some adjustments.
+A [VuePress](https://vuepress.vuejs.org/) theme that supports a dark theme, multiple color themes, and [other useful features](https://vuepress-theme-yuu.netlify.app/theme-configuration.html). Extended upon the [default VuePress theme](https://vuepress.vuejs.org/theme/default-theme-config.html) with some adjustments.
 
 ## Installation
 
@@ -127,10 +127,23 @@ And then setting it in your `docs/.vuepress/config.js` file:
 ```js
 module.exports = {
 	theme: 'yuu',
-};
+}
 ```
 ## Features and configuration
 
-![Yuu user settings dropdown menu](https://i.imgur.com/NsJ0evR.png)
+![Yuu user settings dropdown menu](https://i.imgur.com/VCDGN8n.png)
 
-You can check out how to configure all of Yuu's features and a live demo on the [docs site](https://vuepress-theme-yuu.netlify.com/).
+You can check out how to configure all of Yuu's features and a live demo on the [docs site](https://vuepress-theme-yuu.netlify.app/).
+
+## Upgrading
+
+### Upgrade to v3
+
+Yuu v3 brings bug fixes and CSS updates, as well as a few small features and breaking changes. You should also consider upgrading to `vuepress@^1.8.0`.
+
+Features:
+- Added a `logo` option to the Yuu theme config
+- Added a `labels` option to the Yuu theme config
+
+Breaking changes:
+- The `forceTheme` frontmatter option has been renamed to `pageTheme`

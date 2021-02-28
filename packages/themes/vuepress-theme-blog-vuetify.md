@@ -20,8 +20,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/ttskch/vuepress-theme-blog-vuetify/downloads
 events_url: https://api.github.com/repos/ttskch/vuepress-theme-blog-vuetify/events
 fork: false
-forks: 0
-forks_count: 0
+forks: 2
+forks_count: 2
 forks_url: https://api.github.com/repos/ttskch/vuepress-theme-blog-vuetify/forks
 full_name: ttskch/vuepress-theme-blog-vuetify
 git_commits_url: https://api.github.com/repos/ttskch/vuepress-theme-blog-vuetify/git/commits{/sha}
@@ -54,13 +54,13 @@ merges_url: https://api.github.com/repos/ttskch/vuepress-theme-blog-vuetify/merg
 milestones_url: https://api.github.com/repos/ttskch/vuepress-theme-blog-vuetify/milestones{/number}
 mirror_url: null
 name: vuepress-theme-blog-vuetify
-network_count: 0
+network_count: 2
 node_id: MDEwOlJlcG9zaXRvcnkyNTkyMjM2MTI=
 notifications_url: https://api.github.com/repos/ttskch/vuepress-theme-blog-vuetify/notifications{?since,all,participating}
 open_issues: 2
 open_issues_count: 2
 owner:
-  avatar_url: https://avatars3.githubusercontent.com/u/4360663?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/4360663?v=4
   events_url: https://api.github.com/users/ttskch/events{/privacy}
   followers_url: https://api.github.com/users/ttskch/followers
   following_url: https://api.github.com/users/ttskch/following{/other_user}
@@ -84,11 +84,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/ttskch/vuepress-theme-blog-vuetify/pulls{/number}
-pushed_at: '2020-06-22T06:56:08Z'
+pushed_at: '2020-12-14T12:14:36Z'
 releases_url: https://api.github.com/repos/ttskch/vuepress-theme-blog-vuetify/releases{/id}
-size: 7644
+size: 11901
 ssh_url: git@github.com:ttskch/vuepress-theme-blog-vuetify.git
-stargazers_count: 10
+stargazers_count: 19
 stargazers_url: https://api.github.com/repos/ttskch/vuepress-theme-blog-vuetify/stargazers
 statuses_url: https://api.github.com/repos/ttskch/vuepress-theme-blog-vuetify/statuses/{sha}
 subscribers_count: 1
@@ -99,10 +99,10 @@ tags_url: https://api.github.com/repos/ttskch/vuepress-theme-blog-vuetify/tags
 teams_url: https://api.github.com/repos/ttskch/vuepress-theme-blog-vuetify/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/ttskch/vuepress-theme-blog-vuetify/git/trees{/sha}
-updated_at: '2020-07-30T22:00:03Z'
+updated_at: '2021-02-02T07:29:34Z'
 url: https://api.github.com/repos/ttskch/vuepress-theme-blog-vuetify
-watchers: 10
-watchers_count: 10
+watchers: 19
+watchers_count: 19
 ---
 
 # vuepress-theme-blog-vuetify

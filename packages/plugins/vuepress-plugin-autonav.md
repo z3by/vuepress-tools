@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/webmasterish/vuepress-plugin-aut
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/246901?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/246901?v=4
   events_url: https://api.github.com/users/webmasterish/events{/privacy}
   followers_url: https://api.github.com/users/webmasterish/followers
   following_url: https://api.github.com/users/webmasterish/following{/other_user}
@@ -87,7 +87,7 @@ pushed_at: '2019-08-08T20:27:16Z'
 releases_url: https://api.github.com/repos/webmasterish/vuepress-plugin-autonav/releases{/id}
 size: 14
 ssh_url: git@github.com:webmasterish/vuepress-plugin-autonav.git
-stargazers_count: 12
+stargazers_count: 13
 stargazers_url: https://api.github.com/repos/webmasterish/vuepress-plugin-autonav/stargazers
 statuses_url: https://api.github.com/repos/webmasterish/vuepress-plugin-autonav/statuses/{sha}
 subscribers_count: 2
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/webmasterish/vuepress-plugin-autonav/tags
 teams_url: https://api.github.com/repos/webmasterish/vuepress-plugin-autonav/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/webmasterish/vuepress-plugin-autonav/git/trees{/sha}
-updated_at: '2020-04-27T14:45:17Z'
+updated_at: '2020-08-28T01:50:10Z'
 url: https://api.github.com/repos/webmasterish/vuepress-plugin-autonav
-watchers: 12
-watchers_count: 12
+watchers: 13
+watchers_count: 13
 ---
 
 # VuePress Plugin Auto Nav Links

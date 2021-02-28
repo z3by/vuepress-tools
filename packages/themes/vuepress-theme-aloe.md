@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/konstruktor/vuepress-theme-aloe/
 open_issues: 0
 open_issues_count: 0
 organization:
-  avatar_url: https://avatars2.githubusercontent.com/u/39087326?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/39087326?v=4
   events_url: https://api.github.com/users/konstruktor/events{/privacy}
   followers_url: https://api.github.com/users/konstruktor/followers
   following_url: https://api.github.com/users/konstruktor/following{/other_user}
@@ -78,7 +78,7 @@ organization:
   type: Organization
   url: https://api.github.com/users/konstruktor
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/39087326?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/39087326?v=4
   events_url: https://api.github.com/users/konstruktor/events{/privacy}
   followers_url: https://api.github.com/users/konstruktor/followers
   following_url: https://api.github.com/users/konstruktor/following{/other_user}

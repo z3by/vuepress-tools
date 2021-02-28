@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez/downloads
 events_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez/events
 fork: false
-forks: 32
-forks_count: 32
+forks: 34
+forks_count: 34
 forks_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez/forks
 full_name: ktquez/vuepress-theme-ktquez
 git_commits_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez/git/commits{/sha}
@@ -53,13 +53,13 @@ merges_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez/merges
 milestones_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez/milestones{/number}
 mirror_url: null
 name: vuepress-theme-ktquez
-network_count: 32
+network_count: 34
 node_id: MDEwOlJlcG9zaXRvcnkxNDU0MzA0ODk=
 notifications_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez/notifications{?since,all,participating}
 open_issues: 7
 open_issues_count: 7
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/8084606?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/8084606?v=4
   events_url: https://api.github.com/users/ktquez/events{/privacy}
   followers_url: https://api.github.com/users/ktquez/followers
   following_url: https://api.github.com/users/ktquez/following{/other_user}
@@ -87,10 +87,10 @@ pushed_at: '2019-05-14T13:30:56Z'
 releases_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez/releases{/id}
 size: 1148
 ssh_url: git@github.com:ktquez/vuepress-theme-ktquez.git
-stargazers_count: 303
+stargazers_count: 319
 stargazers_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez/stargazers
 statuses_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez/statuses/{sha}
-subscribers_count: 11
+subscribers_count: 13
 subscribers_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez/subscribers
 subscription_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez/subscription
 svn_url: https://github.com/ktquez/vuepress-theme-ktquez
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez/tags
 teams_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez/git/trees{/sha}
-updated_at: '2020-07-29T01:56:14Z'
+updated_at: '2021-02-26T08:34:22Z'
 url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez
-watchers: 303
-watchers_count: 303
+watchers: 319
+watchers_count: 319
 ---
 
 # vuepress-theme-ktquez
@@ -118,33 +118,18 @@ https://github.com/ktquez/vuepress-theme-ktquez-starter
 ---
 
 ## Table of Contents
-- [vuepress-theme-ktquez](#vuepress-theme-ktquez)
-  - [Vuepress theme ktquez starter](#vuepress-theme-ktquez-starter)
-  - [Table of Contents](#table-of-contents)
-  - [Installation](#installation)
-  - [Configuration](#configuration)
-    - [themeConfig](#themeconfig)
-  - [Translations of the theme](#translations-of-the-theme)
-  - [Newsletter](#newsletter)
-  - [Responsive post cover](#responsive-post-cover)
-- [Structure directores (Suggestion)](#structure-directores-suggestion)
+- [Installation](#installation)
+- [Configuration](#configuration)
+- [Translations](#translations-of-the-theme)
+- [Newsletter](#newsletter)
+- [Responsive images](#responsive-post-cover)
+- [Structure](#structure-directores-suggestion)
 - [Frontmatter](#frontmatter)
-  - [Home](#home)
-  - [Post](#post)
-  - [Category](#category)
-  - [Author](#author)
-  - [Page](#page)
-- [Override CSS (Stylus)](#override-css-stylus)
-- [The best pratice of accessibility includes](#the-best-pratice-of-accessibility-includes)
-- [Lazy-load](#lazy-load)
+- [Override CSS](#override-css-stylus)
+- [Accessibility](#the-best-pratice-of-accessibility-includes)
+- [Lazy-Load](#lazy-load)
 - [And more](#and-more)
-  - [Anaytics campaign in posts](#anaytics-campaign-in-posts)
-  - [Fonts](#fonts)
-  - [Assets](#assets)
-  - [Ads](#ads)
-  - [Tools](#tools)
-  - [License](#license)
-  - [Contributing](#contributing)
+- [Tools](#tools)
 
 
 ## Installation
@@ -532,7 +517,7 @@ In addition to good practices such as:
 
 # Lazy-load
 
-It is possible to delay media loading using the global component \<lazy-load\>.
+It is possible to delay media loading using the global component <lazy-load>.
 
 In any markdown files you can to use this component, for example load a Youtube video
 

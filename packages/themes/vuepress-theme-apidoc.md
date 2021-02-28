@@ -54,7 +54,7 @@ notifications_url: https://api.github.com/repos/dyingAngel/vuepress-theme-apidoc
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars3.githubusercontent.com/u/26730501?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/26730501?v=4
   events_url: https://api.github.com/users/dyingAngel/events{/privacy}
   followers_url: https://api.github.com/users/dyingAngel/followers
   following_url: https://api.github.com/users/dyingAngel/following{/other_user}
@@ -85,7 +85,7 @@ ssh_url: git@github.com:dyingAngel/vuepress-theme-apidoc.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/dyingAngel/vuepress-theme-apidoc/stargazers
 statuses_url: https://api.github.com/repos/dyingAngel/vuepress-theme-apidoc/statuses/{sha}
-subscribers_count: 1
+subscribers_count: 2
 subscribers_url: https://api.github.com/repos/dyingAngel/vuepress-theme-apidoc/subscribers
 subscription_url: https://api.github.com/repos/dyingAngel/vuepress-theme-apidoc/subscription
 svn_url: https://github.com/dyingAngel/vuepress-theme-apidoc

@@ -54,7 +54,7 @@ notifications_url: https://api.github.com/repos/billyyyyy3320/vuepress-plugin-bl
 open_issues: 18
 open_issues_count: 18
 owner:
-  avatar_url: https://avatars0.githubusercontent.com/u/38957202?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/38957202?v=4
   events_url: https://api.github.com/users/billyyyyy3320/events{/privacy}
   followers_url: https://api.github.com/users/billyyyyy3320/followers
   following_url: https://api.github.com/users/billyyyyy3320/following{/other_user}

@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/tolking/vuepress-plugin-img-lazy
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars0.githubusercontent.com/u/23313167?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/23313167?v=4
   events_url: https://api.github.com/users/tolking/events{/privacy}
   followers_url: https://api.github.com/users/tolking/followers
   following_url: https://api.github.com/users/tolking/following{/other_user}
@@ -83,14 +83,14 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/tolking/vuepress-plugin-img-lazy/pulls{/number}
-pushed_at: '2020-07-09T12:19:22Z'
+pushed_at: '2020-12-05T07:57:12Z'
 releases_url: https://api.github.com/repos/tolking/vuepress-plugin-img-lazy/releases{/id}
-size: 628
+size: 750
 ssh_url: git@github.com:tolking/vuepress-plugin-img-lazy.git
-stargazers_count: 9
+stargazers_count: 16
 stargazers_url: https://api.github.com/repos/tolking/vuepress-plugin-img-lazy/stargazers
 statuses_url: https://api.github.com/repos/tolking/vuepress-plugin-img-lazy/statuses/{sha}
-subscribers_count: 2
+subscribers_count: 3
 subscribers_url: https://api.github.com/repos/tolking/vuepress-plugin-img-lazy/subscribers
 subscription_url: https://api.github.com/repos/tolking/vuepress-plugin-img-lazy/subscription
 svn_url: https://github.com/tolking/vuepress-plugin-img-lazy
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/tolking/vuepress-plugin-img-lazy/tags
 teams_url: https://api.github.com/repos/tolking/vuepress-plugin-img-lazy/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/tolking/vuepress-plugin-img-lazy/git/trees{/sha}
-updated_at: '2020-08-21T18:15:31Z'
+updated_at: '2021-02-08T21:50:07Z'
 url: https://api.github.com/repos/tolking/vuepress-plugin-img-lazy
-watchers: 9
-watchers_count: 9
+watchers: 16
+watchers_count: 16
 ---
 
 # vuepress-plugin-img-lazy
@@ -180,7 +180,7 @@ export default {
 ## Options
 
 ### useNative
-- Type: `Boolben`
+- Type: `Boolean`
 - Default: `true`
 - Required: `false`
 

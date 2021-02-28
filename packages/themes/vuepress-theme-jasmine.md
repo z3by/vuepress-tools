@@ -1,0 +1,102 @@
+---
+archive_url: https://api.github.com/repos/wangxiaocuo/vuepress-theme-jasmine/{archive_format}{/ref}
+archived: false
+assignees_url: https://api.github.com/repos/wangxiaocuo/vuepress-theme-jasmine/assignees{/user}
+blobs_url: https://api.github.com/repos/wangxiaocuo/vuepress-theme-jasmine/git/blobs{/sha}
+branches_url: https://api.github.com/repos/wangxiaocuo/vuepress-theme-jasmine/branches{/branch}
+clone_url: https://github.com/wangxiaocuo/vuepress-theme-jasmine.git
+collaborators_url: https://api.github.com/repos/wangxiaocuo/vuepress-theme-jasmine/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/wangxiaocuo/vuepress-theme-jasmine/comments{/number}
+commits_url: https://api.github.com/repos/wangxiaocuo/vuepress-theme-jasmine/commits{/sha}
+compare_url: https://api.github.com/repos/wangxiaocuo/vuepress-theme-jasmine/compare/{base}...{head}
+contents_url: https://api.github.com/repos/wangxiaocuo/vuepress-theme-jasmine/contents/{+path}
+contributors_url: https://api.github.com/repos/wangxiaocuo/vuepress-theme-jasmine/contributors
+created_at: '2020-10-15T06:17:01Z'
+default_branch: dev
+deployments_url: https://api.github.com/repos/wangxiaocuo/vuepress-theme-jasmine/deployments
+description: null
+disabled: false
+downloads_url: https://api.github.com/repos/wangxiaocuo/vuepress-theme-jasmine/downloads
+events_url: https://api.github.com/repos/wangxiaocuo/vuepress-theme-jasmine/events
+fork: false
+forks: 0
+forks_count: 0
+forks_url: https://api.github.com/repos/wangxiaocuo/vuepress-theme-jasmine/forks
+full_name: wangxiaocuo/vuepress-theme-jasmine
+git_commits_url: https://api.github.com/repos/wangxiaocuo/vuepress-theme-jasmine/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/wangxiaocuo/vuepress-theme-jasmine/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/wangxiaocuo/vuepress-theme-jasmine/git/tags{/sha}
+git_url: git://github.com/wangxiaocuo/vuepress-theme-jasmine.git
+has_downloads: true
+has_issues: true
+has_pages: false
+has_projects: true
+has_wiki: true
+homepage: null
+hooks_url: https://api.github.com/repos/wangxiaocuo/vuepress-theme-jasmine/hooks
+html_url: https://github.com/wangxiaocuo/vuepress-theme-jasmine
+id: 304228302
+issue_comment_url: https://api.github.com/repos/wangxiaocuo/vuepress-theme-jasmine/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/wangxiaocuo/vuepress-theme-jasmine/issues/events{/number}
+issues_url: https://api.github.com/repos/wangxiaocuo/vuepress-theme-jasmine/issues{/number}
+keys_url: https://api.github.com/repos/wangxiaocuo/vuepress-theme-jasmine/keys{/key_id}
+labels_url: https://api.github.com/repos/wangxiaocuo/vuepress-theme-jasmine/labels{/name}
+language: Vue
+languages_url: https://api.github.com/repos/wangxiaocuo/vuepress-theme-jasmine/languages
+license: null
+merges_url: https://api.github.com/repos/wangxiaocuo/vuepress-theme-jasmine/merges
+milestones_url: https://api.github.com/repos/wangxiaocuo/vuepress-theme-jasmine/milestones{/number}
+mirror_url: null
+name: vuepress-theme-jasmine
+network_count: 0
+node_id: MDEwOlJlcG9zaXRvcnkzMDQyMjgzMDI=
+notifications_url: https://api.github.com/repos/wangxiaocuo/vuepress-theme-jasmine/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
+owner:
+  avatar_url: https://avatars.githubusercontent.com/u/16472134?v=4
+  events_url: https://api.github.com/users/wangxiaocuo/events{/privacy}
+  followers_url: https://api.github.com/users/wangxiaocuo/followers
+  following_url: https://api.github.com/users/wangxiaocuo/following{/other_user}
+  gists_url: https://api.github.com/users/wangxiaocuo/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/wangxiaocuo
+  id: 16472134
+  login: wangxiaocuo
+  node_id: MDQ6VXNlcjE2NDcyMTM0
+  organizations_url: https://api.github.com/users/wangxiaocuo/orgs
+  received_events_url: https://api.github.com/users/wangxiaocuo/received_events
+  repos_url: https://api.github.com/users/wangxiaocuo/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/wangxiaocuo/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/wangxiaocuo/subscriptions
+  type: User
+  url: https://api.github.com/users/wangxiaocuo
+permissions:
+  admin: false
+  pull: true
+  push: false
+private: false
+pulls_url: https://api.github.com/repos/wangxiaocuo/vuepress-theme-jasmine/pulls{/number}
+pushed_at: '2021-02-05T02:57:07Z'
+releases_url: https://api.github.com/repos/wangxiaocuo/vuepress-theme-jasmine/releases{/id}
+size: 148
+ssh_url: git@github.com:wangxiaocuo/vuepress-theme-jasmine.git
+stargazers_count: 0
+stargazers_url: https://api.github.com/repos/wangxiaocuo/vuepress-theme-jasmine/stargazers
+statuses_url: https://api.github.com/repos/wangxiaocuo/vuepress-theme-jasmine/statuses/{sha}
+subscribers_count: 1
+subscribers_url: https://api.github.com/repos/wangxiaocuo/vuepress-theme-jasmine/subscribers
+subscription_url: https://api.github.com/repos/wangxiaocuo/vuepress-theme-jasmine/subscription
+svn_url: https://github.com/wangxiaocuo/vuepress-theme-jasmine
+tags_url: https://api.github.com/repos/wangxiaocuo/vuepress-theme-jasmine/tags
+teams_url: https://api.github.com/repos/wangxiaocuo/vuepress-theme-jasmine/teams
+temp_clone_token: ''
+trees_url: https://api.github.com/repos/wangxiaocuo/vuepress-theme-jasmine/git/trees{/sha}
+updated_at: '2021-02-05T02:57:09Z'
+url: https://api.github.com/repos/wangxiaocuo/vuepress-theme-jasmine
+watchers: 0
+watchers_count: 0
+---
+
+# VuePress 主题 —— vuepress-theme-jasmine 茉莉花红

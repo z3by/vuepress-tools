@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/Yubisaki/vuepress-theme-yubisaki/downloads
 events_url: https://api.github.com/repos/Yubisaki/vuepress-theme-yubisaki/events
 fork: false
-forks: 15
-forks_count: 15
+forks: 16
+forks_count: 16
 forks_url: https://api.github.com/repos/Yubisaki/vuepress-theme-yubisaki/forks
 full_name: Yubisaki/vuepress-theme-yubisaki
 git_commits_url: https://api.github.com/repos/Yubisaki/vuepress-theme-yubisaki/git/commits{/sha}
@@ -53,13 +53,13 @@ merges_url: https://api.github.com/repos/Yubisaki/vuepress-theme-yubisaki/merges
 milestones_url: https://api.github.com/repos/Yubisaki/vuepress-theme-yubisaki/milestones{/number}
 mirror_url: null
 name: vuepress-theme-yubisaki
-network_count: 15
+network_count: 16
 node_id: MDEwOlJlcG9zaXRvcnkxMzA0OTgzODI=
 notifications_url: https://api.github.com/repos/Yubisaki/vuepress-theme-yubisaki/notifications{?since,all,participating}
 open_issues: 0
 open_issues_count: 0
 organization:
-  avatar_url: https://avatars0.githubusercontent.com/u/43475371?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/43475371?v=4
   events_url: https://api.github.com/users/Yubisaki/events{/privacy}
   followers_url: https://api.github.com/users/Yubisaki/followers
   following_url: https://api.github.com/users/Yubisaki/following{/other_user}
@@ -78,7 +78,7 @@ organization:
   type: Organization
   url: https://api.github.com/users/Yubisaki
 owner:
-  avatar_url: https://avatars0.githubusercontent.com/u/43475371?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/43475371?v=4
   events_url: https://api.github.com/users/Yubisaki/events{/privacy}
   followers_url: https://api.github.com/users/Yubisaki/followers
   following_url: https://api.github.com/users/Yubisaki/following{/other_user}
@@ -106,10 +106,10 @@ pushed_at: '2019-10-08T06:42:10Z'
 releases_url: https://api.github.com/repos/Yubisaki/vuepress-theme-yubisaki/releases{/id}
 size: 736
 ssh_url: git@github.com:Yubisaki/vuepress-theme-yubisaki.git
-stargazers_count: 195
+stargazers_count: 196
 stargazers_url: https://api.github.com/repos/Yubisaki/vuepress-theme-yubisaki/stargazers
 statuses_url: https://api.github.com/repos/Yubisaki/vuepress-theme-yubisaki/statuses/{sha}
-subscribers_count: 6
+subscribers_count: 5
 subscribers_url: https://api.github.com/repos/Yubisaki/vuepress-theme-yubisaki/subscribers
 subscription_url: https://api.github.com/repos/Yubisaki/vuepress-theme-yubisaki/subscription
 svn_url: https://github.com/Yubisaki/vuepress-theme-yubisaki
@@ -117,10 +117,10 @@ tags_url: https://api.github.com/repos/Yubisaki/vuepress-theme-yubisaki/tags
 teams_url: https://api.github.com/repos/Yubisaki/vuepress-theme-yubisaki/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/Yubisaki/vuepress-theme-yubisaki/git/trees{/sha}
-updated_at: '2020-07-31T12:09:30Z'
+updated_at: '2021-01-12T20:27:13Z'
 url: https://api.github.com/repos/Yubisaki/vuepress-theme-yubisaki
-watchers: 195
-watchers_count: 195
+watchers: 196
+watchers_count: 196
 ---
 
 <pre>

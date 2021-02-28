@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/bestony/vuepress-plugin-cleanmyl
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars1.githubusercontent.com/u/13283837?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/13283837?v=4
   events_url: https://api.github.com/users/bestony/events{/privacy}
   followers_url: https://api.github.com/users/bestony/followers
   following_url: https://api.github.com/users/bestony/following{/other_user}

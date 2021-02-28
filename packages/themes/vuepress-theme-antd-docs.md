@@ -56,10 +56,10 @@ name: vuepress-theme-antd-docs
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyNTkyMzIzNzY=
 notifications_url: https://api.github.com/repos/konnga/vuepress-theme-antd-docs/notifications{?since,all,participating}
-open_issues: 4
-open_issues_count: 4
+open_issues: 6
+open_issues_count: 6
 owner:
-  avatar_url: https://avatars1.githubusercontent.com/u/18214609?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/18214609?v=4
   events_url: https://api.github.com/users/konnga/events{/privacy}
   followers_url: https://api.github.com/users/konnga/followers
   following_url: https://api.github.com/users/konnga/following{/other_user}
@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/konnga/vuepress-theme-antd-docs/pulls{/number}
-pushed_at: '2020-08-08T00:14:57Z'
+pushed_at: '2020-12-12T15:31:36Z'
 releases_url: https://api.github.com/repos/konnga/vuepress-theme-antd-docs/releases{/id}
-size: 762
+size: 929
 ssh_url: git@github.com:konnga/vuepress-theme-antd-docs.git
 stargazers_count: 1
 stargazers_url: https://api.github.com/repos/konnga/vuepress-theme-antd-docs/stargazers
@@ -98,7 +98,7 @@ tags_url: https://api.github.com/repos/konnga/vuepress-theme-antd-docs/tags
 teams_url: https://api.github.com/repos/konnga/vuepress-theme-antd-docs/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/konnga/vuepress-theme-antd-docs/git/trees{/sha}
-updated_at: '2020-05-20T01:43:18Z'
+updated_at: '2020-10-12T08:48:27Z'
 url: https://api.github.com/repos/konnga/vuepress-theme-antd-docs
 watchers: 1
 watchers_count: 1

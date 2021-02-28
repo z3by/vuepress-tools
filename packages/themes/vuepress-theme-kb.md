@@ -1,0 +1,127 @@
+---
+archive_url: https://api.github.com/repos/AphelionSoftware/vuepress-theme-kb/{archive_format}{/ref}
+archived: false
+assignees_url: https://api.github.com/repos/AphelionSoftware/vuepress-theme-kb/assignees{/user}
+blobs_url: https://api.github.com/repos/AphelionSoftware/vuepress-theme-kb/git/blobs{/sha}
+branches_url: https://api.github.com/repos/AphelionSoftware/vuepress-theme-kb/branches{/branch}
+clone_url: https://github.com/AphelionSoftware/vuepress-theme-kb.git
+collaborators_url: https://api.github.com/repos/AphelionSoftware/vuepress-theme-kb/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/AphelionSoftware/vuepress-theme-kb/comments{/number}
+commits_url: https://api.github.com/repos/AphelionSoftware/vuepress-theme-kb/commits{/sha}
+compare_url: https://api.github.com/repos/AphelionSoftware/vuepress-theme-kb/compare/{base}...{head}
+contents_url: https://api.github.com/repos/AphelionSoftware/vuepress-theme-kb/contents/{+path}
+contributors_url: https://api.github.com/repos/AphelionSoftware/vuepress-theme-kb/contributors
+created_at: '2019-11-08T11:32:59Z'
+default_branch: master
+deployments_url: https://api.github.com/repos/AphelionSoftware/vuepress-theme-kb/deployments
+description: null
+disabled: false
+downloads_url: https://api.github.com/repos/AphelionSoftware/vuepress-theme-kb/downloads
+events_url: https://api.github.com/repos/AphelionSoftware/vuepress-theme-kb/events
+fork: false
+forks: 0
+forks_count: 0
+forks_url: https://api.github.com/repos/AphelionSoftware/vuepress-theme-kb/forks
+full_name: AphelionSoftware/vuepress-theme-kb
+git_commits_url: https://api.github.com/repos/AphelionSoftware/vuepress-theme-kb/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/AphelionSoftware/vuepress-theme-kb/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/AphelionSoftware/vuepress-theme-kb/git/tags{/sha}
+git_url: git://github.com/AphelionSoftware/vuepress-theme-kb.git
+has_downloads: true
+has_issues: true
+has_pages: false
+has_projects: true
+has_wiki: true
+homepage: null
+hooks_url: https://api.github.com/repos/AphelionSoftware/vuepress-theme-kb/hooks
+html_url: https://github.com/AphelionSoftware/vuepress-theme-kb
+id: 220453703
+issue_comment_url: https://api.github.com/repos/AphelionSoftware/vuepress-theme-kb/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/AphelionSoftware/vuepress-theme-kb/issues/events{/number}
+issues_url: https://api.github.com/repos/AphelionSoftware/vuepress-theme-kb/issues{/number}
+keys_url: https://api.github.com/repos/AphelionSoftware/vuepress-theme-kb/keys{/key_id}
+labels_url: https://api.github.com/repos/AphelionSoftware/vuepress-theme-kb/labels{/name}
+language: JavaScript
+languages_url: https://api.github.com/repos/AphelionSoftware/vuepress-theme-kb/languages
+license:
+  key: mit
+  name: MIT License
+  node_id: MDc6TGljZW5zZTEz
+  spdx_id: MIT
+  url: https://api.github.com/licenses/mit
+merges_url: https://api.github.com/repos/AphelionSoftware/vuepress-theme-kb/merges
+milestones_url: https://api.github.com/repos/AphelionSoftware/vuepress-theme-kb/milestones{/number}
+mirror_url: null
+name: vuepress-theme-kb
+network_count: 0
+node_id: MDEwOlJlcG9zaXRvcnkyMjA0NTM3MDM=
+notifications_url: https://api.github.com/repos/AphelionSoftware/vuepress-theme-kb/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
+organization:
+  avatar_url: https://avatars.githubusercontent.com/u/3523840?v=4
+  events_url: https://api.github.com/users/AphelionSoftware/events{/privacy}
+  followers_url: https://api.github.com/users/AphelionSoftware/followers
+  following_url: https://api.github.com/users/AphelionSoftware/following{/other_user}
+  gists_url: https://api.github.com/users/AphelionSoftware/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/AphelionSoftware
+  id: 3523840
+  login: AphelionSoftware
+  node_id: MDEyOk9yZ2FuaXphdGlvbjM1MjM4NDA=
+  organizations_url: https://api.github.com/users/AphelionSoftware/orgs
+  received_events_url: https://api.github.com/users/AphelionSoftware/received_events
+  repos_url: https://api.github.com/users/AphelionSoftware/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/AphelionSoftware/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/AphelionSoftware/subscriptions
+  type: Organization
+  url: https://api.github.com/users/AphelionSoftware
+owner:
+  avatar_url: https://avatars.githubusercontent.com/u/3523840?v=4
+  events_url: https://api.github.com/users/AphelionSoftware/events{/privacy}
+  followers_url: https://api.github.com/users/AphelionSoftware/followers
+  following_url: https://api.github.com/users/AphelionSoftware/following{/other_user}
+  gists_url: https://api.github.com/users/AphelionSoftware/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/AphelionSoftware
+  id: 3523840
+  login: AphelionSoftware
+  node_id: MDEyOk9yZ2FuaXphdGlvbjM1MjM4NDA=
+  organizations_url: https://api.github.com/users/AphelionSoftware/orgs
+  received_events_url: https://api.github.com/users/AphelionSoftware/received_events
+  repos_url: https://api.github.com/users/AphelionSoftware/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/AphelionSoftware/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/AphelionSoftware/subscriptions
+  type: Organization
+  url: https://api.github.com/users/AphelionSoftware
+permissions:
+  admin: false
+  pull: true
+  push: false
+private: false
+pulls_url: https://api.github.com/repos/AphelionSoftware/vuepress-theme-kb/pulls{/number}
+pushed_at: '2019-11-16T07:30:43Z'
+releases_url: https://api.github.com/repos/AphelionSoftware/vuepress-theme-kb/releases{/id}
+size: 1645
+ssh_url: git@github.com:AphelionSoftware/vuepress-theme-kb.git
+stargazers_count: 0
+stargazers_url: https://api.github.com/repos/AphelionSoftware/vuepress-theme-kb/stargazers
+statuses_url: https://api.github.com/repos/AphelionSoftware/vuepress-theme-kb/statuses/{sha}
+subscribers_count: 1
+subscribers_url: https://api.github.com/repos/AphelionSoftware/vuepress-theme-kb/subscribers
+subscription_url: https://api.github.com/repos/AphelionSoftware/vuepress-theme-kb/subscription
+svn_url: https://github.com/AphelionSoftware/vuepress-theme-kb
+tags_url: https://api.github.com/repos/AphelionSoftware/vuepress-theme-kb/tags
+teams_url: https://api.github.com/repos/AphelionSoftware/vuepress-theme-kb/teams
+temp_clone_token: ''
+trees_url: https://api.github.com/repos/AphelionSoftware/vuepress-theme-kb/git/trees{/sha}
+updated_at: '2021-01-16T21:57:06Z'
+url: https://api.github.com/repos/AphelionSoftware/vuepress-theme-kb
+watchers: 0
+watchers_count: 0
+---
+
+# vuepress-theme-kb
+ 

@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/vuepress-reco/vuepress-theme-reco-demo/downloads
 events_url: https://api.github.com/repos/vuepress-reco/vuepress-theme-reco-demo/events
 fork: false
-forks: 7
-forks_count: 7
+forks: 8
+forks_count: 8
 forks_url: https://api.github.com/repos/vuepress-reco/vuepress-theme-reco-demo/forks
 full_name: vuepress-reco/vuepress-theme-reco-demo
 git_commits_url: https://api.github.com/repos/vuepress-reco/vuepress-theme-reco-demo/git/commits{/sha}
@@ -48,13 +48,13 @@ merges_url: https://api.github.com/repos/vuepress-reco/vuepress-theme-reco-demo/
 milestones_url: https://api.github.com/repos/vuepress-reco/vuepress-theme-reco-demo/milestones{/number}
 mirror_url: null
 name: vuepress-theme-reco-demo
-network_count: 7
+network_count: 8
 node_id: MDEwOlJlcG9zaXRvcnkxODE2Mjg0NzM=
 notifications_url: https://api.github.com/repos/vuepress-reco/vuepress-theme-reco-demo/notifications{?since,all,participating}
 open_issues: 0
 open_issues_count: 0
 organization:
-  avatar_url: https://avatars0.githubusercontent.com/u/54167020?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/54167020?v=4
   events_url: https://api.github.com/users/vuepress-reco/events{/privacy}
   followers_url: https://api.github.com/users/vuepress-reco/followers
   following_url: https://api.github.com/users/vuepress-reco/following{/other_user}
@@ -73,7 +73,7 @@ organization:
   type: Organization
   url: https://api.github.com/users/vuepress-reco
 owner:
-  avatar_url: https://avatars0.githubusercontent.com/u/54167020?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/54167020?v=4
   events_url: https://api.github.com/users/vuepress-reco/events{/privacy}
   followers_url: https://api.github.com/users/vuepress-reco/followers
   following_url: https://api.github.com/users/vuepress-reco/following{/other_user}
@@ -97,14 +97,14 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/vuepress-reco/vuepress-theme-reco-demo/pulls{/number}
-pushed_at: '2020-08-06T02:56:17Z'
+pushed_at: '2020-12-27T10:48:12Z'
 releases_url: https://api.github.com/repos/vuepress-reco/vuepress-theme-reco-demo/releases{/id}
-size: 1467
+size: 1471
 ssh_url: git@github.com:vuepress-reco/vuepress-theme-reco-demo.git
-stargazers_count: 5
+stargazers_count: 7
 stargazers_url: https://api.github.com/repos/vuepress-reco/vuepress-theme-reco-demo/stargazers
 statuses_url: https://api.github.com/repos/vuepress-reco/vuepress-theme-reco-demo/statuses/{sha}
-subscribers_count: 2
+subscribers_count: 1
 subscribers_url: https://api.github.com/repos/vuepress-reco/vuepress-theme-reco-demo/subscribers
 subscription_url: https://api.github.com/repos/vuepress-reco/vuepress-theme-reco-demo/subscription
 svn_url: https://github.com/vuepress-reco/vuepress-theme-reco-demo
@@ -112,10 +112,10 @@ tags_url: https://api.github.com/repos/vuepress-reco/vuepress-theme-reco-demo/ta
 teams_url: https://api.github.com/repos/vuepress-reco/vuepress-theme-reco-demo/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/vuepress-reco/vuepress-theme-reco-demo/git/trees{/sha}
-updated_at: '2020-07-11T14:02:29Z'
+updated_at: '2021-01-25T07:38:46Z'
 url: https://api.github.com/repos/vuepress-reco/vuepress-theme-reco-demo
-watchers: 5
-watchers_count: 5
+watchers: 7
+watchers_count: 7
 ---
 
 # vuepress-theme-reco-demo

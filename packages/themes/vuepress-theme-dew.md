@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/hvnobug/vuepress-theme-dew/notif
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars1.githubusercontent.com/u/26021844?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/26021844?v=4
   events_url: https://api.github.com/users/hvnobug/events{/privacy}
   followers_url: https://api.github.com/users/hvnobug/followers
   following_url: https://api.github.com/users/hvnobug/following{/other_user}
@@ -87,7 +87,7 @@ pushed_at: '2019-12-20T08:34:45Z'
 releases_url: https://api.github.com/repos/hvnobug/vuepress-theme-dew/releases{/id}
 size: 1681
 ssh_url: git@github.com:hvnobug/vuepress-theme-dew.git
-stargazers_count: 8
+stargazers_count: 9
 stargazers_url: https://api.github.com/repos/hvnobug/vuepress-theme-dew/stargazers
 statuses_url: https://api.github.com/repos/hvnobug/vuepress-theme-dew/statuses/{sha}
 subscribers_count: 1
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/hvnobug/vuepress-theme-dew/tags
 teams_url: https://api.github.com/repos/hvnobug/vuepress-theme-dew/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/hvnobug/vuepress-theme-dew/git/trees{/sha}
-updated_at: '2020-02-14T07:37:19Z'
+updated_at: '2020-09-28T02:34:02Z'
 url: https://api.github.com/repos/hvnobug/vuepress-theme-dew
-watchers: 8
-watchers_count: 8
+watchers: 9
+watchers_count: 9
 ---
 
 ## vuepress-theme-dew

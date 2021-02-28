@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/stack-stark/vuepress-plugin-live2D/downloads
 events_url: https://api.github.com/repos/stack-stark/vuepress-plugin-live2D/events
 fork: false
-forks: 0
-forks_count: 0
+forks: 1
+forks_count: 1
 forks_url: https://api.github.com/repos/stack-stark/vuepress-plugin-live2D/forks
 full_name: stack-stark/vuepress-plugin-live2D
 git_commits_url: https://api.github.com/repos/stack-stark/vuepress-plugin-live2D/git/commits{/sha}
@@ -53,13 +53,13 @@ merges_url: https://api.github.com/repos/stack-stark/vuepress-plugin-live2D/merg
 milestones_url: https://api.github.com/repos/stack-stark/vuepress-plugin-live2D/milestones{/number}
 mirror_url: null
 name: vuepress-plugin-live2D
-network_count: 0
+network_count: 1
 node_id: MDEwOlJlcG9zaXRvcnkyNDA4NzI1MjM=
 notifications_url: https://api.github.com/repos/stack-stark/vuepress-plugin-live2D/notifications{?since,all,participating}
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars0.githubusercontent.com/u/46991054?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/46991054?v=4
   events_url: https://api.github.com/users/stack-stark/events{/privacy}
   followers_url: https://api.github.com/users/stack-stark/followers
   following_url: https://api.github.com/users/stack-stark/following{/other_user}
@@ -87,10 +87,10 @@ pushed_at: '2020-02-17T04:18:35Z'
 releases_url: https://api.github.com/repos/stack-stark/vuepress-plugin-live2D/releases{/id}
 size: 44
 ssh_url: git@github.com:stack-stark/vuepress-plugin-live2D.git
-stargazers_count: 1
+stargazers_count: 2
 stargazers_url: https://api.github.com/repos/stack-stark/vuepress-plugin-live2D/stargazers
 statuses_url: https://api.github.com/repos/stack-stark/vuepress-plugin-live2D/statuses/{sha}
-subscribers_count: 1
+subscribers_count: 2
 subscribers_url: https://api.github.com/repos/stack-stark/vuepress-plugin-live2D/subscribers
 subscription_url: https://api.github.com/repos/stack-stark/vuepress-plugin-live2D/subscription
 svn_url: https://github.com/stack-stark/vuepress-plugin-live2D
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/stack-stark/vuepress-plugin-live2D/tags
 teams_url: https://api.github.com/repos/stack-stark/vuepress-plugin-live2D/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/stack-stark/vuepress-plugin-live2D/git/trees{/sha}
-updated_at: '2020-03-05T16:49:14Z'
+updated_at: '2020-12-26T06:29:01Z'
 url: https://api.github.com/repos/stack-stark/vuepress-plugin-live2D
-watchers: 1
-watchers_count: 1
+watchers: 2
+watchers_count: 2
 ---
 
 # vuepress-plugin-live2D

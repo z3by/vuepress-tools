@@ -12,7 +12,7 @@ compare_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo/compare
 contents_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo/contents/{+path}
 contributors_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo/contributors
 created_at: '2019-01-18T14:39:36Z'
-default_branch: master
+default_branch: main
 deployments_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo/deployments
 description: "\U0001F50C Generate SEO friendly meta header for every page"
 disabled: false
@@ -56,10 +56,10 @@ name: vuepress-plugin-seo
 network_count: 5
 node_id: MDEwOlJlcG9zaXRvcnkxNjY0MTg4Nzg=
 notifications_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo/notifications{?since,all,participating}
-open_issues: 2
-open_issues_count: 2
+open_issues: 1
+open_issues_count: 1
 owner:
-  avatar_url: https://avatars1.githubusercontent.com/u/3642397?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/3642397?v=4
   events_url: https://api.github.com/users/lorisleiva/events{/privacy}
   followers_url: https://api.github.com/users/lorisleiva/followers
   following_url: https://api.github.com/users/lorisleiva/following{/other_user}
@@ -83,11 +83,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo/pulls{/number}
-pushed_at: '2020-07-16T17:32:40Z'
+pushed_at: '2020-12-03T11:47:08Z'
 releases_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo/releases{/id}
 size: 17
 ssh_url: git@github.com:lorisleiva/vuepress-plugin-seo.git
-stargazers_count: 82
+stargazers_count: 94
 stargazers_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo/stargazers
 statuses_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo/statuses/{sha}
 subscribers_count: 3
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo/tags
 teams_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo/git/trees{/sha}
-updated_at: '2020-08-19T01:54:58Z'
+updated_at: '2021-02-08T22:27:41Z'
 url: https://api.github.com/repos/lorisleiva/vuepress-plugin-seo
-watchers: 82
-watchers_count: 82
+watchers: 94
+watchers_count: 94
 ---
 
 # Vuepress Plugin SEO

@@ -54,7 +54,7 @@ notifications_url: https://api.github.com/repos/masa-tk37/vuepress-plugin-sideba
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/17108086?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/17108086?v=4
   events_url: https://api.github.com/users/masa-tk37/events{/privacy}
   followers_url: https://api.github.com/users/masa-tk37/followers
   following_url: https://api.github.com/users/masa-tk37/following{/other_user}

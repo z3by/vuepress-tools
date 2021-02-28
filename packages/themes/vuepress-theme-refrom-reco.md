@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/jiangwei618/vuepress-theme-refro
 open_issues: 2
 open_issues_count: 2
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/29230742?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/29230742?v=4
   events_url: https://api.github.com/users/jiangwei618/events{/privacy}
   followers_url: https://api.github.com/users/jiangwei618/followers
   following_url: https://api.github.com/users/jiangwei618/following{/other_user}

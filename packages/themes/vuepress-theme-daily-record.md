@@ -56,10 +56,10 @@ name: vuepress-theme-daily-record
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyNDYyNDM3NzI=
 notifications_url: https://api.github.com/repos/litengfu/vuepress-theme-daily-record/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
+open_issues: 1
+open_issues_count: 1
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/39176876?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/39176876?v=4
   events_url: https://api.github.com/users/litengfu/events{/privacy}
   followers_url: https://api.github.com/users/litengfu/followers
   following_url: https://api.github.com/users/litengfu/following{/other_user}
@@ -83,14 +83,14 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/litengfu/vuepress-theme-daily-record/pulls{/number}
-pushed_at: '2020-03-15T03:31:11Z'
+pushed_at: '2020-09-04T23:30:34Z'
 releases_url: https://api.github.com/repos/litengfu/vuepress-theme-daily-record/releases{/id}
-size: 41
+size: 43
 ssh_url: git@github.com:litengfu/vuepress-theme-daily-record.git
 stargazers_count: 1
 stargazers_url: https://api.github.com/repos/litengfu/vuepress-theme-daily-record/stargazers
 statuses_url: https://api.github.com/repos/litengfu/vuepress-theme-daily-record/statuses/{sha}
-subscribers_count: 1
+subscribers_count: 2
 subscribers_url: https://api.github.com/repos/litengfu/vuepress-theme-daily-record/subscribers
 subscription_url: https://api.github.com/repos/litengfu/vuepress-theme-daily-record/subscription
 svn_url: https://github.com/litengfu/vuepress-theme-daily-record

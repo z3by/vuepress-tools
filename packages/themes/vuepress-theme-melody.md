@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/Molunerfinn/vuepress-theme-melody/downloads
 events_url: https://api.github.com/repos/Molunerfinn/vuepress-theme-melody/events
 fork: false
-forks: 2
-forks_count: 2
+forks: 1
+forks_count: 1
 forks_url: https://api.github.com/repos/Molunerfinn/vuepress-theme-melody/forks
 full_name: Molunerfinn/vuepress-theme-melody
 git_commits_url: https://api.github.com/repos/Molunerfinn/vuepress-theme-melody/git/commits{/sha}
@@ -53,13 +53,13 @@ merges_url: https://api.github.com/repos/Molunerfinn/vuepress-theme-melody/merge
 milestones_url: https://api.github.com/repos/Molunerfinn/vuepress-theme-melody/milestones{/number}
 mirror_url: null
 name: vuepress-theme-melody
-network_count: 2
+network_count: 1
 node_id: MDEwOlJlcG9zaXRvcnkxNzE5NzQyNTE=
 notifications_url: https://api.github.com/repos/Molunerfinn/vuepress-theme-melody/notifications{?since,all,participating}
-open_issues: 3
-open_issues_count: 3
+open_issues: 4
+open_issues_count: 4
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/12621342?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/12621342?v=4
   events_url: https://api.github.com/users/Molunerfinn/events{/privacy}
   followers_url: https://api.github.com/users/Molunerfinn/followers
   following_url: https://api.github.com/users/Molunerfinn/following{/other_user}
@@ -83,11 +83,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/Molunerfinn/vuepress-theme-melody/pulls{/number}
-pushed_at: '2020-07-16T18:07:04Z'
+pushed_at: '2020-12-11T02:12:57Z'
 releases_url: https://api.github.com/repos/Molunerfinn/vuepress-theme-melody/releases{/id}
-size: 306
+size: 386
 ssh_url: git@github.com:Molunerfinn/vuepress-theme-melody.git
-stargazers_count: 27
+stargazers_count: 28
 stargazers_url: https://api.github.com/repos/Molunerfinn/vuepress-theme-melody/stargazers
 statuses_url: https://api.github.com/repos/Molunerfinn/vuepress-theme-melody/statuses/{sha}
 subscribers_count: 3
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/Molunerfinn/vuepress-theme-melody/tags
 teams_url: https://api.github.com/repos/Molunerfinn/vuepress-theme-melody/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/Molunerfinn/vuepress-theme-melody/git/trees{/sha}
-updated_at: '2020-08-15T06:31:55Z'
+updated_at: '2020-12-01T09:58:02Z'
 url: https://api.github.com/repos/Molunerfinn/vuepress-theme-melody
-watchers: 27
-watchers_count: 27
+watchers: 28
+watchers_count: 28
 ---
 
 # vuepress-theme-melody

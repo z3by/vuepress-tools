@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/HKChen/vuepress-theme-prettyPure
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars0.githubusercontent.com/u/4105970?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/4105970?v=4
   events_url: https://api.github.com/users/HKChen/events{/privacy}
   followers_url: https://api.github.com/users/HKChen/followers
   following_url: https://api.github.com/users/HKChen/following{/other_user}

@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/flipboxlabs/vuepress-theme-flipb
 open_issues: 0
 open_issues_count: 0
 organization:
-  avatar_url: https://avatars2.githubusercontent.com/u/32937274?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/32937274?v=4
   events_url: https://api.github.com/users/flipboxlabs/events{/privacy}
   followers_url: https://api.github.com/users/flipboxlabs/followers
   following_url: https://api.github.com/users/flipboxlabs/following{/other_user}
@@ -78,7 +78,7 @@ organization:
   type: Organization
   url: https://api.github.com/users/flipboxlabs
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/32937274?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/32937274?v=4
   events_url: https://api.github.com/users/flipboxlabs/events{/privacy}
   followers_url: https://api.github.com/users/flipboxlabs/followers
   following_url: https://api.github.com/users/flipboxlabs/following{/other_user}

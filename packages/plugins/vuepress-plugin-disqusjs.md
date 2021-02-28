@@ -51,10 +51,10 @@ name: vuepress-plugin-disqusjs
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyNjUyMDY5OTY=
 notifications_url: https://api.github.com/repos/saltbo/vuepress-plugin-disqusjs/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
+open_issues: 1
+open_issues_count: 1
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/17308208?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/17308208?v=4
   events_url: https://api.github.com/users/saltbo/events{/privacy}
   followers_url: https://api.github.com/users/saltbo/followers
   following_url: https://api.github.com/users/saltbo/following{/other_user}
@@ -78,9 +78,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/saltbo/vuepress-plugin-disqusjs/pulls{/number}
-pushed_at: '2020-07-21T02:56:58Z'
+pushed_at: '2020-12-12T18:23:19Z'
 releases_url: https://api.github.com/repos/saltbo/vuepress-plugin-disqusjs/releases{/id}
-size: 122
+size: 180
 ssh_url: git@github.com:saltbo/vuepress-plugin-disqusjs.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/saltbo/vuepress-plugin-disqusjs/stargazers

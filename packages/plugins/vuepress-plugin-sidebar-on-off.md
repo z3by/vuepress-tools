@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/limdongjin/vuepress-plugin-sidebar-on-off/downloads
 events_url: https://api.github.com/repos/limdongjin/vuepress-plugin-sidebar-on-off/events
 fork: false
-forks: 1
-forks_count: 1
+forks: 0
+forks_count: 0
 forks_url: https://api.github.com/repos/limdongjin/vuepress-plugin-sidebar-on-off/forks
 full_name: limdongjin/vuepress-plugin-sidebar-on-off
 git_commits_url: https://api.github.com/repos/limdongjin/vuepress-plugin-sidebar-on-off/git/commits{/sha}
@@ -53,13 +53,13 @@ merges_url: https://api.github.com/repos/limdongjin/vuepress-plugin-sidebar-on-o
 milestones_url: https://api.github.com/repos/limdongjin/vuepress-plugin-sidebar-on-off/milestones{/number}
 mirror_url: null
 name: vuepress-plugin-sidebar-on-off
-network_count: 1
+network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkxNjQ2MjA4MzQ=
 notifications_url: https://api.github.com/repos/limdongjin/vuepress-plugin-sidebar-on-off/notifications{?since,all,participating}
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars0.githubusercontent.com/u/30315743?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/30315743?v=4
   events_url: https://api.github.com/users/limdongjin/events{/privacy}
   followers_url: https://api.github.com/users/limdongjin/followers
   following_url: https://api.github.com/users/limdongjin/following{/other_user}

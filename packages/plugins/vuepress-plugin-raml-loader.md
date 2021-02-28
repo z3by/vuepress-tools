@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/sullivanpt/vuepress-plugin-raml-
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars1.githubusercontent.com/u/819239?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/819239?v=4
   events_url: https://api.github.com/users/sullivanpt/events{/privacy}
   followers_url: https://api.github.com/users/sullivanpt/followers
   following_url: https://api.github.com/users/sullivanpt/following{/other_user}

@@ -41,7 +41,7 @@ issue_events_url: https://api.github.com/repos/sqrthree/vuepress-theme-jian/issu
 issues_url: https://api.github.com/repos/sqrthree/vuepress-theme-jian/issues{/number}
 keys_url: https://api.github.com/repos/sqrthree/vuepress-theme-jian/keys{/key_id}
 labels_url: https://api.github.com/repos/sqrthree/vuepress-theme-jian/labels{/name}
-language: CSS
+language: Stylus
 languages_url: https://api.github.com/repos/sqrthree/vuepress-theme-jian/languages
 license:
   key: mit
@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/sqrthree/vuepress-theme-jian/not
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/8622362?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/8622362?v=4
   events_url: https://api.github.com/users/sqrthree/events{/privacy}
   followers_url: https://api.github.com/users/sqrthree/followers
   following_url: https://api.github.com/users/sqrthree/following{/other_user}
@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/sqrthree/vuepress-theme-jian/pulls{/number}
-pushed_at: '2020-02-27T15:57:10Z'
+pushed_at: '2021-02-25T15:33:38Z'
 releases_url: https://api.github.com/repos/sqrthree/vuepress-theme-jian/releases{/id}
-size: 167
+size: 1547
 ssh_url: git@github.com:sqrthree/vuepress-theme-jian.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/sqrthree/vuepress-theme-jian/stargazers
@@ -98,7 +98,7 @@ tags_url: https://api.github.com/repos/sqrthree/vuepress-theme-jian/tags
 teams_url: https://api.github.com/repos/sqrthree/vuepress-theme-jian/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/sqrthree/vuepress-theme-jian/git/trees{/sha}
-updated_at: '2020-02-27T15:57:12Z'
+updated_at: '2021-02-25T15:33:40Z'
 url: https://api.github.com/repos/sqrthree/vuepress-theme-jian
 watchers: 0
 watchers_count: 0

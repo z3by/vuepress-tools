@@ -56,10 +56,10 @@ name: vuepress-plugin-clipboard-copy
 network_count: 4
 node_id: MDEwOlJlcG9zaXRvcnkxNzc2NDY2MDA=
 notifications_url: https://api.github.com/repos/dovy/vuepress-plugin-clipboard-copy/notifications{?since,all,participating}
-open_issues: 6
-open_issues_count: 6
+open_issues: 7
+open_issues_count: 7
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/890963?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/890963?v=4
   events_url: https://api.github.com/users/dovy/events{/privacy}
   followers_url: https://api.github.com/users/dovy/followers
   following_url: https://api.github.com/users/dovy/following{/other_user}

@@ -54,7 +54,7 @@ notifications_url: https://api.github.com/repos/xiayuxiaoyan/vuepress-theme-tech
 open_issues: 2
 open_issues_count: 2
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/7700024?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/7700024?v=4
   events_url: https://api.github.com/users/xiayuxiaoyan/events{/privacy}
   followers_url: https://api.github.com/users/xiayuxiaoyan/followers
   following_url: https://api.github.com/users/xiayuxiaoyan/following{/other_user}

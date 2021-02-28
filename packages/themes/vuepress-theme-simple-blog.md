@@ -60,7 +60,7 @@ notifications_url: https://api.github.com/repos/g-plane/vuepress-theme-simple-bl
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars1.githubusercontent.com/u/17216317?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/17216317?v=4
   events_url: https://api.github.com/users/g-plane/events{/privacy}
   followers_url: https://api.github.com/users/g-plane/followers
   following_url: https://api.github.com/users/g-plane/following{/other_user}
@@ -84,9 +84,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/g-plane/vuepress-theme-simple-blog/pulls{/number}
-pushed_at: '2020-06-10T15:15:21Z'
+pushed_at: '2020-09-03T07:52:42Z'
 releases_url: https://api.github.com/repos/g-plane/vuepress-theme-simple-blog/releases{/id}
-size: 177
+size: 144
 ssh_url: git@github.com:g-plane/vuepress-theme-simple-blog.git
 stargazers_count: 2
 stargazers_url: https://api.github.com/repos/g-plane/vuepress-theme-simple-blog/stargazers
@@ -99,7 +99,7 @@ tags_url: https://api.github.com/repos/g-plane/vuepress-theme-simple-blog/tags
 teams_url: https://api.github.com/repos/g-plane/vuepress-theme-simple-blog/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/g-plane/vuepress-theme-simple-blog/git/trees{/sha}
-updated_at: '2020-08-20T02:35:06Z'
+updated_at: '2020-09-03T07:52:45Z'
 url: https://api.github.com/repos/g-plane/vuepress-theme-simple-blog
 watchers: 2
 watchers_count: 2

@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/srcrs/vuepress-plugin-goatcounte
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars3.githubusercontent.com/u/49332985?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/49332985?v=4
   events_url: https://api.github.com/users/srcrs/events{/privacy}
   followers_url: https://api.github.com/users/srcrs/followers
   following_url: https://api.github.com/users/srcrs/following{/other_user}

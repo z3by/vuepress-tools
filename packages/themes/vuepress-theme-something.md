@@ -14,7 +14,7 @@ contributors_url: https://api.github.com/repos/vczyh/vuepress-theme-something/co
 created_at: '2020-03-23T12:33:29Z'
 default_branch: master
 deployments_url: https://api.github.com/repos/vczyh/vuepress-theme-something/deployments
-description: "\u4E00\u6B3E\u7B80\u7EA6\u7684 VuePress \u535A\u5BA2\u4E3B\u9898"
+description: "\u4E00\u6B3E\u7B80\u7EA6\u7684 VuePress \u535A\u5BA2\u4E3B\u9898\u3002"
 disabled: false
 downloads_url: https://api.github.com/repos/vczyh/vuepress-theme-something/downloads
 events_url: https://api.github.com/repos/vczyh/vuepress-theme-something/events
@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/vczyh/vuepress-theme-something/n
 open_issues: 1
 open_issues_count: 1
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/33161749?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/33161749?v=4
   events_url: https://api.github.com/users/vczyh/events{/privacy}
   followers_url: https://api.github.com/users/vczyh/followers
   following_url: https://api.github.com/users/vczyh/following{/other_user}
@@ -83,11 +83,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/vczyh/vuepress-theme-something/pulls{/number}
-pushed_at: '2020-08-08T14:08:06Z'
+pushed_at: '2020-12-13T00:55:44Z'
 releases_url: https://api.github.com/repos/vczyh/vuepress-theme-something/releases{/id}
 size: 862
 ssh_url: git@github.com:vczyh/vuepress-theme-something.git
-stargazers_count: 2
+stargazers_count: 3
 stargazers_url: https://api.github.com/repos/vczyh/vuepress-theme-something/stargazers
 statuses_url: https://api.github.com/repos/vczyh/vuepress-theme-something/statuses/{sha}
 subscribers_count: 1
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/vczyh/vuepress-theme-something/tags
 teams_url: https://api.github.com/repos/vczyh/vuepress-theme-something/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/vczyh/vuepress-theme-something/git/trees{/sha}
-updated_at: '2020-08-08T14:08:09Z'
+updated_at: '2020-12-22T09:12:38Z'
 url: https://api.github.com/repos/vczyh/vuepress-theme-something
-watchers: 2
-watchers_count: 2
+watchers: 3
+watchers_count: 3
 ---
 
 

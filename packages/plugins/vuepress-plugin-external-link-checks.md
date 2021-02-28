@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/bidoubiwa/vuepress-plugin-external-link-checks/downloads
 events_url: https://api.github.com/repos/bidoubiwa/vuepress-plugin-external-link-checks/events
 fork: false
-forks: 0
-forks_count: 0
+forks: 2
+forks_count: 2
 forks_url: https://api.github.com/repos/bidoubiwa/vuepress-plugin-external-link-checks/forks
 full_name: bidoubiwa/vuepress-plugin-external-link-checks
 git_commits_url: https://api.github.com/repos/bidoubiwa/vuepress-plugin-external-link-checks/git/commits{/sha}
@@ -48,13 +48,13 @@ merges_url: https://api.github.com/repos/bidoubiwa/vuepress-plugin-external-link
 milestones_url: https://api.github.com/repos/bidoubiwa/vuepress-plugin-external-link-checks/milestones{/number}
 mirror_url: null
 name: vuepress-plugin-external-link-checks
-network_count: 0
+network_count: 2
 node_id: MDEwOlJlcG9zaXRvcnkyNDY1OTkxNDc=
 notifications_url: https://api.github.com/repos/bidoubiwa/vuepress-plugin-external-link-checks/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
+open_issues: 5
+open_issues_count: 5
 owner:
-  avatar_url: https://avatars1.githubusercontent.com/u/33010418?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/33010418?v=4
   events_url: https://api.github.com/users/bidoubiwa/events{/privacy}
   followers_url: https://api.github.com/users/bidoubiwa/followers
   following_url: https://api.github.com/users/bidoubiwa/following{/other_user}
@@ -78,11 +78,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/bidoubiwa/vuepress-plugin-external-link-checks/pulls{/number}
-pushed_at: '2020-07-19T21:48:17Z'
+pushed_at: '2021-02-16T04:54:01Z'
 releases_url: https://api.github.com/repos/bidoubiwa/vuepress-plugin-external-link-checks/releases{/id}
-size: 398
+size: 832
 ssh_url: git@github.com:bidoubiwa/vuepress-plugin-external-link-checks.git
-stargazers_count: 0
+stargazers_count: 1
 stargazers_url: https://api.github.com/repos/bidoubiwa/vuepress-plugin-external-link-checks/stargazers
 statuses_url: https://api.github.com/repos/bidoubiwa/vuepress-plugin-external-link-checks/statuses/{sha}
 subscribers_count: 1
@@ -93,10 +93,10 @@ tags_url: https://api.github.com/repos/bidoubiwa/vuepress-plugin-external-link-c
 teams_url: https://api.github.com/repos/bidoubiwa/vuepress-plugin-external-link-checks/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/bidoubiwa/vuepress-plugin-external-link-checks/git/trees{/sha}
-updated_at: '2020-03-22T15:59:36Z'
+updated_at: '2021-02-10T09:29:41Z'
 url: https://api.github.com/repos/bidoubiwa/vuepress-plugin-external-link-checks
-watchers: 0
-watchers_count: 0
+watchers: 1
+watchers_count: 1
 ---
 
 # vuepress-plugin-external-link-checks
@@ -114,8 +114,11 @@ You can run the test against your local vuepress routing using the (soon to come
     - Comparing it with your online documentation.
 
 ### Locally
+
 When building your vuepress application a siteData file is generated which contains all the routes of your documentation.
 After fetching all HTML from the given `urls` list, this package will retrieve all links with the given `hostname` in the different fetched HTMLs. The urls found will be searched in the siteData file. If not present a warning will be raised. This means your link does not exists in your new build.
+
+This siteData is located here: `node_modules/@vuepress/core/.temp/internal/`
 
 ### Online
 

@@ -1,0 +1,106 @@
+---
+archive_url: https://api.github.com/repos/juzi214032/vuepress-plugin-yuque-sidebar/{archive_format}{/ref}
+archived: false
+assignees_url: https://api.github.com/repos/juzi214032/vuepress-plugin-yuque-sidebar/assignees{/user}
+blobs_url: https://api.github.com/repos/juzi214032/vuepress-plugin-yuque-sidebar/git/blobs{/sha}
+branches_url: https://api.github.com/repos/juzi214032/vuepress-plugin-yuque-sidebar/branches{/branch}
+clone_url: https://github.com/juzi214032/vuepress-plugin-yuque-sidebar.git
+collaborators_url: https://api.github.com/repos/juzi214032/vuepress-plugin-yuque-sidebar/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/juzi214032/vuepress-plugin-yuque-sidebar/comments{/number}
+commits_url: https://api.github.com/repos/juzi214032/vuepress-plugin-yuque-sidebar/commits{/sha}
+compare_url: https://api.github.com/repos/juzi214032/vuepress-plugin-yuque-sidebar/compare/{base}...{head}
+contents_url: https://api.github.com/repos/juzi214032/vuepress-plugin-yuque-sidebar/contents/{+path}
+contributors_url: https://api.github.com/repos/juzi214032/vuepress-plugin-yuque-sidebar/contributors
+created_at: '2021-02-10T17:21:20Z'
+default_branch: main
+deployments_url: https://api.github.com/repos/juzi214032/vuepress-plugin-yuque-sidebar/deployments
+description: "VuePress \u8BED\u96C0\u6837\u5F0F\u53F3\u4FA7\u5BFC\u822A\u680F"
+disabled: false
+downloads_url: https://api.github.com/repos/juzi214032/vuepress-plugin-yuque-sidebar/downloads
+events_url: https://api.github.com/repos/juzi214032/vuepress-plugin-yuque-sidebar/events
+fork: false
+forks: 0
+forks_count: 0
+forks_url: https://api.github.com/repos/juzi214032/vuepress-plugin-yuque-sidebar/forks
+full_name: juzi214032/vuepress-plugin-yuque-sidebar
+git_commits_url: https://api.github.com/repos/juzi214032/vuepress-plugin-yuque-sidebar/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/juzi214032/vuepress-plugin-yuque-sidebar/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/juzi214032/vuepress-plugin-yuque-sidebar/git/tags{/sha}
+git_url: git://github.com/juzi214032/vuepress-plugin-yuque-sidebar.git
+has_downloads: true
+has_issues: true
+has_pages: false
+has_projects: true
+has_wiki: true
+homepage: null
+hooks_url: https://api.github.com/repos/juzi214032/vuepress-plugin-yuque-sidebar/hooks
+html_url: https://github.com/juzi214032/vuepress-plugin-yuque-sidebar
+id: 337797900
+issue_comment_url: https://api.github.com/repos/juzi214032/vuepress-plugin-yuque-sidebar/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/juzi214032/vuepress-plugin-yuque-sidebar/issues/events{/number}
+issues_url: https://api.github.com/repos/juzi214032/vuepress-plugin-yuque-sidebar/issues{/number}
+keys_url: https://api.github.com/repos/juzi214032/vuepress-plugin-yuque-sidebar/keys{/key_id}
+labels_url: https://api.github.com/repos/juzi214032/vuepress-plugin-yuque-sidebar/labels{/name}
+language: Vue
+languages_url: https://api.github.com/repos/juzi214032/vuepress-plugin-yuque-sidebar/languages
+license:
+  key: mit
+  name: MIT License
+  node_id: MDc6TGljZW5zZTEz
+  spdx_id: MIT
+  url: https://api.github.com/licenses/mit
+merges_url: https://api.github.com/repos/juzi214032/vuepress-plugin-yuque-sidebar/merges
+milestones_url: https://api.github.com/repos/juzi214032/vuepress-plugin-yuque-sidebar/milestones{/number}
+mirror_url: null
+name: vuepress-plugin-yuque-sidebar
+network_count: 0
+node_id: MDEwOlJlcG9zaXRvcnkzMzc3OTc5MDA=
+notifications_url: https://api.github.com/repos/juzi214032/vuepress-plugin-yuque-sidebar/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
+owner:
+  avatar_url: https://avatars.githubusercontent.com/u/38206169?v=4
+  events_url: https://api.github.com/users/juzi214032/events{/privacy}
+  followers_url: https://api.github.com/users/juzi214032/followers
+  following_url: https://api.github.com/users/juzi214032/following{/other_user}
+  gists_url: https://api.github.com/users/juzi214032/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/juzi214032
+  id: 38206169
+  login: juzi214032
+  node_id: MDQ6VXNlcjM4MjA2MTY5
+  organizations_url: https://api.github.com/users/juzi214032/orgs
+  received_events_url: https://api.github.com/users/juzi214032/received_events
+  repos_url: https://api.github.com/users/juzi214032/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/juzi214032/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/juzi214032/subscriptions
+  type: User
+  url: https://api.github.com/users/juzi214032
+permissions:
+  admin: false
+  pull: true
+  push: false
+private: false
+pulls_url: https://api.github.com/repos/juzi214032/vuepress-plugin-yuque-sidebar/pulls{/number}
+pushed_at: '2021-02-10T17:26:41Z'
+releases_url: https://api.github.com/repos/juzi214032/vuepress-plugin-yuque-sidebar/releases{/id}
+size: 3
+ssh_url: git@github.com:juzi214032/vuepress-plugin-yuque-sidebar.git
+stargazers_count: 0
+stargazers_url: https://api.github.com/repos/juzi214032/vuepress-plugin-yuque-sidebar/stargazers
+statuses_url: https://api.github.com/repos/juzi214032/vuepress-plugin-yuque-sidebar/statuses/{sha}
+subscribers_count: 1
+subscribers_url: https://api.github.com/repos/juzi214032/vuepress-plugin-yuque-sidebar/subscribers
+subscription_url: https://api.github.com/repos/juzi214032/vuepress-plugin-yuque-sidebar/subscription
+svn_url: https://github.com/juzi214032/vuepress-plugin-yuque-sidebar
+tags_url: https://api.github.com/repos/juzi214032/vuepress-plugin-yuque-sidebar/tags
+teams_url: https://api.github.com/repos/juzi214032/vuepress-plugin-yuque-sidebar/teams
+temp_clone_token: ''
+trees_url: https://api.github.com/repos/juzi214032/vuepress-plugin-yuque-sidebar/git/trees{/sha}
+updated_at: '2021-02-10T17:26:43Z'
+url: https://api.github.com/repos/juzi214032/vuepress-plugin-yuque-sidebar
+watchers: 0
+watchers_count: 0
+---
+

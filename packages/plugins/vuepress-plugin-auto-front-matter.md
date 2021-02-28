@@ -20,8 +20,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/artiely/vuepress-plugin-auto-front-matter/downloads
 events_url: https://api.github.com/repos/artiely/vuepress-plugin-auto-front-matter/events
 fork: false
-forks: 0
-forks_count: 0
+forks: 1
+forks_count: 1
 forks_url: https://api.github.com/repos/artiely/vuepress-plugin-auto-front-matter/forks
 full_name: artiely/vuepress-plugin-auto-front-matter
 git_commits_url: https://api.github.com/repos/artiely/vuepress-plugin-auto-front-matter/git/commits{/sha}
@@ -54,13 +54,13 @@ merges_url: https://api.github.com/repos/artiely/vuepress-plugin-auto-front-matt
 milestones_url: https://api.github.com/repos/artiely/vuepress-plugin-auto-front-matter/milestones{/number}
 mirror_url: null
 name: vuepress-plugin-auto-front-matter
-network_count: 0
+network_count: 1
 node_id: MDEwOlJlcG9zaXRvcnkyNTA5NzU4NjY=
 notifications_url: https://api.github.com/repos/artiely/vuepress-plugin-auto-front-matter/notifications{?since,all,participating}
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars0.githubusercontent.com/u/19198355?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/19198355?v=4
   events_url: https://api.github.com/users/artiely/events{/privacy}
   followers_url: https://api.github.com/users/artiely/followers
   following_url: https://api.github.com/users/artiely/following{/other_user}
@@ -88,7 +88,7 @@ pushed_at: '2020-04-02T02:45:36Z'
 releases_url: https://api.github.com/repos/artiely/vuepress-plugin-auto-front-matter/releases{/id}
 size: 122
 ssh_url: git@github.com:artiely/vuepress-plugin-auto-front-matter.git
-stargazers_count: 0
+stargazers_count: 1
 stargazers_url: https://api.github.com/repos/artiely/vuepress-plugin-auto-front-matter/stargazers
 statuses_url: https://api.github.com/repos/artiely/vuepress-plugin-auto-front-matter/statuses/{sha}
 subscribers_count: 1
@@ -99,10 +99,10 @@ tags_url: https://api.github.com/repos/artiely/vuepress-plugin-auto-front-matter
 teams_url: https://api.github.com/repos/artiely/vuepress-plugin-auto-front-matter/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/artiely/vuepress-plugin-auto-front-matter/git/trees{/sha}
-updated_at: '2020-04-02T02:45:39Z'
+updated_at: '2021-01-23T07:51:45Z'
 url: https://api.github.com/repos/artiely/vuepress-plugin-auto-front-matter
-watchers: 0
-watchers_count: 0
+watchers: 1
+watchers_count: 1
 ---
 
 # vuepress-plugin-auto-front-matter

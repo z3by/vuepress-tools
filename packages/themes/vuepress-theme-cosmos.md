@@ -54,7 +54,7 @@ notifications_url: https://api.github.com/repos/fadeev/vuepress-theme-cosmos/not
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars3.githubusercontent.com/u/332151?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/332151?v=4
   events_url: https://api.github.com/users/fadeev/events{/privacy}
   followers_url: https://api.github.com/users/fadeev/followers
   following_url: https://api.github.com/users/fadeev/following{/other_user}
@@ -85,7 +85,7 @@ ssh_url: git@github.com:fadeev/vuepress-theme-cosmos.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/fadeev/vuepress-theme-cosmos/stargazers
 statuses_url: https://api.github.com/repos/fadeev/vuepress-theme-cosmos/statuses/{sha}
-subscribers_count: 2
+subscribers_count: 1
 subscribers_url: https://api.github.com/repos/fadeev/vuepress-theme-cosmos/subscribers
 subscription_url: https://api.github.com/repos/fadeev/vuepress-theme-cosmos/subscription
 svn_url: https://github.com/fadeev/vuepress-theme-cosmos

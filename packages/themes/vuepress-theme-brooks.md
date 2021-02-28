@@ -56,10 +56,10 @@ name: vuepress-theme-brooks
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyNDUyMTM2MTk=
 notifications_url: https://api.github.com/repos/ianwalter/vuepress-theme-brooks/notifications{?since,all,participating}
-open_issues: 13
-open_issues_count: 13
+open_issues: 17
+open_issues_count: 17
 owner:
-  avatar_url: https://avatars0.githubusercontent.com/u/122028?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/122028?v=4
   events_url: https://api.github.com/users/ianwalter/events{/privacy}
   followers_url: https://api.github.com/users/ianwalter/followers
   following_url: https://api.github.com/users/ianwalter/following{/other_user}
@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/ianwalter/vuepress-theme-brooks/pulls{/number}
-pushed_at: '2020-08-23T16:33:35Z'
+pushed_at: '2021-02-28T09:55:31Z'
 releases_url: https://api.github.com/repos/ianwalter/vuepress-theme-brooks/releases{/id}
-size: 736
+size: 103
 ssh_url: git@github.com:ianwalter/vuepress-theme-brooks.git
 stargazers_count: 1
 stargazers_url: https://api.github.com/repos/ianwalter/vuepress-theme-brooks/stargazers
@@ -98,7 +98,7 @@ tags_url: https://api.github.com/repos/ianwalter/vuepress-theme-brooks/tags
 teams_url: https://api.github.com/repos/ianwalter/vuepress-theme-brooks/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/ianwalter/vuepress-theme-brooks/git/trees{/sha}
-updated_at: '2020-08-23T16:31:26Z'
+updated_at: '2021-02-02T14:57:40Z'
 url: https://api.github.com/repos/ianwalter/vuepress-theme-brooks
 watchers: 1
 watchers_count: 1

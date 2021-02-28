@@ -1,0 +1,101 @@
+---
+archive_url: https://api.github.com/repos/Libra11/vuepress-theme-libra-template/{archive_format}{/ref}
+archived: false
+assignees_url: https://api.github.com/repos/Libra11/vuepress-theme-libra-template/assignees{/user}
+blobs_url: https://api.github.com/repos/Libra11/vuepress-theme-libra-template/git/blobs{/sha}
+branches_url: https://api.github.com/repos/Libra11/vuepress-theme-libra-template/branches{/branch}
+clone_url: https://github.com/Libra11/vuepress-theme-libra-template.git
+collaborators_url: https://api.github.com/repos/Libra11/vuepress-theme-libra-template/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/Libra11/vuepress-theme-libra-template/comments{/number}
+commits_url: https://api.github.com/repos/Libra11/vuepress-theme-libra-template/commits{/sha}
+compare_url: https://api.github.com/repos/Libra11/vuepress-theme-libra-template/compare/{base}...{head}
+contents_url: https://api.github.com/repos/Libra11/vuepress-theme-libra-template/contents/{+path}
+contributors_url: https://api.github.com/repos/Libra11/vuepress-theme-libra-template/contributors
+created_at: '2020-12-13T11:21:48Z'
+default_branch: master
+deployments_url: https://api.github.com/repos/Libra11/vuepress-theme-libra-template/deployments
+description: null
+disabled: false
+downloads_url: https://api.github.com/repos/Libra11/vuepress-theme-libra-template/downloads
+events_url: https://api.github.com/repos/Libra11/vuepress-theme-libra-template/events
+fork: false
+forks: 0
+forks_count: 0
+forks_url: https://api.github.com/repos/Libra11/vuepress-theme-libra-template/forks
+full_name: Libra11/vuepress-theme-libra-template
+git_commits_url: https://api.github.com/repos/Libra11/vuepress-theme-libra-template/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/Libra11/vuepress-theme-libra-template/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/Libra11/vuepress-theme-libra-template/git/tags{/sha}
+git_url: git://github.com/Libra11/vuepress-theme-libra-template.git
+has_downloads: true
+has_issues: true
+has_pages: false
+has_projects: true
+has_wiki: true
+homepage: null
+hooks_url: https://api.github.com/repos/Libra11/vuepress-theme-libra-template/hooks
+html_url: https://github.com/Libra11/vuepress-theme-libra-template
+id: 321047495
+issue_comment_url: https://api.github.com/repos/Libra11/vuepress-theme-libra-template/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/Libra11/vuepress-theme-libra-template/issues/events{/number}
+issues_url: https://api.github.com/repos/Libra11/vuepress-theme-libra-template/issues{/number}
+keys_url: https://api.github.com/repos/Libra11/vuepress-theme-libra-template/keys{/key_id}
+labels_url: https://api.github.com/repos/Libra11/vuepress-theme-libra-template/labels{/name}
+language: null
+languages_url: https://api.github.com/repos/Libra11/vuepress-theme-libra-template/languages
+license: null
+merges_url: https://api.github.com/repos/Libra11/vuepress-theme-libra-template/merges
+milestones_url: https://api.github.com/repos/Libra11/vuepress-theme-libra-template/milestones{/number}
+mirror_url: null
+name: vuepress-theme-libra-template
+network_count: 0
+node_id: MDEwOlJlcG9zaXRvcnkzMjEwNDc0OTU=
+notifications_url: https://api.github.com/repos/Libra11/vuepress-theme-libra-template/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
+owner:
+  avatar_url: https://avatars.githubusercontent.com/u/28615338?v=4
+  events_url: https://api.github.com/users/Libra11/events{/privacy}
+  followers_url: https://api.github.com/users/Libra11/followers
+  following_url: https://api.github.com/users/Libra11/following{/other_user}
+  gists_url: https://api.github.com/users/Libra11/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/Libra11
+  id: 28615338
+  login: Libra11
+  node_id: MDQ6VXNlcjI4NjE1MzM4
+  organizations_url: https://api.github.com/users/Libra11/orgs
+  received_events_url: https://api.github.com/users/Libra11/received_events
+  repos_url: https://api.github.com/users/Libra11/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/Libra11/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/Libra11/subscriptions
+  type: User
+  url: https://api.github.com/users/Libra11
+permissions:
+  admin: false
+  pull: true
+  push: false
+private: false
+pulls_url: https://api.github.com/repos/Libra11/vuepress-theme-libra-template/pulls{/number}
+pushed_at: '2021-01-07T03:50:46Z'
+releases_url: https://api.github.com/repos/Libra11/vuepress-theme-libra-template/releases{/id}
+size: 140
+ssh_url: git@github.com:Libra11/vuepress-theme-libra-template.git
+stargazers_count: 0
+stargazers_url: https://api.github.com/repos/Libra11/vuepress-theme-libra-template/stargazers
+statuses_url: https://api.github.com/repos/Libra11/vuepress-theme-libra-template/statuses/{sha}
+subscribers_count: 1
+subscribers_url: https://api.github.com/repos/Libra11/vuepress-theme-libra-template/subscribers
+subscription_url: https://api.github.com/repos/Libra11/vuepress-theme-libra-template/subscription
+svn_url: https://github.com/Libra11/vuepress-theme-libra-template
+tags_url: https://api.github.com/repos/Libra11/vuepress-theme-libra-template/tags
+teams_url: https://api.github.com/repos/Libra11/vuepress-theme-libra-template/teams
+temp_clone_token: ''
+trees_url: https://api.github.com/repos/Libra11/vuepress-theme-libra-template/git/trees{/sha}
+updated_at: '2021-01-07T03:50:48Z'
+url: https://api.github.com/repos/Libra11/vuepress-theme-libra-template
+watchers: 0
+watchers_count: 0
+---
+

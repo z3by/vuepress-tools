@@ -55,7 +55,7 @@ notifications_url: https://api.github.com/repos/actengage/vuepress-plugin-templa
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars3.githubusercontent.com/u/33735047?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/33735047?v=4
   events_url: https://api.github.com/users/actengage/events{/privacy}
   followers_url: https://api.github.com/users/actengage/followers
   following_url: https://api.github.com/users/actengage/following{/other_user}

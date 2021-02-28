@@ -54,7 +54,7 @@ notifications_url: https://api.github.com/repos/vitelabs/vuepress-plugin-mathjax
 open_issues: 0
 open_issues_count: 0
 organization:
-  avatar_url: https://avatars3.githubusercontent.com/u/36895023?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/36895023?v=4
   events_url: https://api.github.com/users/vitelabs/events{/privacy}
   followers_url: https://api.github.com/users/vitelabs/followers
   following_url: https://api.github.com/users/vitelabs/following{/other_user}
@@ -73,7 +73,7 @@ organization:
   type: Organization
   url: https://api.github.com/users/vitelabs
 owner:
-  avatar_url: https://avatars3.githubusercontent.com/u/36895023?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/36895023?v=4
   events_url: https://api.github.com/users/vitelabs/events{/privacy}
   followers_url: https://api.github.com/users/vitelabs/followers
   following_url: https://api.github.com/users/vitelabs/following{/other_user}
@@ -97,14 +97,14 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/vitelabs/vuepress-plugin-mathjax/pulls{/number}
-pushed_at: '2018-11-06T10:10:26Z'
+pushed_at: '2021-02-10T03:53:53Z'
 releases_url: https://api.github.com/repos/vitelabs/vuepress-plugin-mathjax/releases{/id}
-size: 2
+size: 6
 ssh_url: git@github.com:vitelabs/vuepress-plugin-mathjax.git
-stargazers_count: 2
+stargazers_count: 3
 stargazers_url: https://api.github.com/repos/vitelabs/vuepress-plugin-mathjax/stargazers
 statuses_url: https://api.github.com/repos/vitelabs/vuepress-plugin-mathjax/statuses/{sha}
-subscribers_count: 2
+subscribers_count: 4
 subscribers_url: https://api.github.com/repos/vitelabs/vuepress-plugin-mathjax/subscribers
 subscription_url: https://api.github.com/repos/vitelabs/vuepress-plugin-mathjax/subscription
 svn_url: https://github.com/vitelabs/vuepress-plugin-mathjax
@@ -112,10 +112,10 @@ tags_url: https://api.github.com/repos/vitelabs/vuepress-plugin-mathjax/tags
 teams_url: https://api.github.com/repos/vitelabs/vuepress-plugin-mathjax/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/vitelabs/vuepress-plugin-mathjax/git/trees{/sha}
-updated_at: '2019-01-24T13:30:14Z'
+updated_at: '2021-02-12T17:19:04Z'
 url: https://api.github.com/repos/vitelabs/vuepress-plugin-mathjax
-watchers: 2
-watchers_count: 2
+watchers: 3
+watchers_count: 3
 ---
 
 # @vite/vuepress-plugin-mathjax
@@ -132,26 +132,6 @@ Add `@vite/vuepress-plugin-mathjax` to `config.js`:
 
 ```javascript
 plugins: [
-    ['@vite/vuepress-plugin-mathjax', {
-      tex2html: {},
-      mathjax: {}
-    }]
+    ['@vite/vuepress-plugin-mathjax']
   ]
 ```
-
-## Config
-
-### `tex2html`
-
-* **Type**: `Object`
-* **Default**: {}
-
-When generate `mathjax.css`, it will use this config. About more detail please visit [markdown-it-mathjax-chtml](https://github.com/yamavol/markdown-it-mathjax-chtml)
-
-
-### `mathjax`
-
-* **Type**: `Object`
-* **Default**: {}
-
-The mathjax config. [mathjax-v3](https://github.com/mathjax/mathjax-v3)

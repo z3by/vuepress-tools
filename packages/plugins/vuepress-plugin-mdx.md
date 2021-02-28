@@ -54,7 +54,7 @@ notifications_url: https://api.github.com/repos/blizzardzheng/vuepress-plugin-md
 open_issues: 1
 open_issues_count: 1
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/11224451?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/11224451?v=4
   events_url: https://api.github.com/users/blizzardzheng/events{/privacy}
   followers_url: https://api.github.com/users/blizzardzheng/followers
   following_url: https://api.github.com/users/blizzardzheng/following{/other_user}

@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/webmasterish/vuepress-plugin-feed/downloads
 events_url: https://api.github.com/repos/webmasterish/vuepress-plugin-feed/events
 fork: false
-forks: 6
-forks_count: 6
+forks: 7
+forks_count: 7
 forks_url: https://api.github.com/repos/webmasterish/vuepress-plugin-feed/forks
 full_name: webmasterish/vuepress-plugin-feed
 git_commits_url: https://api.github.com/repos/webmasterish/vuepress-plugin-feed/git/commits{/sha}
@@ -53,13 +53,13 @@ merges_url: https://api.github.com/repos/webmasterish/vuepress-plugin-feed/merge
 milestones_url: https://api.github.com/repos/webmasterish/vuepress-plugin-feed/milestones{/number}
 mirror_url: null
 name: vuepress-plugin-feed
-network_count: 6
+network_count: 7
 node_id: MDEwOlJlcG9zaXRvcnkxNjU5MTg2MjY=
 notifications_url: https://api.github.com/repos/webmasterish/vuepress-plugin-feed/notifications{?since,all,participating}
-open_issues: 4
-open_issues_count: 4
+open_issues: 6
+open_issues_count: 6
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/246901?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/246901?v=4
   events_url: https://api.github.com/users/webmasterish/events{/privacy}
   followers_url: https://api.github.com/users/webmasterish/followers
   following_url: https://api.github.com/users/webmasterish/following{/other_user}
@@ -83,11 +83,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/webmasterish/vuepress-plugin-feed/pulls{/number}
-pushed_at: '2020-05-25T10:59:24Z'
+pushed_at: '2020-10-27T17:22:01Z'
 releases_url: https://api.github.com/repos/webmasterish/vuepress-plugin-feed/releases{/id}
-size: 43
+size: 62
 ssh_url: git@github.com:webmasterish/vuepress-plugin-feed.git
-stargazers_count: 38
+stargazers_count: 41
 stargazers_url: https://api.github.com/repos/webmasterish/vuepress-plugin-feed/stargazers
 statuses_url: https://api.github.com/repos/webmasterish/vuepress-plugin-feed/statuses/{sha}
 subscribers_count: 1
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/webmasterish/vuepress-plugin-feed/tags
 teams_url: https://api.github.com/repos/webmasterish/vuepress-plugin-feed/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/webmasterish/vuepress-plugin-feed/git/trees{/sha}
-updated_at: '2020-07-06T02:22:02Z'
+updated_at: '2021-01-01T08:29:09Z'
 url: https://api.github.com/repos/webmasterish/vuepress-plugin-feed
-watchers: 38
-watchers_count: 38
+watchers: 41
+watchers_count: 41
 ---
 
 # VuePress Plugin Feed
@@ -396,6 +396,8 @@ const default_options = {
   // Gets the array entries as the input, expects the sorted array
   // as its output.
   // e.g.:   sort:  entries => _.reverse( _.sortBy( entries, 'date' ) ),
+  // Don't forget to do a `const _ = require('lodash');` to be able to use `_`!
+
   sort: entries => entries,
 
   // ---------------------------------------------------------------------------

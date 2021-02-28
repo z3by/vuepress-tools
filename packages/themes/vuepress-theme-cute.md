@@ -51,10 +51,10 @@ name: vuepress-theme-cute
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkxNzExNDg0MjY=
 notifications_url: https://api.github.com/repos/linrz/vuepress-theme-cute/notifications{?since,all,participating}
-open_issues: 4
-open_issues_count: 4
+open_issues: 6
+open_issues_count: 6
 owner:
-  avatar_url: https://avatars3.githubusercontent.com/u/33575974?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/33575974?v=4
   events_url: https://api.github.com/users/linrz/events{/privacy}
   followers_url: https://api.github.com/users/linrz/followers
   following_url: https://api.github.com/users/linrz/following{/other_user}
@@ -78,9 +78,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/linrz/vuepress-theme-cute/pulls{/number}
-pushed_at: '2020-08-07T22:56:49Z'
+pushed_at: '2020-12-11T02:38:23Z'
 releases_url: https://api.github.com/repos/linrz/vuepress-theme-cute/releases{/id}
-size: 1306
+size: 1624
 ssh_url: git@github.com:linrz/vuepress-theme-cute.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/linrz/vuepress-theme-cute/stargazers
@@ -93,14 +93,14 @@ tags_url: https://api.github.com/repos/linrz/vuepress-theme-cute/tags
 teams_url: https://api.github.com/repos/linrz/vuepress-theme-cute/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/linrz/vuepress-theme-cute/git/trees{/sha}
-updated_at: '2020-03-26T09:13:39Z'
+updated_at: '2020-11-19T08:30:59Z'
 url: https://api.github.com/repos/linrz/vuepress-theme-cute
 watchers: 0
 watchers_count: 0
 ---
 
-# vuepress-theme-plain
-> A cute for vuepress.
+# vuepress-theme-cute
+> A cute theme for vuepress.
 
 ## Usage
 ```shell

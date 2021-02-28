@@ -56,10 +56,10 @@ name: vuepress-theme-gh
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyNTMyNzUyMDI=
 notifications_url: https://api.github.com/repos/BryanAdamss/vuepress-theme-gh/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
+open_issues: 1
+open_issues_count: 1
 owner:
-  avatar_url: https://avatars3.githubusercontent.com/u/7441504?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/7441504?v=4
   events_url: https://api.github.com/users/BryanAdamss/events{/privacy}
   followers_url: https://api.github.com/users/BryanAdamss/followers
   following_url: https://api.github.com/users/BryanAdamss/following{/other_user}
@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/BryanAdamss/vuepress-theme-gh/pulls{/number}
-pushed_at: '2020-04-22T15:57:24Z'
+pushed_at: '2020-12-12T13:02:55Z'
 releases_url: https://api.github.com/repos/BryanAdamss/vuepress-theme-gh/releases{/id}
-size: 135
+size: 183
 ssh_url: git@github.com:BryanAdamss/vuepress-theme-gh.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/BryanAdamss/vuepress-theme-gh/stargazers

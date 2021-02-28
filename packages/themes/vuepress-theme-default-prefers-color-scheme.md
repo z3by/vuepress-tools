@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/tolking/vuepress-theme-default-prefers-color-scheme/downloads
 events_url: https://api.github.com/repos/tolking/vuepress-theme-default-prefers-color-scheme/events
 fork: false
-forks: 3
-forks_count: 3
+forks: 5
+forks_count: 5
 forks_url: https://api.github.com/repos/tolking/vuepress-theme-default-prefers-color-scheme/forks
 full_name: tolking/vuepress-theme-default-prefers-color-scheme
 git_commits_url: https://api.github.com/repos/tolking/vuepress-theme-default-prefers-color-scheme/git/commits{/sha}
@@ -41,7 +41,7 @@ issue_events_url: https://api.github.com/repos/tolking/vuepress-theme-default-pr
 issues_url: https://api.github.com/repos/tolking/vuepress-theme-default-prefers-color-scheme/issues{/number}
 keys_url: https://api.github.com/repos/tolking/vuepress-theme-default-prefers-color-scheme/keys{/key_id}
 labels_url: https://api.github.com/repos/tolking/vuepress-theme-default-prefers-color-scheme/labels{/name}
-language: CSS
+language: Stylus
 languages_url: https://api.github.com/repos/tolking/vuepress-theme-default-prefers-color-scheme/languages
 license:
   key: mit
@@ -53,13 +53,13 @@ merges_url: https://api.github.com/repos/tolking/vuepress-theme-default-prefers-
 milestones_url: https://api.github.com/repos/tolking/vuepress-theme-default-prefers-color-scheme/milestones{/number}
 mirror_url: null
 name: vuepress-theme-default-prefers-color-scheme
-network_count: 3
+network_count: 5
 node_id: MDEwOlJlcG9zaXRvcnkyMDM5MzIyMzQ=
 notifications_url: https://api.github.com/repos/tolking/vuepress-theme-default-prefers-color-scheme/notifications{?since,all,participating}
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars0.githubusercontent.com/u/23313167?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/23313167?v=4
   events_url: https://api.github.com/users/tolking/events{/privacy}
   followers_url: https://api.github.com/users/tolking/followers
   following_url: https://api.github.com/users/tolking/following{/other_user}
@@ -83,14 +83,14 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/tolking/vuepress-theme-default-prefers-color-scheme/pulls{/number}
-pushed_at: '2020-07-19T03:35:07Z'
+pushed_at: '2020-11-30T12:16:14Z'
 releases_url: https://api.github.com/repos/tolking/vuepress-theme-default-prefers-color-scheme/releases{/id}
-size: 982
+size: 804
 ssh_url: git@github.com:tolking/vuepress-theme-default-prefers-color-scheme.git
-stargazers_count: 34
+stargazers_count: 44
 stargazers_url: https://api.github.com/repos/tolking/vuepress-theme-default-prefers-color-scheme/stargazers
 statuses_url: https://api.github.com/repos/tolking/vuepress-theme-default-prefers-color-scheme/statuses/{sha}
-subscribers_count: 3
+subscribers_count: 2
 subscribers_url: https://api.github.com/repos/tolking/vuepress-theme-default-prefers-color-scheme/subscribers
 subscription_url: https://api.github.com/repos/tolking/vuepress-theme-default-prefers-color-scheme/subscription
 svn_url: https://github.com/tolking/vuepress-theme-default-prefers-color-scheme
@@ -98,29 +98,21 @@ tags_url: https://api.github.com/repos/tolking/vuepress-theme-default-prefers-co
 teams_url: https://api.github.com/repos/tolking/vuepress-theme-default-prefers-color-scheme/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/tolking/vuepress-theme-default-prefers-color-scheme/git/trees{/sha}
-updated_at: '2020-08-12T06:48:00Z'
+updated_at: '2021-02-27T01:38:51Z'
 url: https://api.github.com/repos/tolking/vuepress-theme-default-prefers-color-scheme
-watchers: 34
-watchers_count: 34
+watchers: 44
+watchers_count: 44
 ---
+
+[![License](https://img.shields.io/github/license/tolking/vuepress-theme-default-prefers-color-scheme.svg?style=flat-square&logo=opensourceinitiative)](https://github.com/tolking/vuepress-theme-default-prefers-color-scheme/blob/master/LICENSE)
+[![Latest tag via npm](https://img.shields.io/npm/v/vuepress-theme-default-prefers-color-scheme.svg?style=flat-square&logo=npm)](https://npmjs.com/package/vuepress-theme-default-prefers-color-scheme)
+[![Latest tag via GitHub](https://img.shields.io/github/v/tag/tolking/vuepress-theme-default-prefers-color-scheme.svg?sort=semver&style=flat-square&logo=github)](https://github.com/tolking/vuepress-theme-default-prefers-color-scheme/tags)
 
 # vuepress-theme-default-prefers-color-scheme
 
-> add prefers-color-scheme for vuepress default theme
-
-[README](README.md) | [CHANGELOG](CHANGELOG.md)
-
-**This theme for Vuepress 1.x**
+This plugin adds support for *prefers-color-scheme* to the [Vuepress](https://vuepress.vuejs.org) 1.x default theme.
 
 [Live Demo and Documentation](https://tolking.github.io/vuepress-theme-default-prefers-color-scheme)
-
----
-
-![light.jpg](https://raw.githubusercontent.com/qiang/vuepress-theme-default-prefers-color-scheme/master/docs/.vuepress/public/img/light.jpg)
-
-![dark.jpg](https://raw.githubusercontent.com/qiang/vuepress-theme-default-prefers-color-scheme/master/docs/.vuepress/public/img/dark.jpg)
-
----
 
 ## Installation
 
@@ -135,32 +127,49 @@ npm i vuepress-theme-default-prefers-color-scheme
 ``` js
 // .vuepress -> config.js
 module.exports = {
-  theme: 'default-prefers-color-scheme',
-  themeConfig: {
-    // ...
-  }
+  theme: 'default-prefers-color-scheme'
 }
 ```
 
 ## Options
 
-### defaultTheme
-- Type: `string`, `object`
-- Required: `false`
+### overrideTheme (optional)
 
-By default, light or dark themes are displayed by [prefers-color-scheme](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme), You can change it by `defaultTheme`
+Force users into a specific theme, ignoring [prefers-color-scheme](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme).
 
-support `light`, `dark` or `{ theme: [begin hours, end hours] }`
+Allowed values:
+
+- `'light' | 'dark'`: Always use the given theme
+- `{ light: [beginHours: number, endHours: number], dark: [beginHours: number, endHours: number] }`: Control the time of the day when each theme is used
+
+For example:
 
 ``` js
 module.exports = {
   theme: 'default-prefers-color-scheme',
   themeConfig: {
-    defaultTheme: 'dark',
+    overrideTheme: 'dark',
     // or
-    defaultTheme: { dark: [18, 6] },
-    // or
-    defaultTheme: { light: [6, 18], dark: [18, 6] },
+    overrideTheme: { light: [6, 18], dark: [18, 6] },
+  }
+}
+```
+
+### prefersTheme (optional)
+
+Use the given theme when the browser does not support prefers-color-scheme but supports CSS Variables
+
+Allowed values:
+
+- `'light' | 'dark'`
+
+For example:
+
+``` js
+module.exports = {
+  theme: 'default-prefers-color-scheme',
+  themeConfig: {
+    prefersTheme: 'dark',
   }
 }
 ```
@@ -169,9 +178,16 @@ module.exports = {
 
 ## Styling
 
-To apply simple color overrides to the styling of the [default preset](https://github.com/tolking/vuepress-theme-default-prefers-color-scheme/blob/master/styles/palette.styl), In your `.vuepress/styles/palette.styl` file.
+Apply simple color overrides to the styling of the [default preset](https://github.com/tolking/vuepress-theme-default-prefers-color-scheme/blob/master/styles/palette.styl)
+in your `.vuepress/styles/palette.styl` file.
+
+Alternatively, set CSS Variables in your `.vuepress/styles/index.styl` file.
 
 **`$accentColor` and `$accentDarkColor` are best changed together**
+
+## Changelog
+
+This project uses semantic versioning and tracks changes in [CHANGELOG](CHANGELOG.md).
 
 ## License
 

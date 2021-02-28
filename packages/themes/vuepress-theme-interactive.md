@@ -54,7 +54,7 @@ notifications_url: https://api.github.com/repos/nkoehring/vuepress-theme-interac
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/246402?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/246402?v=4
   events_url: https://api.github.com/users/nkoehring/events{/privacy}
   followers_url: https://api.github.com/users/nkoehring/followers
   following_url: https://api.github.com/users/nkoehring/following{/other_user}

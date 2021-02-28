@@ -43,7 +43,12 @@ keys_url: https://api.github.com/repos/kalisio/vuepress-theme-kalisio/keys{/key_
 labels_url: https://api.github.com/repos/kalisio/vuepress-theme-kalisio/labels{/name}
 language: Vue
 languages_url: https://api.github.com/repos/kalisio/vuepress-theme-kalisio/languages
-license: null
+license:
+  key: mit
+  name: MIT License
+  node_id: MDc6TGljZW5zZTEz
+  spdx_id: MIT
+  url: https://api.github.com/licenses/mit
 merges_url: https://api.github.com/repos/kalisio/vuepress-theme-kalisio/merges
 milestones_url: https://api.github.com/repos/kalisio/vuepress-theme-kalisio/milestones{/number}
 mirror_url: null
@@ -54,7 +59,7 @@ notifications_url: https://api.github.com/repos/kalisio/vuepress-theme-kalisio/n
 open_issues: 0
 open_issues_count: 0
 organization:
-  avatar_url: https://avatars1.githubusercontent.com/u/29858840?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/29858840?v=4
   events_url: https://api.github.com/users/kalisio/events{/privacy}
   followers_url: https://api.github.com/users/kalisio/followers
   following_url: https://api.github.com/users/kalisio/following{/other_user}
@@ -73,7 +78,7 @@ organization:
   type: Organization
   url: https://api.github.com/users/kalisio
 owner:
-  avatar_url: https://avatars1.githubusercontent.com/u/29858840?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/29858840?v=4
   events_url: https://api.github.com/users/kalisio/events{/privacy}
   followers_url: https://api.github.com/users/kalisio/followers
   following_url: https://api.github.com/users/kalisio/following{/other_user}
@@ -97,9 +102,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/kalisio/vuepress-theme-kalisio/pulls{/number}
-pushed_at: '2020-08-25T11:23:53Z'
+pushed_at: '2020-12-22T08:44:20Z'
 releases_url: https://api.github.com/repos/kalisio/vuepress-theme-kalisio/releases{/id}
-size: 144
+size: 155
 ssh_url: git@github.com:kalisio/vuepress-theme-kalisio.git
 stargazers_count: 1
 stargazers_url: https://api.github.com/repos/kalisio/vuepress-theme-kalisio/stargazers
@@ -112,7 +117,7 @@ tags_url: https://api.github.com/repos/kalisio/vuepress-theme-kalisio/tags
 teams_url: https://api.github.com/repos/kalisio/vuepress-theme-kalisio/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/kalisio/vuepress-theme-kalisio/git/trees{/sha}
-updated_at: '2020-02-21T14:49:39Z'
+updated_at: '2020-12-22T08:44:23Z'
 url: https://api.github.com/repos/kalisio/vuepress-theme-kalisio
 watchers: 1
 watchers_count: 1
@@ -120,10 +125,68 @@ watchers_count: 1
 
 # vuepress-theme-kalisio
 
-A simple [VuePress](https://vuepress.vuejs.org/) theme for Kalisio projects.
+[![Latest Release](https://img.shields.io/github/v/tag/kalisio/vuepress-theme-kalisio?sort=semver&label=latest)](https://github.com/kalisio/vuepress-theme-kalisio/releases)
 
-This theme ovverides the VuePress default theme in adding the Kalisio logo instead of the Adds.
+This is a simple [VuePress](https://vuepress.vuejs.org/) theme for [Kalisio](https://kalisio.com) projects.
 
+This theme extends the default **VuePress** theme in order to provides additional functionalities such as diagramming and mapping. Read this section to understand [theme inheritance](https://vuepress.vuejs.org/theme/inheritance.html#motivation).
 
+In addition, the theme includes the following plugins:
+* [back-to-top](https://v1.vuepress.vuejs.org/plugin/official/plugin-back-to-top.html)
+* [paw](https://v1.vuepress.vuejs.org/plugin/official/plugin-pwa.html)
+* [kano](https://github.com/kalisio/vuepress-plugin-kano)
+* [mermaid.js](https://github.com/eFrane/vuepress-plugin-mermaidjs)
+
+## Installation
+
+You can install it with
+
+```bash
+yarn add -D https://github.com/kalisio/vuepress-theme-kalisio#<version>
+```
+
+And then you just need to register the theme in your `.vuepress/config.js`:
+
+```js
+module.exports = {
+    // ...
+    theme: 'kalisio',
+    // ...
+}
+```
+
+## Usage
+
+### Overriding the **Banner**
+
+The **Banner** component provides two props, `image`, `slogan` and `link`, that allows you to override the default values which are respectively our logo, our slogan and the url to our website.
+
+In your `config.js` file, add the following object in the `themeConfig` object:
+
+```js
+banner: {
+  image: 'path to your image',
+  slogan: 'your slogan',
+  link: 'your url'  // you can also use '#' to provide a null link
+}
+```
+
+### Overriding the palette
+
+Please, report to [this section](https://vuepress.vuejs.org/config/#palette-styl).
+
+## Contributing
+
+Found a bug ? Missing a Feature ? Want to contribute ? check out our [contribution guidelines](https://raw.githubusercontent.com/Kalisio/vuepress-theme-kalisio/master/CONTRIBUTING.md) for details
+
+## Authors
+
+This project is sponsored by 
+
+[![Kalisio](https://s3.eu-central-1.amazonaws.com/kalisioscope/kalisio/kalisio-logo-black-256x84.png)](https://kalisio.com)
+
+## License
+
+This project is licensed under the MIT License - see the [license file](https://raw.githubusercontent.com/Kalisio/vuepress-theme-kalisio/master/LICENSE) for details
 
 

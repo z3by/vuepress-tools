@@ -1,6 +1,6 @@
 ---
 archive_url: https://api.github.com/repos/yuchanns/vuepress-theme-hermit/{archive_format}{/ref}
-archived: false
+archived: true
 assignees_url: https://api.github.com/repos/yuchanns/vuepress-theme-hermit/assignees{/user}
 blobs_url: https://api.github.com/repos/yuchanns/vuepress-theme-hermit/git/blobs{/sha}
 branches_url: https://api.github.com/repos/yuchanns/vuepress-theme-hermit/branches{/branch}
@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/yuchanns/vuepress-theme-hermit/n
 open_issues: 1
 open_issues_count: 1
 owner:
-  avatar_url: https://avatars0.githubusercontent.com/u/25029451?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/25029451?v=4
   events_url: https://api.github.com/users/yuchanns/events{/privacy}
   followers_url: https://api.github.com/users/yuchanns/followers
   following_url: https://api.github.com/users/yuchanns/following{/other_user}
@@ -83,14 +83,14 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/yuchanns/vuepress-theme-hermit/pulls{/number}
-pushed_at: '2020-08-08T05:17:29Z'
+pushed_at: '2021-02-11T08:31:27Z'
 releases_url: https://api.github.com/repos/yuchanns/vuepress-theme-hermit/releases{/id}
-size: 1333
+size: 1629
 ssh_url: git@github.com:yuchanns/vuepress-theme-hermit.git
-stargazers_count: 3
+stargazers_count: 5
 stargazers_url: https://api.github.com/repos/yuchanns/vuepress-theme-hermit/stargazers
 statuses_url: https://api.github.com/repos/yuchanns/vuepress-theme-hermit/statuses/{sha}
-subscribers_count: 0
+subscribers_count: 1
 subscribers_url: https://api.github.com/repos/yuchanns/vuepress-theme-hermit/subscribers
 subscription_url: https://api.github.com/repos/yuchanns/vuepress-theme-hermit/subscription
 svn_url: https://github.com/yuchanns/vuepress-theme-hermit
@@ -98,16 +98,19 @@ tags_url: https://api.github.com/repos/yuchanns/vuepress-theme-hermit/tags
 teams_url: https://api.github.com/repos/yuchanns/vuepress-theme-hermit/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/yuchanns/vuepress-theme-hermit/git/trees{/sha}
-updated_at: '2020-08-08T05:17:30Z'
+updated_at: '2021-02-11T08:31:42Z'
 url: https://api.github.com/repos/yuchanns/vuepress-theme-hermit
-watchers: 3
-watchers_count: 3
+watchers: 5
+watchers_count: 5
 ---
 
 # vuepress-theme-hermit
 **An implementation of Hugo theme hermit in Vuepress**
 
 > *Star it plz if you like !*
+
+## ATTENTIN PLEASE
+**THIS REPO HAS BEEN ARCHIVED !!!**
 
 ## WHY
 I really like this theme at a glance, but I think a Hugo blog is not my style though fastest it does, so I made it an implementation in Vuepress.

@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/imengX/vuepress-theme-even/notif
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars3.githubusercontent.com/u/6888668?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/6888668?v=4
   events_url: https://api.github.com/users/imengX/events{/privacy}
   followers_url: https://api.github.com/users/imengX/followers
   following_url: https://api.github.com/users/imengX/following{/other_user}

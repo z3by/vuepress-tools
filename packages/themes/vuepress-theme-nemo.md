@@ -1,0 +1,102 @@
+---
+archive_url: https://api.github.com/repos/Genuifx/vuepress-theme-nemo/{archive_format}{/ref}
+archived: false
+assignees_url: https://api.github.com/repos/Genuifx/vuepress-theme-nemo/assignees{/user}
+blobs_url: https://api.github.com/repos/Genuifx/vuepress-theme-nemo/git/blobs{/sha}
+branches_url: https://api.github.com/repos/Genuifx/vuepress-theme-nemo/branches{/branch}
+clone_url: https://github.com/Genuifx/vuepress-theme-nemo.git
+collaborators_url: https://api.github.com/repos/Genuifx/vuepress-theme-nemo/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/Genuifx/vuepress-theme-nemo/comments{/number}
+commits_url: https://api.github.com/repos/Genuifx/vuepress-theme-nemo/commits{/sha}
+compare_url: https://api.github.com/repos/Genuifx/vuepress-theme-nemo/compare/{base}...{head}
+contents_url: https://api.github.com/repos/Genuifx/vuepress-theme-nemo/contents/{+path}
+contributors_url: https://api.github.com/repos/Genuifx/vuepress-theme-nemo/contributors
+created_at: '2020-09-28T18:55:35Z'
+default_branch: master
+deployments_url: https://api.github.com/repos/Genuifx/vuepress-theme-nemo/deployments
+description: "Beautiful vuepress document theme. \u9AD8\u989C\u503C\u7684vuepress\u6587\
+  \u6863\u76AE\u80A4"
+disabled: false
+downloads_url: https://api.github.com/repos/Genuifx/vuepress-theme-nemo/downloads
+events_url: https://api.github.com/repos/Genuifx/vuepress-theme-nemo/events
+fork: false
+forks: 0
+forks_count: 0
+forks_url: https://api.github.com/repos/Genuifx/vuepress-theme-nemo/forks
+full_name: Genuifx/vuepress-theme-nemo
+git_commits_url: https://api.github.com/repos/Genuifx/vuepress-theme-nemo/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/Genuifx/vuepress-theme-nemo/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/Genuifx/vuepress-theme-nemo/git/tags{/sha}
+git_url: git://github.com/Genuifx/vuepress-theme-nemo.git
+has_downloads: true
+has_issues: true
+has_pages: false
+has_projects: true
+has_wiki: true
+homepage: null
+hooks_url: https://api.github.com/repos/Genuifx/vuepress-theme-nemo/hooks
+html_url: https://github.com/Genuifx/vuepress-theme-nemo
+id: 299403836
+issue_comment_url: https://api.github.com/repos/Genuifx/vuepress-theme-nemo/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/Genuifx/vuepress-theme-nemo/issues/events{/number}
+issues_url: https://api.github.com/repos/Genuifx/vuepress-theme-nemo/issues{/number}
+keys_url: https://api.github.com/repos/Genuifx/vuepress-theme-nemo/keys{/key_id}
+labels_url: https://api.github.com/repos/Genuifx/vuepress-theme-nemo/labels{/name}
+language: null
+languages_url: https://api.github.com/repos/Genuifx/vuepress-theme-nemo/languages
+license: null
+merges_url: https://api.github.com/repos/Genuifx/vuepress-theme-nemo/merges
+milestones_url: https://api.github.com/repos/Genuifx/vuepress-theme-nemo/milestones{/number}
+mirror_url: null
+name: vuepress-theme-nemo
+network_count: 0
+node_id: MDEwOlJlcG9zaXRvcnkyOTk0MDM4MzY=
+notifications_url: https://api.github.com/repos/Genuifx/vuepress-theme-nemo/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
+owner:
+  avatar_url: https://avatars.githubusercontent.com/u/10156994?v=4
+  events_url: https://api.github.com/users/Genuifx/events{/privacy}
+  followers_url: https://api.github.com/users/Genuifx/followers
+  following_url: https://api.github.com/users/Genuifx/following{/other_user}
+  gists_url: https://api.github.com/users/Genuifx/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/Genuifx
+  id: 10156994
+  login: Genuifx
+  node_id: MDQ6VXNlcjEwMTU2OTk0
+  organizations_url: https://api.github.com/users/Genuifx/orgs
+  received_events_url: https://api.github.com/users/Genuifx/received_events
+  repos_url: https://api.github.com/users/Genuifx/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/Genuifx/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/Genuifx/subscriptions
+  type: User
+  url: https://api.github.com/users/Genuifx
+permissions:
+  admin: false
+  pull: true
+  push: false
+private: false
+pulls_url: https://api.github.com/repos/Genuifx/vuepress-theme-nemo/pulls{/number}
+pushed_at: '2020-09-28T18:55:36Z'
+releases_url: https://api.github.com/repos/Genuifx/vuepress-theme-nemo/releases{/id}
+size: 0
+ssh_url: git@github.com:Genuifx/vuepress-theme-nemo.git
+stargazers_count: 0
+stargazers_url: https://api.github.com/repos/Genuifx/vuepress-theme-nemo/stargazers
+statuses_url: https://api.github.com/repos/Genuifx/vuepress-theme-nemo/statuses/{sha}
+subscribers_count: 1
+subscribers_url: https://api.github.com/repos/Genuifx/vuepress-theme-nemo/subscribers
+subscription_url: https://api.github.com/repos/Genuifx/vuepress-theme-nemo/subscription
+svn_url: https://github.com/Genuifx/vuepress-theme-nemo
+tags_url: https://api.github.com/repos/Genuifx/vuepress-theme-nemo/tags
+teams_url: https://api.github.com/repos/Genuifx/vuepress-theme-nemo/teams
+temp_clone_token: ''
+trees_url: https://api.github.com/repos/Genuifx/vuepress-theme-nemo/git/trees{/sha}
+updated_at: '2020-09-28T18:55:35Z'
+url: https://api.github.com/repos/Genuifx/vuepress-theme-nemo
+watchers: 0
+watchers_count: 0
+---
+

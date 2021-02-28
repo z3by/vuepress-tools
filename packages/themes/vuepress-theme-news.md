@@ -1,0 +1,108 @@
+---
+archive_url: https://api.github.com/repos/EmmaammE/vuepress-theme-news/{archive_format}{/ref}
+archived: false
+assignees_url: https://api.github.com/repos/EmmaammE/vuepress-theme-news/assignees{/user}
+blobs_url: https://api.github.com/repos/EmmaammE/vuepress-theme-news/git/blobs{/sha}
+branches_url: https://api.github.com/repos/EmmaammE/vuepress-theme-news/branches{/branch}
+clone_url: https://github.com/EmmaammE/vuepress-theme-news.git
+collaborators_url: https://api.github.com/repos/EmmaammE/vuepress-theme-news/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/EmmaammE/vuepress-theme-news/comments{/number}
+commits_url: https://api.github.com/repos/EmmaammE/vuepress-theme-news/commits{/sha}
+compare_url: https://api.github.com/repos/EmmaammE/vuepress-theme-news/compare/{base}...{head}
+contents_url: https://api.github.com/repos/EmmaammE/vuepress-theme-news/contents/{+path}
+contributors_url: https://api.github.com/repos/EmmaammE/vuepress-theme-news/contributors
+created_at: '2020-09-16T16:28:44Z'
+default_branch: master
+deployments_url: https://api.github.com/repos/EmmaammE/vuepress-theme-news/deployments
+description: A simple and beautiful vuepress Blog theme
+disabled: false
+downloads_url: https://api.github.com/repos/EmmaammE/vuepress-theme-news/downloads
+events_url: https://api.github.com/repos/EmmaammE/vuepress-theme-news/events
+fork: false
+forks: 0
+forks_count: 0
+forks_url: https://api.github.com/repos/EmmaammE/vuepress-theme-news/forks
+full_name: EmmaammE/vuepress-theme-news
+git_commits_url: https://api.github.com/repos/EmmaammE/vuepress-theme-news/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/EmmaammE/vuepress-theme-news/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/EmmaammE/vuepress-theme-news/git/tags{/sha}
+git_url: git://github.com/EmmaammE/vuepress-theme-news.git
+has_downloads: true
+has_issues: true
+has_pages: false
+has_projects: true
+has_wiki: true
+homepage: null
+hooks_url: https://api.github.com/repos/EmmaammE/vuepress-theme-news/hooks
+html_url: https://github.com/EmmaammE/vuepress-theme-news
+id: 296088542
+issue_comment_url: https://api.github.com/repos/EmmaammE/vuepress-theme-news/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/EmmaammE/vuepress-theme-news/issues/events{/number}
+issues_url: https://api.github.com/repos/EmmaammE/vuepress-theme-news/issues{/number}
+keys_url: https://api.github.com/repos/EmmaammE/vuepress-theme-news/keys{/key_id}
+labels_url: https://api.github.com/repos/EmmaammE/vuepress-theme-news/labels{/name}
+language: null
+languages_url: https://api.github.com/repos/EmmaammE/vuepress-theme-news/languages
+license:
+  key: mit
+  name: MIT License
+  node_id: MDc6TGljZW5zZTEz
+  spdx_id: MIT
+  url: https://api.github.com/licenses/mit
+merges_url: https://api.github.com/repos/EmmaammE/vuepress-theme-news/merges
+milestones_url: https://api.github.com/repos/EmmaammE/vuepress-theme-news/milestones{/number}
+mirror_url: null
+name: vuepress-theme-news
+network_count: 0
+node_id: MDEwOlJlcG9zaXRvcnkyOTYwODg1NDI=
+notifications_url: https://api.github.com/repos/EmmaammE/vuepress-theme-news/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
+owner:
+  avatar_url: https://avatars.githubusercontent.com/u/25704759?v=4
+  events_url: https://api.github.com/users/EmmaammE/events{/privacy}
+  followers_url: https://api.github.com/users/EmmaammE/followers
+  following_url: https://api.github.com/users/EmmaammE/following{/other_user}
+  gists_url: https://api.github.com/users/EmmaammE/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/EmmaammE
+  id: 25704759
+  login: EmmaammE
+  node_id: MDQ6VXNlcjI1NzA0NzU5
+  organizations_url: https://api.github.com/users/EmmaammE/orgs
+  received_events_url: https://api.github.com/users/EmmaammE/received_events
+  repos_url: https://api.github.com/users/EmmaammE/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/EmmaammE/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/EmmaammE/subscriptions
+  type: User
+  url: https://api.github.com/users/EmmaammE
+permissions:
+  admin: false
+  pull: true
+  push: false
+private: false
+pulls_url: https://api.github.com/repos/EmmaammE/vuepress-theme-news/pulls{/number}
+pushed_at: '2020-12-05T07:44:26Z'
+releases_url: https://api.github.com/repos/EmmaammE/vuepress-theme-news/releases{/id}
+size: 172
+ssh_url: git@github.com:EmmaammE/vuepress-theme-news.git
+stargazers_count: 0
+stargazers_url: https://api.github.com/repos/EmmaammE/vuepress-theme-news/stargazers
+statuses_url: https://api.github.com/repos/EmmaammE/vuepress-theme-news/statuses/{sha}
+subscribers_count: 1
+subscribers_url: https://api.github.com/repos/EmmaammE/vuepress-theme-news/subscribers
+subscription_url: https://api.github.com/repos/EmmaammE/vuepress-theme-news/subscription
+svn_url: https://github.com/EmmaammE/vuepress-theme-news
+tags_url: https://api.github.com/repos/EmmaammE/vuepress-theme-news/tags
+teams_url: https://api.github.com/repos/EmmaammE/vuepress-theme-news/teams
+temp_clone_token: ''
+trees_url: https://api.github.com/repos/EmmaammE/vuepress-theme-news/git/trees{/sha}
+updated_at: '2020-12-05T07:44:28Z'
+url: https://api.github.com/repos/EmmaammE/vuepress-theme-news
+watchers: 0
+watchers_count: 0
+---
+
+# vuepress-theme-news
+A simple and beautiful vuepress Blog theme

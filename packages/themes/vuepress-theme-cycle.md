@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/leCapsimRy/vuepress-theme-cycle/downloads
 events_url: https://api.github.com/repos/leCapsimRy/vuepress-theme-cycle/events
 fork: false
-forks: 3
-forks_count: 3
+forks: 2
+forks_count: 2
 forks_url: https://api.github.com/repos/leCapsimRy/vuepress-theme-cycle/forks
 full_name: leCapsimRy/vuepress-theme-cycle
 git_commits_url: https://api.github.com/repos/leCapsimRy/vuepress-theme-cycle/git/commits{/sha}
@@ -53,13 +53,13 @@ merges_url: https://api.github.com/repos/leCapsimRy/vuepress-theme-cycle/merges
 milestones_url: https://api.github.com/repos/leCapsimRy/vuepress-theme-cycle/milestones{/number}
 mirror_url: null
 name: vuepress-theme-cycle
-network_count: 3
+network_count: 2
 node_id: MDEwOlJlcG9zaXRvcnkxODAyNjI0NDY=
 notifications_url: https://api.github.com/repos/leCapsimRy/vuepress-theme-cycle/notifications{?since,all,participating}
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/6262853?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/6262853?v=4
   events_url: https://api.github.com/users/leCapsimRy/events{/privacy}
   followers_url: https://api.github.com/users/leCapsimRy/followers
   following_url: https://api.github.com/users/leCapsimRy/following{/other_user}

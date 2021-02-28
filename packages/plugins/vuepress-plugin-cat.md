@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/QiShaoXuan/vuepress-plugin-cat/downloads
 events_url: https://api.github.com/repos/QiShaoXuan/vuepress-plugin-cat/events
 fork: false
-forks: 21
-forks_count: 21
+forks: 22
+forks_count: 22
 forks_url: https://api.github.com/repos/QiShaoXuan/vuepress-plugin-cat/forks
 full_name: QiShaoXuan/vuepress-plugin-cat
 git_commits_url: https://api.github.com/repos/QiShaoXuan/vuepress-plugin-cat/git/commits{/sha}
@@ -48,13 +48,13 @@ merges_url: https://api.github.com/repos/QiShaoXuan/vuepress-plugin-cat/merges
 milestones_url: https://api.github.com/repos/QiShaoXuan/vuepress-plugin-cat/milestones{/number}
 mirror_url: null
 name: vuepress-plugin-cat
-network_count: 21
+network_count: 22
 node_id: MDEwOlJlcG9zaXRvcnkyMDE4NjU5NDg=
 notifications_url: https://api.github.com/repos/QiShaoXuan/vuepress-plugin-cat/notifications{?since,all,participating}
-open_issues: 5
-open_issues_count: 5
+open_issues: 6
+open_issues_count: 6
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/22772830?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/22772830?v=4
   events_url: https://api.github.com/users/QiShaoXuan/events{/privacy}
   followers_url: https://api.github.com/users/QiShaoXuan/followers
   following_url: https://api.github.com/users/QiShaoXuan/following{/other_user}
@@ -78,11 +78,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/QiShaoXuan/vuepress-plugin-cat/pulls{/number}
-pushed_at: '2019-11-27T12:00:56Z'
+pushed_at: '2020-09-16T05:16:06Z'
 releases_url: https://api.github.com/repos/QiShaoXuan/vuepress-plugin-cat/releases{/id}
 size: 44
 ssh_url: git@github.com:QiShaoXuan/vuepress-plugin-cat.git
-stargazers_count: 116
+stargazers_count: 140
 stargazers_url: https://api.github.com/repos/QiShaoXuan/vuepress-plugin-cat/stargazers
 statuses_url: https://api.github.com/repos/QiShaoXuan/vuepress-plugin-cat/statuses/{sha}
 subscribers_count: 0
@@ -93,10 +93,10 @@ tags_url: https://api.github.com/repos/QiShaoXuan/vuepress-plugin-cat/tags
 teams_url: https://api.github.com/repos/QiShaoXuan/vuepress-plugin-cat/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/QiShaoXuan/vuepress-plugin-cat/git/trees{/sha}
-updated_at: '2020-08-25T01:53:18Z'
+updated_at: '2021-02-26T07:28:11Z'
 url: https://api.github.com/repos/QiShaoXuan/vuepress-plugin-cat
-watchers: 116
-watchers_count: 116
+watchers: 140
+watchers_count: 140
 ---
 
 # vuepress-plugin-cat

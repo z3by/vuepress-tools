@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/webmasterish/vuepress-plugin-aut
 open_issues: 3
 open_issues_count: 3
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/246901?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/246901?v=4
   events_url: https://api.github.com/users/webmasterish/events{/privacy}
   followers_url: https://api.github.com/users/webmasterish/followers
   following_url: https://api.github.com/users/webmasterish/following{/other_user}
@@ -87,7 +87,7 @@ pushed_at: '2020-04-25T01:18:06Z'
 releases_url: https://api.github.com/repos/webmasterish/vuepress-plugin-autometa/releases{/id}
 size: 34
 ssh_url: git@github.com:webmasterish/vuepress-plugin-autometa.git
-stargazers_count: 36
+stargazers_count: 38
 stargazers_url: https://api.github.com/repos/webmasterish/vuepress-plugin-autometa/stargazers
 statuses_url: https://api.github.com/repos/webmasterish/vuepress-plugin-autometa/statuses/{sha}
 subscribers_count: 1
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/webmasterish/vuepress-plugin-autometa/tag
 teams_url: https://api.github.com/repos/webmasterish/vuepress-plugin-autometa/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/webmasterish/vuepress-plugin-autometa/git/trees{/sha}
-updated_at: '2020-08-07T16:56:45Z'
+updated_at: '2021-01-20T20:20:43Z'
 url: https://api.github.com/repos/webmasterish/vuepress-plugin-autometa
-watchers: 36
-watchers_count: 36
+watchers: 38
+watchers_count: 38
 ---
 
 # VuePress Plugin Auto Meta

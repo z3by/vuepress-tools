@@ -51,10 +51,10 @@ name: vuepress-theme-loaded
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkxOTIwMDM5NDQ=
 notifications_url: https://api.github.com/repos/tangodata/vuepress-theme-loaded/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
+open_issues: 2
+open_issues_count: 2
 organization:
-  avatar_url: https://avatars3.githubusercontent.com/u/18068777?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/18068777?v=4
   events_url: https://api.github.com/users/tangodata/events{/privacy}
   followers_url: https://api.github.com/users/tangodata/followers
   following_url: https://api.github.com/users/tangodata/following{/other_user}
@@ -73,7 +73,7 @@ organization:
   type: Organization
   url: https://api.github.com/users/tangodata
 owner:
-  avatar_url: https://avatars3.githubusercontent.com/u/18068777?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/18068777?v=4
   events_url: https://api.github.com/users/tangodata/events{/privacy}
   followers_url: https://api.github.com/users/tangodata/followers
   following_url: https://api.github.com/users/tangodata/following{/other_user}
@@ -97,9 +97,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/tangodata/vuepress-theme-loaded/pulls{/number}
-pushed_at: '2020-07-17T08:03:30Z'
+pushed_at: '2020-09-04T14:13:07Z'
 releases_url: https://api.github.com/repos/tangodata/vuepress-theme-loaded/releases{/id}
-size: 72
+size: 130
 ssh_url: git@github.com:tangodata/vuepress-theme-loaded.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/tangodata/vuepress-theme-loaded/stargazers

@@ -54,7 +54,7 @@ notifications_url: https://api.github.com/repos/ekoeryanto/vuepress-plugin-serve
 open_issues: 2
 open_issues_count: 2
 owner:
-  avatar_url: https://avatars0.githubusercontent.com/u/36023898?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/36023898?v=4
   events_url: https://api.github.com/users/ekoeryanto/events{/privacy}
   followers_url: https://api.github.com/users/ekoeryanto/followers
   following_url: https://api.github.com/users/ekoeryanto/following{/other_user}

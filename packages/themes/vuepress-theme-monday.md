@@ -1,6 +1,6 @@
 ---
 archive_url: https://api.github.com/repos/Karlbovsky/vuepress-theme-monday/{archive_format}{/ref}
-archived: false
+archived: true
 assignees_url: https://api.github.com/repos/Karlbovsky/vuepress-theme-monday/assignees{/user}
 blobs_url: https://api.github.com/repos/Karlbovsky/vuepress-theme-monday/git/blobs{/sha}
 branches_url: https://api.github.com/repos/Karlbovsky/vuepress-theme-monday/branches{/branch}
@@ -54,7 +54,7 @@ notifications_url: https://api.github.com/repos/Karlbovsky/vuepress-theme-monday
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars3.githubusercontent.com/u/5312818?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/5312818?v=4
   events_url: https://api.github.com/users/Karlbovsky/events{/privacy}
   followers_url: https://api.github.com/users/Karlbovsky/followers
   following_url: https://api.github.com/users/Karlbovsky/following{/other_user}
@@ -93,7 +93,7 @@ tags_url: https://api.github.com/repos/Karlbovsky/vuepress-theme-monday/tags
 teams_url: https://api.github.com/repos/Karlbovsky/vuepress-theme-monday/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/Karlbovsky/vuepress-theme-monday/git/trees{/sha}
-updated_at: '2020-08-02T09:35:10Z'
+updated_at: '2020-08-26T09:16:34Z'
 url: https://api.github.com/repos/Karlbovsky/vuepress-theme-monday
 watchers: 0
 watchers_count: 0

@@ -1,6 +1,6 @@
 ---
 archive_url: https://api.github.com/repos/recodable/vuepress-theme-tailwind-blog/{archive_format}{/ref}
-archived: false
+archived: true
 assignees_url: https://api.github.com/repos/recodable/vuepress-theme-tailwind-blog/assignees{/user}
 blobs_url: https://api.github.com/repos/recodable/vuepress-theme-tailwind-blog/git/blobs{/sha}
 branches_url: https://api.github.com/repos/recodable/vuepress-theme-tailwind-blog/branches{/branch}
@@ -52,10 +52,10 @@ name: vuepress-theme-tailwind-blog
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyNDE5NTM3MTE=
 notifications_url: https://api.github.com/repos/recodable/vuepress-theme-tailwind-blog/notifications{?since,all,participating}
-open_issues: 6
-open_issues_count: 6
+open_issues: 7
+open_issues_count: 7
 organization:
-  avatar_url: https://avatars2.githubusercontent.com/u/55709797?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/55709797?v=4
   events_url: https://api.github.com/users/recodable/events{/privacy}
   followers_url: https://api.github.com/users/recodable/followers
   following_url: https://api.github.com/users/recodable/following{/other_user}
@@ -74,7 +74,7 @@ organization:
   type: Organization
   url: https://api.github.com/users/recodable
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/55709797?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/55709797?v=4
   events_url: https://api.github.com/users/recodable/events{/privacy}
   followers_url: https://api.github.com/users/recodable/followers
   following_url: https://api.github.com/users/recodable/following{/other_user}
@@ -98,14 +98,14 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/recodable/vuepress-theme-tailwind-blog/pulls{/number}
-pushed_at: '2020-08-07T23:58:53Z'
+pushed_at: '2020-09-11T08:35:04Z'
 releases_url: https://api.github.com/repos/recodable/vuepress-theme-tailwind-blog/releases{/id}
-size: 7312
+size: 7470
 ssh_url: git@github.com:recodable/vuepress-theme-tailwind-blog.git
-stargazers_count: 2
+stargazers_count: 3
 stargazers_url: https://api.github.com/repos/recodable/vuepress-theme-tailwind-blog/stargazers
 statuses_url: https://api.github.com/repos/recodable/vuepress-theme-tailwind-blog/statuses/{sha}
-subscribers_count: 2
+subscribers_count: 1
 subscribers_url: https://api.github.com/repos/recodable/vuepress-theme-tailwind-blog/subscribers
 subscription_url: https://api.github.com/repos/recodable/vuepress-theme-tailwind-blog/subscription
 svn_url: https://github.com/recodable/vuepress-theme-tailwind-blog
@@ -113,15 +113,15 @@ tags_url: https://api.github.com/repos/recodable/vuepress-theme-tailwind-blog/ta
 teams_url: https://api.github.com/repos/recodable/vuepress-theme-tailwind-blog/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/recodable/vuepress-theme-tailwind-blog/git/trees{/sha}
-updated_at: '2020-05-11T22:49:40Z'
+updated_at: '2020-09-30T09:55:35Z'
 url: https://api.github.com/repos/recodable/vuepress-theme-tailwind-blog
-watchers: 2
-watchers_count: 2
+watchers: 3
+watchers_count: 3
 ---
 
 # Recodable's Vuepress + Tailwind Blog Theme
 
-![Example](https://raw.githubusercontent.com/None/vuepress-theme-tailwind-blog/master/docs/example.png)
+![Example](https://raw.githubusercontent.com/Recodable/vuepress-theme-tailwind-blog/master/docs/example.png)
 
 [Full documentation](https://vuepress-theme-tailwind-blog.netlify.com)
 

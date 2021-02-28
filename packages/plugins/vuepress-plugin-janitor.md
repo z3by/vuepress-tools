@@ -54,7 +54,7 @@ notifications_url: https://api.github.com/repos/bencodezen/vuepress-plugin-janit
 open_issues: 3
 open_issues_count: 3
 owner:
-  avatar_url: https://avatars0.githubusercontent.com/u/4836334?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/4836334?v=4
   events_url: https://api.github.com/users/bencodezen/events{/privacy}
   followers_url: https://api.github.com/users/bencodezen/followers
   following_url: https://api.github.com/users/bencodezen/following{/other_user}

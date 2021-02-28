@@ -54,7 +54,7 @@ notifications_url: https://api.github.com/repos/Yubisaki/vuepress-plugin-blog/no
 open_issues: 0
 open_issues_count: 0
 organization:
-  avatar_url: https://avatars0.githubusercontent.com/u/43475371?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/43475371?v=4
   events_url: https://api.github.com/users/Yubisaki/events{/privacy}
   followers_url: https://api.github.com/users/Yubisaki/followers
   following_url: https://api.github.com/users/Yubisaki/following{/other_user}
@@ -73,7 +73,7 @@ organization:
   type: Organization
   url: https://api.github.com/users/Yubisaki
 owner:
-  avatar_url: https://avatars0.githubusercontent.com/u/43475371?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/43475371?v=4
   events_url: https://api.github.com/users/Yubisaki/events{/privacy}
   followers_url: https://api.github.com/users/Yubisaki/followers
   following_url: https://api.github.com/users/Yubisaki/following{/other_user}

@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/webmasterish/vuepress-plugin-min
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/246901?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/246901?v=4
   events_url: https://api.github.com/users/webmasterish/events{/privacy}
   followers_url: https://api.github.com/users/webmasterish/followers
   following_url: https://api.github.com/users/webmasterish/following{/other_user}
@@ -87,7 +87,7 @@ pushed_at: '2019-01-22T06:16:21Z'
 releases_url: https://api.github.com/repos/webmasterish/vuepress-plugin-minimal-analytics/releases{/id}
 size: 20
 ssh_url: git@github.com:webmasterish/vuepress-plugin-minimal-analytics.git
-stargazers_count: 10
+stargazers_count: 11
 stargazers_url: https://api.github.com/repos/webmasterish/vuepress-plugin-minimal-analytics/stargazers
 statuses_url: https://api.github.com/repos/webmasterish/vuepress-plugin-minimal-analytics/statuses/{sha}
 subscribers_count: 1
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/webmasterish/vuepress-plugin-minimal-anal
 teams_url: https://api.github.com/repos/webmasterish/vuepress-plugin-minimal-analytics/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/webmasterish/vuepress-plugin-minimal-analytics/git/trees{/sha}
-updated_at: '2020-07-10T15:53:07Z'
+updated_at: '2020-10-27T14:42:50Z'
 url: https://api.github.com/repos/webmasterish/vuepress-plugin-minimal-analytics
-watchers: 10
-watchers_count: 10
+watchers: 11
+watchers_count: 11
 ---
 
 # VuePress Plugin Minimal Google Analytics

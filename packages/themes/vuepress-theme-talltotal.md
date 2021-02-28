@@ -14,7 +14,7 @@ contributors_url: https://api.github.com/repos/talltotal/vuepress-theme-talltota
 created_at: '2019-03-21T09:44:53Z'
 default_branch: master
 deployments_url: https://api.github.com/repos/talltotal/vuepress-theme-talltotal/deployments
-description: https://www.npmjs.com/package/vuepress-theme-talltotal
+description: theme for vuepress
 disabled: false
 downloads_url: https://api.github.com/repos/talltotal/vuepress-theme-talltotal/downloads
 events_url: https://api.github.com/repos/talltotal/vuepress-theme-talltotal/events
@@ -51,10 +51,10 @@ name: vuepress-theme-talltotal
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkxNzY5MTU0MDQ=
 notifications_url: https://api.github.com/repos/talltotal/vuepress-theme-talltotal/notifications{?since,all,participating}
-open_issues: 3
-open_issues_count: 3
+open_issues: 4
+open_issues_count: 4
 owner:
-  avatar_url: https://avatars3.githubusercontent.com/u/17965996?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/17965996?v=4
   events_url: https://api.github.com/users/talltotal/events{/privacy}
   followers_url: https://api.github.com/users/talltotal/followers
   following_url: https://api.github.com/users/talltotal/following{/other_user}
@@ -78,9 +78,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/talltotal/vuepress-theme-talltotal/pulls{/number}
-pushed_at: '2020-08-07T23:07:18Z'
+pushed_at: '2020-12-11T03:27:35Z'
 releases_url: https://api.github.com/repos/talltotal/vuepress-theme-talltotal/releases{/id}
-size: 1323
+size: 1495
 ssh_url: git@github.com:talltotal/vuepress-theme-talltotal.git
 stargazers_count: 1
 stargazers_url: https://api.github.com/repos/talltotal/vuepress-theme-talltotal/stargazers
@@ -93,7 +93,7 @@ tags_url: https://api.github.com/repos/talltotal/vuepress-theme-talltotal/tags
 teams_url: https://api.github.com/repos/talltotal/vuepress-theme-talltotal/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/talltotal/vuepress-theme-talltotal/git/trees{/sha}
-updated_at: '2020-04-28T01:00:46Z'
+updated_at: '2021-01-27T07:40:49Z'
 url: https://api.github.com/repos/talltotal/vuepress-theme-talltotal
 watchers: 1
 watchers_count: 1

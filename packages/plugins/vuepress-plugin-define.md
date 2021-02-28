@@ -56,10 +56,10 @@ name: vuepress-plugin-define
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyMjIyMjA0MTc=
 notifications_url: https://api.github.com/repos/sqrthree/vuepress-plugin-define/notifications{?since,all,participating}
-open_issues: 4
-open_issues_count: 4
+open_issues: 6
+open_issues_count: 6
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/8622362?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/8622362?v=4
   events_url: https://api.github.com/users/sqrthree/events{/privacy}
   followers_url: https://api.github.com/users/sqrthree/followers
   following_url: https://api.github.com/users/sqrthree/following{/other_user}
@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/sqrthree/vuepress-plugin-define/pulls{/number}
-pushed_at: '2020-08-07T23:43:43Z'
+pushed_at: '2020-12-12T09:55:34Z'
 releases_url: https://api.github.com/repos/sqrthree/vuepress-plugin-define/releases{/id}
-size: 763
+size: 936
 ssh_url: git@github.com:sqrthree/vuepress-plugin-define.git
 stargazers_count: 1
 stargazers_url: https://api.github.com/repos/sqrthree/vuepress-plugin-define/stargazers

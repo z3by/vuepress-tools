@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/jinjun1994/vuepress-theme-kim/no
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars3.githubusercontent.com/u/21867818?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/21867818?v=4
   events_url: https://api.github.com/users/jinjun1994/events{/privacy}
   followers_url: https://api.github.com/users/jinjun1994/followers
   following_url: https://api.github.com/users/jinjun1994/following{/other_user}

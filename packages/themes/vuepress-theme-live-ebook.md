@@ -1,126 +1,107 @@
 ---
-archive_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/{archive_format}{/ref}
+archive_url: https://api.github.com/repos/lowek/vuepress-theme-live-ebook/{archive_format}{/ref}
 archived: false
-assignees_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/assignees{/user}
-blobs_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/git/blobs{/sha}
-branches_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/branches{/branch}
-clone_url: https://github.com/netguru/vuepress-theme-live-ebook.git
-collaborators_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/comments{/number}
-commits_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/commits{/sha}
-compare_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/compare/{base}...{head}
-contents_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/contents/{+path}
-contributors_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/contributors
-created_at: '2018-12-27T10:13:09Z'
+assignees_url: https://api.github.com/repos/lowek/vuepress-theme-live-ebook/assignees{/user}
+blobs_url: https://api.github.com/repos/lowek/vuepress-theme-live-ebook/git/blobs{/sha}
+branches_url: https://api.github.com/repos/lowek/vuepress-theme-live-ebook/branches{/branch}
+clone_url: https://github.com/lowek/vuepress-theme-live-ebook.git
+collaborators_url: https://api.github.com/repos/lowek/vuepress-theme-live-ebook/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/lowek/vuepress-theme-live-ebook/comments{/number}
+commits_url: https://api.github.com/repos/lowek/vuepress-theme-live-ebook/commits{/sha}
+compare_url: https://api.github.com/repos/lowek/vuepress-theme-live-ebook/compare/{base}...{head}
+contents_url: https://api.github.com/repos/lowek/vuepress-theme-live-ebook/contents/{+path}
+contributors_url: https://api.github.com/repos/lowek/vuepress-theme-live-ebook/contributors
+created_at: '2020-01-07T11:32:38Z'
 default_branch: master
-deployments_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/deployments
+deployments_url: https://api.github.com/repos/lowek/vuepress-theme-live-ebook/deployments
 description: null
 disabled: false
-downloads_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/downloads
-events_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/events
+downloads_url: https://api.github.com/repos/lowek/vuepress-theme-live-ebook/downloads
+events_url: https://api.github.com/repos/lowek/vuepress-theme-live-ebook/events
 fork: false
 forks: 5
 forks_count: 5
-forks_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/forks
-full_name: netguru/vuepress-theme-live-ebook
-git_commits_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/git/tags{/sha}
-git_url: git://github.com/netguru/vuepress-theme-live-ebook.git
+forks_url: https://api.github.com/repos/lowek/vuepress-theme-live-ebook/forks
+full_name: lowek/vuepress-theme-live-ebook
+git_commits_url: https://api.github.com/repos/lowek/vuepress-theme-live-ebook/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/lowek/vuepress-theme-live-ebook/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/lowek/vuepress-theme-live-ebook/git/tags{/sha}
+git_url: git://github.com/lowek/vuepress-theme-live-ebook.git
 has_downloads: true
-has_issues: true
+has_issues: false
 has_pages: false
 has_projects: true
 has_wiki: true
 homepage: null
-hooks_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/hooks
-html_url: https://github.com/netguru/vuepress-theme-live-ebook
-id: 163279612
-issue_comment_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/issues/events{/number}
-issues_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/issues{/number}
-keys_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/keys{/key_id}
-labels_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/labels{/name}
-language: Vue
-languages_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/languages
+hooks_url: https://api.github.com/repos/lowek/vuepress-theme-live-ebook/hooks
+html_url: https://github.com/lowek/vuepress-theme-live-ebook
+id: 232310852
+issue_comment_url: https://api.github.com/repos/lowek/vuepress-theme-live-ebook/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/lowek/vuepress-theme-live-ebook/issues/events{/number}
+issues_url: https://api.github.com/repos/lowek/vuepress-theme-live-ebook/issues{/number}
+keys_url: https://api.github.com/repos/lowek/vuepress-theme-live-ebook/keys{/key_id}
+labels_url: https://api.github.com/repos/lowek/vuepress-theme-live-ebook/labels{/name}
+language: null
+languages_url: https://api.github.com/repos/lowek/vuepress-theme-live-ebook/languages
 license:
   key: mit
   name: MIT License
   node_id: MDc6TGljZW5zZTEz
   spdx_id: MIT
   url: https://api.github.com/licenses/mit
-merges_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/merges
-milestones_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/milestones{/number}
+merges_url: https://api.github.com/repos/lowek/vuepress-theme-live-ebook/merges
+milestones_url: https://api.github.com/repos/lowek/vuepress-theme-live-ebook/milestones{/number}
 mirror_url: null
 name: vuepress-theme-live-ebook
 network_count: 5
-node_id: MDEwOlJlcG9zaXRvcnkxNjMyNzk2MTI=
-notifications_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/notifications{?since,all,participating}
-open_issues: 6
-open_issues_count: 6
-organization:
-  avatar_url: https://avatars1.githubusercontent.com/u/1146?v=4
-  events_url: https://api.github.com/users/netguru/events{/privacy}
-  followers_url: https://api.github.com/users/netguru/followers
-  following_url: https://api.github.com/users/netguru/following{/other_user}
-  gists_url: https://api.github.com/users/netguru/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/netguru
-  id: 1146
-  login: netguru
-  node_id: MDEyOk9yZ2FuaXphdGlvbjExNDY=
-  organizations_url: https://api.github.com/users/netguru/orgs
-  received_events_url: https://api.github.com/users/netguru/received_events
-  repos_url: https://api.github.com/users/netguru/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/netguru/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/netguru/subscriptions
-  type: Organization
-  url: https://api.github.com/users/netguru
+node_id: MDEwOlJlcG9zaXRvcnkyMzIzMTA4NTI=
+notifications_url: https://api.github.com/repos/lowek/vuepress-theme-live-ebook/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
 owner:
-  avatar_url: https://avatars1.githubusercontent.com/u/1146?v=4
-  events_url: https://api.github.com/users/netguru/events{/privacy}
-  followers_url: https://api.github.com/users/netguru/followers
-  following_url: https://api.github.com/users/netguru/following{/other_user}
-  gists_url: https://api.github.com/users/netguru/gists{/gist_id}
+  avatar_url: https://avatars.githubusercontent.com/u/11697432?v=4
+  events_url: https://api.github.com/users/lowek/events{/privacy}
+  followers_url: https://api.github.com/users/lowek/followers
+  following_url: https://api.github.com/users/lowek/following{/other_user}
+  gists_url: https://api.github.com/users/lowek/gists{/gist_id}
   gravatar_id: ''
-  html_url: https://github.com/netguru
-  id: 1146
-  login: netguru
-  node_id: MDEyOk9yZ2FuaXphdGlvbjExNDY=
-  organizations_url: https://api.github.com/users/netguru/orgs
-  received_events_url: https://api.github.com/users/netguru/received_events
-  repos_url: https://api.github.com/users/netguru/repos
+  html_url: https://github.com/lowek
+  id: 11697432
+  login: lowek
+  node_id: MDQ6VXNlcjExNjk3NDMy
+  organizations_url: https://api.github.com/users/lowek/orgs
+  received_events_url: https://api.github.com/users/lowek/received_events
+  repos_url: https://api.github.com/users/lowek/repos
   site_admin: false
-  starred_url: https://api.github.com/users/netguru/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/netguru/subscriptions
-  type: Organization
-  url: https://api.github.com/users/netguru
+  starred_url: https://api.github.com/users/lowek/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/lowek/subscriptions
+  type: User
+  url: https://api.github.com/users/lowek
 permissions:
   admin: false
   pull: true
   push: false
 private: false
-pulls_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/pulls{/number}
-pushed_at: '2020-07-17T15:39:17Z'
-releases_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/releases{/id}
-size: 924
-ssh_url: git@github.com:netguru/vuepress-theme-live-ebook.git
-stargazers_count: 24
-stargazers_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/stargazers
-statuses_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/statuses/{sha}
-subscribers_count: 8
-subscribers_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/subscribers
-subscription_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/subscription
-svn_url: https://github.com/netguru/vuepress-theme-live-ebook
-tags_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/tags
-teams_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/teams
+pulls_url: https://api.github.com/repos/lowek/vuepress-theme-live-ebook/pulls{/number}
+pushed_at: '2019-12-22T20:28:09Z'
+releases_url: https://api.github.com/repos/lowek/vuepress-theme-live-ebook/releases{/id}
+size: 869
+ssh_url: git@github.com:lowek/vuepress-theme-live-ebook.git
+stargazers_count: 0
+stargazers_url: https://api.github.com/repos/lowek/vuepress-theme-live-ebook/stargazers
+statuses_url: https://api.github.com/repos/lowek/vuepress-theme-live-ebook/statuses/{sha}
+subscribers_count: 0
+subscribers_url: https://api.github.com/repos/lowek/vuepress-theme-live-ebook/subscribers
+subscription_url: https://api.github.com/repos/lowek/vuepress-theme-live-ebook/subscription
+svn_url: https://github.com/lowek/vuepress-theme-live-ebook
+tags_url: https://api.github.com/repos/lowek/vuepress-theme-live-ebook/tags
+teams_url: https://api.github.com/repos/lowek/vuepress-theme-live-ebook/teams
 temp_clone_token: ''
-trees_url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook/git/trees{/sha}
-updated_at: '2020-08-13T07:28:46Z'
-url: https://api.github.com/repos/netguru/vuepress-theme-live-ebook
-watchers: 24
-watchers_count: 24
+trees_url: https://api.github.com/repos/lowek/vuepress-theme-live-ebook/git/trees{/sha}
+updated_at: '2020-12-01T13:44:09Z'
+url: https://api.github.com/repos/lowek/vuepress-theme-live-ebook
+watchers: 0
+watchers_count: 0
 ---
 
 # vuepress-theme-live-ebook
@@ -175,17 +156,6 @@ module.exports = {
       dribbble: 'netguru',
       behance: 'netguru',
     },
-    bodyScripts: [ // Allows to pass additional scripts at the end of body
-      {
-        tagName: 'script', // required
-        attributes: { id: 'some-analytics', async: true, defer: true, src: '//some-analytics.js' } // required
-      },
-      {
-        tagName: 'noscript', // required
-        attributes: {}, // required (can be empty)
-        innerHTML: '<h1>Any content</h1>' // optional
-      }
-    ],
   },
 
   chainWebpack: (config) => {
@@ -254,8 +224,6 @@ layout: chapter
 title: "Example title of Chapter 2"
 chapter_number: "02"
 description: In this chapter you will ...
-chapter_home_intro:
-- some new custom text
 ---
 
 # Example title of Chapter 2
@@ -264,7 +232,6 @@ Chapter content goes here.
 ```
 
 - Fields: `layout`, `title` and `chapter_number` are required.
-- Field `chapter_home_intro` is optional and it is used for `<LandingChapters />` intro text. By default `<LandingChapters />` displays chapter's heading level 2.
 - `description` field is optional, if present - it will be places in proper meta tags on the page. Defaults to the description from `.vuepress/config.js`
 - Make sure that `title` in front matter corresponds to the primary heading - as in the above example.
 - Use only one H1 heading (`# ...`).
@@ -394,21 +361,15 @@ This will produce a following outcome:
 
 ### LandingChapters
 
-Section will display first three chapters with sections. You can provide additioanl option `chapterDisplayStart` and pass any number. That number will be treated as a start chapter.
-
-There is also an option `limitSectionInChapter` to limit displayed sections in chapters. By default, all sections will be displayed.
+Section will display first three chapters with sections.
 
 ```html
 <LandingChapters
   intro="Short intro text"
   img="image.svg"
   imgAlt="image is displayed under intro text"
-  :chapterDisplayStart="3" // optional, default is 0
-  :limitSectionInChapter="7" // optional, default shows all
 />
 ```
-
-> In addition, you can pass `hasCarousel` option and then all chapters will be displayed
 
 The `intro` and image related properties are optional.
 

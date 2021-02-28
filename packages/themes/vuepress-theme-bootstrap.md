@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/vuepress-themes/vuepress-theme-b
 open_issues: 0
 open_issues_count: 0
 organization:
-  avatar_url: https://avatars3.githubusercontent.com/u/41239612?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/41239612?v=4
   events_url: https://api.github.com/users/vuepress-themes/events{/privacy}
   followers_url: https://api.github.com/users/vuepress-themes/followers
   following_url: https://api.github.com/users/vuepress-themes/following{/other_user}
@@ -78,7 +78,7 @@ organization:
   type: Organization
   url: https://api.github.com/users/vuepress-themes
 owner:
-  avatar_url: https://avatars3.githubusercontent.com/u/41239612?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/41239612?v=4
   events_url: https://api.github.com/users/vuepress-themes/events{/privacy}
   followers_url: https://api.github.com/users/vuepress-themes/followers
   following_url: https://api.github.com/users/vuepress-themes/following{/other_user}

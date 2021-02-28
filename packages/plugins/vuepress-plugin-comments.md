@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/nine-theme/vuepress-plugin-comme
 open_issues: 0
 open_issues_count: 0
 organization:
-  avatar_url: https://avatars1.githubusercontent.com/u/64388301?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/64388301?v=4
   events_url: https://api.github.com/users/nine-theme/events{/privacy}
   followers_url: https://api.github.com/users/nine-theme/followers
   following_url: https://api.github.com/users/nine-theme/following{/other_user}
@@ -78,7 +78,7 @@ organization:
   type: Organization
   url: https://api.github.com/users/nine-theme
 owner:
-  avatar_url: https://avatars1.githubusercontent.com/u/64388301?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/64388301?v=4
   events_url: https://api.github.com/users/nine-theme/events{/privacy}
   followers_url: https://api.github.com/users/nine-theme/followers
   following_url: https://api.github.com/users/nine-theme/following{/other_user}
@@ -102,9 +102,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/nine-theme/vuepress-plugin-comments/pulls{/number}
-pushed_at: '2020-08-18T06:19:09Z'
+pushed_at: '2020-09-24T03:08:21Z'
 releases_url: https://api.github.com/repos/nine-theme/vuepress-plugin-comments/releases{/id}
-size: 10
+size: 149
 ssh_url: git@github.com:nine-theme/vuepress-plugin-comments.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/nine-theme/vuepress-plugin-comments/stargazers
@@ -117,11 +117,17 @@ tags_url: https://api.github.com/repos/nine-theme/vuepress-plugin-comments/tags
 teams_url: https://api.github.com/repos/nine-theme/vuepress-plugin-comments/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/nine-theme/vuepress-plugin-comments/git/trees{/sha}
-updated_at: '2020-08-18T06:19:12Z'
+updated_at: '2020-09-24T03:08:23Z'
 url: https://api.github.com/repos/nine-theme/vuepress-plugin-comments
 watchers: 0
 watchers_count: 0
 ---
 
 # vuepress-plugin-comments
+![GitHub last commit](https://img.shields.io/github/last-commit/nine-theme/vuepress-plugin-comments) 
+![npm (scoped)](https://img.shields.io/npm/v/@nine-theme/vuepress-plugin-comments) 
+![npm](https://img.shields.io/npm/dt/@nine-theme/vuepress-plugin-comments) 
+![NPM](https://img.shields.io/npm/l/@nine-theme/vuepress-plugin-comments)
+
+---
 vuepress theme comments 

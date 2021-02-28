@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/f3ltron/vuepress-plugin-docgen/downloads
 events_url: https://api.github.com/repos/f3ltron/vuepress-plugin-docgen/events
 fork: false
-forks: 2
-forks_count: 2
+forks: 3
+forks_count: 3
 forks_url: https://api.github.com/repos/f3ltron/vuepress-plugin-docgen/forks
 full_name: f3ltron/vuepress-plugin-docgen
 git_commits_url: https://api.github.com/repos/f3ltron/vuepress-plugin-docgen/git/commits{/sha}
@@ -53,13 +53,13 @@ merges_url: https://api.github.com/repos/f3ltron/vuepress-plugin-docgen/merges
 milestones_url: https://api.github.com/repos/f3ltron/vuepress-plugin-docgen/milestones{/number}
 mirror_url: null
 name: vuepress-plugin-docgen
-network_count: 2
+network_count: 3
 node_id: MDEwOlJlcG9zaXRvcnkxNzQ2MzE3NzI=
 notifications_url: https://api.github.com/repos/f3ltron/vuepress-plugin-docgen/notifications{?since,all,participating}
-open_issues: 2
-open_issues_count: 2
+open_issues: 8
+open_issues_count: 8
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/11556276?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/11556276?v=4
   events_url: https://api.github.com/users/f3ltron/events{/privacy}
   followers_url: https://api.github.com/users/f3ltron/followers
   following_url: https://api.github.com/users/f3ltron/following{/other_user}
@@ -83,14 +83,14 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/f3ltron/vuepress-plugin-docgen/pulls{/number}
-pushed_at: '2020-08-08T00:02:28Z'
+pushed_at: '2020-12-11T07:56:28Z'
 releases_url: https://api.github.com/repos/f3ltron/vuepress-plugin-docgen/releases{/id}
-size: 2069
+size: 3313
 ssh_url: git@github.com:f3ltron/vuepress-plugin-docgen.git
 stargazers_count: 27
 stargazers_url: https://api.github.com/repos/f3ltron/vuepress-plugin-docgen/stargazers
 statuses_url: https://api.github.com/repos/f3ltron/vuepress-plugin-docgen/statuses/{sha}
-subscribers_count: 1
+subscribers_count: 0
 subscribers_url: https://api.github.com/repos/f3ltron/vuepress-plugin-docgen/subscribers
 subscription_url: https://api.github.com/repos/f3ltron/vuepress-plugin-docgen/subscription
 svn_url: https://github.com/f3ltron/vuepress-plugin-docgen
@@ -98,7 +98,7 @@ tags_url: https://api.github.com/repos/f3ltron/vuepress-plugin-docgen/tags
 teams_url: https://api.github.com/repos/f3ltron/vuepress-plugin-docgen/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/f3ltron/vuepress-plugin-docgen/git/trees{/sha}
-updated_at: '2020-08-08T00:02:24Z'
+updated_at: '2020-10-19T04:01:09Z'
 url: https://api.github.com/repos/f3ltron/vuepress-plugin-docgen
 watchers: 27
 watchers_count: 27

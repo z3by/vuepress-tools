@@ -54,7 +54,7 @@ notifications_url: https://api.github.com/repos/vbox-moe/vuepress-plugin-vbox/no
 open_issues: 0
 open_issues_count: 0
 organization:
-  avatar_url: https://avatars0.githubusercontent.com/u/67640197?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/67640197?v=4
   events_url: https://api.github.com/users/vbox-moe/events{/privacy}
   followers_url: https://api.github.com/users/vbox-moe/followers
   following_url: https://api.github.com/users/vbox-moe/following{/other_user}
@@ -73,7 +73,7 @@ organization:
   type: Organization
   url: https://api.github.com/users/vbox-moe
 owner:
-  avatar_url: https://avatars0.githubusercontent.com/u/67640197?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/67640197?v=4
   events_url: https://api.github.com/users/vbox-moe/events{/privacy}
   followers_url: https://api.github.com/users/vbox-moe/followers
   following_url: https://api.github.com/users/vbox-moe/following{/other_user}

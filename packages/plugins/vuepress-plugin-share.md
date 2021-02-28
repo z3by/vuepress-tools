@@ -60,7 +60,7 @@ notifications_url: https://api.github.com/repos/IKangXu/vuepress-plugin-share/no
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars1.githubusercontent.com/u/17905150?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/17905150?v=4
   events_url: https://api.github.com/users/IKangXu/events{/privacy}
   followers_url: https://api.github.com/users/IKangXu/followers
   following_url: https://api.github.com/users/IKangXu/following{/other_user}

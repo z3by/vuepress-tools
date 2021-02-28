@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/viko16/vuepress-theme-simple/downloads
 events_url: https://api.github.com/repos/viko16/vuepress-theme-simple/events
 fork: false
-forks: 7
-forks_count: 7
+forks: 8
+forks_count: 8
 forks_url: https://api.github.com/repos/viko16/vuepress-theme-simple/forks
 full_name: viko16/vuepress-theme-simple
 git_commits_url: https://api.github.com/repos/viko16/vuepress-theme-simple/git/commits{/sha}
@@ -41,7 +41,7 @@ issue_events_url: https://api.github.com/repos/viko16/vuepress-theme-simple/issu
 issues_url: https://api.github.com/repos/viko16/vuepress-theme-simple/issues{/number}
 keys_url: https://api.github.com/repos/viko16/vuepress-theme-simple/keys{/key_id}
 labels_url: https://api.github.com/repos/viko16/vuepress-theme-simple/labels{/name}
-language: CSS
+language: Stylus
 languages_url: https://api.github.com/repos/viko16/vuepress-theme-simple/languages
 license:
   key: mit
@@ -53,13 +53,13 @@ merges_url: https://api.github.com/repos/viko16/vuepress-theme-simple/merges
 milestones_url: https://api.github.com/repos/viko16/vuepress-theme-simple/milestones{/number}
 mirror_url: null
 name: vuepress-theme-simple
-network_count: 7
+network_count: 8
 node_id: MDEwOlJlcG9zaXRvcnkxNjg3ODkxNzk=
 notifications_url: https://api.github.com/repos/viko16/vuepress-theme-simple/notifications{?since,all,participating}
 open_issues: 1
 open_issues_count: 1
 owner:
-  avatar_url: https://avatars3.githubusercontent.com/u/5064777?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/5064777?v=4
   events_url: https://api.github.com/users/viko16/events{/privacy}
   followers_url: https://api.github.com/users/viko16/followers
   following_url: https://api.github.com/users/viko16/following{/other_user}
@@ -83,11 +83,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/viko16/vuepress-theme-simple/pulls{/number}
-pushed_at: '2020-07-14T02:33:38Z'
+pushed_at: '2020-12-15T06:47:21Z'
 releases_url: https://api.github.com/repos/viko16/vuepress-theme-simple/releases{/id}
-size: 35
+size: 42
 ssh_url: git@github.com:viko16/vuepress-theme-simple.git
-stargazers_count: 66
+stargazers_count: 79
 stargazers_url: https://api.github.com/repos/viko16/vuepress-theme-simple/stargazers
 statuses_url: https://api.github.com/repos/viko16/vuepress-theme-simple/statuses/{sha}
 subscribers_count: 3
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/viko16/vuepress-theme-simple/tags
 teams_url: https://api.github.com/repos/viko16/vuepress-theme-simple/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/viko16/vuepress-theme-simple/git/trees{/sha}
-updated_at: '2020-08-13T02:58:13Z'
+updated_at: '2021-02-03T10:24:31Z'
 url: https://api.github.com/repos/viko16/vuepress-theme-simple
-watchers: 66
-watchers_count: 66
+watchers: 79
+watchers_count: 79
 ---
 
 # vuepress-theme-simple

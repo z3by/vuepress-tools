@@ -54,7 +54,7 @@ notifications_url: https://api.github.com/repos/jenkey2011/vuepress-theme-ami/no
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars0.githubusercontent.com/u/20010737?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/20010737?v=4
   events_url: https://api.github.com/users/jenkey2011/events{/privacy}
   followers_url: https://api.github.com/users/jenkey2011/followers
   following_url: https://api.github.com/users/jenkey2011/following{/other_user}

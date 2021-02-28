@@ -56,10 +56,10 @@ name: vuepress-plugin-code-segment
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyMDQwMjI3MDg=
 notifications_url: https://api.github.com/repos/sillyY/vuepress-plugin-code-segment/notifications{?since,all,participating}
-open_issues: 5
-open_issues_count: 5
+open_issues: 6
+open_issues_count: 6
 owner:
-  avatar_url: https://avatars0.githubusercontent.com/u/20504116?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/20504116?v=4
   events_url: https://api.github.com/users/sillyY/events{/privacy}
   followers_url: https://api.github.com/users/sillyY/followers
   following_url: https://api.github.com/users/sillyY/following{/other_user}
@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/sillyY/vuepress-plugin-code-segment/pulls{/number}
-pushed_at: '2020-08-07T23:28:10Z'
+pushed_at: '2020-09-10T11:52:33Z'
 releases_url: https://api.github.com/repos/sillyY/vuepress-plugin-code-segment/releases{/id}
-size: 966
+size: 1083
 ssh_url: git@github.com:sillyY/vuepress-plugin-code-segment.git
 stargazers_count: 1
 stargazers_url: https://api.github.com/repos/sillyY/vuepress-plugin-code-segment/stargazers

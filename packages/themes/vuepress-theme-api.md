@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/sqrthree/vuepress-theme-api/downloads
 events_url: https://api.github.com/repos/sqrthree/vuepress-theme-api/events
 fork: false
-forks: 37
-forks_count: 37
+forks: 48
+forks_count: 48
 forks_url: https://api.github.com/repos/sqrthree/vuepress-theme-api/forks
 full_name: sqrthree/vuepress-theme-api
 git_commits_url: https://api.github.com/repos/sqrthree/vuepress-theme-api/git/commits{/sha}
@@ -53,13 +53,13 @@ merges_url: https://api.github.com/repos/sqrthree/vuepress-theme-api/merges
 milestones_url: https://api.github.com/repos/sqrthree/vuepress-theme-api/milestones{/number}
 mirror_url: null
 name: vuepress-theme-api
-network_count: 37
+network_count: 48
 node_id: MDEwOlJlcG9zaXRvcnkxMzM4MzAzNDk=
 notifications_url: https://api.github.com/repos/sqrthree/vuepress-theme-api/notifications{?since,all,participating}
-open_issues: 6
-open_issues_count: 6
+open_issues: 3
+open_issues_count: 3
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/8622362?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/8622362?v=4
   events_url: https://api.github.com/users/sqrthree/events{/privacy}
   followers_url: https://api.github.com/users/sqrthree/followers
   following_url: https://api.github.com/users/sqrthree/following{/other_user}
@@ -83,11 +83,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/sqrthree/vuepress-theme-api/pulls{/number}
-pushed_at: '2020-08-08T00:16:22Z'
+pushed_at: '2021-02-26T15:18:10Z'
 releases_url: https://api.github.com/repos/sqrthree/vuepress-theme-api/releases{/id}
-size: 1647
+size: 838
 ssh_url: git@github.com:sqrthree/vuepress-theme-api.git
-stargazers_count: 237
+stargazers_count: 258
 stargazers_url: https://api.github.com/repos/sqrthree/vuepress-theme-api/stargazers
 statuses_url: https://api.github.com/repos/sqrthree/vuepress-theme-api/statuses/{sha}
 subscribers_count: 5
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/sqrthree/vuepress-theme-api/tags
 teams_url: https://api.github.com/repos/sqrthree/vuepress-theme-api/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/sqrthree/vuepress-theme-api/git/trees{/sha}
-updated_at: '2020-08-22T11:35:24Z'
+updated_at: '2021-02-28T00:19:48Z'
 url: https://api.github.com/repos/sqrthree/vuepress-theme-api
-watchers: 237
-watchers_count: 237
+watchers: 258
+watchers_count: 258
 ---
 
 > v1.0.0 is beta, going to release in the next few days.

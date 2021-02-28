@@ -54,7 +54,7 @@ notifications_url: https://api.github.com/repos/cdswyda/vuepress-theme-cola/noti
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars3.githubusercontent.com/u/13060680?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/13060680?v=4
   events_url: https://api.github.com/users/cdswyda/events{/privacy}
   followers_url: https://api.github.com/users/cdswyda/followers
   following_url: https://api.github.com/users/cdswyda/following{/other_user}

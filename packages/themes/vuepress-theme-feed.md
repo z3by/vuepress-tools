@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/xieyx/vuepress-theme-feed/notifi
 open_issues: 2
 open_issues_count: 2
 owner:
-  avatar_url: https://avatars1.githubusercontent.com/u/19400528?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/19400528?v=4
   events_url: https://api.github.com/users/xieyx/events{/privacy}
   followers_url: https://api.github.com/users/xieyx/followers
   following_url: https://api.github.com/users/xieyx/following{/other_user}
@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/xieyx/vuepress-theme-feed/pulls{/number}
-pushed_at: '2020-08-08T00:24:30Z'
+pushed_at: '2020-12-12T19:00:09Z'
 releases_url: https://api.github.com/repos/xieyx/vuepress-theme-feed/releases{/id}
-size: 1734
+size: 2202
 ssh_url: git@github.com:xieyx/vuepress-theme-feed.git
 stargazers_count: 2
 stargazers_url: https://api.github.com/repos/xieyx/vuepress-theme-feed/stargazers
@@ -98,7 +98,7 @@ tags_url: https://api.github.com/repos/xieyx/vuepress-theme-feed/tags
 teams_url: https://api.github.com/repos/xieyx/vuepress-theme-feed/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/xieyx/vuepress-theme-feed/git/trees{/sha}
-updated_at: '2020-06-09T10:42:15Z'
+updated_at: '2020-10-22T11:01:29Z'
 url: https://api.github.com/repos/xieyx/vuepress-theme-feed
 watchers: 2
 watchers_count: 2

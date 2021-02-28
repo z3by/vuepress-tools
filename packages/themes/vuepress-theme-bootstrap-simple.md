@@ -1,0 +1,106 @@
+---
+archive_url: https://api.github.com/repos/Bambusaceae/vuepress-theme-bootstrap-simple/{archive_format}{/ref}
+archived: false
+assignees_url: https://api.github.com/repos/Bambusaceae/vuepress-theme-bootstrap-simple/assignees{/user}
+blobs_url: https://api.github.com/repos/Bambusaceae/vuepress-theme-bootstrap-simple/git/blobs{/sha}
+branches_url: https://api.github.com/repos/Bambusaceae/vuepress-theme-bootstrap-simple/branches{/branch}
+clone_url: https://github.com/Bambusaceae/vuepress-theme-bootstrap-simple.git
+collaborators_url: https://api.github.com/repos/Bambusaceae/vuepress-theme-bootstrap-simple/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/Bambusaceae/vuepress-theme-bootstrap-simple/comments{/number}
+commits_url: https://api.github.com/repos/Bambusaceae/vuepress-theme-bootstrap-simple/commits{/sha}
+compare_url: https://api.github.com/repos/Bambusaceae/vuepress-theme-bootstrap-simple/compare/{base}...{head}
+contents_url: https://api.github.com/repos/Bambusaceae/vuepress-theme-bootstrap-simple/contents/{+path}
+contributors_url: https://api.github.com/repos/Bambusaceae/vuepress-theme-bootstrap-simple/contributors
+created_at: '2020-10-03T08:43:04Z'
+default_branch: master
+deployments_url: https://api.github.com/repos/Bambusaceae/vuepress-theme-bootstrap-simple/deployments
+description: A blog theme based on Vuepress.
+disabled: false
+downloads_url: https://api.github.com/repos/Bambusaceae/vuepress-theme-bootstrap-simple/downloads
+events_url: https://api.github.com/repos/Bambusaceae/vuepress-theme-bootstrap-simple/events
+fork: false
+forks: 0
+forks_count: 0
+forks_url: https://api.github.com/repos/Bambusaceae/vuepress-theme-bootstrap-simple/forks
+full_name: Bambusaceae/vuepress-theme-bootstrap-simple
+git_commits_url: https://api.github.com/repos/Bambusaceae/vuepress-theme-bootstrap-simple/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/Bambusaceae/vuepress-theme-bootstrap-simple/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/Bambusaceae/vuepress-theme-bootstrap-simple/git/tags{/sha}
+git_url: git://github.com/Bambusaceae/vuepress-theme-bootstrap-simple.git
+has_downloads: true
+has_issues: true
+has_pages: false
+has_projects: true
+has_wiki: true
+homepage: null
+hooks_url: https://api.github.com/repos/Bambusaceae/vuepress-theme-bootstrap-simple/hooks
+html_url: https://github.com/Bambusaceae/vuepress-theme-bootstrap-simple
+id: 300835432
+issue_comment_url: https://api.github.com/repos/Bambusaceae/vuepress-theme-bootstrap-simple/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/Bambusaceae/vuepress-theme-bootstrap-simple/issues/events{/number}
+issues_url: https://api.github.com/repos/Bambusaceae/vuepress-theme-bootstrap-simple/issues{/number}
+keys_url: https://api.github.com/repos/Bambusaceae/vuepress-theme-bootstrap-simple/keys{/key_id}
+labels_url: https://api.github.com/repos/Bambusaceae/vuepress-theme-bootstrap-simple/labels{/name}
+language: Vue
+languages_url: https://api.github.com/repos/Bambusaceae/vuepress-theme-bootstrap-simple/languages
+license:
+  key: mit
+  name: MIT License
+  node_id: MDc6TGljZW5zZTEz
+  spdx_id: MIT
+  url: https://api.github.com/licenses/mit
+merges_url: https://api.github.com/repos/Bambusaceae/vuepress-theme-bootstrap-simple/merges
+milestones_url: https://api.github.com/repos/Bambusaceae/vuepress-theme-bootstrap-simple/milestones{/number}
+mirror_url: null
+name: vuepress-theme-bootstrap-simple
+network_count: 0
+node_id: MDEwOlJlcG9zaXRvcnkzMDA4MzU0MzI=
+notifications_url: https://api.github.com/repos/Bambusaceae/vuepress-theme-bootstrap-simple/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
+owner:
+  avatar_url: https://avatars.githubusercontent.com/u/46619411?v=4
+  events_url: https://api.github.com/users/Bambusaceae/events{/privacy}
+  followers_url: https://api.github.com/users/Bambusaceae/followers
+  following_url: https://api.github.com/users/Bambusaceae/following{/other_user}
+  gists_url: https://api.github.com/users/Bambusaceae/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/Bambusaceae
+  id: 46619411
+  login: Bambusaceae
+  node_id: MDQ6VXNlcjQ2NjE5NDEx
+  organizations_url: https://api.github.com/users/Bambusaceae/orgs
+  received_events_url: https://api.github.com/users/Bambusaceae/received_events
+  repos_url: https://api.github.com/users/Bambusaceae/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/Bambusaceae/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/Bambusaceae/subscriptions
+  type: User
+  url: https://api.github.com/users/Bambusaceae
+permissions:
+  admin: false
+  pull: true
+  push: false
+private: false
+pulls_url: https://api.github.com/repos/Bambusaceae/vuepress-theme-bootstrap-simple/pulls{/number}
+pushed_at: '2020-10-24T11:29:19Z'
+releases_url: https://api.github.com/repos/Bambusaceae/vuepress-theme-bootstrap-simple/releases{/id}
+size: 825
+ssh_url: git@github.com:Bambusaceae/vuepress-theme-bootstrap-simple.git
+stargazers_count: 1
+stargazers_url: https://api.github.com/repos/Bambusaceae/vuepress-theme-bootstrap-simple/stargazers
+statuses_url: https://api.github.com/repos/Bambusaceae/vuepress-theme-bootstrap-simple/statuses/{sha}
+subscribers_count: 1
+subscribers_url: https://api.github.com/repos/Bambusaceae/vuepress-theme-bootstrap-simple/subscribers
+subscription_url: https://api.github.com/repos/Bambusaceae/vuepress-theme-bootstrap-simple/subscription
+svn_url: https://github.com/Bambusaceae/vuepress-theme-bootstrap-simple
+tags_url: https://api.github.com/repos/Bambusaceae/vuepress-theme-bootstrap-simple/tags
+teams_url: https://api.github.com/repos/Bambusaceae/vuepress-theme-bootstrap-simple/teams
+temp_clone_token: ''
+trees_url: https://api.github.com/repos/Bambusaceae/vuepress-theme-bootstrap-simple/git/trees{/sha}
+updated_at: '2020-12-26T16:59:08Z'
+url: https://api.github.com/repos/Bambusaceae/vuepress-theme-bootstrap-simple
+watchers: 1
+watchers_count: 1
+---
+

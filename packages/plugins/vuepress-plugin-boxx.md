@@ -56,10 +56,10 @@ name: vuepress-plugin-boxx
 network_count: 1
 node_id: MDEwOlJlcG9zaXRvcnkyMjIyNTM1MDI=
 notifications_url: https://api.github.com/repos/zpj80231/vuepress-plugin-boxx/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
+open_issues: 1
+open_issues_count: 1
 owner:
-  avatar_url: https://avatars3.githubusercontent.com/u/48777072?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/48777072?v=4
   events_url: https://api.github.com/users/zpj80231/events{/privacy}
   followers_url: https://api.github.com/users/zpj80231/followers
   following_url: https://api.github.com/users/zpj80231/following{/other_user}
@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/zpj80231/vuepress-plugin-boxx/pulls{/number}
-pushed_at: '2020-04-17T00:45:25Z'
+pushed_at: '2021-01-16T04:00:30Z'
 releases_url: https://api.github.com/repos/zpj80231/vuepress-plugin-boxx/releases{/id}
-size: 34
+size: 38
 ssh_url: git@github.com:zpj80231/vuepress-plugin-boxx.git
 stargazers_count: 3
 stargazers_url: https://api.github.com/repos/zpj80231/vuepress-plugin-boxx/stargazers
@@ -98,7 +98,7 @@ tags_url: https://api.github.com/repos/zpj80231/vuepress-plugin-boxx/tags
 teams_url: https://api.github.com/repos/zpj80231/vuepress-plugin-boxx/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/zpj80231/vuepress-plugin-boxx/git/trees{/sha}
-updated_at: '2020-08-12T08:14:36Z'
+updated_at: '2021-01-16T04:00:32Z'
 url: https://api.github.com/repos/zpj80231/vuepress-plugin-boxx
 watchers: 3
 watchers_count: 3
@@ -110,7 +110,8 @@ watchers_count: 3
 ## 序言
 
 - 由于在引入默认的VuePress Custom Containers太过笨重了，故闲来无事对其做一层封装简化使用
-- 推荐在线观看使用说明[传送门](https://zpj80231.gitee.io/znote/views/front-end/vuepress-plugin-boxx.html)，这样展示效果更加友好
+- 推荐在线观看使用说明 --> [传送门](https://zpj80231.gitee.io/znote/views/frontend/vuepress-plugin-boxx.html)，这样展示效果更加友好
+- 或者参考我的VuePress博客 --> [znote](https://zpj80231.gitee.io/znote/)
 
 ## 使用
 

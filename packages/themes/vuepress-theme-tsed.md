@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/TypedProject/vuepress-theme-tsed/downloads
 events_url: https://api.github.com/repos/TypedProject/vuepress-theme-tsed/events
 fork: false
-forks: 3
-forks_count: 3
+forks: 5
+forks_count: 5
 forks_url: https://api.github.com/repos/TypedProject/vuepress-theme-tsed/forks
 full_name: TypedProject/vuepress-theme-tsed
 git_commits_url: https://api.github.com/repos/TypedProject/vuepress-theme-tsed/git/commits{/sha}
@@ -29,10 +29,10 @@ git_tags_url: https://api.github.com/repos/TypedProject/vuepress-theme-tsed/git/
 git_url: git://github.com/TypedProject/vuepress-theme-tsed.git
 has_downloads: true
 has_issues: true
-has_pages: false
-has_projects: true
+has_pages: true
+has_projects: false
 has_wiki: true
-homepage: ''
+homepage: https://storybook.tsed.io
 hooks_url: https://api.github.com/repos/TypedProject/vuepress-theme-tsed/hooks
 html_url: https://github.com/TypedProject/vuepress-theme-tsed
 id: 144448383
@@ -41,20 +41,20 @@ issue_events_url: https://api.github.com/repos/TypedProject/vuepress-theme-tsed/
 issues_url: https://api.github.com/repos/TypedProject/vuepress-theme-tsed/issues{/number}
 keys_url: https://api.github.com/repos/TypedProject/vuepress-theme-tsed/keys{/key_id}
 labels_url: https://api.github.com/repos/TypedProject/vuepress-theme-tsed/labels{/name}
-language: CSS
+language: JavaScript
 languages_url: https://api.github.com/repos/TypedProject/vuepress-theme-tsed/languages
 license: null
 merges_url: https://api.github.com/repos/TypedProject/vuepress-theme-tsed/merges
 milestones_url: https://api.github.com/repos/TypedProject/vuepress-theme-tsed/milestones{/number}
 mirror_url: null
 name: vuepress-theme-tsed
-network_count: 3
+network_count: 5
 node_id: MDEwOlJlcG9zaXRvcnkxNDQ0NDgzODM=
 notifications_url: https://api.github.com/repos/TypedProject/vuepress-theme-tsed/notifications{?since,all,participating}
 open_issues: 7
 open_issues_count: 7
 organization:
-  avatar_url: https://avatars0.githubusercontent.com/u/34125411?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/34125411?v=4
   events_url: https://api.github.com/users/TypedProject/events{/privacy}
   followers_url: https://api.github.com/users/TypedProject/followers
   following_url: https://api.github.com/users/TypedProject/following{/other_user}
@@ -73,7 +73,7 @@ organization:
   type: Organization
   url: https://api.github.com/users/TypedProject
 owner:
-  avatar_url: https://avatars0.githubusercontent.com/u/34125411?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/34125411?v=4
   events_url: https://api.github.com/users/TypedProject/events{/privacy}
   followers_url: https://api.github.com/users/TypedProject/followers
   following_url: https://api.github.com/users/TypedProject/following{/other_user}
@@ -97,14 +97,14 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/TypedProject/vuepress-theme-tsed/pulls{/number}
-pushed_at: '2020-08-24T06:01:43Z'
+pushed_at: '2021-01-08T09:37:55Z'
 releases_url: https://api.github.com/repos/TypedProject/vuepress-theme-tsed/releases{/id}
-size: 3440
+size: 8854
 ssh_url: git@github.com:TypedProject/vuepress-theme-tsed.git
-stargazers_count: 3
+stargazers_count: 4
 stargazers_url: https://api.github.com/repos/TypedProject/vuepress-theme-tsed/stargazers
 statuses_url: https://api.github.com/repos/TypedProject/vuepress-theme-tsed/statuses/{sha}
-subscribers_count: 8
+subscribers_count: 6
 subscribers_url: https://api.github.com/repos/TypedProject/vuepress-theme-tsed/subscribers
 subscription_url: https://api.github.com/repos/TypedProject/vuepress-theme-tsed/subscription
 svn_url: https://github.com/TypedProject/vuepress-theme-tsed
@@ -112,33 +112,72 @@ tags_url: https://api.github.com/repos/TypedProject/vuepress-theme-tsed/tags
 teams_url: https://api.github.com/repos/TypedProject/vuepress-theme-tsed/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/TypedProject/vuepress-theme-tsed/git/trees{/sha}
-updated_at: '2020-07-29T14:30:10Z'
+updated_at: '2021-01-11T22:51:37Z'
 url: https://api.github.com/repos/TypedProject/vuepress-theme-tsed
-watchers: 3
-watchers_count: 3
+watchers: 4
+watchers_count: 4
 ---
 
-# vuepress-theme-tsed
+<p style="text-align: center" align="center">
+ <a href="https://tsed.io" target="_blank"><img src="https://tsed.io/tsed-og.png" width="200" alt="Ts.ED logo"/></a>
+</p>
+
+[![Build & Release](https://github.com/TypedProject/vuepress-theme-tsed/workflows/Build%20&%20Release/badge.svg?branch=master)](https://github.com/TypedProject/vuepress-theme-tsed/actions?query=workflow%3A%22Build+%26+Release%22)
+
+A template for the Tsed website based on vuepress.
+
+## Stack
+
+- [Vuepress](https://vuepress.vuejs.org/)/[Vue.js](https://vuejs.org/)
+- [StoryBook](https://storybook.js.org/)
+- [Tailwindcss](https://tailwindcss.com/)
+- [Lerna](https://github.com/lerna/lerna) && [Yarn](https://yarnpkg.com/) workspaces - monorepo manager
 
 ## Installation
 
 Run:
 ```bash
-npm install --save-dev @vuepress-theme-tsed
+npm install -g yarn
+yarn install
 ```
 
-Then create or edit enhanceApp.js in your `.vuepress` directory and import the theme:
+## Start storybook
 
-```javascript
-import VueTsed from 'vuepress-theme-tsed'
-
-export default ({
-                  Vue, // the version of Vue being used in the VuePress app
-                  options, // the options for the root Vue instance
-                  router, // the router instance for the app
-                  siteData
-                }) => {
-
-  Vue.use(VueTsed)
-}
+```sh
+yarn serve:storybook
 ```
+
+## Start theme website
+
+```sh
+yarn serve:theme
+```
+
+## Contributors
+Please read [contributing guidelines here](https://raw.githubusercontent.com/Ts.ED/vuepress-theme-tsed/master/CONTRIBUTING.md).
+
+<a href="https://github.com/TypedProject/tsed/graphs/contributors"><img src="https://opencollective.com/tsed/contributors.svg?width=890" /></a>
+
+
+## Backers
+
+Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/tsed#backer)]
+
+<a href="https://opencollective.com/tsed#backers" target="_blank"><img src="https://opencollective.com/tsed/tiers/backer.svg?width=890"></a>
+
+
+## Sponsors
+
+Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/tsed#sponsor)]
+
+## License
+
+The MIT License (MIT)
+
+Copyright (c) 2016 - 2020 Romain Lenzotti
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.

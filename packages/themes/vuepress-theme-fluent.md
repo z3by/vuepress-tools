@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/ms-design/vuepress-theme-fluent/
 open_issues: 0
 open_issues_count: 0
 organization:
-  avatar_url: https://avatars1.githubusercontent.com/u/46018782?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/46018782?v=4
   events_url: https://api.github.com/users/ms-design/events{/privacy}
   followers_url: https://api.github.com/users/ms-design/followers
   following_url: https://api.github.com/users/ms-design/following{/other_user}
@@ -78,7 +78,7 @@ organization:
   type: Organization
   url: https://api.github.com/users/ms-design
 owner:
-  avatar_url: https://avatars1.githubusercontent.com/u/46018782?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/46018782?v=4
   events_url: https://api.github.com/users/ms-design/events{/privacy}
   followers_url: https://api.github.com/users/ms-design/followers
   following_url: https://api.github.com/users/ms-design/following{/other_user}

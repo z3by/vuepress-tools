@@ -54,7 +54,7 @@ notifications_url: https://api.github.com/repos/Hellottxo/vuepress-theme-xo/noti
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars3.githubusercontent.com/u/32641974?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/32641974?v=4
   events_url: https://api.github.com/users/Hellottxo/events{/privacy}
   followers_url: https://api.github.com/users/Hellottxo/followers
   following_url: https://api.github.com/users/Hellottxo/following{/other_user}
@@ -78,9 +78,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/Hellottxo/vuepress-theme-xo/pulls{/number}
-pushed_at: '2020-08-07T07:44:18Z'
+pushed_at: '2020-09-01T11:13:33Z'
 releases_url: https://api.github.com/repos/Hellottxo/vuepress-theme-xo/releases{/id}
-size: 0
+size: 1
 ssh_url: git@github.com:Hellottxo/vuepress-theme-xo.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/Hellottxo/vuepress-theme-xo/stargazers
@@ -93,7 +93,7 @@ tags_url: https://api.github.com/repos/Hellottxo/vuepress-theme-xo/tags
 teams_url: https://api.github.com/repos/Hellottxo/vuepress-theme-xo/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/Hellottxo/vuepress-theme-xo/git/trees{/sha}
-updated_at: '2020-08-07T07:44:21Z'
+updated_at: '2020-09-01T11:13:36Z'
 url: https://api.github.com/repos/Hellottxo/vuepress-theme-xo
 watchers: 0
 watchers_count: 0

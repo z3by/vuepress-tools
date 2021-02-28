@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/moefyit/vuepress-plugin-dynamic-
 open_issues: 0
 open_issues_count: 0
 organization:
-  avatar_url: https://avatars1.githubusercontent.com/u/65664118?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/65664118?v=4
   events_url: https://api.github.com/users/moefyit/events{/privacy}
   followers_url: https://api.github.com/users/moefyit/followers
   following_url: https://api.github.com/users/moefyit/following{/other_user}
@@ -78,7 +78,7 @@ organization:
   type: Organization
   url: https://api.github.com/users/moefyit
 owner:
-  avatar_url: https://avatars1.githubusercontent.com/u/65664118?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/65664118?v=4
   events_url: https://api.github.com/users/moefyit/events{/privacy}
   followers_url: https://api.github.com/users/moefyit/followers
   following_url: https://api.github.com/users/moefyit/following{/other_user}
@@ -102,11 +102,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/moefyit/vuepress-plugin-dynamic-title/pulls{/number}
-pushed_at: '2020-06-07T13:42:27Z'
+pushed_at: '2021-02-12T11:23:51Z'
 releases_url: https://api.github.com/repos/moefyit/vuepress-plugin-dynamic-title/releases{/id}
-size: 9
+size: 15
 ssh_url: git@github.com:moefyit/vuepress-plugin-dynamic-title.git
-stargazers_count: 3
+stargazers_count: 4
 stargazers_url: https://api.github.com/repos/moefyit/vuepress-plugin-dynamic-title/stargazers
 statuses_url: https://api.github.com/repos/moefyit/vuepress-plugin-dynamic-title/statuses/{sha}
 subscribers_count: 1
@@ -117,10 +117,10 @@ tags_url: https://api.github.com/repos/moefyit/vuepress-plugin-dynamic-title/tag
 teams_url: https://api.github.com/repos/moefyit/vuepress-plugin-dynamic-title/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/moefyit/vuepress-plugin-dynamic-title/git/trees{/sha}
-updated_at: '2020-08-12T06:00:01Z'
+updated_at: '2021-02-12T11:23:54Z'
 url: https://api.github.com/repos/moefyit/vuepress-plugin-dynamic-title
-watchers: 3
-watchers_count: 3
+watchers: 4
+watchers_count: 4
 ---
 
 # vuepress-plugin-dynamic-title <GitHubLink repo="moefyit/vuepress-plugin-dynamic-title"/>
@@ -135,12 +135,12 @@ watchers_count: 3
    <a href="https://github.com/moefyit/vuepress-plugin-dynamic-title/blob/master/LICENSE" target="_blank"><img alt="GitHub license" src="https://img.shields.io/github/license/moefyit/vuepress-plugin-dynamic-title"></a>
 </p>
 
-- Document: [moefy-vuepress](https://moefyit.github.io/moefy-vuepress/)
-- LiveDemo: [notev](https://www.sigure.xyz/)
+-  Document: [moefy-vuepress](https://moefyit.github.io/moefy-vuepress/)
+-  LiveDemo: [notev](https://www.sigure.xyz/)
 
 ## Install
 
-``` bash
+```bash
 yarn add vuepress-plugin-dynamic-title -D
 # or use npm
 npm i vuepress-plugin-dynamic-title -D
@@ -148,31 +148,31 @@ npm i vuepress-plugin-dynamic-title -D
 
 ## Usage
 
-``` javascript
+```javascript
 module.exports = {
-  plugins: ['dynamic-title']
+   plugins: ['dynamic-title'],
 }
 ```
 
 ## Options
 
-``` js
+```js
 module.exports = {
-  plugins: [
-    [
-      "dynamic-title",
-      {
-        showIcon: "/favicon.ico",
-        showText: "(/≧▽≦/)咦！又好了！",
-        hideIcon: "/failure.ico",
-        hideText: "(●—●)喔哟，崩溃啦！",
-        recoverTime: 2000
-      }
-    ]
-  ]
+   plugins: [
+      [
+         'dynamic-title',
+         {
+            showIcon: '/favicon.ico',
+            showText: '(/≧▽≦/)咦！又好了！',
+            hideIcon: '/failure.ico',
+            hideText: '(●—●)喔哟，崩溃啦！',
+            recoverTime: 2000,
+         },
+      ],
+   ],
 }
 ```
 
 ## Thanks
 
-- [hexo-theme-sagiri](https://github.com/DIYgod/diygod.me/blob/master/themes/sagiri/src/title.js)
+-  [hexo-theme-sagiri](https://github.com/DIYgod/diygod.me/blob/master/themes/sagiri/src/title.js)

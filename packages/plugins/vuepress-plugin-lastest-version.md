@@ -56,10 +56,10 @@ name: vuepress-plugin-lastest-version
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyODU3Njk2ODE=
 notifications_url: https://api.github.com/repos/yangyang0507/vuepress-plugin-lastest-version/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
+open_issues: 1
+open_issues_count: 1
 owner:
-  avatar_url: https://avatars0.githubusercontent.com/u/5666807?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/5666807?v=4
   events_url: https://api.github.com/users/yangyang0507/events{/privacy}
   followers_url: https://api.github.com/users/yangyang0507/followers
   following_url: https://api.github.com/users/yangyang0507/following{/other_user}
@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/yangyang0507/vuepress-plugin-lastest-version/pulls{/number}
-pushed_at: '2020-08-25T10:04:55Z'
+pushed_at: '2020-12-17T03:55:38Z'
 releases_url: https://api.github.com/repos/yangyang0507/vuepress-plugin-lastest-version/releases{/id}
-size: 41
+size: 73
 ssh_url: git@github.com:yangyang0507/vuepress-plugin-lastest-version.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/yangyang0507/vuepress-plugin-lastest-version/stargazers
@@ -98,7 +98,7 @@ tags_url: https://api.github.com/repos/yangyang0507/vuepress-plugin-lastest-vers
 teams_url: https://api.github.com/repos/yangyang0507/vuepress-plugin-lastest-version/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/yangyang0507/vuepress-plugin-lastest-version/git/trees{/sha}
-updated_at: '2020-08-25T10:04:21Z'
+updated_at: '2020-12-17T03:55:41Z'
 url: https://api.github.com/repos/yangyang0507/vuepress-plugin-lastest-version
 watchers: 0
 watchers_count: 0
@@ -124,26 +124,37 @@ module.exports = {
   plugins: [
     "lastest-version",
     {
-      type: "maven",
-      repo: "com.baomidou/mybatis-plus",
-    },
-  ],
+      repos: [
+        {
+          keywords: "mybatis-plus-latest-version",
+          type: "maven",
+          repo: "com.baomidou/mybatis-plus",
+        }
+      ]
+    }
+  ]
 };
 ```
 
-### type
+### repos.keywords
 
 - type: string
-- default: maven
+- requried: true
+- value: your keywords
+
+The keywords which will be replaced
+
+### repos.type
+
+- type: string
 - requried: true
 - value: maven | npm
 
 Choose which artifact type need get lastest version
 
-### repo
+### repos.repo
 
 - type: string
-- default: com.baomidou/mybatis-plus
 - requried: true
 - value: your repo
 
@@ -157,23 +168,33 @@ module.exports = {
   plugins: [
     "lastest-version",
     {
-      type: "maven",
-      repo: "com.baomidou/mybatis-plus",
-    },
-  ],
+      repos: [
+        {
+          keywords: "mybatis-plus-latest-version",
+          type: "maven",
+          repo: "com.baomidou/mybatis-plus",
+        }
+      ]
+    }
+  ]
 };
 
 module.exports = {
   plugins: [
     "lastest-version",
     {
-      type: "npm",
-      repo: "vuepress-plugin-lastest-version",
-    },
-  ],
+      repos: [
+        {
+          keywords: "vuepress-plugin-latest-version",
+          type: "npm",
+          repo: "vuepress-plugin-lastest-version",
+        }
+      ]
+    }
+  ]
 };
 ```
 
-After configuration, the plugin will replace all `lastest-version` character to really lastest version.
+After configuration, the plugin will replace all keywords character to really lastest version.
 
-So, don't forgot to add `lastest-version` placeholder to your document so that this plugin can change version normally.
+So, don't forgot to add keywords placeholder to your document so that this plugin can change version normally.

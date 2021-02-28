@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/petr-chelpanov/vuepress-plugin-e
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/42416417?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/42416417?v=4
   events_url: https://api.github.com/users/petr-chelpanov/events{/privacy}
   followers_url: https://api.github.com/users/petr-chelpanov/followers
   following_url: https://api.github.com/users/petr-chelpanov/following{/other_user}

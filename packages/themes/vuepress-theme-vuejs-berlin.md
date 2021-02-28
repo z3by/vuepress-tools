@@ -54,7 +54,7 @@ notifications_url: https://api.github.com/repos/VuejsBerlin/vuepress-theme-vuejs
 open_issues: 0
 open_issues_count: 0
 organization:
-  avatar_url: https://avatars2.githubusercontent.com/u/45715831?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/45715831?v=4
   events_url: https://api.github.com/users/VuejsBerlin/events{/privacy}
   followers_url: https://api.github.com/users/VuejsBerlin/followers
   following_url: https://api.github.com/users/VuejsBerlin/following{/other_user}
@@ -73,7 +73,7 @@ organization:
   type: Organization
   url: https://api.github.com/users/VuejsBerlin
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/45715831?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/45715831?v=4
   events_url: https://api.github.com/users/VuejsBerlin/events{/privacy}
   followers_url: https://api.github.com/users/VuejsBerlin/followers
   following_url: https://api.github.com/users/VuejsBerlin/following{/other_user}

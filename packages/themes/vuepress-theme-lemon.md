@@ -51,10 +51,10 @@ name: vuepress-theme-lemon
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyMDk5NzAyMzg=
 notifications_url: https://api.github.com/repos/funnycoderstar/vuepress-theme-lemon/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
+open_issues: 1
+open_issues_count: 1
 owner:
-  avatar_url: https://avatars1.githubusercontent.com/u/25794554?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/25794554?v=4
   events_url: https://api.github.com/users/funnycoderstar/events{/privacy}
   followers_url: https://api.github.com/users/funnycoderstar/followers
   following_url: https://api.github.com/users/funnycoderstar/following{/other_user}
@@ -78,9 +78,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/funnycoderstar/vuepress-theme-lemon/pulls{/number}
-pushed_at: '2020-08-11T01:30:30Z'
+pushed_at: '2020-12-11T21:47:04Z'
 releases_url: https://api.github.com/repos/funnycoderstar/vuepress-theme-lemon/releases{/id}
-size: 1041
+size: 1297
 ssh_url: git@github.com:funnycoderstar/vuepress-theme-lemon.git
 stargazers_count: 2
 stargazers_url: https://api.github.com/repos/funnycoderstar/vuepress-theme-lemon/stargazers
@@ -93,7 +93,7 @@ tags_url: https://api.github.com/repos/funnycoderstar/vuepress-theme-lemon/tags
 teams_url: https://api.github.com/repos/funnycoderstar/vuepress-theme-lemon/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/funnycoderstar/vuepress-theme-lemon/git/trees{/sha}
-updated_at: '2020-08-11T01:30:21Z'
+updated_at: '2020-09-11T02:21:13Z'
 url: https://api.github.com/repos/funnycoderstar/vuepress-theme-lemon
 watchers: 2
 watchers_count: 2

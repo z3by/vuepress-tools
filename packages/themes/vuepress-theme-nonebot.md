@@ -1,0 +1,130 @@
+---
+archive_url: https://api.github.com/repos/nonebot/vuepress-theme-nonebot/{archive_format}{/ref}
+archived: false
+assignees_url: https://api.github.com/repos/nonebot/vuepress-theme-nonebot/assignees{/user}
+blobs_url: https://api.github.com/repos/nonebot/vuepress-theme-nonebot/git/blobs{/sha}
+branches_url: https://api.github.com/repos/nonebot/vuepress-theme-nonebot/branches{/branch}
+clone_url: https://github.com/nonebot/vuepress-theme-nonebot.git
+collaborators_url: https://api.github.com/repos/nonebot/vuepress-theme-nonebot/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/nonebot/vuepress-theme-nonebot/comments{/number}
+commits_url: https://api.github.com/repos/nonebot/vuepress-theme-nonebot/commits{/sha}
+compare_url: https://api.github.com/repos/nonebot/vuepress-theme-nonebot/compare/{base}...{head}
+contents_url: https://api.github.com/repos/nonebot/vuepress-theme-nonebot/contents/{+path}
+contributors_url: https://api.github.com/repos/nonebot/vuepress-theme-nonebot/contributors
+created_at: '2020-10-17T06:08:28Z'
+default_branch: main
+deployments_url: https://api.github.com/repos/nonebot/vuepress-theme-nonebot/deployments
+description: null
+disabled: false
+downloads_url: https://api.github.com/repos/nonebot/vuepress-theme-nonebot/downloads
+events_url: https://api.github.com/repos/nonebot/vuepress-theme-nonebot/events
+fork: false
+forks: 0
+forks_count: 0
+forks_url: https://api.github.com/repos/nonebot/vuepress-theme-nonebot/forks
+full_name: nonebot/vuepress-theme-nonebot
+git_commits_url: https://api.github.com/repos/nonebot/vuepress-theme-nonebot/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/nonebot/vuepress-theme-nonebot/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/nonebot/vuepress-theme-nonebot/git/tags{/sha}
+git_url: git://github.com/nonebot/vuepress-theme-nonebot.git
+has_downloads: true
+has_issues: true
+has_pages: false
+has_projects: false
+has_wiki: false
+homepage: null
+hooks_url: https://api.github.com/repos/nonebot/vuepress-theme-nonebot/hooks
+html_url: https://github.com/nonebot/vuepress-theme-nonebot
+id: 304809952
+issue_comment_url: https://api.github.com/repos/nonebot/vuepress-theme-nonebot/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/nonebot/vuepress-theme-nonebot/issues/events{/number}
+issues_url: https://api.github.com/repos/nonebot/vuepress-theme-nonebot/issues{/number}
+keys_url: https://api.github.com/repos/nonebot/vuepress-theme-nonebot/keys{/key_id}
+labels_url: https://api.github.com/repos/nonebot/vuepress-theme-nonebot/labels{/name}
+language: Vue
+languages_url: https://api.github.com/repos/nonebot/vuepress-theme-nonebot/languages
+license:
+  key: apache-2.0
+  name: Apache License 2.0
+  node_id: MDc6TGljZW5zZTI=
+  spdx_id: Apache-2.0
+  url: https://api.github.com/licenses/apache-2.0
+merges_url: https://api.github.com/repos/nonebot/vuepress-theme-nonebot/merges
+milestones_url: https://api.github.com/repos/nonebot/vuepress-theme-nonebot/milestones{/number}
+mirror_url: null
+name: vuepress-theme-nonebot
+network_count: 0
+node_id: MDEwOlJlcG9zaXRvcnkzMDQ4MDk5NTI=
+notifications_url: https://api.github.com/repos/nonebot/vuepress-theme-nonebot/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
+organization:
+  avatar_url: https://avatars.githubusercontent.com/u/63496654?v=4
+  events_url: https://api.github.com/users/nonebot/events{/privacy}
+  followers_url: https://api.github.com/users/nonebot/followers
+  following_url: https://api.github.com/users/nonebot/following{/other_user}
+  gists_url: https://api.github.com/users/nonebot/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/nonebot
+  id: 63496654
+  login: nonebot
+  node_id: MDEyOk9yZ2FuaXphdGlvbjYzNDk2NjU0
+  organizations_url: https://api.github.com/users/nonebot/orgs
+  received_events_url: https://api.github.com/users/nonebot/received_events
+  repos_url: https://api.github.com/users/nonebot/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/nonebot/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/nonebot/subscriptions
+  type: Organization
+  url: https://api.github.com/users/nonebot
+owner:
+  avatar_url: https://avatars.githubusercontent.com/u/63496654?v=4
+  events_url: https://api.github.com/users/nonebot/events{/privacy}
+  followers_url: https://api.github.com/users/nonebot/followers
+  following_url: https://api.github.com/users/nonebot/following{/other_user}
+  gists_url: https://api.github.com/users/nonebot/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/nonebot
+  id: 63496654
+  login: nonebot
+  node_id: MDEyOk9yZ2FuaXphdGlvbjYzNDk2NjU0
+  organizations_url: https://api.github.com/users/nonebot/orgs
+  received_events_url: https://api.github.com/users/nonebot/received_events
+  repos_url: https://api.github.com/users/nonebot/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/nonebot/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/nonebot/subscriptions
+  type: Organization
+  url: https://api.github.com/users/nonebot
+permissions:
+  admin: false
+  pull: true
+  push: false
+private: false
+pulls_url: https://api.github.com/repos/nonebot/vuepress-theme-nonebot/pulls{/number}
+pushed_at: '2021-01-24T06:05:40Z'
+releases_url: https://api.github.com/repos/nonebot/vuepress-theme-nonebot/releases{/id}
+size: 76
+ssh_url: git@github.com:nonebot/vuepress-theme-nonebot.git
+stargazers_count: 0
+stargazers_url: https://api.github.com/repos/nonebot/vuepress-theme-nonebot/stargazers
+statuses_url: https://api.github.com/repos/nonebot/vuepress-theme-nonebot/statuses/{sha}
+subscribers_count: 1
+subscribers_url: https://api.github.com/repos/nonebot/vuepress-theme-nonebot/subscribers
+subscription_url: https://api.github.com/repos/nonebot/vuepress-theme-nonebot/subscription
+svn_url: https://github.com/nonebot/vuepress-theme-nonebot
+tags_url: https://api.github.com/repos/nonebot/vuepress-theme-nonebot/tags
+teams_url: https://api.github.com/repos/nonebot/vuepress-theme-nonebot/teams
+temp_clone_token: ''
+trees_url: https://api.github.com/repos/nonebot/vuepress-theme-nonebot/git/trees{/sha}
+updated_at: '2021-01-24T06:05:42Z'
+url: https://api.github.com/repos/nonebot/vuepress-theme-nonebot
+watchers: 0
+watchers_count: 0
+---
+
+# vuepres-theme-nonebot
+
+Vuepress Theme for NoneBot
+
+Forked from https://github.com/appcelerator/docs-devkit

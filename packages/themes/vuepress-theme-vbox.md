@@ -51,10 +51,10 @@ name: vuepress-theme-vbox
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyNzYyNTkwODA=
 notifications_url: https://api.github.com/repos/vbox-moe/vuepress-theme-vbox/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
+open_issues: 1
+open_issues_count: 1
 organization:
-  avatar_url: https://avatars0.githubusercontent.com/u/67640197?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/67640197?v=4
   events_url: https://api.github.com/users/vbox-moe/events{/privacy}
   followers_url: https://api.github.com/users/vbox-moe/followers
   following_url: https://api.github.com/users/vbox-moe/following{/other_user}
@@ -73,7 +73,7 @@ organization:
   type: Organization
   url: https://api.github.com/users/vbox-moe
 owner:
-  avatar_url: https://avatars0.githubusercontent.com/u/67640197?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/67640197?v=4
   events_url: https://api.github.com/users/vbox-moe/events{/privacy}
   followers_url: https://api.github.com/users/vbox-moe/followers
   following_url: https://api.github.com/users/vbox-moe/following{/other_user}
@@ -97,9 +97,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/vbox-moe/vuepress-theme-vbox/pulls{/number}
-pushed_at: '2020-08-04T05:52:01Z'
+pushed_at: '2021-01-06T06:17:52Z'
 releases_url: https://api.github.com/repos/vbox-moe/vuepress-theme-vbox/releases{/id}
-size: 631
+size: 667
 ssh_url: git@github.com:vbox-moe/vuepress-theme-vbox.git
 stargazers_count: 2
 stargazers_url: https://api.github.com/repos/vbox-moe/vuepress-theme-vbox/stargazers

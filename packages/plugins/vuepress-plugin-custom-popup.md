@@ -56,10 +56,10 @@ name: vuepress-plugin-custom-popup
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyNTA0MjM0NDI=
 notifications_url: https://api.github.com/repos/nbtri/vuepress-plugin-custom-popup/notifications{?since,all,participating}
-open_issues: 3
-open_issues_count: 3
+open_issues: 5
+open_issues_count: 5
 owner:
-  avatar_url: https://avatars3.githubusercontent.com/u/1681110?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/1681110?v=4
   events_url: https://api.github.com/users/nbtri/events{/privacy}
   followers_url: https://api.github.com/users/nbtri/followers
   following_url: https://api.github.com/users/nbtri/following{/other_user}
@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/nbtri/vuepress-plugin-custom-popup/pulls{/number}
-pushed_at: '2020-08-08T00:05:06Z'
+pushed_at: '2020-12-12T11:58:07Z'
 releases_url: https://api.github.com/repos/nbtri/vuepress-plugin-custom-popup/releases{/id}
-size: 669
+size: 984
 ssh_url: git@github.com:nbtri/vuepress-plugin-custom-popup.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/nbtri/vuepress-plugin-custom-popup/stargazers

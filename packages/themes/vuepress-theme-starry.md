@@ -54,7 +54,7 @@ notifications_url: https://api.github.com/repos/YunYouJun/vuepress-theme-starry/
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars3.githubusercontent.com/u/25154432?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/25154432?v=4
   events_url: https://api.github.com/users/YunYouJun/events{/privacy}
   followers_url: https://api.github.com/users/YunYouJun/followers
   following_url: https://api.github.com/users/YunYouJun/following{/other_user}
@@ -85,7 +85,7 @@ ssh_url: git@github.com:YunYouJun/vuepress-theme-starry.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/YunYouJun/vuepress-theme-starry/stargazers
 statuses_url: https://api.github.com/repos/YunYouJun/vuepress-theme-starry/statuses/{sha}
-subscribers_count: 0
+subscribers_count: 1
 subscribers_url: https://api.github.com/repos/YunYouJun/vuepress-theme-starry/subscribers
 subscription_url: https://api.github.com/repos/YunYouJun/vuepress-theme-starry/subscription
 svn_url: https://github.com/YunYouJun/vuepress-theme-starry

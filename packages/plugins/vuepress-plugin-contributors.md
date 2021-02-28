@@ -56,10 +56,10 @@ name: vuepress-plugin-contributors
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyNjQ2Nzg4NTI=
 notifications_url: https://api.github.com/repos/tlbootcamp/vuepress-plugin-contributors/notifications{?since,all,participating}
-open_issues: 4
-open_issues_count: 4
+open_issues: 5
+open_issues_count: 5
 organization:
-  avatar_url: https://avatars1.githubusercontent.com/u/53175244?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/53175244?v=4
   events_url: https://api.github.com/users/tlbootcamp/events{/privacy}
   followers_url: https://api.github.com/users/tlbootcamp/followers
   following_url: https://api.github.com/users/tlbootcamp/following{/other_user}
@@ -78,7 +78,7 @@ organization:
   type: Organization
   url: https://api.github.com/users/tlbootcamp
 owner:
-  avatar_url: https://avatars1.githubusercontent.com/u/53175244?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/53175244?v=4
   events_url: https://api.github.com/users/tlbootcamp/events{/privacy}
   followers_url: https://api.github.com/users/tlbootcamp/followers
   following_url: https://api.github.com/users/tlbootcamp/following{/other_user}
@@ -102,9 +102,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/tlbootcamp/vuepress-plugin-contributors/pulls{/number}
-pushed_at: '2020-07-20T18:00:08Z'
+pushed_at: '2020-09-11T23:32:30Z'
 releases_url: https://api.github.com/repos/tlbootcamp/vuepress-plugin-contributors/releases{/id}
-size: 323
+size: 427
 ssh_url: git@github.com:tlbootcamp/vuepress-plugin-contributors.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/tlbootcamp/vuepress-plugin-contributors/stargazers

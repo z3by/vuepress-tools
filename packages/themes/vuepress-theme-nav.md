@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/zeroNav/vuepress-theme-nav/notif
 open_issues: 0
 open_issues_count: 0
 organization:
-  avatar_url: https://avatars3.githubusercontent.com/u/42461471?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/42461471?v=4
   events_url: https://api.github.com/users/zeroNav/events{/privacy}
   followers_url: https://api.github.com/users/zeroNav/followers
   following_url: https://api.github.com/users/zeroNav/following{/other_user}
@@ -78,7 +78,7 @@ organization:
   type: Organization
   url: https://api.github.com/users/zeroNav
 owner:
-  avatar_url: https://avatars3.githubusercontent.com/u/42461471?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/42461471?v=4
   events_url: https://api.github.com/users/zeroNav/events{/privacy}
   followers_url: https://api.github.com/users/zeroNav/followers
   following_url: https://api.github.com/users/zeroNav/following{/other_user}

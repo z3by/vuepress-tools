@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/eggjs/vuepress-theme-egg/notific
 open_issues: 0
 open_issues_count: 0
 organization:
-  avatar_url: https://avatars1.githubusercontent.com/u/15833670?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/15833670?v=4
   events_url: https://api.github.com/users/eggjs/events{/privacy}
   followers_url: https://api.github.com/users/eggjs/followers
   following_url: https://api.github.com/users/eggjs/following{/other_user}
@@ -78,7 +78,7 @@ organization:
   type: Organization
   url: https://api.github.com/users/eggjs
 owner:
-  avatar_url: https://avatars1.githubusercontent.com/u/15833670?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/15833670?v=4
   events_url: https://api.github.com/users/eggjs/events{/privacy}
   followers_url: https://api.github.com/users/eggjs/followers
   following_url: https://api.github.com/users/eggjs/following{/other_user}
@@ -102,11 +102,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/eggjs/vuepress-theme-egg/pulls{/number}
-pushed_at: '2019-09-17T03:46:21Z'
+pushed_at: '2020-12-08T06:23:08Z'
 releases_url: https://api.github.com/repos/eggjs/vuepress-theme-egg/releases{/id}
-size: 45
+size: 47
 ssh_url: git@github.com:eggjs/vuepress-theme-egg.git
-stargazers_count: 7
+stargazers_count: 8
 stargazers_url: https://api.github.com/repos/eggjs/vuepress-theme-egg/stargazers
 statuses_url: https://api.github.com/repos/eggjs/vuepress-theme-egg/statuses/{sha}
 subscribers_count: 2
@@ -117,10 +117,10 @@ tags_url: https://api.github.com/repos/eggjs/vuepress-theme-egg/tags
 teams_url: https://api.github.com/repos/eggjs/vuepress-theme-egg/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/eggjs/vuepress-theme-egg/git/trees{/sha}
-updated_at: '2020-02-14T09:24:15Z'
+updated_at: '2020-12-08T06:04:04Z'
 url: https://api.github.com/repos/eggjs/vuepress-theme-egg
-watchers: 7
-watchers_count: 7
+watchers: 8
+watchers_count: 8
 ---
 
 # Vuepress-Theme-Egg &middot; [![GitHub license][license-square]][license-url]

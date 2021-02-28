@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/h69/vuepress-theme-x/notificatio
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars1.githubusercontent.com/u/10876646?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/10876646?v=4
   events_url: https://api.github.com/users/h69/events{/privacy}
   followers_url: https://api.github.com/users/h69/followers
   following_url: https://api.github.com/users/h69/following{/other_user}
@@ -83,14 +83,14 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/h69/vuepress-theme-x/pulls{/number}
-pushed_at: '2019-04-08T11:49:39Z'
+pushed_at: '2020-12-25T09:25:38Z'
 releases_url: https://api.github.com/repos/h69/vuepress-theme-x/releases{/id}
-size: 46
+size: 38
 ssh_url: git@github.com:h69/vuepress-theme-x.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/h69/vuepress-theme-x/stargazers
 statuses_url: https://api.github.com/repos/h69/vuepress-theme-x/statuses/{sha}
-subscribers_count: 1
+subscribers_count: 2
 subscribers_url: https://api.github.com/repos/h69/vuepress-theme-x/subscribers
 subscription_url: https://api.github.com/repos/h69/vuepress-theme-x/subscription
 svn_url: https://github.com/h69/vuepress-theme-x
@@ -98,7 +98,7 @@ tags_url: https://api.github.com/repos/h69/vuepress-theme-x/tags
 teams_url: https://api.github.com/repos/h69/vuepress-theme-x/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/h69/vuepress-theme-x/git/trees{/sha}
-updated_at: '2019-04-08T11:49:40Z'
+updated_at: '2020-12-25T09:25:40Z'
 url: https://api.github.com/repos/h69/vuepress-theme-x
 watchers: 0
 watchers_count: 0
@@ -112,27 +112,27 @@ VuePress theme.
 
 [![npm package](https://nodei.co/npm/vuepress-theme-x.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/vuepress-theme-x)
 
-
 ## Installing
+
 ```
 npm install vuepress-theme-x
 ```
 
 ## Usage
+
 ```JavaScript
 // config.js
 module.exports = {
-  ...
-  theme: 'x',
-  ...
+  theme: 'x'
 }
-``` 
+```
 
 ## Examples
+
 ```
 .
-└── docs 
-    ├── .vuepress 
+└── docs
+    ├── .vuepress
     |   └── config.js
     ├── Tag 1
     |   └── Document 1
@@ -143,7 +143,7 @@ module.exports = {
     ├── Tag 3
     |   └── Document 3
     |       └── README.md
-    └── README.md 
+    └── README.md
 ```
 
 ```JavaScript
@@ -188,4 +188,5 @@ module.exports = {
   },
 }
 ```
+
 ![](https://raw.githubusercontent.com/黄宝权/vuepress-theme-x/master/vuepress-theme-x.png)

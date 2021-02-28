@@ -56,10 +56,10 @@ name: vuepress-plugin-sponsor
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyODg0MzcyMDg=
 notifications_url: https://api.github.com/repos/yokefellow/vuepress-plugin-sponsor/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
+open_issues: 3
+open_issues_count: 3
 owner:
-  avatar_url: https://avatars1.githubusercontent.com/u/43605758?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/43605758?v=4
   events_url: https://api.github.com/users/yokefellow/events{/privacy}
   followers_url: https://api.github.com/users/yokefellow/followers
   following_url: https://api.github.com/users/yokefellow/following{/other_user}
@@ -87,7 +87,7 @@ pushed_at: '2020-08-20T05:31:41Z'
 releases_url: https://api.github.com/repos/yokefellow/vuepress-plugin-sponsor/releases{/id}
 size: 27
 ssh_url: git@github.com:yokefellow/vuepress-plugin-sponsor.git
-stargazers_count: 0
+stargazers_count: 6
 stargazers_url: https://api.github.com/repos/yokefellow/vuepress-plugin-sponsor/stargazers
 statuses_url: https://api.github.com/repos/yokefellow/vuepress-plugin-sponsor/statuses/{sha}
 subscribers_count: 1
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/yokefellow/vuepress-plugin-sponsor/tags
 teams_url: https://api.github.com/repos/yokefellow/vuepress-plugin-sponsor/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/yokefellow/vuepress-plugin-sponsor/git/trees{/sha}
-updated_at: '2020-08-20T05:31:43Z'
+updated_at: '2021-02-03T14:21:19Z'
 url: https://api.github.com/repos/yokefellow/vuepress-plugin-sponsor
-watchers: 0
-watchers_count: 0
+watchers: 6
+watchers_count: 6
 ---
 
 

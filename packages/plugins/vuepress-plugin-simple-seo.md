@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/limdongjin/vuepress-plugin-simple-seo/downloads
 events_url: https://api.github.com/repos/limdongjin/vuepress-plugin-simple-seo/events
 fork: false
-forks: 1
-forks_count: 1
+forks: 2
+forks_count: 2
 forks_url: https://api.github.com/repos/limdongjin/vuepress-plugin-simple-seo/forks
 full_name: limdongjin/vuepress-plugin-simple-seo
 git_commits_url: https://api.github.com/repos/limdongjin/vuepress-plugin-simple-seo/git/commits{/sha}
@@ -53,13 +53,13 @@ merges_url: https://api.github.com/repos/limdongjin/vuepress-plugin-simple-seo/m
 milestones_url: https://api.github.com/repos/limdongjin/vuepress-plugin-simple-seo/milestones{/number}
 mirror_url: null
 name: vuepress-plugin-simple-seo
-network_count: 1
+network_count: 2
 node_id: MDEwOlJlcG9zaXRvcnkxNjYxMTQ0OTQ=
 notifications_url: https://api.github.com/repos/limdongjin/vuepress-plugin-simple-seo/notifications{?since,all,participating}
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars0.githubusercontent.com/u/30315743?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/30315743?v=4
   events_url: https://api.github.com/users/limdongjin/events{/privacy}
   followers_url: https://api.github.com/users/limdongjin/followers
   following_url: https://api.github.com/users/limdongjin/following{/other_user}

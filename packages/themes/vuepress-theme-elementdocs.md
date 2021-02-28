@@ -51,10 +51,10 @@ name: vuepress-theme-elementdocs
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyNzc3MTI2NzU=
 notifications_url: https://api.github.com/repos/xiaoxiaofei2016/vuepress-theme-elementdocs/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
+open_issues: 1
+open_issues_count: 1
 owner:
-  avatar_url: https://avatars3.githubusercontent.com/u/52195988?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/52195988?v=4
   events_url: https://api.github.com/users/xiaoxiaofei2016/events{/privacy}
   followers_url: https://api.github.com/users/xiaoxiaofei2016/followers
   following_url: https://api.github.com/users/xiaoxiaofei2016/following{/other_user}
@@ -82,7 +82,7 @@ pushed_at: '2020-07-17T13:54:02Z'
 releases_url: https://api.github.com/repos/xiaoxiaofei2016/vuepress-theme-elementdocs/releases{/id}
 size: 74
 ssh_url: git@github.com:xiaoxiaofei2016/vuepress-theme-elementdocs.git
-stargazers_count: 0
+stargazers_count: 1
 stargazers_url: https://api.github.com/repos/xiaoxiaofei2016/vuepress-theme-elementdocs/stargazers
 statuses_url: https://api.github.com/repos/xiaoxiaofei2016/vuepress-theme-elementdocs/statuses/{sha}
 subscribers_count: 1
@@ -93,10 +93,10 @@ tags_url: https://api.github.com/repos/xiaoxiaofei2016/vuepress-theme-elementdoc
 teams_url: https://api.github.com/repos/xiaoxiaofei2016/vuepress-theme-elementdocs/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/xiaoxiaofei2016/vuepress-theme-elementdocs/git/trees{/sha}
-updated_at: '2020-07-17T13:54:05Z'
+updated_at: '2020-09-07T01:30:33Z'
 url: https://api.github.com/repos/xiaoxiaofei2016/vuepress-theme-elementdocs
-watchers: 0
-watchers_count: 0
+watchers: 1
+watchers_count: 1
 ---
 
 <div align="center"><img src="https://t9.baidu.com/it/u=3528916773,3720315611&fm=193" height = "150" /></div>

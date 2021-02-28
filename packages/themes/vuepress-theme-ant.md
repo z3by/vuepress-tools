@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/hx425072624/vuepress-theme-ant/n
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars3.githubusercontent.com/u/23489383?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/23489383?v=4
   events_url: https://api.github.com/users/hx425072624/events{/privacy}
   followers_url: https://api.github.com/users/hx425072624/followers
   following_url: https://api.github.com/users/hx425072624/following{/other_user}

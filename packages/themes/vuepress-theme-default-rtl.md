@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/Alizadeh118/vuepress-theme-defau
 open_issues: 1
 open_issues_count: 1
 owner:
-  avatar_url: https://avatars1.githubusercontent.com/u/13087224?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/13087224?v=4
   events_url: https://api.github.com/users/Alizadeh118/events{/privacy}
   followers_url: https://api.github.com/users/Alizadeh118/followers
   following_url: https://api.github.com/users/Alizadeh118/following{/other_user}

@@ -54,7 +54,7 @@ notifications_url: https://api.github.com/repos/Aphorica/vuepress-plugin-headert
 open_issues: 0
 open_issues_count: 0
 organization:
-  avatar_url: https://avatars0.githubusercontent.com/u/33430560?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/33430560?v=4
   events_url: https://api.github.com/users/Aphorica/events{/privacy}
   followers_url: https://api.github.com/users/Aphorica/followers
   following_url: https://api.github.com/users/Aphorica/following{/other_user}
@@ -73,7 +73,7 @@ organization:
   type: Organization
   url: https://api.github.com/users/Aphorica
 owner:
-  avatar_url: https://avatars0.githubusercontent.com/u/33430560?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/33430560?v=4
   events_url: https://api.github.com/users/Aphorica/events{/privacy}
   followers_url: https://api.github.com/users/Aphorica/followers
   following_url: https://api.github.com/users/Aphorica/following{/other_user}
@@ -104,7 +104,7 @@ ssh_url: git@github.com:Aphorica/vuepress-plugin-headertags.git
 stargazers_count: 1
 stargazers_url: https://api.github.com/repos/Aphorica/vuepress-plugin-headertags/stargazers
 statuses_url: https://api.github.com/repos/Aphorica/vuepress-plugin-headertags/statuses/{sha}
-subscribers_count: 1
+subscribers_count: 2
 subscribers_url: https://api.github.com/repos/Aphorica/vuepress-plugin-headertags/subscribers
 subscription_url: https://api.github.com/repos/Aphorica/vuepress-plugin-headertags/subscription
 svn_url: https://github.com/Aphorica/vuepress-plugin-headertags

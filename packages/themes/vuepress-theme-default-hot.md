@@ -54,7 +54,7 @@ notifications_url: https://api.github.com/repos/songlairui/vuepress-theme-defaul
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars0.githubusercontent.com/u/6105607?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/6105607?v=4
   events_url: https://api.github.com/users/songlairui/events{/privacy}
   followers_url: https://api.github.com/users/songlairui/followers
   following_url: https://api.github.com/users/songlairui/following{/other_user}

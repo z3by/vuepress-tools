@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/kevinBobo/vuepress-plugin-fish/n
 open_issues: 3
 open_issues_count: 3
 owner:
-  avatar_url: https://avatars3.githubusercontent.com/u/29720482?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/29720482?v=4
   events_url: https://api.github.com/users/kevinBobo/events{/privacy}
   followers_url: https://api.github.com/users/kevinBobo/followers
   following_url: https://api.github.com/users/kevinBobo/following{/other_user}
@@ -87,7 +87,7 @@ pushed_at: '2020-07-18T22:28:42Z'
 releases_url: https://api.github.com/repos/kevinBobo/vuepress-plugin-fish/releases{/id}
 size: 51
 ssh_url: git@github.com:kevinBobo/vuepress-plugin-fish.git
-stargazers_count: 0
+stargazers_count: 1
 stargazers_url: https://api.github.com/repos/kevinBobo/vuepress-plugin-fish/stargazers
 statuses_url: https://api.github.com/repos/kevinBobo/vuepress-plugin-fish/statuses/{sha}
 subscribers_count: 1
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/kevinBobo/vuepress-plugin-fish/tags
 teams_url: https://api.github.com/repos/kevinBobo/vuepress-plugin-fish/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/kevinBobo/vuepress-plugin-fish/git/trees{/sha}
-updated_at: '2019-11-29T05:33:13Z'
+updated_at: '2020-10-30T00:45:34Z'
 url: https://api.github.com/repos/kevinBobo/vuepress-plugin-fish
-watchers: 0
-watchers_count: 0
+watchers: 1
+watchers_count: 1
 ---
 
 # vuepress-plugin-fish

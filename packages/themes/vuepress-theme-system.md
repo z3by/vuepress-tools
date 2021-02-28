@@ -51,10 +51,10 @@ name: vuepress-theme-system
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyMzYzMDU4Njg=
 notifications_url: https://api.github.com/repos/francoisromain/vuepress-theme-system/notifications{?since,all,participating}
-open_issues: 2
-open_issues_count: 2
+open_issues: 1
+open_issues_count: 1
 owner:
-  avatar_url: https://avatars1.githubusercontent.com/u/156539?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/156539?v=4
   events_url: https://api.github.com/users/francoisromain/events{/privacy}
   followers_url: https://api.github.com/users/francoisromain/followers
   following_url: https://api.github.com/users/francoisromain/following{/other_user}
@@ -78,9 +78,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/francoisromain/vuepress-theme-system/pulls{/number}
-pushed_at: '2020-07-19T09:50:42Z'
+pushed_at: '2021-01-08T15:55:03Z'
 releases_url: https://api.github.com/repos/francoisromain/vuepress-theme-system/releases{/id}
-size: 247
+size: 294
 ssh_url: git@github.com:francoisromain/vuepress-theme-system.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/francoisromain/vuepress-theme-system/stargazers
@@ -93,7 +93,7 @@ tags_url: https://api.github.com/repos/francoisromain/vuepress-theme-system/tags
 teams_url: https://api.github.com/repos/francoisromain/vuepress-theme-system/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/francoisromain/vuepress-theme-system/git/trees{/sha}
-updated_at: '2020-03-27T09:20:49Z'
+updated_at: '2021-01-08T15:55:06Z'
 url: https://api.github.com/repos/francoisromain/vuepress-theme-system
 watchers: 0
 watchers_count: 0

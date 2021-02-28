@@ -54,7 +54,7 @@ notifications_url: https://api.github.com/repos/zp961214/vuepress-theme-lovely/n
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/32385948?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/32385948?v=4
   events_url: https://api.github.com/users/zp961214/events{/privacy}
   followers_url: https://api.github.com/users/zp961214/followers
   following_url: https://api.github.com/users/zp961214/following{/other_user}

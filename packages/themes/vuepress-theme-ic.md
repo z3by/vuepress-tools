@@ -55,7 +55,7 @@ notifications_url: https://api.github.com/repos/IKangXu/vuepress-theme-ic/notifi
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars1.githubusercontent.com/u/17905150?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/17905150?v=4
   events_url: https://api.github.com/users/IKangXu/events{/privacy}
   followers_url: https://api.github.com/users/IKangXu/followers
   following_url: https://api.github.com/users/IKangXu/following{/other_user}
@@ -79,11 +79,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/IKangXu/vuepress-theme-ic/pulls{/number}
-pushed_at: '2020-06-03T03:33:18Z'
+pushed_at: '2020-11-24T05:47:48Z'
 releases_url: https://api.github.com/repos/IKangXu/vuepress-theme-ic/releases{/id}
 size: 575
 ssh_url: git@github.com:IKangXu/vuepress-theme-ic.git
-stargazers_count: 2
+stargazers_count: 5
 stargazers_url: https://api.github.com/repos/IKangXu/vuepress-theme-ic/stargazers
 statuses_url: https://api.github.com/repos/IKangXu/vuepress-theme-ic/statuses/{sha}
 subscribers_count: 1
@@ -94,10 +94,10 @@ tags_url: https://api.github.com/repos/IKangXu/vuepress-theme-ic/tags
 teams_url: https://api.github.com/repos/IKangXu/vuepress-theme-ic/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/IKangXu/vuepress-theme-ic/git/trees{/sha}
-updated_at: '2020-06-18T05:48:05Z'
+updated_at: '2020-12-12T13:55:55Z'
 url: https://api.github.com/repos/IKangXu/vuepress-theme-ic
-watchers: 2
-watchers_count: 2
+watchers: 5
+watchers_count: 5
 ---
 
 :tada::tada::tada: A note-style vuepress blog theme with simple, clear and practical features for the purpose

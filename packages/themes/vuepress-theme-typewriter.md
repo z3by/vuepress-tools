@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/mAKEkr/vuepress-theme-typewriter/downloads
 events_url: https://api.github.com/repos/mAKEkr/vuepress-theme-typewriter/events
 fork: false
-forks: 0
-forks_count: 0
+forks: 1
+forks_count: 1
 forks_url: https://api.github.com/repos/mAKEkr/vuepress-theme-typewriter/forks
 full_name: mAKEkr/vuepress-theme-typewriter
 git_commits_url: https://api.github.com/repos/mAKEkr/vuepress-theme-typewriter/git/commits{/sha}
@@ -48,13 +48,13 @@ merges_url: https://api.github.com/repos/mAKEkr/vuepress-theme-typewriter/merges
 milestones_url: https://api.github.com/repos/mAKEkr/vuepress-theme-typewriter/milestones{/number}
 mirror_url: null
 name: vuepress-theme-typewriter
-network_count: 0
+network_count: 1
 node_id: MDEwOlJlcG9zaXRvcnkyMTMwMjY4Nzk=
 notifications_url: https://api.github.com/repos/mAKEkr/vuepress-theme-typewriter/notifications{?since,all,participating}
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/2796198?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/2796198?v=4
   events_url: https://api.github.com/users/mAKEkr/events{/privacy}
   followers_url: https://api.github.com/users/mAKEkr/followers
   following_url: https://api.github.com/users/mAKEkr/following{/other_user}
@@ -78,11 +78,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/mAKEkr/vuepress-theme-typewriter/pulls{/number}
-pushed_at: '2020-03-30T14:20:38Z'
+pushed_at: '2020-09-30T19:48:02Z'
 releases_url: https://api.github.com/repos/mAKEkr/vuepress-theme-typewriter/releases{/id}
-size: 60
+size: 132
 ssh_url: git@github.com:mAKEkr/vuepress-theme-typewriter.git
-stargazers_count: 6
+stargazers_count: 8
 stargazers_url: https://api.github.com/repos/mAKEkr/vuepress-theme-typewriter/stargazers
 statuses_url: https://api.github.com/repos/mAKEkr/vuepress-theme-typewriter/statuses/{sha}
 subscribers_count: 1
@@ -93,10 +93,10 @@ tags_url: https://api.github.com/repos/mAKEkr/vuepress-theme-typewriter/tags
 teams_url: https://api.github.com/repos/mAKEkr/vuepress-theme-typewriter/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/mAKEkr/vuepress-theme-typewriter/git/trees{/sha}
-updated_at: '2020-05-23T16:36:48Z'
+updated_at: '2020-12-29T09:39:16Z'
 url: https://api.github.com/repos/mAKEkr/vuepress-theme-typewriter
-watchers: 6
-watchers_count: 6
+watchers: 8
+watchers_count: 8
 ---
 
 # Typewriter

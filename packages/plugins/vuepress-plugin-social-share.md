@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/ntnyq/vuepress-plugin-social-share/downloads
 events_url: https://api.github.com/repos/ntnyq/vuepress-plugin-social-share/events
 fork: false
-forks: 3
-forks_count: 3
+forks: 4
+forks_count: 4
 forks_url: https://api.github.com/repos/ntnyq/vuepress-plugin-social-share/forks
 full_name: ntnyq/vuepress-plugin-social-share
 git_commits_url: https://api.github.com/repos/ntnyq/vuepress-plugin-social-share/git/commits{/sha}
@@ -53,13 +53,13 @@ merges_url: https://api.github.com/repos/ntnyq/vuepress-plugin-social-share/merg
 milestones_url: https://api.github.com/repos/ntnyq/vuepress-plugin-social-share/milestones{/number}
 mirror_url: null
 name: vuepress-plugin-social-share
-network_count: 3
+network_count: 4
 node_id: MDEwOlJlcG9zaXRvcnkyMDE3MTc2ODg=
 notifications_url: https://api.github.com/repos/ntnyq/vuepress-plugin-social-share/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
+open_issues: 2
+open_issues_count: 2
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/22659150?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/22659150?v=4
   events_url: https://api.github.com/users/ntnyq/events{/privacy}
   followers_url: https://api.github.com/users/ntnyq/followers
   following_url: https://api.github.com/users/ntnyq/following{/other_user}
@@ -83,11 +83,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/ntnyq/vuepress-plugin-social-share/pulls{/number}
-pushed_at: '2020-08-08T20:14:26Z'
+pushed_at: '2021-02-23T08:50:41Z'
 releases_url: https://api.github.com/repos/ntnyq/vuepress-plugin-social-share/releases{/id}
-size: 1692
+size: 2476
 ssh_url: git@github.com:ntnyq/vuepress-plugin-social-share.git
-stargazers_count: 20
+stargazers_count: 27
 stargazers_url: https://api.github.com/repos/ntnyq/vuepress-plugin-social-share/stargazers
 statuses_url: https://api.github.com/repos/ntnyq/vuepress-plugin-social-share/statuses/{sha}
 subscribers_count: 0
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/ntnyq/vuepress-plugin-social-share/tags
 teams_url: https://api.github.com/repos/ntnyq/vuepress-plugin-social-share/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/ntnyq/vuepress-plugin-social-share/git/trees{/sha}
-updated_at: '2020-08-08T20:13:50Z'
+updated_at: '2021-02-20T12:35:17Z'
 url: https://api.github.com/repos/ntnyq/vuepress-plugin-social-share
-watchers: 20
-watchers_count: 20
+watchers: 27
+watchers_count: 27
 ---
 
 # vuepress-plugin-social-share

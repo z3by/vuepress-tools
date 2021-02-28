@@ -1,6 +1,6 @@
 ---
 archive_url: https://api.github.com/repos/vuepress/vuepress-plugin-git-log/{archive_format}{/ref}
-archived: false
+archived: true
 assignees_url: https://api.github.com/repos/vuepress/vuepress-plugin-git-log/assignees{/user}
 blobs_url: https://api.github.com/repos/vuepress/vuepress-plugin-git-log/git/blobs{/sha}
 branches_url: https://api.github.com/repos/vuepress/vuepress-plugin-git-log/branches{/branch}
@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/vuepress/vuepress-plugin-git-log/downloads
 events_url: https://api.github.com/repos/vuepress/vuepress-plugin-git-log/events
 fork: false
-forks: 2
-forks_count: 2
+forks: 4
+forks_count: 4
 forks_url: https://api.github.com/repos/vuepress/vuepress-plugin-git-log/forks
 full_name: vuepress/vuepress-plugin-git-log
 git_commits_url: https://api.github.com/repos/vuepress/vuepress-plugin-git-log/git/commits{/sha}
@@ -53,13 +53,13 @@ merges_url: https://api.github.com/repos/vuepress/vuepress-plugin-git-log/merges
 milestones_url: https://api.github.com/repos/vuepress/vuepress-plugin-git-log/milestones{/number}
 mirror_url: null
 name: vuepress-plugin-git-log
-network_count: 2
+network_count: 4
 node_id: MDEwOlJlcG9zaXRvcnkxNzY0NTU2OTk=
 notifications_url: https://api.github.com/repos/vuepress/vuepress-plugin-git-log/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
+open_issues: 2
+open_issues_count: 2
 organization:
-  avatar_url: https://avatars2.githubusercontent.com/u/48539483?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/48539483?v=4
   events_url: https://api.github.com/users/vuepress/events{/privacy}
   followers_url: https://api.github.com/users/vuepress/followers
   following_url: https://api.github.com/users/vuepress/following{/other_user}
@@ -78,7 +78,7 @@ organization:
   type: Organization
   url: https://api.github.com/users/vuepress
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/48539483?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/48539483?v=4
   events_url: https://api.github.com/users/vuepress/events{/privacy}
   followers_url: https://api.github.com/users/vuepress/followers
   following_url: https://api.github.com/users/vuepress/following{/other_user}
@@ -102,7 +102,7 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/vuepress/vuepress-plugin-git-log/pulls{/number}
-pushed_at: '2019-03-19T08:07:28Z'
+pushed_at: '2020-11-08T04:00:12Z'
 releases_url: https://api.github.com/repos/vuepress/vuepress-plugin-git-log/releases{/id}
 size: 4
 ssh_url: git@github.com:vuepress/vuepress-plugin-git-log.git
@@ -117,7 +117,7 @@ tags_url: https://api.github.com/repos/vuepress/vuepress-plugin-git-log/tags
 teams_url: https://api.github.com/repos/vuepress/vuepress-plugin-git-log/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/vuepress/vuepress-plugin-git-log/git/trees{/sha}
-updated_at: '2019-09-07T04:21:41Z'
+updated_at: '2020-11-23T02:17:03Z'
 url: https://api.github.com/repos/vuepress/vuepress-plugin-git-log
 watchers: 2
 watchers_count: 2

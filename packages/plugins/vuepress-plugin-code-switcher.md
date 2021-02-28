@@ -12,7 +12,7 @@ compare_url: https://api.github.com/repos/padarom/vuepress-plugin-code-switcher/
 contents_url: https://api.github.com/repos/padarom/vuepress-plugin-code-switcher/contents/{+path}
 contributors_url: https://api.github.com/repos/padarom/vuepress-plugin-code-switcher/contributors
 created_at: '2019-02-08T15:20:20Z'
-default_branch: master
+default_branch: main
 deployments_url: https://api.github.com/repos/padarom/vuepress-plugin-code-switcher/deployments
 description: ':arrows_clockwise: Component that adds synchronized multi-language code
   blocks to your Vuepress sites'
@@ -30,10 +30,10 @@ git_tags_url: https://api.github.com/repos/padarom/vuepress-plugin-code-switcher
 git_url: git://github.com/padarom/vuepress-plugin-code-switcher.git
 has_downloads: true
 has_issues: true
-has_pages: false
+has_pages: true
 has_projects: true
 has_wiki: true
-homepage: ''
+homepage: https://code-switcher.padarom.xyz
 hooks_url: https://api.github.com/repos/padarom/vuepress-plugin-code-switcher/hooks
 html_url: https://github.com/padarom/vuepress-plugin-code-switcher
 id: 169754378
@@ -57,10 +57,10 @@ name: vuepress-plugin-code-switcher
 network_count: 2
 node_id: MDEwOlJlcG9zaXRvcnkxNjk3NTQzNzg=
 notifications_url: https://api.github.com/repos/padarom/vuepress-plugin-code-switcher/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
+open_issues: 0
+open_issues_count: 0
 owner:
-  avatar_url: https://avatars3.githubusercontent.com/u/3678770?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/3678770?v=4
   events_url: https://api.github.com/users/padarom/events{/privacy}
   followers_url: https://api.github.com/users/padarom/followers
   following_url: https://api.github.com/users/padarom/following{/other_user}
@@ -84,11 +84,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/padarom/vuepress-plugin-code-switcher/pulls{/number}
-pushed_at: '2019-12-06T12:53:54Z'
+pushed_at: '2021-02-09T18:19:31Z'
 releases_url: https://api.github.com/repos/padarom/vuepress-plugin-code-switcher/releases{/id}
-size: 1630
+size: 1733
 ssh_url: git@github.com:padarom/vuepress-plugin-code-switcher.git
-stargazers_count: 25
+stargazers_count: 27
 stargazers_url: https://api.github.com/repos/padarom/vuepress-plugin-code-switcher/stargazers
 statuses_url: https://api.github.com/repos/padarom/vuepress-plugin-code-switcher/statuses/{sha}
 subscribers_count: 0
@@ -99,10 +99,10 @@ tags_url: https://api.github.com/repos/padarom/vuepress-plugin-code-switcher/tag
 teams_url: https://api.github.com/repos/padarom/vuepress-plugin-code-switcher/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/padarom/vuepress-plugin-code-switcher/git/trees{/sha}
-updated_at: '2020-08-16T16:20:05Z'
+updated_at: '2021-02-21T03:33:18Z'
 url: https://api.github.com/repos/padarom/vuepress-plugin-code-switcher
-watchers: 25
-watchers_count: 25
+watchers: 27
+watchers_count: 27
 ---
 
 # vuepress-plugin-code-switcher
@@ -111,8 +111,9 @@ Component that allows having synchronized language switchable code blocks (e.g. 
 _Requires Vuepress 1.0+_
 
 ## Demo
-![](preview.gif)
+A live demo is available at https://code-switcher.padarom.xyz.
 
+![](preview.gif)
 ## Installation
 ```
 $ npm install vuepress-plugin-code-switcher --save

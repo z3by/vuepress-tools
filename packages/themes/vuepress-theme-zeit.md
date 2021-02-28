@@ -56,10 +56,10 @@ name: vuepress-theme-zeit
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkxOTQyMjg2OTc=
 notifications_url: https://api.github.com/repos/unix/vuepress-theme-zeit/notifications{?since,all,participating}
-open_issues: 9
-open_issues_count: 9
+open_issues: 14
+open_issues_count: 14
 owner:
-  avatar_url: https://avatars3.githubusercontent.com/u/11304944?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/11304944?v=4
   events_url: https://api.github.com/users/unix/events{/privacy}
   followers_url: https://api.github.com/users/unix/followers
   following_url: https://api.github.com/users/unix/following{/other_user}
@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/unix/vuepress-theme-zeit/pulls{/number}
-pushed_at: '2020-08-07T23:17:37Z'
+pushed_at: '2020-12-11T11:22:57Z'
 releases_url: https://api.github.com/repos/unix/vuepress-theme-zeit/releases{/id}
-size: 518
+size: 1279
 ssh_url: git@github.com:unix/vuepress-theme-zeit.git
 stargazers_count: 6
 stargazers_url: https://api.github.com/repos/unix/vuepress-theme-zeit/stargazers

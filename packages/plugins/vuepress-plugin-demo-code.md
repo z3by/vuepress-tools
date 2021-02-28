@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/BuptStEve/vuepress-plugin-demo-code/downloads
 events_url: https://api.github.com/repos/BuptStEve/vuepress-plugin-demo-code/events
 fork: false
-forks: 18
-forks_count: 18
+forks: 22
+forks_count: 22
 forks_url: https://api.github.com/repos/BuptStEve/vuepress-plugin-demo-code/forks
 full_name: BuptStEve/vuepress-plugin-demo-code
 git_commits_url: https://api.github.com/repos/BuptStEve/vuepress-plugin-demo-code/git/commits{/sha}
@@ -53,13 +53,13 @@ merges_url: https://api.github.com/repos/BuptStEve/vuepress-plugin-demo-code/mer
 milestones_url: https://api.github.com/repos/BuptStEve/vuepress-plugin-demo-code/milestones{/number}
 mirror_url: null
 name: vuepress-plugin-demo-code
-network_count: 18
+network_count: 22
 node_id: MDEwOlJlcG9zaXRvcnkxNjc3OTQ3NTI=
 notifications_url: https://api.github.com/repos/BuptStEve/vuepress-plugin-demo-code/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
+open_issues: 2
+open_issues_count: 2
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/11501493?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/11501493?v=4
   events_url: https://api.github.com/users/BuptStEve/events{/privacy}
   followers_url: https://api.github.com/users/BuptStEve/followers
   following_url: https://api.github.com/users/BuptStEve/following{/other_user}
@@ -87,7 +87,7 @@ pushed_at: '2020-07-22T02:54:24Z'
 releases_url: https://api.github.com/repos/BuptStEve/vuepress-plugin-demo-code/releases{/id}
 size: 665
 ssh_url: git@github.com:BuptStEve/vuepress-plugin-demo-code.git
-stargazers_count: 86
+stargazers_count: 92
 stargazers_url: https://api.github.com/repos/BuptStEve/vuepress-plugin-demo-code/stargazers
 statuses_url: https://api.github.com/repos/BuptStEve/vuepress-plugin-demo-code/statuses/{sha}
 subscribers_count: 1
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/BuptStEve/vuepress-plugin-demo-code/tags
 teams_url: https://api.github.com/repos/BuptStEve/vuepress-plugin-demo-code/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/BuptStEve/vuepress-plugin-demo-code/git/trees{/sha}
-updated_at: '2020-08-05T02:34:15Z'
+updated_at: '2021-02-16T10:26:35Z'
 url: https://api.github.com/repos/BuptStEve/vuepress-plugin-demo-code
-watchers: 86
-watchers_count: 86
+watchers: 92
+watchers_count: 92
 ---
 
 <h1 align="center">vuepress-plugin-demo-code</h1>

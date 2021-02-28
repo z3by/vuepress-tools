@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/jsmith/vuepress-theme-terminal/downloads
 events_url: https://api.github.com/repos/jsmith/vuepress-theme-terminal/events
 fork: false
-forks: 8
-forks_count: 8
+forks: 9
+forks_count: 9
 forks_url: https://api.github.com/repos/jsmith/vuepress-theme-terminal/forks
 full_name: jsmith/vuepress-theme-terminal
 git_commits_url: https://api.github.com/repos/jsmith/vuepress-theme-terminal/git/commits{/sha}
@@ -48,13 +48,13 @@ merges_url: https://api.github.com/repos/jsmith/vuepress-theme-terminal/merges
 milestones_url: https://api.github.com/repos/jsmith/vuepress-theme-terminal/milestones{/number}
 mirror_url: null
 name: vuepress-theme-terminal
-network_count: 8
+network_count: 9
 node_id: MDEwOlJlcG9zaXRvcnkxNDc5MzMyMTE=
 notifications_url: https://api.github.com/repos/jsmith/vuepress-theme-terminal/notifications{?since,all,participating}
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars3.githubusercontent.com/u/18077531?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/18077531?v=4
   events_url: https://api.github.com/users/jsmith/events{/privacy}
   followers_url: https://api.github.com/users/jsmith/followers
   following_url: https://api.github.com/users/jsmith/following{/other_user}
@@ -78,11 +78,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/jsmith/vuepress-theme-terminal/pulls{/number}
-pushed_at: '2020-03-19T16:00:28Z'
+pushed_at: '2020-12-02T12:23:15Z'
 releases_url: https://api.github.com/repos/jsmith/vuepress-theme-terminal/releases{/id}
-size: 659
+size: 397
 ssh_url: git@github.com:jsmith/vuepress-theme-terminal.git
-stargazers_count: 60
+stargazers_count: 83
 stargazers_url: https://api.github.com/repos/jsmith/vuepress-theme-terminal/stargazers
 statuses_url: https://api.github.com/repos/jsmith/vuepress-theme-terminal/statuses/{sha}
 subscribers_count: 1
@@ -93,10 +93,10 @@ tags_url: https://api.github.com/repos/jsmith/vuepress-theme-terminal/tags
 teams_url: https://api.github.com/repos/jsmith/vuepress-theme-terminal/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/jsmith/vuepress-theme-terminal/git/trees{/sha}
-updated_at: '2020-08-12T15:48:49Z'
+updated_at: '2021-02-23T06:37:44Z'
 url: https://api.github.com/repos/jsmith/vuepress-theme-terminal
-watchers: 60
-watchers_count: 60
+watchers: 83
+watchers_count: 83
 ---
 
 # vuepress-theme-terminal
@@ -104,10 +104,13 @@ watchers_count: 60
 
 > A terminal (portfolio) theme for VuePress based on [vue-terminal](https://github.com/jsmith/vue-terminal)!
 
-> WARNING: This package does NOT work with Firefox due to an incompatible Regex :(
-
 ## Demos
 [Basic Demo](https://jsmith.github.io/vuepress-theme-terminal)
+
+## Installation
+```
+npm install vuepress-theme-terminal
+```
 
 ## Usage
 This theme is best used for a portfolio site.
@@ -158,7 +161,7 @@ Want to see something a bit more complex? See my [portfolio configuration](https
 This project was developed for my personal portfolio. As such, I only implemented the features I needed. If there is a new feature you'd like to see implemented, create a issue or put up a PR (contributions are very welcome).
 
 ## Development
-Install the dependencies:
+Want to work on this library? Install the dependencies:
 ```
 npm i
 ```

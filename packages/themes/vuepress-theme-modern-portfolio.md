@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/hermann8u/vuepress-theme-modern-
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars3.githubusercontent.com/u/25859984?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/25859984?v=4
   events_url: https://api.github.com/users/hermann8u/events{/privacy}
   followers_url: https://api.github.com/users/hermann8u/followers
   following_url: https://api.github.com/users/hermann8u/following{/other_user}

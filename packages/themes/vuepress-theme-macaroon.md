@@ -1,0 +1,110 @@
+---
+archive_url: https://api.github.com/repos/VergessenWang/vuepress-theme-macaroon/{archive_format}{/ref}
+archived: false
+assignees_url: https://api.github.com/repos/VergessenWang/vuepress-theme-macaroon/assignees{/user}
+blobs_url: https://api.github.com/repos/VergessenWang/vuepress-theme-macaroon/git/blobs{/sha}
+branches_url: https://api.github.com/repos/VergessenWang/vuepress-theme-macaroon/branches{/branch}
+clone_url: https://github.com/VergessenWang/vuepress-theme-macaroon.git
+collaborators_url: https://api.github.com/repos/VergessenWang/vuepress-theme-macaroon/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/VergessenWang/vuepress-theme-macaroon/comments{/number}
+commits_url: https://api.github.com/repos/VergessenWang/vuepress-theme-macaroon/commits{/sha}
+compare_url: https://api.github.com/repos/VergessenWang/vuepress-theme-macaroon/compare/{base}...{head}
+contents_url: https://api.github.com/repos/VergessenWang/vuepress-theme-macaroon/contents/{+path}
+contributors_url: https://api.github.com/repos/VergessenWang/vuepress-theme-macaroon/contributors
+created_at: '2020-12-19T04:49:20Z'
+default_branch: master
+deployments_url: https://api.github.com/repos/VergessenWang/vuepress-theme-macaroon/deployments
+description: "\u4E00\u6B3E\"\u731B\u7537\"\u914D\u8272\u7684vuepress\u4E3B\u9898"
+disabled: false
+downloads_url: https://api.github.com/repos/VergessenWang/vuepress-theme-macaroon/downloads
+events_url: https://api.github.com/repos/VergessenWang/vuepress-theme-macaroon/events
+fork: false
+forks: 0
+forks_count: 0
+forks_url: https://api.github.com/repos/VergessenWang/vuepress-theme-macaroon/forks
+full_name: VergessenWang/vuepress-theme-macaroon
+git_commits_url: https://api.github.com/repos/VergessenWang/vuepress-theme-macaroon/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/VergessenWang/vuepress-theme-macaroon/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/VergessenWang/vuepress-theme-macaroon/git/tags{/sha}
+git_url: git://github.com/VergessenWang/vuepress-theme-macaroon.git
+has_downloads: true
+has_issues: true
+has_pages: false
+has_projects: true
+has_wiki: true
+homepage: null
+hooks_url: https://api.github.com/repos/VergessenWang/vuepress-theme-macaroon/hooks
+html_url: https://github.com/VergessenWang/vuepress-theme-macaroon
+id: 322768942
+issue_comment_url: https://api.github.com/repos/VergessenWang/vuepress-theme-macaroon/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/VergessenWang/vuepress-theme-macaroon/issues/events{/number}
+issues_url: https://api.github.com/repos/VergessenWang/vuepress-theme-macaroon/issues{/number}
+keys_url: https://api.github.com/repos/VergessenWang/vuepress-theme-macaroon/keys{/key_id}
+labels_url: https://api.github.com/repos/VergessenWang/vuepress-theme-macaroon/labels{/name}
+language: Vue
+languages_url: https://api.github.com/repos/VergessenWang/vuepress-theme-macaroon/languages
+license: null
+merges_url: https://api.github.com/repos/VergessenWang/vuepress-theme-macaroon/merges
+milestones_url: https://api.github.com/repos/VergessenWang/vuepress-theme-macaroon/milestones{/number}
+mirror_url: null
+name: vuepress-theme-macaroon
+network_count: 0
+node_id: MDEwOlJlcG9zaXRvcnkzMjI3Njg5NDI=
+notifications_url: https://api.github.com/repos/VergessenWang/vuepress-theme-macaroon/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
+owner:
+  avatar_url: https://avatars.githubusercontent.com/u/26704313?v=4
+  events_url: https://api.github.com/users/VergessenWang/events{/privacy}
+  followers_url: https://api.github.com/users/VergessenWang/followers
+  following_url: https://api.github.com/users/VergessenWang/following{/other_user}
+  gists_url: https://api.github.com/users/VergessenWang/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/VergessenWang
+  id: 26704313
+  login: VergessenWang
+  node_id: MDQ6VXNlcjI2NzA0MzEz
+  organizations_url: https://api.github.com/users/VergessenWang/orgs
+  received_events_url: https://api.github.com/users/VergessenWang/received_events
+  repos_url: https://api.github.com/users/VergessenWang/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/VergessenWang/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/VergessenWang/subscriptions
+  type: User
+  url: https://api.github.com/users/VergessenWang
+permissions:
+  admin: false
+  pull: true
+  push: false
+private: false
+pulls_url: https://api.github.com/repos/VergessenWang/vuepress-theme-macaroon/pulls{/number}
+pushed_at: '2021-01-05T15:48:30Z'
+releases_url: https://api.github.com/repos/VergessenWang/vuepress-theme-macaroon/releases{/id}
+size: 111
+ssh_url: git@github.com:VergessenWang/vuepress-theme-macaroon.git
+stargazers_count: 0
+stargazers_url: https://api.github.com/repos/VergessenWang/vuepress-theme-macaroon/stargazers
+statuses_url: https://api.github.com/repos/VergessenWang/vuepress-theme-macaroon/statuses/{sha}
+subscribers_count: 1
+subscribers_url: https://api.github.com/repos/VergessenWang/vuepress-theme-macaroon/subscribers
+subscription_url: https://api.github.com/repos/VergessenWang/vuepress-theme-macaroon/subscription
+svn_url: https://github.com/VergessenWang/vuepress-theme-macaroon
+tags_url: https://api.github.com/repos/VergessenWang/vuepress-theme-macaroon/tags
+teams_url: https://api.github.com/repos/VergessenWang/vuepress-theme-macaroon/teams
+temp_clone_token: ''
+trees_url: https://api.github.com/repos/VergessenWang/vuepress-theme-macaroon/git/trees{/sha}
+updated_at: '2021-01-05T15:48:32Z'
+url: https://api.github.com/repos/VergessenWang/vuepress-theme-macaroon
+watchers: 0
+watchers_count: 0
+---
+
+vuepress 主题开发中....
+试图整点可爱的东西抢救一下我的直女审美....
+
+
+### 踩坑记录
+
++ 在config.js的head中引入静态资源，需放在同文件夹下的public目录中。这与webpack打包方式有关
++ 答应我，没事别照着官方文档瞎建templates目录，这会导致layout组件无法正确挂载。之前被这个bug卡了一天，在各种目录，配置文件和路径调整之间反复横跳，最后不得已一个一个文件夹排查，终于发现是这个目录导致的。
++ [vuepress各种插件](https://github.com/vuepress/awesome-vuepress#plugins)

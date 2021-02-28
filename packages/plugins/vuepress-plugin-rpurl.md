@@ -51,10 +51,10 @@ name: vuepress-plugin-rpurl
 network_count: 3
 node_id: MDEwOlJlcG9zaXRvcnkyMDY0NjEzMTY=
 notifications_url: https://api.github.com/repos/boboidream/vuepress-plugin-rpurl/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
+open_issues: 0
+open_issues_count: 0
 owner:
-  avatar_url: https://avatars0.githubusercontent.com/u/13171903?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/13171903?v=4
   events_url: https://api.github.com/users/boboidream/events{/privacy}
   followers_url: https://api.github.com/users/boboidream/followers
   following_url: https://api.github.com/users/boboidream/following{/other_user}
@@ -78,9 +78,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/boboidream/vuepress-plugin-rpurl/pulls{/number}
-pushed_at: '2019-09-05T06:52:39Z'
+pushed_at: '2020-10-06T04:12:49Z'
 releases_url: https://api.github.com/repos/boboidream/vuepress-plugin-rpurl/releases{/id}
-size: 3
+size: 6
 ssh_url: git@github.com:boboidream/vuepress-plugin-rpurl.git
 stargazers_count: 1
 stargazers_url: https://api.github.com/repos/boboidream/vuepress-plugin-rpurl/stargazers
@@ -93,7 +93,7 @@ tags_url: https://api.github.com/repos/boboidream/vuepress-plugin-rpurl/tags
 teams_url: https://api.github.com/repos/boboidream/vuepress-plugin-rpurl/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/boboidream/vuepress-plugin-rpurl/git/trees{/sha}
-updated_at: '2020-04-29T07:57:16Z'
+updated_at: '2020-10-06T04:12:51Z'
 url: https://api.github.com/repos/boboidream/vuepress-plugin-rpurl
 watchers: 1
 watchers_count: 1

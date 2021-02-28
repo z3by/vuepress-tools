@@ -51,10 +51,10 @@ name: vuepress-theme-dong
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyMTk0NTc4OTY=
 notifications_url: https://api.github.com/repos/dedoyle/vuepress-theme-dong/notifications{?since,all,participating}
-open_issues: 5
-open_issues_count: 5
+open_issues: 6
+open_issues_count: 6
 owner:
-  avatar_url: https://avatars1.githubusercontent.com/u/12028922?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/12028922?v=4
   events_url: https://api.github.com/users/dedoyle/events{/privacy}
   followers_url: https://api.github.com/users/dedoyle/followers
   following_url: https://api.github.com/users/dedoyle/following{/other_user}
@@ -78,9 +78,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/dedoyle/vuepress-theme-dong/pulls{/number}
-pushed_at: '2020-08-07T23:41:22Z'
+pushed_at: '2020-09-10T17:54:21Z'
 releases_url: https://api.github.com/repos/dedoyle/vuepress-theme-dong/releases{/id}
-size: 782
+size: 886
 ssh_url: git@github.com:dedoyle/vuepress-theme-dong.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/dedoyle/vuepress-theme-dong/stargazers

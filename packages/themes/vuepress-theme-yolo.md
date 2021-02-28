@@ -41,7 +41,7 @@ issue_events_url: https://api.github.com/repos/dshuu/vuepress-theme-yolo/issues/
 issues_url: https://api.github.com/repos/dshuu/vuepress-theme-yolo/issues{/number}
 keys_url: https://api.github.com/repos/dshuu/vuepress-theme-yolo/keys{/key_id}
 labels_url: https://api.github.com/repos/dshuu/vuepress-theme-yolo/labels{/name}
-language: null
+language: Vue
 languages_url: https://api.github.com/repos/dshuu/vuepress-theme-yolo/languages
 license: null
 merges_url: https://api.github.com/repos/dshuu/vuepress-theme-yolo/merges
@@ -51,10 +51,10 @@ name: vuepress-theme-yolo
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyNTQwNDM5Nzc=
 notifications_url: https://api.github.com/repos/dshuu/vuepress-theme-yolo/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
+open_issues: 1
+open_issues_count: 1
 owner:
-  avatar_url: https://avatars1.githubusercontent.com/u/58064072?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/58064072?v=4
   events_url: https://api.github.com/users/dshuu/events{/privacy}
   followers_url: https://api.github.com/users/dshuu/followers
   following_url: https://api.github.com/users/dshuu/following{/other_user}
@@ -78,9 +78,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/dshuu/vuepress-theme-yolo/pulls{/number}
-pushed_at: '2020-04-08T09:36:12Z'
+pushed_at: '2020-12-13T05:22:23Z'
 releases_url: https://api.github.com/repos/dshuu/vuepress-theme-yolo/releases{/id}
-size: 2
+size: 364
 ssh_url: git@github.com:dshuu/vuepress-theme-yolo.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/dshuu/vuepress-theme-yolo/stargazers
@@ -93,7 +93,7 @@ tags_url: https://api.github.com/repos/dshuu/vuepress-theme-yolo/tags
 teams_url: https://api.github.com/repos/dshuu/vuepress-theme-yolo/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/dshuu/vuepress-theme-yolo/git/trees{/sha}
-updated_at: '2020-04-08T09:36:14Z'
+updated_at: '2020-09-02T07:59:55Z'
 url: https://api.github.com/repos/dshuu/vuepress-theme-yolo
 watchers: 0
 watchers_count: 0

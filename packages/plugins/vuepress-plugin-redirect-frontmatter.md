@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/ttskch/vuepress-plugin-redirect-
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars3.githubusercontent.com/u/4360663?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/4360663?v=4
   events_url: https://api.github.com/users/ttskch/events{/privacy}
   followers_url: https://api.github.com/users/ttskch/followers
   following_url: https://api.github.com/users/ttskch/following{/other_user}

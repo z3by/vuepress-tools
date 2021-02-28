@@ -20,8 +20,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/gabrielwillemann/vuepress-theme-material-free/downloads
 events_url: https://api.github.com/repos/gabrielwillemann/vuepress-theme-material-free/events
 fork: false
-forks: 1
-forks_count: 1
+forks: 3
+forks_count: 3
 forks_url: https://api.github.com/repos/gabrielwillemann/vuepress-theme-material-free/forks
 full_name: gabrielwillemann/vuepress-theme-material-free
 git_commits_url: https://api.github.com/repos/gabrielwillemann/vuepress-theme-material-free/git/commits{/sha}
@@ -54,13 +54,13 @@ merges_url: https://api.github.com/repos/gabrielwillemann/vuepress-theme-materia
 milestones_url: https://api.github.com/repos/gabrielwillemann/vuepress-theme-material-free/milestones{/number}
 mirror_url: null
 name: vuepress-theme-material-free
-network_count: 1
+network_count: 3
 node_id: MDEwOlJlcG9zaXRvcnkyNTQ0MzcyNzQ=
 notifications_url: https://api.github.com/repos/gabrielwillemann/vuepress-theme-material-free/notifications{?since,all,participating}
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars3.githubusercontent.com/u/2576903?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/2576903?v=4
   events_url: https://api.github.com/users/gabrielwillemann/events{/privacy}
   followers_url: https://api.github.com/users/gabrielwillemann/followers
   following_url: https://api.github.com/users/gabrielwillemann/following{/other_user}
@@ -88,7 +88,7 @@ pushed_at: '2020-04-20T19:58:50Z'
 releases_url: https://api.github.com/repos/gabrielwillemann/vuepress-theme-material-free/releases{/id}
 size: 29
 ssh_url: git@github.com:gabrielwillemann/vuepress-theme-material-free.git
-stargazers_count: 1
+stargazers_count: 2
 stargazers_url: https://api.github.com/repos/gabrielwillemann/vuepress-theme-material-free/stargazers
 statuses_url: https://api.github.com/repos/gabrielwillemann/vuepress-theme-material-free/statuses/{sha}
 subscribers_count: 1
@@ -99,10 +99,10 @@ tags_url: https://api.github.com/repos/gabrielwillemann/vuepress-theme-material-
 teams_url: https://api.github.com/repos/gabrielwillemann/vuepress-theme-material-free/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/gabrielwillemann/vuepress-theme-material-free/git/trees{/sha}
-updated_at: '2020-04-30T21:40:55Z'
+updated_at: '2020-09-04T22:09:29Z'
 url: https://api.github.com/repos/gabrielwillemann/vuepress-theme-material-free
-watchers: 1
-watchers_count: 1
+watchers: 2
+watchers_count: 2
 ---
 
 # [Vuepress Theme Material Free](https://www.npmjs.com/package/vuepress-theme-material-free)

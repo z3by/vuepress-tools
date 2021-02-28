@@ -56,10 +56,10 @@ name: vuepress-theme-gh-style
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyMTU2OTUwNTk=
 notifications_url: https://api.github.com/repos/wencaizhang/vuepress-theme-gh-style/notifications{?since,all,participating}
-open_issues: 5
-open_issues_count: 5
+open_issues: 8
+open_issues_count: 8
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/34718241?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/34718241?v=4
   events_url: https://api.github.com/users/wencaizhang/events{/privacy}
   followers_url: https://api.github.com/users/wencaizhang/followers
   following_url: https://api.github.com/users/wencaizhang/following{/other_user}
@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/wencaizhang/vuepress-theme-gh-style/pulls{/number}
-pushed_at: '2020-08-07T23:42:06Z'
+pushed_at: '2020-12-12T00:56:37Z'
 releases_url: https://api.github.com/repos/wencaizhang/vuepress-theme-gh-style/releases{/id}
-size: 1910
+size: 2326
 ssh_url: git@github.com:wencaizhang/vuepress-theme-gh-style.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/wencaizhang/vuepress-theme-gh-style/stargazers

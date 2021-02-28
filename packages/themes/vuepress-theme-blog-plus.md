@@ -56,10 +56,10 @@ name: vuepress-theme-blog-plus
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyNzIxOTE4NzY=
 notifications_url: https://api.github.com/repos/xiaoxin-ws/vuepress-theme-blog-plus/notifications{?since,all,participating}
-open_issues: 3
-open_issues_count: 3
+open_issues: 4
+open_issues_count: 4
 owner:
-  avatar_url: https://avatars1.githubusercontent.com/u/61953403?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/61953403?v=4
   events_url: https://api.github.com/users/xiaoxin-ws/events{/privacy}
   followers_url: https://api.github.com/users/xiaoxin-ws/followers
   following_url: https://api.github.com/users/xiaoxin-ws/following{/other_user}
@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/xiaoxin-ws/vuepress-theme-blog-plus/pulls{/number}
-pushed_at: '2020-08-08T00:30:01Z'
+pushed_at: '2020-12-12T21:40:08Z'
 releases_url: https://api.github.com/repos/xiaoxin-ws/vuepress-theme-blog-plus/releases{/id}
-size: 763
+size: 877
 ssh_url: git@github.com:xiaoxin-ws/vuepress-theme-blog-plus.git
 stargazers_count: 2
 stargazers_url: https://api.github.com/repos/xiaoxin-ws/vuepress-theme-blog-plus/stargazers
@@ -98,7 +98,7 @@ tags_url: https://api.github.com/repos/xiaoxin-ws/vuepress-theme-blog-plus/tags
 teams_url: https://api.github.com/repos/xiaoxin-ws/vuepress-theme-blog-plus/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/xiaoxin-ws/vuepress-theme-blog-plus/git/trees{/sha}
-updated_at: '2020-06-23T03:52:28Z'
+updated_at: '2020-11-19T10:35:35Z'
 url: https://api.github.com/repos/xiaoxin-ws/vuepress-theme-blog-plus
 watchers: 2
 watchers_count: 2

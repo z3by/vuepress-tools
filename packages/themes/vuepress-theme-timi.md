@@ -1,0 +1,126 @@
+---
+archive_url: https://api.github.com/repos/Timi-design/vuepress-theme-timi/{archive_format}{/ref}
+archived: false
+assignees_url: https://api.github.com/repos/Timi-design/vuepress-theme-timi/assignees{/user}
+blobs_url: https://api.github.com/repos/Timi-design/vuepress-theme-timi/git/blobs{/sha}
+branches_url: https://api.github.com/repos/Timi-design/vuepress-theme-timi/branches{/branch}
+clone_url: https://github.com/Timi-design/vuepress-theme-timi.git
+collaborators_url: https://api.github.com/repos/Timi-design/vuepress-theme-timi/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/Timi-design/vuepress-theme-timi/comments{/number}
+commits_url: https://api.github.com/repos/Timi-design/vuepress-theme-timi/commits{/sha}
+compare_url: https://api.github.com/repos/Timi-design/vuepress-theme-timi/compare/{base}...{head}
+contents_url: https://api.github.com/repos/Timi-design/vuepress-theme-timi/contents/{+path}
+contributors_url: https://api.github.com/repos/Timi-design/vuepress-theme-timi/contributors
+created_at: '2020-08-25T07:11:21Z'
+default_branch: master
+deployments_url: https://api.github.com/repos/Timi-design/vuepress-theme-timi/deployments
+description: "\u4E00\u6B3E\u7B80\u6D01\u800C\u4F18\u96C5\u7684 vuepress \u535A\u5BA2\
+  \ & \u6587\u6863 \u4E3B\u9898"
+disabled: false
+downloads_url: https://api.github.com/repos/Timi-design/vuepress-theme-timi/downloads
+events_url: https://api.github.com/repos/Timi-design/vuepress-theme-timi/events
+fork: false
+forks: 0
+forks_count: 0
+forks_url: https://api.github.com/repos/Timi-design/vuepress-theme-timi/forks
+full_name: Timi-design/vuepress-theme-timi
+git_commits_url: https://api.github.com/repos/Timi-design/vuepress-theme-timi/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/Timi-design/vuepress-theme-timi/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/Timi-design/vuepress-theme-timi/git/tags{/sha}
+git_url: git://github.com/Timi-design/vuepress-theme-timi.git
+has_downloads: true
+has_issues: true
+has_pages: false
+has_projects: true
+has_wiki: true
+homepage: http://iu.maxiaoqu.com/vuepress-theme-ido-doc
+hooks_url: https://api.github.com/repos/Timi-design/vuepress-theme-timi/hooks
+html_url: https://github.com/Timi-design/vuepress-theme-timi
+id: 290141616
+issue_comment_url: https://api.github.com/repos/Timi-design/vuepress-theme-timi/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/Timi-design/vuepress-theme-timi/issues/events{/number}
+issues_url: https://api.github.com/repos/Timi-design/vuepress-theme-timi/issues{/number}
+keys_url: https://api.github.com/repos/Timi-design/vuepress-theme-timi/keys{/key_id}
+labels_url: https://api.github.com/repos/Timi-design/vuepress-theme-timi/labels{/name}
+language: Vue
+languages_url: https://api.github.com/repos/Timi-design/vuepress-theme-timi/languages
+license:
+  key: mit
+  name: MIT License
+  node_id: MDc6TGljZW5zZTEz
+  spdx_id: MIT
+  url: https://api.github.com/licenses/mit
+merges_url: https://api.github.com/repos/Timi-design/vuepress-theme-timi/merges
+milestones_url: https://api.github.com/repos/Timi-design/vuepress-theme-timi/milestones{/number}
+mirror_url: null
+name: vuepress-theme-timi
+network_count: 0
+node_id: MDEwOlJlcG9zaXRvcnkyOTAxNDE2MTY=
+notifications_url: https://api.github.com/repos/Timi-design/vuepress-theme-timi/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
+organization:
+  avatar_url: https://avatars.githubusercontent.com/u/73489052?v=4
+  events_url: https://api.github.com/users/Timi-design/events{/privacy}
+  followers_url: https://api.github.com/users/Timi-design/followers
+  following_url: https://api.github.com/users/Timi-design/following{/other_user}
+  gists_url: https://api.github.com/users/Timi-design/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/Timi-design
+  id: 73489052
+  login: Timi-design
+  node_id: MDEyOk9yZ2FuaXphdGlvbjczNDg5MDUy
+  organizations_url: https://api.github.com/users/Timi-design/orgs
+  received_events_url: https://api.github.com/users/Timi-design/received_events
+  repos_url: https://api.github.com/users/Timi-design/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/Timi-design/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/Timi-design/subscriptions
+  type: Organization
+  url: https://api.github.com/users/Timi-design
+owner:
+  avatar_url: https://avatars.githubusercontent.com/u/73489052?v=4
+  events_url: https://api.github.com/users/Timi-design/events{/privacy}
+  followers_url: https://api.github.com/users/Timi-design/followers
+  following_url: https://api.github.com/users/Timi-design/following{/other_user}
+  gists_url: https://api.github.com/users/Timi-design/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/Timi-design
+  id: 73489052
+  login: Timi-design
+  node_id: MDEyOk9yZ2FuaXphdGlvbjczNDg5MDUy
+  organizations_url: https://api.github.com/users/Timi-design/orgs
+  received_events_url: https://api.github.com/users/Timi-design/received_events
+  repos_url: https://api.github.com/users/Timi-design/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/Timi-design/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/Timi-design/subscriptions
+  type: Organization
+  url: https://api.github.com/users/Timi-design
+permissions:
+  admin: false
+  pull: true
+  push: false
+private: false
+pulls_url: https://api.github.com/repos/Timi-design/vuepress-theme-timi/pulls{/number}
+pushed_at: '2020-10-28T15:14:00Z'
+releases_url: https://api.github.com/repos/Timi-design/vuepress-theme-timi/releases{/id}
+size: 2031
+ssh_url: git@github.com:Timi-design/vuepress-theme-timi.git
+stargazers_count: 0
+stargazers_url: https://api.github.com/repos/Timi-design/vuepress-theme-timi/stargazers
+statuses_url: https://api.github.com/repos/Timi-design/vuepress-theme-timi/statuses/{sha}
+subscribers_count: 1
+subscribers_url: https://api.github.com/repos/Timi-design/vuepress-theme-timi/subscribers
+subscription_url: https://api.github.com/repos/Timi-design/vuepress-theme-timi/subscription
+svn_url: https://github.com/Timi-design/vuepress-theme-timi
+tags_url: https://api.github.com/repos/Timi-design/vuepress-theme-timi/tags
+teams_url: https://api.github.com/repos/Timi-design/vuepress-theme-timi/teams
+temp_clone_token: ''
+trees_url: https://api.github.com/repos/Timi-design/vuepress-theme-timi/git/trees{/sha}
+updated_at: '2020-10-28T15:14:03Z'
+url: https://api.github.com/repos/Timi-design/vuepress-theme-timi
+watchers: 0
+watchers_count: 0
+---
+

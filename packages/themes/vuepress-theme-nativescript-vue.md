@@ -54,7 +54,7 @@ notifications_url: https://api.github.com/repos/nativescript-vue/vuepress-theme-
 open_issues: 0
 open_issues_count: 0
 organization:
-  avatar_url: https://avatars2.githubusercontent.com/u/32681046?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/32681046?v=4
   events_url: https://api.github.com/users/nativescript-vue/events{/privacy}
   followers_url: https://api.github.com/users/nativescript-vue/followers
   following_url: https://api.github.com/users/nativescript-vue/following{/other_user}
@@ -73,7 +73,7 @@ organization:
   type: Organization
   url: https://api.github.com/users/nativescript-vue
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/32681046?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/32681046?v=4
   events_url: https://api.github.com/users/nativescript-vue/events{/privacy}
   followers_url: https://api.github.com/users/nativescript-vue/followers
   following_url: https://api.github.com/users/nativescript-vue/following{/other_user}

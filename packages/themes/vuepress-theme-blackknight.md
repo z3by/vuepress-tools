@@ -1,0 +1,101 @@
+---
+archive_url: https://api.github.com/repos/Magic-zhu/vuepress-theme-BlackKnight/{archive_format}{/ref}
+archived: false
+assignees_url: https://api.github.com/repos/Magic-zhu/vuepress-theme-BlackKnight/assignees{/user}
+blobs_url: https://api.github.com/repos/Magic-zhu/vuepress-theme-BlackKnight/git/blobs{/sha}
+branches_url: https://api.github.com/repos/Magic-zhu/vuepress-theme-BlackKnight/branches{/branch}
+clone_url: https://github.com/Magic-zhu/vuepress-theme-BlackKnight.git
+collaborators_url: https://api.github.com/repos/Magic-zhu/vuepress-theme-BlackKnight/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/Magic-zhu/vuepress-theme-BlackKnight/comments{/number}
+commits_url: https://api.github.com/repos/Magic-zhu/vuepress-theme-BlackKnight/commits{/sha}
+compare_url: https://api.github.com/repos/Magic-zhu/vuepress-theme-BlackKnight/compare/{base}...{head}
+contents_url: https://api.github.com/repos/Magic-zhu/vuepress-theme-BlackKnight/contents/{+path}
+contributors_url: https://api.github.com/repos/Magic-zhu/vuepress-theme-BlackKnight/contributors
+created_at: '2020-11-11T09:13:07Z'
+default_branch: main
+deployments_url: https://api.github.com/repos/Magic-zhu/vuepress-theme-BlackKnight/deployments
+description: a vuepress theme
+disabled: false
+downloads_url: https://api.github.com/repos/Magic-zhu/vuepress-theme-BlackKnight/downloads
+events_url: https://api.github.com/repos/Magic-zhu/vuepress-theme-BlackKnight/events
+fork: false
+forks: 0
+forks_count: 0
+forks_url: https://api.github.com/repos/Magic-zhu/vuepress-theme-BlackKnight/forks
+full_name: Magic-zhu/vuepress-theme-BlackKnight
+git_commits_url: https://api.github.com/repos/Magic-zhu/vuepress-theme-BlackKnight/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/Magic-zhu/vuepress-theme-BlackKnight/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/Magic-zhu/vuepress-theme-BlackKnight/git/tags{/sha}
+git_url: git://github.com/Magic-zhu/vuepress-theme-BlackKnight.git
+has_downloads: true
+has_issues: true
+has_pages: false
+has_projects: true
+has_wiki: true
+homepage: null
+hooks_url: https://api.github.com/repos/Magic-zhu/vuepress-theme-BlackKnight/hooks
+html_url: https://github.com/Magic-zhu/vuepress-theme-BlackKnight
+id: 311918612
+issue_comment_url: https://api.github.com/repos/Magic-zhu/vuepress-theme-BlackKnight/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/Magic-zhu/vuepress-theme-BlackKnight/issues/events{/number}
+issues_url: https://api.github.com/repos/Magic-zhu/vuepress-theme-BlackKnight/issues{/number}
+keys_url: https://api.github.com/repos/Magic-zhu/vuepress-theme-BlackKnight/keys{/key_id}
+labels_url: https://api.github.com/repos/Magic-zhu/vuepress-theme-BlackKnight/labels{/name}
+language: null
+languages_url: https://api.github.com/repos/Magic-zhu/vuepress-theme-BlackKnight/languages
+license: null
+merges_url: https://api.github.com/repos/Magic-zhu/vuepress-theme-BlackKnight/merges
+milestones_url: https://api.github.com/repos/Magic-zhu/vuepress-theme-BlackKnight/milestones{/number}
+mirror_url: null
+name: vuepress-theme-BlackKnight
+network_count: 0
+node_id: MDEwOlJlcG9zaXRvcnkzMTE5MTg2MTI=
+notifications_url: https://api.github.com/repos/Magic-zhu/vuepress-theme-BlackKnight/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
+owner:
+  avatar_url: https://avatars.githubusercontent.com/u/38756566?v=4
+  events_url: https://api.github.com/users/Magic-zhu/events{/privacy}
+  followers_url: https://api.github.com/users/Magic-zhu/followers
+  following_url: https://api.github.com/users/Magic-zhu/following{/other_user}
+  gists_url: https://api.github.com/users/Magic-zhu/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/Magic-zhu
+  id: 38756566
+  login: Magic-zhu
+  node_id: MDQ6VXNlcjM4NzU2NTY2
+  organizations_url: https://api.github.com/users/Magic-zhu/orgs
+  received_events_url: https://api.github.com/users/Magic-zhu/received_events
+  repos_url: https://api.github.com/users/Magic-zhu/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/Magic-zhu/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/Magic-zhu/subscriptions
+  type: User
+  url: https://api.github.com/users/Magic-zhu
+permissions:
+  admin: false
+  pull: true
+  push: false
+private: false
+pulls_url: https://api.github.com/repos/Magic-zhu/vuepress-theme-BlackKnight/pulls{/number}
+pushed_at: '2020-11-11T09:13:09Z'
+releases_url: https://api.github.com/repos/Magic-zhu/vuepress-theme-BlackKnight/releases{/id}
+size: 0
+ssh_url: git@github.com:Magic-zhu/vuepress-theme-BlackKnight.git
+stargazers_count: 0
+stargazers_url: https://api.github.com/repos/Magic-zhu/vuepress-theme-BlackKnight/stargazers
+statuses_url: https://api.github.com/repos/Magic-zhu/vuepress-theme-BlackKnight/statuses/{sha}
+subscribers_count: 1
+subscribers_url: https://api.github.com/repos/Magic-zhu/vuepress-theme-BlackKnight/subscribers
+subscription_url: https://api.github.com/repos/Magic-zhu/vuepress-theme-BlackKnight/subscription
+svn_url: https://github.com/Magic-zhu/vuepress-theme-BlackKnight
+tags_url: https://api.github.com/repos/Magic-zhu/vuepress-theme-BlackKnight/tags
+teams_url: https://api.github.com/repos/Magic-zhu/vuepress-theme-BlackKnight/teams
+temp_clone_token: ''
+trees_url: https://api.github.com/repos/Magic-zhu/vuepress-theme-BlackKnight/git/trees{/sha}
+updated_at: '2020-11-11T09:13:07Z'
+url: https://api.github.com/repos/Magic-zhu/vuepress-theme-BlackKnight
+watchers: 0
+watchers_count: 0
+---
+

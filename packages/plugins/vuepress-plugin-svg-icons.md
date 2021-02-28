@@ -12,7 +12,7 @@ compare_url: https://api.github.com/repos/ntnyq/vuepress-plugin-svg-icons/compar
 contents_url: https://api.github.com/repos/ntnyq/vuepress-plugin-svg-icons/contents/{+path}
 contributors_url: https://api.github.com/repos/ntnyq/vuepress-plugin-svg-icons/contributors
 created_at: '2019-02-27T16:41:49Z'
-default_branch: master
+default_branch: main
 deployments_url: https://api.github.com/repos/ntnyq/vuepress-plugin-svg-icons/deployments
 description: ':crab: SVG sprite plugin for VuePress'
 disabled: false
@@ -29,7 +29,7 @@ git_tags_url: https://api.github.com/repos/ntnyq/vuepress-plugin-svg-icons/git/t
 git_url: git://github.com/ntnyq/vuepress-plugin-svg-icons.git
 has_downloads: true
 has_issues: true
-has_pages: false
+has_pages: true
 has_projects: false
 has_wiki: false
 homepage: https://vp-icon.goyfe.com
@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/ntnyq/vuepress-plugin-svg-icons/
 open_issues: 1
 open_issues_count: 1
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/22659150?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/22659150?v=4
   events_url: https://api.github.com/users/ntnyq/events{/privacy}
   followers_url: https://api.github.com/users/ntnyq/followers
   following_url: https://api.github.com/users/ntnyq/following{/other_user}
@@ -83,11 +83,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/ntnyq/vuepress-plugin-svg-icons/pulls{/number}
-pushed_at: '2020-08-08T20:19:27Z'
+pushed_at: '2021-02-23T07:42:18Z'
 releases_url: https://api.github.com/repos/ntnyq/vuepress-plugin-svg-icons/releases{/id}
-size: 785
+size: 1121
 ssh_url: git@github.com:ntnyq/vuepress-plugin-svg-icons.git
-stargazers_count: 8
+stargazers_count: 13
 stargazers_url: https://api.github.com/repos/ntnyq/vuepress-plugin-svg-icons/stargazers
 statuses_url: https://api.github.com/repos/ntnyq/vuepress-plugin-svg-icons/statuses/{sha}
 subscribers_count: 0
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/ntnyq/vuepress-plugin-svg-icons/tags
 teams_url: https://api.github.com/repos/ntnyq/vuepress-plugin-svg-icons/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/ntnyq/vuepress-plugin-svg-icons/git/trees{/sha}
-updated_at: '2020-08-23T11:44:31Z'
+updated_at: '2021-02-23T07:35:25Z'
 url: https://api.github.com/repos/ntnyq/vuepress-plugin-svg-icons
-watchers: 8
-watchers_count: 8
+watchers: 13
+watchers_count: 13
 ---
 
 # vuepress-plugin-svg-icons

@@ -1,105 +1,105 @@
 ---
-archive_url: https://api.github.com/repos/upcwangying/vuepress-plugin-aplayer/{archive_format}{/ref}
+archive_url: https://api.github.com/repos/realkimmy/vuepress-plugin-aplayer/{archive_format}{/ref}
 archived: false
-assignees_url: https://api.github.com/repos/upcwangying/vuepress-plugin-aplayer/assignees{/user}
-blobs_url: https://api.github.com/repos/upcwangying/vuepress-plugin-aplayer/git/blobs{/sha}
-branches_url: https://api.github.com/repos/upcwangying/vuepress-plugin-aplayer/branches{/branch}
-clone_url: https://github.com/upcwangying/vuepress-plugin-aplayer.git
-collaborators_url: https://api.github.com/repos/upcwangying/vuepress-plugin-aplayer/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/upcwangying/vuepress-plugin-aplayer/comments{/number}
-commits_url: https://api.github.com/repos/upcwangying/vuepress-plugin-aplayer/commits{/sha}
-compare_url: https://api.github.com/repos/upcwangying/vuepress-plugin-aplayer/compare/{base}...{head}
-contents_url: https://api.github.com/repos/upcwangying/vuepress-plugin-aplayer/contents/{+path}
-contributors_url: https://api.github.com/repos/upcwangying/vuepress-plugin-aplayer/contributors
+assignees_url: https://api.github.com/repos/realkimmy/vuepress-plugin-aplayer/assignees{/user}
+blobs_url: https://api.github.com/repos/realkimmy/vuepress-plugin-aplayer/git/blobs{/sha}
+branches_url: https://api.github.com/repos/realkimmy/vuepress-plugin-aplayer/branches{/branch}
+clone_url: https://github.com/realkimmy/vuepress-plugin-aplayer.git
+collaborators_url: https://api.github.com/repos/realkimmy/vuepress-plugin-aplayer/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/realkimmy/vuepress-plugin-aplayer/comments{/number}
+commits_url: https://api.github.com/repos/realkimmy/vuepress-plugin-aplayer/commits{/sha}
+compare_url: https://api.github.com/repos/realkimmy/vuepress-plugin-aplayer/compare/{base}...{head}
+contents_url: https://api.github.com/repos/realkimmy/vuepress-plugin-aplayer/contents/{+path}
+contributors_url: https://api.github.com/repos/realkimmy/vuepress-plugin-aplayer/contributors
 created_at: '2020-02-14T12:07:38Z'
 default_branch: master
-deployments_url: https://api.github.com/repos/upcwangying/vuepress-plugin-aplayer/deployments
+deployments_url: https://api.github.com/repos/realkimmy/vuepress-plugin-aplayer/deployments
 description: aplayer for vuepress. Live demo(https://next.chenyifaer.com/category1/2020/092101.html)
 disabled: false
-downloads_url: https://api.github.com/repos/upcwangying/vuepress-plugin-aplayer/downloads
-events_url: https://api.github.com/repos/upcwangying/vuepress-plugin-aplayer/events
+downloads_url: https://api.github.com/repos/realkimmy/vuepress-plugin-aplayer/downloads
+events_url: https://api.github.com/repos/realkimmy/vuepress-plugin-aplayer/events
 fork: false
 forks: 0
 forks_count: 0
-forks_url: https://api.github.com/repos/upcwangying/vuepress-plugin-aplayer/forks
-full_name: upcwangying/vuepress-plugin-aplayer
-git_commits_url: https://api.github.com/repos/upcwangying/vuepress-plugin-aplayer/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/upcwangying/vuepress-plugin-aplayer/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/upcwangying/vuepress-plugin-aplayer/git/tags{/sha}
-git_url: git://github.com/upcwangying/vuepress-plugin-aplayer.git
+forks_url: https://api.github.com/repos/realkimmy/vuepress-plugin-aplayer/forks
+full_name: realkimmy/vuepress-plugin-aplayer
+git_commits_url: https://api.github.com/repos/realkimmy/vuepress-plugin-aplayer/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/realkimmy/vuepress-plugin-aplayer/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/realkimmy/vuepress-plugin-aplayer/git/tags{/sha}
+git_url: git://github.com/realkimmy/vuepress-plugin-aplayer.git
 has_downloads: true
 has_issues: true
 has_pages: false
 has_projects: true
 has_wiki: true
 homepage: ''
-hooks_url: https://api.github.com/repos/upcwangying/vuepress-plugin-aplayer/hooks
-html_url: https://github.com/upcwangying/vuepress-plugin-aplayer
+hooks_url: https://api.github.com/repos/realkimmy/vuepress-plugin-aplayer/hooks
+html_url: https://github.com/realkimmy/vuepress-plugin-aplayer
 id: 240499776
-issue_comment_url: https://api.github.com/repos/upcwangying/vuepress-plugin-aplayer/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/upcwangying/vuepress-plugin-aplayer/issues/events{/number}
-issues_url: https://api.github.com/repos/upcwangying/vuepress-plugin-aplayer/issues{/number}
-keys_url: https://api.github.com/repos/upcwangying/vuepress-plugin-aplayer/keys{/key_id}
-labels_url: https://api.github.com/repos/upcwangying/vuepress-plugin-aplayer/labels{/name}
+issue_comment_url: https://api.github.com/repos/realkimmy/vuepress-plugin-aplayer/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/realkimmy/vuepress-plugin-aplayer/issues/events{/number}
+issues_url: https://api.github.com/repos/realkimmy/vuepress-plugin-aplayer/issues{/number}
+keys_url: https://api.github.com/repos/realkimmy/vuepress-plugin-aplayer/keys{/key_id}
+labels_url: https://api.github.com/repos/realkimmy/vuepress-plugin-aplayer/labels{/name}
 language: JavaScript
-languages_url: https://api.github.com/repos/upcwangying/vuepress-plugin-aplayer/languages
+languages_url: https://api.github.com/repos/realkimmy/vuepress-plugin-aplayer/languages
 license:
   key: mit
   name: MIT License
   node_id: MDc6TGljZW5zZTEz
   spdx_id: MIT
   url: https://api.github.com/licenses/mit
-merges_url: https://api.github.com/repos/upcwangying/vuepress-plugin-aplayer/merges
-milestones_url: https://api.github.com/repos/upcwangying/vuepress-plugin-aplayer/milestones{/number}
+merges_url: https://api.github.com/repos/realkimmy/vuepress-plugin-aplayer/merges
+milestones_url: https://api.github.com/repos/realkimmy/vuepress-plugin-aplayer/milestones{/number}
 mirror_url: null
 name: vuepress-plugin-aplayer
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyNDA0OTk3NzY=
-notifications_url: https://api.github.com/repos/upcwangying/vuepress-plugin-aplayer/notifications{?since,all,participating}
+notifications_url: https://api.github.com/repos/realkimmy/vuepress-plugin-aplayer/notifications{?since,all,participating}
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars1.githubusercontent.com/u/19725091?v=4
-  events_url: https://api.github.com/users/upcwangying/events{/privacy}
-  followers_url: https://api.github.com/users/upcwangying/followers
-  following_url: https://api.github.com/users/upcwangying/following{/other_user}
-  gists_url: https://api.github.com/users/upcwangying/gists{/gist_id}
+  avatar_url: https://avatars.githubusercontent.com/u/19725091?v=4
+  events_url: https://api.github.com/users/realkimmy/events{/privacy}
+  followers_url: https://api.github.com/users/realkimmy/followers
+  following_url: https://api.github.com/users/realkimmy/following{/other_user}
+  gists_url: https://api.github.com/users/realkimmy/gists{/gist_id}
   gravatar_id: ''
-  html_url: https://github.com/upcwangying
+  html_url: https://github.com/realkimmy
   id: 19725091
-  login: upcwangying
+  login: realkimmy
   node_id: MDQ6VXNlcjE5NzI1MDkx
-  organizations_url: https://api.github.com/users/upcwangying/orgs
-  received_events_url: https://api.github.com/users/upcwangying/received_events
-  repos_url: https://api.github.com/users/upcwangying/repos
+  organizations_url: https://api.github.com/users/realkimmy/orgs
+  received_events_url: https://api.github.com/users/realkimmy/received_events
+  repos_url: https://api.github.com/users/realkimmy/repos
   site_admin: false
-  starred_url: https://api.github.com/users/upcwangying/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/upcwangying/subscriptions
+  starred_url: https://api.github.com/users/realkimmy/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/realkimmy/subscriptions
   type: User
-  url: https://api.github.com/users/upcwangying
+  url: https://api.github.com/users/realkimmy
 permissions:
   admin: false
   pull: true
   push: false
 private: false
-pulls_url: https://api.github.com/repos/upcwangying/vuepress-plugin-aplayer/pulls{/number}
+pulls_url: https://api.github.com/repos/realkimmy/vuepress-plugin-aplayer/pulls{/number}
 pushed_at: '2020-02-25T07:24:17Z'
-releases_url: https://api.github.com/repos/upcwangying/vuepress-plugin-aplayer/releases{/id}
+releases_url: https://api.github.com/repos/realkimmy/vuepress-plugin-aplayer/releases{/id}
 size: 154
-ssh_url: git@github.com:upcwangying/vuepress-plugin-aplayer.git
+ssh_url: git@github.com:realkimmy/vuepress-plugin-aplayer.git
 stargazers_count: 0
-stargazers_url: https://api.github.com/repos/upcwangying/vuepress-plugin-aplayer/stargazers
-statuses_url: https://api.github.com/repos/upcwangying/vuepress-plugin-aplayer/statuses/{sha}
+stargazers_url: https://api.github.com/repos/realkimmy/vuepress-plugin-aplayer/stargazers
+statuses_url: https://api.github.com/repos/realkimmy/vuepress-plugin-aplayer/statuses/{sha}
 subscribers_count: 2
-subscribers_url: https://api.github.com/repos/upcwangying/vuepress-plugin-aplayer/subscribers
-subscription_url: https://api.github.com/repos/upcwangying/vuepress-plugin-aplayer/subscription
-svn_url: https://github.com/upcwangying/vuepress-plugin-aplayer
-tags_url: https://api.github.com/repos/upcwangying/vuepress-plugin-aplayer/tags
-teams_url: https://api.github.com/repos/upcwangying/vuepress-plugin-aplayer/teams
+subscribers_url: https://api.github.com/repos/realkimmy/vuepress-plugin-aplayer/subscribers
+subscription_url: https://api.github.com/repos/realkimmy/vuepress-plugin-aplayer/subscription
+svn_url: https://github.com/realkimmy/vuepress-plugin-aplayer
+tags_url: https://api.github.com/repos/realkimmy/vuepress-plugin-aplayer/tags
+teams_url: https://api.github.com/repos/realkimmy/vuepress-plugin-aplayer/teams
 temp_clone_token: ''
-trees_url: https://api.github.com/repos/upcwangying/vuepress-plugin-aplayer/git/trees{/sha}
+trees_url: https://api.github.com/repos/realkimmy/vuepress-plugin-aplayer/git/trees{/sha}
 updated_at: '2020-05-08T06:51:19Z'
-url: https://api.github.com/repos/upcwangying/vuepress-plugin-aplayer
+url: https://api.github.com/repos/realkimmy/vuepress-plugin-aplayer
 watchers: 0
 watchers_count: 0
 ---

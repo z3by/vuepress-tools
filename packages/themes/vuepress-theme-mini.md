@@ -14,13 +14,13 @@ contributors_url: https://api.github.com/repos/wxsms/vuepress-theme-mini/contrib
 created_at: '2019-10-25T08:15:06Z'
 default_branch: master
 deployments_url: https://api.github.com/repos/wxsms/vuepress-theme-mini/deployments
-description: ':art: A minimal blogging theme of VuePress.'
+description: ':art:  A minimal blogging theme of VuePress.'
 disabled: false
 downloads_url: https://api.github.com/repos/wxsms/vuepress-theme-mini/downloads
 events_url: https://api.github.com/repos/wxsms/vuepress-theme-mini/events
 fork: false
-forks: 0
-forks_count: 0
+forks: 1
+forks_count: 1
 forks_url: https://api.github.com/repos/wxsms/vuepress-theme-mini/forks
 full_name: wxsms/vuepress-theme-mini
 git_commits_url: https://api.github.com/repos/wxsms/vuepress-theme-mini/git/commits{/sha}
@@ -29,10 +29,10 @@ git_tags_url: https://api.github.com/repos/wxsms/vuepress-theme-mini/git/tags{/s
 git_url: git://github.com/wxsms/vuepress-theme-mini.git
 has_downloads: true
 has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
+has_pages: true
+has_projects: false
+has_wiki: false
+homepage: https://vuepress-theme-mini.wxsm.space
 hooks_url: https://api.github.com/repos/wxsms/vuepress-theme-mini/hooks
 html_url: https://github.com/wxsms/vuepress-theme-mini
 id: 217485628
@@ -53,13 +53,13 @@ merges_url: https://api.github.com/repos/wxsms/vuepress-theme-mini/merges
 milestones_url: https://api.github.com/repos/wxsms/vuepress-theme-mini/milestones{/number}
 mirror_url: null
 name: vuepress-theme-mini
-network_count: 0
+network_count: 1
 node_id: MDEwOlJlcG9zaXRvcnkyMTc0ODU2Mjg=
 notifications_url: https://api.github.com/repos/wxsms/vuepress-theme-mini/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
+open_issues: 1
+open_issues_count: 1
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/5960988?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/5960988?v=4
   events_url: https://api.github.com/users/wxsms/events{/privacy}
   followers_url: https://api.github.com/users/wxsms/followers
   following_url: https://api.github.com/users/wxsms/following{/other_user}
@@ -83,11 +83,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/wxsms/vuepress-theme-mini/pulls{/number}
-pushed_at: '2020-08-25T09:51:20Z'
+pushed_at: '2021-02-20T04:28:57Z'
 releases_url: https://api.github.com/repos/wxsms/vuepress-theme-mini/releases{/id}
-size: 57
+size: 743
 ssh_url: git@github.com:wxsms/vuepress-theme-mini.git
-stargazers_count: 2
+stargazers_count: 12
 stargazers_url: https://api.github.com/repos/wxsms/vuepress-theme-mini/stargazers
 statuses_url: https://api.github.com/repos/wxsms/vuepress-theme-mini/statuses/{sha}
 subscribers_count: 1
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/wxsms/vuepress-theme-mini/tags
 teams_url: https://api.github.com/repos/wxsms/vuepress-theme-mini/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/wxsms/vuepress-theme-mini/git/trees{/sha}
-updated_at: '2020-08-25T09:51:22Z'
+updated_at: '2021-02-21T03:42:07Z'
 url: https://api.github.com/repos/wxsms/vuepress-theme-mini
-watchers: 2
-watchers_count: 2
+watchers: 12
+watchers_count: 12
 ---
 
 # vuepress-theme-mini
@@ -118,20 +118,21 @@ A minimal blogging theme of VuePress.
 
 ## Example
 
-* [My Personal blog](https://wxsm.space/) ([Source](https://github.com/wxsms/blog))
+* [https://vuepress-theme-mini.wxsm.space](https://vuepress-theme-mini.wxsm.space)
+* [https://wxsm.space](https://wxsm.space/)
 
 ## Install
 
-NPM:
-
 ```bash
-npm install vuepress-theme-mini --save-dev
-```
+# NPM registry:
+npm install vuepress-theme-mini -D
+# or
+yarn add vuepress-theme-mini -D
 
-Yarn:
-
-```bash
-yarn add vuepress-theme-mini --dev
+# GitHub registry:
+npm install @wxsms/vuepress-theme-mini -D
+# or
+yarn add @wxsms/vuepress-theme-mini -D
 ```
 
 ## Usage
@@ -143,6 +144,8 @@ module.exports = {
   // ...
   theme: 'mini',
   themeConfig: {
+    hostname: 'https://xxx', // provide to enable sitemap and rss feed generation
+    ga: 'xxx', // provide to enable google analysis
     siteName: '...', // site name at navbar
     author: '...', // author name at footer
     // enable navbar and add links
@@ -179,6 +182,13 @@ Display an article archive base on the folder structure or `articleIndex` param 
 
 For example: if you place a `README.md` with `layout: ArticleList` inside `posts` folder, then it will content all articles inside `posts` folder. You can also place it under root folder with `articleIndex: '/posts'` frontmatter.
 
+### ArticleWithExcerptPager
+
+Display and article pager with excerpts, you probably want to use this on the home page.
+
+## Changelog
+
+See [releases](https://github.com/wxsms/vuepress-theme-mini/releases).
 
 ## License
 

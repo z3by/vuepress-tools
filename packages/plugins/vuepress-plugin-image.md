@@ -52,10 +52,10 @@ name: vuepress-plugin-image
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyMDg3NzczODY=
 notifications_url: https://api.github.com/repos/im/vuepress-plugin-image/notifications{?since,all,participating}
-open_issues: 5
-open_issues_count: 5
+open_issues: 6
+open_issues_count: 6
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/12029165?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/12029165?v=4
   events_url: https://api.github.com/users/im/events{/privacy}
   followers_url: https://api.github.com/users/im/followers
   following_url: https://api.github.com/users/im/following{/other_user}
@@ -79,11 +79,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/im/vuepress-plugin-image/pulls{/number}
-pushed_at: '2020-08-07T23:34:46Z'
+pushed_at: '2020-09-10T13:22:49Z'
 releases_url: https://api.github.com/repos/im/vuepress-plugin-image/releases{/id}
-size: 1040
+size: 1149
 ssh_url: git@github.com:im/vuepress-plugin-image.git
-stargazers_count: 0
+stargazers_count: 4
 stargazers_url: https://api.github.com/repos/im/vuepress-plugin-image/stargazers
 statuses_url: https://api.github.com/repos/im/vuepress-plugin-image/statuses/{sha}
 subscribers_count: 0
@@ -94,10 +94,10 @@ tags_url: https://api.github.com/repos/im/vuepress-plugin-image/tags
 teams_url: https://api.github.com/repos/im/vuepress-plugin-image/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/im/vuepress-plugin-image/git/trees{/sha}
-updated_at: '2019-09-17T11:55:40Z'
+updated_at: '2021-02-18T03:02:21Z'
 url: https://api.github.com/repos/im/vuepress-plugin-image
-watchers: 0
-watchers_count: 0
+watchers: 4
+watchers_count: 4
 ---
 
 # vuepress-plugin-image

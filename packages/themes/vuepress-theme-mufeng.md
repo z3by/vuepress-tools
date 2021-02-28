@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/zhangximufeng/vuepress-theme-muf
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars1.githubusercontent.com/u/20850932?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/20850932?v=4
   events_url: https://api.github.com/users/zhangximufeng/events{/privacy}
   followers_url: https://api.github.com/users/zhangximufeng/followers
   following_url: https://api.github.com/users/zhangximufeng/following{/other_user}
@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/zhangximufeng/vuepress-theme-mufeng/pulls{/number}
-pushed_at: '2019-02-26T15:07:20Z'
+pushed_at: '2020-09-22T06:42:54Z'
 releases_url: https://api.github.com/repos/zhangximufeng/vuepress-theme-mufeng/releases{/id}
-size: 86
+size: 78
 ssh_url: git@github.com:zhangximufeng/vuepress-theme-mufeng.git
 stargazers_count: 14
 stargazers_url: https://api.github.com/repos/zhangximufeng/vuepress-theme-mufeng/stargazers
@@ -98,14 +98,15 @@ tags_url: https://api.github.com/repos/zhangximufeng/vuepress-theme-mufeng/tags
 teams_url: https://api.github.com/repos/zhangximufeng/vuepress-theme-mufeng/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/zhangximufeng/vuepress-theme-mufeng/git/trees{/sha}
-updated_at: '2020-02-14T10:08:55Z'
+updated_at: '2020-09-22T06:42:57Z'
 url: https://api.github.com/repos/zhangximufeng/vuepress-theme-mufeng
 watchers: 14
 watchers_count: 14
 ---
 
-# vuepress-theme-mufeng
-[我的博客](https://zhangximufeng.github.io)
+[![vuepress-theme-mufeng](https://github-readme-stats.vercel.app/api?username=zhangximufeng)](https://zhangximufeng.github.io)
+## vuepress-theme-mufeng
+[demo](https://zhangximufeng.github.io)
 ## Installation
 
 ```bash

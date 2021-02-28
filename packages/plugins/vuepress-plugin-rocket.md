@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/lvqq/vuepress-plugin-rocket/noti
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/29809148?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/29809148?v=4
   events_url: https://api.github.com/users/lvqq/events{/privacy}
   followers_url: https://api.github.com/users/lvqq/followers
   following_url: https://api.github.com/users/lvqq/following{/other_user}

@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/destinytaoer/vuepress-theme-toma
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars0.githubusercontent.com/u/27852774?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/27852774?v=4
   events_url: https://api.github.com/users/destinytaoer/events{/privacy}
   followers_url: https://api.github.com/users/destinytaoer/followers
   following_url: https://api.github.com/users/destinytaoer/following{/other_user}
@@ -98,7 +98,7 @@ tags_url: https://api.github.com/repos/destinytaoer/vuepress-theme-tomato/tags
 teams_url: https://api.github.com/repos/destinytaoer/vuepress-theme-tomato/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/destinytaoer/vuepress-theme-tomato/git/trees{/sha}
-updated_at: '2019-10-27T04:27:14Z'
+updated_at: '2020-11-23T12:37:32Z'
 url: https://api.github.com/repos/destinytaoer/vuepress-theme-tomato
 watchers: 3
 watchers_count: 3

@@ -51,10 +51,10 @@ name: vuepress-theme-bobo
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyMDIyOTQwMTA=
 notifications_url: https://api.github.com/repos/shenxiang11/vuepress-theme-bobo/notifications{?since,all,participating}
-open_issues: 5
-open_issues_count: 5
+open_issues: 7
+open_issues_count: 7
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/17292115?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/17292115?v=4
   events_url: https://api.github.com/users/shenxiang11/events{/privacy}
   followers_url: https://api.github.com/users/shenxiang11/followers
   following_url: https://api.github.com/users/shenxiang11/following{/other_user}
@@ -78,9 +78,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/shenxiang11/vuepress-theme-bobo/pulls{/number}
-pushed_at: '2020-08-07T23:25:55Z'
+pushed_at: '2020-12-11T18:26:32Z'
 releases_url: https://api.github.com/repos/shenxiang11/vuepress-theme-bobo/releases{/id}
-size: 452
+size: 604
 ssh_url: git@github.com:shenxiang11/vuepress-theme-bobo.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/shenxiang11/vuepress-theme-bobo/stargazers

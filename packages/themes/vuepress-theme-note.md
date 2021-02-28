@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/Liugq5713/vuepress-theme-note/no
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars0.githubusercontent.com/u/23250172?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/23250172?v=4
   events_url: https://api.github.com/users/Liugq5713/events{/privacy}
   followers_url: https://api.github.com/users/Liugq5713/followers
   following_url: https://api.github.com/users/Liugq5713/following{/other_user}
@@ -90,7 +90,7 @@ ssh_url: git@github.com:Liugq5713/vuepress-theme-note.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/Liugq5713/vuepress-theme-note/stargazers
 statuses_url: https://api.github.com/repos/Liugq5713/vuepress-theme-note/statuses/{sha}
-subscribers_count: 0
+subscribers_count: 1
 subscribers_url: https://api.github.com/repos/Liugq5713/vuepress-theme-note/subscribers
 subscription_url: https://api.github.com/repos/Liugq5713/vuepress-theme-note/subscription
 svn_url: https://github.com/Liugq5713/vuepress-theme-note

@@ -54,7 +54,7 @@ notifications_url: https://api.github.com/repos/upeoe/vuepress-theme-luna/notifi
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars3.githubusercontent.com/u/11611673?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/11611673?v=4
   events_url: https://api.github.com/users/upeoe/events{/privacy}
   followers_url: https://api.github.com/users/upeoe/followers
   following_url: https://api.github.com/users/upeoe/following{/other_user}

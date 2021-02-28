@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/nine-theme/vuepress-plugin-back-to-top/downloads
 events_url: https://api.github.com/repos/nine-theme/vuepress-plugin-back-to-top/events
 fork: false
-forks: 0
-forks_count: 0
+forks: 1
+forks_count: 1
 forks_url: https://api.github.com/repos/nine-theme/vuepress-plugin-back-to-top/forks
 full_name: nine-theme/vuepress-plugin-back-to-top
 git_commits_url: https://api.github.com/repos/nine-theme/vuepress-plugin-back-to-top/git/commits{/sha}
@@ -53,13 +53,13 @@ merges_url: https://api.github.com/repos/nine-theme/vuepress-plugin-back-to-top/
 milestones_url: https://api.github.com/repos/nine-theme/vuepress-plugin-back-to-top/milestones{/number}
 mirror_url: null
 name: vuepress-plugin-back-to-top
-network_count: 0
+network_count: 1
 node_id: MDEwOlJlcG9zaXRvcnkyMzMwNDkwNDY=
 notifications_url: https://api.github.com/repos/nine-theme/vuepress-plugin-back-to-top/notifications{?since,all,participating}
 open_issues: 0
 open_issues_count: 0
 organization:
-  avatar_url: https://avatars1.githubusercontent.com/u/64388301?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/64388301?v=4
   events_url: https://api.github.com/users/nine-theme/events{/privacy}
   followers_url: https://api.github.com/users/nine-theme/followers
   following_url: https://api.github.com/users/nine-theme/following{/other_user}
@@ -78,7 +78,7 @@ organization:
   type: Organization
   url: https://api.github.com/users/nine-theme
 owner:
-  avatar_url: https://avatars1.githubusercontent.com/u/64388301?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/64388301?v=4
   events_url: https://api.github.com/users/nine-theme/events{/privacy}
   followers_url: https://api.github.com/users/nine-theme/followers
   following_url: https://api.github.com/users/nine-theme/following{/other_user}
@@ -102,9 +102,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/nine-theme/vuepress-plugin-back-to-top/pulls{/number}
-pushed_at: '2020-08-20T11:36:24Z'
+pushed_at: '2020-09-24T12:53:21Z'
 releases_url: https://api.github.com/repos/nine-theme/vuepress-plugin-back-to-top/releases{/id}
-size: 51
+size: 184
 ssh_url: git@github.com:nine-theme/vuepress-plugin-back-to-top.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/nine-theme/vuepress-plugin-back-to-top/stargazers
@@ -117,30 +117,30 @@ tags_url: https://api.github.com/repos/nine-theme/vuepress-plugin-back-to-top/ta
 teams_url: https://api.github.com/repos/nine-theme/vuepress-plugin-back-to-top/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/nine-theme/vuepress-plugin-back-to-top/git/trees{/sha}
-updated_at: '2020-08-20T11:36:27Z'
+updated_at: '2020-09-24T12:53:24Z'
 url: https://api.github.com/repos/nine-theme/vuepress-plugin-back-to-top
 watchers: 0
 watchers_count: 0
 ---
 
-# plugin-back-to-top
-![GitHub last commit](https://img.shields.io/github/last-commit/NineSwordsMonster/vuepress-plugin-back-to-top)
+# @nine-theme/vuepress-plugin-back-to-top
+![GitHub last commit](https://img.shields.io/github/last-commit/nine-theme/vuepress-plugin-back-to-top) 
+![npm (scoped)](https://img.shields.io/npm/v/@nine-theme/vuepress-plugin-back-to-top) 
+![npm](https://img.shields.io/npm/dt/@nine-theme/vuepress-plugin-back-to-top) 
+![NPM](https://img.shields.io/npm/l/@nine-theme/vuepress-plugin-back-to-top)
 
-![NPM](https://img.shields.io/npm/l/@nines/vuepress-plugin-back-to-top)
-![npm (scoped)](https://img.shields.io/npm/v/@nines/vuepress-plugin-back-to-top)
-![npm](https://img.shields.io/npm/dt/@nines/vuepress-plugin-back-to-top)
-
+---
 > Back-to-top plugin for vuepress
 
 ## 使用
 
 |使用位置|值|
 |-|-|
-|plugin name|@nines/vuepress-plugin-back-to-top|
+|plugin name|@nine-theme/vuepress-plugin-back-to-top|
 |component name|BackToTop（主题开发时使用）|
 
 ```sh
-npm i @nines/vuepress-plugin-back-to-top
+npm i @nine-theme/vuepress-plugin-back-to-top
 ```
 
 ## 参数

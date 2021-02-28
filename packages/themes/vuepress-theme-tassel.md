@@ -54,7 +54,7 @@ notifications_url: https://api.github.com/repos/hirCodd/vuepress-theme-tassel/no
 open_issues: 1
 open_issues_count: 1
 owner:
-  avatar_url: https://avatars3.githubusercontent.com/u/20184263?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/20184263?v=4
   events_url: https://api.github.com/users/hirCodd/events{/privacy}
   followers_url: https://api.github.com/users/hirCodd/followers
   following_url: https://api.github.com/users/hirCodd/following{/other_user}

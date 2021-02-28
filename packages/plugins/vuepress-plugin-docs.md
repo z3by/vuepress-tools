@@ -54,7 +54,7 @@ notifications_url: https://api.github.com/repos/xiongchengqing/vuepress-plugin-d
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars1.githubusercontent.com/u/1636616?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/1636616?v=4
   events_url: https://api.github.com/users/xiongchengqing/events{/privacy}
   followers_url: https://api.github.com/users/xiongchengqing/followers
   following_url: https://api.github.com/users/xiongchengqing/following{/other_user}

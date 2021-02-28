@@ -20,8 +20,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/wensonsmith/vuepress-theme-seeker/downloads
 events_url: https://api.github.com/repos/wensonsmith/vuepress-theme-seeker/events
 fork: false
-forks: 3
-forks_count: 3
+forks: 6
+forks_count: 6
 forks_url: https://api.github.com/repos/wensonsmith/vuepress-theme-seeker/forks
 full_name: wensonsmith/vuepress-theme-seeker
 git_commits_url: https://api.github.com/repos/wensonsmith/vuepress-theme-seeker/git/commits{/sha}
@@ -54,13 +54,13 @@ merges_url: https://api.github.com/repos/wensonsmith/vuepress-theme-seeker/merge
 milestones_url: https://api.github.com/repos/wensonsmith/vuepress-theme-seeker/milestones{/number}
 mirror_url: null
 name: vuepress-theme-seeker
-network_count: 3
+network_count: 6
 node_id: MDEwOlJlcG9zaXRvcnkxOTE0ODUxODI=
 notifications_url: https://api.github.com/repos/wensonsmith/vuepress-theme-seeker/notifications{?since,all,participating}
-open_issues: 12
-open_issues_count: 12
+open_issues: 14
+open_issues_count: 14
 owner:
-  avatar_url: https://avatars1.githubusercontent.com/u/2544185?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/2544185?v=4
   events_url: https://api.github.com/users/wensonsmith/events{/privacy}
   followers_url: https://api.github.com/users/wensonsmith/followers
   following_url: https://api.github.com/users/wensonsmith/following{/other_user}
@@ -84,11 +84,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/wensonsmith/vuepress-theme-seeker/pulls{/number}
-pushed_at: '2020-08-07T23:35:39Z'
+pushed_at: '2020-12-11T21:44:11Z'
 releases_url: https://api.github.com/repos/wensonsmith/vuepress-theme-seeker/releases{/id}
-size: 749
+size: 1019
 ssh_url: git@github.com:wensonsmith/vuepress-theme-seeker.git
-stargazers_count: 43
+stargazers_count: 50
 stargazers_url: https://api.github.com/repos/wensonsmith/vuepress-theme-seeker/stargazers
 statuses_url: https://api.github.com/repos/wensonsmith/vuepress-theme-seeker/statuses/{sha}
 subscribers_count: 0
@@ -99,10 +99,10 @@ tags_url: https://api.github.com/repos/wensonsmith/vuepress-theme-seeker/tags
 teams_url: https://api.github.com/repos/wensonsmith/vuepress-theme-seeker/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/wensonsmith/vuepress-theme-seeker/git/trees{/sha}
-updated_at: '2020-08-22T11:38:35Z'
+updated_at: '2021-02-25T09:01:14Z'
 url: https://api.github.com/repos/wensonsmith/vuepress-theme-seeker
-watchers: 43
-watchers_count: 43
+watchers: 50
+watchers_count: 50
 ---
 
 # Seeker

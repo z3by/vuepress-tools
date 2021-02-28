@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/FriendlyUser/vuepress-theme-cool-starter/downloads
 events_url: https://api.github.com/repos/FriendlyUser/vuepress-theme-cool-starter/events
 fork: false
-forks: 27
-forks_count: 27
+forks: 26
+forks_count: 26
 forks_url: https://api.github.com/repos/FriendlyUser/vuepress-theme-cool-starter/forks
 full_name: FriendlyUser/vuepress-theme-cool-starter
 git_commits_url: https://api.github.com/repos/FriendlyUser/vuepress-theme-cool-starter/git/commits{/sha}
@@ -53,13 +53,13 @@ merges_url: https://api.github.com/repos/FriendlyUser/vuepress-theme-cool-starte
 milestones_url: https://api.github.com/repos/FriendlyUser/vuepress-theme-cool-starter/milestones{/number}
 mirror_url: null
 name: vuepress-theme-cool-starter
-network_count: 27
+network_count: 26
 node_id: MDEwOlJlcG9zaXRvcnkxNTcyODE0MjY=
 notifications_url: https://api.github.com/repos/FriendlyUser/vuepress-theme-cool-starter/notifications{?since,all,participating}
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars0.githubusercontent.com/u/13860264?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/13860264?v=4
   events_url: https://api.github.com/users/FriendlyUser/events{/privacy}
   followers_url: https://api.github.com/users/FriendlyUser/followers
   following_url: https://api.github.com/users/FriendlyUser/following{/other_user}
@@ -83,11 +83,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/FriendlyUser/vuepress-theme-cool-starter/pulls{/number}
-pushed_at: '2020-08-23T19:11:47Z'
+pushed_at: '2021-02-20T15:31:42Z'
 releases_url: https://api.github.com/repos/FriendlyUser/vuepress-theme-cool-starter/releases{/id}
-size: 8386
+size: 11022
 ssh_url: git@github.com:FriendlyUser/vuepress-theme-cool-starter.git
-stargazers_count: 53
+stargazers_count: 61
 stargazers_url: https://api.github.com/repos/FriendlyUser/vuepress-theme-cool-starter/stargazers
 statuses_url: https://api.github.com/repos/FriendlyUser/vuepress-theme-cool-starter/statuses/{sha}
 subscribers_count: 1
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/FriendlyUser/vuepress-theme-cool-starter/
 teams_url: https://api.github.com/repos/FriendlyUser/vuepress-theme-cool-starter/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/FriendlyUser/vuepress-theme-cool-starter/git/trees{/sha}
-updated_at: '2020-08-23T18:55:16Z'
+updated_at: '2021-02-23T05:53:50Z'
 url: https://api.github.com/repos/FriendlyUser/vuepress-theme-cool-starter
-watchers: 53
-watchers_count: 53
+watchers: 61
+watchers_count: 61
 ---
 
 ---
@@ -115,13 +115,14 @@ features:
   details: Leverage chartjs and katex 
 - title: Diagramming tools
   details: Integrated with mermaid and plantuml
-footer: MIT Licensed | Copyright © 2019-present David Li
+footer: MIT Licensed | Copyright © 2020-present David Li
 ---
 
 
 ## Disclaimer
 
-Currently updated to Vuepress theme V1, issues may arise.
+As of `vuepress@1.7.1` I cannot get this starter template running with vuepress installed globally, it throws an error message for me.
+
 
 ## ReadMe
 
@@ -133,7 +134,9 @@ To install:
 
 `npm install`
 
-To run:
+To run with vuepress installed locally:
+
+`npm install vuepress --save-dev`
 
 `npm run docs:dev`
 
@@ -143,3 +146,13 @@ To run:
 Most of the customization is done in `config.js`, automatic navbar and sidebar navigation is available in `config-other.js`
 
 Some other good vuepress examples can be found at [vuepress-examples](https://vuepress-examples.netlify.com/)
+
+
+
+If you would like to motivate me to spend more time improving open source projects please consider donating.
+
+[![Donate with Ethereum](https://en.cryptobadges.io/badge/big/0x9d18acAB9Fe749Cbf899B2FD63Bf25e64829bbF3)](https://en.cryptobadges.io/donate/0x9d18acAB9Fe749Cbf899B2FD63Bf25e64829bbF3)
+
+[![Donate with Bitcoin](https://en.cryptobadges.io/badge/big/1BMWhjCrTE3Dn94oHnrk6XMZAS3hjq3vdD)](https://en.cryptobadges.io/donate/1BMWhjCrTE3Dn94oHnrk6XMZAS3hjq3vdD)
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=Z6M6Y83D3URSU&item_name=Motivating+me+to+continue+to+produce+open+source+projects&currency_code=CAD)

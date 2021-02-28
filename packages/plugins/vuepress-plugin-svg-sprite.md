@@ -60,7 +60,7 @@ notifications_url: https://api.github.com/repos/xiaoluoboding/vuepress-plugin-sv
 open_issues: 1
 open_issues_count: 1
 owner:
-  avatar_url: https://avatars0.githubusercontent.com/u/6118824?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/6118824?v=4
   events_url: https://api.github.com/users/xiaoluoboding/events{/privacy}
   followers_url: https://api.github.com/users/xiaoluoboding/followers
   following_url: https://api.github.com/users/xiaoluoboding/following{/other_user}
@@ -88,7 +88,7 @@ pushed_at: '2020-07-19T22:46:46Z'
 releases_url: https://api.github.com/repos/xiaoluoboding/vuepress-plugin-svg-sprite/releases{/id}
 size: 49
 ssh_url: git@github.com:xiaoluoboding/vuepress-plugin-svg-sprite.git
-stargazers_count: 0
+stargazers_count: 1
 stargazers_url: https://api.github.com/repos/xiaoluoboding/vuepress-plugin-svg-sprite/stargazers
 statuses_url: https://api.github.com/repos/xiaoluoboding/vuepress-plugin-svg-sprite/statuses/{sha}
 subscribers_count: 1
@@ -99,10 +99,10 @@ tags_url: https://api.github.com/repos/xiaoluoboding/vuepress-plugin-svg-sprite/
 teams_url: https://api.github.com/repos/xiaoluoboding/vuepress-plugin-svg-sprite/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/xiaoluoboding/vuepress-plugin-svg-sprite/git/trees{/sha}
-updated_at: '2020-03-20T09:22:39Z'
+updated_at: '2020-09-18T06:25:21Z'
 url: https://api.github.com/repos/xiaoluoboding/vuepress-plugin-svg-sprite
-watchers: 0
-watchers_count: 0
+watchers: 1
+watchers_count: 1
 ---
 
 # Vuepress Plugin Svg Sprite

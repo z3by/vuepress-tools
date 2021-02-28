@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/sylvainpolletvillard/vuepress-pl
 open_issues: 2
 open_issues_count: 2
 owner:
-  avatar_url: https://avatars3.githubusercontent.com/u/566536?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/566536?v=4
   events_url: https://api.github.com/users/sylvainpolletvillard/events{/privacy}
   followers_url: https://api.github.com/users/sylvainpolletvillard/followers
   following_url: https://api.github.com/users/sylvainpolletvillard/following{/other_user}
@@ -90,7 +90,7 @@ ssh_url: git@github.com:sylvainpolletvillard/vuepress-plugin-global-toc.git
 stargazers_count: 3
 stargazers_url: https://api.github.com/repos/sylvainpolletvillard/vuepress-plugin-global-toc/stargazers
 statuses_url: https://api.github.com/repos/sylvainpolletvillard/vuepress-plugin-global-toc/statuses/{sha}
-subscribers_count: 0
+subscribers_count: 1
 subscribers_url: https://api.github.com/repos/sylvainpolletvillard/vuepress-plugin-global-toc/subscribers
 subscription_url: https://api.github.com/repos/sylvainpolletvillard/vuepress-plugin-global-toc/subscription
 svn_url: https://github.com/sylvainpolletvillard/vuepress-plugin-global-toc

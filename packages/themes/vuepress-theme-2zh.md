@@ -1,102 +1,102 @@
 ---
-archive_url: https://api.github.com/repos/CadeCode/vuepress-theme-2zh/{archive_format}{/ref}
+archive_url: https://api.github.com/repos/cadecode/vuepress-theme-2zh/{archive_format}{/ref}
 archived: false
-assignees_url: https://api.github.com/repos/CadeCode/vuepress-theme-2zh/assignees{/user}
-blobs_url: https://api.github.com/repos/CadeCode/vuepress-theme-2zh/git/blobs{/sha}
-branches_url: https://api.github.com/repos/CadeCode/vuepress-theme-2zh/branches{/branch}
-clone_url: https://github.com/CadeCode/vuepress-theme-2zh.git
-collaborators_url: https://api.github.com/repos/CadeCode/vuepress-theme-2zh/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/CadeCode/vuepress-theme-2zh/comments{/number}
-commits_url: https://api.github.com/repos/CadeCode/vuepress-theme-2zh/commits{/sha}
-compare_url: https://api.github.com/repos/CadeCode/vuepress-theme-2zh/compare/{base}...{head}
-contents_url: https://api.github.com/repos/CadeCode/vuepress-theme-2zh/contents/{+path}
-contributors_url: https://api.github.com/repos/CadeCode/vuepress-theme-2zh/contributors
+assignees_url: https://api.github.com/repos/cadecode/vuepress-theme-2zh/assignees{/user}
+blobs_url: https://api.github.com/repos/cadecode/vuepress-theme-2zh/git/blobs{/sha}
+branches_url: https://api.github.com/repos/cadecode/vuepress-theme-2zh/branches{/branch}
+clone_url: https://github.com/cadecode/vuepress-theme-2zh.git
+collaborators_url: https://api.github.com/repos/cadecode/vuepress-theme-2zh/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/cadecode/vuepress-theme-2zh/comments{/number}
+commits_url: https://api.github.com/repos/cadecode/vuepress-theme-2zh/commits{/sha}
+compare_url: https://api.github.com/repos/cadecode/vuepress-theme-2zh/compare/{base}...{head}
+contents_url: https://api.github.com/repos/cadecode/vuepress-theme-2zh/contents/{+path}
+contributors_url: https://api.github.com/repos/cadecode/vuepress-theme-2zh/contributors
 created_at: '2020-07-25T13:57:12Z'
 default_branch: master
-deployments_url: https://api.github.com/repos/CadeCode/vuepress-theme-2zh/deployments
-description: "\u7531 vuepress \u9A71\u52A8\u7684\u9759\u6001\u535A\u5BA2\u4E3B\u9898"
+deployments_url: https://api.github.com/repos/cadecode/vuepress-theme-2zh/deployments
+description: "\u57FA\u4E8E VuePress \u7684\u9759\u6001\u535A\u5BA2\u4E3B\u9898"
 disabled: false
-downloads_url: https://api.github.com/repos/CadeCode/vuepress-theme-2zh/downloads
-events_url: https://api.github.com/repos/CadeCode/vuepress-theme-2zh/events
+downloads_url: https://api.github.com/repos/cadecode/vuepress-theme-2zh/downloads
+events_url: https://api.github.com/repos/cadecode/vuepress-theme-2zh/events
 fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/CadeCode/vuepress-theme-2zh/forks
-full_name: CadeCode/vuepress-theme-2zh
-git_commits_url: https://api.github.com/repos/CadeCode/vuepress-theme-2zh/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/CadeCode/vuepress-theme-2zh/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/CadeCode/vuepress-theme-2zh/git/tags{/sha}
-git_url: git://github.com/CadeCode/vuepress-theme-2zh.git
+forks: 10
+forks_count: 10
+forks_url: https://api.github.com/repos/cadecode/vuepress-theme-2zh/forks
+full_name: cadecode/vuepress-theme-2zh
+git_commits_url: https://api.github.com/repos/cadecode/vuepress-theme-2zh/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/cadecode/vuepress-theme-2zh/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/cadecode/vuepress-theme-2zh/git/tags{/sha}
+git_url: git://github.com/cadecode/vuepress-theme-2zh.git
 has_downloads: true
 has_issues: true
 has_pages: false
 has_projects: true
 has_wiki: true
-homepage: https://cadecode.github.io/
-hooks_url: https://api.github.com/repos/CadeCode/vuepress-theme-2zh/hooks
-html_url: https://github.com/CadeCode/vuepress-theme-2zh
+homepage: https://cadecode.info
+hooks_url: https://api.github.com/repos/cadecode/vuepress-theme-2zh/hooks
+html_url: https://github.com/cadecode/vuepress-theme-2zh
 id: 282454454
-issue_comment_url: https://api.github.com/repos/CadeCode/vuepress-theme-2zh/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/CadeCode/vuepress-theme-2zh/issues/events{/number}
-issues_url: https://api.github.com/repos/CadeCode/vuepress-theme-2zh/issues{/number}
-keys_url: https://api.github.com/repos/CadeCode/vuepress-theme-2zh/keys{/key_id}
-labels_url: https://api.github.com/repos/CadeCode/vuepress-theme-2zh/labels{/name}
+issue_comment_url: https://api.github.com/repos/cadecode/vuepress-theme-2zh/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/cadecode/vuepress-theme-2zh/issues/events{/number}
+issues_url: https://api.github.com/repos/cadecode/vuepress-theme-2zh/issues{/number}
+keys_url: https://api.github.com/repos/cadecode/vuepress-theme-2zh/keys{/key_id}
+labels_url: https://api.github.com/repos/cadecode/vuepress-theme-2zh/labels{/name}
 language: Vue
-languages_url: https://api.github.com/repos/CadeCode/vuepress-theme-2zh/languages
+languages_url: https://api.github.com/repos/cadecode/vuepress-theme-2zh/languages
 license: null
-merges_url: https://api.github.com/repos/CadeCode/vuepress-theme-2zh/merges
-milestones_url: https://api.github.com/repos/CadeCode/vuepress-theme-2zh/milestones{/number}
+merges_url: https://api.github.com/repos/cadecode/vuepress-theme-2zh/merges
+milestones_url: https://api.github.com/repos/cadecode/vuepress-theme-2zh/milestones{/number}
 mirror_url: null
 name: vuepress-theme-2zh
-network_count: 0
+network_count: 10
 node_id: MDEwOlJlcG9zaXRvcnkyODI0NTQ0NTQ=
-notifications_url: https://api.github.com/repos/CadeCode/vuepress-theme-2zh/notifications{?since,all,participating}
+notifications_url: https://api.github.com/repos/cadecode/vuepress-theme-2zh/notifications{?since,all,participating}
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars1.githubusercontent.com/u/48678641?v=4
-  events_url: https://api.github.com/users/CadeCode/events{/privacy}
-  followers_url: https://api.github.com/users/CadeCode/followers
-  following_url: https://api.github.com/users/CadeCode/following{/other_user}
-  gists_url: https://api.github.com/users/CadeCode/gists{/gist_id}
+  avatar_url: https://avatars.githubusercontent.com/u/48678641?v=4
+  events_url: https://api.github.com/users/cadecode/events{/privacy}
+  followers_url: https://api.github.com/users/cadecode/followers
+  following_url: https://api.github.com/users/cadecode/following{/other_user}
+  gists_url: https://api.github.com/users/cadecode/gists{/gist_id}
   gravatar_id: ''
-  html_url: https://github.com/CadeCode
+  html_url: https://github.com/cadecode
   id: 48678641
-  login: CadeCode
+  login: cadecode
   node_id: MDQ6VXNlcjQ4Njc4NjQx
-  organizations_url: https://api.github.com/users/CadeCode/orgs
-  received_events_url: https://api.github.com/users/CadeCode/received_events
-  repos_url: https://api.github.com/users/CadeCode/repos
+  organizations_url: https://api.github.com/users/cadecode/orgs
+  received_events_url: https://api.github.com/users/cadecode/received_events
+  repos_url: https://api.github.com/users/cadecode/repos
   site_admin: false
-  starred_url: https://api.github.com/users/CadeCode/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/CadeCode/subscriptions
+  starred_url: https://api.github.com/users/cadecode/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/cadecode/subscriptions
   type: User
-  url: https://api.github.com/users/CadeCode
+  url: https://api.github.com/users/cadecode
 permissions:
   admin: false
   pull: true
   push: false
 private: false
-pulls_url: https://api.github.com/repos/CadeCode/vuepress-theme-2zh/pulls{/number}
-pushed_at: '2020-08-23T16:08:22Z'
-releases_url: https://api.github.com/repos/CadeCode/vuepress-theme-2zh/releases{/id}
-size: 1991
-ssh_url: git@github.com:CadeCode/vuepress-theme-2zh.git
-stargazers_count: 25
-stargazers_url: https://api.github.com/repos/CadeCode/vuepress-theme-2zh/stargazers
-statuses_url: https://api.github.com/repos/CadeCode/vuepress-theme-2zh/statuses/{sha}
-subscribers_count: 0
-subscribers_url: https://api.github.com/repos/CadeCode/vuepress-theme-2zh/subscribers
-subscription_url: https://api.github.com/repos/CadeCode/vuepress-theme-2zh/subscription
-svn_url: https://github.com/CadeCode/vuepress-theme-2zh
-tags_url: https://api.github.com/repos/CadeCode/vuepress-theme-2zh/tags
-teams_url: https://api.github.com/repos/CadeCode/vuepress-theme-2zh/teams
+pulls_url: https://api.github.com/repos/cadecode/vuepress-theme-2zh/pulls{/number}
+pushed_at: '2021-02-19T09:03:04Z'
+releases_url: https://api.github.com/repos/cadecode/vuepress-theme-2zh/releases{/id}
+size: 2153
+ssh_url: git@github.com:cadecode/vuepress-theme-2zh.git
+stargazers_count: 139
+stargazers_url: https://api.github.com/repos/cadecode/vuepress-theme-2zh/stargazers
+statuses_url: https://api.github.com/repos/cadecode/vuepress-theme-2zh/statuses/{sha}
+subscribers_count: 13
+subscribers_url: https://api.github.com/repos/cadecode/vuepress-theme-2zh/subscribers
+subscription_url: https://api.github.com/repos/cadecode/vuepress-theme-2zh/subscription
+svn_url: https://github.com/cadecode/vuepress-theme-2zh
+tags_url: https://api.github.com/repos/cadecode/vuepress-theme-2zh/tags
+teams_url: https://api.github.com/repos/cadecode/vuepress-theme-2zh/teams
 temp_clone_token: ''
-trees_url: https://api.github.com/repos/CadeCode/vuepress-theme-2zh/git/trees{/sha}
-updated_at: '2020-08-23T09:11:37Z'
-url: https://api.github.com/repos/CadeCode/vuepress-theme-2zh
-watchers: 25
-watchers_count: 25
+trees_url: https://api.github.com/repos/cadecode/vuepress-theme-2zh/git/trees{/sha}
+updated_at: '2021-02-21T14:43:57Z'
+url: https://api.github.com/repos/cadecode/vuepress-theme-2zh
+watchers: 139
+watchers_count: 139
 ---
 
 # vuepress-theme-2zh
@@ -113,11 +113,15 @@ watchers_count: 25
 
 ## 安装
 
-1. 下载源码
+1. 掌握 vuepress 基本使用方法
 
-   [https://github.com/CadeCode/vuepress-theme-2zh](https://github.com/CadeCode/vuepress-theme-2zh)
+   [https://www.vuepress.cn](https://www.vuepress.cn/)
 
-2. 使用 npm
+2. 下载 vuepress-theme-2zh 源码
+
+   [https://github.com/cadecode/vuepress-theme-2zh](https://github.com/cadecode/vuepress-theme-2zh)
+
+3. 使用 npm
 
    ```
    npm i -S @cadecode/vuepress-theme-2zh
@@ -216,7 +220,15 @@ watchers_count: 25
    // 示例
    domain: 'https://cadecode.github.io'
    ```
+7. comment
 
+   为文章页面、关于页面、友链页面开启评论支持
+
+   ```javascript
+   // 示例
+   comment: ['Your own appId', 'Your own appKey']
+   ```
+   
 ### md 配置
 
 > 在每个 markdown 文件的头部进行配置，使用 YAML 语法
@@ -263,22 +275,8 @@ watchers_count: 25
    // 或
    tag: [Java, Java web]
    ```
-
-5. use
-
-   为文章内容开启插件支持
-
-   ```javascript
-   // 示例
-   // mermaid 流程图渲染支持
-   use: mermaid
-   // latex 公式渲染支持
-   use: latex
-   // 或
-   use: [mermaid, latex]
-   ```
-
-6. cover
+     
+5. cover
 
    文章列表中显示的封面
 
@@ -289,7 +287,7 @@ watchers_count: 25
    cover: /cover/picture.png
    ```
    
-7. pined
+6. pined
    
    置顶文章，设定一个数值，从 1 开始，由小到大的排列置顶文章
    
@@ -340,6 +338,4 @@ watchers_count: 25
    ```
 ## 最后
 
-不足之处，敬请见谅，编码不易，感谢支持！
-
-拥抱变化，拥抱开源
+不足之处，敬请见谅，拥抱变化，拥抱开源

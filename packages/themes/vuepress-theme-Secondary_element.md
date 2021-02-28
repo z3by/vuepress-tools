@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/ChaselLHL/vuepress-theme-Seconda
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars0.githubusercontent.com/u/34236185?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/34236185?v=4
   events_url: https://api.github.com/users/ChaselLHL/events{/privacy}
   followers_url: https://api.github.com/users/ChaselLHL/followers
   following_url: https://api.github.com/users/ChaselLHL/following{/other_user}

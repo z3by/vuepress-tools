@@ -20,8 +20,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/zpfz/vuepress-theme-antdocs/downloads
 events_url: https://api.github.com/repos/zpfz/vuepress-theme-antdocs/events
 fork: false
-forks: 17
-forks_count: 17
+forks: 27
+forks_count: 27
 forks_url: https://api.github.com/repos/zpfz/vuepress-theme-antdocs/forks
 full_name: zpfz/vuepress-theme-antdocs
 git_commits_url: https://api.github.com/repos/zpfz/vuepress-theme-antdocs/git/commits{/sha}
@@ -54,13 +54,13 @@ merges_url: https://api.github.com/repos/zpfz/vuepress-theme-antdocs/merges
 milestones_url: https://api.github.com/repos/zpfz/vuepress-theme-antdocs/milestones{/number}
 mirror_url: null
 name: vuepress-theme-antdocs
-network_count: 17
+network_count: 27
 node_id: MDEwOlJlcG9zaXRvcnkyNDI5NDAwODg=
 notifications_url: https://api.github.com/repos/zpfz/vuepress-theme-antdocs/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
+open_issues: 2
+open_issues_count: 2
 owner:
-  avatar_url: https://avatars3.githubusercontent.com/u/49757965?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/49757965?v=4
   events_url: https://api.github.com/users/zpfz/events{/privacy}
   followers_url: https://api.github.com/users/zpfz/followers
   following_url: https://api.github.com/users/zpfz/following{/other_user}
@@ -84,14 +84,14 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/zpfz/vuepress-theme-antdocs/pulls{/number}
-pushed_at: '2020-08-07T03:17:59Z'
+pushed_at: '2020-11-18T13:58:14Z'
 releases_url: https://api.github.com/repos/zpfz/vuepress-theme-antdocs/releases{/id}
-size: 81
+size: 92
 ssh_url: git@github.com:zpfz/vuepress-theme-antdocs.git
-stargazers_count: 88
+stargazers_count: 143
 stargazers_url: https://api.github.com/repos/zpfz/vuepress-theme-antdocs/stargazers
 statuses_url: https://api.github.com/repos/zpfz/vuepress-theme-antdocs/statuses/{sha}
-subscribers_count: 1
+subscribers_count: 2
 subscribers_url: https://api.github.com/repos/zpfz/vuepress-theme-antdocs/subscribers
 subscription_url: https://api.github.com/repos/zpfz/vuepress-theme-antdocs/subscription
 svn_url: https://github.com/zpfz/vuepress-theme-antdocs
@@ -99,27 +99,24 @@ tags_url: https://api.github.com/repos/zpfz/vuepress-theme-antdocs/tags
 teams_url: https://api.github.com/repos/zpfz/vuepress-theme-antdocs/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/zpfz/vuepress-theme-antdocs/git/trees{/sha}
-updated_at: '2020-08-17T07:19:37Z'
+updated_at: '2021-02-28T12:58:52Z'
 url: https://api.github.com/repos/zpfz/vuepress-theme-antdocs
-watchers: 88
-watchers_count: 88
+watchers: 143
+watchers_count: 143
 ---
 
-<div align="center"><img src="https://s2.ax1x.com/2020/02/27/3aIcDK.png" height = "150" /></div>
+<p align="center"><a href="https://github.com/zpfz/vuepress-theme-antdocs" target="_blank" rel="nofollow"><img width="120" src="https://s2.ax1x.com/2020/02/27/3aIcDK.png" alt="AntDocs logo"></a></p>
 
-<h1 align="center">AntDocs</h1>
+<h2 align="center">AntDocs</h2>
 
-<div align="center">
+<p align="center">An Ant Design style theme for VuePress.</p>
 
-An Ant Design style theme for VuePress.
-
-</div>
-
-<div align="center">
-
-![Build](https://img.shields.io/badge/build-passing-brightgreen?style=flat-square) ![GitHub package.json version (branch)](https://img.shields.io/github/package-json/v/zpfz/vuepress-theme-antdocs?style=flat-square) ![License](https://img.shields.io/github/license/zpfz/vuepress-theme-antdocs?style=flat-square)
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/build-passing-brightgreen?style=flat-square" alt="Build Status">
+  <img src="https://img.shields.io/npm/dt/vuepress-theme-antdocs?style=flat-square&color=red" alt="Downloads">
+  <img src="https://img.shields.io/github/package-json/v/zpfz/vuepress-theme-antdocs?style=flat-square" alt="Version">
+  <img src="https://img.shields.io/github/license/zpfz/vuepress-theme-antdocs?style=flat-square" alt="License">
+</p>
 
 # Features
 - Equipped with Ant Design style, you can directly use various components of the UI library.
@@ -151,56 +148,6 @@ You can get help here: [Using a theme](https://vuepress.vuejs.org/theme/using-a-
 # Preview
 
 <p align="center"><img src="https://s2.ax1x.com/2020/02/28/3B3lOf.png"/></p>
-
-# Changlog
-
-### 1.1.1
-
-- Fixed the bug that the sidebar close button displayed.
-- Added title attribute for sidebar.
-
-### 1.1.0
-
-- Add repo status icon: GitLab.
-- Optimize other details.
-
-
-### 1.0.1
-
-- Fix the bug that the code block **css / cpp / c** language is displayed incorrectly.
-- Optimize other details.
-
-### 1.0.0
-
-- Add sidebar advertising space, support three display states (picture, graphic, entertainment display);
-- Added a secondary home button, it means the maximum number of home button support is 2;
-- Optimized back to top button can be customized to open;
-- Fixed the bug that the navigation bar displayed abnormally because the title was too long.
-
-### 0.1.2-beta
-
-- Fix the problem that the navigation bar menu does not activate the current menu item properly in some cases.
-
-### 0.1.1-beta
-
-- Optimize the display effect of mobile sidebar;
-- Optimize mobile search and menu icon display.
-
-### 0.1.0-beta
-
-- Powered by Ant Design components and used directly in .md;
-- Add bottom column, support up to 4 columns;
-- Unified preprocessor, using less syntax compatible with Ant Design style;
-- Optimize the display effect of built-in prompts, warnings, and dangerous blocks;
-- Optimize the display effect of code blocks, inline code, Blockquote, etc.;
-- Optimize the display effect of the homepage, navigation menu, Github logo, sidebar, etc.;
-- Optimize mobile display and animation effects;
-- Fix other possible bugs.
-
-### 0.0.x alpha
-Internal beta version is unstable and not recommended
-
----
 
 ## ATTENTION
 

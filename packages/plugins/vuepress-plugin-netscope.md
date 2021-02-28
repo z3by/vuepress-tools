@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/superbiger/vuepress-plugin-netsc
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/16386583?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/16386583?v=4
   events_url: https://api.github.com/users/superbiger/events{/privacy}
   followers_url: https://api.github.com/users/superbiger/followers
   following_url: https://api.github.com/users/superbiger/following{/other_user}

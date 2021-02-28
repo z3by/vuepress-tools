@@ -54,7 +54,7 @@ notifications_url: https://api.github.com/repos/hwen/vuepress-theme-one/notifica
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars0.githubusercontent.com/u/6712767?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/6712767?v=4
   events_url: https://api.github.com/users/hwen/events{/privacy}
   followers_url: https://api.github.com/users/hwen/followers
   following_url: https://api.github.com/users/hwen/following{/other_user}

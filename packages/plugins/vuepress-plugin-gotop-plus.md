@@ -60,7 +60,7 @@ notifications_url: https://api.github.com/repos/JoeyBling/vuepress-plugin-gotop-
 open_issues: 1
 open_issues_count: 1
 owner:
-  avatar_url: https://avatars1.githubusercontent.com/u/25240064?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/25240064?v=4
   events_url: https://api.github.com/users/JoeyBling/events{/privacy}
   followers_url: https://api.github.com/users/JoeyBling/followers
   following_url: https://api.github.com/users/JoeyBling/following{/other_user}

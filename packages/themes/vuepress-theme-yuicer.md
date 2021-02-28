@@ -56,10 +56,10 @@ name: vuepress-theme-yuicer
 network_count: 3
 node_id: MDEwOlJlcG9zaXRvcnkxNjYzMzYyNTQ=
 notifications_url: https://api.github.com/repos/yuicer/vuepress-theme-yuicer/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
+open_issues: 2
+open_issues_count: 2
 owner:
-  avatar_url: https://avatars1.githubusercontent.com/u/23371475?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/23371475?v=4
   events_url: https://api.github.com/users/yuicer/events{/privacy}
   followers_url: https://api.github.com/users/yuicer/followers
   following_url: https://api.github.com/users/yuicer/following{/other_user}
@@ -83,11 +83,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/yuicer/vuepress-theme-yuicer/pulls{/number}
-pushed_at: '2020-08-04T06:32:59Z'
+pushed_at: '2020-12-11T18:50:08Z'
 releases_url: https://api.github.com/repos/yuicer/vuepress-theme-yuicer/releases{/id}
-size: 820
+size: 1050
 ssh_url: git@github.com:yuicer/vuepress-theme-yuicer.git
-stargazers_count: 10
+stargazers_count: 9
 stargazers_url: https://api.github.com/repos/yuicer/vuepress-theme-yuicer/stargazers
 statuses_url: https://api.github.com/repos/yuicer/vuepress-theme-yuicer/statuses/{sha}
 subscribers_count: 0
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/yuicer/vuepress-theme-yuicer/tags
 teams_url: https://api.github.com/repos/yuicer/vuepress-theme-yuicer/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/yuicer/vuepress-theme-yuicer/git/trees{/sha}
-updated_at: '2020-08-04T06:33:01Z'
+updated_at: '2020-11-22T14:24:23Z'
 url: https://api.github.com/repos/yuicer/vuepress-theme-yuicer
-watchers: 10
-watchers_count: 10
+watchers: 9
+watchers_count: 9
 ---
 
 # @yuicer/vuepress-theme-yuicer

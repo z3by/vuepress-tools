@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/vxhly/vuepress-plugin-reward/not
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars0.githubusercontent.com/u/17906558?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/17906558?v=4
   events_url: https://api.github.com/users/vxhly/events{/privacy}
   followers_url: https://api.github.com/users/vxhly/followers
   following_url: https://api.github.com/users/vxhly/following{/other_user}

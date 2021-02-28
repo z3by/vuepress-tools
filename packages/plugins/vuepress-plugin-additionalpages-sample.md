@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/mya-ake/vuepress-plugin-addition
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/16383815?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/16383815?v=4
   events_url: https://api.github.com/users/mya-ake/events{/privacy}
   followers_url: https://api.github.com/users/mya-ake/followers
   following_url: https://api.github.com/users/mya-ake/following{/other_user}

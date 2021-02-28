@@ -54,7 +54,7 @@ notifications_url: https://api.github.com/repos/a298003154/vuepress-theme-hhh/no
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars1.githubusercontent.com/u/24939100?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/24939100?v=4
   events_url: https://api.github.com/users/a298003154/events{/privacy}
   followers_url: https://api.github.com/users/a298003154/followers
   following_url: https://api.github.com/users/a298003154/following{/other_user}

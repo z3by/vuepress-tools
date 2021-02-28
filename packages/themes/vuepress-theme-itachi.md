@@ -1,0 +1,105 @@
+---
+archive_url: https://api.github.com/repos/YangChaoJie/vuepress-theme-itachi/{archive_format}{/ref}
+archived: false
+assignees_url: https://api.github.com/repos/YangChaoJie/vuepress-theme-itachi/assignees{/user}
+blobs_url: https://api.github.com/repos/YangChaoJie/vuepress-theme-itachi/git/blobs{/sha}
+branches_url: https://api.github.com/repos/YangChaoJie/vuepress-theme-itachi/branches{/branch}
+clone_url: https://github.com/YangChaoJie/vuepress-theme-itachi.git
+collaborators_url: https://api.github.com/repos/YangChaoJie/vuepress-theme-itachi/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/YangChaoJie/vuepress-theme-itachi/comments{/number}
+commits_url: https://api.github.com/repos/YangChaoJie/vuepress-theme-itachi/commits{/sha}
+compare_url: https://api.github.com/repos/YangChaoJie/vuepress-theme-itachi/compare/{base}...{head}
+contents_url: https://api.github.com/repos/YangChaoJie/vuepress-theme-itachi/contents/{+path}
+contributors_url: https://api.github.com/repos/YangChaoJie/vuepress-theme-itachi/contributors
+created_at: '2021-01-22T06:42:45Z'
+default_branch: main
+deployments_url: https://api.github.com/repos/YangChaoJie/vuepress-theme-itachi/deployments
+description: "\u81EA\u5B9A\u4E49 vuepress \u4E3B\u9898\uFF0C \u7528\u4E8E\u6280\u672F\
+  \u535A\u5BA2"
+disabled: false
+downloads_url: https://api.github.com/repos/YangChaoJie/vuepress-theme-itachi/downloads
+events_url: https://api.github.com/repos/YangChaoJie/vuepress-theme-itachi/events
+fork: false
+forks: 0
+forks_count: 0
+forks_url: https://api.github.com/repos/YangChaoJie/vuepress-theme-itachi/forks
+full_name: YangChaoJie/vuepress-theme-itachi
+git_commits_url: https://api.github.com/repos/YangChaoJie/vuepress-theme-itachi/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/YangChaoJie/vuepress-theme-itachi/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/YangChaoJie/vuepress-theme-itachi/git/tags{/sha}
+git_url: git://github.com/YangChaoJie/vuepress-theme-itachi.git
+has_downloads: true
+has_issues: true
+has_pages: false
+has_projects: true
+has_wiki: true
+homepage: null
+hooks_url: https://api.github.com/repos/YangChaoJie/vuepress-theme-itachi/hooks
+html_url: https://github.com/YangChaoJie/vuepress-theme-itachi
+id: 331860249
+issue_comment_url: https://api.github.com/repos/YangChaoJie/vuepress-theme-itachi/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/YangChaoJie/vuepress-theme-itachi/issues/events{/number}
+issues_url: https://api.github.com/repos/YangChaoJie/vuepress-theme-itachi/issues{/number}
+keys_url: https://api.github.com/repos/YangChaoJie/vuepress-theme-itachi/keys{/key_id}
+labels_url: https://api.github.com/repos/YangChaoJie/vuepress-theme-itachi/labels{/name}
+language: Vue
+languages_url: https://api.github.com/repos/YangChaoJie/vuepress-theme-itachi/languages
+license: null
+merges_url: https://api.github.com/repos/YangChaoJie/vuepress-theme-itachi/merges
+milestones_url: https://api.github.com/repos/YangChaoJie/vuepress-theme-itachi/milestones{/number}
+mirror_url: null
+name: vuepress-theme-itachi
+network_count: 0
+node_id: MDEwOlJlcG9zaXRvcnkzMzE4NjAyNDk=
+notifications_url: https://api.github.com/repos/YangChaoJie/vuepress-theme-itachi/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
+owner:
+  avatar_url: https://avatars.githubusercontent.com/u/14064775?v=4
+  events_url: https://api.github.com/users/YangChaoJie/events{/privacy}
+  followers_url: https://api.github.com/users/YangChaoJie/followers
+  following_url: https://api.github.com/users/YangChaoJie/following{/other_user}
+  gists_url: https://api.github.com/users/YangChaoJie/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/YangChaoJie
+  id: 14064775
+  login: YangChaoJie
+  node_id: MDQ6VXNlcjE0MDY0Nzc1
+  organizations_url: https://api.github.com/users/YangChaoJie/orgs
+  received_events_url: https://api.github.com/users/YangChaoJie/received_events
+  repos_url: https://api.github.com/users/YangChaoJie/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/YangChaoJie/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/YangChaoJie/subscriptions
+  type: User
+  url: https://api.github.com/users/YangChaoJie
+permissions:
+  admin: false
+  pull: true
+  push: false
+private: false
+pulls_url: https://api.github.com/repos/YangChaoJie/vuepress-theme-itachi/pulls{/number}
+pushed_at: '2021-01-22T06:52:59Z'
+releases_url: https://api.github.com/repos/YangChaoJie/vuepress-theme-itachi/releases{/id}
+size: 5627
+ssh_url: git@github.com:YangChaoJie/vuepress-theme-itachi.git
+stargazers_count: 1
+stargazers_url: https://api.github.com/repos/YangChaoJie/vuepress-theme-itachi/stargazers
+statuses_url: https://api.github.com/repos/YangChaoJie/vuepress-theme-itachi/statuses/{sha}
+subscribers_count: 1
+subscribers_url: https://api.github.com/repos/YangChaoJie/vuepress-theme-itachi/subscribers
+subscription_url: https://api.github.com/repos/YangChaoJie/vuepress-theme-itachi/subscription
+svn_url: https://github.com/YangChaoJie/vuepress-theme-itachi
+tags_url: https://api.github.com/repos/YangChaoJie/vuepress-theme-itachi/tags
+teams_url: https://api.github.com/repos/YangChaoJie/vuepress-theme-itachi/teams
+temp_clone_token: ''
+trees_url: https://api.github.com/repos/YangChaoJie/vuepress-theme-itachi/git/trees{/sha}
+updated_at: '2021-01-22T06:53:50Z'
+url: https://api.github.com/repos/YangChaoJie/vuepress-theme-itachi
+watchers: 1
+watchers_count: 1
+---
+
+## vuepress
+
+### 自定义 vuepress 主题， 用于技术博客

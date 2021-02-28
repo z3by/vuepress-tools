@@ -11,10 +11,10 @@ commits_url: https://api.github.com/repos/tookit/vuepress-theme-neptune/commits{
 compare_url: https://api.github.com/repos/tookit/vuepress-theme-neptune/compare/{base}...{head}
 contents_url: https://api.github.com/repos/tookit/vuepress-theme-neptune/contents/{+path}
 contributors_url: https://api.github.com/repos/tookit/vuepress-theme-neptune/contributors
-created_at: '2019-06-17T05:16:13Z'
+created_at: '2020-09-13T10:21:49Z'
 default_branch: master
 deployments_url: https://api.github.com/repos/tookit/vuepress-theme-neptune/deployments
-description: A REST API documentaion tool based on vuepress and vuetify
+description: A vupress theme with vuetify
 disabled: false
 downloads_url: https://api.github.com/repos/tookit/vuepress-theme-neptune/downloads
 events_url: https://api.github.com/repos/tookit/vuepress-theme-neptune/events
@@ -32,10 +32,10 @@ has_issues: true
 has_pages: false
 has_projects: true
 has_wiki: true
-homepage: null
+homepage: http://isocked.com/
 hooks_url: https://api.github.com/repos/tookit/vuepress-theme-neptune/hooks
 html_url: https://github.com/tookit/vuepress-theme-neptune
-id: 192279195
+id: 295126641
 issue_comment_url: https://api.github.com/repos/tookit/vuepress-theme-neptune/issues/comments{/number}
 issue_events_url: https://api.github.com/repos/tookit/vuepress-theme-neptune/issues/events{/number}
 issues_url: https://api.github.com/repos/tookit/vuepress-theme-neptune/issues{/number}
@@ -43,23 +43,18 @@ keys_url: https://api.github.com/repos/tookit/vuepress-theme-neptune/keys{/key_i
 labels_url: https://api.github.com/repos/tookit/vuepress-theme-neptune/labels{/name}
 language: Vue
 languages_url: https://api.github.com/repos/tookit/vuepress-theme-neptune/languages
-license:
-  key: mit
-  name: MIT License
-  node_id: MDc6TGljZW5zZTEz
-  spdx_id: MIT
-  url: https://api.github.com/licenses/mit
+license: null
 merges_url: https://api.github.com/repos/tookit/vuepress-theme-neptune/merges
 milestones_url: https://api.github.com/repos/tookit/vuepress-theme-neptune/milestones{/number}
 mirror_url: null
 name: vuepress-theme-neptune
 network_count: 0
-node_id: MDEwOlJlcG9zaXRvcnkxOTIyNzkxOTU=
+node_id: MDEwOlJlcG9zaXRvcnkyOTUxMjY2NDE=
 notifications_url: https://api.github.com/repos/tookit/vuepress-theme-neptune/notifications{?since,all,participating}
-open_issues: 2
-open_issues_count: 2
+open_issues: 0
+open_issues_count: 0
 owner:
-  avatar_url: https://avatars0.githubusercontent.com/u/149564?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/149564?v=4
   events_url: https://api.github.com/users/tookit/events{/privacy}
   followers_url: https://api.github.com/users/tookit/followers
   following_url: https://api.github.com/users/tookit/following{/other_user}
@@ -83,14 +78,14 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/tookit/vuepress-theme-neptune/pulls{/number}
-pushed_at: '2020-07-17T09:34:56Z'
+pushed_at: '2020-09-25T06:52:03Z'
 releases_url: https://api.github.com/repos/tookit/vuepress-theme-neptune/releases{/id}
-size: 75
+size: 1410
 ssh_url: git@github.com:tookit/vuepress-theme-neptune.git
-stargazers_count: 0
+stargazers_count: 3
 stargazers_url: https://api.github.com/repos/tookit/vuepress-theme-neptune/stargazers
 statuses_url: https://api.github.com/repos/tookit/vuepress-theme-neptune/statuses/{sha}
-subscribers_count: 0
+subscribers_count: 1
 subscribers_url: https://api.github.com/repos/tookit/vuepress-theme-neptune/subscribers
 subscription_url: https://api.github.com/repos/tookit/vuepress-theme-neptune/subscription
 svn_url: https://github.com/tookit/vuepress-theme-neptune
@@ -98,9 +93,16 @@ tags_url: https://api.github.com/repos/tookit/vuepress-theme-neptune/tags
 teams_url: https://api.github.com/repos/tookit/vuepress-theme-neptune/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/tookit/vuepress-theme-neptune/git/trees{/sha}
-updated_at: '2019-07-05T02:50:46Z'
+updated_at: '2020-11-27T14:35:37Z'
 url: https://api.github.com/repos/tookit/vuepress-theme-neptune
-watchers: 0
-watchers_count: 0
+watchers: 3
+watchers_count: 3
 ---
 
+# blog
+Tookit's personal blog
+
+![Template](http://isocked.com/img/neptune-screenshot-1.png)
+
+
+[Demo](http://isocked.com/)

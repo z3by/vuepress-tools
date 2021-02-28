@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/ozelotjp/vuepress-theme-meteorlx
 open_issues: 1
 open_issues_count: 1
 owner:
-  avatar_url: https://avatars3.githubusercontent.com/u/32789856?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/32789856?v=4
   events_url: https://api.github.com/users/ozelotjp/events{/privacy}
   followers_url: https://api.github.com/users/ozelotjp/followers
   following_url: https://api.github.com/users/ozelotjp/following{/other_user}

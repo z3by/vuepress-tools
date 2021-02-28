@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-ka
 open_issues: 2
 open_issues_count: 2
 organization:
-  avatar_url: https://avatars0.githubusercontent.com/u/54167020?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/54167020?v=4
   events_url: https://api.github.com/users/vuepress-reco/events{/privacy}
   followers_url: https://api.github.com/users/vuepress-reco/followers
   following_url: https://api.github.com/users/vuepress-reco/following{/other_user}
@@ -78,7 +78,7 @@ organization:
   type: Organization
   url: https://api.github.com/users/vuepress-reco
 owner:
-  avatar_url: https://avatars0.githubusercontent.com/u/54167020?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/54167020?v=4
   events_url: https://api.github.com/users/vuepress-reco/events{/privacy}
   followers_url: https://api.github.com/users/vuepress-reco/followers
   following_url: https://api.github.com/users/vuepress-reco/following{/other_user}
@@ -102,14 +102,14 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-kan-ban-niang/pulls{/number}
-pushed_at: '2020-03-18T03:05:22Z'
+pushed_at: '2020-09-25T15:35:21Z'
 releases_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-kan-ban-niang/releases{/id}
-size: 549
+size: 562
 ssh_url: git@github.com:vuepress-reco/vuepress-plugin-kan-ban-niang.git
-stargazers_count: 9
+stargazers_count: 15
 stargazers_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-kan-ban-niang/stargazers
 statuses_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-kan-ban-niang/statuses/{sha}
-subscribers_count: 1
+subscribers_count: 2
 subscribers_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-kan-ban-niang/subscribers
 subscription_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-kan-ban-niang/subscription
 svn_url: https://github.com/vuepress-reco/vuepress-plugin-kan-ban-niang
@@ -117,10 +117,10 @@ tags_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-kan-ban-nia
 teams_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-kan-ban-niang/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-kan-ban-niang/git/trees{/sha}
-updated_at: '2020-04-22T14:06:14Z'
+updated_at: '2021-02-08T09:05:46Z'
 url: https://api.github.com/repos/vuepress-reco/vuepress-plugin-kan-ban-niang
-watchers: 9
-watchers_count: 9
+watchers: 15
+watchers_count: 15
 ---
 
 # @vuepress-reco/vuepress-plugin-kan-ban-niang

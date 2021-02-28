@@ -54,7 +54,7 @@ notifications_url: https://api.github.com/repos/shenxiang11/vuepress-theme-vest/
 open_issues: 1
 open_issues_count: 1
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/17292115?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/17292115?v=4
   events_url: https://api.github.com/users/shenxiang11/events{/privacy}
   followers_url: https://api.github.com/users/shenxiang11/followers
   following_url: https://api.github.com/users/shenxiang11/following{/other_user}

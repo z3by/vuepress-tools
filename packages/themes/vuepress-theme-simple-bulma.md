@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/Gerhut/vuepress-theme-simple-bul
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars1.githubusercontent.com/u/2500247?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/2500247?v=4
   events_url: https://api.github.com/users/Gerhut/events{/privacy}
   followers_url: https://api.github.com/users/Gerhut/followers
   following_url: https://api.github.com/users/Gerhut/following{/other_user}

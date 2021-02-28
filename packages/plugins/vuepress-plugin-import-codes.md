@@ -54,7 +54,7 @@ notifications_url: https://api.github.com/repos/Liaoct/vuepress-plugin-import-co
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars3.githubusercontent.com/u/52003277?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/52003277?v=4
   events_url: https://api.github.com/users/Liaoct/events{/privacy}
   followers_url: https://api.github.com/users/Liaoct/followers
   following_url: https://api.github.com/users/Liaoct/following{/other_user}

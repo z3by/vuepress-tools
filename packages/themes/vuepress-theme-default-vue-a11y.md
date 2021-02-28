@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/vue-a11y/vuepress-theme-default-
 open_issues: 0
 open_issues_count: 0
 organization:
-  avatar_url: https://avatars1.githubusercontent.com/u/38933658?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/38933658?v=4
   events_url: https://api.github.com/users/vue-a11y/events{/privacy}
   followers_url: https://api.github.com/users/vue-a11y/followers
   following_url: https://api.github.com/users/vue-a11y/following{/other_user}
@@ -78,7 +78,7 @@ organization:
   type: Organization
   url: https://api.github.com/users/vue-a11y
 owner:
-  avatar_url: https://avatars1.githubusercontent.com/u/38933658?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/38933658?v=4
   events_url: https://api.github.com/users/vue-a11y/events{/privacy}
   followers_url: https://api.github.com/users/vue-a11y/followers
   following_url: https://api.github.com/users/vue-a11y/following{/other_user}
@@ -106,7 +106,7 @@ pushed_at: '2020-07-09T15:47:49Z'
 releases_url: https://api.github.com/repos/vue-a11y/vuepress-theme-default-vue-a11y/releases{/id}
 size: 3274
 ssh_url: git@github.com:vue-a11y/vuepress-theme-default-vue-a11y.git
-stargazers_count: 2
+stargazers_count: 3
 stargazers_url: https://api.github.com/repos/vue-a11y/vuepress-theme-default-vue-a11y/stargazers
 statuses_url: https://api.github.com/repos/vue-a11y/vuepress-theme-default-vue-a11y/statuses/{sha}
 subscribers_count: 4
@@ -117,10 +117,10 @@ tags_url: https://api.github.com/repos/vue-a11y/vuepress-theme-default-vue-a11y/
 teams_url: https://api.github.com/repos/vue-a11y/vuepress-theme-default-vue-a11y/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/vue-a11y/vuepress-theme-default-vue-a11y/git/trees{/sha}
-updated_at: '2020-07-01T19:31:44Z'
+updated_at: '2020-12-12T10:35:41Z'
 url: https://api.github.com/repos/vue-a11y/vuepress-theme-default-vue-a11y
-watchers: 2
-watchers_count: 2
+watchers: 3
+watchers_count: 3
 ---
 
 # vuepress-theme-default-vue-a11y

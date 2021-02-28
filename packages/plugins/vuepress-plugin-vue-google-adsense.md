@@ -54,7 +54,7 @@ notifications_url: https://api.github.com/repos/tacck/vuepress-plugin-vue-google
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/2795323?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/2795323?v=4
   events_url: https://api.github.com/users/tacck/events{/privacy}
   followers_url: https://api.github.com/users/tacck/followers
   following_url: https://api.github.com/users/tacck/following{/other_user}

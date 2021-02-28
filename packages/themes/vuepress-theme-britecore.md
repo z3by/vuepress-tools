@@ -60,10 +60,10 @@ name: vuepress-theme-britecore
 network_count: 1
 node_id: MDEwOlJlcG9zaXRvcnkyMTM5ODA1NzU=
 notifications_url: https://api.github.com/repos/z3by/vuepress-theme-britecore/notifications{?since,all,participating}
-open_issues: 5
-open_issues_count: 5
+open_issues: 8
+open_issues_count: 8
 owner:
-  avatar_url: https://avatars1.githubusercontent.com/u/36268825?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/36268825?v=4
   events_url: https://api.github.com/users/z3by/events{/privacy}
   followers_url: https://api.github.com/users/z3by/followers
   following_url: https://api.github.com/users/z3by/following{/other_user}
@@ -87,11 +87,11 @@ permissions:
   push: true
 private: false
 pulls_url: https://api.github.com/repos/z3by/vuepress-theme-britecore/pulls{/number}
-pushed_at: '2020-08-07T23:44:00Z'
+pushed_at: '2021-01-05T17:14:54Z'
 releases_url: https://api.github.com/repos/z3by/vuepress-theme-britecore/releases{/id}
-size: 2396
+size: 3153
 ssh_url: git@github.com:z3by/vuepress-theme-britecore.git
-stargazers_count: 9
+stargazers_count: 10
 stargazers_url: https://api.github.com/repos/z3by/vuepress-theme-britecore/stargazers
 statuses_url: https://api.github.com/repos/z3by/vuepress-theme-britecore/statuses/{sha}
 subscribers_count: 1
@@ -102,10 +102,10 @@ tags_url: https://api.github.com/repos/z3by/vuepress-theme-britecore/tags
 teams_url: https://api.github.com/repos/z3by/vuepress-theme-britecore/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/z3by/vuepress-theme-britecore/git/trees{/sha}
-updated_at: '2020-07-20T19:57:53Z'
+updated_at: '2020-09-15T21:18:54Z'
 url: https://api.github.com/repos/z3by/vuepress-theme-britecore
-watchers: 9
-watchers_count: 9
+watchers: 10
+watchers_count: 10
 ---
 
 # vuepress-theme-britecore

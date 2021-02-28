@@ -54,7 +54,7 @@ notifications_url: https://api.github.com/repos/maxcwolf/vuepress-theme-dynamics
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars0.githubusercontent.com/u/25088094?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/25088094?v=4
   events_url: https://api.github.com/users/maxcwolf/events{/privacy}
   followers_url: https://api.github.com/users/maxcwolf/followers
   following_url: https://api.github.com/users/maxcwolf/following{/other_user}

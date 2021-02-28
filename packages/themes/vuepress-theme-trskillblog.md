@@ -54,7 +54,7 @@ notifications_url: https://api.github.com/repos/Tr-blank/vuepress-theme-trskillb
 open_issues: 1
 open_issues_count: 1
 owner:
-  avatar_url: https://avatars1.githubusercontent.com/u/10918415?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/10918415?v=4
   events_url: https://api.github.com/users/Tr-blank/events{/privacy}
   followers_url: https://api.github.com/users/Tr-blank/followers
   following_url: https://api.github.com/users/Tr-blank/following{/other_user}

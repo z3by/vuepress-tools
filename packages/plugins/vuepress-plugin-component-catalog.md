@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/mya-ake/vuepress-plugin-component-catalog/downloads
 events_url: https://api.github.com/repos/mya-ake/vuepress-plugin-component-catalog/events
 fork: false
-forks: 5
-forks_count: 5
+forks: 4
+forks_count: 4
 forks_url: https://api.github.com/repos/mya-ake/vuepress-plugin-component-catalog/forks
 full_name: mya-ake/vuepress-plugin-component-catalog
 git_commits_url: https://api.github.com/repos/mya-ake/vuepress-plugin-component-catalog/git/commits{/sha}
@@ -53,13 +53,13 @@ merges_url: https://api.github.com/repos/mya-ake/vuepress-plugin-component-catal
 milestones_url: https://api.github.com/repos/mya-ake/vuepress-plugin-component-catalog/milestones{/number}
 mirror_url: null
 name: vuepress-plugin-component-catalog
-network_count: 5
+network_count: 4
 node_id: MDEwOlJlcG9zaXRvcnkxNTkzMTc1Mzk=
 notifications_url: https://api.github.com/repos/mya-ake/vuepress-plugin-component-catalog/notifications{?since,all,participating}
 open_issues: 16
 open_issues_count: 16
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/16383815?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/16383815?v=4
   events_url: https://api.github.com/users/mya-ake/events{/privacy}
   followers_url: https://api.github.com/users/mya-ake/followers
   following_url: https://api.github.com/users/mya-ake/following{/other_user}

@@ -60,7 +60,7 @@ notifications_url: https://api.github.com/repos/huiminxu/vuepress-theme-yur-cli/
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars0.githubusercontent.com/u/33274229?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/33274229?v=4
   events_url: https://api.github.com/users/huiminxu/events{/privacy}
   followers_url: https://api.github.com/users/huiminxu/followers
   following_url: https://api.github.com/users/huiminxu/following{/other_user}

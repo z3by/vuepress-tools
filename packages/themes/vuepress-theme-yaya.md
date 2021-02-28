@@ -51,10 +51,10 @@ name: vuepress-theme-yaya
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyNTEwMDQyNjM=
 notifications_url: https://api.github.com/repos/Heyff12/vuepress-theme-yaya/notifications{?since,all,participating}
-open_issues: 4
-open_issues_count: 4
+open_issues: 5
+open_issues_count: 5
 owner:
-  avatar_url: https://avatars3.githubusercontent.com/u/16876083?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/16876083?v=4
   events_url: https://api.github.com/users/Heyff12/events{/privacy}
   followers_url: https://api.github.com/users/Heyff12/followers
   following_url: https://api.github.com/users/Heyff12/following{/other_user}
@@ -78,14 +78,14 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/Heyff12/vuepress-theme-yaya/pulls{/number}
-pushed_at: '2020-08-08T00:08:30Z'
+pushed_at: '2020-11-29T07:07:08Z'
 releases_url: https://api.github.com/repos/Heyff12/vuepress-theme-yaya/releases{/id}
-size: 9562
+size: 9641
 ssh_url: git@github.com:Heyff12/vuepress-theme-yaya.git
-stargazers_count: 0
+stargazers_count: 1
 stargazers_url: https://api.github.com/repos/Heyff12/vuepress-theme-yaya/stargazers
 statuses_url: https://api.github.com/repos/Heyff12/vuepress-theme-yaya/statuses/{sha}
-subscribers_count: 1
+subscribers_count: 2
 subscribers_url: https://api.github.com/repos/Heyff12/vuepress-theme-yaya/subscribers
 subscription_url: https://api.github.com/repos/Heyff12/vuepress-theme-yaya/subscription
 svn_url: https://github.com/Heyff12/vuepress-theme-yaya
@@ -93,10 +93,10 @@ tags_url: https://api.github.com/repos/Heyff12/vuepress-theme-yaya/tags
 teams_url: https://api.github.com/repos/Heyff12/vuepress-theme-yaya/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/Heyff12/vuepress-theme-yaya/git/trees{/sha}
-updated_at: '2020-05-02T07:21:33Z'
+updated_at: '2020-11-29T07:04:13Z'
 url: https://api.github.com/repos/Heyff12/vuepress-theme-yaya
-watchers: 0
-watchers_count: 0
+watchers: 1
+watchers_count: 1
 ---
 
 # Yaya

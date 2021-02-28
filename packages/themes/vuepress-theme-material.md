@@ -54,7 +54,7 @@ notifications_url: https://api.github.com/repos/zsirfs/vuepress-theme-material/n
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/22249411?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/22249411?v=4
   events_url: https://api.github.com/users/zsirfs/events{/privacy}
   followers_url: https://api.github.com/users/zsirfs/followers
   following_url: https://api.github.com/users/zsirfs/following{/other_user}

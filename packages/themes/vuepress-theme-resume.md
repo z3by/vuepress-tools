@@ -20,8 +20,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume/downloads
 events_url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume/events
 fork: false
-forks: 54
-forks_count: 54
+forks: 78
+forks_count: 78
 forks_url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume/forks
 full_name: wannaxiao/vuepress-theme-resume
 git_commits_url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume/git/commits{/sha}
@@ -54,13 +54,13 @@ merges_url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume/merges
 milestones_url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume/milestones{/number}
 mirror_url: null
 name: vuepress-theme-resume
-network_count: 54
+network_count: 78
 node_id: MDEwOlJlcG9zaXRvcnkxMzU4ODI0OTM=
 notifications_url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume/notifications{?since,all,participating}
 open_issues: 2
 open_issues_count: 2
 owner:
-  avatar_url: https://avatars1.githubusercontent.com/u/13219417?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/13219417?v=4
   events_url: https://api.github.com/users/wannaxiao/events{/privacy}
   followers_url: https://api.github.com/users/wannaxiao/followers
   following_url: https://api.github.com/users/wannaxiao/following{/other_user}
@@ -88,7 +88,7 @@ pushed_at: '2020-05-09T00:20:04Z'
 releases_url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume/releases{/id}
 size: 1031
 ssh_url: git@github.com:wannaxiao/vuepress-theme-resume.git
-stargazers_count: 153
+stargazers_count: 200
 stargazers_url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume/stargazers
 statuses_url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume/statuses/{sha}
 subscribers_count: 2
@@ -99,10 +99,10 @@ tags_url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume/tags
 teams_url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume/git/trees{/sha}
-updated_at: '2020-08-24T09:42:59Z'
+updated_at: '2021-02-21T12:36:20Z'
 url: https://api.github.com/repos/wannaxiao/vuepress-theme-resume
-watchers: 153
-watchers_count: 153
+watchers: 200
+watchers_count: 200
 ---
 
 ## 🐈 介绍

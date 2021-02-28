@@ -1,0 +1,108 @@
+---
+archive_url: https://api.github.com/repos/biao-biao-ls/vuepress-theme-biao/{archive_format}{/ref}
+archived: false
+assignees_url: https://api.github.com/repos/biao-biao-ls/vuepress-theme-biao/assignees{/user}
+blobs_url: https://api.github.com/repos/biao-biao-ls/vuepress-theme-biao/git/blobs{/sha}
+branches_url: https://api.github.com/repos/biao-biao-ls/vuepress-theme-biao/branches{/branch}
+clone_url: https://github.com/biao-biao-ls/vuepress-theme-biao.git
+collaborators_url: https://api.github.com/repos/biao-biao-ls/vuepress-theme-biao/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/biao-biao-ls/vuepress-theme-biao/comments{/number}
+commits_url: https://api.github.com/repos/biao-biao-ls/vuepress-theme-biao/commits{/sha}
+compare_url: https://api.github.com/repos/biao-biao-ls/vuepress-theme-biao/compare/{base}...{head}
+contents_url: https://api.github.com/repos/biao-biao-ls/vuepress-theme-biao/contents/{+path}
+contributors_url: https://api.github.com/repos/biao-biao-ls/vuepress-theme-biao/contributors
+created_at: '2020-10-23T16:24:44Z'
+default_branch: main
+deployments_url: https://api.github.com/repos/biao-biao-ls/vuepress-theme-biao/deployments
+description: A simple and beautiful vuepress Blog theme
+disabled: false
+downloads_url: https://api.github.com/repos/biao-biao-ls/vuepress-theme-biao/downloads
+events_url: https://api.github.com/repos/biao-biao-ls/vuepress-theme-biao/events
+fork: false
+forks: 0
+forks_count: 0
+forks_url: https://api.github.com/repos/biao-biao-ls/vuepress-theme-biao/forks
+full_name: biao-biao-ls/vuepress-theme-biao
+git_commits_url: https://api.github.com/repos/biao-biao-ls/vuepress-theme-biao/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/biao-biao-ls/vuepress-theme-biao/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/biao-biao-ls/vuepress-theme-biao/git/tags{/sha}
+git_url: git://github.com/biao-biao-ls/vuepress-theme-biao.git
+has_downloads: true
+has_issues: true
+has_pages: false
+has_projects: true
+has_wiki: true
+homepage: null
+hooks_url: https://api.github.com/repos/biao-biao-ls/vuepress-theme-biao/hooks
+html_url: https://github.com/biao-biao-ls/vuepress-theme-biao
+id: 306688900
+issue_comment_url: https://api.github.com/repos/biao-biao-ls/vuepress-theme-biao/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/biao-biao-ls/vuepress-theme-biao/issues/events{/number}
+issues_url: https://api.github.com/repos/biao-biao-ls/vuepress-theme-biao/issues{/number}
+keys_url: https://api.github.com/repos/biao-biao-ls/vuepress-theme-biao/keys{/key_id}
+labels_url: https://api.github.com/repos/biao-biao-ls/vuepress-theme-biao/labels{/name}
+language: null
+languages_url: https://api.github.com/repos/biao-biao-ls/vuepress-theme-biao/languages
+license:
+  key: mit
+  name: MIT License
+  node_id: MDc6TGljZW5zZTEz
+  spdx_id: MIT
+  url: https://api.github.com/licenses/mit
+merges_url: https://api.github.com/repos/biao-biao-ls/vuepress-theme-biao/merges
+milestones_url: https://api.github.com/repos/biao-biao-ls/vuepress-theme-biao/milestones{/number}
+mirror_url: null
+name: vuepress-theme-biao
+network_count: 0
+node_id: MDEwOlJlcG9zaXRvcnkzMDY2ODg5MDA=
+notifications_url: https://api.github.com/repos/biao-biao-ls/vuepress-theme-biao/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
+owner:
+  avatar_url: https://avatars.githubusercontent.com/u/73355578?v=4
+  events_url: https://api.github.com/users/biao-biao-ls/events{/privacy}
+  followers_url: https://api.github.com/users/biao-biao-ls/followers
+  following_url: https://api.github.com/users/biao-biao-ls/following{/other_user}
+  gists_url: https://api.github.com/users/biao-biao-ls/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/biao-biao-ls
+  id: 73355578
+  login: biao-biao-ls
+  node_id: MDQ6VXNlcjczMzU1NTc4
+  organizations_url: https://api.github.com/users/biao-biao-ls/orgs
+  received_events_url: https://api.github.com/users/biao-biao-ls/received_events
+  repos_url: https://api.github.com/users/biao-biao-ls/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/biao-biao-ls/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/biao-biao-ls/subscriptions
+  type: User
+  url: https://api.github.com/users/biao-biao-ls
+permissions:
+  admin: false
+  pull: true
+  push: false
+private: false
+pulls_url: https://api.github.com/repos/biao-biao-ls/vuepress-theme-biao/pulls{/number}
+pushed_at: '2020-10-23T16:24:47Z'
+releases_url: https://api.github.com/repos/biao-biao-ls/vuepress-theme-biao/releases{/id}
+size: 2
+ssh_url: git@github.com:biao-biao-ls/vuepress-theme-biao.git
+stargazers_count: 0
+stargazers_url: https://api.github.com/repos/biao-biao-ls/vuepress-theme-biao/stargazers
+statuses_url: https://api.github.com/repos/biao-biao-ls/vuepress-theme-biao/statuses/{sha}
+subscribers_count: 1
+subscribers_url: https://api.github.com/repos/biao-biao-ls/vuepress-theme-biao/subscribers
+subscription_url: https://api.github.com/repos/biao-biao-ls/vuepress-theme-biao/subscription
+svn_url: https://github.com/biao-biao-ls/vuepress-theme-biao
+tags_url: https://api.github.com/repos/biao-biao-ls/vuepress-theme-biao/tags
+teams_url: https://api.github.com/repos/biao-biao-ls/vuepress-theme-biao/teams
+temp_clone_token: ''
+trees_url: https://api.github.com/repos/biao-biao-ls/vuepress-theme-biao/git/trees{/sha}
+updated_at: '2020-10-23T16:24:49Z'
+url: https://api.github.com/repos/biao-biao-ls/vuepress-theme-biao
+watchers: 0
+watchers_count: 0
+---
+
+# vuepress-theme-biao
+A simple and beautiful vuepress Blog theme

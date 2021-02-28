@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/meteorlxy/vuepress-theme-meteorlxy/downloads
 events_url: https://api.github.com/repos/meteorlxy/vuepress-theme-meteorlxy/events
 fork: false
-forks: 84
-forks_count: 84
+forks: 85
+forks_count: 85
 forks_url: https://api.github.com/repos/meteorlxy/vuepress-theme-meteorlxy/forks
 full_name: meteorlxy/vuepress-theme-meteorlxy
 git_commits_url: https://api.github.com/repos/meteorlxy/vuepress-theme-meteorlxy/git/commits{/sha}
@@ -53,13 +53,13 @@ merges_url: https://api.github.com/repos/meteorlxy/vuepress-theme-meteorlxy/merg
 milestones_url: https://api.github.com/repos/meteorlxy/vuepress-theme-meteorlxy/milestones{/number}
 mirror_url: null
 name: vuepress-theme-meteorlxy
-network_count: 84
+network_count: 85
 node_id: MDEwOlJlcG9zaXRvcnkxMzI3Mjg2NzY=
 notifications_url: https://api.github.com/repos/meteorlxy/vuepress-theme-meteorlxy/notifications{?since,all,participating}
-open_issues: 2
-open_issues_count: 2
+open_issues: 0
+open_issues_count: 0
 owner:
-  avatar_url: https://avatars3.githubusercontent.com/u/18205362?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/18205362?v=4
   events_url: https://api.github.com/users/meteorlxy/events{/privacy}
   followers_url: https://api.github.com/users/meteorlxy/followers
   following_url: https://api.github.com/users/meteorlxy/following{/other_user}
@@ -83,14 +83,14 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/meteorlxy/vuepress-theme-meteorlxy/pulls{/number}
-pushed_at: '2020-08-13T08:18:41Z'
+pushed_at: '2021-01-06T06:25:55Z'
 releases_url: https://api.github.com/repos/meteorlxy/vuepress-theme-meteorlxy/releases{/id}
-size: 3938
+size: 3865
 ssh_url: git@github.com:meteorlxy/vuepress-theme-meteorlxy.git
-stargazers_count: 282
+stargazers_count: 316
 stargazers_url: https://api.github.com/repos/meteorlxy/vuepress-theme-meteorlxy/stargazers
 statuses_url: https://api.github.com/repos/meteorlxy/vuepress-theme-meteorlxy/statuses/{sha}
-subscribers_count: 7
+subscribers_count: 6
 subscribers_url: https://api.github.com/repos/meteorlxy/vuepress-theme-meteorlxy/subscribers
 subscription_url: https://api.github.com/repos/meteorlxy/vuepress-theme-meteorlxy/subscription
 svn_url: https://github.com/meteorlxy/vuepress-theme-meteorlxy
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/meteorlxy/vuepress-theme-meteorlxy/tags
 teams_url: https://api.github.com/repos/meteorlxy/vuepress-theme-meteorlxy/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/meteorlxy/vuepress-theme-meteorlxy/git/trees{/sha}
-updated_at: '2020-08-25T06:44:22Z'
+updated_at: '2021-02-16T16:02:04Z'
 url: https://api.github.com/repos/meteorlxy/vuepress-theme-meteorlxy
-watchers: 282
-watchers_count: 282
+watchers: 316
+watchers_count: 316
 ---
 
 # VuePress Blog Theme - Meteorlxy

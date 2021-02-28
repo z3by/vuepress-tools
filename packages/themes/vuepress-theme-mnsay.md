@@ -1,0 +1,104 @@
+---
+archive_url: https://api.github.com/repos/mosbyxsy/vuepress-theme-mnsay/{archive_format}{/ref}
+archived: false
+assignees_url: https://api.github.com/repos/mosbyxsy/vuepress-theme-mnsay/assignees{/user}
+blobs_url: https://api.github.com/repos/mosbyxsy/vuepress-theme-mnsay/git/blobs{/sha}
+branches_url: https://api.github.com/repos/mosbyxsy/vuepress-theme-mnsay/branches{/branch}
+clone_url: https://github.com/mosbyxsy/vuepress-theme-mnsay.git
+collaborators_url: https://api.github.com/repos/mosbyxsy/vuepress-theme-mnsay/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/mosbyxsy/vuepress-theme-mnsay/comments{/number}
+commits_url: https://api.github.com/repos/mosbyxsy/vuepress-theme-mnsay/commits{/sha}
+compare_url: https://api.github.com/repos/mosbyxsy/vuepress-theme-mnsay/compare/{base}...{head}
+contents_url: https://api.github.com/repos/mosbyxsy/vuepress-theme-mnsay/contents/{+path}
+contributors_url: https://api.github.com/repos/mosbyxsy/vuepress-theme-mnsay/contributors
+created_at: '2020-10-10T13:09:04Z'
+default_branch: master
+deployments_url: https://api.github.com/repos/mosbyxsy/vuepress-theme-mnsay/deployments
+description: "vuepress\u4E3B\u9898\uFF0C\u7528\u4E8E\u9879\u76EEmnsay"
+disabled: false
+downloads_url: https://api.github.com/repos/mosbyxsy/vuepress-theme-mnsay/downloads
+events_url: https://api.github.com/repos/mosbyxsy/vuepress-theme-mnsay/events
+fork: false
+forks: 0
+forks_count: 0
+forks_url: https://api.github.com/repos/mosbyxsy/vuepress-theme-mnsay/forks
+full_name: mosbyxsy/vuepress-theme-mnsay
+git_commits_url: https://api.github.com/repos/mosbyxsy/vuepress-theme-mnsay/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/mosbyxsy/vuepress-theme-mnsay/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/mosbyxsy/vuepress-theme-mnsay/git/tags{/sha}
+git_url: git://github.com/mosbyxsy/vuepress-theme-mnsay.git
+has_downloads: true
+has_issues: true
+has_pages: false
+has_projects: true
+has_wiki: true
+homepage: null
+hooks_url: https://api.github.com/repos/mosbyxsy/vuepress-theme-mnsay/hooks
+html_url: https://github.com/mosbyxsy/vuepress-theme-mnsay
+id: 302904340
+issue_comment_url: https://api.github.com/repos/mosbyxsy/vuepress-theme-mnsay/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/mosbyxsy/vuepress-theme-mnsay/issues/events{/number}
+issues_url: https://api.github.com/repos/mosbyxsy/vuepress-theme-mnsay/issues{/number}
+keys_url: https://api.github.com/repos/mosbyxsy/vuepress-theme-mnsay/keys{/key_id}
+labels_url: https://api.github.com/repos/mosbyxsy/vuepress-theme-mnsay/labels{/name}
+language: Vue
+languages_url: https://api.github.com/repos/mosbyxsy/vuepress-theme-mnsay/languages
+license: null
+merges_url: https://api.github.com/repos/mosbyxsy/vuepress-theme-mnsay/merges
+milestones_url: https://api.github.com/repos/mosbyxsy/vuepress-theme-mnsay/milestones{/number}
+mirror_url: null
+name: vuepress-theme-mnsay
+network_count: 0
+node_id: MDEwOlJlcG9zaXRvcnkzMDI5MDQzNDA=
+notifications_url: https://api.github.com/repos/mosbyxsy/vuepress-theme-mnsay/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
+owner:
+  avatar_url: https://avatars.githubusercontent.com/u/34191217?v=4
+  events_url: https://api.github.com/users/mosbyxsy/events{/privacy}
+  followers_url: https://api.github.com/users/mosbyxsy/followers
+  following_url: https://api.github.com/users/mosbyxsy/following{/other_user}
+  gists_url: https://api.github.com/users/mosbyxsy/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/mosbyxsy
+  id: 34191217
+  login: mosbyxsy
+  node_id: MDQ6VXNlcjM0MTkxMjE3
+  organizations_url: https://api.github.com/users/mosbyxsy/orgs
+  received_events_url: https://api.github.com/users/mosbyxsy/received_events
+  repos_url: https://api.github.com/users/mosbyxsy/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/mosbyxsy/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/mosbyxsy/subscriptions
+  type: User
+  url: https://api.github.com/users/mosbyxsy
+permissions:
+  admin: false
+  pull: true
+  push: false
+private: false
+pulls_url: https://api.github.com/repos/mosbyxsy/vuepress-theme-mnsay/pulls{/number}
+pushed_at: '2020-10-10T13:13:34Z'
+releases_url: https://api.github.com/repos/mosbyxsy/vuepress-theme-mnsay/releases{/id}
+size: 9
+ssh_url: git@github.com:mosbyxsy/vuepress-theme-mnsay.git
+stargazers_count: 0
+stargazers_url: https://api.github.com/repos/mosbyxsy/vuepress-theme-mnsay/stargazers
+statuses_url: https://api.github.com/repos/mosbyxsy/vuepress-theme-mnsay/statuses/{sha}
+subscribers_count: 1
+subscribers_url: https://api.github.com/repos/mosbyxsy/vuepress-theme-mnsay/subscribers
+subscription_url: https://api.github.com/repos/mosbyxsy/vuepress-theme-mnsay/subscription
+svn_url: https://github.com/mosbyxsy/vuepress-theme-mnsay
+tags_url: https://api.github.com/repos/mosbyxsy/vuepress-theme-mnsay/tags
+teams_url: https://api.github.com/repos/mosbyxsy/vuepress-theme-mnsay/teams
+temp_clone_token: ''
+trees_url: https://api.github.com/repos/mosbyxsy/vuepress-theme-mnsay/git/trees{/sha}
+updated_at: '2020-10-10T13:13:37Z'
+url: https://api.github.com/repos/mosbyxsy/vuepress-theme-mnsay
+watchers: 0
+watchers_count: 0
+---
+
+# vuepress-theme-mnsay
+
+这是一个继承@vuepress/theme-default的vuepress主题

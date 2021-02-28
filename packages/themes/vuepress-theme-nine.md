@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/nine-theme/vuepress-theme-nine/n
 open_issues: 0
 open_issues_count: 0
 organization:
-  avatar_url: https://avatars1.githubusercontent.com/u/64388301?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/64388301?v=4
   events_url: https://api.github.com/users/nine-theme/events{/privacy}
   followers_url: https://api.github.com/users/nine-theme/followers
   following_url: https://api.github.com/users/nine-theme/following{/other_user}
@@ -78,7 +78,7 @@ organization:
   type: Organization
   url: https://api.github.com/users/nine-theme
 owner:
-  avatar_url: https://avatars1.githubusercontent.com/u/64388301?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/64388301?v=4
   events_url: https://api.github.com/users/nine-theme/events{/privacy}
   followers_url: https://api.github.com/users/nine-theme/followers
   following_url: https://api.github.com/users/nine-theme/following{/other_user}
@@ -102,9 +102,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/nine-theme/vuepress-theme-nine/pulls{/number}
-pushed_at: '2020-08-19T05:49:19Z'
+pushed_at: '2020-09-25T01:19:02Z'
 releases_url: https://api.github.com/repos/nine-theme/vuepress-theme-nine/releases{/id}
-size: 10623
+size: 10765
 ssh_url: git@github.com:nine-theme/vuepress-theme-nine.git
 stargazers_count: 1
 stargazers_url: https://api.github.com/repos/nine-theme/vuepress-theme-nine/stargazers
@@ -117,7 +117,7 @@ tags_url: https://api.github.com/repos/nine-theme/vuepress-theme-nine/tags
 teams_url: https://api.github.com/repos/nine-theme/vuepress-theme-nine/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/nine-theme/vuepress-theme-nine/git/trees{/sha}
-updated_at: '2020-08-19T05:49:22Z'
+updated_at: '2020-09-25T01:19:04Z'
 url: https://api.github.com/repos/nine-theme/vuepress-theme-nine
 watchers: 1
 watchers_count: 1
@@ -125,8 +125,12 @@ watchers_count: 1
 
 # Vuepress theme nine 
 
+![GitHub last commit](https://img.shields.io/github/last-commit/nine-theme/vuepress-theme-nine) 
+![npm (scoped)](https://img.shields.io/npm/v/@nine-theme/vuepress-theme-nine) 
+![npm](https://img.shields.io/npm/dt/@nine-theme/vuepress-theme-nine) 
+![NPM](https://img.shields.io/npm/l/@nine-theme/vuepress-theme-nine)
+
 # 使用
-`
 ```shell script
 npm install @nine-theme/vuepress-theme-nine@4.0.0-alpha.1 -D
 ```

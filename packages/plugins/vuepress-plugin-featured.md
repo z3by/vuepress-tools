@@ -63,7 +63,7 @@ notifications_url: https://api.github.com/repos/z3by/vuepress-plugin-featured/no
 open_issues: 3
 open_issues_count: 3
 owner:
-  avatar_url: https://avatars1.githubusercontent.com/u/36268825?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/36268825?v=4
   events_url: https://api.github.com/users/z3by/events{/privacy}
   followers_url: https://api.github.com/users/z3by/followers
   following_url: https://api.github.com/users/z3by/following{/other_user}

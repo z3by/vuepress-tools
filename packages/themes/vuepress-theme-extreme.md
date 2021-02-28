@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/kisstar/vuepress-theme-extreme/n
 open_issues: 1
 open_issues_count: 1
 owner:
-  avatar_url: https://avatars0.githubusercontent.com/u/58550322?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/58550322?v=4
   events_url: https://api.github.com/users/kisstar/events{/privacy}
   followers_url: https://api.github.com/users/kisstar/followers
   following_url: https://api.github.com/users/kisstar/following{/other_user}

@@ -51,10 +51,10 @@ name: vuepress-theme-devbit
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyMzg5MzU5NDI=
 notifications_url: https://api.github.com/repos/sillevl/vuepress-theme-devbit/notifications{?since,all,participating}
-open_issues: 6
-open_issues_count: 6
+open_issues: 8
+open_issues_count: 8
 owner:
-  avatar_url: https://avatars3.githubusercontent.com/u/979071?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/979071?v=4
   events_url: https://api.github.com/users/sillevl/events{/privacy}
   followers_url: https://api.github.com/users/sillevl/followers
   following_url: https://api.github.com/users/sillevl/following{/other_user}
@@ -78,9 +78,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/sillevl/vuepress-theme-devbit/pulls{/number}
-pushed_at: '2020-08-07T23:57:12Z'
+pushed_at: '2020-12-12T07:32:23Z'
 releases_url: https://api.github.com/repos/sillevl/vuepress-theme-devbit/releases{/id}
-size: 888
+size: 1300
 ssh_url: git@github.com:sillevl/vuepress-theme-devbit.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/sillevl/vuepress-theme-devbit/stargazers

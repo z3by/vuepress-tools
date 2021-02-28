@@ -56,10 +56,10 @@ name: vuepress-theme-fly
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyODE0MDg5MTM=
 notifications_url: https://api.github.com/repos/Love-YY/vuepress-theme-fly/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
+open_issues: 1
+open_issues_count: 1
 owner:
-  avatar_url: https://avatars3.githubusercontent.com/u/38833097?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/38833097?v=4
   events_url: https://api.github.com/users/Love-YY/events{/privacy}
   followers_url: https://api.github.com/users/Love-YY/followers
   following_url: https://api.github.com/users/Love-YY/following{/other_user}
@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/Love-YY/vuepress-theme-fly/pulls{/number}
-pushed_at: '2020-08-16T09:23:54Z'
+pushed_at: '2020-12-13T02:29:40Z'
 releases_url: https://api.github.com/repos/Love-YY/vuepress-theme-fly/releases{/id}
-size: 4772
+size: 4905
 ssh_url: git@github.com:Love-YY/vuepress-theme-fly.git
 stargazers_count: 1
 stargazers_url: https://api.github.com/repos/Love-YY/vuepress-theme-fly/stargazers

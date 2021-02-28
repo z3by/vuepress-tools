@@ -54,7 +54,7 @@ notifications_url: https://api.github.com/repos/im/vuepress-theme-postline/notif
 open_issues: 8
 open_issues_count: 8
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/12029165?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/12029165?v=4
   events_url: https://api.github.com/users/im/events{/privacy}
   followers_url: https://api.github.com/users/im/followers
   following_url: https://api.github.com/users/im/following{/other_user}

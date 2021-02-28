@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/druxt/vuepress-theme-druxt/notif
 open_issues: 2
 open_issues_count: 2
 organization:
-  avatar_url: https://avatars1.githubusercontent.com/u/41039745?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/41039745?v=4
   events_url: https://api.github.com/users/druxt/events{/privacy}
   followers_url: https://api.github.com/users/druxt/followers
   following_url: https://api.github.com/users/druxt/following{/other_user}
@@ -78,7 +78,7 @@ organization:
   type: Organization
   url: https://api.github.com/users/druxt
 owner:
-  avatar_url: https://avatars1.githubusercontent.com/u/41039745?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/41039745?v=4
   events_url: https://api.github.com/users/druxt/events{/privacy}
   followers_url: https://api.github.com/users/druxt/followers
   following_url: https://api.github.com/users/druxt/following{/other_user}
@@ -102,9 +102,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/druxt/vuepress-theme-druxt/pulls{/number}
-pushed_at: '2020-08-20T04:18:57Z'
+pushed_at: '2020-09-01T03:14:40Z'
 releases_url: https://api.github.com/repos/druxt/vuepress-theme-druxt/releases{/id}
-size: 75
+size: 110
 ssh_url: git@github.com:druxt/vuepress-theme-druxt.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/druxt/vuepress-theme-druxt/stargazers

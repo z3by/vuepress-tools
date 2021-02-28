@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/xuekai-china/vuepress-plugin-right-anchor/downloads
 events_url: https://api.github.com/repos/xuekai-china/vuepress-plugin-right-anchor/events
 fork: false
-forks: 1
-forks_count: 1
+forks: 2
+forks_count: 2
 forks_url: https://api.github.com/repos/xuekai-china/vuepress-plugin-right-anchor/forks
 full_name: xuekai-china/vuepress-plugin-right-anchor
 git_commits_url: https://api.github.com/repos/xuekai-china/vuepress-plugin-right-anchor/git/commits{/sha}
@@ -53,13 +53,13 @@ merges_url: https://api.github.com/repos/xuekai-china/vuepress-plugin-right-anch
 milestones_url: https://api.github.com/repos/xuekai-china/vuepress-plugin-right-anchor/milestones{/number}
 mirror_url: null
 name: vuepress-plugin-right-anchor
-network_count: 1
+network_count: 2
 node_id: MDEwOlJlcG9zaXRvcnkyNTY3Mjk4MjY=
 notifications_url: https://api.github.com/repos/xuekai-china/vuepress-plugin-right-anchor/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
+open_issues: 1
+open_issues_count: 1
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/49433924?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/49433924?v=4
   events_url: https://api.github.com/users/xuekai-china/events{/privacy}
   followers_url: https://api.github.com/users/xuekai-china/followers
   following_url: https://api.github.com/users/xuekai-china/following{/other_user}
@@ -83,11 +83,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/xuekai-china/vuepress-plugin-right-anchor/pulls{/number}
-pushed_at: '2020-07-18T04:16:55Z'
+pushed_at: '2021-01-24T04:20:19Z'
 releases_url: https://api.github.com/repos/xuekai-china/vuepress-plugin-right-anchor/releases{/id}
-size: 24
+size: 74
 ssh_url: git@github.com:xuekai-china/vuepress-plugin-right-anchor.git
-stargazers_count: 3
+stargazers_count: 6
 stargazers_url: https://api.github.com/repos/xuekai-china/vuepress-plugin-right-anchor/stargazers
 statuses_url: https://api.github.com/repos/xuekai-china/vuepress-plugin-right-anchor/statuses/{sha}
 subscribers_count: 2
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/xuekai-china/vuepress-plugin-right-anchor
 teams_url: https://api.github.com/repos/xuekai-china/vuepress-plugin-right-anchor/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/xuekai-china/vuepress-plugin-right-anchor/git/trees{/sha}
-updated_at: '2020-07-18T04:16:57Z'
+updated_at: '2021-01-24T04:20:03Z'
 url: https://api.github.com/repos/xuekai-china/vuepress-plugin-right-anchor
-watchers: 3
-watchers_count: 3
+watchers: 6
+watchers_count: 6
 ---
 
 <h1 align="center">vuepress-plugin-right-anchor</h1>
@@ -112,17 +112,21 @@ watchers_count: 3
 
 </div>
 
-English ｜[中文](https://raw.githubusercontent.com/None/vuepress-plugin-right-anchor/master/zh-README.md)
+English ｜[中文](https://raw.githubusercontent.com/xuek/vuepress-plugin-right-anchor/master/zh-README.md)
 
 > Add **anchor navigation bar** to the right of the document page written in vuepress
 
+
 ## Features
-  - Simplify the structure of the left sidebar without losing the function of Title navigation within the page。
-  - Click anchor label page over scrolling。
-  - When the page scrolls, the corresponding anchor label follows the highlight。
+  - Simplify the structure of the left sidebar without losing the function of Title navigation within the page.
+  - Click anchor label page over scrolling.
+  - When the page scrolls, the corresponding anchor label follows the highlight.
+  - Disable global ui component.
+
 
 ## Sample
-  [soonspacejs document](http://www.xwbuilders.com:9018/soonspacejs/Docs/api/sbm.html)
+  [soonspacejs document](http://www.xwbuilders.com:9018/soonspacejs/Docs/api/basics/sbm.html)
+
 
 ## Install
 ```bash
@@ -130,6 +134,7 @@ yarn add vuepress-plugin-right-anchor -D
 # or
 npm i vuepress-plugin-right-anchor -D
 ```
+
 
 ## Use
 Add in `.vuepress/config.js`
@@ -143,14 +148,23 @@ module.exports = {
 }
 ```
 
+
 ## Style
-Add in `.vuepress/styles/palette.js`
+Add in `.vuepress/styles/palette.styl`
 
 ```stylus
-$rightAnchorBgColor = #fff
+$rightAnchorBgColor = #fff;
+$rightAnchorTextColor = $textColor;
+$rightAnchorFontSize = 14px;
+// btn
+$rightAnchorBtnTextColor = $rightAnchorTextColor;
+$rightAnchorBtnBgColor = $rightAnchorBgColor;
+// menu
+$rightAnchorMenuTextColor = $rightAnchorTextColor;
 ```
 
-## Config
+
+## Global Config
 Add in `.vuepress/config.js`
 ```js
 module.exports = {
@@ -160,12 +174,18 @@ module.exports = {
     [
       'vuepress-plugin-right-anchor',
       {
-        showLevel: 1,
+        showDepth: 1,
         ignore: [
           '/',
           '/api/'
           // more...
-        ]
+        ],
+        expand: {
+          default: true,
+          trigger: 'hover'
+        },
+        customClass: 'your-customClass',
+        disableGlobalUI: false,
       }
     ]
   ]
@@ -174,13 +194,15 @@ module.exports = {
 
 ## Param description
 
-### showLevel
+### showDepth
+
+  !!! `showLevel` is abandoned in `0.3.x`， but it's still compatible ( Not recommended ).
 
   Which level of title will be used in the right anchor display.
   The pointing meaning of the value is the same as [themeconfig.sidebardepth](https://vuepress.vuejs.org/zh/theme/default-theme-config.html#%E4%BE%A7%E8%BE%B9%E6%A0%8F).
 
-  - Type: number
-  - Default: 1
+  - Type: null | number
+  - Default: null
 
 ### ignore
 
@@ -188,3 +210,58 @@ module.exports = {
 
   - Type: array
   - Default: []
+
+### expand
+
+  About expand configuration of menu.
+
+  - Type: object
+    - default: boolean => Whether to default expand menu?
+    - trigger: string  => The trigger mode of the expand menu. `'hover' | 'click'`
+  - Default:
+      ```js
+      {
+        default: true,
+        trigger: 'hover'
+      }
+      ```
+
+### customClass
+
+  Your customClass for right-anchor.
+
+  - Type: null | string
+  - Default: null
+
+### disableGlobalUI
+
+  Disable globalUIComponent in every page.
+
+  - Type: boolean
+  - Default: false
+
+  If you want disable globalUIComponent in specific page, try `frontmatter`
+
+  ```YAML
+  ---
+  rightAnchor:
+    disableGlobalUI: true
+  ---
+  ```
+
+## Page Config
+
+  Set `front-matter` by `vuepress` recommended method in `.md`.
+
+  ```YAML
+  ---
+  rightAnchor: 
+    showDepth: 1
+    expand:
+      default: true
+      trigger: hover
+    customClass: your-customClass
+    disableGlobalUI: false
+  ---
+  ```
+

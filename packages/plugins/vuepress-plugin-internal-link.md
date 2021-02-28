@@ -60,7 +60,7 @@ notifications_url: https://api.github.com/repos/RoderickQiu/vuepress-plugin-inte
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars0.githubusercontent.com/u/42290260?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/42290260?v=4
   events_url: https://api.github.com/users/RoderickQiu/events{/privacy}
   followers_url: https://api.github.com/users/RoderickQiu/followers
   following_url: https://api.github.com/users/RoderickQiu/following{/other_user}
@@ -88,7 +88,7 @@ pushed_at: '2020-07-29T06:30:53Z'
 releases_url: https://api.github.com/repos/RoderickQiu/vuepress-plugin-internal-link/releases{/id}
 size: 5
 ssh_url: git@github.com:RoderickQiu/vuepress-plugin-internal-link.git
-stargazers_count: 2
+stargazers_count: 3
 stargazers_url: https://api.github.com/repos/RoderickQiu/vuepress-plugin-internal-link/stargazers
 statuses_url: https://api.github.com/repos/RoderickQiu/vuepress-plugin-internal-link/statuses/{sha}
 subscribers_count: 0
@@ -99,10 +99,10 @@ tags_url: https://api.github.com/repos/RoderickQiu/vuepress-plugin-internal-link
 teams_url: https://api.github.com/repos/RoderickQiu/vuepress-plugin-internal-link/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/RoderickQiu/vuepress-plugin-internal-link/git/trees{/sha}
-updated_at: '2020-08-08T03:30:55Z'
+updated_at: '2020-09-27T05:29:28Z'
 url: https://api.github.com/repos/RoderickQiu/vuepress-plugin-internal-link
-watchers: 2
-watchers_count: 2
+watchers: 3
+watchers_count: 3
 ---
 
 # vuepress-plugin-internal-link

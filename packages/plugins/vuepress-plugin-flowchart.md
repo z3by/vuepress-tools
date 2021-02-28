@@ -54,7 +54,7 @@ notifications_url: https://api.github.com/repos/maginapp/vuepress-plugin-flowcha
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars3.githubusercontent.com/u/22275933?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/22275933?v=4
   events_url: https://api.github.com/users/maginapp/events{/privacy}
   followers_url: https://api.github.com/users/maginapp/followers
   following_url: https://api.github.com/users/maginapp/following{/other_user}

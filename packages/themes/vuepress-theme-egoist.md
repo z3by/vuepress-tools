@@ -20,8 +20,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/ulivz/vuepress-theme-egoist/downloads
 events_url: https://api.github.com/repos/ulivz/vuepress-theme-egoist/events
 fork: false
-forks: 13
-forks_count: 13
+forks: 12
+forks_count: 12
 forks_url: https://api.github.com/repos/ulivz/vuepress-theme-egoist/forks
 full_name: ulivz/vuepress-theme-egoist
 git_commits_url: https://api.github.com/repos/ulivz/vuepress-theme-egoist/git/commits{/sha}
@@ -49,13 +49,13 @@ merges_url: https://api.github.com/repos/ulivz/vuepress-theme-egoist/merges
 milestones_url: https://api.github.com/repos/ulivz/vuepress-theme-egoist/milestones{/number}
 mirror_url: null
 name: vuepress-theme-egoist
-network_count: 13
+network_count: 12
 node_id: MDEwOlJlcG9zaXRvcnkxNDg5MjQ3ODc=
 notifications_url: https://api.github.com/repos/ulivz/vuepress-theme-egoist/notifications{?since,all,participating}
-open_issues: 9
-open_issues_count: 9
+open_issues: 12
+open_issues_count: 12
 owner:
-  avatar_url: https://avatars1.githubusercontent.com/u/23133919?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/23133919?v=4
   events_url: https://api.github.com/users/ulivz/events{/privacy}
   followers_url: https://api.github.com/users/ulivz/followers
   following_url: https://api.github.com/users/ulivz/following{/other_user}
@@ -79,11 +79,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/ulivz/vuepress-theme-egoist/pulls{/number}
-pushed_at: '2020-08-07T23:01:44Z'
+pushed_at: '2020-12-11T04:28:08Z'
 releases_url: https://api.github.com/repos/ulivz/vuepress-theme-egoist/releases{/id}
-size: 2713
+size: 2974
 ssh_url: git@github.com:ulivz/vuepress-theme-egoist.git
-stargazers_count: 38
+stargazers_count: 39
 stargazers_url: https://api.github.com/repos/ulivz/vuepress-theme-egoist/stargazers
 statuses_url: https://api.github.com/repos/ulivz/vuepress-theme-egoist/statuses/{sha}
 subscribers_count: 2
@@ -94,10 +94,10 @@ tags_url: https://api.github.com/repos/ulivz/vuepress-theme-egoist/tags
 teams_url: https://api.github.com/repos/ulivz/vuepress-theme-egoist/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/ulivz/vuepress-theme-egoist/git/trees{/sha}
-updated_at: '2020-08-22T11:33:41Z'
+updated_at: '2020-09-11T02:45:05Z'
 url: https://api.github.com/repos/ulivz/vuepress-theme-egoist
-watchers: 38
-watchers_count: 38
+watchers: 39
+watchers_count: 39
 ---
 
 # vuepress-theme-egoist

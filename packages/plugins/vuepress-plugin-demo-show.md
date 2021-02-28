@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/xitice/vuepress-plugin-demo-show
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/34917927?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/34917927?v=4
   events_url: https://api.github.com/users/xitice/events{/privacy}
   followers_url: https://api.github.com/users/xitice/followers
   following_url: https://api.github.com/users/xitice/following{/other_user}

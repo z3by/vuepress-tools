@@ -54,7 +54,7 @@ notifications_url: https://api.github.com/repos/lisniuse/vuepress-theme-teadocs/
 open_issues: 1
 open_issues_count: 1
 owner:
-  avatar_url: https://avatars3.githubusercontent.com/u/7500988?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/7500988?v=4
   events_url: https://api.github.com/users/lisniuse/events{/privacy}
   followers_url: https://api.github.com/users/lisniuse/followers
   following_url: https://api.github.com/users/lisniuse/following{/other_user}

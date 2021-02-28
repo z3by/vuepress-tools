@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/mya-ake/vuepress-theme-component
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/16383815?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/16383815?v=4
   events_url: https://api.github.com/users/mya-ake/events{/privacy}
   followers_url: https://api.github.com/users/mya-ake/followers
   following_url: https://api.github.com/users/mya-ake/following{/other_user}
@@ -90,7 +90,7 @@ ssh_url: git@github.com:mya-ake/vuepress-theme-component-catalog.git
 stargazers_count: 1
 stargazers_url: https://api.github.com/repos/mya-ake/vuepress-theme-component-catalog/stargazers
 statuses_url: https://api.github.com/repos/mya-ake/vuepress-theme-component-catalog/statuses/{sha}
-subscribers_count: 1
+subscribers_count: 2
 subscribers_url: https://api.github.com/repos/mya-ake/vuepress-theme-component-catalog/subscribers
 subscription_url: https://api.github.com/repos/mya-ake/vuepress-theme-component-catalog/subscription
 svn_url: https://github.com/mya-ake/vuepress-theme-component-catalog

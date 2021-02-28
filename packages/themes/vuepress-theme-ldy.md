@@ -14,7 +14,7 @@ contributors_url: https://api.github.com/repos/gitldy1013/vuepress-theme-ldy/con
 created_at: '2019-11-14T06:00:39Z'
 default_branch: master
 deployments_url: https://api.github.com/repos/gitldy1013/vuepress-theme-ldy/deployments
-description: "https://vuepress-theme-reco.recoluan.com \u76AE\u80A4\u5F00\u53D1 vuepress-theme-ldy"
+description: "vuepress \u76AE\u80A4\u5F00\u53D1 vuepress-theme-ldy"
 disabled: false
 downloads_url: https://api.github.com/repos/gitldy1013/vuepress-theme-ldy/downloads
 events_url: https://api.github.com/repos/gitldy1013/vuepress-theme-ldy/events
@@ -32,7 +32,7 @@ has_issues: true
 has_pages: false
 has_projects: true
 has_wiki: true
-homepage: null
+homepage: ''
 hooks_url: https://api.github.com/repos/gitldy1013/vuepress-theme-ldy/hooks
 html_url: https://github.com/gitldy1013/vuepress-theme-ldy
 id: 221623390
@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/gitldy1013/vuepress-theme-ldy/no
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/12009244?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/12009244?v=4
   events_url: https://api.github.com/users/gitldy1013/events{/privacy}
   followers_url: https://api.github.com/users/gitldy1013/followers
   following_url: https://api.github.com/users/gitldy1013/following{/other_user}
@@ -83,11 +83,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/gitldy1013/vuepress-theme-ldy/pulls{/number}
-pushed_at: '2020-05-26T05:12:17Z'
+pushed_at: '2020-10-09T08:27:34Z'
 releases_url: https://api.github.com/repos/gitldy1013/vuepress-theme-ldy/releases{/id}
-size: 879
+size: 881
 ssh_url: git@github.com:gitldy1013/vuepress-theme-ldy.git
-stargazers_count: 0
+stargazers_count: 1
 stargazers_url: https://api.github.com/repos/gitldy1013/vuepress-theme-ldy/stargazers
 statuses_url: https://api.github.com/repos/gitldy1013/vuepress-theme-ldy/statuses/{sha}
 subscribers_count: 1
@@ -98,16 +98,16 @@ tags_url: https://api.github.com/repos/gitldy1013/vuepress-theme-ldy/tags
 teams_url: https://api.github.com/repos/gitldy1013/vuepress-theme-ldy/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/gitldy1013/vuepress-theme-ldy/git/trees{/sha}
-updated_at: '2020-05-26T05:12:20Z'
+updated_at: '2021-01-07T07:58:22Z'
 url: https://api.github.com/repos/gitldy1013/vuepress-theme-ldy
-watchers: 0
-watchers_count: 0
+watchers: 1
+watchers_count: 1
 ---
 
 ## Introduce
 
 1. 这是一个vuepress主题，旨在添加博客所需的分类、TAB墙、分页、评论等功能；
 2. 主题追求极简，根据 vuepress 的默认主题修改而成，官方的主题配置仍然适用；
-3. 效果：[有梦想的咸鱼](https://www.liudongyang.top) 
+3. 效果：[有梦想的咸鱼](https://blog.liudongyang.top) 
 
 > 此主题源自[午后南杂](https://www.recoluan.com)部分源码由个人改造，如果喜欢请进入官网了解更过细节。

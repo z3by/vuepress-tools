@@ -23,8 +23,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/z3by/vuepress-theme-modern-blog/downloads
 events_url: https://api.github.com/repos/z3by/vuepress-theme-modern-blog/events
 fork: false
-forks: 21
-forks_count: 21
+forks: 24
+forks_count: 24
 forks_url: https://api.github.com/repos/z3by/vuepress-theme-modern-blog/forks
 full_name: z3by/vuepress-theme-modern-blog
 git_commits_url: https://api.github.com/repos/z3by/vuepress-theme-modern-blog/git/commits{/sha}
@@ -57,13 +57,13 @@ merges_url: https://api.github.com/repos/z3by/vuepress-theme-modern-blog/merges
 milestones_url: https://api.github.com/repos/z3by/vuepress-theme-modern-blog/milestones{/number}
 mirror_url: null
 name: vuepress-theme-modern-blog
-network_count: 21
+network_count: 24
 node_id: MDEwOlJlcG9zaXRvcnkyMjUyMDQ2OTg=
 notifications_url: https://api.github.com/repos/z3by/vuepress-theme-modern-blog/notifications{?since,all,participating}
-open_issues: 12
-open_issues_count: 12
+open_issues: 20
+open_issues_count: 20
 owner:
-  avatar_url: https://avatars1.githubusercontent.com/u/36268825?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/36268825?v=4
   events_url: https://api.github.com/users/z3by/events{/privacy}
   followers_url: https://api.github.com/users/z3by/followers
   following_url: https://api.github.com/users/z3by/following{/other_user}
@@ -87,11 +87,11 @@ permissions:
   push: true
 private: false
 pulls_url: https://api.github.com/repos/z3by/vuepress-theme-modern-blog/pulls{/number}
-pushed_at: '2020-08-08T00:22:27Z'
+pushed_at: '2020-12-31T07:09:43Z'
 releases_url: https://api.github.com/repos/z3by/vuepress-theme-modern-blog/releases{/id}
-size: 5211
+size: 6709
 ssh_url: git@github.com:z3by/vuepress-theme-modern-blog.git
-stargazers_count: 56
+stargazers_count: 80
 stargazers_url: https://api.github.com/repos/z3by/vuepress-theme-modern-blog/stargazers
 statuses_url: https://api.github.com/repos/z3by/vuepress-theme-modern-blog/statuses/{sha}
 subscribers_count: 4
@@ -102,10 +102,10 @@ tags_url: https://api.github.com/repos/z3by/vuepress-theme-modern-blog/tags
 teams_url: https://api.github.com/repos/z3by/vuepress-theme-modern-blog/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/z3by/vuepress-theme-modern-blog/git/trees{/sha}
-updated_at: '2020-08-25T06:02:50Z'
+updated_at: '2021-02-26T08:38:10Z'
 url: https://api.github.com/repos/z3by/vuepress-theme-modern-blog
-watchers: 56
-watchers_count: 56
+watchers: 80
+watchers_count: 80
 ---
 
 # vuepress-theme-modern-blog

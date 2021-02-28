@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/uzkk/vuepress-theme-uzkk/notific
 open_issues: 0
 open_issues_count: 0
 organization:
-  avatar_url: https://avatars1.githubusercontent.com/u/48154948?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/48154948?v=4
   events_url: https://api.github.com/users/uzkk/events{/privacy}
   followers_url: https://api.github.com/users/uzkk/followers
   following_url: https://api.github.com/users/uzkk/following{/other_user}
@@ -78,7 +78,7 @@ organization:
   type: Organization
   url: https://api.github.com/users/uzkk
 owner:
-  avatar_url: https://avatars1.githubusercontent.com/u/48154948?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/48154948?v=4
   events_url: https://api.github.com/users/uzkk/events{/privacy}
   followers_url: https://api.github.com/users/uzkk/followers
   following_url: https://api.github.com/users/uzkk/following{/other_user}

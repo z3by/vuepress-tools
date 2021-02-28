@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/xugaoyi/vuepress-theme-vdoing-doc/downloads
 events_url: https://api.github.com/repos/xugaoyi/vuepress-theme-vdoing-doc/events
 fork: false
-forks: 3
-forks_count: 3
+forks: 8
+forks_count: 8
 forks_url: https://api.github.com/repos/xugaoyi/vuepress-theme-vdoing-doc/forks
 full_name: xugaoyi/vuepress-theme-vdoing-doc
 git_commits_url: https://api.github.com/repos/xugaoyi/vuepress-theme-vdoing-doc/git/commits{/sha}
@@ -32,7 +32,7 @@ has_issues: true
 has_pages: true
 has_projects: true
 has_wiki: true
-homepage: null
+homepage: https://doc.xugaoyi.com
 hooks_url: https://api.github.com/repos/xugaoyi/vuepress-theme-vdoing-doc/hooks
 html_url: https://github.com/xugaoyi/vuepress-theme-vdoing-doc
 id: 263589164
@@ -53,13 +53,13 @@ merges_url: https://api.github.com/repos/xugaoyi/vuepress-theme-vdoing-doc/merge
 milestones_url: https://api.github.com/repos/xugaoyi/vuepress-theme-vdoing-doc/milestones{/number}
 mirror_url: null
 name: vuepress-theme-vdoing-doc
-network_count: 3
+network_count: 8
 node_id: MDEwOlJlcG9zaXRvcnkyNjM1ODkxNjQ=
 notifications_url: https://api.github.com/repos/xugaoyi/vuepress-theme-vdoing-doc/notifications{?since,all,participating}
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/5212214?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/5212214?v=4
   events_url: https://api.github.com/users/xugaoyi/events{/privacy}
   followers_url: https://api.github.com/users/xugaoyi/followers
   following_url: https://api.github.com/users/xugaoyi/following{/other_user}
@@ -83,11 +83,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/xugaoyi/vuepress-theme-vdoing-doc/pulls{/number}
-pushed_at: '2020-08-24T14:33:54Z'
+pushed_at: '2021-02-23T12:43:20Z'
 releases_url: https://api.github.com/repos/xugaoyi/vuepress-theme-vdoing-doc/releases{/id}
-size: 2274
+size: 2371
 ssh_url: git@github.com:xugaoyi/vuepress-theme-vdoing-doc.git
-stargazers_count: 0
+stargazers_count: 7
 stargazers_url: https://api.github.com/repos/xugaoyi/vuepress-theme-vdoing-doc/stargazers
 statuses_url: https://api.github.com/repos/xugaoyi/vuepress-theme-vdoing-doc/statuses/{sha}
 subscribers_count: 1
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/xugaoyi/vuepress-theme-vdoing-doc/tags
 teams_url: https://api.github.com/repos/xugaoyi/vuepress-theme-vdoing-doc/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/xugaoyi/vuepress-theme-vdoing-doc/git/trees{/sha}
-updated_at: '2020-08-24T14:32:24Z'
+updated_at: '2021-02-23T12:41:37Z'
 url: https://api.github.com/repos/xugaoyi/vuepress-theme-vdoing-doc
-watchers: 0
-watchers_count: 0
+watchers: 7
+watchers_count: 7
 ---
 
 <p align="center"><a href="https://xugaoyi.com/" target="_blank" rel="noopener noreferrer"><img width="180" src="https://cdn.jsdelivr.net/gh/xugaoyi/image_store/blog/20200409124835.png" alt="logo"></a></p>
@@ -109,5 +109,8 @@ watchers_count: 0
 
 <h2 align="center">vuepress-theme-vdoing</h2>
 
-[文档地址](https://xugaoyi.github.io/vuepress-theme-vdoing-doc/)
+[在线文档(github源)](https://xugaoyi.github.io/vuepress-theme-vdoing-doc/)
+
+[在线文档(国内源)](https://doc.xugaoyi.com/)
+
 [主题仓库](https://github.com/xugaoyi/vuepress-theme-vdoing)

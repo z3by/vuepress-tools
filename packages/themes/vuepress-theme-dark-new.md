@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/hmnd/vuepress-theme-dark-new/not
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars1.githubusercontent.com/u/12853597?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/12853597?v=4
   events_url: https://api.github.com/users/hmnd/events{/privacy}
   followers_url: https://api.github.com/users/hmnd/followers
   following_url: https://api.github.com/users/hmnd/following{/other_user}

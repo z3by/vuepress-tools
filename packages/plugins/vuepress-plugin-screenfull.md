@@ -41,7 +41,7 @@ issue_events_url: https://api.github.com/repos/nine-theme/vuepress-plugin-screen
 issues_url: https://api.github.com/repos/nine-theme/vuepress-plugin-screenfull/issues{/number}
 keys_url: https://api.github.com/repos/nine-theme/vuepress-plugin-screenfull/keys{/key_id}
 labels_url: https://api.github.com/repos/nine-theme/vuepress-plugin-screenfull/labels{/name}
-language: JavaScript
+language: Vue
 languages_url: https://api.github.com/repos/nine-theme/vuepress-plugin-screenfull/languages
 license:
   key: mit
@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/nine-theme/vuepress-plugin-scree
 open_issues: 0
 open_issues_count: 0
 organization:
-  avatar_url: https://avatars1.githubusercontent.com/u/64388301?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/64388301?v=4
   events_url: https://api.github.com/users/nine-theme/events{/privacy}
   followers_url: https://api.github.com/users/nine-theme/followers
   following_url: https://api.github.com/users/nine-theme/following{/other_user}
@@ -78,7 +78,7 @@ organization:
   type: Organization
   url: https://api.github.com/users/nine-theme
 owner:
-  avatar_url: https://avatars1.githubusercontent.com/u/64388301?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/64388301?v=4
   events_url: https://api.github.com/users/nine-theme/events{/privacy}
   followers_url: https://api.github.com/users/nine-theme/followers
   following_url: https://api.github.com/users/nine-theme/following{/other_user}
@@ -102,9 +102,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/nine-theme/vuepress-plugin-screenfull/pulls{/number}
-pushed_at: '2020-01-12T16:26:50Z'
+pushed_at: '2020-09-24T03:08:14Z'
 releases_url: https://api.github.com/repos/nine-theme/vuepress-plugin-screenfull/releases{/id}
-size: 37
+size: 165
 ssh_url: git@github.com:nine-theme/vuepress-plugin-screenfull.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/nine-theme/vuepress-plugin-screenfull/stargazers
@@ -117,28 +117,28 @@ tags_url: https://api.github.com/repos/nine-theme/vuepress-plugin-screenfull/tag
 teams_url: https://api.github.com/repos/nine-theme/vuepress-plugin-screenfull/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/nine-theme/vuepress-plugin-screenfull/git/trees{/sha}
-updated_at: '2020-04-27T01:41:20Z'
+updated_at: '2020-09-24T03:08:17Z'
 url: https://api.github.com/repos/nine-theme/vuepress-plugin-screenfull
 watchers: 0
 watchers_count: 0
 ---
 
-# @nines/vuepress-plugin-screenfull
-![GitHub last commit](https://img.shields.io/github/last-commit/NineSwordsMonster/vuepress-plugin-screenfull)
+# @nine-theme/vuepress-plugin-screenfull
+![GitHub last commit](https://img.shields.io/github/last-commit/nine-theme/vuepress-plugin-screenfull) 
+![npm (scoped)](https://img.shields.io/npm/v/@nine-theme/vuepress-plugin-screenfull) 
+![npm](https://img.shields.io/npm/dt/@nine-theme/vuepress-plugin-screenfull) 
+![NPM](https://img.shields.io/npm/l/@nine-theme/vuepress-plugin-screenfull)
 
-![NPM](https://img.shields.io/npm/l/@nines/vuepress-plugin-screenfull)
-![npm (scoped)](https://img.shields.io/npm/v/@nines/vuepress-plugin-screenfull)
-![npm](https://img.shields.io/npm/dt/@nines/vuepress-plugin-screenfull)
-
+---
 > Screenfull plugin for vuepress
 
 ## 使用
 
 |使用位置|值|
 |-|-|
-|plugin name|@nines/vuepress-plugin-screenfull|
+|plugin name|@nine-theme/vuepress-plugin-screenfull|
 |component name|Screenfull（主题开发时使用）|
 
 ```sh
-npm install @nines/vuepress-plugin-screenfull
+npm install @nine-theme/vuepress-plugin-screenfull
 ```

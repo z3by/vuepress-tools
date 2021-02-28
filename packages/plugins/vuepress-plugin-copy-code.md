@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/artiely/vuepress-plugin-copy-cod
 open_issues: 1
 open_issues_count: 1
 owner:
-  avatar_url: https://avatars0.githubusercontent.com/u/19198355?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/19198355?v=4
   events_url: https://api.github.com/users/artiely/events{/privacy}
   followers_url: https://api.github.com/users/artiely/followers
   following_url: https://api.github.com/users/artiely/following{/other_user}

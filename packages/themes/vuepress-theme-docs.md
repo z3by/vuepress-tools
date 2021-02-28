@@ -54,7 +54,7 @@ notifications_url: https://api.github.com/repos/getnacelle/vuepress-theme-docs/n
 open_issues: 0
 open_issues_count: 0
 organization:
-  avatar_url: https://avatars0.githubusercontent.com/u/55663384?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/55663384?v=4
   events_url: https://api.github.com/users/getnacelle/events{/privacy}
   followers_url: https://api.github.com/users/getnacelle/followers
   following_url: https://api.github.com/users/getnacelle/following{/other_user}
@@ -73,7 +73,7 @@ organization:
   type: Organization
   url: https://api.github.com/users/getnacelle
 owner:
-  avatar_url: https://avatars0.githubusercontent.com/u/55663384?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/55663384?v=4
   events_url: https://api.github.com/users/getnacelle/events{/privacy}
   followers_url: https://api.github.com/users/getnacelle/followers
   following_url: https://api.github.com/users/getnacelle/following{/other_user}
@@ -97,9 +97,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/getnacelle/vuepress-theme-docs/pulls{/number}
-pushed_at: '2020-07-24T16:48:26Z'
+pushed_at: '2020-09-18T16:18:37Z'
 releases_url: https://api.github.com/repos/getnacelle/vuepress-theme-docs/releases{/id}
-size: 500
+size: 571
 ssh_url: git@github.com:getnacelle/vuepress-theme-docs.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/getnacelle/vuepress-theme-docs/stargazers
@@ -112,7 +112,7 @@ tags_url: https://api.github.com/repos/getnacelle/vuepress-theme-docs/tags
 teams_url: https://api.github.com/repos/getnacelle/vuepress-theme-docs/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/getnacelle/vuepress-theme-docs/git/trees{/sha}
-updated_at: '2020-07-24T16:48:21Z'
+updated_at: '2020-09-18T16:18:39Z'
 url: https://api.github.com/repos/getnacelle/vuepress-theme-docs
 watchers: 0
 watchers_count: 0

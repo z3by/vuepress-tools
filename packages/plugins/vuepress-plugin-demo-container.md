@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/calebman/vuepress-plugin-demo-container/downloads
 events_url: https://api.github.com/repos/calebman/vuepress-plugin-demo-container/events
 fork: false
-forks: 2
-forks_count: 2
+forks: 13
+forks_count: 13
 forks_url: https://api.github.com/repos/calebman/vuepress-plugin-demo-container/forks
 full_name: calebman/vuepress-plugin-demo-container
 git_commits_url: https://api.github.com/repos/calebman/vuepress-plugin-demo-container/git/commits{/sha}
@@ -53,13 +53,13 @@ merges_url: https://api.github.com/repos/calebman/vuepress-plugin-demo-container
 milestones_url: https://api.github.com/repos/calebman/vuepress-plugin-demo-container/milestones{/number}
 mirror_url: null
 name: vuepress-plugin-demo-container
-network_count: 2
+network_count: 13
 node_id: MDEwOlJlcG9zaXRvcnkyNjc3ODE5NDY=
 notifications_url: https://api.github.com/repos/calebman/vuepress-plugin-demo-container/notifications{?since,all,participating}
-open_issues: 5
-open_issues_count: 5
+open_issues: 12
+open_issues_count: 12
 owner:
-  avatar_url: https://avatars0.githubusercontent.com/u/27751088?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/27751088?v=4
   events_url: https://api.github.com/users/calebman/events{/privacy}
   followers_url: https://api.github.com/users/calebman/followers
   following_url: https://api.github.com/users/calebman/following{/other_user}
@@ -83,14 +83,14 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/calebman/vuepress-plugin-demo-container/pulls{/number}
-pushed_at: '2020-08-19T01:24:12Z'
+pushed_at: '2020-12-12T19:37:19Z'
 releases_url: https://api.github.com/repos/calebman/vuepress-plugin-demo-container/releases{/id}
-size: 9381
+size: 2735
 ssh_url: git@github.com:calebman/vuepress-plugin-demo-container.git
-stargazers_count: 15
+stargazers_count: 44
 stargazers_url: https://api.github.com/repos/calebman/vuepress-plugin-demo-container/stargazers
 statuses_url: https://api.github.com/repos/calebman/vuepress-plugin-demo-container/statuses/{sha}
-subscribers_count: 1
+subscribers_count: 2
 subscribers_url: https://api.github.com/repos/calebman/vuepress-plugin-demo-container/subscribers
 subscription_url: https://api.github.com/repos/calebman/vuepress-plugin-demo-container/subscription
 svn_url: https://github.com/calebman/vuepress-plugin-demo-container
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/calebman/vuepress-plugin-demo-container/t
 teams_url: https://api.github.com/repos/calebman/vuepress-plugin-demo-container/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/calebman/vuepress-plugin-demo-container/git/trees{/sha}
-updated_at: '2020-08-23T11:28:16Z'
+updated_at: '2021-02-26T05:27:54Z'
 url: https://api.github.com/repos/calebman/vuepress-plugin-demo-container
-watchers: 15
-watchers_count: 15
+watchers: 44
+watchers_count: 44
 ---
 
 # Introduction

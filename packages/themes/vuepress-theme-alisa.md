@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/AlisaLiCn/vuepress-theme-alisa/n
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars1.githubusercontent.com/u/28704280?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/28704280?v=4
   events_url: https://api.github.com/users/AlisaLiCn/events{/privacy}
   followers_url: https://api.github.com/users/AlisaLiCn/followers
   following_url: https://api.github.com/users/AlisaLiCn/following{/other_user}
@@ -90,7 +90,7 @@ ssh_url: git@github.com:AlisaLiCn/vuepress-theme-alisa.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/AlisaLiCn/vuepress-theme-alisa/stargazers
 statuses_url: https://api.github.com/repos/AlisaLiCn/vuepress-theme-alisa/statuses/{sha}
-subscribers_count: 1
+subscribers_count: 2
 subscribers_url: https://api.github.com/repos/AlisaLiCn/vuepress-theme-alisa/subscribers
 subscription_url: https://api.github.com/repos/AlisaLiCn/vuepress-theme-alisa/subscription
 svn_url: https://github.com/AlisaLiCn/vuepress-theme-alisa

@@ -54,7 +54,7 @@ notifications_url: https://api.github.com/repos/xiyun-international/vuepress-the
 open_issues: 0
 open_issues_count: 0
 organization:
-  avatar_url: https://avatars2.githubusercontent.com/u/47847334?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/47847334?v=4
   events_url: https://api.github.com/users/xiyun-international/events{/privacy}
   followers_url: https://api.github.com/users/xiyun-international/followers
   following_url: https://api.github.com/users/xiyun-international/following{/other_user}
@@ -73,7 +73,7 @@ organization:
   type: Organization
   url: https://api.github.com/users/xiyun-international
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/47847334?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/47847334?v=4
   events_url: https://api.github.com/users/xiyun-international/events{/privacy}
   followers_url: https://api.github.com/users/xiyun-international/followers
   following_url: https://api.github.com/users/xiyun-international/following{/other_user}

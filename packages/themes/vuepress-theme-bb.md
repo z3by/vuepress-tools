@@ -56,10 +56,10 @@ name: vuepress-theme-bb
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkxOTUwODI2NTg=
 notifications_url: https://api.github.com/repos/x-bao/vuepress-theme-bb/notifications{?since,all,participating}
-open_issues: 4
-open_issues_count: 4
+open_issues: 7
+open_issues_count: 7
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/34507012?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/34507012?v=4
   events_url: https://api.github.com/users/x-bao/events{/privacy}
   followers_url: https://api.github.com/users/x-bao/followers
   following_url: https://api.github.com/users/x-bao/following{/other_user}
@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/x-bao/vuepress-theme-bb/pulls{/number}
-pushed_at: '2020-08-07T23:19:21Z'
+pushed_at: '2020-12-11T15:30:14Z'
 releases_url: https://api.github.com/repos/x-bao/vuepress-theme-bb/releases{/id}
-size: 783
+size: 637
 ssh_url: git@github.com:x-bao/vuepress-theme-bb.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/x-bao/vuepress-theme-bb/stargazers

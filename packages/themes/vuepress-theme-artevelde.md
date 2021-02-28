@@ -12,7 +12,7 @@ compare_url: https://api.github.com/repos/gdmgent/vuepress-theme-artevelde/compa
 contents_url: https://api.github.com/repos/gdmgent/vuepress-theme-artevelde/contents/{+path}
 contributors_url: https://api.github.com/repos/gdmgent/vuepress-theme-artevelde/contributors
 created_at: '2020-07-30T15:43:12Z'
-default_branch: master
+default_branch: main
 deployments_url: https://api.github.com/repos/gdmgent/vuepress-theme-artevelde/deployments
 description: null
 disabled: false
@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/gdmgent/vuepress-theme-artevelde
 open_issues: 0
 open_issues_count: 0
 organization:
-  avatar_url: https://avatars3.githubusercontent.com/u/16255180?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/16255180?v=4
   events_url: https://api.github.com/users/gdmgent/events{/privacy}
   followers_url: https://api.github.com/users/gdmgent/followers
   following_url: https://api.github.com/users/gdmgent/following{/other_user}
@@ -78,7 +78,7 @@ organization:
   type: Organization
   url: https://api.github.com/users/gdmgent
 owner:
-  avatar_url: https://avatars3.githubusercontent.com/u/16255180?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/16255180?v=4
   events_url: https://api.github.com/users/gdmgent/events{/privacy}
   followers_url: https://api.github.com/users/gdmgent/followers
   following_url: https://api.github.com/users/gdmgent/following{/other_user}
@@ -102,9 +102,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/gdmgent/vuepress-theme-artevelde/pulls{/number}
-pushed_at: '2020-08-24T19:03:51Z'
+pushed_at: '2021-02-01T08:39:50Z'
 releases_url: https://api.github.com/repos/gdmgent/vuepress-theme-artevelde/releases{/id}
-size: 107
+size: 183
 ssh_url: git@github.com:gdmgent/vuepress-theme-artevelde.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/gdmgent/vuepress-theme-artevelde/stargazers
@@ -117,26 +117,37 @@ tags_url: https://api.github.com/repos/gdmgent/vuepress-theme-artevelde/tags
 teams_url: https://api.github.com/repos/gdmgent/vuepress-theme-artevelde/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/gdmgent/vuepress-theme-artevelde/git/trees{/sha}
-updated_at: '2020-08-24T19:03:53Z'
+updated_at: '2021-02-01T08:39:52Z'
 url: https://api.github.com/repos/gdmgent/vuepress-theme-artevelde
 watchers: 0
 watchers_count: 0
 ---
 
-# VuePress theme Artevelde
+# VuePress Theme Artevelde
 
-VuePress theme for use at Artevelde University of Applied Sciences.
+VuePress theme for use at Artevelde University of Applied Sciences, based on https://github.com/vuejs/vuepress/tree/master/packages/%40vuepress/theme-default.
 
 ## Install
 
-    $ yarn add -D @gdmgent/vuepress-theme-artevelde
+Install in a VuePress project.
 
-
-## Development
-
-    $ yarn dev
-
+    $ npm add -D @artevelde/vuepress-theme-artevelde
 
 ### Publish to NPM
 
-    $ npm publish --access public
+Run NPM scripts in this exact order.
+
+    1. `npm run git:add-new`
+    2. `npm run git:commit`
+    3. `npm run npm:version-0.0.x` (or one of the others)
+    4. `npm run npm:publish-push`
+
+### Link Local
+
+Link in this local repo.
+
+    $ npm link
+
+Link in the VuePress project local repo.
+
+    $ npm link @artevelde/vuepress-theme-artevelde

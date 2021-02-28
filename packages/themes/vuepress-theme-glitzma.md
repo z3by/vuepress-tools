@@ -56,10 +56,10 @@ name: vuepress-theme-glitzma
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkxODI5ODkyNDQ=
 notifications_url: https://api.github.com/repos/glitzma/vuepress-theme-glitzma/notifications{?since,all,participating}
-open_issues: 7
-open_issues_count: 7
+open_issues: 10
+open_issues_count: 10
 owner:
-  avatar_url: https://avatars0.githubusercontent.com/u/49772593?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/49772593?v=4
   events_url: https://api.github.com/users/glitzma/events{/privacy}
   followers_url: https://api.github.com/users/glitzma/followers
   following_url: https://api.github.com/users/glitzma/following{/other_user}
@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/glitzma/vuepress-theme-glitzma/pulls{/number}
-pushed_at: '2020-08-07T23:13:44Z'
+pushed_at: '2020-12-11T09:47:56Z'
 releases_url: https://api.github.com/repos/glitzma/vuepress-theme-glitzma/releases{/id}
-size: 4072
+size: 4654
 ssh_url: git@github.com:glitzma/vuepress-theme-glitzma.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/glitzma/vuepress-theme-glitzma/stargazers
@@ -98,7 +98,7 @@ tags_url: https://api.github.com/repos/glitzma/vuepress-theme-glitzma/tags
 teams_url: https://api.github.com/repos/glitzma/vuepress-theme-glitzma/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/glitzma/vuepress-theme-glitzma/git/trees{/sha}
-updated_at: '2019-06-23T04:00:25Z'
+updated_at: '2020-08-31T13:55:59Z'
 url: https://api.github.com/repos/glitzma/vuepress-theme-glitzma
 watchers: 0
 watchers_count: 0
@@ -122,4 +122,8 @@ watchers_count: 0
 ```sh
 # for vuepress 1.x
 npm install vuepress-theme-glitzma
+```
+
+```$xslt
+npm publish --tag next // 发布后带上@next
 ```

@@ -23,8 +23,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/z3by/vuepress-plugin-flexsearch/downloads
 events_url: https://api.github.com/repos/z3by/vuepress-plugin-flexsearch/events
 fork: false
-forks: 6
-forks_count: 6
+forks: 7
+forks_count: 7
 forks_url: https://api.github.com/repos/z3by/vuepress-plugin-flexsearch/forks
 full_name: z3by/vuepress-plugin-flexsearch
 git_commits_url: https://api.github.com/repos/z3by/vuepress-plugin-flexsearch/git/commits{/sha}
@@ -57,13 +57,13 @@ merges_url: https://api.github.com/repos/z3by/vuepress-plugin-flexsearch/merges
 milestones_url: https://api.github.com/repos/z3by/vuepress-plugin-flexsearch/milestones{/number}
 mirror_url: null
 name: vuepress-plugin-flexsearch
-network_count: 6
+network_count: 7
 node_id: MDEwOlJlcG9zaXRvcnkyMzM5MzIzMzk=
 notifications_url: https://api.github.com/repos/z3by/vuepress-plugin-flexsearch/notifications{?since,all,participating}
-open_issues: 2
-open_issues_count: 2
+open_issues: 6
+open_issues_count: 6
 owner:
-  avatar_url: https://avatars1.githubusercontent.com/u/36268825?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/36268825?v=4
   events_url: https://api.github.com/users/z3by/events{/privacy}
   followers_url: https://api.github.com/users/z3by/followers
   following_url: https://api.github.com/users/z3by/following{/other_user}
@@ -87,14 +87,14 @@ permissions:
   push: true
 private: false
 pulls_url: https://api.github.com/repos/z3by/vuepress-plugin-flexsearch/pulls{/number}
-pushed_at: '2020-08-24T13:37:21Z'
+pushed_at: '2020-12-12T06:11:07Z'
 releases_url: https://api.github.com/repos/z3by/vuepress-plugin-flexsearch/releases{/id}
-size: 2070
+size: 532
 ssh_url: git@github.com:z3by/vuepress-plugin-flexsearch.git
-stargazers_count: 15
+stargazers_count: 22
 stargazers_url: https://api.github.com/repos/z3by/vuepress-plugin-flexsearch/stargazers
 statuses_url: https://api.github.com/repos/z3by/vuepress-plugin-flexsearch/statuses/{sha}
-subscribers_count: 3
+subscribers_count: 4
 subscribers_url: https://api.github.com/repos/z3by/vuepress-plugin-flexsearch/subscribers
 subscription_url: https://api.github.com/repos/z3by/vuepress-plugin-flexsearch/subscription
 svn_url: https://github.com/z3by/vuepress-plugin-flexsearch
@@ -102,10 +102,10 @@ tags_url: https://api.github.com/repos/z3by/vuepress-plugin-flexsearch/tags
 teams_url: https://api.github.com/repos/z3by/vuepress-plugin-flexsearch/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/z3by/vuepress-plugin-flexsearch/git/trees{/sha}
-updated_at: '2020-08-24T13:37:20Z'
+updated_at: '2021-01-19T15:54:08Z'
 url: https://api.github.com/repos/z3by/vuepress-plugin-flexsearch
-watchers: 15
-watchers_count: 15
+watchers: 22
+watchers_count: 22
 ---
 
 [![https://badgen.net/npm/v/vuepress-plugin-flexsearch](https://badgen.net/npm/v/vuepress-plugin-flexsearch)](https://www.npmjs.com/package/vuepress-plugin-flexsearch)

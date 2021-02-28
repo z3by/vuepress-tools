@@ -14,7 +14,7 @@ contributors_url: https://api.github.com/repos/whoan/vuepress-theme-canvas/contr
 created_at: '2018-05-09T06:14:00Z'
 default_branch: master
 deployments_url: https://api.github.com/repos/whoan/vuepress-theme-canvas/deployments
-description: Vuepress custom theme for blogging. See my blog as an example!
+description: ':pencil2: Vuepress custom theme for blogging. See my blog as an example!'
 disabled: false
 downloads_url: https://api.github.com/repos/whoan/vuepress-theme-canvas/downloads
 events_url: https://api.github.com/repos/whoan/vuepress-theme-canvas/events
@@ -56,10 +56,10 @@ name: vuepress-theme-canvas
 network_count: 2
 node_id: MDEwOlJlcG9zaXRvcnkxMzI3MTAyMzQ=
 notifications_url: https://api.github.com/repos/whoan/vuepress-theme-canvas/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
+open_issues: 1
+open_issues_count: 1
 owner:
-  avatar_url: https://avatars1.githubusercontent.com/u/7103003?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/7103003?v=4
   events_url: https://api.github.com/users/whoan/events{/privacy}
   followers_url: https://api.github.com/users/whoan/followers
   following_url: https://api.github.com/users/whoan/following{/other_user}
@@ -83,9 +83,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/whoan/vuepress-theme-canvas/pulls{/number}
-pushed_at: '2020-08-24T00:16:36Z'
+pushed_at: '2020-12-15T10:39:09Z'
 releases_url: https://api.github.com/repos/whoan/vuepress-theme-canvas/releases{/id}
-size: 975
+size: 1242
 ssh_url: git@github.com:whoan/vuepress-theme-canvas.git
 stargazers_count: 23
 stargazers_url: https://api.github.com/repos/whoan/vuepress-theme-canvas/stargazers
@@ -98,7 +98,7 @@ tags_url: https://api.github.com/repos/whoan/vuepress-theme-canvas/tags
 teams_url: https://api.github.com/repos/whoan/vuepress-theme-canvas/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/whoan/vuepress-theme-canvas/git/trees{/sha}
-updated_at: '2020-08-24T00:13:25Z'
+updated_at: '2021-01-22T17:20:34Z'
 url: https://api.github.com/repos/whoan/vuepress-theme-canvas
 watchers: 23
 watchers_count: 23

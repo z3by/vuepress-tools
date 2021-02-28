@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/tolking/vuepress-theme-ououe/downloads
 events_url: https://api.github.com/repos/tolking/vuepress-theme-ououe/events
 fork: false
-forks: 13
-forks_count: 13
+forks: 14
+forks_count: 14
 forks_url: https://api.github.com/repos/tolking/vuepress-theme-ououe/forks
 full_name: tolking/vuepress-theme-ououe
 git_commits_url: https://api.github.com/repos/tolking/vuepress-theme-ououe/git/commits{/sha}
@@ -53,13 +53,13 @@ merges_url: https://api.github.com/repos/tolking/vuepress-theme-ououe/merges
 milestones_url: https://api.github.com/repos/tolking/vuepress-theme-ououe/milestones{/number}
 mirror_url: null
 name: vuepress-theme-ououe
-network_count: 13
+network_count: 14
 node_id: MDEwOlJlcG9zaXRvcnkxNzIxNzAyODk=
 notifications_url: https://api.github.com/repos/tolking/vuepress-theme-ououe/notifications{?since,all,participating}
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars0.githubusercontent.com/u/23313167?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/23313167?v=4
   events_url: https://api.github.com/users/tolking/events{/privacy}
   followers_url: https://api.github.com/users/tolking/followers
   following_url: https://api.github.com/users/tolking/following{/other_user}
@@ -83,11 +83,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/tolking/vuepress-theme-ououe/pulls{/number}
-pushed_at: '2020-08-09T03:46:09Z'
+pushed_at: '2020-12-02T07:46:12Z'
 releases_url: https://api.github.com/repos/tolking/vuepress-theme-ououe/releases{/id}
-size: 978
+size: 1092
 ssh_url: git@github.com:tolking/vuepress-theme-ououe.git
-stargazers_count: 58
+stargazers_count: 67
 stargazers_url: https://api.github.com/repos/tolking/vuepress-theme-ououe/stargazers
 statuses_url: https://api.github.com/repos/tolking/vuepress-theme-ououe/statuses/{sha}
 subscribers_count: 2
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/tolking/vuepress-theme-ououe/tags
 teams_url: https://api.github.com/repos/tolking/vuepress-theme-ououe/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/tolking/vuepress-theme-ououe/git/trees{/sha}
-updated_at: '2020-08-25T04:36:08Z'
+updated_at: '2021-02-27T01:33:51Z'
 url: https://api.github.com/repos/tolking/vuepress-theme-ououe
-watchers: 58
-watchers_count: 58
+watchers: 67
+watchers_count: 67
 ---
 
 # vuepress-theme-ououe
@@ -113,12 +113,6 @@ Live Demo: [My Blog](https://ououe.com)
 [Documentation](https://tolking.github.io/vuepress-theme-ououe)
 
 Uses [vuepress-theme-ououe-template](https://github.com/tolking/vuepress-theme-ououe-template) to starter
-
-Take [TryGhost/Casper](https://github.com/TryGhost/Casper) as a reference
-
----
-
-![preview](https://ououe.com/img/vuepress-theme-ououe.jpg)
 
 ---
 

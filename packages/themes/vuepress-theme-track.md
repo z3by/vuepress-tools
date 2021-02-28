@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/tomieric/vuepress-theme-track/no
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars1.githubusercontent.com/u/2812163?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/2812163?v=4
   events_url: https://api.github.com/users/tomieric/events{/privacy}
   followers_url: https://api.github.com/users/tomieric/followers
   following_url: https://api.github.com/users/tomieric/following{/other_user}
@@ -83,11 +83,11 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/tomieric/vuepress-theme-track/pulls{/number}
-pushed_at: '2018-12-19T14:33:16Z'
+pushed_at: '2020-10-18T10:11:05Z'
 releases_url: https://api.github.com/repos/tomieric/vuepress-theme-track/releases{/id}
-size: 2264
+size: 2231
 ssh_url: git@github.com:tomieric/vuepress-theme-track.git
-stargazers_count: 13
+stargazers_count: 12
 stargazers_url: https://api.github.com/repos/tomieric/vuepress-theme-track/stargazers
 statuses_url: https://api.github.com/repos/tomieric/vuepress-theme-track/statuses/{sha}
 subscribers_count: 1
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/tomieric/vuepress-theme-track/tags
 teams_url: https://api.github.com/repos/tomieric/vuepress-theme-track/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/tomieric/vuepress-theme-track/git/trees{/sha}
-updated_at: '2020-06-08T14:44:14Z'
+updated_at: '2020-11-22T15:30:42Z'
 url: https://api.github.com/repos/tomieric/vuepress-theme-track
-watchers: 13
-watchers_count: 13
+watchers: 12
+watchers_count: 12
 ---
 
 # vuepress-theme-track

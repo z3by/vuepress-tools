@@ -54,7 +54,7 @@ notifications_url: https://api.github.com/repos/dongyuanxin/vuepress-plugin-view
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/26399528?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/26399528?v=4
   events_url: https://api.github.com/users/dongyuanxin/events{/privacy}
   followers_url: https://api.github.com/users/dongyuanxin/followers
   following_url: https://api.github.com/users/dongyuanxin/following{/other_user}
@@ -85,7 +85,7 @@ ssh_url: git@github.com:dongyuanxin/vuepress-plugin-viewer.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/dongyuanxin/vuepress-plugin-viewer/stargazers
 statuses_url: https://api.github.com/repos/dongyuanxin/vuepress-plugin-viewer/statuses/{sha}
-subscribers_count: 0
+subscribers_count: 1
 subscribers_url: https://api.github.com/repos/dongyuanxin/vuepress-plugin-viewer/subscribers
 subscription_url: https://api.github.com/repos/dongyuanxin/vuepress-plugin-viewer/subscription
 svn_url: https://github.com/dongyuanxin/vuepress-plugin-viewer

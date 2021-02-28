@@ -1,114 +1,111 @@
 ---
-archive_url: https://api.github.com/repos/CyanH/vuepress-theme-sakura/{archive_format}{/ref}
+archive_url: https://api.github.com/repos/RyanChent/vuepress-theme-sakura/{archive_format}{/ref}
 archived: false
-assignees_url: https://api.github.com/repos/CyanH/vuepress-theme-sakura/assignees{/user}
-blobs_url: https://api.github.com/repos/CyanH/vuepress-theme-sakura/git/blobs{/sha}
-branches_url: https://api.github.com/repos/CyanH/vuepress-theme-sakura/branches{/branch}
-clone_url: https://github.com/CyanH/vuepress-theme-sakura.git
-collaborators_url: https://api.github.com/repos/CyanH/vuepress-theme-sakura/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/CyanH/vuepress-theme-sakura/comments{/number}
-commits_url: https://api.github.com/repos/CyanH/vuepress-theme-sakura/commits{/sha}
-compare_url: https://api.github.com/repos/CyanH/vuepress-theme-sakura/compare/{base}...{head}
-contents_url: https://api.github.com/repos/CyanH/vuepress-theme-sakura/contents/{+path}
-contributors_url: https://api.github.com/repos/CyanH/vuepress-theme-sakura/contributors
-created_at: '2019-07-08T03:59:21Z'
+assignees_url: https://api.github.com/repos/RyanChent/vuepress-theme-sakura/assignees{/user}
+blobs_url: https://api.github.com/repos/RyanChent/vuepress-theme-sakura/git/blobs{/sha}
+branches_url: https://api.github.com/repos/RyanChent/vuepress-theme-sakura/branches{/branch}
+clone_url: https://github.com/RyanChent/vuepress-theme-sakura.git
+collaborators_url: https://api.github.com/repos/RyanChent/vuepress-theme-sakura/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/RyanChent/vuepress-theme-sakura/comments{/number}
+commits_url: https://api.github.com/repos/RyanChent/vuepress-theme-sakura/commits{/sha}
+compare_url: https://api.github.com/repos/RyanChent/vuepress-theme-sakura/compare/{base}...{head}
+contents_url: https://api.github.com/repos/RyanChent/vuepress-theme-sakura/contents/{+path}
+contributors_url: https://api.github.com/repos/RyanChent/vuepress-theme-sakura/contributors
+created_at: '2020-10-06T03:13:02Z'
 default_branch: master
-deployments_url: https://api.github.com/repos/CyanH/vuepress-theme-sakura/deployments
-description: null
+deployments_url: https://api.github.com/repos/RyanChent/vuepress-theme-sakura/deployments
+description: a vuepress theme which is reformated from hexo-theme-sakura
 disabled: false
-downloads_url: https://api.github.com/repos/CyanH/vuepress-theme-sakura/downloads
-events_url: https://api.github.com/repos/CyanH/vuepress-theme-sakura/events
+downloads_url: https://api.github.com/repos/RyanChent/vuepress-theme-sakura/downloads
+events_url: https://api.github.com/repos/RyanChent/vuepress-theme-sakura/events
 fork: false
 forks: 0
 forks_count: 0
-forks_url: https://api.github.com/repos/CyanH/vuepress-theme-sakura/forks
-full_name: CyanH/vuepress-theme-sakura
-git_commits_url: https://api.github.com/repos/CyanH/vuepress-theme-sakura/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/CyanH/vuepress-theme-sakura/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/CyanH/vuepress-theme-sakura/git/tags{/sha}
-git_url: git://github.com/CyanH/vuepress-theme-sakura.git
+forks_url: https://api.github.com/repos/RyanChent/vuepress-theme-sakura/forks
+full_name: RyanChent/vuepress-theme-sakura
+git_commits_url: https://api.github.com/repos/RyanChent/vuepress-theme-sakura/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/RyanChent/vuepress-theme-sakura/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/RyanChent/vuepress-theme-sakura/git/tags{/sha}
+git_url: git://github.com/RyanChent/vuepress-theme-sakura.git
 has_downloads: true
 has_issues: true
 has_pages: false
 has_projects: true
 has_wiki: true
 homepage: null
-hooks_url: https://api.github.com/repos/CyanH/vuepress-theme-sakura/hooks
-html_url: https://github.com/CyanH/vuepress-theme-sakura
-id: 195733797
-issue_comment_url: https://api.github.com/repos/CyanH/vuepress-theme-sakura/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/CyanH/vuepress-theme-sakura/issues/events{/number}
-issues_url: https://api.github.com/repos/CyanH/vuepress-theme-sakura/issues{/number}
-keys_url: https://api.github.com/repos/CyanH/vuepress-theme-sakura/keys{/key_id}
-labels_url: https://api.github.com/repos/CyanH/vuepress-theme-sakura/labels{/name}
-language: Vue
-languages_url: https://api.github.com/repos/CyanH/vuepress-theme-sakura/languages
+hooks_url: https://api.github.com/repos/RyanChent/vuepress-theme-sakura/hooks
+html_url: https://github.com/RyanChent/vuepress-theme-sakura
+id: 301600856
+issue_comment_url: https://api.github.com/repos/RyanChent/vuepress-theme-sakura/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/RyanChent/vuepress-theme-sakura/issues/events{/number}
+issues_url: https://api.github.com/repos/RyanChent/vuepress-theme-sakura/issues{/number}
+keys_url: https://api.github.com/repos/RyanChent/vuepress-theme-sakura/keys{/key_id}
+labels_url: https://api.github.com/repos/RyanChent/vuepress-theme-sakura/labels{/name}
+language: JavaScript
+languages_url: https://api.github.com/repos/RyanChent/vuepress-theme-sakura/languages
 license:
   key: mit
   name: MIT License
   node_id: MDc6TGljZW5zZTEz
   spdx_id: MIT
   url: https://api.github.com/licenses/mit
-merges_url: https://api.github.com/repos/CyanH/vuepress-theme-sakura/merges
-milestones_url: https://api.github.com/repos/CyanH/vuepress-theme-sakura/milestones{/number}
+merges_url: https://api.github.com/repos/RyanChent/vuepress-theme-sakura/merges
+milestones_url: https://api.github.com/repos/RyanChent/vuepress-theme-sakura/milestones{/number}
 mirror_url: null
 name: vuepress-theme-sakura
 network_count: 0
-node_id: MDEwOlJlcG9zaXRvcnkxOTU3MzM3OTc=
-notifications_url: https://api.github.com/repos/CyanH/vuepress-theme-sakura/notifications{?since,all,participating}
+node_id: MDEwOlJlcG9zaXRvcnkzMDE2MDA4NTY=
+notifications_url: https://api.github.com/repos/RyanChent/vuepress-theme-sakura/notifications{?since,all,participating}
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars1.githubusercontent.com/u/31116803?v=4
-  events_url: https://api.github.com/users/CyanH/events{/privacy}
-  followers_url: https://api.github.com/users/CyanH/followers
-  following_url: https://api.github.com/users/CyanH/following{/other_user}
-  gists_url: https://api.github.com/users/CyanH/gists{/gist_id}
+  avatar_url: https://avatars.githubusercontent.com/u/26846090?v=4
+  events_url: https://api.github.com/users/RyanChent/events{/privacy}
+  followers_url: https://api.github.com/users/RyanChent/followers
+  following_url: https://api.github.com/users/RyanChent/following{/other_user}
+  gists_url: https://api.github.com/users/RyanChent/gists{/gist_id}
   gravatar_id: ''
-  html_url: https://github.com/CyanH
-  id: 31116803
-  login: CyanH
-  node_id: MDQ6VXNlcjMxMTE2ODAz
-  organizations_url: https://api.github.com/users/CyanH/orgs
-  received_events_url: https://api.github.com/users/CyanH/received_events
-  repos_url: https://api.github.com/users/CyanH/repos
+  html_url: https://github.com/RyanChent
+  id: 26846090
+  login: RyanChent
+  node_id: MDQ6VXNlcjI2ODQ2MDkw
+  organizations_url: https://api.github.com/users/RyanChent/orgs
+  received_events_url: https://api.github.com/users/RyanChent/received_events
+  repos_url: https://api.github.com/users/RyanChent/repos
   site_admin: false
-  starred_url: https://api.github.com/users/CyanH/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/CyanH/subscriptions
+  starred_url: https://api.github.com/users/RyanChent/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/RyanChent/subscriptions
   type: User
-  url: https://api.github.com/users/CyanH
+  url: https://api.github.com/users/RyanChent
 permissions:
   admin: false
   pull: true
   push: false
 private: false
-pulls_url: https://api.github.com/repos/CyanH/vuepress-theme-sakura/pulls{/number}
-pushed_at: '2019-10-08T10:25:29Z'
-releases_url: https://api.github.com/repos/CyanH/vuepress-theme-sakura/releases{/id}
-size: 1237
-ssh_url: git@github.com:CyanH/vuepress-theme-sakura.git
+pulls_url: https://api.github.com/repos/RyanChent/vuepress-theme-sakura/pulls{/number}
+pushed_at: '2020-10-06T09:57:31Z'
+releases_url: https://api.github.com/repos/RyanChent/vuepress-theme-sakura/releases{/id}
+size: 2018
+ssh_url: git@github.com:RyanChent/vuepress-theme-sakura.git
 stargazers_count: 1
-stargazers_url: https://api.github.com/repos/CyanH/vuepress-theme-sakura/stargazers
-statuses_url: https://api.github.com/repos/CyanH/vuepress-theme-sakura/statuses/{sha}
-subscribers_count: 0
-subscribers_url: https://api.github.com/repos/CyanH/vuepress-theme-sakura/subscribers
-subscription_url: https://api.github.com/repos/CyanH/vuepress-theme-sakura/subscription
-svn_url: https://github.com/CyanH/vuepress-theme-sakura
-tags_url: https://api.github.com/repos/CyanH/vuepress-theme-sakura/tags
-teams_url: https://api.github.com/repos/CyanH/vuepress-theme-sakura/teams
+stargazers_url: https://api.github.com/repos/RyanChent/vuepress-theme-sakura/stargazers
+statuses_url: https://api.github.com/repos/RyanChent/vuepress-theme-sakura/statuses/{sha}
+subscribers_count: 1
+subscribers_url: https://api.github.com/repos/RyanChent/vuepress-theme-sakura/subscribers
+subscription_url: https://api.github.com/repos/RyanChent/vuepress-theme-sakura/subscription
+svn_url: https://github.com/RyanChent/vuepress-theme-sakura
+tags_url: https://api.github.com/repos/RyanChent/vuepress-theme-sakura/tags
+teams_url: https://api.github.com/repos/RyanChent/vuepress-theme-sakura/teams
 temp_clone_token: ''
-trees_url: https://api.github.com/repos/CyanH/vuepress-theme-sakura/git/trees{/sha}
-updated_at: '2019-10-08T10:25:31Z'
-url: https://api.github.com/repos/CyanH/vuepress-theme-sakura
+trees_url: https://api.github.com/repos/RyanChent/vuepress-theme-sakura/git/trees{/sha}
+updated_at: '2021-01-01T15:53:01Z'
+url: https://api.github.com/repos/RyanChent/vuepress-theme-sakura
 watchers: 1
 watchers_count: 1
 ---
 
-<h1 align="center">vuepress-theme-sakura</h1>
+### Vuepress-theme-Sakura
 
-## 介绍
-[vuepress-theme-sakura](https://github.com/CyanH/vuepress-theme-sakura) 是借鉴[hexo-theme-only](https://github.com/lazzzis/hexo-theme-only)开发的基于vuepress的博客主题
+- 在线预览：[Demo](https://jarrychen.cn)
 
-重写了部分配置：
-主页昵称配置：userName
-themeConfig.footer未配置的时候默认footer，配置后以span标签显示
+- 配置文档：[Config.md](https://jarrychen.cn/category/frontend/vuepress-theme-sakura.html)

@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/LYTzeng/vuepress-plugin-first-cr
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars3.githubusercontent.com/u/30722178?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/30722178?v=4
   events_url: https://api.github.com/users/LYTzeng/events{/privacy}
   followers_url: https://api.github.com/users/LYTzeng/followers
   following_url: https://api.github.com/users/LYTzeng/following{/other_user}

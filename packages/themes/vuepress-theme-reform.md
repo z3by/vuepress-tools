@@ -54,7 +54,7 @@ notifications_url: https://api.github.com/repos/xuzhongpeng/vuepress-theme-refor
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars1.githubusercontent.com/u/24218764?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/24218764?v=4
   events_url: https://api.github.com/users/xuzhongpeng/events{/privacy}
   followers_url: https://api.github.com/users/xuzhongpeng/followers
   following_url: https://api.github.com/users/xuzhongpeng/following{/other_user}
@@ -82,7 +82,7 @@ pushed_at: '2020-08-02T08:13:02Z'
 releases_url: https://api.github.com/repos/xuzhongpeng/vuepress-theme-reform/releases{/id}
 size: 546
 ssh_url: git@github.com:xuzhongpeng/vuepress-theme-reform.git
-stargazers_count: 17
+stargazers_count: 19
 stargazers_url: https://api.github.com/repos/xuzhongpeng/vuepress-theme-reform/stargazers
 statuses_url: https://api.github.com/repos/xuzhongpeng/vuepress-theme-reform/statuses/{sha}
 subscribers_count: 0
@@ -93,10 +93,10 @@ tags_url: https://api.github.com/repos/xuzhongpeng/vuepress-theme-reform/tags
 teams_url: https://api.github.com/repos/xuzhongpeng/vuepress-theme-reform/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/xuzhongpeng/vuepress-theme-reform/git/trees{/sha}
-updated_at: '2020-08-02T08:12:41Z'
+updated_at: '2021-01-19T06:37:47Z'
 url: https://api.github.com/repos/xuzhongpeng/vuepress-theme-reform
-watchers: 17
-watchers_count: 17
+watchers: 19
+watchers_count: 19
 ---
 
 ## 介绍

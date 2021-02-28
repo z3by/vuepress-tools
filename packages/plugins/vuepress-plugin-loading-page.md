@@ -41,7 +41,7 @@ issue_events_url: https://api.github.com/repos/nine-theme/vuepress-plugin-loadin
 issues_url: https://api.github.com/repos/nine-theme/vuepress-plugin-loading-page/issues{/number}
 keys_url: https://api.github.com/repos/nine-theme/vuepress-plugin-loading-page/keys{/key_id}
 labels_url: https://api.github.com/repos/nine-theme/vuepress-plugin-loading-page/labels{/name}
-language: JavaScript
+language: Vue
 languages_url: https://api.github.com/repos/nine-theme/vuepress-plugin-loading-page/languages
 license:
   key: mit
@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/nine-theme/vuepress-plugin-loadi
 open_issues: 0
 open_issues_count: 0
 organization:
-  avatar_url: https://avatars1.githubusercontent.com/u/64388301?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/64388301?v=4
   events_url: https://api.github.com/users/nine-theme/events{/privacy}
   followers_url: https://api.github.com/users/nine-theme/followers
   following_url: https://api.github.com/users/nine-theme/following{/other_user}
@@ -78,7 +78,7 @@ organization:
   type: Organization
   url: https://api.github.com/users/nine-theme
 owner:
-  avatar_url: https://avatars1.githubusercontent.com/u/64388301?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/64388301?v=4
   events_url: https://api.github.com/users/nine-theme/events{/privacy}
   followers_url: https://api.github.com/users/nine-theme/followers
   following_url: https://api.github.com/users/nine-theme/following{/other_user}
@@ -102,9 +102,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/nine-theme/vuepress-plugin-loading-page/pulls{/number}
-pushed_at: '2020-08-18T06:22:56Z'
+pushed_at: '2020-09-24T03:07:53Z'
 releases_url: https://api.github.com/repos/nine-theme/vuepress-plugin-loading-page/releases{/id}
-size: 35
+size: 164
 ssh_url: git@github.com:nine-theme/vuepress-plugin-loading-page.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/nine-theme/vuepress-plugin-loading-page/stargazers
@@ -117,30 +117,30 @@ tags_url: https://api.github.com/repos/nine-theme/vuepress-plugin-loading-page/t
 teams_url: https://api.github.com/repos/nine-theme/vuepress-plugin-loading-page/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/nine-theme/vuepress-plugin-loading-page/git/trees{/sha}
-updated_at: '2020-08-18T06:22:58Z'
+updated_at: '2020-09-24T03:07:55Z'
 url: https://api.github.com/repos/nine-theme/vuepress-plugin-loading-page
 watchers: 0
 watchers_count: 0
 ---
 
-# @nines/vuepress-plugin-loading-page
-![GitHub last commit](https://img.shields.io/github/last-commit/NineSwordsMonster/vuepress-plugin-loading-page)
+# @nine-theme/vuepress-plugin-loading-page
+![GitHub last commit](https://img.shields.io/github/last-commit/nine-theme/vuepress-plugin-loading-page) 
+![npm (scoped)](https://img.shields.io/npm/v/@nine-theme/vuepress-plugin-loading-page) 
+![npm](https://img.shields.io/npm/dt/@nine-theme/vuepress-plugin-loading-page) 
+![NPM](https://img.shields.io/npm/l/@nine-theme/vuepress-plugin-loading-page)
 
-![NPM](https://img.shields.io/npm/l/@nines/vuepress-plugin-loading-page)
-![npm (scoped)](https://img.shields.io/npm/v/@nines/vuepress-plugin-loading-page)
-![npm](https://img.shields.io/npm/dt/@nines/vuepress-plugin-loading-page)
-
+---
 > Loading page plugin for vuepress
 
 ## 使用
 
 |使用位置|值|
 |-|-|
-|plugin name|@nines/vuepress-plugin-loading-page|
+|plugin name|@nine-theme/vuepress-plugin-loading-page|
 |component name|LoadingPage（主题开发时使用）|
 
 ```sh
-npm install @nines/vuepress-plugin-loading-page
+npm install @nine-theme/vuepress-plugin-loading-page
 ```
 
 ```vue

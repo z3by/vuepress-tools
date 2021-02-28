@@ -1,101 +1,102 @@
 ---
-archive_url: https://api.github.com/repos/ekoeryanto/vuepress-theme-vuetify/{archive_format}{/ref}
+archive_url: https://api.github.com/repos/zvecr/vuepress-theme-vuetify/{archive_format}{/ref}
 archived: false
-assignees_url: https://api.github.com/repos/ekoeryanto/vuepress-theme-vuetify/assignees{/user}
-blobs_url: https://api.github.com/repos/ekoeryanto/vuepress-theme-vuetify/git/blobs{/sha}
-branches_url: https://api.github.com/repos/ekoeryanto/vuepress-theme-vuetify/branches{/branch}
-clone_url: https://github.com/ekoeryanto/vuepress-theme-vuetify.git
-collaborators_url: https://api.github.com/repos/ekoeryanto/vuepress-theme-vuetify/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/ekoeryanto/vuepress-theme-vuetify/comments{/number}
-commits_url: https://api.github.com/repos/ekoeryanto/vuepress-theme-vuetify/commits{/sha}
-compare_url: https://api.github.com/repos/ekoeryanto/vuepress-theme-vuetify/compare/{base}...{head}
-contents_url: https://api.github.com/repos/ekoeryanto/vuepress-theme-vuetify/contents/{+path}
-contributors_url: https://api.github.com/repos/ekoeryanto/vuepress-theme-vuetify/contributors
-created_at: '2018-08-21T22:50:30Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/ekoeryanto/vuepress-theme-vuetify/deployments
+assignees_url: https://api.github.com/repos/zvecr/vuepress-theme-vuetify/assignees{/user}
+blobs_url: https://api.github.com/repos/zvecr/vuepress-theme-vuetify/git/blobs{/sha}
+branches_url: https://api.github.com/repos/zvecr/vuepress-theme-vuetify/branches{/branch}
+clone_url: https://github.com/zvecr/vuepress-theme-vuetify.git
+collaborators_url: https://api.github.com/repos/zvecr/vuepress-theme-vuetify/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/zvecr/vuepress-theme-vuetify/comments{/number}
+commits_url: https://api.github.com/repos/zvecr/vuepress-theme-vuetify/commits{/sha}
+compare_url: https://api.github.com/repos/zvecr/vuepress-theme-vuetify/compare/{base}...{head}
+contents_url: https://api.github.com/repos/zvecr/vuepress-theme-vuetify/contents/{+path}
+contributors_url: https://api.github.com/repos/zvecr/vuepress-theme-vuetify/contributors
+created_at: '2020-11-29T21:19:27Z'
+default_branch: main
+deployments_url: https://api.github.com/repos/zvecr/vuepress-theme-vuetify/deployments
 description: null
 disabled: false
-downloads_url: https://api.github.com/repos/ekoeryanto/vuepress-theme-vuetify/downloads
-events_url: https://api.github.com/repos/ekoeryanto/vuepress-theme-vuetify/events
+downloads_url: https://api.github.com/repos/zvecr/vuepress-theme-vuetify/downloads
+events_url: https://api.github.com/repos/zvecr/vuepress-theme-vuetify/events
 fork: false
 forks: 0
 forks_count: 0
-forks_url: https://api.github.com/repos/ekoeryanto/vuepress-theme-vuetify/forks
-full_name: ekoeryanto/vuepress-theme-vuetify
-git_commits_url: https://api.github.com/repos/ekoeryanto/vuepress-theme-vuetify/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/ekoeryanto/vuepress-theme-vuetify/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/ekoeryanto/vuepress-theme-vuetify/git/tags{/sha}
-git_url: git://github.com/ekoeryanto/vuepress-theme-vuetify.git
+forks_url: https://api.github.com/repos/zvecr/vuepress-theme-vuetify/forks
+full_name: zvecr/vuepress-theme-vuetify
+git_commits_url: https://api.github.com/repos/zvecr/vuepress-theme-vuetify/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/zvecr/vuepress-theme-vuetify/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/zvecr/vuepress-theme-vuetify/git/tags{/sha}
+git_url: git://github.com/zvecr/vuepress-theme-vuetify.git
 has_downloads: true
 has_issues: true
 has_pages: false
 has_projects: true
 has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/ekoeryanto/vuepress-theme-vuetify/hooks
-html_url: https://github.com/ekoeryanto/vuepress-theme-vuetify
-id: 145627566
-issue_comment_url: https://api.github.com/repos/ekoeryanto/vuepress-theme-vuetify/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/ekoeryanto/vuepress-theme-vuetify/issues/events{/number}
-issues_url: https://api.github.com/repos/ekoeryanto/vuepress-theme-vuetify/issues{/number}
-keys_url: https://api.github.com/repos/ekoeryanto/vuepress-theme-vuetify/keys{/key_id}
-labels_url: https://api.github.com/repos/ekoeryanto/vuepress-theme-vuetify/labels{/name}
+homepage: null
+hooks_url: https://api.github.com/repos/zvecr/vuepress-theme-vuetify/hooks
+html_url: https://github.com/zvecr/vuepress-theme-vuetify
+id: 317045059
+issue_comment_url: https://api.github.com/repos/zvecr/vuepress-theme-vuetify/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/zvecr/vuepress-theme-vuetify/issues/events{/number}
+issues_url: https://api.github.com/repos/zvecr/vuepress-theme-vuetify/issues{/number}
+keys_url: https://api.github.com/repos/zvecr/vuepress-theme-vuetify/keys{/key_id}
+labels_url: https://api.github.com/repos/zvecr/vuepress-theme-vuetify/labels{/name}
 language: null
-languages_url: https://api.github.com/repos/ekoeryanto/vuepress-theme-vuetify/languages
+languages_url: https://api.github.com/repos/zvecr/vuepress-theme-vuetify/languages
 license: null
-merges_url: https://api.github.com/repos/ekoeryanto/vuepress-theme-vuetify/merges
-milestones_url: https://api.github.com/repos/ekoeryanto/vuepress-theme-vuetify/milestones{/number}
+merges_url: https://api.github.com/repos/zvecr/vuepress-theme-vuetify/merges
+milestones_url: https://api.github.com/repos/zvecr/vuepress-theme-vuetify/milestones{/number}
 mirror_url: null
 name: vuepress-theme-vuetify
 network_count: 0
-node_id: MDEwOlJlcG9zaXRvcnkxNDU2Mjc1NjY=
-notifications_url: https://api.github.com/repos/ekoeryanto/vuepress-theme-vuetify/notifications{?since,all,participating}
+node_id: MDEwOlJlcG9zaXRvcnkzMTcwNDUwNTk=
+notifications_url: https://api.github.com/repos/zvecr/vuepress-theme-vuetify/notifications{?since,all,participating}
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars0.githubusercontent.com/u/36023898?v=4
-  events_url: https://api.github.com/users/ekoeryanto/events{/privacy}
-  followers_url: https://api.github.com/users/ekoeryanto/followers
-  following_url: https://api.github.com/users/ekoeryanto/following{/other_user}
-  gists_url: https://api.github.com/users/ekoeryanto/gists{/gist_id}
+  avatar_url: https://avatars.githubusercontent.com/u/16520359?v=4
+  events_url: https://api.github.com/users/zvecr/events{/privacy}
+  followers_url: https://api.github.com/users/zvecr/followers
+  following_url: https://api.github.com/users/zvecr/following{/other_user}
+  gists_url: https://api.github.com/users/zvecr/gists{/gist_id}
   gravatar_id: ''
-  html_url: https://github.com/ekoeryanto
-  id: 36023898
-  login: ekoeryanto
-  node_id: MDQ6VXNlcjM2MDIzODk4
-  organizations_url: https://api.github.com/users/ekoeryanto/orgs
-  received_events_url: https://api.github.com/users/ekoeryanto/received_events
-  repos_url: https://api.github.com/users/ekoeryanto/repos
+  html_url: https://github.com/zvecr
+  id: 16520359
+  login: zvecr
+  node_id: MDQ6VXNlcjE2NTIwMzU5
+  organizations_url: https://api.github.com/users/zvecr/orgs
+  received_events_url: https://api.github.com/users/zvecr/received_events
+  repos_url: https://api.github.com/users/zvecr/repos
   site_admin: false
-  starred_url: https://api.github.com/users/ekoeryanto/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/ekoeryanto/subscriptions
+  starred_url: https://api.github.com/users/zvecr/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/zvecr/subscriptions
   type: User
-  url: https://api.github.com/users/ekoeryanto
+  url: https://api.github.com/users/zvecr
 permissions:
   admin: false
   pull: true
   push: false
 private: false
-pulls_url: https://api.github.com/repos/ekoeryanto/vuepress-theme-vuetify/pulls{/number}
-pushed_at: '2018-08-21T22:50:31Z'
-releases_url: https://api.github.com/repos/ekoeryanto/vuepress-theme-vuetify/releases{/id}
-size: 0
-ssh_url: git@github.com:ekoeryanto/vuepress-theme-vuetify.git
+pulls_url: https://api.github.com/repos/zvecr/vuepress-theme-vuetify/pulls{/number}
+pushed_at: '2020-11-29T21:19:29Z'
+releases_url: https://api.github.com/repos/zvecr/vuepress-theme-vuetify/releases{/id}
+size: 1
+ssh_url: git@github.com:zvecr/vuepress-theme-vuetify.git
 stargazers_count: 0
-stargazers_url: https://api.github.com/repos/ekoeryanto/vuepress-theme-vuetify/stargazers
-statuses_url: https://api.github.com/repos/ekoeryanto/vuepress-theme-vuetify/statuses/{sha}
+stargazers_url: https://api.github.com/repos/zvecr/vuepress-theme-vuetify/stargazers
+statuses_url: https://api.github.com/repos/zvecr/vuepress-theme-vuetify/statuses/{sha}
 subscribers_count: 1
-subscribers_url: https://api.github.com/repos/ekoeryanto/vuepress-theme-vuetify/subscribers
-subscription_url: https://api.github.com/repos/ekoeryanto/vuepress-theme-vuetify/subscription
-svn_url: https://github.com/ekoeryanto/vuepress-theme-vuetify
-tags_url: https://api.github.com/repos/ekoeryanto/vuepress-theme-vuetify/tags
-teams_url: https://api.github.com/repos/ekoeryanto/vuepress-theme-vuetify/teams
+subscribers_url: https://api.github.com/repos/zvecr/vuepress-theme-vuetify/subscribers
+subscription_url: https://api.github.com/repos/zvecr/vuepress-theme-vuetify/subscription
+svn_url: https://github.com/zvecr/vuepress-theme-vuetify
+tags_url: https://api.github.com/repos/zvecr/vuepress-theme-vuetify/tags
+teams_url: https://api.github.com/repos/zvecr/vuepress-theme-vuetify/teams
 temp_clone_token: ''
-trees_url: https://api.github.com/repos/ekoeryanto/vuepress-theme-vuetify/git/trees{/sha}
-updated_at: '2018-08-21T22:50:30Z'
-url: https://api.github.com/repos/ekoeryanto/vuepress-theme-vuetify
+trees_url: https://api.github.com/repos/zvecr/vuepress-theme-vuetify/git/trees{/sha}
+updated_at: '2020-11-29T21:19:31Z'
+url: https://api.github.com/repos/zvecr/vuepress-theme-vuetify
 watchers: 0
 watchers_count: 0
 ---
 
+# vuepress-theme-vuetify

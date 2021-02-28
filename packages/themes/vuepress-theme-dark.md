@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/visualfanatic/vuepress-theme-dar
 open_issues: 1
 open_issues_count: 1
 owner:
-  avatar_url: https://avatars3.githubusercontent.com/u/920747?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/920747?v=4
   events_url: https://api.github.com/users/visualfanatic/events{/privacy}
   followers_url: https://api.github.com/users/visualfanatic/followers
   following_url: https://api.github.com/users/visualfanatic/following{/other_user}
@@ -87,10 +87,10 @@ pushed_at: '2018-10-01T19:16:56Z'
 releases_url: https://api.github.com/repos/visualfanatic/vuepress-theme-dark/releases{/id}
 size: 155
 ssh_url: git@github.com:visualfanatic/vuepress-theme-dark.git
-stargazers_count: 13
+stargazers_count: 14
 stargazers_url: https://api.github.com/repos/visualfanatic/vuepress-theme-dark/stargazers
 statuses_url: https://api.github.com/repos/visualfanatic/vuepress-theme-dark/statuses/{sha}
-subscribers_count: 1
+subscribers_count: 0
 subscribers_url: https://api.github.com/repos/visualfanatic/vuepress-theme-dark/subscribers
 subscription_url: https://api.github.com/repos/visualfanatic/vuepress-theme-dark/subscription
 svn_url: https://github.com/visualfanatic/vuepress-theme-dark
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/visualfanatic/vuepress-theme-dark/tags
 teams_url: https://api.github.com/repos/visualfanatic/vuepress-theme-dark/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/visualfanatic/vuepress-theme-dark/git/trees{/sha}
-updated_at: '2020-06-20T17:05:08Z'
+updated_at: '2020-09-08T19:23:51Z'
 url: https://api.github.com/repos/visualfanatic/vuepress-theme-dark
-watchers: 13
-watchers_count: 13
+watchers: 14
+watchers_count: 14
 ---
 
 <p align="center"><img src="vuepress.png" width="20%"></p>

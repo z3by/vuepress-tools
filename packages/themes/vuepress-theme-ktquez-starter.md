@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez-starter/downloads
 events_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez-starter/events
 fork: false
-forks: 12
-forks_count: 12
+forks: 13
+forks_count: 13
 forks_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez-starter/forks
 full_name: ktquez/vuepress-theme-ktquez-starter
 git_commits_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez-starter/git/commits{/sha}
@@ -53,13 +53,13 @@ merges_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez-starter/me
 milestones_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez-starter/milestones{/number}
 mirror_url: null
 name: vuepress-theme-ktquez-starter
-network_count: 12
+network_count: 13
 node_id: MDEwOlJlcG9zaXRvcnkxNDYxODc5NjE=
 notifications_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez-starter/notifications{?since,all,participating}
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/8084606?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/8084606?v=4
   events_url: https://api.github.com/users/ktquez/events{/privacy}
   followers_url: https://api.github.com/users/ktquez/followers
   following_url: https://api.github.com/users/ktquez/following{/other_user}
@@ -87,7 +87,7 @@ pushed_at: '2019-03-09T20:44:27Z'
 releases_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez-starter/releases{/id}
 size: 903
 ssh_url: git@github.com:ktquez/vuepress-theme-ktquez-starter.git
-stargazers_count: 27
+stargazers_count: 29
 stargazers_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez-starter/stargazers
 statuses_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez-starter/statuses/{sha}
 subscribers_count: 1
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez-starter/tags
 teams_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez-starter/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez-starter/git/trees{/sha}
-updated_at: '2020-08-13T07:24:06Z'
+updated_at: '2021-01-27T08:47:50Z'
 url: https://api.github.com/repos/ktquez/vuepress-theme-ktquez-starter
-watchers: 27
-watchers_count: 27
+watchers: 29
+watchers_count: 29
 ---
 
 # vuepress-ktquez-theme-starter

@@ -56,10 +56,10 @@ name: vuepress-theme-elegant
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkyMDkwMDYxNDk=
 notifications_url: https://api.github.com/repos/maoyuanjun/vuepress-theme-elegant/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
+open_issues: 2
+open_issues_count: 2
 owner:
-  avatar_url: https://avatars1.githubusercontent.com/u/8637758?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/8637758?v=4
   events_url: https://api.github.com/users/maoyuanjun/events{/privacy}
   followers_url: https://api.github.com/users/maoyuanjun/followers
   following_url: https://api.github.com/users/maoyuanjun/following{/other_user}
@@ -83,14 +83,14 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/maoyuanjun/vuepress-theme-elegant/pulls{/number}
-pushed_at: '2020-07-13T22:31:07Z'
+pushed_at: '2020-09-04T19:07:07Z'
 releases_url: https://api.github.com/repos/maoyuanjun/vuepress-theme-elegant/releases{/id}
-size: 889
+size: 1004
 ssh_url: git@github.com:maoyuanjun/vuepress-theme-elegant.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/maoyuanjun/vuepress-theme-elegant/stargazers
 statuses_url: https://api.github.com/repos/maoyuanjun/vuepress-theme-elegant/statuses/{sha}
-subscribers_count: 1
+subscribers_count: 2
 subscribers_url: https://api.github.com/repos/maoyuanjun/vuepress-theme-elegant/subscribers
 subscription_url: https://api.github.com/repos/maoyuanjun/vuepress-theme-elegant/subscription
 svn_url: https://github.com/maoyuanjun/vuepress-theme-elegant

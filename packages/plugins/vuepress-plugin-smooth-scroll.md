@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/vuepress/vuepress-plugin-smooth-scroll/downloads
 events_url: https://api.github.com/repos/vuepress/vuepress-plugin-smooth-scroll/events
 fork: false
-forks: 1
-forks_count: 1
+forks: 3
+forks_count: 3
 forks_url: https://api.github.com/repos/vuepress/vuepress-plugin-smooth-scroll/forks
 full_name: vuepress/vuepress-plugin-smooth-scroll
 git_commits_url: https://api.github.com/repos/vuepress/vuepress-plugin-smooth-scroll/git/commits{/sha}
@@ -53,13 +53,13 @@ merges_url: https://api.github.com/repos/vuepress/vuepress-plugin-smooth-scroll/
 milestones_url: https://api.github.com/repos/vuepress/vuepress-plugin-smooth-scroll/milestones{/number}
 mirror_url: null
 name: vuepress-plugin-smooth-scroll
-network_count: 1
+network_count: 3
 node_id: MDEwOlJlcG9zaXRvcnkxNzIzMDMxMDY=
 notifications_url: https://api.github.com/repos/vuepress/vuepress-plugin-smooth-scroll/notifications{?since,all,participating}
 open_issues: 0
 open_issues_count: 0
 organization:
-  avatar_url: https://avatars2.githubusercontent.com/u/48539483?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/48539483?v=4
   events_url: https://api.github.com/users/vuepress/events{/privacy}
   followers_url: https://api.github.com/users/vuepress/followers
   following_url: https://api.github.com/users/vuepress/following{/other_user}
@@ -78,7 +78,7 @@ organization:
   type: Organization
   url: https://api.github.com/users/vuepress
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/48539483?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/48539483?v=4
   events_url: https://api.github.com/users/vuepress/events{/privacy}
   followers_url: https://api.github.com/users/vuepress/followers
   following_url: https://api.github.com/users/vuepress/following{/other_user}
@@ -128,7 +128,7 @@ watchers_count: 8
 > Migrated to [vuepress-community](https://github.com/vuepress/vuepress-community)
 
 [![npm](https://img.shields.io/npm/v/vuepress-plugin-smooth-scroll.svg)](https://www.npmjs.com/package/vuepress-plugin-smooth-scroll)
-[![GitHub](https://img.shields.io/github/license/vuepress/vuepress-plugin-smooth-scroll.svg)](https://raw.githubusercontent.com/VuePress Community/vuepress-plugin-smooth-scroll/master/LICENSE)
+[![GitHub](https://img.shields.io/github/license/vuepress/vuepress-plugin-smooth-scroll.svg)](https://raw.githubusercontent.com/VuePress/vuepress-plugin-smooth-scroll/master/LICENSE)
 
 [Vuepress](https://vuepress.vuejs.org/) plugin for smooth scrolling
 

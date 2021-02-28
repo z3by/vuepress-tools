@@ -12,15 +12,15 @@ compare_url: https://api.github.com/repos/cnguu/vuepress-theme-yur/compare/{base
 contents_url: https://api.github.com/repos/cnguu/vuepress-theme-yur/contents/{+path}
 contributors_url: https://api.github.com/repos/cnguu/vuepress-theme-yur/contributors
 created_at: '2019-09-09T15:52:03Z'
-default_branch: 2.x
+default_branch: master
 deployments_url: https://api.github.com/repos/cnguu/vuepress-theme-yur/deployments
-description: A minimalistic but not simple vuepress blog theme.
+description: 'Next: base on VuePress2.x'
 disabled: false
 downloads_url: https://api.github.com/repos/cnguu/vuepress-theme-yur/downloads
 events_url: https://api.github.com/repos/cnguu/vuepress-theme-yur/events
 fork: false
-forks: 22
-forks_count: 22
+forks: 25
+forks_count: 25
 forks_url: https://api.github.com/repos/cnguu/vuepress-theme-yur/forks
 full_name: cnguu/vuepress-theme-yur
 git_commits_url: https://api.github.com/repos/cnguu/vuepress-theme-yur/git/commits{/sha}
@@ -41,7 +41,7 @@ issue_events_url: https://api.github.com/repos/cnguu/vuepress-theme-yur/issues/e
 issues_url: https://api.github.com/repos/cnguu/vuepress-theme-yur/issues{/number}
 keys_url: https://api.github.com/repos/cnguu/vuepress-theme-yur/keys{/key_id}
 labels_url: https://api.github.com/repos/cnguu/vuepress-theme-yur/labels{/name}
-language: CSS
+language: Less
 languages_url: https://api.github.com/repos/cnguu/vuepress-theme-yur/languages
 license:
   key: mit
@@ -53,13 +53,13 @@ merges_url: https://api.github.com/repos/cnguu/vuepress-theme-yur/merges
 milestones_url: https://api.github.com/repos/cnguu/vuepress-theme-yur/milestones{/number}
 mirror_url: null
 name: vuepress-theme-yur
-network_count: 22
+network_count: 25
 node_id: MDEwOlJlcG9zaXRvcnkyMDczNDY5Mjg=
 notifications_url: https://api.github.com/repos/cnguu/vuepress-theme-yur/notifications{?since,all,participating}
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars1.githubusercontent.com/u/10758182?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/10758182?v=4
   events_url: https://api.github.com/users/cnguu/events{/privacy}
   followers_url: https://api.github.com/users/cnguu/followers
   following_url: https://api.github.com/users/cnguu/following{/other_user}
@@ -83,14 +83,14 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/cnguu/vuepress-theme-yur/pulls{/number}
-pushed_at: '2020-08-16T02:23:53Z'
+pushed_at: '2020-12-16T14:36:26Z'
 releases_url: https://api.github.com/repos/cnguu/vuepress-theme-yur/releases{/id}
-size: 6864
+size: 6911
 ssh_url: git@github.com:cnguu/vuepress-theme-yur.git
-stargazers_count: 132
+stargazers_count: 137
 stargazers_url: https://api.github.com/repos/cnguu/vuepress-theme-yur/stargazers
 statuses_url: https://api.github.com/repos/cnguu/vuepress-theme-yur/statuses/{sha}
-subscribers_count: 2
+subscribers_count: 3
 subscribers_url: https://api.github.com/repos/cnguu/vuepress-theme-yur/subscribers
 subscription_url: https://api.github.com/repos/cnguu/vuepress-theme-yur/subscription
 svn_url: https://github.com/cnguu/vuepress-theme-yur
@@ -98,16 +98,16 @@ tags_url: https://api.github.com/repos/cnguu/vuepress-theme-yur/tags
 teams_url: https://api.github.com/repos/cnguu/vuepress-theme-yur/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/cnguu/vuepress-theme-yur/git/trees{/sha}
-updated_at: '2020-08-20T09:59:44Z'
+updated_at: '2021-02-25T03:05:09Z'
 url: https://api.github.com/repos/cnguu/vuepress-theme-yur
-watchers: 132
-watchers_count: 132
+watchers: 137
+watchers_count: 137
 ---
 
 # VuePress Theme - Yur
 
 ![](https://img.shields.io/npm/dt/vuepress-theme-yur.svg)
-![](https://img.shields.io/static/v1.svg?label=VuePress&message=1.3.1&color=informational)
+![](https://img.shields.io/static/v1.svg?label=VuePress&message=1.7.1&color=informational)
 ![](https://img.shields.io/static/v1.svg?label=License&message=MIT&color=critical)
 
 ## Introduction
@@ -116,7 +116,7 @@ watchers_count: 132
 
 :revolving_hearts: [Live Demo](https://blog.cnguu.cn/)
 
-:book: [Docs](https://imwiki.cn/)
+:book: [Docs](https://wiki.cnguu.cn/)
 
 ## License
 

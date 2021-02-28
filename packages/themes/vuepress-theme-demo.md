@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/emjio/vuepress-theme-demo/notifi
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/26915891?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/26915891?v=4
   events_url: https://api.github.com/users/emjio/events{/privacy}
   followers_url: https://api.github.com/users/emjio/followers
   following_url: https://api.github.com/users/emjio/following{/other_user}

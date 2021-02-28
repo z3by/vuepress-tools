@@ -54,7 +54,7 @@ notifications_url: https://api.github.com/repos/StarGuideX/vuepress-theme-reim/n
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars0.githubusercontent.com/u/26317444?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/26317444?v=4
   events_url: https://api.github.com/users/StarGuideX/events{/privacy}
   followers_url: https://api.github.com/users/StarGuideX/followers
   following_url: https://api.github.com/users/StarGuideX/following{/other_user}
@@ -78,9 +78,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/StarGuideX/vuepress-theme-reim/pulls{/number}
-pushed_at: '2020-08-25T11:31:24Z'
+pushed_at: '2020-12-17T13:52:04Z'
 releases_url: https://api.github.com/repos/StarGuideX/vuepress-theme-reim/releases{/id}
-size: 1126
+size: 141758
 ssh_url: git@github.com:StarGuideX/vuepress-theme-reim.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/StarGuideX/vuepress-theme-reim/stargazers
@@ -93,7 +93,7 @@ tags_url: https://api.github.com/repos/StarGuideX/vuepress-theme-reim/tags
 teams_url: https://api.github.com/repos/StarGuideX/vuepress-theme-reim/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/StarGuideX/vuepress-theme-reim/git/trees{/sha}
-updated_at: '2020-08-25T11:31:26Z'
+updated_at: '2020-12-17T13:52:07Z'
 url: https://api.github.com/repos/StarGuideX/vuepress-theme-reim
 watchers: 0
 watchers_count: 0

@@ -60,7 +60,7 @@ notifications_url: https://api.github.com/repos/eliot-ye/vuepress-theme-blog-off
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/48172584?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/48172584?v=4
   events_url: https://api.github.com/users/eliot-ye/events{/privacy}
   followers_url: https://api.github.com/users/eliot-ye/followers
   following_url: https://api.github.com/users/eliot-ye/following{/other_user}

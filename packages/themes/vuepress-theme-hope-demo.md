@@ -1,0 +1,120 @@
+---
+archive_url: https://api.github.com/repos/vuepress-theme-hope/vuepress-theme-hope-demo/{archive_format}{/ref}
+archived: false
+assignees_url: https://api.github.com/repos/vuepress-theme-hope/vuepress-theme-hope-demo/assignees{/user}
+blobs_url: https://api.github.com/repos/vuepress-theme-hope/vuepress-theme-hope-demo/git/blobs{/sha}
+branches_url: https://api.github.com/repos/vuepress-theme-hope/vuepress-theme-hope-demo/branches{/branch}
+clone_url: https://github.com/vuepress-theme-hope/vuepress-theme-hope-demo.git
+collaborators_url: https://api.github.com/repos/vuepress-theme-hope/vuepress-theme-hope-demo/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/vuepress-theme-hope/vuepress-theme-hope-demo/comments{/number}
+commits_url: https://api.github.com/repos/vuepress-theme-hope/vuepress-theme-hope-demo/commits{/sha}
+compare_url: https://api.github.com/repos/vuepress-theme-hope/vuepress-theme-hope-demo/compare/{base}...{head}
+contents_url: https://api.github.com/repos/vuepress-theme-hope/vuepress-theme-hope-demo/contents/{+path}
+contributors_url: https://api.github.com/repos/vuepress-theme-hope/vuepress-theme-hope-demo/contributors
+created_at: '2019-10-17T16:28:24Z'
+default_branch: gh-pages
+deployments_url: https://api.github.com/repos/vuepress-theme-hope/vuepress-theme-hope-demo/deployments
+description: A demo for vuepress-theme-hope
+disabled: false
+downloads_url: https://api.github.com/repos/vuepress-theme-hope/vuepress-theme-hope-demo/downloads
+events_url: https://api.github.com/repos/vuepress-theme-hope/vuepress-theme-hope-demo/events
+fork: false
+forks: 0
+forks_count: 0
+forks_url: https://api.github.com/repos/vuepress-theme-hope/vuepress-theme-hope-demo/forks
+full_name: vuepress-theme-hope/vuepress-theme-hope-demo
+git_commits_url: https://api.github.com/repos/vuepress-theme-hope/vuepress-theme-hope-demo/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/vuepress-theme-hope/vuepress-theme-hope-demo/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/vuepress-theme-hope/vuepress-theme-hope-demo/git/tags{/sha}
+git_url: git://github.com/vuepress-theme-hope/vuepress-theme-hope-demo.git
+has_downloads: true
+has_issues: false
+has_pages: true
+has_projects: false
+has_wiki: false
+homepage: https://vuepress-theme-demo.mrhope.site
+hooks_url: https://api.github.com/repos/vuepress-theme-hope/vuepress-theme-hope-demo/hooks
+html_url: https://github.com/vuepress-theme-hope/vuepress-theme-hope-demo
+id: 215837714
+issue_comment_url: https://api.github.com/repos/vuepress-theme-hope/vuepress-theme-hope-demo/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/vuepress-theme-hope/vuepress-theme-hope-demo/issues/events{/number}
+issues_url: https://api.github.com/repos/vuepress-theme-hope/vuepress-theme-hope-demo/issues{/number}
+keys_url: https://api.github.com/repos/vuepress-theme-hope/vuepress-theme-hope-demo/keys{/key_id}
+labels_url: https://api.github.com/repos/vuepress-theme-hope/vuepress-theme-hope-demo/labels{/name}
+language: HTML
+languages_url: https://api.github.com/repos/vuepress-theme-hope/vuepress-theme-hope-demo/languages
+license: null
+merges_url: https://api.github.com/repos/vuepress-theme-hope/vuepress-theme-hope-demo/merges
+milestones_url: https://api.github.com/repos/vuepress-theme-hope/vuepress-theme-hope-demo/milestones{/number}
+mirror_url: null
+name: vuepress-theme-hope-demo
+network_count: 0
+node_id: MDEwOlJlcG9zaXRvcnkyMTU4Mzc3MTQ=
+notifications_url: https://api.github.com/repos/vuepress-theme-hope/vuepress-theme-hope-demo/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
+organization:
+  avatar_url: https://avatars.githubusercontent.com/u/78192711?v=4
+  events_url: https://api.github.com/users/vuepress-theme-hope/events{/privacy}
+  followers_url: https://api.github.com/users/vuepress-theme-hope/followers
+  following_url: https://api.github.com/users/vuepress-theme-hope/following{/other_user}
+  gists_url: https://api.github.com/users/vuepress-theme-hope/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/vuepress-theme-hope
+  id: 78192711
+  login: vuepress-theme-hope
+  node_id: MDEyOk9yZ2FuaXphdGlvbjc4MTkyNzEx
+  organizations_url: https://api.github.com/users/vuepress-theme-hope/orgs
+  received_events_url: https://api.github.com/users/vuepress-theme-hope/received_events
+  repos_url: https://api.github.com/users/vuepress-theme-hope/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/vuepress-theme-hope/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/vuepress-theme-hope/subscriptions
+  type: Organization
+  url: https://api.github.com/users/vuepress-theme-hope
+owner:
+  avatar_url: https://avatars.githubusercontent.com/u/78192711?v=4
+  events_url: https://api.github.com/users/vuepress-theme-hope/events{/privacy}
+  followers_url: https://api.github.com/users/vuepress-theme-hope/followers
+  following_url: https://api.github.com/users/vuepress-theme-hope/following{/other_user}
+  gists_url: https://api.github.com/users/vuepress-theme-hope/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/vuepress-theme-hope
+  id: 78192711
+  login: vuepress-theme-hope
+  node_id: MDEyOk9yZ2FuaXphdGlvbjc4MTkyNzEx
+  organizations_url: https://api.github.com/users/vuepress-theme-hope/orgs
+  received_events_url: https://api.github.com/users/vuepress-theme-hope/received_events
+  repos_url: https://api.github.com/users/vuepress-theme-hope/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/vuepress-theme-hope/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/vuepress-theme-hope/subscriptions
+  type: Organization
+  url: https://api.github.com/users/vuepress-theme-hope
+permissions:
+  admin: false
+  pull: true
+  push: false
+private: false
+pulls_url: https://api.github.com/repos/vuepress-theme-hope/vuepress-theme-hope-demo/pulls{/number}
+pushed_at: '2021-02-28T17:18:07Z'
+releases_url: https://api.github.com/repos/vuepress-theme-hope/vuepress-theme-hope-demo/releases{/id}
+size: 25846
+ssh_url: git@github.com:vuepress-theme-hope/vuepress-theme-hope-demo.git
+stargazers_count: 1
+stargazers_url: https://api.github.com/repos/vuepress-theme-hope/vuepress-theme-hope-demo/stargazers
+statuses_url: https://api.github.com/repos/vuepress-theme-hope/vuepress-theme-hope-demo/statuses/{sha}
+subscribers_count: 1
+subscribers_url: https://api.github.com/repos/vuepress-theme-hope/vuepress-theme-hope-demo/subscribers
+subscription_url: https://api.github.com/repos/vuepress-theme-hope/vuepress-theme-hope-demo/subscription
+svn_url: https://github.com/vuepress-theme-hope/vuepress-theme-hope-demo
+tags_url: https://api.github.com/repos/vuepress-theme-hope/vuepress-theme-hope-demo/tags
+teams_url: https://api.github.com/repos/vuepress-theme-hope/vuepress-theme-hope-demo/teams
+temp_clone_token: ''
+trees_url: https://api.github.com/repos/vuepress-theme-hope/vuepress-theme-hope-demo/git/trees{/sha}
+updated_at: '2021-02-28T17:18:09Z'
+url: https://api.github.com/repos/vuepress-theme-hope/vuepress-theme-hope-demo
+watchers: 1
+watchers_count: 1
+---
+

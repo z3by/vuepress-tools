@@ -19,8 +19,8 @@ disabled: false
 downloads_url: https://api.github.com/repos/cyrilf/vuepress-theme-book/downloads
 events_url: https://api.github.com/repos/cyrilf/vuepress-theme-book/events
 fork: false
-forks: 0
-forks_count: 0
+forks: 8
+forks_count: 8
 forks_url: https://api.github.com/repos/cyrilf/vuepress-theme-book/forks
 full_name: cyrilf/vuepress-theme-book
 git_commits_url: https://api.github.com/repos/cyrilf/vuepress-theme-book/git/commits{/sha}
@@ -41,7 +41,7 @@ issue_events_url: https://api.github.com/repos/cyrilf/vuepress-theme-book/issues
 issues_url: https://api.github.com/repos/cyrilf/vuepress-theme-book/issues{/number}
 keys_url: https://api.github.com/repos/cyrilf/vuepress-theme-book/keys{/key_id}
 labels_url: https://api.github.com/repos/cyrilf/vuepress-theme-book/labels{/name}
-language: CSS
+language: Stylus
 languages_url: https://api.github.com/repos/cyrilf/vuepress-theme-book/languages
 license:
   key: mit
@@ -53,13 +53,13 @@ merges_url: https://api.github.com/repos/cyrilf/vuepress-theme-book/merges
 milestones_url: https://api.github.com/repos/cyrilf/vuepress-theme-book/milestones{/number}
 mirror_url: null
 name: vuepress-theme-book
-network_count: 0
+network_count: 8
 node_id: MDEwOlJlcG9zaXRvcnkyNTQ5MDA1NjQ=
 notifications_url: https://api.github.com/repos/cyrilf/vuepress-theme-book/notifications{?since,all,participating}
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars1.githubusercontent.com/u/1302282?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/1302282?v=4
   events_url: https://api.github.com/users/cyrilf/events{/privacy}
   followers_url: https://api.github.com/users/cyrilf/followers
   following_url: https://api.github.com/users/cyrilf/following{/other_user}
@@ -83,14 +83,14 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/cyrilf/vuepress-theme-book/pulls{/number}
-pushed_at: '2020-08-13T12:58:22Z'
+pushed_at: '2020-12-13T09:29:45Z'
 releases_url: https://api.github.com/repos/cyrilf/vuepress-theme-book/releases{/id}
-size: 2192
+size: 2752
 ssh_url: git@github.com:cyrilf/vuepress-theme-book.git
-stargazers_count: 12
+stargazers_count: 59
 stargazers_url: https://api.github.com/repos/cyrilf/vuepress-theme-book/stargazers
 statuses_url: https://api.github.com/repos/cyrilf/vuepress-theme-book/statuses/{sha}
-subscribers_count: 1
+subscribers_count: 3
 subscribers_url: https://api.github.com/repos/cyrilf/vuepress-theme-book/subscribers
 subscription_url: https://api.github.com/repos/cyrilf/vuepress-theme-book/subscription
 svn_url: https://github.com/cyrilf/vuepress-theme-book
@@ -98,10 +98,10 @@ tags_url: https://api.github.com/repos/cyrilf/vuepress-theme-book/tags
 teams_url: https://api.github.com/repos/cyrilf/vuepress-theme-book/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/cyrilf/vuepress-theme-book/git/trees{/sha}
-updated_at: '2020-08-13T12:58:22Z'
+updated_at: '2021-02-25T14:00:42Z'
 url: https://api.github.com/repos/cyrilf/vuepress-theme-book
-watchers: 12
-watchers_count: 12
+watchers: 59
+watchers_count: 59
 ---
 
 # VuePress theme - Gitbook inspired
@@ -163,11 +163,6 @@ I would be more than happy to receive feedback/issues/pull requests, so don't he
 
 - Check the [open issues](https://github.com/cyrilf/vuepress-theme-book/issues) or [open a new issue](https://github.com/cyrilf/vuepress-theme-book/issues/new) to start a discussion around your feature idea or the bug you found.
 - Fork [the repository](https://github.com/cyrilf/vuepress-theme-book), make changes and send a pull request
-
-I would be more than happy to receive feedback/issues/pull request, so don't hesitate.
-
-- Check the open issues or open a new issue to start a discussion around your feature idea or the bug you found.
-- Fork repository, make changes and send a pull request
 
 ## License
 

@@ -51,10 +51,10 @@ name: vuepress-theme-isonaj
 network_count: 0
 node_id: MDEwOlJlcG9zaXRvcnkxOTkxNDg4MjI=
 notifications_url: https://api.github.com/repos/isonaj/vuepress-theme-isonaj/notifications{?since,all,participating}
-open_issues: 2
-open_issues_count: 2
+open_issues: 3
+open_issues_count: 3
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/10228573?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/10228573?v=4
   events_url: https://api.github.com/users/isonaj/events{/privacy}
   followers_url: https://api.github.com/users/isonaj/followers
   following_url: https://api.github.com/users/isonaj/following{/other_user}
@@ -78,9 +78,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/isonaj/vuepress-theme-isonaj/pulls{/number}
-pushed_at: '2020-07-18T00:01:42Z'
+pushed_at: '2020-09-04T17:29:35Z'
 releases_url: https://api.github.com/repos/isonaj/vuepress-theme-isonaj/releases{/id}
-size: 373
+size: 399
 ssh_url: git@github.com:isonaj/vuepress-theme-isonaj.git
 stargazers_count: 0
 stargazers_url: https://api.github.com/repos/isonaj/vuepress-theme-isonaj/stargazers

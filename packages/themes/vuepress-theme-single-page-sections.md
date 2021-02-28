@@ -57,10 +57,10 @@ name: vuepress-theme-single-page-sections
 network_count: 1
 node_id: MDEwOlJlcG9zaXRvcnkyMjIzMDEzOTk=
 notifications_url: https://api.github.com/repos/ptandler/vuepress-theme-single-page-sections/notifications{?since,all,participating}
-open_issues: 4
-open_issues_count: 4
+open_issues: 1
+open_issues_count: 1
 owner:
-  avatar_url: https://avatars1.githubusercontent.com/u/934595?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/934595?v=4
   events_url: https://api.github.com/users/ptandler/events{/privacy}
   followers_url: https://api.github.com/users/ptandler/followers
   following_url: https://api.github.com/users/ptandler/following{/other_user}
@@ -84,9 +84,9 @@ permissions:
   push: false
 private: false
 pulls_url: https://api.github.com/repos/ptandler/vuepress-theme-single-page-sections/pulls{/number}
-pushed_at: '2020-08-08T00:01:46Z'
+pushed_at: '2020-12-12T10:36:01Z'
 releases_url: https://api.github.com/repos/ptandler/vuepress-theme-single-page-sections/releases{/id}
-size: 12763
+size: 13419
 ssh_url: git@github.com:ptandler/vuepress-theme-single-page-sections.git
 stargazers_count: 1
 stargazers_url: https://api.github.com/repos/ptandler/vuepress-theme-single-page-sections/stargazers
@@ -99,7 +99,7 @@ tags_url: https://api.github.com/repos/ptandler/vuepress-theme-single-page-secti
 teams_url: https://api.github.com/repos/ptandler/vuepress-theme-single-page-sections/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/ptandler/vuepress-theme-single-page-sections/git/trees{/sha}
-updated_at: '2020-07-07T21:15:56Z'
+updated_at: '2020-09-08T19:42:54Z'
 url: https://api.github.com/repos/ptandler/vuepress-theme-single-page-sections
 watchers: 1
 watchers_count: 1

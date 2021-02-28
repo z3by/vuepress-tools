@@ -55,7 +55,7 @@ notifications_url: https://api.github.com/repos/taojunnan/vuepress-plugin-full-t
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars0.githubusercontent.com/u/18263998?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/18263998?v=4
   events_url: https://api.github.com/users/taojunnan/events{/privacy}
   followers_url: https://api.github.com/users/taojunnan/followers
   following_url: https://api.github.com/users/taojunnan/following{/other_user}
@@ -83,7 +83,7 @@ pushed_at: '2020-04-09T07:28:59Z'
 releases_url: https://api.github.com/repos/taojunnan/vuepress-plugin-full-text-search/releases{/id}
 size: 7
 ssh_url: git@github.com:taojunnan/vuepress-plugin-full-text-search.git
-stargazers_count: 1
+stargazers_count: 4
 stargazers_url: https://api.github.com/repos/taojunnan/vuepress-plugin-full-text-search/stargazers
 statuses_url: https://api.github.com/repos/taojunnan/vuepress-plugin-full-text-search/statuses/{sha}
 subscribers_count: 1
@@ -94,10 +94,10 @@ tags_url: https://api.github.com/repos/taojunnan/vuepress-plugin-full-text-searc
 teams_url: https://api.github.com/repos/taojunnan/vuepress-plugin-full-text-search/teams
 temp_clone_token: ''
 trees_url: https://api.github.com/repos/taojunnan/vuepress-plugin-full-text-search/git/trees{/sha}
-updated_at: '2020-05-25T16:07:32Z'
+updated_at: '2020-11-24T03:21:50Z'
 url: https://api.github.com/repos/taojunnan/vuepress-plugin-full-text-search
-watchers: 1
-watchers_count: 1
+watchers: 4
+watchers_count: 4
 ---
 
 # vuepress 中文全文搜索插件

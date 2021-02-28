@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/ramene/vuepress-theme-brandeur/n
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars0.githubusercontent.com/u/20915047?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/20915047?v=4
   events_url: https://api.github.com/users/ramene/events{/privacy}
   followers_url: https://api.github.com/users/ramene/followers
   following_url: https://api.github.com/users/ramene/following{/other_user}

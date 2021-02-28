@@ -59,7 +59,7 @@ notifications_url: https://api.github.com/repos/GNQG/vuepress-plugin-remote-url/
 open_issues: 0
 open_issues_count: 0
 owner:
-  avatar_url: https://avatars2.githubusercontent.com/u/12078744?v=4
+  avatar_url: https://avatars.githubusercontent.com/u/12078744?v=4
   events_url: https://api.github.com/users/GNQG/events{/privacy}
   followers_url: https://api.github.com/users/GNQG/followers
   following_url: https://api.github.com/users/GNQG/following{/other_user}
