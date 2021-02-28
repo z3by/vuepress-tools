@@ -8,7 +8,8 @@ import yaml
 from github import Github, UnknownObjectException
 
 GITHUB_TOKEN = os.environ['GITHUB_TOKEN']
-github = Github(GITHUB_TOKEN)
+PER_PAGE = 100
+github = Github(login_or_token=GITHUB_TOKEN, per_page=PER_PAGE)
 
 
 def main():
@@ -42,9 +43,8 @@ def render(repos, folder, allowed_patterns=[]):
 
 def fetch(github_query):
     query = github.search_repositories(github_query, sort='stars')
-    per_page = 30
     print(f'🔎 found {query.totalCount} repositories for {github_query}')
-    number_of_pages = math.ceil(query.totalCount / per_page)
+    number_of_pages = math.ceil(query.totalCount / PER_PAGE)
     all_repos = []
     for page in range(0, number_of_pages):
         repos = query.get_page(page)
