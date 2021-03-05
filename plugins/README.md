@@ -1,5 +1,0 @@
----
-title: Vuepress Plugins
----
-
-<PluginsHomePage />
