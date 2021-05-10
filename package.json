@@ -22,7 +22,7 @@
     "@vuepress/plugin-pwa": "^1.4.0",
     "@vuepress/plugin-search": "^1.2.0",
     "docsearch.js": "^2.5.2",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "stylus": "^0.54.5",
     "stylus-loader": "^3.0.2",
     "vue-themify-icons": "^1.0.0",
