@@ -2,7 +2,6 @@
   <v-app dark>
     <v-navigation-drawer
       v-model="drawer"
-      :mini-variant="miniVariant"
       :clipped="clipped"
       fixed
       app
@@ -61,9 +60,6 @@ export default {
           to: '/themes'
         }
       ],
-      miniVariant: true,
-      right: true,
-      rightDrawer: false,
       title: 'Vuepress Tools'
     }
   }
