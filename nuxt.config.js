@@ -70,17 +70,25 @@ export default {
   vuetify: {
     customVariables: ['~/assets/variables.scss'],
     theme: {
+      // options: {
+      //   themeCache: {
+      //     get: key => localStorage.getItem(key),
+      //     set: (key, value) => localStorage.setItem(key, value),
+      //   },
+      // },
       dark: true,
       themes: {
         dark: {
-          primary: colors.blue.darken2,
-          accent: colors.grey.darken3,
-          secondary: colors.blueGrey.darken3,
-          info: colors.teal.lighten1,
-          warning: colors.amber.base,
-          error: colors.deepOrange.accent4,
-          success: colors.green.accent3
-        }
+          primary: colors.teal.lighten2,
+          accent: colors.indigo,
+          secondary: colors.cyan,
+        },
+        light: {
+          primary: colors.teal,
+          accent: colors.indigo,
+          secondary: colors.cyan,
+        },
+        
       }
     }
   },

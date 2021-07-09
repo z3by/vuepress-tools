@@ -1,7 +1,21 @@
 <template>
-  <v-container class="py-10">
-    <v-row>
-      <v-col class="text-center"> Plugins </v-col>
-    </v-row>
-  </v-container>
+  <div>
+    <v-navigation-drawer
+      v-model="drawer"
+      :clipped="false"
+      :hide-overlay="true"
+      :width="400"
+      app
+    >
+    </v-navigation-drawer>
+    <nuxt-child />
+  </div>
 </template>
+
+<script>
+import WithSidebarMixin from '@/mixins/withsidebar'
+
+export default {
+  mixins: [WithSidebarMixin]
+}
+</script>
