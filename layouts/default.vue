@@ -1,12 +1,12 @@
 <template>
   <v-app>
-    <v-app-bar app>
+    <v-app-bar app :elevation="1">
       <v-app-bar-nav-icon
         v-if="$route.path !== '/'"
         @click="setSidebar(!sidebar)"
       ></v-app-bar-nav-icon>
 
-      <v-toolbar-title>{{ title }}</v-toolbar-title>
+      <v-toolbar-title class="font-weight-bold">{{ title }}</v-toolbar-title>
 
       <v-spacer></v-spacer>
 
@@ -14,9 +14,9 @@
         v-for="(item, index) in navItems"
         :key="index"
         :to="item.to"
-        exact
         text
         color="primary"
+        class="mx-2"
       >
         <v-icon class="text-gradient">{{
           $route.path === item.to ? item.icon : item.icon + '-outline'
