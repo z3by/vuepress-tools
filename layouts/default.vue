@@ -14,14 +14,15 @@
         v-for="(item, index) in navItems"
         :key="index"
         :to="item.to"
+        :icon="$vuetify.breakpoint.mdAndDown"
         text
         color="primary"
-        class="mx-2"
+        :class="$vuetify.breakpoint.mdAndDown ? '' : 'mx-2'"
       >
         <v-icon class="text-gradient">{{
           $route.path === item.to ? item.icon : item.icon + '-outline'
         }}</v-icon>
-        <span class="d-none d-md-inline">{{ item.title }}</span>
+        <span v-show="$vuetify.breakpoint.lgAndUp">{{ item.title }}</span>
       </v-btn>
       <v-btn
         icon

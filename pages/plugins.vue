@@ -1,11 +1,6 @@
 <template>
   <div>
-    <v-navigation-drawer
-      v-model="drawer"
-      :clipped="false"
-      :width="400"
-      app
-    >
+    <v-navigation-drawer v-model="drawer" :clipped="false" :width="400" app>
       <v-container>
         <v-autocomplete
           v-model="select"
@@ -30,8 +25,10 @@
         :to="`/plugins/${plugin.slug}`"
         nuxt
       >
-        <v-list-item-avatar  class="gradient">
-          <span class="white--text">{{ plugin.name[0] }}</span>
+        <v-list-item-avatar class="gradient">
+          <v-img v-if="plugin.author.avatar" :src="plugin.author.avatar">
+          </v-img>
+          <span v-else class="white--text">{{ plugin.slug[0] }}</span>
         </v-list-item-avatar>
         <v-list-item-content>
           <v-list-item-title class="font-weight-bold pb-1">{{
@@ -104,7 +101,7 @@ export default {
     },
     async fetchPlugins() {
       const plugins = await this.$content('plugins')
-        .only(['name', 'description', 'slug'])
+        .only(['name', 'description', 'slug', 'author'])
         .sortBy('stars', 'desc')
         .limit(20)
         .skip(this.plugins.length)

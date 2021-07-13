@@ -18,7 +18,6 @@
     </v-card>
     <v-card-title
       class="
-        text-h4
         justify-center
         white--text
         font-weight-bold

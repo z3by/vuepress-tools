@@ -1,14 +1,54 @@
 <template>
   <v-container class="py-10">
     <v-row>
-      <v-col :span="12">
-        <card :title="plugin.name" :description="plugin.description" />
+      <v-col :cols="12">
+        <card :title="pkg.name" :description="pkg.description" />
       </v-col>
     </v-row>
     <v-row>
-      <v-col :span="12">
-        <v-sheet elevation="1" shaped class="overflow-hidden">
-          <nuxt-content :document="plugin" class="pa-5" />
+      <v-col :cols="12">
+        <v-card shaped flat outlined class="pa-5">
+          <div v-if="pkg.author">
+            <v-card-title v-if="pkg.author.name || pkg.author.username">
+              <v-avatar size="50" color="red">
+                <img :src="pkg.author.avatar" alt="alt" />
+              </v-avatar>
+              <span class="mx-5"
+                >By {{ pkg.author.name || pkg.author.username }}</span
+              >
+            </v-card-title>
+          </div>
+          <v-card-actions class="py-5">
+            <v-btn
+              rounded
+              elevation="0"
+              color="primary"
+              :href="pkg.repository"
+              target="_blank"
+              ><v-icon>mdi-github</v-icon> Github</v-btn
+            >
+            <v-btn
+              rounded
+              elevation="0"
+              color="primary"
+              :href="pkg.npm"
+              target="_blank"
+              ><v-icon>mdi-npm</v-icon> npm</v-btn
+            >
+            <v-btn
+              rounded
+              elevation="0"
+              color="primary"
+              :href="pkg.repository"
+              target="_blank"
+              ><v-icon>mdi-star</v-icon> {{ pkg.stars || 0 }}</v-btn
+            >
+          </v-card-actions>
+        </v-card>
+      </v-col>
+      <v-col :cols="12">
+        <v-sheet flat outlined shaped class="overflow-hidden">
+          <nuxt-content :document="pkg" class="pa-5" />
         </v-sheet>
       </v-col>
     </v-row>
@@ -24,19 +64,19 @@ export default {
   },
   data() {
     return {
-      plugin: {}
+      pkg: {}
     }
   },
   fetch() {
-    this.fetchPlugin(this.$route.params.id)
+    this.fetchPackage(this.$route.params.id)
   },
   watch: {
-    '$route.params.id': 'fetchPlugin'
+    '$route.params.id': 'fetchPackage'
   },
   methods: {
-    async fetchPlugin(slug) {
+    async fetchPackage(slug) {
       const plugin = await this.$content(`plugins/${slug}`).fetch()
-      this.plugin = plugin
+      this.pkg = plugin
     }
   }
 }

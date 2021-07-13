@@ -72,7 +72,7 @@ export default {
     }
   },
   fetch() {
-    this.fetchthemes()
+    this.fetchThemes()
   },
   computed: {
     ...mapState(['themes'])
@@ -92,15 +92,15 @@ export default {
       if (isIntersecting) {
         this.isLoading = true
         if (this.themes.length) {
-          await this.fetchthemes()
+          await this.fetchThemes()
           this.isLoading = true
         }
       }
     },
-    async fetchthemes() {
+    async fetchThemes() {
       const themes = await this.$content('themes')
         .only(['name', 'description', 'slug'])
-        .sortBy('stars', 'desc')
+        .sortBy('score', 'desc')
         .limit(20)
         .skip(this.themes.length)
         .fetch()

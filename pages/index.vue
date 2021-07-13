@@ -22,7 +22,7 @@
     </v-card>
     <v-container class="py-10 rounded-bl-pill">
       <v-row justify="center" align="center" class="ma-lg-10">
-        <v-col cols="6" sm="12" md="6" class="fill-height">
+        <v-col cols="12" sm="12" md="6" class="fill-height">
           <card
             title="Vuepress Plugins"
             to="/plugins"
@@ -31,7 +31,7 @@
             icon="mdi-power-plug"
           />
         </v-col>
-        <v-col cols="6" sm="12" md="6" class="fill-height">
+        <v-col cols="12" sm="12" md="6" class="fill-height">
           <card
             title="Vuepress Themes"
             to="/themes"
