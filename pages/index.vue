@@ -5,7 +5,7 @@
         <v-col cols="10" sm="8" md="6">
           <v-card class="py-10 my-5" shaped elevation="20">
             <v-card justify="center" align="center" class="py-2" elevation="0">
-              <v-img max-width="150" src="/img/vuepress-tools-logo.png"></v-img>
+              <v-img max-width="150" src="img/vuepress-tools-logo.png"></v-img>
             </v-card>
             <v-card-title class="justify-center text-h2">
               Vuepress Tools
