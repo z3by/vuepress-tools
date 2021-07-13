@@ -71,6 +71,18 @@ export default {
   fetch() {
     this.fetchPackage(this.$route.params.id)
   },
+  head() {
+    return {
+      title: this.pkg.name,
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content: this.pkg.description
+        }
+      ]
+    }
+  },
   watch: {
     '$route.params.id': 'fetchPackage'
   },
