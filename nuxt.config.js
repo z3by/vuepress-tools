@@ -40,6 +40,7 @@ export default {
     '@nuxtjs/stylelint-module',
     // https://go.nuxtjs.dev/vuetify
     '@nuxtjs/vuetify',
+    '@nuxtjs/sitemap',
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
@@ -50,6 +51,7 @@ export default {
     '@nuxtjs/pwa',
     // https://go.nuxtjs.dev/content
     '@nuxt/content',
+    '@nuxtjs/google-analytics',
   ],
 
   generate: {
@@ -78,10 +80,10 @@ export default {
     customVariables: ['~/assets/variables.scss'],
     theme: {
       options: {
-        // themeCache: {
-        //   get: key => localStorage.getItem(key),
-        //   set: (key, value) => localStorage.setItem(key, value),
-        // },
+        themeCache: {
+          get: (key) => localStorage.getItem(key),
+          set: (key, value) => localStorage.setItem(key, value),
+        },
       },
       dark: true,
       themes: {
@@ -101,4 +103,10 @@ export default {
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {},
+  sitemap: {
+    hostname: 'https://z3by.github.io',
+  },
+  googleAnalytics: {
+    id: 'UA-144752623-6',
+  },
 }
