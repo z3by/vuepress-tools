@@ -4,7 +4,6 @@
       <v-col class="text-center">
         <card
           title="Vuepress Themes"
-          to="/themes"
           description="Find The best Vuepress themes and Add an aesthetic touch to your
                 Vuepress Project."
           icon="mdi-palette"

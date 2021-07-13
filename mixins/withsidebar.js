@@ -13,6 +13,6 @@ export default {
     },
   },
   methods: {
-    ...mapMutations(['setSidebar']),
+    ...mapMutations(['setSidebar', 'setLoading']),
   },
 }

@@ -57,6 +57,7 @@
 
 <script>
 import Card from '@/components/card.vue'
+import { mapMutations } from 'vuex'
 
 export default {
   components: {
@@ -74,9 +75,12 @@ export default {
     '$route.params.id': 'fetchPackage'
   },
   methods: {
+    ...mapMutations(['setLoading']),
     async fetchPackage(slug) {
+      this.setLoading(true)
       const plugin = await this.$content(`plugins/${slug}`).fetch()
       this.pkg = plugin
+      this.setLoading(false)
     }
   }
 }

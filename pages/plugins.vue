@@ -25,7 +25,7 @@
         :to="`/plugins/${plugin.slug}`"
         nuxt
       >
-        <v-list-item-avatar class="gradient">
+        <v-list-item-avatar>
           <v-img v-if="plugin.author.avatar" :src="plugin.author.avatar">
           </v-img>
           <span v-else class="white--text">{{ plugin.slug[0] }}</span>
@@ -73,8 +73,12 @@ export default {
       select: null
     }
   },
+
   fetch() {
     this.fetchPlugins()
+  },
+  head: {
+    title: 'VuePress Plugins'
   },
   computed: {
     ...mapState(['plugins'])
@@ -92,14 +96,13 @@ export default {
     async onIntersect(entries) {
       const isIntersecting = entries[0].intersectionRatio >= 0.5
       if (isIntersecting) {
-        this.isLoading = true
         if (this.plugins.length) {
           await this.fetchPlugins()
-          this.isLoading = true
         }
       }
     },
     async fetchPlugins() {
+      this.setLoading(true)
       const plugins = await this.$content('plugins')
         .only(['name', 'description', 'slug', 'author'])
         .sortBy('stars', 'desc')
@@ -107,15 +110,17 @@ export default {
         .skip(this.plugins.length)
         .fetch()
       this.setPlugins([...this.plugins, ...plugins])
+      this.setLoading(false)
     },
     async querySelections(v) {
-      this.loading = true
+      this.setLoading(true)
       const searchResult = await this.$content('plugins')
         .only(['name', 'slug'])
+        .sortBy('stars', 'desc')
         .search(null, v)
         .fetch()
       this.items = searchResult
-      this.loading = false
+      this.setLoading(false)
     }
   }
 }

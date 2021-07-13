@@ -17,12 +17,7 @@
       <v-icon x-large class="text-h1 ma-5 white--text">{{ icon }}</v-icon>
     </v-card>
     <v-card-title
-      class="
-        justify-center
-        white--text
-        font-weight-bold
-        text-capitalize
-      "
+      class="justify-center white--text font-weight-bold text-capitalize"
     >
       {{ title }}
     </v-card-title>

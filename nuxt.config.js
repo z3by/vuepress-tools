@@ -9,8 +9,8 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    titleTemplate: '%s - vuepress-tools',
-    title: 'vuepress-tools',
+    titleTemplate: '%s - VuePress Tools',
+    title: '',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
@@ -66,12 +66,12 @@ export default {
   vuetify: {
     customVariables: ['~/assets/variables.scss'],
     theme: {
-      // options: {
-      //   themeCache: {
-      //     get: key => localStorage.getItem(key),
-      //     set: (key, value) => localStorage.setItem(key, value),
-      //   },
-      // },
+      options: {
+        // themeCache: {
+        //   get: key => localStorage.getItem(key),
+        //   set: (key, value) => localStorage.setItem(key, value),
+        // },
+      },
       dark: true,
       themes: {
         dark: {

@@ -25,7 +25,7 @@
         :to="`/themes/${theme.slug}`"
         nuxt
       >
-        <v-list-item-avatar class="gradient">
+        <v-list-item-avatar>
           <v-img v-if="theme.author.avatar" :src="theme.author.avatar"> </v-img>
           <span v-else class="white--text">{{ theme.slug[0] }}</span>
         </v-list-item-avatar>
@@ -47,7 +47,6 @@
         }"
         :loading="isLoading"
         height="200"
-        color="transparent"
         flat
       >
       </v-card>
@@ -75,6 +74,9 @@ export default {
   fetch() {
     this.fetchThemes()
   },
+  head: {
+    title: 'VuePress Themes'
+  },
   computed: {
     ...mapState(['themes'])
   },
@@ -91,30 +93,31 @@ export default {
     async onIntersect(entries) {
       const isIntersecting = entries[0].intersectionRatio >= 0.5
       if (isIntersecting) {
-        this.isLoading = true
         if (this.themes.length) {
           await this.fetchThemes()
-          this.isLoading = true
         }
       }
     },
     async fetchThemes() {
+      this.setLoading(true)
       const themes = await this.$content('themes')
         .only(['name', 'description', 'slug', 'author'])
         .sortBy('stars', 'desc')
         .limit(20)
         .skip(this.themes.length)
         .fetch()
+      this.setLoading(false)
       this.setThemes([...this.themes, ...themes])
     },
     async querySelections(v) {
-      this.loading = true
+      this.setLoading(true)
       const searchResult = await this.$content('themes')
         .only(['name', 'slug'])
+        .sortBy('stars', 'desc')
         .search(null, v)
         .fetch()
       this.items = searchResult
-      this.loading = false
+      this.setLoading(false)
     }
   }
 }

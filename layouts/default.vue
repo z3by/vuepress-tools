@@ -5,7 +5,6 @@
         v-if="$route.path !== '/'"
         @click="setSidebar(!sidebar)"
       ></v-app-bar-nav-icon>
-
       <v-toolbar-title class="font-weight-bold">{{ title }}</v-toolbar-title>
 
       <v-spacer></v-spacer>
@@ -32,10 +31,26 @@
       >
     </v-app-bar>
     <v-main>
+      <v-overlay :value="loading" color="black" opacity="0.4">
+        <v-progress-circular indeterminate size="64"></v-progress-circular>
+      </v-overlay>
       <Nuxt />
     </v-main>
-    <v-footer :absolute="false" app>
+    <v-footer :absolute="false" app inset>
       <span>&copy; {{ new Date().getFullYear() }}</span>
+      <span
+        ><v-icon color="blue accent-2">mdi-vuetify</v-icon
+        ><v-icon color="green">mdi-vuejs</v-icon></span
+      >
+      <v-spacer></v-spacer> <span>Built with </span>
+      <v-icon color="red">mdi-heart</v-icon> by
+      <v-btn
+        href="https://ahmadmostafa.com"
+        text
+        target="_blank"
+        class="px-1 mx-1 text--primary"
+        >Ahmad Mostafa</v-btn
+      >
     </v-footer>
   </v-app>
 </template>
@@ -67,7 +82,7 @@ export default {
     }
   },
   computed: {
-    ...mapState(['sidebar']),
+    ...mapState(['sidebar', 'loading']),
     drawer: {
       get() {
         return this.sidebar
