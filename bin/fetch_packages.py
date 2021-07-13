@@ -49,12 +49,7 @@ class Package:
         return "\n".join(["---", yml, "---\n\n"])
 
     def get_clean_package_name(self) -> str:
-        return (
-            self.name.replace("/", "-")
-            .replace("-", "")
-            .replace(self.category, "")
-            .replace("vuepress", "")
-        )
+        return self.name.replace("/", "-")
 
     def is_excluded(self) -> bool:
         excluded_cases = [
