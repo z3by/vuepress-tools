@@ -20,6 +20,9 @@ export default {
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
   },
 
+  router: {
+    base: '/vuepress-tools/'
+  },
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: ['@/assets/main.scss'],
 
