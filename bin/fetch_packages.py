@@ -49,8 +49,12 @@ class Package:
         return "\n".join(["---", yml, "---\n\n"])
 
     def get_clean_package_name(self) -> str:
-        name = self.name.split("/")[1] if "/" in self.name else self.name
-        return name.replace("-", "").replace(self.category, "").replace("vuepress", "")
+        return (
+            self.name.replace("/", "-")
+            .replace("-", "")
+            .replace(self.category, "")
+            .replace("vuepress", "")
+        )
 
     def is_excluded(self) -> bool:
         excluded_cases = [
@@ -58,7 +62,6 @@ class Package:
             self.repository == "",
             "github" not in self.repository,
             self.deprecated,
-            self.unstable,
         ]
         return any(excluded_cases)
 
@@ -158,6 +161,6 @@ def write_packages(pkg_type: str) -> None:
 
 
 if __name__ == "__main__":
-    # remove_current_packages()
+    remove_current_packages()
     write_packages("plugin")
     write_packages("theme")
