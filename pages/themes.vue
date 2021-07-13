@@ -26,7 +26,8 @@
         nuxt
       >
         <v-list-item-avatar class="gradient">
-          <span class="white--text">{{ theme.name[0] }}</span>
+          <v-img v-if="theme.author.avatar" :src="theme.author.avatar"> </v-img>
+          <span v-else class="white--text">{{ theme.slug[0] }}</span>
         </v-list-item-avatar>
         <v-list-item-content>
           <v-list-item-title class="font-weight-bold pb-1">{{
@@ -99,8 +100,8 @@ export default {
     },
     async fetchThemes() {
       const themes = await this.$content('themes')
-        .only(['name', 'description', 'slug'])
-        .sortBy('score', 'desc')
+        .only(['name', 'description', 'slug', 'author'])
+        .sortBy('stars', 'desc')
         .limit(20)
         .skip(this.themes.length)
         .fetch()
@@ -111,7 +112,6 @@ export default {
       const searchResult = await this.$content('themes')
         .only(['name', 'slug'])
         .search(null, v)
-        .limit(10)
         .fetch()
       this.items = searchResult
       this.loading = false

@@ -113,7 +113,6 @@ export default {
       const searchResult = await this.$content('plugins')
         .only(['name', 'slug'])
         .search(null, v)
-        .limit(10)
         .fetch()
       this.items = searchResult
       this.loading = false
