@@ -7,7 +7,7 @@ from typing import Optional
 import requests
 import yaml
 
-BASE_DIR = Path(__file__).parent
+BASE_DIR = Path(__file__).parent.parent
 GITHUB_USER = os.environ["GITHUB_USER"]
 GITHUB_TOKEN = os.environ["GITHUB_TOKEN"]
 
@@ -87,8 +87,8 @@ class Package:
             auth=(GITHUB_USER, GITHUB_TOKEN),
         )
         readme = r.json()
-        file_content = b64decode(readme["content"])
-        return file_content.decode("utf-8")
+        file_content = b64decode(readme.get("content", b"")).decode("utf-8")
+        return file_content
 
     def save(self, relative_path: str) -> None:
         pkg_name = self.get_clean_package_name()
@@ -120,7 +120,10 @@ def construct_package(data: dict, category: str = "") -> Package:
         deprecated=deprecated,
         **package["links"],
     )
-    pkg.get_repo()
+    try:
+        pkg.get_repo()
+    except Exception:
+        pass
     return pkg
 
 
@@ -155,6 +158,6 @@ def write_packages(pkg_type: str) -> None:
 
 
 if __name__ == "__main__":
-    remove_current_packages()
+    # remove_current_packages()
     write_packages("plugin")
     write_packages("theme")
