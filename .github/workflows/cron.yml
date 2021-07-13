@@ -1,24 +1,37 @@
-name: "Fetch packages every day"
+name: Fetch new plugins and Themes
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: 0 0 * * *
 
 jobs:
-  fetch-packages:
+  build:
     runs-on: ubuntu-latest
-
     steps:
-      - name: checkout repo content
-        uses: actions/checkout@v2
-      - name: setup python
-        uses: actions/setup-python@v2
+      - uses: actions/checkout@v2
+      - name: Set up Python 3.9
+        uses: actions/setup-python@v1
         with:
-          python-version: 3.8
-      - name: run fetch_packages script
+          python-version: 3.9
+      - name: Install dependencies
         run: |
-          python bin/fetch_packages.py
+          python -m pip install --upgrade pip
+          pip install -r ${GITHUB_WORKSPACE}/bin/requirements.txt
+      - name: Fetch themes and plugins
+        run: |
+          python ${GITHUB_WORKSPACE}/bin/fetch_packages.py
         env:
-          GITHUB_USER: z3by
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USER: z3by
+      - name: Commit files
+        run: |
+          echo ${{ github.ref }}
+          git add .
+          git config --local user.email "zoaby.am@gmail.com"
+          git config --local user.name "Ahmad Mostafa"
+          git commit -m "AUTOMATED: fetch new vuepress themes and plugins" -a | exit 0
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          branch: ${{ github.ref }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
