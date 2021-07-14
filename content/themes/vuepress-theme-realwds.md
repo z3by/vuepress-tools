@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/38198082?v=4
   email: null
   name: Alejandro
   url: null
-  username: null
+  username: realwds
 bugs: https://github.com/realwds/vuepress-theme-realwds/issues
 category: theme
 date: '2021-06-10T08:11:07.683Z'
@@ -19,7 +19,7 @@ keywords:
 - vuepress-theme
 - realwds
 - vuepress-theme-realwds
-license: null
+license: MIT License
 maintainers: null
 name: vuepress-theme-realwds
 npm: https://www.npmjs.com/package/vuepress-theme-realwds
@@ -31,10 +31,10 @@ publisher:
   username: realwds
 repository: https://github.com/realwds/vuepress-theme-realwds
 score: 0.523995756461037
-stars: 0
+stars: 2
 unstable: false
 version: 1.1.4
-watchers: 0
+watchers: 2
 
 ---
 
