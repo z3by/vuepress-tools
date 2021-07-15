@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/33161749?v=4
   email: null
   name: vczyh
   url: null
-  username: null
+  username: vczyh
 bugs: https://github.com/vczyh/vuepress-theme-something/issues
 category: theme
 date: '2020-08-02T16:11:53.061Z'
@@ -16,7 +16,7 @@ keywords:
 - vuepress
 - vuepress-theme
 - blog
-license: null
+license: MIT License
 maintainers: null
 name: vuepress-theme-something
 npm: https://www.npmjs.com/package/vuepress-theme-something
@@ -28,10 +28,10 @@ publisher:
   username: vczyh
 repository: https://github.com/vczyh/vuepress-theme-something
 score: 0.5197988530316642
-stars: 0
+stars: 3
 unstable: false
 version: 1.0.43
-watchers: 0
+watchers: 3
 
 ---
 

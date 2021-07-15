@@ -31,10 +31,10 @@ publisher:
   username: teners
 repository: https://github.com/teners/vuepress-plugin-metrika
 score: 0.4137994353608194
-stars: 1
+stars: 2
 unstable: false
 version: 1.0.2
-watchers: 1
+watchers: 2
 
 ---
 
