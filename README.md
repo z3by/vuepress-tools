@@ -2,6 +2,8 @@
 
 A curated collection of Awesome vuepress themes and plugins 
 
+This project automatically fetches all Vuepress Themes and Vuepress Plugins daily from NPM and Github API on a daily basis.
+
 ## Build Setup
 
 ```bash
