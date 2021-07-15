@@ -1,5 +1,7 @@
 # vuepress-tools
 
+A curated collection of Awesome vuepress themes and plugins 
+
 ## Build Setup
 
 ```bash
