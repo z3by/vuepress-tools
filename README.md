@@ -2,7 +2,10 @@
 
 A curated collection of Awesome vuepress themes and plugins 
 
+![Screen Shot 2021-07-15 at 10 12 19 PM](https://user-images.githubusercontent.com/36268825/125844276-cb76d957-618a-47d9-9aea-626c7c60a3d6.png)
+
 This project automatically fetches all Vuepress Themes and Vuepress Plugins daily from NPM and Github API on a daily basis.
+
 
 ## Build Setup
 
