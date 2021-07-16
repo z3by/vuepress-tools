@@ -29,10 +29,10 @@ publisher:
   username: ww1724
 repository: https://github.com/moefyit/vuepress-plugin-meting
 score: 0.15661930725276424
-stars: 17
+stars: 18
 unstable: true
 version: 0.0.5
-watchers: 17
+watchers: 18
 
 ---
 

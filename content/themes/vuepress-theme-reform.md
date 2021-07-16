@@ -27,7 +27,7 @@ publisher:
   url: null
   username: xuzhongpeng
 repository: https://github.com/xuzhongpeng/vuepress-theme-reform
-score: 0.47018778482033924
+score: 0.4590094099597247
 stars: 0
 unstable: false
 version: 1.5.1
