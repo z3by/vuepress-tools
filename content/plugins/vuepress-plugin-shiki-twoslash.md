@@ -7,7 +7,7 @@ author:
   username: shikijs
 bugs: https://github.com/shikijs/twoslash/issues
 category: plugin
-date: '2021-07-15T12:18:38.570Z'
+date: '2021-07-16T07:10:17.909Z'
 deprecated: false
 description: A VuePress plugin which adds shiki with optional twoslash-powered code
   samples
@@ -25,11 +25,11 @@ publisher:
   url: null
   username: shiki-deploys
 repository: https://github.com/shikijs/twoslash
-score: 0.6170314399162041
-stars: 293
+score: 0.6171472937002995
+stars: 296
 unstable: false
-version: 1.0.14
-watchers: 293
+version: 1.0.15
+watchers: 296
 
 ---
 
