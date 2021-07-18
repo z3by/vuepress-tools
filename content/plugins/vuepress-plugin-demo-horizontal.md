@@ -30,7 +30,7 @@ publisher:
   url: null
   username: xitice
 repository: https://github.com/xitice/vuepress-plugin-demo-horizontal
-score: 0.4460695590780495
+score: 0.4389013929430251
 stars: 0
 unstable: false
 version: 1.0.2
