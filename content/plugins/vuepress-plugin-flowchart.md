@@ -11,7 +11,7 @@ date: '2018-11-19T01:49:48.672Z'
 deprecated: false
 description: Rapid flowchart development plugin for vuepress
 downloads: null
-homepage: https://flowchart.vuepress.ulivz.com
+homepage: https://github.com/vuejs/vuepress#readme
 keywords:
 - documentation
 - vue
@@ -28,11 +28,11 @@ publisher:
   url: null
   username: ulivz
 repository: https://github.com/vuejs/vuepress
-score: 0.11167457669136417
-stars: 19152
+score: 0.07930937899317785
+stars: 19155
 unstable: false
 version: 1.4.3
-watchers: 19152
+watchers: 19155
 
 ---
 
