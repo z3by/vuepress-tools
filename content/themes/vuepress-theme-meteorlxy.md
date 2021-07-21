@@ -28,10 +28,10 @@ publisher:
   username: meteorlxy
 repository: https://github.com/meteorlxy/vuepress-theme-meteorlxy
 score: 0.5424815932718273
-stars: 328
+stars: 329
 unstable: false
 version: 1.9.0
-watchers: 328
+watchers: 329
 
 ---
 

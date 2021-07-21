@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/5064777?v=4
+  avatar: null
   email: 16viko@gmail.com
   name: viko16
   url: null
@@ -16,7 +16,7 @@ keywords:
 - vuepress
 - vuepress-theme
 - blog-theme
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-theme-simple
 npm: https://www.npmjs.com/package/vuepress-theme-simple
@@ -28,10 +28,10 @@ publisher:
   username: viko16
 repository: https://github.com/viko16/vuepress-theme-simple
 score: 0.5118296116228322
-stars: 79
+stars: 0
 unstable: false
 version: 1.2.2
-watchers: 79
+watchers: 0
 
 ---
 
