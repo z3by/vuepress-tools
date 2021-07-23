@@ -7,7 +7,7 @@ author:
   username: alija
 bugs: https://github.com/studyathome-internationally/vuepress-plugins/issues
 category: plugin
-date: '2021-07-12T15:06:57.821Z'
+date: '2021-07-22T19:15:18.907Z'
 deprecated: false
 description: Vuepress plugin for attributions and attribution references
 downloads: null
@@ -29,10 +29,10 @@ publisher:
   url: null
   username: alija
 repository: https://github.com/studyathome-internationally/vuepress-plugins
-score: 0.6160089015144069
+score: 0.6168361768637987
 stars: 0
 unstable: false
-version: 2.1.0-alpha.1
+version: 2.1.0-alpha.3
 watchers: 0
 
 ---

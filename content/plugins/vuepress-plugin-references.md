@@ -7,7 +7,7 @@ author:
   username: alija
 bugs: https://github.com/studyathome-internationally/vuepress-plugins/issues
 category: plugin
-date: '2021-07-12T15:07:03.151Z'
+date: '2021-07-22T19:15:22.504Z'
 deprecated: false
 description: Vuepress plugin for (ordered) referencing (of images, tables, etc.).
 downloads: null
@@ -28,10 +28,10 @@ publisher:
   url: null
   username: alija
 repository: https://github.com/studyathome-internationally/vuepress-plugins
-score: 0.6091216594616151
+score: 0.6101229589767332
 stars: 0
 unstable: false
-version: 2.1.0-alpha.1
+version: 2.1.0-alpha.3
 watchers: 0
 
 ---

@@ -31,10 +31,10 @@ publisher:
   username: tgreyuk
 repository: https://github.com/tgreyuk/typedoc-plugin-markdown
 score: 0.6462005349974027
-stars: 280
+stars: 282
 unstable: true
 version: 0.8.2
-watchers: 280
+watchers: 282
 
 ---
 
