@@ -32,7 +32,7 @@ publisher:
   url: null
   username: ktquez
 repository: https://github.com/ktquez/vuepress-theme-ktquez
-score: 0.2191937829815855
+score: 0.21853834001101544
 stars: 0
 unstable: true
 version: 0.2.18

@@ -29,7 +29,7 @@ publisher:
   url: null
   username: hiyue
 repository: https://github.com/HiYue/vuepress-plugin-robotstxt
-score: 0.24863625017069121
+score: 0.23013302320965204
 stars: 7
 unstable: false
 version: 1.0.1
