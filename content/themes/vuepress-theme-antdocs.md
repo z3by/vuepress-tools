@@ -30,7 +30,7 @@ publisher:
   url: null
   username: seeyoz
 repository: https://github.com/zpfz/vuepress-theme-antdocs
-score: 0.5284224344597792
+score: 0.529353464865663
 stars: 168
 unstable: false
 version: 1.3.5

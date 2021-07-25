@@ -7,7 +7,7 @@ author:
   username: null
 bugs: https://github.com/zpfz/vuepress-theme-antdocs/issues
 category: theme
-date: '2021-07-23T12:45:54.547Z'
+date: '2021-07-24T07:28:12.040Z'
 deprecated: false
 description: An Ant Design style theme for VuePress. Inherit from Feng L.H.
 downloads: null
@@ -30,10 +30,10 @@ publisher:
   url: null
   username: evan_wu
 repository: https://github.com/zpfz/vuepress-theme-antdocs
-score: 0.17951882830021723
+score: 0.18007432197106243
 stars: 0
 unstable: false
-version: 1.8.1
+version: 1.8.6
 watchers: 0
 
 ---
