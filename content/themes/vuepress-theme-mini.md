@@ -7,7 +7,7 @@ author:
   username: wxsm
 bugs: https://github.com/wxsms/vuepress-theme-mini/issues
 category: theme
-date: '2021-02-20T04:28:25.184Z'
+date: '2021-07-26T03:11:50.145Z'
 deprecated: false
 description: A minimal blogging theme of VuePress.
 downloads: null
@@ -24,10 +24,10 @@ publisher:
   url: null
   username: wxsm
 repository: https://github.com/wxsms/vuepress-theme-mini
-score: 0.5393068626020966
+score: 0.5458640792329307
 stars: 13
 unstable: false
-version: 1.6.3
+version: 1.6.4
 watchers: 13
 
 ---
