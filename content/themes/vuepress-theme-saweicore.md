@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/62002212?v=4
+  avatar: null
   email: null
   name: Saweima
   url: null
-  username: saweima12
+  username: null
 bugs: https://github.com/saweima12/vuepress-theme-saweicore/issues
 category: theme
 date: '2020-08-31T14:55:56.422Z'
@@ -16,7 +16,7 @@ keywords:
 - vuepress
 - vuepress-theme
 - blog
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-theme-saweicore
 npm: https://www.npmjs.com/package/vuepress-theme-saweicore

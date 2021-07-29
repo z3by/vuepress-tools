@@ -28,7 +28,7 @@ publisher:
   url: null
   username: ma-jinyao
 repository: https://github.com/jinyaoMa/vuepress-theme-mustom
-score: 0.5129759193206005
+score: 0.5088608622042519
 stars: 0
 unstable: false
 version: 1.1.2-20201103.2218
