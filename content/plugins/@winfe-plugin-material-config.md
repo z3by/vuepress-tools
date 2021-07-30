@@ -7,7 +7,7 @@ author:
   username: cool-fe
 bugs: https://github.com/cool-fe/winex-cli/issues
 category: plugin
-date: '2021-07-28T09:10:08.827Z'
+date: '2021-07-29T08:25:35.326Z'
 deprecated: false
 description: Create a  App in seconds.
 downloads: null
@@ -28,10 +28,10 @@ publisher:
   url: null
   username: dsx_gao
 repository: https://github.com/cool-fe/winex-cli
-score: 0.07086214768094143
+score: 0.18952229560486283
 stars: 3
 unstable: false
-version: 1.0.0
+version: 1.0.1
 watchers: 3
 
 ---
