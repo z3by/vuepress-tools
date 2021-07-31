@@ -7,7 +7,7 @@ author:
   username: null
 bugs: https://github.com/zhaopande/vuepress-theme-zp/issues
 category: theme
-date: '2021-03-15T14:01:52.994Z'
+date: '2021-07-30T14:16:24.947Z'
 deprecated: false
 description: vuepress'theme
 downloads: null
@@ -28,10 +28,10 @@ publisher:
   url: null
   username: zhaopan
 repository: https://github.com/zhaopande/vuepress-theme-zp
-score: 0.462684105099561
+score: 0.4431820115936836
 stars: 0
 unstable: true
-version: 0.0.32
+version: 0.0.4
 watchers: 0
 
 ---

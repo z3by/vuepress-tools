@@ -27,7 +27,7 @@ publisher:
   url: null
   username: wangjia_1919
 repository: https://github.com/nine-theme/vuepress-plugin-back-to-top
-score: 0.43914621177387614
+score: 0.44061218629794496
 stars: 0
 unstable: true
 version: 0.0.5

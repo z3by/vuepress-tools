@@ -33,10 +33,10 @@ publisher:
   username: evan_xu
 repository: https://github.com/xugaoyi/vuepress-plugin-thirdparty-search
 score: 0.366980880901977
-stars: 2
+stars: 1
 unstable: false
 version: 1.0.2
-watchers: 2
+watchers: 1
 
 ---
 
