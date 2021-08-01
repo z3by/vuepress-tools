@@ -29,7 +29,7 @@ publisher:
   url: null
   username: mrjzhang
 repository: https://github.com/wannaxiao/vuepress-theme-resume
-score: 0.06306300571868136
+score: 0.06334178835533921
 stars: 0
 unstable: true
 version: 0.1.5
