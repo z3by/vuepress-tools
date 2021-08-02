@@ -28,7 +28,7 @@ publisher:
   url: null
   username: cyrilf
 repository: https://github.com/cyrilf/vuepress-theme-book
-score: 0.4871749804952089
+score: 0.4529905772007314
 stars: 0
 unstable: true
 version: 0.0.5

@@ -29,7 +29,7 @@ publisher:
   url: null
   username: adamdehaven
 repository: https://github.com/adamdehaven/vuepress-plugin-custom-tooltip
-score: 0.5208845828546621
+score: 0.5195193356482092
 stars: 3
 unstable: false
 version: 1.4.3
