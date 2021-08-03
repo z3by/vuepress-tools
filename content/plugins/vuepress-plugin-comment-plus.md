@@ -1,17 +1,17 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/26399528?v=4
+  avatar: https://avatars.githubusercontent.com/u/33414148?v=4
   email: null
   name: dongyuanxin
   url: null
-  username: dongyuanxin
-bugs: https://github.com/dongyuanxin/vuepress-plugin-comment/issues
+  username: SivanLaai
+bugs: https://github.com/SivanLaai/vuepress-plugin-comment-plus/issues
 category: plugin
-date: '2020-02-08T05:20:34.589Z'
+date: '2021-08-02T13:25:29.973Z'
 deprecated: false
 description: Comment plugin in vuepress, such as Gitalk, Valine...
 downloads: null
-homepage: https://github.com/dongyuanxin/vuepress-plugin-comment#readme
+homepage: https://github.com/SivanLaai/vuepress-plugin-comment-plus#readme
 keywords:
 - vuepress
 - comment
@@ -19,35 +19,36 @@ keywords:
 - vue
 - gitalk
 - valine
+- waline
 license: false
 maintainers: null
-name: vuepress-plugin-comment
-npm: https://www.npmjs.com/package/vuepress-plugin-comment
+name: vuepress-plugin-comment-plus
+npm: https://www.npmjs.com/package/vuepress-plugin-comment-plus
 publisher:
   avatar: null
-  email: yuanxin.me@gmail.com
+  email: lyhhap@163.com
   name: null
   url: null
-  username: godbmw
-repository: https://github.com/dongyuanxin/vuepress-plugin-comment
-score: 0.2436659534745117
-stars: 27
-unstable: true
-version: 0.7.3
-watchers: 27
+  username: sivanlaai
+repository: https://github.com/SivanLaai/vuepress-plugin-comment-plus
+score: 0.4154797467198565
+stars: 1
+unstable: false
+version: 1.0.1
+watchers: 1
 
 ---
 
-# Vuepress-comment-plugin
+# Vuepress-comment-plugin-plus
 
-[![](https://img.shields.io/badge/online-preview-faad14.svg?style=popout-square)](https://xin-tan.com/)
-[![](https://img.shields.io/npm/dm/vuepress-plugin-comment.svg?style=flat-square)](https://www.npmjs.com/package/vuepress-plugin-comment)
+[![](https://img.shields.io/npm/dm/vuepress-plugin-comment-plus.svg?style=flat-square)](https://www.npmjs.com/package/vuepress-plugin-comment-plus)
 [![](https://img.shields.io/badge/vuepress-≥v0.9.0-3eaf7c.svg?style=popout-square)](https://vuepress.vuejs.org/)
 ![](https://img.shields.io/badge/license-MIT-blue.svg?style=popout-square)
-![version](https://img.shields.io/github/release/dongyuanxin/vuepress-plugin-comment.svg?style=flat-square)
+![version](https://img.shields.io/github/release/SivanLaai/vuepress-plugin-comment-plus.svg?style=flat-square)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=SivanLaai/vuepress-plugin-comment-plus)
 
 
-> Support popluar comment plugins in Vuepress, sucn as Gitalk, Valine, Disqus.
+> Support popluar comment plugins in Vuepress, sucn as Waline, Gitalk, Valine, Disqus.
 
 - [Features](#features)
 - [Usage](#usage)
@@ -55,12 +56,14 @@ watchers: 27
   - [⚠️Route object properties](#⚠️Route-object-properties)
   - [Use with Gitalk](#use-in-gitalk)
   - [Use with Valine](#use-in-valine)
+  - [Use with Waline](#use-in-waline)
   - [Hide comment](#how-to-hide-page-comment)
 - [Options detail](#options-detail)
 - [Todo](#todo)
 
 ## Features
 
+- Support Waline
 - Support Gitalk, Valine
 - Dynamic Import
 - Response router change and refresh automatic
@@ -73,19 +76,19 @@ watchers: 27
 With `npm`:
 
 ```bash
-npm install --save vuepress-plugin-comment
+npm install --save vuepress-plugin-comment-plus
 ```
 
 With `yarn`:
 
 ```bash
-yarn add vuepress-plugin-comment -D
+yarn add vuepress-plugin-comment-plus -D
 ```
 
 With `cnpm`:
 
 ```bash
-cnpm i --save vuepress-plugin-comment
+cnpm i --save vuepress-plugin-comment-plus
 ```
 
 
@@ -95,6 +98,30 @@ cnpm i --save vuepress-plugin-comment
 
 Plugin has registered correct route information in `frontmatter.to` object and `frontmatter.from` object. Their properties are the same as [vue-router's route object](https://router.vuejs.org/api/#route-object-properties).
 
+### Use in Waline
+
+The `options` is exactly the same as `Waline` configuration.
+
+```javascript
+module.exports = {
+  plugins: [
+    [
+      'vuepress-plugin-comment-plus',
+      {
+	     choosen: 'waline', 
+         // options选项中的所有参数，会传给Waline的配置
+         options: {
+           el: '#valine-vuepress-comment',
+           serverURL: 'https://waline-api-green.vercel.app',
+	       path: '<%- frontmatter.commentid || frontmatter.permalink %>'
+         }
+      }
+    ]
+  ]
+}
+```
+
+
 ### Use in Gitalk
 
 The `options` is exactly the same as `Gitalk` configuration.
@@ -103,7 +130,7 @@ The `options` is exactly the same as `Gitalk` configuration.
 module.exports = {
   plugins: [
     [
-      'vuepress-plugin-comment',
+      'vuepress-plugin-comment-plus',
       {
         choosen: 'gitalk', 
         options: {
@@ -126,7 +153,7 @@ If you want to access variables, such as `$frontmatter` and `window`, please use
 module.exports = {
   plugins: [
     [
-      'vuepress-plugin-comment',
+      'vuepress-plugin-comment-plus',
       {
         choosen: 'gitalk', 
         options: {
@@ -156,7 +183,7 @@ The `options` is exactly the same as `Valine` configuration.
 module.exports = {
   plugins: [
     [
-      'vuepress-plugin-comment',
+      'vuepress-plugin-comment-plus',
       {
         choosen: 'valine', 
         options: {
@@ -176,7 +203,7 @@ If you want to access variables, such as `$frontmatter` and `window`, please use
 module.exports = {
   plugins: [
     [
-      'vuepress-plugin-comment',
+      'vuepress-plugin-comment-plus',
       {
         choosen: 'valine', 
         options: {
@@ -190,6 +217,7 @@ module.exports = {
   ]
 }
 ```
+
 
 ### How to hide page comment
 

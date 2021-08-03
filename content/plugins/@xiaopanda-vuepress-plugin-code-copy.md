@@ -29,7 +29,7 @@ publisher:
   url: null
   username: panxingcheng
 repository: https://github.com/panxingcheng/vuepress-plugin-code-copy
-score: 0.4349411593342766
+score: 0.43617086266781024
 stars: 2
 unstable: false
 version: 1.0.3
