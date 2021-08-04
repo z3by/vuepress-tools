@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/48539483?v=4
+  avatar: null
   email: null
   name: meteorlxy
   url: null
-  username: vuepress
+  username: null
 bugs: https://github.com/vuepress/vuepress-next/issues
 category: plugin
 date: '2021-04-11T12:39:28.552Z'
@@ -18,7 +18,7 @@ keywords:
 - plugin
 - markdown
 - container
-license: MIT License
+license: null
 maintainers: null
 name: '@vuepress/plugin-container'
 npm: https://www.npmjs.com/package/%40vuepress%2Fplugin-container
@@ -30,10 +30,10 @@ publisher:
   username: meteorlxy
 repository: https://github.com/vuepress/vuepress-next
 score: 0.6524546024293751
-stars: 511
+stars: 0
 unstable: false
 version: 2.0.0-beta.8
-watchers: 511
+watchers: 0
 
 ---
 

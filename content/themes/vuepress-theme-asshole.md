@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/43257350?v=4
   email: willin@willin.org
   name: willin
   url: null
@@ -15,7 +15,7 @@ homepage: https://github.com/assholev0/vuepress-theme-asshole#readme
 keywords:
 - vuepress
 - theme
-license: null
+license: MIT License
 maintainers: null
 name: vuepress-theme-asshole
 npm: https://www.npmjs.com/package/vuepress-theme-asshole
@@ -33,4 +33,8 @@ version: 0.0.0-alpha0-20180918
 watchers: 0
 
 ---
+
+# Vuepress Theme - AssholeV0
+
+See demo on <https://v0.chat/>
 

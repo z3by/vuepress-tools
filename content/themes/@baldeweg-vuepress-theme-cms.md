@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/56736413?v=4
   email: null
   name: null
   url: null
-  username: null
+  username: abaldeweg
 bugs: https://github.com/abaldeweg/vuepress-theme-cms/issues
 category: theme
 date: '2020-12-27T12:07:31.696Z'
@@ -13,7 +13,7 @@ description: The theme for baldeweg/cms-cli.
 downloads: null
 homepage: https://github.com/abaldeweg/vuepress-theme-cms#readme
 keywords: null
-license: null
+license: MIT License
 maintainers: null
 name: '@baldeweg/vuepress-theme-cms'
 npm: https://www.npmjs.com/package/%40baldeweg%2Fvuepress-theme-cms
@@ -32,3 +32,23 @@ watchers: 0
 
 ---
 
+# baldeweg/vuepress-theme-cms
+
+The theme for [baldeweg/cms-cli](https://github.com/abaldeweg/cms-cli).
+
+## Requirements
+
+- NodeJS 12 <https://nodejs.org/en/>
+- Yarn <https://classic.yarnpkg.com/lang/en/>
+
+## Getting Started
+
+Install it with `yarn add @baldeweg/vuepress-theme-cms --save`.
+
+Add it to the config of the CMS in `content/.vuepress/config.js`.
+
+```js
+module.exports = {
+  theme: '@baldeweg/vuepress-theme-cms'
+}
+```
