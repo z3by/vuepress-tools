@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/48539483?v=4
   email: null
   name: meteorlxy
   url: null
-  username: null
+  username: vuepress
 bugs: https://github.com/vuepress/vuepress-next/issues
 category: plugin
 date: '2021-04-11T12:39:28.552Z'
@@ -18,7 +18,7 @@ keywords:
 - plugin
 - markdown
 - container
-license: null
+license: MIT License
 maintainers: null
 name: '@vuepress/plugin-container'
 npm: https://www.npmjs.com/package/%40vuepress%2Fplugin-container
@@ -30,10 +30,10 @@ publisher:
   username: meteorlxy
 repository: https://github.com/vuepress/vuepress-next
 score: 0.6524546024293751
-stars: 0
+stars: 512
 unstable: false
 version: 2.0.0-beta.8
-watchers: 0
+watchers: 512
 
 ---
 
@@ -44,6 +44,7 @@ watchers: 0
 [![npm](https://badgen.net/npm/v/vuepress/next)](https://www.npmjs.com/package/vuepress)
 [![coverage](https://coveralls.io/repos/github/vuepress/vuepress-next/badge.svg?branch=main)](https://coveralls.io/github/vuepress/vuepress-next?branch=main)
 [![license](https://badgen.net/github/license/vuepress/vuepress-next)](https://github.com/vuepress/vuepress-next/blob/main/LICENSE)
+[![discord](https://badgen.net/discord/online-members/ptFjefy6H5?icon=discord&label=discord)](https://discord.gg/ptFjefy6H5)
 
 ## Status: Beta
 

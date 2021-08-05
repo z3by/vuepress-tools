@@ -28,10 +28,10 @@ publisher:
   username: darrenjennings
 repository: https://github.com/darrenjennings/vuepress-plugin-reading-time
 score: 0.42461845289215006
-stars: 33
+stars: 34
 unstable: true
 version: 0.1.1
-watchers: 33
+watchers: 34
 
 ---
 

@@ -30,10 +30,10 @@ publisher:
   username: adamdehaven
 repository: https://github.com/adamdehaven/vuepress-plugin-custom-tooltip
 score: 0.5195193356482092
-stars: 3
+stars: 4
 unstable: false
 version: 1.4.3
-watchers: 3
+watchers: 4
 
 ---
 

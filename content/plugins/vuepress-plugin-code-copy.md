@@ -31,10 +31,10 @@ publisher:
   username: znicholasbrown
 repository: https://github.com/znicholasbrown/vuepress-plugin-code-copy
 score: 0.3116447345504399
-stars: 45
+stars: 46
 unstable: false
 version: 1.0.6
-watchers: 45
+watchers: 46
 
 ---
 

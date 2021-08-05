@@ -7,7 +7,7 @@ author:
   username: gavinliu0606
 bugs: https://github.com/gavinliu6/vuepress-theme-mix/issues
 category: theme
-date: '2021-06-25T12:22:05.781Z'
+date: '2021-08-04T10:00:08.640Z'
 deprecated: false
 description: A VuePress theme with a mix of features
 downloads: null
@@ -27,26 +27,26 @@ publisher:
   url: null
   username: gavinliu0606
 repository: https://github.com/gavinliu6/vuepress-theme-mix
-score: 0.5418624252434054
-stars: 6
-unstable: true
-version: 0.2.3
-watchers: 6
+score: 0.5049666300144213
+stars: 0
+unstable: false
+version: 1.0.0
+watchers: 0
 
 ---
 
 # vuepress-theme-mix
 
-[![](https://img.shields.io/badge/vuepress-next-blue)](https://vuepress2.netlify.app)
+[![](https://img.shields.io/badge/vuepress-next-blue)](https://v2.vuepress.vuejs.org)
 [![GitHub license](https://img.shields.io/github/license/gavinliu6/vuepress-theme-mix)](https://github.com/gavinliu6/vuepress-theme-mix)
 
 ## About The Project
 
-VuePress Theme Mix is a minimalistic theme that is designed and developed for [VuePress 2](https://vuepress2.netlify.app/). It's deeply customized based on the [default theme](https://github.com/vuepress/vuepress-next/tree/main/packages/@vuepress/theme-default) of VuePress 2, but it's not inherited from the default theme, so it's able to be used in an inherited way as well.
+VuePress Theme Mix is a minimalistic theme that is designed and developed for [VuePress 2](https://v2.vuepress.vuejs.org/). It's deeply customized based on the [default theme](https://github.com/vuepress/vuepress-next/tree/main/packages/@vuepress/theme-default) of VuePress 2, but it's not inherited from the default theme, so it's able to be used in an inherited way as well.
 
 ## Document
 
-https://vuepress-theme-mix.vercel.app
+https://vuepress-theme-mix.netlify.app
 
 ## License
 
