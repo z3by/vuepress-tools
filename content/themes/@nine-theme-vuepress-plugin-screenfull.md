@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/64388301?v=4
+  avatar: null
   email: null
   name: wangjia_1919@163.com
   url: null
-  username: nine-theme
+  username: null
 bugs: https://github.com/NineSwordsMonster/vuepress-plugin-screenfull/issues
 category: theme
 date: '2020-09-23T07:47:20.556Z'
@@ -15,7 +15,7 @@ homepage: https://github.com/NineSwordsMonster/vuepress-plugin-screenfull#readme
 keywords:
 - screenfull
 - vuepress
-license: MIT License
+license: null
 maintainers: null
 name: '@nine-theme/vuepress-plugin-screenfull'
 npm: https://www.npmjs.com/package/%40nine-theme%2Fvuepress-plugin-screenfull
@@ -34,22 +34,3 @@ watchers: 0
 
 ---
 
-# @nine-theme/vuepress-plugin-screenfull
-![GitHub last commit](https://img.shields.io/github/last-commit/nine-theme/vuepress-plugin-screenfull) 
-![npm (scoped)](https://img.shields.io/npm/v/@nine-theme/vuepress-plugin-screenfull) 
-![npm](https://img.shields.io/npm/dt/@nine-theme/vuepress-plugin-screenfull) 
-![NPM](https://img.shields.io/npm/l/@nine-theme/vuepress-plugin-screenfull)
-
----
-> Screenfull plugin for vuepress
-
-## 使用
-
-|使用位置|值|
-|-|-|
-|plugin name|@nine-theme/vuepress-plugin-screenfull|
-|component name|Screenfull（主题开发时使用）|
-
-```sh
-npm install @nine-theme/vuepress-plugin-screenfull
-```

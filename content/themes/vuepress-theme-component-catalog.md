@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/16383815?v=4
+  avatar: null
   email: make.app.ts@gmail.com
   name: mya-ake
   url: null
@@ -13,7 +13,7 @@ description: null
 downloads: null
 homepage: https://github.com/mya-ake/vuepress-theme-component-catalog#readme
 keywords: null
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-theme-component-catalog
 npm: https://www.npmjs.com/package/vuepress-theme-component-catalog
@@ -25,11 +25,10 @@ publisher:
   username: mya-ake
 repository: https://github.com/mya-ake/vuepress-theme-component-catalog
 score: 0.28736520990526127
-stars: 1
+stars: 0
 unstable: true
 version: 0.0.17
-watchers: 1
+watchers: 0
 
 ---
 
-# vuepress-theme-component-catalog

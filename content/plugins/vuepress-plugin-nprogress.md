@@ -27,7 +27,7 @@ publisher:
   url: null
   username: meteorlxy
 repository: https://github.com/vuepress/vuepress-community
-score: 0.579320914812232
+score: 0.5751684457529425
 stars: 67
 unstable: false
 version: 1.1.8

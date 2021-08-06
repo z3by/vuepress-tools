@@ -25,10 +25,10 @@ publisher:
   username: ulivz
 repository: https://github.com/rich-lab/json-schema-2-markdown
 score: 0.4009383884199021
-stars: 8
+stars: 7
 unstable: true
 version: 0.2.2
-watchers: 8
+watchers: 7
 
 ---
 
