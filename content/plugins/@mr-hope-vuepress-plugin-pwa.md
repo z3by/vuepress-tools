@@ -7,7 +7,7 @@ author:
   username: mister-hope
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues
 category: plugin
-date: '2021-06-15T02:29:48.486Z'
+date: '2021-08-07T04:10:59.244Z'
 deprecated: false
 description: Powerful PWA plugin for vuepress
 downloads: null
@@ -29,11 +29,11 @@ publisher:
   url: null
   username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
-score: 0.6849172470979413
-stars: 226
+score: 0.6854818111715485
+stars: 225
 unstable: false
-version: 1.18.2
-watchers: 226
+version: 1.19.1
+watchers: 225
 
 ---
 

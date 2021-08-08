@@ -7,7 +7,7 @@ author:
   username: mister-hope
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues
 category: plugin
-date: '2021-06-15T02:29:45.158Z'
+date: '2021-08-07T04:10:54.370Z'
 deprecated: false
 description: Last update time plugin for vuepress
 downloads: null
@@ -27,11 +27,11 @@ publisher:
   url: null
   username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
-score: 0.6703471733743719
-stars: 226
+score: 0.6784232338520797
+stars: 225
 unstable: false
-version: 1.18.2
-watchers: 226
+version: 1.19.1
+watchers: 225
 
 ---
 

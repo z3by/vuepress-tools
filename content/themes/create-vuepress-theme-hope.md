@@ -7,7 +7,7 @@ author:
   username: mister-hope
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues
 category: theme
-date: '2021-06-29T14:39:09.153Z'
+date: '2021-08-07T04:10:57.886Z'
 deprecated: false
 description: Theme create shortcut for yarn
 downloads: null
@@ -27,11 +27,11 @@ publisher:
   url: null
   username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
-score: 0.6682328188331454
-stars: 226
+score: 0.6629363738974822
+stars: 225
 unstable: false
-version: 1.18.5
-watchers: 226
+version: 1.19.1
+watchers: 225
 
 ---
 

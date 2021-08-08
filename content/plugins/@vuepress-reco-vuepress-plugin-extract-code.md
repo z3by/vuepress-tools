@@ -12,7 +12,7 @@ deprecated: false
 description: Features and code presentation plugin for vuepress-theme-reco or other
   vuepress theme
 downloads: null
-homepage: https://vuepress-theme-reco.recoluan.com
+homepage: https://github.com/vuepress-reco/vuepress-plugin-extract-code#readme
 keywords:
 - vuepress-theme-reco
 - extract-code
@@ -28,7 +28,7 @@ publisher:
   url: null
   username: reco_luan
 repository: https://github.com/vuepress-reco/vuepress-plugin-extract-code
-score: 0.29047017956958243
+score: 0.26123754226570856
 stars: 11
 unstable: false
 version: 1.0.4

@@ -7,7 +7,7 @@ author:
   username: mister-hope
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues
 category: plugin
-date: '2021-06-20T04:41:27.537Z'
+date: '2021-08-07T04:10:54.564Z'
 deprecated: false
 description: Feed plugin for vuepress-theme-hope
 downloads: null
@@ -27,11 +27,11 @@ publisher:
   url: null
   username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
-score: 0.683783199293897
-stars: 226
+score: 0.6901169435541142
+stars: 225
 unstable: false
-version: 1.18.4
-watchers: 226
+version: 1.19.1
+watchers: 225
 
 ---
 

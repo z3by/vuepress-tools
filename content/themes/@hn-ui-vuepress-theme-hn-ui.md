@@ -11,7 +11,7 @@ date: '2020-07-15T08:43:18.077Z'
 deprecated: false
 description: A theme based on Vuepress for HN UI.
 downloads: null
-homepage: https://hn-ui.com
+homepage: https://github.com/hn-ui/hn-ui#readme
 keywords:
 - vue
 - vuepress
@@ -30,7 +30,7 @@ publisher:
   url: null
   username: upcwangying
 repository: https://github.com/hn-ui/hn-ui
-score: 0.6290138155099927
+score: 0.6009898218101966
 stars: 0
 unstable: false
 version: 1.0.0
