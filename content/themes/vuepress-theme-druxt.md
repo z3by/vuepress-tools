@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/41039745?v=4
   email: stuart@realityloop.com
   name: Stuart Clark
   url: null
-  username: null
+  username: druxt
 bugs: https://github.com/druxt/vuepress-theme-druxt/issues
 category: theme
 date: '2020-09-01T03:14:44.345Z'
@@ -15,7 +15,7 @@ homepage: https://github.com/druxt/vuepress-theme-druxt#readme
 keywords:
 - vuepress
 - druxtjs
-license: null
+license: MIT License
 maintainers: null
 name: vuepress-theme-druxt
 npm: https://www.npmjs.com/package/vuepress-theme-druxt

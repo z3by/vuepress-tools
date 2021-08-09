@@ -7,7 +7,7 @@ author:
   username: null
 bugs: https://github.com/cyrilf/vuepress-theme-book/issues
 category: theme
-date: '2020-10-14T12:38:40.888Z'
+date: '2021-08-08T13:12:18.878Z'
 deprecated: false
 description: A Vuepress theme inspired by gitbook aesthetics
 downloads: null
@@ -28,10 +28,10 @@ publisher:
   url: null
   username: cyrilf
 repository: https://github.com/cyrilf/vuepress-theme-book
-score: 0.4529905772007314
+score: 0.43318675327083606
 stars: 0
 unstable: true
-version: 0.0.5
+version: 0.0.6
 watchers: 0
 
 ---
