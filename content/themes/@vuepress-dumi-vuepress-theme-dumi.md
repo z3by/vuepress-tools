@@ -7,7 +7,7 @@ author:
   username: orekish
 bugs: https://github.com/OrekiSH/vuepress-dumi/issues
 category: theme
-date: '2021-05-02T08:56:55.626Z'
+date: '2021-08-09T12:53:01.167Z'
 deprecated: false
 description: "\U0001F4D6 A dumi style theme for VuePress."
 downloads: null
@@ -29,10 +29,10 @@ publisher:
   url: null
   username: orekish
 repository: https://github.com/OrekiSH/vuepress-dumi
-score: 0.48786641779131057
+score: 0.4892208447998764
 stars: 0
 unstable: true
-version: 0.3.8
+version: 0.3.11
 watchers: 0
 
 ---

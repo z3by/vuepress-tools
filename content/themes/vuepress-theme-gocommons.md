@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/35213792?v=4
+  avatar: null
   email: null
   name: cperezcapote
   url: null
-  username: cperezcapote
+  username: null
 bugs: https://github.com/cperezcapote/vuepress-theme-gocommons/issues
 category: theme
 date: '2019-04-12T05:58:23.274Z'
@@ -16,7 +16,7 @@ keywords:
 - vuepress
 - vuepress-theme
 - theme
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-theme-gocommons
 npm: https://www.npmjs.com/package/vuepress-theme-gocommons
@@ -35,6 +35,3 @@ watchers: 0
 
 ---
 
-# vuepress-theme-gocommons
-
-A custom Vuepress theme for GO!Commons partner applications.

@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/17166940?v=4
+  avatar: null
   email: phshy0607@outlook.com
   name: Hao Peng
   url: null
@@ -13,7 +13,7 @@ description: a light vuepress theme
 downloads: null
 homepage: https://github.com/phshy0607/vuepress-theme-light#readme
 keywords: null
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-theme-light
 npm: https://www.npmjs.com/package/vuepress-theme-light
@@ -31,29 +31,4 @@ version: 1.0.7
 watchers: 0
 
 ---
-
-# vuepress-theme-light
-
-A simple and light theme extends vuepress default theme
-
-WIP
-
-## Installation
-```
-  npm install vuepress-theme-light --save
-```
-
-## Development
-
-```
-  npm install
-  npm run dev
-```
-
-## Restriction
-1. All markdown file under .vuepress folder is considered a blog post
-2. To display front page, use ReadMe.md in .vuepress folder
-3. If you want to use the posts list, please add a nav '/posts/
-
-
 

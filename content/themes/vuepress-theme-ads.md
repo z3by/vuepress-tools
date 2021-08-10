@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/38451365?v=4
+  avatar: null
   email: null
   name: Evan You
   url: null
-  username: deepjs-cn
+  username: null
 bugs: https://github.com/kitdocs/vuepress-theme-ads/issues
 category: theme
 date: '2018-04-30T05:51:33.189Z'
@@ -14,7 +14,7 @@ downloads: null
 homepage: https://github.com/kitdocs/vuepress-theme-ads#readme
 keywords:
 - vue
-license: Apache License 2.0
+license: null
 maintainers: null
 name: vuepress-theme-ads
 npm: https://www.npmjs.com/package/vuepress-theme-ads
@@ -33,5 +33,3 @@ watchers: 0
 
 ---
 
-# vuepress-theme-ads
-vuepress theme
