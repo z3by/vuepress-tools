@@ -28,7 +28,7 @@ publisher:
   url: null
   username: bykclk
 repository: https://github.com/bykclk/vuepress-plugin-google-tag-manager
-score: 0.37166048267218654
+score: 0.3730457281593457
 stars: 7
 unstable: true
 version: 0.0.5

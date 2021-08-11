@@ -31,7 +31,7 @@ publisher:
   url: null
   username: tolking
 repository: https://github.com/tolking/vuepress-theme-ououe
-score: 0.5474690132817512
+score: 0.5174077341293938
 stars: 73
 unstable: false
 version: 1.5.3
