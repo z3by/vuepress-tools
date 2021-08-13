@@ -33,7 +33,7 @@ publisher:
   url: null
   username: a984584014
 repository: https://github.com/web-liuyang/vuepress-plugin-handle-sidebar
-score: 0.48933572386930413
+score: 0.46756868869869994
 stars: 1
 unstable: false
 version: 1.0.3

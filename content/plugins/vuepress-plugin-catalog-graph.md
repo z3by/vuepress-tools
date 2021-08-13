@@ -28,7 +28,7 @@ publisher:
   url: null
   username: ludanxer
 repository: https://github.com/ludanxer/catalog-graph
-score: 0.4680011400612161
+score: 0.468020815257278
 stars: 4
 unstable: true
 version: 0.2.8

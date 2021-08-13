@@ -30,7 +30,7 @@ publisher:
   url: null
   username: gezihuzi
 repository: https://github.com/gezihuzi/vuepress-plugin-jsdelivr-cdn
-score: 0.431392920774765
+score: 0.43078433592946175
 stars: 0
 unstable: true
 version: 0.0.8
