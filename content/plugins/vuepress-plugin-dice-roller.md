@@ -27,7 +27,7 @@ publisher:
   url: null
   username: greenimp
 repository: https://github.com/GreenImp/vuepress-plugin-dice-roller
-score: 0.4456987679585412
+score: 0.35889077512152645
 stars: 0
 unstable: true
 version: 0.1.7

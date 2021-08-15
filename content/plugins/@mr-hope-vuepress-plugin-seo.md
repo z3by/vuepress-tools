@@ -81,192 +81,53 @@ Here is a list of changes:
 
 > Note: All plugin names are in PascalCase and without `vuepress-plugin-` prefix, you should change to `kebab-case` and add the prefix yourself to get the correct plugin name.
 
-## AddThis💌 ![deprecated](https://img.shields.io/badge/-deprecated-yellow)
+## Changes in plugins
 
-We are just making this plugin compatable with V2. This plugin will no longer under maintainment.
+- [@mr-hope/components readme](https://github.com/vuepress-theme-hope/vuepress-theme-hope/blob/main/packages/components/README.md)
 
-### Why❔
+- [vuepress-plugin-add-this](https://github.com/vuepress-theme-hope/vuepress-theme-hope/blob/main/packages/add-this/README.md) ![deprecated](https://img.shields.io/badge/-deprecated-yellow)
 
-AdBlocks are blocking addThis link heavily, and in most cases this plugin won't work.
+- [vuepress-plugin-comment2](https://github.com/vuepress-theme-hope/vuepress-theme-hope/blob/main/packages/comment2/README.md)
 
-### Solution💡
+- [vuepress-plugin-copy-code2](https://github.com/vuepress-theme-hope/vuepress-theme-hope/blob/main/packages/copy-code2/README.md)
 
-We will provide a new share plugin in v2.
+- [vuepress-plugin-feed2](https://github.com/vuepress-theme-hope/vuepress-theme-hope/blob/main/packages/feed2/README.md)
 
-## Comment2💬
+- [vuepress-plugin-md-enhance](https://github.com/vuepress-theme-hope/vuepress-theme-hope/blob/main/packages/md-enhance/README.md)
 
-Renamed from `@mr-hope/vuepress-plugin-comment` to `vuepress-plugin-comment2`. ⚠
+- [vuepress-plugin-photo-swipe](https://github.com/vuepress-theme-hope/vuepress-theme-hope/blob/main/packages/photo-swipe/README.md)
 
-### Changes
+- [vuepress-plugin-pwa2](https://github.com/vuepress-theme-hope/vuepress-theme-hope/blob/main/packages/pwa2/README.md)
 
-- [x] Drop Valine support! ![removed](https://img.shields.io/badge/-removed-red)
+- [vuepress-plugin-reading-time2](https://github.com/vuepress-theme-hope/vuepress-theme-hope/blob/main/packages/reading-time2/README.md)
 
-  Valine is lack of maintainence and can leak your privacy. You should use [Waline](https://waline.js.org) instead.
+- [vuepress-plugin-seo2](https://github.com/vuepress-theme-hope/vuepress-theme-hope/blob/main/packages/seo2/README.md)
 
-- [x] Option `hint` (default `true`) for handling page info hints. ![new](https://img.shields.io/badge/-new-brightgreen)
+- [vuepress-plugin-sitemap2](https://github.com/vuepress-theme-hope/vuepress-theme-hope/blob/main/packages/sitemap2/README.md)
 
-- [x] Allow I18N Customize ![new](https://img.shields.io/badge/-new-brightgreen)
+## New plugins
 
-- [x] Muti categories support ![new](https://img.shields.io/badge/-new-brightgreen)
+- [x] LightGallery ![new](https://img.shields.io/badge/-new-brightgreen)
 
-### Note
+  A image viewer plugin for VuePress using [lightGallary](https://www.lightgalleryjs.com/)
 
-Vssue is currently being dropped because vssue has not support v2 yet. We will add it back after it supports v2.
+  See [LightGallery readme](https://github.com/vuepress-theme-hope/vuepress-theme-hope/blob/main/packages/lightgallery/README.md)
 
-## CopyCode2📋
+- [x] SassPalette ![new](https://img.shields.io/badge/-new-brightgreen)
 
-Renamed from `@mr-hope/vuepress-plugin-copy-code` to `vuepress-plugin-copy-code2`. ⚠
+  A style system for sass across plugins and theme
 
-### Changes
+  See [SassPalette readme](https://github.com/vuepress-theme-hope/vuepress-theme-hope/blob/main/packages/sass-palette/README.md)
 
-- [x] Option `delay` (default `500`) for handling the page swtiching transition. ![new](https://img.shields.io/badge/-new-brightgreen)
+- [ ] Share2 ![new](https://img.shields.io/badge/-new-brightgreen)
 
-- [ ] Option `pure` (default `false`) for handling fancy styles. ![new](https://img.shields.io/badge/-new-brightgreen)
+  A new share plugin providing page share.
 
-- [x] Allow I18N Customize ![new](https://img.shields.io/badge/-new-brightgreen)
+- [ ] SimpleBlog ![new](https://img.shields.io/badge/-new-brightgreen)
 
-## Feed2
+  Build a own blog plugin to support blog with better performance
 
-Renamed from `@mr-hope/vuepress-plugin-feed` to `vuepress-plugin-feed2`. ⚠
-
-### Changes
-
-- [x] Better log output. ![improve](https://img.shields.io/badge/-improved-blue)
-
-- [x] Muti categories support ![new](https://img.shields.io/badge/-new-brightgreen)
-
-## MdEnhance
-
-### Changes
-
-- [ ] Auto inject cdn links for markdown demo ![new](https://img.shields.io/badge/-new-brightgreen)
-
-- [x] Option `delay` (default `500`) for handling the page swtiching transition. ![new](https://img.shields.io/badge/-new-brightgreen)
-
-- [x] Drop flowchart support ![removed](https://img.shields.io/badge/-removed-red)
-
-  We are adding mermaid support, and mermaid support flowchart.
-
-- [x] Move SlidePage layout from theme to the plugin
-
-- [x] Allow I18N Title in details block ![new](https://img.shields.io/badge/-new-brightgreen)
-
-- [x] Allow I18N Customize ![new](https://img.shields.io/badge/-new-brightgreen)
-
-## LightGallery ![new](https://img.shields.io/badge/-new-brightgreen)
-
-- [x] Build a photo preview plugin using [lightGallary](https://www.lightgalleryjs.com/)
-
-## Pwa2
-
-Renamed from `@mr-hope/vuepress-plugin-pwa` to `vuepress-plugin-pwa2`. ⚠
-
-### Changes
-
-- [x] Allow I18N Customize ![new](https://img.shields.io/badge/-new-brightgreen)
-
-## PhotoSwipe ![deprecated](https://img.shields.io/badge/-deprecated-yellow)
-
-This plugin will still be under maintained, but we are going to build a better plugin using [lightGallary](https://www.lightgalleryjs.com/).
-
-### Changes
-
-- [x] Option `delay` (default `500`) for handling the page swtiching transition. ![new](https://img.shields.io/badge/-new-brightgreen)
-
-- [x] Allow I18N Customize ![new](https://img.shields.io/badge/-new-brightgreen)
-
-## ReadingTime2
-
-Renamed from `@mr-hope/vuepress-plugin-reading-time` to `vuepress-plugin-reading-time2`. ⚠
-
-- [x] Allow I18N Customize ![new](https://img.shields.io/badge/-new-brightgreen)
-
-## SassPalette ![new](https://img.shields.io/badge/-new-brightgreen)
-
-- [x] A new palette handling config and palette across theme and plugins using sass
-
-Options:
-
-```ts
-export interface PaletteOptions {
-  /** identifier for palette */
-  id: string;
-
-  /**
-   * user config file path, relative to source dir
-   *
-   * @default ".vuepress/styles/config.scss"
-   */
-  config?: string;
-
-  /**
-   * default config file path, should be absolute path
-   *
-   * This is the file you should use to provide default values with `!default`
-   *
-   * @default "vuepress-plugin-sass-palette/styles/default/config.scss"
-   */
-  defaultConfig?: string;
-
-  /**
-   * user palette file path, relative to source dir
-   *
-   * @default ".vuepress/styles/palette.scss"
-   */
-  palette?: string;
-
-  /**
-   * default palette file path, should be absolute path
-   *
-   * This is the file you should use to provide default values with `!default`
-   *
-   * @default "vuepress-plugin-sass-palette/styles/default/palette.scss"
-   */
-
-  defaultPalette?: string;
-
-  /**
-   * user style file path, relative to source dir
-   *
-   * @default ".vuepress/styles/palette.scss"
-   */
-  style?: string;
-}
-```
-
-## SEO2
-
-Renamed from `@mr-hope/vuepress-plugin-seo` to `vuepress-plugin-seo2`. ⚠
-
-### Changes
-
-- [ ] JSON-LD support ![new](https://img.shields.io/badge/-new-brightgreen)
-
-- [x] Better log output. ![improve](https://img.shields.io/badge/-improved-blue)
-
-- [x] Muti categories support ![new](https://img.shields.io/badge/-new-brightgreen)
-
-- [ ] Alternate Language Link support ![new](https://img.shields.io/badge/-new-brightgreen)
-
-## Share2 ![new](https://img.shields.io/badge/-new-brightgreen)
-
-- [ ] A new share plugin providing page share.
-
-## SimpleBlog ![new](https://img.shields.io/badge/-new-brightgreen)
-
-- [ ] Build a own blog plugin to support blog with better performance
-
-## Sitemap2
-
-Renamed from `@mr-hope/vuepress-plugin-sitemap` to `vuepress-plugin-sitemap2`. ⚠
-
-### Changes
-
-- [x] Better log output. ![improve](https://img.shields.io/badge/-improved-blue)
-
-- [x] Muti categories support ![new](https://img.shields.io/badge/-new-brightgreen)
-
-## VuepressThemeHope
+## Theme changes
 
 - [ ] Pure Mode in theme and all plugins #438 ![new](https://img.shields.io/badge/-new-brightgreen)
 
