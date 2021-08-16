@@ -34,7 +34,7 @@ publisher:
   url: null
   username: xzhi
 repository: https://github.com/GitHub-Xzhi/vuepress-plugin-add-copyright
-score: 0.5401283633864568
+score: 0.5394808390732975
 stars: 0
 unstable: false
 version: 1.0.2

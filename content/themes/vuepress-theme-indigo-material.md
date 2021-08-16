@@ -28,7 +28,7 @@ publisher:
   url: null
   username: zhhlwd
 repository: https://github.com/zhhlwd/vuepress-theme-indigo-material
-score: 0.3498826861997012
+score: 0.3365107675083305
 stars: 0
 unstable: false
 version: 1.0.22

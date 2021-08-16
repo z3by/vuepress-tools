@@ -35,10 +35,10 @@ publisher:
   username: ntnyq
 repository: https://github.com/ntnyq/vuepress-plugin-social-share
 score: 0.6730879361489861
-stars: 27
+stars: 28
 unstable: false
 version: 1.0.0
-watchers: 27
+watchers: 28
 
 ---
 

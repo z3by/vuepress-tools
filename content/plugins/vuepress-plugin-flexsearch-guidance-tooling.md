@@ -30,7 +30,7 @@ publisher:
   url: null
   username: bart-renders
 repository: https://github.com/BartR96/vuepress-plugin-flexsearch
-score: 0.332244174600808
+score: 0.33259727492292784
 stars: 0
 unstable: false
 version: 1.0.1
