@@ -31,10 +31,10 @@ publisher:
   username: ttskch
 repository: https://github.com/ttskch/vuepress-theme-blog-vuetify
 score: 0.590336586837499
-stars: 25
+stars: 26
 unstable: false
 version: 1.6.2
-watchers: 25
+watchers: 26
 
 ---
 

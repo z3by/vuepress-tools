@@ -26,7 +26,7 @@ publisher:
   url: null
   username: tmiame
 repository: https://github.com/tmiame/vuepress-plugin-cpt
-score: 0.3694203562283248
+score: 0.36960398102825653
 stars: 4
 unstable: false
 version: 1.0.2
