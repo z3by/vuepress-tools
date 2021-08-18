@@ -7,7 +7,7 @@ author:
   username: xinlei3166
 bugs: https://github.com/xinlei3166/vuepress-plugin-demoblock-plus/issues
 category: plugin
-date: '2021-07-19T03:53:37.023Z'
+date: '2021-08-17T10:31:38.774Z'
 deprecated: false
 description: vuepress plugin for demoblock
 downloads: null
@@ -18,19 +18,19 @@ keywords:
 - plugin
 license: false
 maintainers: null
-name: vuepress-plugin-demoblock-plus
-npm: https://www.npmjs.com/package/vuepress-plugin-demoblock-plus
+name: vuepress-plugin-demoblock-next
+npm: https://www.npmjs.com/package/vuepress-plugin-demoblock-next
 publisher:
   avatar: null
-  email: xinlei3166@126.com
+  email: 877824709@qq.com
   name: null
   url: null
-  username: ~xinlei3166
+  username: cunzaizhuyi
 repository: https://github.com/xinlei3166/vuepress-plugin-demoblock-plus
-score: 0.5239436925712786
+score: 0.07086214768094143
 stars: 2
 unstable: false
-version: 1.0.4
+version: 1.0.6
 watchers: 2
 
 ---

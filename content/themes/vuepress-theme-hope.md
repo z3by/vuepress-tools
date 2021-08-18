@@ -7,7 +7,7 @@ author:
   username: mister-hope
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues
 category: theme
-date: '2021-08-07T12:04:55.800Z'
+date: '2021-08-17T14:34:31.466Z'
 deprecated: false
 description: A light vuepress theme with tons for features
 downloads: null
@@ -28,11 +28,11 @@ publisher:
   url: null
   username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
-score: 0.6698440481450142
-stars: 228
+score: 0.6865214712468853
+stars: 229
 unstable: false
-version: 1.19.2
-watchers: 228
+version: 1.19.3
+watchers: 229
 
 ---
 
