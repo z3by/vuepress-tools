@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/23313167?v=4
+  avatar: null
   email: qw13131wang@gmail.com
   name: tolking
   url: null
@@ -20,7 +20,7 @@ keywords:
 - vuepress-theme
 - light-theme
 - dark-theme
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-theme-ououe
 npm: https://www.npmjs.com/package/vuepress-theme-ououe
@@ -32,10 +32,10 @@ publisher:
   username: tolking
 repository: https://github.com/tolking/vuepress-theme-ououe
 score: 0.5174077341293938
-stars: 73
+stars: 0
 unstable: false
 version: 1.5.3
-watchers: 73
+watchers: 0
 
 ---
 

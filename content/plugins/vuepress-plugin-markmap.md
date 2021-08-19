@@ -7,7 +7,7 @@ author:
   username: renovamen
 bugs: https://github.com/Renovamen/vuepress-theme-gungnir/issues
 category: plugin
-date: '2021-06-16T05:17:18.678Z'
+date: '2021-08-18T02:14:50.227Z'
 deprecated: false
 description: A plugin for adding markmap to VuePress to visualize your Markdown as
   mindmaps.
@@ -31,10 +31,10 @@ publisher:
   url: null
   username: renovamen
 repository: https://github.com/Renovamen/vuepress-theme-gungnir
-score: 0.5390579973924849
+score: 0.5394352029028288
 stars: 71
 unstable: true
-version: 0.1.8
+version: 0.2.0
 watchers: 71
 
 ---

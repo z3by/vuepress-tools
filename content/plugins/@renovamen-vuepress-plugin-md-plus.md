@@ -7,7 +7,7 @@ author:
   username: renovamen
 bugs: https://github.com/Renovamen/vuepress-theme-gungnir/issues
 category: plugin
-date: '2021-06-16T05:17:22.665Z'
+date: '2021-08-18T02:14:55.827Z'
 deprecated: false
 description: A plugin for enhancing Markdown in VuePress.
 downloads: null
@@ -30,10 +30,10 @@ publisher:
   url: null
   username: renovamen
 repository: https://github.com/Renovamen/vuepress-theme-gungnir
-score: 0.5401483324948172
+score: 0.540693623258675
 stars: 71
 unstable: true
-version: 0.1.8
+version: 0.2.0
 watchers: 71
 
 ---

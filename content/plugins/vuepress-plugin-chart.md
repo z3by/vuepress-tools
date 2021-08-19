@@ -7,7 +7,7 @@ author:
   username: renovamen
 bugs: https://github.com/Renovamen/vuepress-theme-gungnir/issues
 category: plugin
-date: '2021-06-16T05:17:08.475Z'
+date: '2021-08-18T02:14:41.018Z'
 deprecated: false
 description: A plugin for adding Chart.js to VuePress.
 downloads: null
@@ -29,10 +29,10 @@ publisher:
   url: null
   username: renovamen
 repository: https://github.com/Renovamen/vuepress-theme-gungnir
-score: 0.5379068717319991
+score: 0.5381228245861229
 stars: 71
 unstable: true
-version: 0.1.8
+version: 0.2.0
 watchers: 71
 
 ---

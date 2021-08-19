@@ -7,7 +7,7 @@ author:
   username: renovamen
 bugs: https://github.com/Renovamen/vuepress-theme-gungnir/issues
 category: plugin
-date: '2021-06-16T05:17:31.524Z'
+date: '2021-08-18T02:15:05.266Z'
 deprecated: false
 description: A plugin for displaying the number of words and how long a post takes
   to read in VuePress.
@@ -34,10 +34,10 @@ publisher:
   url: null
   username: renovamen
 repository: https://github.com/Renovamen/vuepress-theme-gungnir
-score: 0.540063719678801
+score: 0.5405929419232972
 stars: 71
 unstable: true
-version: 0.1.8
+version: 0.2.0
 watchers: 71
 
 ---

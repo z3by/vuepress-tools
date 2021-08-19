@@ -16,7 +16,7 @@ keywords:
 - vuepress
 - vue
 - plugin
-license: false
+license: MIT License
 maintainers: null
 name: vuepress-plugin-demoblock-next
 npm: https://www.npmjs.com/package/vuepress-plugin-demoblock-next

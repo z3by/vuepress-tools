@@ -7,7 +7,7 @@ author:
   username: renovamen
 bugs: https://github.com/Renovamen/vuepress-theme-gungnir/issues
 category: plugin
-date: '2021-06-16T05:17:35.853Z'
+date: '2021-08-18T02:15:09.247Z'
 deprecated: false
 description: A plugin for adding roughViz.js to VuePress.
 downloads: null
@@ -30,10 +30,10 @@ publisher:
   url: null
   username: renovamen
 repository: https://github.com/Renovamen/vuepress-theme-gungnir
-score: 0.5399956499904492
+score: 0.5403240788343617
 stars: 71
 unstable: true
-version: 0.1.8
+version: 0.2.0
 watchers: 71
 
 ---

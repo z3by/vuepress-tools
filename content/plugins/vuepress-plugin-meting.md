@@ -7,7 +7,7 @@ author:
   username: moefyit
 bugs: https://github.com/moefyit/vuepress-plugin-meting/issues
 category: plugin
-date: '2021-08-11T12:24:35.977Z'
+date: '2021-08-18T10:24:51.026Z'
 deprecated: false
 description: A simple plugin connect APlayer, Meting and VuePress
 downloads: null
@@ -28,10 +28,10 @@ publisher:
   url: null
   username: sigure_mo
 repository: https://github.com/moefyit/vuepress-plugin-meting
-score: 0.5280388978881542
+score: 0.533517946579947
 stars: 21
 unstable: true
-version: 0.3.0
+version: 0.3.1
 watchers: 21
 
 ---
