@@ -7,7 +7,7 @@ author:
   username: veaba
 bugs: https://github.com/veaba/vuepress-plugin-editable/issues
 category: plugin
-date: '2021-02-23T10:36:39.234Z'
+date: '2021-08-19T14:38:07.622Z'
 deprecated: false
 description: <p align="center">
 downloads: null
@@ -24,10 +24,10 @@ publisher:
   url: null
   username: veaba
 repository: https://github.com/veaba/vuepress-plugin-editable
-score: 0.5408287666943058
+score: 0.5401890479786734
 stars: 1
 unstable: false
-version: 1.0.7
+version: 1.0.8
 watchers: 1
 
 ---
@@ -50,7 +50,8 @@ Let's editing vuepress generate docs so easy!
 
 ## Why vuepress-plugin-editable
 
-Based on vuepress + markdown ecosystem simplifies the intermediate process and can be quickly applied to the article creation and revision process.
+Based on vuepress + markdown ecosystem simplifies the intermediate process and can be quickly applied to the article
+creation and revision process.
 
 You don't even need to open vscode, you just find a mistake while reading the documentation and correct it as you go.
 
@@ -126,6 +127,21 @@ _This is italic text_
 ```
 
 7. Positioning is not accurate
+
+8. H1-H6 auth block position has been mask.
+
+## API
+
+### options
+
+| name          | description          | default                |
+| ------------- | -------------------- | ---------------------- |
+| appDomain     |                      | `https://bot.veaba.me` |
+| getContentAPI |                      | `/api/content/get`     |
+| updateAPI     |                      | `/api/content/update`  |
+| redirectAPI   |                      | `/api/redirect/github` |
+| clientId      | Github APP client id | {clientId}             |
+|               |                      |                        |
 
 ## Reference
 

@@ -54,8 +54,8 @@ Vuepress-Plugin-Demoblock-Plus 参考了 [Element UI](https://github.com/element
 ## 安装
 
 ```bash
-npm install vuepress-plugin-demoblock-plus
-yarn add vuepress-plugin-demoblock-plus
+npm install -D vuepress-plugin-demoblock-plus
+yarn add -D vuepress-plugin-demoblock-plus
 ```
 
 
@@ -67,6 +67,20 @@ yarn add vuepress-plugin-demoblock-plus
 ```js
 plugins: [
 	['vuepress-plugin-demoblock-plus']
+]
+```
+
+
+markdown 中的vue代码被编译为了 vue 函数组件，需要把 import 转换为 require，这里可附加一些其他的转换。
+```js
+plugins: [
+  ['vuepress-plugin-demoblock-plus', {
+    scriptImports: [
+      { searchValue: /const ({ defineComponent as _defineComponent }) = Vue/g,
+        replaceValue: 'const { defineComponent: _defineComponent } = Vue'
+      }
+    ]
+  }]
 ]
 ```
 
