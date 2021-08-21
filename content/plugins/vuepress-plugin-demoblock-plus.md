@@ -7,7 +7,7 @@ author:
   username: xinlei3166
 bugs: https://github.com/xinlei3166/vuepress-plugin-demoblock-plus/issues
 category: plugin
-date: '2021-08-19T12:43:57.768Z'
+date: '2021-08-20T15:30:52.232Z'
 deprecated: false
 description: vuepress plugin for demoblock
 downloads: null
@@ -27,10 +27,10 @@ publisher:
   url: null
   username: xinlei3166
 repository: https://github.com/xinlei3166/vuepress-plugin-demoblock-plus
-score: 0.5252338597360937
+score: 0.5249264074283968
 stars: 2
 unstable: false
-version: 1.1.0
+version: 1.1.1
 watchers: 2
 
 ---
@@ -93,12 +93,14 @@ const locales = {
   '/': {
     'hide-text': 'Hide',
     'show-text': 'Expand',
-    'copy-button-text': 'Copy'
+    'copy-button-text': 'Copy',
+    'copy-success-text': 'Copy success'
   },
    '/zh': {
     'hide-text': '隐藏代码',
     'show-text': '显示代码',
-    'copy-button-text': '复制代码片段'
+    'copy-button-text': '复制代码片段', 
+    'copy-success-text': '复制成功'
   }
 }
 
