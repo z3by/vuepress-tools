@@ -7,7 +7,7 @@ author:
   username: null
 bugs: null
 category: theme
-date: '2021-08-20T16:06:19.345Z'
+date: '2021-08-21T05:41:30.057Z'
 deprecated: false
 description: "\u8FD9\u662F\u4E00\u4E2A\u57FA\u4E8Evuepress\u9ED8\u8BA4\u4E3B\u9898\
   \u7684\u4E8C\u6B21\u5143\u4E3B\u9898"
@@ -38,7 +38,7 @@ repository: https://github.com/qsyyke/vuepress-theme-ccds
 score: 0.20872792576990246
 stars: 0
 unstable: false
-version: 1.2.0
+version: 1.2.1
 watchers: 0
 
 ---
