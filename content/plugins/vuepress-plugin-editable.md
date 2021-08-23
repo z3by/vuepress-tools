@@ -7,7 +7,7 @@ author:
   username: veaba
 bugs: https://github.com/veaba/vuepress-plugin-editable/issues
 category: plugin
-date: '2021-08-19T14:38:07.622Z'
+date: '2021-08-22T07:51:40.952Z'
 deprecated: false
 description: <p align="center">
 downloads: null
@@ -24,10 +24,10 @@ publisher:
   url: null
   username: veaba
 repository: https://github.com/veaba/vuepress-plugin-editable
-score: 0.5401890479786734
+score: 0.4812052187529493
 stars: 1
 unstable: false
-version: 1.0.8
+version: 1.0.11
 watchers: 1
 
 ---

@@ -29,10 +29,10 @@ publisher:
   username: sigure_mo
 repository: https://github.com/moefyit/vuepress-plugin-cursor-effects
 score: 0.555283743952309
-stars: 14
+stars: 15
 unstable: false
 version: 1.0.2
-watchers: 14
+watchers: 15
 
 ---
 

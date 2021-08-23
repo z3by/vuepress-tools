@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/67139419?v=4
+  avatar: null
   email: null
   name: null
   url: null
-  username: Microflash
+  username: null
 bugs: https://github.com/Microflash/vuepress-theme-succinct/issues
 category: theme
 date: '2020-12-31T05:18:46.196Z'
@@ -17,7 +17,7 @@ keywords:
 - generator
 - vue
 - vuepress
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-theme-succinct
 npm: https://www.npmjs.com/package/vuepress-theme-succinct
@@ -29,10 +29,10 @@ publisher:
   username: naiyer
 repository: https://github.com/Microflash/vuepress-theme-succinct
 score: 0.5287578071556316
-stars: 26
+stars: 0
 unstable: false
 version: 1.7.2
-watchers: 26
+watchers: 0
 
 ---
 
