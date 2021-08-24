@@ -27,10 +27,10 @@ publisher:
   username: padarom
 repository: https://github.com/padarom/vuepress-plugin-code-switcher
 score: 0.5190692046986793
-stars: 34
+stars: 35
 unstable: false
 version: 1.1.0
-watchers: 34
+watchers: 35
 
 ---
 
