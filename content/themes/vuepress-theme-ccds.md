@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/69463896?v=4
   email: null
   name: qsyyke
   url: null
-  username: null
+  username: qsyyke
 bugs: null
 category: theme
 date: '2021-08-21T05:41:30.057Z'
@@ -24,7 +24,7 @@ keywords:
 - anime
 - beauty-blog
 - colors
-license: null
+license: false
 maintainers: null
 name: vuepress-theme-ccds
 npm: https://www.npmjs.com/package/vuepress-theme-ccds
@@ -43,3 +43,8 @@ watchers: 0
 
 ---
 
+# vuepress-theme-ccds
+
+this is a vuepress theme and base on default of vuepress
+
+主题简洁
