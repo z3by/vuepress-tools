@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/3874900?v=4
+  avatar: null
   email: null
   name: null
   url: null
-  username: simonbrunel
+  username: null
 bugs: https://github.com/simonbrunel/vuepress-theme-chartjs/issues
 category: theme
 date: '2021-03-26T07:21:11.397Z'
@@ -16,7 +16,7 @@ keywords:
 - vuepress
 - theme
 - chartjs
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-theme-chartjs
 npm: https://www.npmjs.com/package/vuepress-theme-chartjs
@@ -28,24 +28,10 @@ publisher:
   username: simonbrunel
 repository: https://github.com/simonbrunel/vuepress-theme-chartjs
 score: 0.44365239769178944
-stars: 3
+stars: 0
 unstable: true
 version: 0.2.0
-watchers: 3
+watchers: 0
 
 ---
 
-# Chart.js theme for VuePress
-
-VuePress theme for projects in the Chart.js organization.
-
-## Documentation
-
-- [Introduction](https://vuepress-theme-chartjs.netlify.app/)
-- [Getting Started](https://vuepress-theme-chartjs.netlify.app/getting-started.html)
-- [Configuration](https://vuepress-theme-chartjs.netlify.app/configuration.html)
-- [Chart Editor](https://vuepress-theme-chartjs.netlify.app/chart-editor-simple.html)
-
-## License
-
-`vuepress-theme-chartjs` is available under the [MIT license](LICENSE.md).

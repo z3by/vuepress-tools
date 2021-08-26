@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/37400982?v=4
+  avatar: null
   email: j80304xz@gmail.com
   name: SidStraw
   url: https://sidstraw.dev/
@@ -20,7 +20,7 @@ keywords:
 - vue
 - vuepress-theme-blog
 - vuepress-theme-sidstraw-blog
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-theme-sidstraw-blog
 npm: https://www.npmjs.com/package/vuepress-theme-sidstraw-blog
@@ -39,4 +39,3 @@ watchers: 0
 
 ---
 
-# vuepress-theme-sidstraw-blog

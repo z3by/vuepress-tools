@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/8146876?v=4
+  avatar: null
   email: kawarimidoll+git@gmail.com
   name: kawarimidoll
   url: null
@@ -13,7 +13,7 @@ description: This is my blog theme.
 downloads: null
 homepage: https://github.com/kawarimidoll/vuepress-theme-blog-kawarimidoll#readme
 keywords: null
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-theme-blog-kawarimidoll
 npm: https://www.npmjs.com/package/vuepress-theme-blog-kawarimidoll
@@ -32,8 +32,3 @@ watchers: 0
 
 ---
 
-# vuepress-theme-blog-kawarimidoll
-
-This is my blog theme.
-
-Inspired: [ttskch/vuepress-theme-blog-vuetify](https://github.com/ttskch/vuepress-theme-blog-vuetify)

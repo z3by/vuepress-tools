@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/31116803?v=4
+  avatar: null
   email: null
   name: Cyan
   url: null
-  username: CyanH
+  username: null
 bugs: https://github.com/CyanH/vuepress-theme-cyan/issues
 category: theme
 date: '2021-03-01T07:59:02.782Z'
@@ -16,7 +16,7 @@ homepage: https://github.com/CyanH/vuepress-theme-cyan#readme
 keywords:
 - vuepress
 - vuepress-Theme
-license: false
+license: null
 maintainers: null
 name: vuepress-theme-cyan
 npm: https://www.npmjs.com/package/vuepress-theme-cyan
@@ -35,6 +35,3 @@ watchers: 0
 
 ---
 
-# vuepress-theme-cyan
-[github项目](https://github.com/CyanH/vuepress-theme-cyan)
-> 这是一个看板娘小清新vuepress主题，基于vuepress-theme-ting修改，主要满足自己使用啦(*/ω＼*)；
