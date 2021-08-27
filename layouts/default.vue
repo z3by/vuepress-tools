@@ -2,7 +2,7 @@
   <v-app>
     <v-app-bar app :elevation="1">
       <v-app-bar-nav-icon
-        v-if="$route.path !== '/'"
+        v-if="$route.path !== '/:'"
         @click="setSidebar(!sidebar)"
       ></v-app-bar-nav-icon>
       <v-toolbar-title class="font-weight-bold">{{ title }}</v-toolbar-title>
