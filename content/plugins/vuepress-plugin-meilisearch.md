@@ -7,7 +7,7 @@ author:
   username: meilisearch
 bugs: https://github.com/meilisearch/vuepress-plugin-meilisearch/issues
 category: plugin
-date: '2021-07-12T09:38:28.251Z'
+date: '2021-08-26T13:24:49.893Z'
 deprecated: false
 description: Relevant and typo tolerant search bar for your Vuepress
 downloads: null
@@ -24,11 +24,11 @@ publisher:
   url: null
   username: meili-bot
 repository: https://github.com/meilisearch/vuepress-plugin-meilisearch
-score: 0.6318998631156337
-stars: 31
+score: 0.6311875806991899
+stars: 32
 unstable: true
-version: 0.11.1
-watchers: 31
+version: 0.11.2
+watchers: 32
 
 ---
 
@@ -173,7 +173,7 @@ You can also find an example in our [playground's `palette.styl` file](./playgro
 
 ## Compatibility with MeiliSearch
 
-This package only guarantees the compatibility with the [version v0.20.0 of MeiliSearch](https://github.com/meilisearch/MeiliSearch/releases/tag/v0.20.0).
+This package only guarantees the compatibility with the [version v0.21.0 of MeiliSearch](https://github.com/meilisearch/MeiliSearch/releases/tag/v0.21.0).
 
 ## Development Workflow and Contributing
 

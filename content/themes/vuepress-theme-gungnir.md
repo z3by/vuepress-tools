@@ -7,7 +7,7 @@ author:
   username: renovamen
 bugs: https://github.com/Renovamen/vuepress-theme-gungnir/issues
 category: theme
-date: '2021-08-18T02:15:17.455Z'
+date: '2021-08-26T06:22:00.868Z'
 deprecated: false
 description: Gungnir is a blog theme for VuePress.
 downloads: null
@@ -32,11 +32,11 @@ publisher:
   url: null
   username: renovamen
 repository: https://github.com/Renovamen/vuepress-theme-gungnir
-score: 0.5376780516622969
-stars: 107
+score: 0.541781268386812
+stars: 110
 unstable: true
-version: 0.2.0
-watchers: 107
+version: 0.2.1
+watchers: 110
 
 ---
 

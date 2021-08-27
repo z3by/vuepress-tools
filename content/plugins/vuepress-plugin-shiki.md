@@ -18,7 +18,7 @@ keywords:
 - vuepress-plugin
 - syntax-highlighter
 - highlighter
-license: false
+license: MIT License
 maintainers: null
 name: vuepress-plugin-shiki
 npm: https://www.npmjs.com/package/vuepress-plugin-shiki
@@ -30,10 +30,10 @@ publisher:
   username: octref
 repository: https://github.com/octref/shiki
 score: 0.5944838304099215
-stars: 2334
+stars: 2390
 unstable: true
 version: 0.2.7
-watchers: 2334
+watchers: 2390
 
 ---
 

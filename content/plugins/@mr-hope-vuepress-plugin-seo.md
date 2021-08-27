@@ -7,7 +7,7 @@ author:
   username: mister-hope
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues
 category: plugin
-date: '2021-08-17T14:34:27.491Z'
+date: '2021-08-26T08:16:23.081Z'
 deprecated: false
 description: SEO plugin for vuepress
 downloads: null
@@ -28,11 +28,11 @@ publisher:
   url: null
   username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
-score: 0.6938486706945683
-stars: 237
+score: 0.6941952170104357
+stars: 239
 unstable: false
-version: 1.19.3
-watchers: 237
+version: 1.20.0
+watchers: 239
 
 ---
 

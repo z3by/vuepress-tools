@@ -7,7 +7,7 @@ author:
   username: null
 bugs: https://github.com/go-goyave/vuepress-theme-goyave/issues
 category: theme
-date: '2021-04-28T14:23:34.062Z'
+date: '2021-08-26T08:38:28.475Z'
 deprecated: false
 description: Vuepresse theme for the Goyave documentation
 downloads: null
@@ -29,10 +29,10 @@ publisher:
   url: null
   username: systemglitch
 repository: https://github.com/go-goyave/vuepress-theme-goyave
-score: 0.5114409900051409
+score: 0.5112043761712125
 stars: 0
 unstable: false
-version: 1.1.1
+version: 1.1.2
 watchers: 0
 
 ---
