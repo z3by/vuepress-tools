@@ -25,10 +25,10 @@ publisher:
   username: ulivz
 repository: https://github.com/ulivz/vuepress-plugin-blog
 score: 0.33436430104485015
-stars: 166
+stars: 167
 unstable: true
 version: 0.0.2
-watchers: 166
+watchers: 167
 
 ---
 

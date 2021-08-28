@@ -25,10 +25,10 @@ publisher:
   username: evaera
 repository: https://github.com/evaera/vuepress-plugin-api-docs
 score: 0.3285772537579904
-stars: 8
+stars: 9
 unstable: false
 version: 1.0.19
-watchers: 8
+watchers: 9
 
 ---
 

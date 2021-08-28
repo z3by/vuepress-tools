@@ -7,7 +7,7 @@ author:
   username: MicroAppJS
 bugs: https://github.com/MicroAppJS/plugin-vuepress/issues
 category: plugin
-date: '2021-07-16T06:25:10.063Z'
+date: '2021-08-27T12:17:29.218Z'
 deprecated: false
 description: '[Plugin] adapter vuepress plugin.'
 downloads: null
@@ -30,10 +30,10 @@ publisher:
   url: null
   username: zyao89
 repository: https://github.com/MicroAppJS/plugin-vuepress
-score: 0.5618992676234065
+score: 0.5727470010871882
 stars: 0
 unstable: true
-version: 0.3.1
+version: 0.3.2
 watchers: 0
 
 ---
