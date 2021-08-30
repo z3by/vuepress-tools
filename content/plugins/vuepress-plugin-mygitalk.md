@@ -32,7 +32,7 @@ publisher:
   url: null
   username: zhousiwei
 repository: https://github.com/JoeyBling/vuepress-plugin-mygitalk
-score: 0.2693589423570628
+score: 0.26929477008002145
 stars: 9
 unstable: false
 version: 1.0.5

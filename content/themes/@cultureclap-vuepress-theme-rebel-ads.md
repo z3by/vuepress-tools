@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/49349349?v=4
   email: null
   name: Culture Clap
   url: null
-  username: null
+  username: rebelcoding
 bugs: https://github.com/rebelcoding/vuepress-theme-rebel-ads/issues
 category: theme
 date: '2020-05-05T06:34:55.271Z'
@@ -18,7 +18,7 @@ keywords:
 - generator
 - vue
 - vuepress
-license: null
+license: false
 maintainers: null
 name: '@cultureclap/vuepress-theme-rebel-ads'
 npm: https://www.npmjs.com/package/%40cultureclap%2Fvuepress-theme-rebel-ads
@@ -37,3 +37,6 @@ watchers: 0
 
 ---
 
+# @cultureclap/vuepress-theme-vue-ads
+
+> Modificaiton of the theme-vue for VuePress

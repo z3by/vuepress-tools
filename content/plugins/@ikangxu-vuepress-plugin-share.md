@@ -27,7 +27,7 @@ publisher:
   url: null
   username: kangxu
 repository: https://github.com/IKangXu/vuepress-plugin-share
-score: 0.049910800084168316
+score: 0.049979945877884
 stars: 1
 unstable: true
 version: 0.0.2

@@ -28,7 +28,7 @@ publisher:
   url: null
   username: shanyuhai123
 repository: https://github.com/shanyuhai123/vuepress-plugin-auto-sidebar
-score: 0.6392433235838504
+score: 0.6392777814978728
 stars: 77
 unstable: false
 version: 2.3.2
