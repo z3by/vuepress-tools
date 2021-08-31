@@ -7,7 +7,7 @@ author:
   username: xuekai-china
 bugs: https://github.com/xuekai-china/vuepress-plugin-right-anchor/issues
 category: plugin
-date: '2021-07-03T02:26:08.224Z'
+date: '2021-08-30T09:46:30.803Z'
 deprecated: false
 description: Right-anchor plugin for vuepress
 downloads: null
@@ -27,10 +27,10 @@ publisher:
   url: null
   username: xuek
 repository: https://github.com/xuekai-china/vuepress-plugin-right-anchor
-score: 0.5041184680899453
+score: 0.504201622609354
 stars: 13
 unstable: true
-version: 0.5.2
+version: 0.5.3
 watchers: 13
 
 ---

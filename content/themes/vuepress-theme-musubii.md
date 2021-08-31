@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/9658016?v=4
+  avatar: null
   email: null
   name: Qrac
   url: https://qrac.jp
-  username: qrac
+  username: null
 bugs: https://github.com/qrac/vuepress-theme-musubii/issues
 category: theme
 date: '2020-07-03T02:14:32.003Z'
@@ -19,7 +19,7 @@ keywords:
 - documentation
 - japanese
 - musubii
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-theme-musubii
 npm: https://www.npmjs.com/package/vuepress-theme-musubii
@@ -31,11 +31,10 @@ publisher:
   username: wenfangcao
 repository: https://github.com/qrac/vuepress-theme-musubii
 score: 0.3890530813635692
-stars: 2
+stars: 0
 unstable: true
 version: 0.0.2
-watchers: 2
+watchers: 0
 
 ---
 
-# vuepress-theme-musubii

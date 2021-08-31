@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/19198355?v=4
+  avatar: null
   email: null
   name: Artiely
   url: null
-  username: artiely
+  username: null
 bugs: https://github.com/artiely/vuepress-theme-koala/issues
 category: theme
 date: '2019-03-28T01:42:55.660Z'
@@ -19,7 +19,7 @@ keywords:
 - generator
 - theme
 - vuepress-theme
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-theme-koala
 npm: https://www.npmjs.com/package/vuepress-theme-koala
@@ -31,26 +31,10 @@ publisher:
   username: artiely
 repository: https://github.com/artiely/vuepress-theme-koala
 score: 0.13118901406373584
-stars: 4
+stars: 0
 unstable: true
 version: 1.0.0-alpha.44.3
-watchers: 4
+watchers: 0
 
 ---
 
-# vuepress-theme-koala
-> theme for vuepress
-
-```
-npm i vuepress-theme-koala
-```
-https://v1.vuepress.vuejs.org/theme/using-a-theme.html
-
-
-## Plugins
-
-The default theme has the following plugin built in:
-
-- [@vuepress/plugin-active-header-links](https://github.com/vuejs/vuepress/tree/master/packages/@vuepress/plugin-active-header-links)
-- [@vuepress/plugin-google-analytics](https://github.com/vuejs/vuepress/tree/master/packages/%40vuepress/plugin-google-analytics)
-- [@vssue/vuepress-plugin-vssue](https://github.com/meteorlxy/vssue)

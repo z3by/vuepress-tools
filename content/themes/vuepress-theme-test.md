@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/18205362?v=4
+  avatar: null
   email: meteor.lxy@foxmail.com
   name: meteorlxy
   url: null
@@ -15,7 +15,7 @@ homepage: https://github.com/meteorlxy/vuepress-theme-test#readme
 keywords:
 - vuepress
 - theme
-license: false
+license: null
 maintainers: null
 name: vuepress-theme-test
 npm: https://www.npmjs.com/package/vuepress-theme-test
@@ -27,10 +27,10 @@ publisher:
   username: meteorlxy
 repository: https://github.com/meteorlxy/vuepress-theme-test
 score: 0.03152900695561827
-stars: 1
+stars: 0
 unstable: true
 version: 0.0.1
-watchers: 1
+watchers: 0
 
 ---
 
