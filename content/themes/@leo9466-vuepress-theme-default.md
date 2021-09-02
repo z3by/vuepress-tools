@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/71742460?v=4
   email: liayng.ok@outlook.com
   name: leo
   url: null
-  username: null
+  username: leo94666
 bugs: https://github.com/leo94666/leo94666.github.io/issues
 category: theme
 date: '2021-04-21T06:12:36.382Z'
@@ -17,7 +17,7 @@ keywords:
 - generator
 - vue
 - vuepress
-license: null
+license: MIT License
 maintainers: null
 name: '@leo9466/vuepress-theme-default'
 npm: https://www.npmjs.com/package/%40leo9466%2Fvuepress-theme-default
@@ -28,7 +28,7 @@ publisher:
   url: null
   username: leo946666
 repository: https://github.com/leo94666/leo94666.github.io
-score: 0.4750652337510273
+score: 0.47790197735585255
 stars: 0
 unstable: true
 version: 0.0.1-alpha.2
@@ -36,3 +36,4 @@ watchers: 0
 
 ---
 
+# leo

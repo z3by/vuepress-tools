@@ -28,7 +28,7 @@ publisher:
   url: null
   username: vxhly
 repository: https://github.com/vxhly/vuepress-plugin-code-preview
-score: 0.4288045831305761
+score: 0.43433440382641464
 stars: 1
 unstable: false
 version: 1.0.0

@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/12093502?v=4
   email: kybetter@163.com
   name: zhaoliang
   url: null
@@ -13,7 +13,7 @@ description: null
 downloads: null
 homepage: https://github.com/kybetter/vuepress-theme-kytest#readme
 keywords: null
-license: null
+license: false
 maintainers: null
 name: '@kybetter/vuepress-theme-kyscopetest'
 npm: https://www.npmjs.com/package/%40kybetter%2Fvuepress-theme-kyscopetest
@@ -24,7 +24,7 @@ publisher:
   url: null
   username: kybetter
 repository: https://github.com/kybetter/vuepress-theme-kytest
-score: 0.29964422777863886
+score: 0.3004538847590259
 stars: 0
 unstable: false
 version: 1.0.2

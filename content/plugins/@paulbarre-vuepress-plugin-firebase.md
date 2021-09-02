@@ -30,7 +30,7 @@ publisher:
   url: null
   username: paulbarre
 repository: https://github.com/paulbarre/vuepress-plugin-firebase
-score: 0.3177436539860363
+score: 0.3198380750286537
 stars: 0
 unstable: true
 version: 0.1.0

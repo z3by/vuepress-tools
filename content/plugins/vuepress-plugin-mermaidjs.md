@@ -30,7 +30,7 @@ publisher:
   url: null
   username: efrane
 repository: https://github.com/eFrane/vuepress-plugin-mermaidjs
-score: 0.6634500016256775
+score: 0.6623034728631441
 stars: 54
 unstable: false
 version: 1.8.1

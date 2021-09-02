@@ -27,7 +27,7 @@ publisher:
   url: null
   username: tacck
 repository: https://github.com/tacck/vuepress-plugin-sidebar
-score: 0.3483325414244779
+score: 0.3512206229605368
 stars: 5
 unstable: true
 version: 0.2.1

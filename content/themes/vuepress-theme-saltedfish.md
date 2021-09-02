@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/35126009?v=4
   email: null
   name: null
   url: null
-  username: null
+  username: saltedfish964
 bugs: https://github.com/saltedfish964/vuepress-theme-saltedfish/issues
 category: theme
 date: '2021-02-03T10:55:17.867Z'
@@ -17,7 +17,7 @@ homepage: https://github.com/saltedfish964/vuepress-theme-saltedfish#readme
 keywords:
 - vuepress
 - vuepress-theme
-license: null
+license: MIT License
 maintainers: null
 name: vuepress-theme-saltedfish
 npm: https://www.npmjs.com/package/vuepress-theme-saltedfish
@@ -28,11 +28,36 @@ publisher:
   url: null
   username: saltedfish964
 repository: https://github.com/saltedfish964/vuepress-theme-saltedfish
-score: 0.5162246839791006
-stars: 0
+score: 0.5166340342896417
+stars: 1
 unstable: false
 version: 1.0.13
-watchers: 0
+watchers: 1
 
 ---
 
+<h1 align="center">Welcome to vuepress-theme-saltedfish 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
+  <a href="https://github.com/didadi599/vuepress-theme-saltedfish/graphs/commit-activity" target="_blank">
+    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
+  </a>
+  <a href="https://github.com/saltedfish964/vuepress-theme-saltedfish/blob/master/LICENSE" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-yellow.svg" />
+  </a>
+</p>
+
+> A vuepress theme
+
+### 🏠 [Homepage](https://github.com/saltedfish964/vuepress-theme-saltedfish)
+
+## Author
+
+👤 **SaltedFish**
+
+* Website: https://www.salted-fish.top/
+* Github: [@didadi599](https://github.com/didadi599)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!

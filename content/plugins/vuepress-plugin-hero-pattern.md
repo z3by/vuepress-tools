@@ -30,7 +30,7 @@ publisher:
   url: null
   username: xiaoluoboding
 repository: https://github.com/xiaoluoboding/vuepress-plugin-hero-pattern
-score: 0.3162624024763123
+score: 0.3185017935766261
 stars: 0
 unstable: true
 version: 0.1.0

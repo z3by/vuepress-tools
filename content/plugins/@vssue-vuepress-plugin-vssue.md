@@ -27,11 +27,11 @@ publisher:
   url: null
   username: meteorlxy
 repository: https://github.com/meteorlxy/vssue
-score: 0.6706340716892982
-stars: 545
+score: 0.6732137537810398
+stars: 546
 unstable: false
 version: 1.4.8
-watchers: 545
+watchers: 546
 
 ---
 

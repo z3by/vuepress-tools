@@ -27,7 +27,7 @@ publisher:
   url: null
   username: hongbusi
 repository: https://github.com/Hongbusi/vuepress-theme-hbs
-score: 0.5562480234977241
+score: 0.5582304925866667
 stars: 0
 unstable: false
 version: 1.0.7

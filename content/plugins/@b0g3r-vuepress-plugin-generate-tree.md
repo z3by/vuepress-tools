@@ -28,7 +28,7 @@ publisher:
   url: null
   username: b0g3r
 repository: https://github.com/tlbootcamp/vuepress-plugin-generate-tree
-score: 0.24803052330181627
+score: 0.2557305952185685
 stars: 0
 unstable: true
 version: 0.2.7

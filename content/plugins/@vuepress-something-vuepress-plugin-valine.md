@@ -29,7 +29,7 @@ publisher:
   url: null
   username: vczyh
 repository: https://github.com/vczyh/vuepress-theme-something
-score: 0.4266203350099283
+score: 0.4340391468178829
 stars: 3
 unstable: false
 version: 1.0.1

@@ -28,7 +28,7 @@ publisher:
   url: null
   username: f3l1x
 repository: https://github.com/webkitty/vuepress-plugin-smartlook
-score: 0.40787025379529074
+score: 0.41226551984708565
 stars: 2
 unstable: true
 version: 0.0.6

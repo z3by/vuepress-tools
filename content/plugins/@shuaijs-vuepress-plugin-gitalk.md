@@ -28,7 +28,7 @@ publisher:
   url: null
   username: stanye
 repository: https://github.com/stanyejs/vuepress-plugin-gitalk
-score: 0.35758636087894025
+score: 0.3602003877528511
 stars: 0
 unstable: false
 version: 1.0.2

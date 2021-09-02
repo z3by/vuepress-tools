@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/15819224?v=4
   email: hezhiyu233@foxmail.com
   name: HeskeyBaozi
   url: null
@@ -13,7 +13,7 @@ description: VuePress Theme Lite
 downloads: null
 homepage: https://github.com/HeskeyBaozi/vuepress-theme-lite#readme
 keywords: null
-license: null
+license: false
 maintainers: null
 name: vuepress-theme-lite
 npm: https://www.npmjs.com/package/vuepress-theme-lite
@@ -24,11 +24,11 @@ publisher:
   url: null
   username: heskeybaozi
 repository: https://github.com/HeskeyBaozi/vuepress-theme-lite
-score: 0.31531134705532027
-stars: 0
+score: 0.316178524479687
+stars: 2
 unstable: false
 version: 1.0.0
-watchers: 0
+watchers: 2
 
 ---
 

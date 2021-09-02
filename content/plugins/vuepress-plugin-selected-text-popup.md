@@ -27,7 +27,7 @@ publisher:
   url: null
   username: znicholasbrown
 repository: https://github.com/znicholasbrown/vuepress-plugin-selected-text-popup
-score: 0.23044532237398557
+score: 0.23516373607423058
 stars: 1
 unstable: false
 version: 1.0.1

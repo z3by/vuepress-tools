@@ -31,7 +31,7 @@ publisher:
   url: null
   username: dyang
 repository: https://github.com/yangyang0507/vuepress-plugin-lastest-version
-score: 0.4870038912371275
+score: 0.48811039948358215
 stars: 0
 unstable: true
 version: 0.2.6

@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/2225278?v=4
   email: ahmader@gmail.com
   name: ahmader
   url: null
@@ -13,7 +13,7 @@ description: null
 downloads: null
 homepage: https://github.com/ahmader/vuepress-theme#readme
 keywords: null
-license: null
+license: false
 maintainers: null
 name: ahmader-vuepress-theme
 npm: https://www.npmjs.com/package/ahmader-vuepress-theme
@@ -24,7 +24,7 @@ publisher:
   url: null
   username: ahmader
 repository: https://github.com/ahmader/vuepress-theme
-score: 0.4452712904695567
+score: 0.45228256985807824
 stars: 0
 unstable: false
 version: 1.0.2
@@ -32,3 +32,17 @@ watchers: 0
 
 ---
 
+# Ahmader VuePress Theme
+
+## Install
+```
+yarn install
+```
+
+## Usage
+```
+// .vuepress/config.js
+module.exports = {
+  theme: 'vuepress-theme-ahmader'
+}
+```

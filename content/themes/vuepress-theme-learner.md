@@ -26,7 +26,7 @@ publisher:
   url: null
   username: dylan_wu
 repository: https://github.com/dylan-wu/vuepress-theme-learner
-score: 0.031540596468054585
+score: 0.031922374990146
 stars: 0
 unstable: true
 version: 1.0.0-alpha-1

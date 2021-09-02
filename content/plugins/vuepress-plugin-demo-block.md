@@ -26,11 +26,11 @@ publisher:
   url: null
   username: quietcoder
 repository: https://github.com/xiguaxigua/vuepress-plugin-demo-block
-score: 0.308072027879262
-stars: 99
+score: 0.30974095110410815
+stars: 100
 unstable: true
 version: 0.7.2
-watchers: 99
+watchers: 100
 
 ---
 
