@@ -27,7 +27,7 @@ publisher:
   url: null
   username: paulbarre
 repository: https://github.com/paulbarre/vuepress-plugin-speech
-score: 0.34906972878138265
+score: 0.3490649299265295
 stars: 0
 unstable: false
 version: 1.0.0

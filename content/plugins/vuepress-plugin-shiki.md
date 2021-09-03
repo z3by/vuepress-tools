@@ -29,11 +29,11 @@ publisher:
   url: null
   username: octref
 repository: https://github.com/octref/shiki
-score: 0.596995069651727
-stars: 2450
+score: 0.5969970333891155
+stars: 2458
 unstable: true
 version: 0.2.7
-watchers: 2450
+watchers: 2458
 
 ---
 
@@ -100,6 +100,7 @@ Clone [shikijs/shiki-starter](https://github.com/shikijs/shiki-starter) to play 
 - [Blockstack Documentation](https://docs.blockstack.org/)
 - [VPC Shiki](https://github.com/Vap0r1ze/vpc-shiki), Shiki codeblocks on Discord. Powered by [Powercord](http://powercord.dev/)
 - [Torchlight](https://torchlight.dev/), a syntax highlighting API powered by the Shiki tokenizer.
+- [CodeChalk](https://github.com/a20185/codechalk), A neat terminal code highlighting tool powered by Shiki tokenizer and Chalk.
 
 ## Contributing
 

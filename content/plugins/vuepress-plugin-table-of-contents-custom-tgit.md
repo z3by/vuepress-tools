@@ -28,7 +28,7 @@ publisher:
   url: null
   username: kylezhao
 repository: https://github.com/vuepress/vuepress-plugin-table-of-contents
-score: 0.17647039150836816
+score: 0.17647622889014303
 stars: 0
 unstable: false
 version: 1.0.9

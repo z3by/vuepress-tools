@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/36023898?v=4
+  avatar: null
   email: ekoeryanto@gmail.com
   name: Eko Eryanto
   url: null
@@ -15,7 +15,7 @@ homepage: https://github.com/ekoeryanto/vuepress-theme-bootstrap#readme
 keywords:
 - bootstrap
 - vuepress
-license: false
+license: null
 maintainers: null
 name: vuepress-theme-bootstrap
 npm: https://www.npmjs.com/package/vuepress-theme-bootstrap
@@ -26,7 +26,7 @@ publisher:
   url: null
   username: ekoeryanto
 repository: https://github.com/ekoeryanto/vuepress-theme-bootstrap
-score: 0.2858842726690245
+score: 0.2858885374564405
 stars: 0
 unstable: true
 version: 0.0.0-1
@@ -34,4 +34,3 @@ watchers: 0
 
 ---
 
-# Bootstrap Theme for Vuepress

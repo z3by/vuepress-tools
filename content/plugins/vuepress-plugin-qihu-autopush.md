@@ -29,7 +29,7 @@ publisher:
   url: null
   username: oriens
 repository: https://github.com/IOriens/vuepress-plugin-qihu-autopush
-score: 0.33396105703515333
+score: 0.33396161728290374
 stars: 0
 unstable: false
 version: 1.0.2

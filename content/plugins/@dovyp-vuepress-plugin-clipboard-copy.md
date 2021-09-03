@@ -28,7 +28,7 @@ publisher:
   url: null
   username: dovyp
 repository: https://github.com/dovy/vuepress-plugin-clipboard-copy
-score: 0.14801107392207324
+score: 0.14801814512906022
 stars: 3
 unstable: true
 version: 1.0.0-alpha.7

@@ -27,7 +27,7 @@ publisher:
   url: null
   username: lvqq
 repository: https://github.com/lvqq/vuepress-plugin-rocket
-score: 0.35816624873809033
+score: 0.35813203886298717
 stars: 2
 unstable: false
 version: 1.0.4

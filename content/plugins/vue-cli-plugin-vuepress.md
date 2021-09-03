@@ -28,7 +28,7 @@ publisher:
   url: null
   username: kronwald
 repository: https://github.com/dgpgdev/vue-cli-plugin-vuepress
-score: 0.19203411503039042
+score: 0.19203931313440983
 stars: 25
 unstable: true
 version: 0.1.1

@@ -30,7 +30,7 @@ publisher:
   url: null
   username: minghuhugo
 repository: https://github.com/xiaminghu/vuepress-plugin-beautiful-bar
-score: 0.6410588665853078
+score: 0.6410581797995056
 stars: 2
 unstable: false
 version: 1.0.4

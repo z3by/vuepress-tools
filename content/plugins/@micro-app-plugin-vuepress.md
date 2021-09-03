@@ -30,7 +30,7 @@ publisher:
   url: null
   username: zyao89
 repository: https://github.com/MicroAppJS/plugin-vuepress
-score: 0.5734228130836811
+score: 0.5734113347740857
 stars: 0
 unstable: true
 version: 0.3.2

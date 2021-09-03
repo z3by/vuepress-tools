@@ -25,7 +25,7 @@ publisher:
   url: null
   username: ozum
 repository: https://github.com/ozum/devkeeper-plugin-vuepress
-score: 0.5457708123928433
+score: 0.5457692233192895
 stars: 0
 unstable: false
 version: 1.0.0

@@ -28,7 +28,7 @@ publisher:
   url: null
   username: newsbielt703
 repository: https://github.com/newsbielt703/vuepress-plugin-mailchimp
-score: 0.4107004995036987
+score: 0.41066320454499083
 stars: 6
 unstable: false
 version: 1.4.2

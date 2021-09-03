@@ -26,7 +26,7 @@ publisher:
   url: null
   username: deciphered
 repository: https://github.com/druxt/vuepress-theme-druxt
-score: 0.14635512220531577
+score: 0.14635818301542633
 stars: 0
 unstable: true
 version: 0.3.2

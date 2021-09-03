@@ -24,7 +24,7 @@ publisher:
   url: null
   username: veaba
 repository: https://github.com/veaba/vuepress-plugin-editable
-score: 0.4815123794276614
+score: 0.481513220604068
 stars: 1
 unstable: false
 version: 1.0.11
@@ -130,6 +130,7 @@ _This is italic text_
 
 8. H1-H6 auth block position has been mask.
 
+9. BUG: 再次发起请求时，应该关闭 dialog
 ## API
 
 ### options

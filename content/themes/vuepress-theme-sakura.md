@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/26846090?v=4
+  avatar: null
   email: null
   name: Jin GaYe
   url: null
-  username: RyanChent
+  username: null
 bugs: https://github.com/RyanChent/vuepress-theme-sakura/issues
 category: theme
 date: '2020-10-06T09:56:04.086Z'
@@ -16,7 +16,7 @@ keywords:
 - vuepress-theme-sakura
 - sakura
 - hexo-theme-sakura
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-theme-sakura
 npm: https://www.npmjs.com/package/vuepress-theme-sakura
@@ -27,16 +27,11 @@ publisher:
   url: null
   username: jingaye
 repository: https://github.com/RyanChent/vuepress-theme-sakura
-score: 0.45554153724144364
-stars: 2
+score: 0.4555132948527898
+stars: 0
 unstable: false
 version: 1.0.6
-watchers: 2
+watchers: 0
 
 ---
 
-### Vuepress-theme-Sakura
-
-- 在线预览：[Demo](https://jarrychen.cn)
-
-- 配置文档：[Config.md](https://jarrychen.cn/category/frontend/vuepress-theme-sakura.html)

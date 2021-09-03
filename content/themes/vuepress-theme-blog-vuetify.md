@@ -30,7 +30,7 @@ publisher:
   url: null
   username: ttskch
 repository: https://github.com/ttskch/vuepress-theme-blog-vuetify
-score: 0.5935252868699054
+score: 0.5935062928853145
 stars: 26
 unstable: false
 version: 1.6.2

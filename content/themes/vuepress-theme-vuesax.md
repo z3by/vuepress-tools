@@ -24,7 +24,7 @@ publisher:
   url: null
   username: springleo
 repository: https://github.com/lq782655835/vuepress-theme-vuesax
-score: 0.21545951239585015
+score: 0.21545676446408887
 stars: 0
 unstable: false
 version: 1.0.0

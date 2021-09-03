@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/12009244?v=4
+  avatar: null
   email: null
   name: gitldy1013
   url: null
-  username: gitldy1013
+  username: null
 bugs: https://github.com/gitldy1013/vuepress-theme-ldy/issues
 category: theme
 date: '2019-11-18T09:09:57.487Z'
@@ -17,7 +17,7 @@ keywords:
 - blog
 - theme
 - vue
-license: MIT License
+license: null
 maintainers: null
 name: '@gitldy1013/vuepress-theme-ldy'
 npm: https://www.npmjs.com/package/%40gitldy1013%2Fvuepress-theme-ldy
@@ -28,18 +28,11 @@ publisher:
   url: null
   username: dongyang_liu
 repository: https://github.com/gitldy1013/vuepress-theme-ldy
-score: 0.3485647632177294
-stars: 1
+score: 0.34854964487235784
+stars: 0
 unstable: false
 version: 1.1.3
-watchers: 1
+watchers: 0
 
 ---
 
-## Introduce
-
-1. 这是一个vuepress主题，旨在添加博客所需的分类、TAB墙、分页、评论等功能；
-2. 主题追求极简，根据 vuepress 的默认主题修改而成，官方的主题配置仍然适用；
-3. 效果：[有梦想的咸鱼](https://blog.liudongyang.top) 
-
-> 此主题源自[午后南杂](https://www.recoluan.com)部分源码由个人改造，如果喜欢请进入官网了解更过细节。

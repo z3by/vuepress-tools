@@ -30,7 +30,7 @@ publisher:
   url: null
   username: bajins
 repository: https://github.com/bajins/vuepress-plugin-flexsearch-plus
-score: 0.3648364030025844
+score: 0.36484095156245405
 stars: 0
 unstable: true
 version: 0.2.1

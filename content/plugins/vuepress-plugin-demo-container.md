@@ -30,11 +30,11 @@ publisher:
   url: null
   username: chenjianhui0428
 repository: https://github.com/calebman/vuepress-plugin-demo-container
-score: 0.28998113650009116
-stars: 72
+score: 0.2899255053130912
+stars: 73
 unstable: true
 version: 0.2.0
-watchers: 72
+watchers: 73
 
 ---
 

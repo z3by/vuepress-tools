@@ -24,7 +24,7 @@ publisher:
   url: null
   username: romakita
 repository: https://github.com/TypedProject/vuepress-theme-tsed
-score: 0.1759738701763398
+score: 0.17597944063663612
 stars: 0
 unstable: false
 version: 2.15.4

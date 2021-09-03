@@ -29,7 +29,7 @@ publisher:
   url: null
   username: tolking
 repository: https://github.com/tolking/vuepress-plugin-last-reading
-score: 0.4419849234776191
+score: 0.44193487360694483
 stars: 1
 unstable: false
 version: 1.0.0

@@ -26,7 +26,7 @@ publisher:
   url: null
   username: yokefellow
 repository: https://github.com/yokefellow/vuepress-plugin-sponsor
-score: 0.2813856529970319
+score: 0.28135532497251226
 stars: 7
 unstable: false
 version: 1.0.0

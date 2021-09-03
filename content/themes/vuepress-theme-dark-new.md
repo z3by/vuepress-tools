@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/12853597?v=4
+  avatar: null
   email: david@hmnd.io
   name: David Roizenman
   url: null
@@ -17,7 +17,7 @@ keywords:
 - vuepress
 - dark
 - vue
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-theme-dark-new
 npm: https://www.npmjs.com/package/vuepress-theme-dark-new
@@ -28,28 +28,11 @@ publisher:
   url: null
   username: hmnd
 repository: https://github.com/hmnd/vuepress-theme-dark-new
-score: 0.3051565911238768
-stars: 1
+score: 0.3051626513219612
+stars: 0
 unstable: true
 version: 0.1.2
-watchers: 1
+watchers: 0
 
 ---
 
-<p align="center"><img src="vuepress.png" width="20%"></p>
-<h1 align="center">vuepress-theme-dark-new</h1>
-<p align="center">Dark theme for VuePress to reduce eye strain when reading</p>
-
-## Installation
-``` bash
-npm i -D vuepress-theme-dark-new
-
-yarn add --dev vuepress-theme-dark-new
-```
-
-## Configuration
-``` js
-module.exports = {
-  theme: 'dark-new',
-};
-```

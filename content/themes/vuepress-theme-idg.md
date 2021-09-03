@@ -27,7 +27,7 @@ publisher:
   url: null
   username: evildoer_laura
 repository: https://github.com/evildoerX/vuepress-theme-idg
-score: 0.17773045464096626
+score: 0.17772890341662304
 stars: 0
 unstable: true
 version: 0.0.2

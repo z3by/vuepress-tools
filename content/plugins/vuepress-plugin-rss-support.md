@@ -24,7 +24,7 @@ publisher:
   url: null
   username: wubaiqing
 repository: https://github.com/wubaiqing/vuepress-plugin-rss
-score: 0.322439392954051
+score: 0.32243751923827213
 stars: 0
 unstable: false
 version: 1.1.1
