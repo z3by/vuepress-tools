@@ -29,7 +29,7 @@ publisher:
   url: null
   username: orekish
 repository: https://github.com/OrekiSH/vuepress-dumi
-score: 0.4902985570356734
+score: 0.4903060922259931
 stars: 0
 unstable: true
 version: 0.3.11

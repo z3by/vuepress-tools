@@ -24,7 +24,7 @@ publisher:
   url: null
   username: alija
 repository: https://github.com/asterics/asterics-docs.js
-score: 0.339149104361394
+score: 0.3391540575917145
 stars: 0
 unstable: true
 version: 0.0.1-beta.53

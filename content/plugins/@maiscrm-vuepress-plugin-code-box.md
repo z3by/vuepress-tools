@@ -30,7 +30,7 @@ publisher:
   url: null
   username: allenli
 repository: https://github.com/maiscrm/vuepress-code-box
-score: 0.07453319120133514
+score: 0.07454705266696213
 stars: 0
 unstable: true
 version: 0.1.0

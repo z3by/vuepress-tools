@@ -28,7 +28,7 @@ publisher:
   url: null
   username: tjventurini
 repository: https://github.com/tjventurini/vuepress-plugin-zengarden-tags
-score: 0.3483570551019841
+score: 0.3483595264635836
 stars: 1
 unstable: false
 version: 1.0.0

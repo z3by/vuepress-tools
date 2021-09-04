@@ -28,7 +28,7 @@ publisher:
   url: null
   username: punklee
 repository: https://github.com/PunkLee2py/vuepress-theme-materialize
-score: 0.4622280024071252
+score: 0.46219038795237677
 stars: 0
 unstable: false
 version: 1.1.7

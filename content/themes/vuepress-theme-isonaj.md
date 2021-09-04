@@ -24,7 +24,7 @@ publisher:
   url: null
   username: isonaj
 repository: https://github.com/isonaj/vuepress-theme-isonaj
-score: 0.20184834324950673
+score: 0.2018639565054001
 stars: 0
 unstable: true
 version: 0.0.22

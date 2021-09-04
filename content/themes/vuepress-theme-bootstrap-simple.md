@@ -26,7 +26,7 @@ publisher:
   url: null
   username: bambusaceae
 repository: https://github.com/Bambusaceae/vuepress-theme-bootstrap-simple
-score: 0.5229483046672637
+score: 0.5229329132112912
 stars: 0
 unstable: false
 version: 1.1.4

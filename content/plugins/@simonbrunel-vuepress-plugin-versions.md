@@ -28,7 +28,7 @@ publisher:
   url: null
   username: simonbrunel
 repository: https://github.com/simonbrunel/vuepress-plugin-versions
-score: 0.4987606863700994
+score: 0.498763657371469
 stars: 2
 unstable: true
 version: 0.2.0

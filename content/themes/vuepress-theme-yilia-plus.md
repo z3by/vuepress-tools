@@ -32,7 +32,7 @@ publisher:
   url: null
   username: zhousiwei
 repository: https://github.com/JoeyBling/vuepress-theme-yilia-plus
-score: 0.2819110543396089
+score: 0.28191379880423145
 stars: 0
 unstable: false
 version: 1.0.0

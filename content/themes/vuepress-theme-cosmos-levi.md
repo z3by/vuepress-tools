@@ -28,7 +28,7 @@ publisher:
   url: null
   username: levi_xia
 repository: https://github.com/levi9311/vuepress-theme-cosmos
-score: 0.33737179567897135
+score: 0.3373770842378293
 stars: 0
 unstable: false
 version: 1.0.1

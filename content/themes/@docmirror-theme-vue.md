@@ -28,7 +28,7 @@ publisher:
   url: null
   username: greper
 repository: https://github.com/vuejs/vuepress
-score: 0.13078818444831752
+score: 0.13080807108239617
 stars: 0
 unstable: false
 version: 1.5.3

@@ -27,7 +27,7 @@ publisher:
   url: null
   username: mcmagni
 repository: https://github.com/busyrat/vuepress-plugins
-score: 0.22552263038069192
+score: 0.2255035995261424
 stars: 6
 unstable: false
 version: 1.0.20

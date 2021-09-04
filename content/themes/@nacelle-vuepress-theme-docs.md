@@ -30,7 +30,7 @@ publisher:
   url: null
   username: andrew-nacelle
 repository: https://github.com/getnacelle/vuepress-theme-docs
-score: 0.40733177485080485
+score: 0.407316663239386
 stars: 0
 unstable: false
 version: 1.1.2

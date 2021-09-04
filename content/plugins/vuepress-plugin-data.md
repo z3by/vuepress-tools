@@ -27,7 +27,7 @@ publisher:
   url: null
   username: psalaets
 repository: https://github.com/psalaets/vuepress-plugin-data
-score: 0.6007355725785724
+score: 0.600735016513146
 stars: 0
 unstable: false
 version: 2.0.0

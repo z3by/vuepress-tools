@@ -28,7 +28,7 @@ publisher:
   url: null
   username: hmnd
 repository: https://github.com/hmnd/vuepress-theme-dark-new
-score: 0.3051626513219612
+score: 0.30516827220572335
 stars: 0
 unstable: true
 version: 0.1.2

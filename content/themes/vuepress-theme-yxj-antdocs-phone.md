@@ -30,7 +30,7 @@ publisher:
   url: null
   username: ccj7373
 repository: https://github.com/lq782655835/vuepress-theme-antdocs
-score: 0.44681145079353835
+score: 0.44681833062265197
 stars: 0
 unstable: false
 version: 1.0.30

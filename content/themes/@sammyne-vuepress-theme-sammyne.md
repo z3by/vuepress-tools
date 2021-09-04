@@ -27,7 +27,7 @@ publisher:
   url: null
   username: sammyne
 repository: https://github.com/sammyne/vuepress-theme-sammyne
-score: 0.18394635845476948
+score: 0.18395548210106558
 stars: 0
 unstable: true
 version: 0.0.7

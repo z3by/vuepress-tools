@@ -31,7 +31,7 @@ publisher:
   url: null
   username: dufajun
 repository: https://github.com/xiaoxiaofei2016/vuepress-theme-elementdocs
-score: 0.25956691391164977
+score: 0.2595668688694443
 stars: 0
 unstable: false
 version: 2.4.8

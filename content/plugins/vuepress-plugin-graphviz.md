@@ -30,7 +30,7 @@ publisher:
   url: null
   username: awwaiid
 repository: https://github.com/awwaiid/vuepress-plugin-graphviz
-score: 0.5326353056589461
+score: 0.5325847104494515
 stars: 0
 unstable: false
 version: 1.0.1

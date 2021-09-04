@@ -28,7 +28,7 @@ publisher:
   url: null
   username: talltotal
 repository: https://github.com/talltotal/vuepress-plugin-ppt
-score: 0.43953490092804626
+score: 0.43953252211233773
 stars: 3
 unstable: true
 version: 0.0.5

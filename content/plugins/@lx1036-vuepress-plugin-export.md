@@ -24,7 +24,7 @@ publisher:
   url: null
   username: lx1036
 repository: https://github.com/lx1036/vuepress-plugin-export
-score: 0.3750125582204956
+score: 0.37502470370475205
 stars: 0
 unstable: true
 version: 0.4.0

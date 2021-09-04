@@ -29,7 +29,7 @@ publisher:
   url: null
   username: springleo
 repository: https://github.com/lq782655835/vuepress-plugin-element-ui
-score: 0.2784181211910307
+score: 0.2784168129187469
 stars: 13
 unstable: false
 version: 1.1.0

@@ -30,7 +30,7 @@ publisher:
   url: null
   username: allenli
 repository: https://github.com/maiscrm/vuepress-theme-antdocs
-score: 0.3835837764754018
+score: 0.3835650969174712
 stars: 0
 unstable: true
 version: 0.1.4

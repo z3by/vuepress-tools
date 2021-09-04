@@ -26,7 +26,7 @@ publisher:
   url: null
   username: genemator
 repository: https://github.com/xinuxuz/xenon
-score: 0.5188516861918219
+score: 0.5188500056727292
 stars: 0
 unstable: false
 version: 2.4.7

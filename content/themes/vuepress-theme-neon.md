@@ -26,7 +26,7 @@ publisher:
   url: null
   username: summer1874
 repository: https://github.com/summer1874/vuepress-theme-neon
-score: 0.2129028830788115
+score: 0.21290873316745185
 stars: 0
 unstable: false
 version: 1.0.2

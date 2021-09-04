@@ -27,7 +27,7 @@ publisher:
   url: null
   username: reco_luan
 repository: https://github.com/vuepress-reco/vuepress-plugin-screenfull
-score: 0.39515620209238816
+score: 0.3951610373222666
 stars: 2
 unstable: false
 version: 1.0.1

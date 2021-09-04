@@ -27,7 +27,7 @@ publisher:
   url: null
   username: lorisleiva
 repository: https://github.com/lorisleiva/vuepress-plugin-seo
-score: 0.27773424574775235
+score: 0.2777520919636184
 stars: 98
 unstable: true
 version: 0.1.4

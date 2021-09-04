@@ -28,7 +28,7 @@ publisher:
   url: null
   username: smallsunnyfox
 repository: https://github.com/vuepress-reco/vuepress-plugin-bgm-player
-score: 0.30207505596891326
+score: 0.30208698363540204
 stars: 15
 unstable: false
 version: 1.1.3

@@ -27,7 +27,7 @@ publisher:
   url: null
   username: simonbrunel
 repository: https://github.com/simonbrunel/vuepress-theme-chartjs
-score: 0.4432063595408944
+score: 0.44320959179628583
 stars: 0
 unstable: true
 version: 0.2.0

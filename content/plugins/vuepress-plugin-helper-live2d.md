@@ -31,7 +31,7 @@ publisher:
   url: null
   username: zhousiwei
 repository: https://github.com/JoeyBling/vuepress-plugin-helper-live2d
-score: 0.3222203282662736
+score: 0.32223234125776873
 stars: 32
 unstable: false
 version: 1.0.2

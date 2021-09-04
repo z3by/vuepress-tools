@@ -27,7 +27,7 @@ publisher:
   url: null
   username: vincent-hy
 repository: https://github.com/Veminem/vuepress-theme-oneN
-score: 0.38435434001021174
+score: 0.3824508245847307
 stars: 0
 unstable: false
 version: 1.1.3-beta
