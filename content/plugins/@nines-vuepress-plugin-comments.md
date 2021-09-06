@@ -26,7 +26,7 @@ publisher:
   url: null
   username: wangjia_1919
 repository: https://github.com/nine-theme/vuepress-plugin-comments
-score: 0.41789215583538625
+score: 0.4179412394140658
 stars: 0
 unstable: true
 version: 0.0.2

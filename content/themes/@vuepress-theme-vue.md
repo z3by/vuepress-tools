@@ -28,11 +28,11 @@ publisher:
   url: null
   username: newsbielt703
 repository: https://github.com/vuejs/vuepress
-score: 0.5683527114133274
-stars: 19332
+score: 0.5683626410196034
+stars: 19339
 unstable: false
 version: 1.8.2
-watchers: 19332
+watchers: 19339
 
 ---
 

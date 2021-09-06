@@ -7,7 +7,7 @@ author:
   username: null
 bugs: https://github.com/g-plane/vuepress-theme-simple-blog/issues
 category: theme
-date: '2020-09-03T07:52:29.648Z'
+date: '2021-09-04T15:19:53.344Z'
 deprecated: false
 description: Forked from vuepress-theme-simple, but provides better support for @vuepress/plugin-blog.
 downloads: null
@@ -25,10 +25,10 @@ publisher:
   url: null
   username: gplane
 repository: https://github.com/g-plane/vuepress-theme-simple-blog
-score: 0.47657818355159765
+score: 0.44544615393786147
 stars: 0
-unstable: true
-version: 0.5.1
+unstable: false
+version: 1.1.0
 watchers: 0
 
 ---

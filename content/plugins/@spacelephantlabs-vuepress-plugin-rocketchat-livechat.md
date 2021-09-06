@@ -29,7 +29,7 @@ publisher:
   url: null
   username: spacelephantbot
 repository: https://github.com/spacelephantlabs/vuepress-plugin-rocketchat-livechat
-score: 0.5077390419904896
+score: 0.5077404657581601
 stars: 0
 unstable: false
 version: 1.0.0

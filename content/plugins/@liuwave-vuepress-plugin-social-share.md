@@ -34,7 +34,7 @@ publisher:
   url: null
   username: liuwave
 repository: https://github.com/liuwave/vuepress-plugin-social-share
-score: 0.45539589691119464
+score: 0.45541161138524
 stars: 0
 unstable: true
 version: 0.2.1

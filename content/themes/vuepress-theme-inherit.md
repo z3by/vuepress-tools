@@ -24,7 +24,7 @@ publisher:
   url: null
   username: yasinchan
 repository: https://github.com/YasinChan/vuepress-theme-inherit
-score: 0.41039484034002915
+score: 0.4104312838902348
 stars: 0
 unstable: false
 version: 1.0.4

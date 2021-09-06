@@ -32,7 +32,7 @@ publisher:
   url: null
   username: zhangchaojie
 repository: https://github.com/dream2023/vuepress-plugin-run
-score: 0.29086755265211717
+score: 0.2909252190575169
 stars: 26
 unstable: false
 version: 1.0.2

@@ -28,7 +28,7 @@ publisher:
   url: null
   username: maginapp
 repository: https://github.com/maginapp/vuepress-plugin-katex
-score: 0.5012675894147777
+score: 0.5001377727331776
 stars: 14
 unstable: false
 version: 1.0.11

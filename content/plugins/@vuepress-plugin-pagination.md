@@ -28,11 +28,11 @@ publisher:
   url: null
   username: ulivz
 repository: https://github.com/vuejs/vuepress
-score: 0.050901943288695295
-stars: 19332
+score: 0.050919953327784276
+stars: 19339
 unstable: true
 version: 1.0.0-alpha.0
-watchers: 19332
+watchers: 19339
 
 ---
 

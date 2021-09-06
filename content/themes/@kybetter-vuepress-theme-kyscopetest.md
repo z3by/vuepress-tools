@@ -24,7 +24,7 @@ publisher:
   url: null
   username: kybetter
 repository: https://github.com/kybetter/vuepress-theme-kytest
-score: 0.30046413038038144
+score: 0.30046450477541065
 stars: 0
 unstable: false
 version: 1.0.2

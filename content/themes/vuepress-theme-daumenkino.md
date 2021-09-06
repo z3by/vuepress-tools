@@ -24,7 +24,7 @@ publisher:
   url: null
   username: rash
 repository: https://github.com/rashfael/daumenkino
-score: 0.181032108010373
+score: 0.181055374052065
 stars: 0
 unstable: true
 version: 0.4.1

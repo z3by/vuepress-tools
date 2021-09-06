@@ -27,7 +27,7 @@ publisher:
   url: null
   username: kietgolx65234
 repository: https://github.com/zenfection/vuepress-plugin-zenlive2d-cat
-score: 0.426926424296469
+score: 0.4269271429997828
 stars: 0
 unstable: false
 version: 1.1.1

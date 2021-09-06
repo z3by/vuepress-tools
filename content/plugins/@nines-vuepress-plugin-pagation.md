@@ -26,7 +26,7 @@ publisher:
   url: null
   username: wangjia_1919
 repository: https://github.com/nine-theme/vuepress-plugin-pagation
-score: 0.43821267851036444
+score: 0.43826496064241993
 stars: 0
 unstable: true
 version: 0.0.5

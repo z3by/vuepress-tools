@@ -25,7 +25,7 @@ publisher:
   url: null
   username: alija
 repository: https://github.com/studyathome-internationally/hub.js
-score: 0.352673433286933
+score: 0.3526813605536566
 stars: 0
 unstable: false
 version: 1.1.4

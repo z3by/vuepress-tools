@@ -27,7 +27,7 @@ publisher:
   url: null
   username: dongwudi
 repository: https://github.com/liulxin/vuepress-theme-liuli
-score: 0.5004042522549114
+score: 0.5004033427798296
 stars: 0
 unstable: false
 version: 1.1.0

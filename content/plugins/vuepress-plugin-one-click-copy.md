@@ -7,7 +7,7 @@ author:
   username: vxhly
 bugs: https://github.com/vxhly/vuepress-plugin-one-click-copy/issues
 category: plugin
-date: '2021-07-02T03:17:44.775Z'
+date: '2021-09-04T01:52:30.959Z'
 deprecated: false
 description: A vuepress plugin for clipboard-copy
 downloads: null
@@ -30,10 +30,10 @@ publisher:
   url: null
   username: vxhly
 repository: https://github.com/vxhly/vuepress-plugin-one-click-copy
-score: 0.5545688424233667
+score: 0.5599172547494424
 stars: 8
 unstable: false
-version: 1.0.5
+version: 1.0.6
 watchers: 8
 
 ---
@@ -74,7 +74,8 @@ This plugin supports the following configurations.
 module.exports = {
   plugins: ['one-click-copy', {
     copySelector: ['div[class*="language-"] pre', 'div[class*="aside-code"] aside'], // String or Array
-    copyMessage: 'Copy successfully and then paste it for use.', // default is 'Copy successfully and then paste it for use.'
+    copyMessage: 'Copied successfully!', // default is 'Copied successfully!'
+    toolTipMessage: 'Copy to clipboard', // default is ''Copy to clipboard'
     duration: 300, // prompt message display time
   }]
 }

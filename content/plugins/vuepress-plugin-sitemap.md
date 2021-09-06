@@ -30,7 +30,7 @@ publisher:
   url: null
   username: ekoeryanto
 repository: https://github.com/ekoeryanto/vuepress-plugin-sitemap
-score: 0.28688364383357545
+score: 0.28690468464942975
 stars: 84
 unstable: false
 version: 2.3.1

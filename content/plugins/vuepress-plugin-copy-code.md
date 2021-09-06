@@ -31,7 +31,7 @@ publisher:
   url: null
   username: artiely
 repository: https://github.com/artiely/vuepress-plugin-copy-code
-score: 0.054541249423840116
+score: 0.054555448836027476
 stars: 2
 unstable: true
 version: 0.0.1

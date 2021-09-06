@@ -27,7 +27,7 @@ publisher:
   url: null
   username: rickbsgu
 repository: https://github.com/Aphorica/vuepress-plugin-headertags
-score: 0.358502026016279
+score: 0.3585211648164359
 stars: 1
 unstable: false
 version: 1.0.1

@@ -25,7 +25,7 @@ publisher:
   url: null
   username: saltbo
 repository: https://github.com/saltbo/vuepress-plugin-disqusjs
-score: 0.3917459319739366
+score: 0.40662695232100654
 stars: 0
 unstable: false
 version: 1.0.1

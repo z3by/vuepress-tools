@@ -27,7 +27,7 @@ publisher:
   url: null
   username: tortorse
 repository: https://github.com/tortorse/vuepress-plugin-tabs
-score: 0.4524707673494506
+score: 0.4525216112042017
 stars: 0
 unstable: true
 version: 0.2.11

@@ -24,7 +24,7 @@ publisher:
   url: null
   username: andre.b
 repository: https://github.com/abaldeweg/vuepress-theme-cms
-score: 0.46773049526104515
+score: 0.46776613609443196
 stars: 0
 unstable: true
 version: 0.2.1

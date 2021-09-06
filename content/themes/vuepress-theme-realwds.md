@@ -30,7 +30,7 @@ publisher:
   url: null
   username: realwds
 repository: https://github.com/realwds/vuepress-theme-realwds
-score: 0.5233383409578749
+score: 0.5233427086413072
 stars: 0
 unstable: false
 version: 1.1.4

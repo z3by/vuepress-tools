@@ -30,7 +30,7 @@ publisher:
   url: null
   username: tolking
 repository: https://github.com/tolking/vuepress-plugin-img-lazy
-score: 0.4665823827895712
+score: 0.4666199587716051
 stars: 18
 unstable: false
 version: 1.0.4

@@ -27,7 +27,7 @@ publisher:
   url: null
   username: bliles
 repository: https://github.com/bliles/vuepress-page-locale
-score: 0.32422892987578367
+score: 0.32424438026736946
 stars: 0
 unstable: false
 version: 1.0.0

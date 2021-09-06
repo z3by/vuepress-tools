@@ -28,7 +28,7 @@ publisher:
   url: null
   username: qqlcx5
 repository: https://github.com/qqlcx5/vuepress-plugin-notify
-score: 0.47352968120457806
+score: 0.4735332200257497
 stars: 0
 unstable: false
 version: 1.0.8

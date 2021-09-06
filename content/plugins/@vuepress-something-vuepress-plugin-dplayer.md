@@ -26,7 +26,7 @@ publisher:
   url: null
   username: vczyh
 repository: https://github.com/vczyh/vuepress-theme-something
-score: 0.5045729334958737
+score: 0.5046104006136702
 stars: 3
 unstable: false
 version: 1.0.2

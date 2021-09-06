@@ -24,7 +24,7 @@ publisher:
   url: null
   username: artiely
 repository: https://github.com/artiely/vuepress-plugin-live2d-cat
-score: 0.37610326880384815
+score: 0.3761500705571497
 stars: 0
 unstable: true
 version: 0.1.6

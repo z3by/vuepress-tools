@@ -27,7 +27,7 @@ publisher:
   url: null
   username: xuzhongpeng
 repository: https://github.com/xuzhongpeng/vuepress-plugin-gitalk
-score: 0.09885797397173685
+score: 0.09885769969394104
 stars: 2
 unstable: true
 version: 0.1.3

@@ -7,13 +7,13 @@ author:
   username: null
 bugs: https://github.com/qsyyke/vuepress-theme-ccds/issues
 category: theme
-date: '2021-09-01T12:33:46.463Z'
+date: '2021-09-05T07:53:28.269Z'
 deprecated: false
 description: This is an anime blog theme based on vuepress, the theme is simple, colorful,
   versatile, and supports customization, providing multiple components to set the
   theme
 downloads: null
-homepage: https://blog.cco.vin/
+homepage: https://theme-ccds.cco.vin/
 keywords:
 - vuepress-theme
 - qsyyke
@@ -36,10 +36,10 @@ publisher:
   url: null
   username: qsyyke
 repository: https://github.com/qsyyke/vuepress-theme-ccds
-score: 0.21030706785119718
+score: 0.21117617502835065
 stars: 0
 unstable: false
-version: 1.0.2
+version: 1.0.6
 watchers: 0
 
 ---

@@ -28,7 +28,7 @@ publisher:
   url: null
   username: aquariuslt
 repository: https://github.com/aquariuslt/vuepress-plugin-aegis
-score: 0.6051059678371309
+score: 0.6051116435790438
 stars: 1
 unstable: false
 version: 1.0.2
