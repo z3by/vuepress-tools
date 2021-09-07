@@ -32,7 +32,7 @@ publisher:
   url: null
   username: webmasterish
 repository: https://github.com/webmasterish/vuepress-plugin-autonav
-score: 0.4268119396026717
+score: 0.42681805809159956
 stars: 12
 unstable: true
 version: 0.1.3

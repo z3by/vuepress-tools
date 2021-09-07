@@ -24,7 +24,7 @@ publisher:
   url: null
   username: lupas
 repository: https://github.com/lupas/vuepress-theme-carbon
-score: 0.3565382408149722
+score: 0.35653664467314305
 stars: 0
 unstable: false
 version: 1.0.0

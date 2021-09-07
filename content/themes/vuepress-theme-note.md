@@ -24,7 +24,7 @@ publisher:
   url: null
   username: renhj
 repository: https://github.com/JackRay-C/vuepress-theme-note
-score: 0.24249872414017565
+score: 0.24249990176006084
 stars: 0
 unstable: false
 version: 1.1.3

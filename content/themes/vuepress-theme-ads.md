@@ -25,7 +25,7 @@ publisher:
   url: null
   username: cloudyan
 repository: https://github.com/kitdocs/vuepress-theme-ads
-score: 0.03178417111496114
+score: 0.03227658038090017
 stars: 0
 unstable: true
 version: 0.0.1

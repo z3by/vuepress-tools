@@ -27,7 +27,7 @@ publisher:
   url: null
   username: sillyy
 repository: https://github.com/sillyY/vuepress-plugin-code-segment
-score: 0.2023274493912089
+score: 0.20233629723408225
 stars: 1
 unstable: true
 version: 0.0.3

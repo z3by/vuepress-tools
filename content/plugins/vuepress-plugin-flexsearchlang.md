@@ -30,7 +30,7 @@ publisher:
   url: null
   username: vanekru
 repository: https://github.com/Vanekru/vuepress-plugin-flexsearch
-score: 0.07201897945297388
+score: 0.07202033415443675
 stars: 0
 unstable: true
 version: 0.0.7

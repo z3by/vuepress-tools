@@ -26,7 +26,7 @@ publisher:
   url: null
   username: zenghp
 repository: https://github.com/Zero2015/vuepress-plugin-ftp
-score: 0.5038052172086394
+score: 0.5038080009466268
 stars: 0
 unstable: false
 version: 1.0.2

@@ -27,7 +27,7 @@ publisher:
   url: null
   username: francoisromain
 repository: https://github.com/francoisromain/vuepress-theme-system
-score: 0.2988759178393711
+score: 0.2988908411117638
 stars: 0
 unstable: true
 version: 0.1.16

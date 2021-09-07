@@ -28,7 +28,7 @@ publisher:
   url: null
   username: ulivz
 repository: https://github.com/vuepressjs/vuepress-plugin-html-redirect
-score: 0.5359103392462378
+score: 0.535909929966231
 stars: 4
 unstable: true
 version: 0.1.4

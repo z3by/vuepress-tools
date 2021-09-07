@@ -24,7 +24,7 @@ publisher:
   url: null
   username: zolyn
 repository: https://github.com/Zolyn/vuepress-plugin-typescript
-score: 0.5044608471760736
+score: 0.5044626567853656
 stars: 0
 unstable: false
 version: 1.0.3

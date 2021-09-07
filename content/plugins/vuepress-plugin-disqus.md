@@ -27,11 +27,11 @@ publisher:
   url: null
   username: lorisleiva
 repository: https://github.com/lorisleiva/vuepress-plugin-disqus
-score: 0.3443772824985418
-stars: 30
+score: 0.3443765074752747
+stars: 31
 unstable: true
 version: 0.2.0
-watchers: 30
+watchers: 31
 
 ---
 

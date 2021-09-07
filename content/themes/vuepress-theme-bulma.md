@@ -27,7 +27,7 @@ publisher:
   url: null
   username: nakorndev
 repository: https://github.com/nakorndev/vuepress-theme-bulma
-score: 0.21165228392066543
+score: 0.21165657966802304
 stars: 0
 unstable: false
 version: 1.1.0

@@ -27,7 +27,7 @@ publisher:
   url: null
   username: sbiger
 repository: https://github.com/superbiger/vuepress-plugin-tabs
-score: 0.22683836115930323
+score: 0.22684658183188877
 stars: 30
 unstable: true
 version: 0.2.8

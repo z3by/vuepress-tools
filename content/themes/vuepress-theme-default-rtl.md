@@ -32,7 +32,7 @@ publisher:
   url: null
   username: alizadeh118
 repository: https://github.com/alizadeh118/vuepress-theme-default-rtl
-score: 0.258211448263548
+score: 0.25827443473820555
 stars: 0
 unstable: false
 version: 1.0.1

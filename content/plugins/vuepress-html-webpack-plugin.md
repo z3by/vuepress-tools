@@ -28,11 +28,11 @@ publisher:
   url: null
   username: yyx990803
 repository: https://github.com/jantimon/html-webpack-plugin
-score: 0.6118713254828364
-stars: 9769
+score: 0.6118723714939287
+stars: 9772
 unstable: false
 version: 3.2.0
-watchers: 9769
+watchers: 9772
 
 ---
 

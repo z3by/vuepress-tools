@@ -30,7 +30,7 @@ publisher:
   url: null
   username: seeyoz
 repository: https://github.com/zpfz/vuepress-plugin-homebadge
-score: 0.32306095498050214
+score: 0.3230590547314275
 stars: 0
 unstable: true
 version: 0.1.0

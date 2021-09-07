@@ -26,7 +26,7 @@ publisher:
   url: null
   username: kangxu
 repository: https://github.com/IKangXu/vuepress-theme-ic
-score: 0.29392555211491045
+score: 0.2939272965934533
 stars: 0
 unstable: false
 version: 1.0.1

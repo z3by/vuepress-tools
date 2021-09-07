@@ -27,7 +27,7 @@ publisher:
   url: null
   username: reco_luan
 repository: https://github.com/vuepress-reco/vuepress-plugin-rss
-score: 0.3786552318727021
+score: 0.3786594498138437
 stars: 0
 unstable: false
 version: 1.0.2

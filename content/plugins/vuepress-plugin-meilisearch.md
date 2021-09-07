@@ -24,7 +24,7 @@ publisher:
   url: null
   username: meili-bot
 repository: https://github.com/meilisearch/vuepress-plugin-meilisearch
-score: 0.6315117616291056
+score: 0.6315095342879741
 stars: 32
 unstable: true
 version: 0.11.2
