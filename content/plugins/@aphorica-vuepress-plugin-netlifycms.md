@@ -27,7 +27,7 @@ publisher:
   url: null
   username: rickbsgu
 repository: https://github.com/Aphorica/vuepress-plugin-netlifycms
-score: 0.3593166474638879
+score: 0.3593652421201857
 stars: 0
 unstable: false
 version: 1.0.3

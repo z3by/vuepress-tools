@@ -28,7 +28,7 @@ publisher:
   url: null
   username: litengfu
 repository: https://github.com/litengfu/vuepress-theme-daily-record
-score: 0.200538659190269
+score: 0.20062046394443808
 stars: 0
 unstable: false
 version: 1.0.7

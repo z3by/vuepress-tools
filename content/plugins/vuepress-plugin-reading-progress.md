@@ -29,7 +29,7 @@ publisher:
   url: null
   username: tolking
 repository: https://github.com/tolking/vuepress-plugin-reading-progress
-score: 0.38101233383362915
+score: 0.3810413871377376
 stars: 26
 unstable: false
 version: 1.0.10

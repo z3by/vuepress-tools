@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/53554371?v=4
+  avatar: null
   email: null
   name: Hongbusi
   url: null
-  username: Hongbusi
+  username: null
 bugs: https://github.com/Hongbusi/vuepress-theme-hbs/issues
 category: theme
 date: '2021-05-16T07:35:49.382Z'
@@ -16,7 +16,7 @@ keywords:
 - documentation
 - vue
 - vuepress
-license: false
+license: null
 maintainers: null
 name: vuepress-theme-hbs
 npm: https://www.npmjs.com/package/vuepress-theme-hbs
@@ -27,7 +27,7 @@ publisher:
   url: null
   username: hongbusi
 repository: https://github.com/Hongbusi/vuepress-theme-hbs
-score: 0.5477886039666517
+score: 0.5478110994331805
 stars: 0
 unstable: false
 version: 1.0.7
@@ -35,4 +35,3 @@ watchers: 0
 
 ---
 
-# vuepress-theme-hbs

@@ -27,7 +27,7 @@ publisher:
   url: null
   username: maginapp
 repository: https://github.com/maginapp/vuepress-plugin-flowchart
-score: 0.3585875742971282
+score: 0.35863655883626416
 stars: 0
 unstable: false
 version: 1.0.2

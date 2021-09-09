@@ -28,7 +28,7 @@ publisher:
   url: null
   username: fanyong
 repository: https://github.com/FrankFan/vuepress-theme-quiet
-score: 0.5089031335340697
+score: 0.5089196220541542
 stars: 0
 unstable: true
 version: 0.1.4

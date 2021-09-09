@@ -27,7 +27,7 @@ publisher:
   url: null
   username: bliles
 repository: https://github.com/bliles/vuepress-page-manifest
-score: 0.3208861930506901
+score: 0.32089695660187434
 stars: 1
 unstable: false
 version: 1.0.0

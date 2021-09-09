@@ -28,7 +28,7 @@ publisher:
   url: null
   username: linjhon
 repository: https://github.com/linjhon/vuepress-plugin-pinyin-urls
-score: 0.6080169297484543
+score: 0.6080345108114477
 stars: 1
 unstable: false
 version: 1.0.8

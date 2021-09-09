@@ -30,7 +30,7 @@ publisher:
   url: null
   username: wenfangcao
 repository: https://github.com/zpfz/vuepress-theme-antdocs
-score: 0.09166204160808042
+score: 0.09172016788867395
 stars: 0
 unstable: true
 version: 0.0.4

@@ -24,7 +24,7 @@ publisher:
   url: null
   username: easyhexo
 repository: https://github.com/EasyHexo/vuepress-theme-macgs
-score: 0.456258865816596
+score: 0.45628397691818656
 stars: 0
 unstable: true
 version: 1.0.0-alpha.37

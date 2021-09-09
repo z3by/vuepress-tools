@@ -29,7 +29,7 @@ publisher:
   url: null
   username: gavinliu0606
 repository: https://github.com/gavinliu6/vuepress-theme-mix
-score: 0.5108999643879301
+score: 0.51090323432532
 stars: 8
 unstable: false
 version: 1.0.0

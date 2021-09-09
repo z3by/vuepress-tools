@@ -28,7 +28,7 @@ publisher:
   url: null
   username: bougie
 repository: https://github.com/bougieL/vuepress-plugin-rss
-score: 0.2910697437831515
+score: 0.29116878059452145
 stars: 0
 unstable: false
 version: 1.0.0

@@ -28,7 +28,7 @@ publisher:
   url: null
   username: ww1724
 repository: https://github.com/moefyit/vuepress-plugin-meting
-score: 0.15770588816395617
+score: 0.15771479377291697
 stars: 21
 unstable: true
 version: 0.0.5

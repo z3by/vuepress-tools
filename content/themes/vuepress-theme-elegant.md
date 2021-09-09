@@ -27,7 +27,7 @@ publisher:
   url: null
   username: maoyuanjun201
 repository: https://github.com/maoyuanjun/vuepress-theme-elegant
-score: 0.2310077774063481
+score: 0.23106093669171873
 stars: 0
 unstable: false
 version: 1.2.2

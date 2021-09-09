@@ -27,7 +27,7 @@ publisher:
   url: null
   username: jaykenxie
 repository: https://github.com/jaykenxie/vuepress-theme-ken
-score: 0.30533283962184954
+score: 0.3053441057091986
 stars: 0
 unstable: false
 version: 1.2.0

@@ -27,7 +27,7 @@ publisher:
   url: null
   username: kevincobain2000
 repository: https://github.com/kevincobain2000/vuepress-theme-monokai
-score: 0.3527735847177301
+score: 0.35280506940146195
 stars: 0
 unstable: false
 version: 1.0.0

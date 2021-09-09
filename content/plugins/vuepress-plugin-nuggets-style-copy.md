@@ -30,11 +30,11 @@ publisher:
   url: null
   username: boses
 repository: https://github.com/bosens-China/Typescript-manual
-score: 0.08825264467624841
-stars: 11
+score: 0.08830622741880959
+stars: 12
 unstable: false
 version: 1.0.3
-watchers: 11
+watchers: 12
 
 ---
 

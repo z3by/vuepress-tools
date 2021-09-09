@@ -27,7 +27,7 @@ publisher:
   url: null
   username: dshuuu
 repository: https://github.com/dshuu/vuepress-theme-yolo
-score: 0.4120876240969842
+score: 0.4121021473314319
 stars: 0
 unstable: false
 version: 1.0.6

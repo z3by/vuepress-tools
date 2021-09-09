@@ -24,7 +24,7 @@ publisher:
   url: null
   username: xiangxiao
 repository: https://github.com/xxholly32/vuepress-plugin-code-box
-score: 0.1858039569688136
+score: 0.1858860513842498
 stars: 1
 unstable: true
 version: 0.0.4

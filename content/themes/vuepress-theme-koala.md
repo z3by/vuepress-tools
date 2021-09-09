@@ -30,7 +30,7 @@ publisher:
   url: null
   username: artiely
 repository: https://github.com/artiely/vuepress-theme-koala
-score: 0.13173066952007736
+score: 0.13174371684385094
 stars: 0
 unstable: true
 version: 1.0.0-alpha.44.3

@@ -27,7 +27,7 @@ publisher:
   url: null
   username: tiya
 repository: https://github.com/Tr-blank/vuepress-theme-trskillblog
-score: 0.07558917999262396
+score: 0.0756265138740628
 stars: 0
 unstable: false
 version: 1.0.0

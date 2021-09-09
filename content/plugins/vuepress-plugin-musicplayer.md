@@ -29,7 +29,7 @@ publisher:
   url: null
   username: qqlcx5
 repository: https://github.com/qqlcx5/vuepress-plugin-musicplayer
-score: 0.5099493297737487
+score: 0.5099554906877585
 stars: 0
 unstable: false
 version: 1.2.3

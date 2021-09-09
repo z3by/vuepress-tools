@@ -27,7 +27,7 @@ publisher:
   url: null
   username: m2de
 repository: https://github.com/silvanite/vuepress-plugin-markdown-classes
-score: 0.34863027177944284
+score: 0.348632585273662
 stars: 4
 unstable: false
 version: 1.0.2

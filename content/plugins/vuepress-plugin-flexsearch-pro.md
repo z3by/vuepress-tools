@@ -29,7 +29,7 @@ publisher:
   url: null
   username: qiuyw
 repository: https://github.com/QYueWang/vuepress-plugin-flexsearch-pro
-score: 0.4694417599290651
+score: 0.46946742284302945
 stars: 3
 unstable: false
 version: 1.0.3

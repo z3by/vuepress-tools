@@ -29,7 +29,7 @@ publisher:
   url: null
   username: zhuqiang
 repository: https://github.com/zq99299/vuepress-plugin
-score: 0.48567906846818176
+score: 0.4857647985483581
 stars: 8
 unstable: false
 version: 1.0.1

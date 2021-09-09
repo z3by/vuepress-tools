@@ -29,7 +29,7 @@ publisher:
   url: null
   username: bprinty
 repository: https://github.com/bprinty/vuepress-plugin-autodoc
-score: 0.3407156145625751
+score: 0.3408263213095438
 stars: 3
 unstable: true
 version: 0.1.7

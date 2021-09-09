@@ -27,7 +27,7 @@ publisher:
   url: null
   username: talltotal
 repository: https://github.com/talltotal/vuepress-theme-talltotal
-score: 0.42190804943182203
+score: 0.42203840261155434
 stars: 0
 unstable: true
 version: 0.0.13

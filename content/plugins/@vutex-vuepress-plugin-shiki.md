@@ -27,7 +27,7 @@ publisher:
   url: null
   username: galaster
 repository: https://github.com/GalAster/vuepress-plugin-shiki
-score: 0.41776595066879163
+score: 0.4178126332724692
 stars: 0
 unstable: true
 version: 0.3.1

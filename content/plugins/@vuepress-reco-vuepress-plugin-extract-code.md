@@ -28,7 +28,7 @@ publisher:
   url: null
   username: reco_luan
 repository: https://github.com/vuepress-reco/vuepress-plugin-extract-code
-score: 0.26494394682995104
+score: 0.2650105448783961
 stars: 11
 unstable: false
 version: 1.0.4

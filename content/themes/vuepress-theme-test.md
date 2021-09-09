@@ -26,7 +26,7 @@ publisher:
   url: null
   username: meteorlxy
 repository: https://github.com/meteorlxy/vuepress-theme-test
-score: 0.031783730453609424
+score: 0.03179151627426331
 stars: 0
 unstable: true
 version: 0.0.1

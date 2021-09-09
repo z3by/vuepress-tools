@@ -24,7 +24,7 @@ publisher:
   url: null
   username: tabsp
 repository: https://github.com/tabsp/vuepress-theme-tabsp
-score: 0.340161453632826
+score: 0.34025469915166995
 stars: 0
 unstable: false
 version: 1.0.1

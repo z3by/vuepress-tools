@@ -28,7 +28,7 @@ publisher:
   url: null
   username: astorozhevsky
 repository: https://github.com/RonasIT/vuepress-theme-docs
-score: 0.31506632061377027
+score: 0.31507860162192447
 stars: 0
 unstable: true
 version: 0.0.20
