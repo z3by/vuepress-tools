@@ -26,7 +26,7 @@ publisher:
   url: null
   username: zczhangchao51
 repository: https://github.com/KittenTeam/vuepress-theme-codemao_docs
-score: 0.3235870524212732
+score: 0.32358760434248557
 stars: 0
 unstable: false
 version: 1.1.1

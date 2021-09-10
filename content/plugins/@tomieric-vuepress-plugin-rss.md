@@ -24,7 +24,7 @@ publisher:
   url: null
   username: tomieric
 repository: https://github.com/tomieric/vuepress-plugin-rss
-score: 0.32266716028925835
+score: 0.32266301971553457
 stars: 0
 unstable: false
 version: 1.0.8

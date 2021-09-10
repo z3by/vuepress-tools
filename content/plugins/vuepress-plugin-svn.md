@@ -28,7 +28,7 @@ publisher:
   url: null
   username: linjhon
 repository: https://github.com/linjhon/vuepress-plugin-svn
-score: 0.5148706644478671
+score: 0.5148710748536565
 stars: 1
 unstable: true
 version: 0.1.2

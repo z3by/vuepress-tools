@@ -29,7 +29,7 @@ publisher:
   url: null
   username: vxhly
 repository: https://github.com/vxhly/vuepress-plugin-nest
-score: 0.41688453633776207
+score: 0.4168556434712306
 stars: 4
 unstable: false
 version: 1.0.2

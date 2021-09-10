@@ -28,7 +28,7 @@ publisher:
   url: null
   username: shuangya
 repository: https://github.com/sylingd/vuepress-baidu-google-analytics
-score: 0.45081413937786424
+score: 0.45081278965718485
 stars: 2
 unstable: false
 version: 1.0.2

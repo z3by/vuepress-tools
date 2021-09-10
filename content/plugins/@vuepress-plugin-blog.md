@@ -24,7 +24,7 @@ publisher:
   url: null
   username: newsbielt703
 repository: https://github.com/ulivz/vuepress-plugin-blog
-score: 0.5278699529427016
+score: 0.5278416596370767
 stars: 167
 unstable: false
 version: 1.9.4

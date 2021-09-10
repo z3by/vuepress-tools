@@ -27,7 +27,7 @@ publisher:
   url: null
   username: grandfleet
 repository: https://github.com/FriendlyUser/vuepress-theme-cool
-score: 0.38810205174201806
+score: 0.3880827995509365
 stars: 0
 unstable: false
 version: 1.3.1

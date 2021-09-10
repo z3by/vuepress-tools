@@ -29,7 +29,7 @@ publisher:
   url: null
   username: soliury
 repository: https://github.com/vitelabs/vuepress-plugin-mathjax
-score: 0.4921725778634293
+score: 0.4921510426354334
 stars: 4
 unstable: false
 version: 1.1.0

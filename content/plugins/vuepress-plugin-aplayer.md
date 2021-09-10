@@ -27,7 +27,7 @@ publisher:
   url: null
   username: upcwangying
 repository: https://github.com/upcwangying/vuepress-plugin-aplayer
-score: 0.5506088251754673
+score: 0.5506093606592937
 stars: 0
 unstable: false
 version: 1.0.2

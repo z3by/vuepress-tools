@@ -30,7 +30,7 @@ publisher:
   url: null
   username: oriens
 repository: https://github.com/IOriens/vuepress-plugin-baidu-autopush
-score: 0.17288227964284625
+score: 0.17288250254481927
 stars: 7
 unstable: false
 version: 1.0.1

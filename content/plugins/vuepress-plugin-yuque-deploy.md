@@ -24,7 +24,7 @@ publisher:
   url: null
   username: atian25
 repository: https://github.com/atian25/vuepress-plugin-yuque-deploy
-score: 0.6286567252347339
+score: 0.6286527274589897
 stars: 4
 unstable: false
 version: 1.0.0

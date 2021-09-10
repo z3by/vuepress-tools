@@ -29,7 +29,7 @@ publisher:
   url: null
   username: alija
 repository: https://github.com/studyathome-internationally/vuepress-plugins
-score: 0.616811894671397
+score: 0.6168128290380384
 stars: 0
 unstable: false
 version: 2.1.0-alpha.3

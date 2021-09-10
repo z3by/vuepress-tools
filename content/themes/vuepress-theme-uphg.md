@@ -7,7 +7,7 @@ author:
   username: null
 bugs: https://github.com/uphg/vuepress-theme-uphg/issues
 category: theme
-date: '2021-09-08T08:42:50.818Z'
+date: '2021-09-09T06:03:16.568Z'
 deprecated: false
 description: Docs theme for VuePress
 downloads: null
@@ -28,10 +28,10 @@ publisher:
   url: null
   username: chennings
 repository: https://github.com/uphg/vuepress-theme-uphg
-score: 0.41944537226337275
+score: 0.5455914911077371
 stars: 0
 unstable: true
-version: 0.0.2
+version: 0.0.7
 watchers: 0
 
 ---

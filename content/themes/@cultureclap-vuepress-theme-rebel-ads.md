@@ -29,7 +29,7 @@ publisher:
   url: null
   username: cultureclap
 repository: https://github.com/rebelcoding/vuepress-theme-rebel-ads
-score: 0.3333663212969306
+score: 0.3333587466917931
 stars: 0
 unstable: false
 version: 1.0.0

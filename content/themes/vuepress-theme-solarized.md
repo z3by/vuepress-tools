@@ -28,7 +28,7 @@ publisher:
   url: null
   username: puritanic
 repository: https://github.com/Puritanic/vuepress-theme-solarized
-score: 0.22265799666244349
+score: 0.2226388904501558
 stars: 0
 unstable: false
 version: 1.1.1

@@ -33,7 +33,7 @@ publisher:
   url: null
   username: askcreative
 repository: https://github.com/askcreative/saber-theme-vuepress
-score: 0.3286900150003427
+score: 0.32868558563535244
 stars: 0
 unstable: false
 version: 1.0.6

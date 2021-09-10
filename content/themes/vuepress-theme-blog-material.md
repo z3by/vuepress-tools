@@ -28,7 +28,7 @@ publisher:
   url: null
   username: lyh543
 repository: https://github.com/lyh543/vuepress-theme-blog-material
-score: 0.5224706534901309
+score: 0.5224712673589529
 stars: 0
 unstable: true
 version: 0.0.3

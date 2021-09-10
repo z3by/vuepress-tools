@@ -31,7 +31,7 @@ publisher:
   url: null
   username: sivanlaai
 repository: https://github.com/SivanLaai/vuepress-plugin-comment-plus
-score: 0.533483660460681
+score: 0.5334824182786937
 stars: 1
 unstable: false
 version: 1.1.0

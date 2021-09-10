@@ -26,7 +26,7 @@ publisher:
   url: null
   username: hwen
 repository: https://github.com/hwen/vuepress-theme-one
-score: 0.31354852673039735
+score: 0.31354905787327436
 stars: 0
 unstable: true
 version: 0.12.3

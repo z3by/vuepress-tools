@@ -28,7 +28,7 @@ publisher:
   url: null
   username: renzhsh
 repository: https://github.com/renzhsh/vuepress-code-components
-score: 0.49077961929660197
+score: 0.49078010316007026
 stars: 0
 unstable: true
 version: 0.1.3

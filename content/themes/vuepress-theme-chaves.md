@@ -26,7 +26,7 @@ publisher:
   url: null
   username: chavesgu
 repository: https://github.com/chavesgu/vuepress-theme-meteorlxy
-score: 0.41541907280624163
+score: 0.41541056147395883
 stars: 0
 unstable: false
 version: 2.3.0

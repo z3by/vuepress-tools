@@ -24,7 +24,7 @@ publisher:
   url: null
   username: alija
 repository: https://github.com/sabicalija/webdev.js
-score: 0.25322300855785773
+score: 0.2532103815361383
 stars: 0
 unstable: true
 version: 0.0.1

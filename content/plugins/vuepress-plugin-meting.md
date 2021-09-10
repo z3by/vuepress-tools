@@ -28,7 +28,7 @@ publisher:
   url: null
   username: sigure_mo
 repository: https://github.com/moefyit/vuepress-plugin-meting
-score: 0.5335376925924151
+score: 0.5335377724759433
 stars: 21
 unstable: true
 version: 0.3.1

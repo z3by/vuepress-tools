@@ -7,11 +7,11 @@ author:
   username: smallsunnyfox
 bugs: https://github.com/vuepress-reco/vuepress-plugin-bgm-player/issues
 category: plugin
-date: '2020-04-12T06:39:53.956Z'
+date: '2021-09-09T11:14:00.254Z'
 deprecated: false
 description: bgm player plugin for vuepress themes
 downloads: null
-homepage: https://vuepress-theme-reco.recoluan.com/en/views/plugins/bgmPlayer.html
+homepage: https://vuepress-theme-reco.recoluan.com/views/plugins/bgmPlayer.html
 keywords:
 - vuepress-theme-reco
 - bgm player
@@ -28,10 +28,10 @@ publisher:
   url: null
   username: smallsunnyfox
 repository: https://github.com/vuepress-reco/vuepress-plugin-bgm-player
-score: 0.30222701595892965
+score: 0.3513182714655074
 stars: 15
 unstable: false
-version: 1.1.3
+version: 1.1.4
 watchers: 15
 
 ---
@@ -60,6 +60,7 @@ watchers: 15
 |-|-|-|-|-|
 |audios|播放列表|Array|无|-|
 |position|播放器位置|Object|{ left: '10px', bottom: '10px', 'z-index': '999999'}|-|
+|autoplay|是否自动播放|Boolean|false|true/false|
 |autoShrink|是否自动缩小|Boolean|false|true/false|
 |shrinkMode|指定PC端缩小为哪种模式|String|'float'|'mini'/'float'|
 |floatPosition|指定浮窗模式浮动在哪一侧|String|'left'|'left'/'right'|
@@ -97,7 +98,7 @@ watchers: 15
   ```
 ### shrinkMode说明
 
-- PC端可以通过shrinkMode来指定缩小时缩为哪种模式
+- PC端可以通过shrinkMode来指定正常模式缩小时缩小为哪种模式
 - 移动端默认缩小为浮窗模式
 
 ## About
@@ -106,5 +107,4 @@ watchers: 15
 - 对于 `vuepress-theme-reco` 的 `dark` 模式的适配  
   ![dark.png](./images/dark.png)
 - **开发计划**
-  - 自动播放
   - 移动端适配问题修复

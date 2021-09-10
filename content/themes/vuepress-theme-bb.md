@@ -26,7 +26,7 @@ publisher:
   url: null
   username: baof
 repository: https://github.com/x-bao/vuepress-theme-bb
-score: 0.2002925061873737
+score: 0.20029724830513512
 stars: 0
 unstable: false
 version: 1.0.1

@@ -29,7 +29,7 @@ publisher:
   url: null
   username: shigma
 repository: https://github.com/vuepress/vuepress-plugin-mathjax
-score: 0.3707753238496237
+score: 0.3707745735472364
 stars: 31
 unstable: false
 version: 1.2.8
