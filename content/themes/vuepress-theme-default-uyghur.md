@@ -31,7 +31,7 @@ publisher:
   url: null
   username: ilhamtahir
 repository: https://github.com/IlhamTahir/vuepress-theme-default-uyghur
-score: 0.5018939232051733
+score: 0.5018914061511308
 stars: 0
 unstable: false
 version: 1.0.2

@@ -29,7 +29,7 @@ publisher:
   url: null
   username: qdot
 repository: https://github.com/qdot/vuepress-plugin-matomo
-score: 0.2326328069107137
+score: 0.23263224988256806
 stars: 6
 unstable: false
 version: 1.0.2

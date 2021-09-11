@@ -28,7 +28,7 @@ publisher:
   url: null
   username: lisniuse
 repository: https://github.com/lisniuse/vuepress-theme-thindark
-score: 0.32639478116467036
+score: 0.32640013563490805
 stars: 0
 unstable: false
 version: 1.0.1

@@ -27,7 +27,7 @@ publisher:
   url: null
   username: snowinszu
 repository: https://github.com/cdnbye/cb_vuepress-plugin-element-tabs
-score: 0.3671894513278461
+score: 0.3671852110509471
 stars: 0
 unstable: true
 version: 0.2.8

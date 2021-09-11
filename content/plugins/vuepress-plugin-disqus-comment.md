@@ -28,7 +28,7 @@ publisher:
   url: null
   username: newsbielt703
 repository: https://github.com/newsbielt703/vuepress-plugin-disqus
-score: 0.2554710244821715
+score: 0.2554757189672012
 stars: 0
 unstable: true
 version: 0.2.3

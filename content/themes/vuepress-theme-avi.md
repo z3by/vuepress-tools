@@ -32,7 +32,7 @@ publisher:
   url: null
   username: avimehenwal
 repository: https://github.com/avimehenwal/vuepress-theme-avi
-score: 0.5544787862858149
+score: 0.5544865670080001
 stars: 0
 unstable: false
 version: 1.0.3

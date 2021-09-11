@@ -24,7 +24,7 @@ publisher:
   url: null
   username: xcodebuild
 repository: https://github.com/ulivz/vuepress-plugin-yuque
-score: 0.3493966571457916
+score: 0.3494082197752538
 stars: 276
 unstable: true
 version: 0.6.9

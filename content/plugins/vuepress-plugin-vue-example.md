@@ -32,7 +32,7 @@ publisher:
   url: null
   username: kouts
 repository: https://github.com/kouts/vuepress-plugin-vue-example
-score: 0.5919157663141299
+score: 0.5919199750259763
 stars: 1
 unstable: false
 version: 1.1.2

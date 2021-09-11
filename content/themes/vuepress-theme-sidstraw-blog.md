@@ -31,7 +31,7 @@ publisher:
   url: null
   username: sidstraw
 repository: https://github.com/SidStraw/vuepress-theme-sidstraw-blog
-score: 0.2912871420521681
+score: 0.2912867689544556
 stars: 0
 unstable: true
 version: 0.1.0

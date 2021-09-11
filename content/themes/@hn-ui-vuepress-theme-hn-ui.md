@@ -30,7 +30,7 @@ publisher:
   url: null
   username: upcwangying
 repository: https://github.com/hn-ui/hn-ui
-score: 0.6015919645361142
+score: 0.6015930722286802
 stars: 0
 unstable: false
 version: 1.0.0

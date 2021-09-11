@@ -24,7 +24,7 @@ publisher:
   url: null
   username: starlight36
 repository: https://github.com/ulivz/vuepress-plugin-check-md
-score: 0.12632623996160147
+score: 0.1263343034199005
 stars: 25
 unstable: true
 version: 0.0.3

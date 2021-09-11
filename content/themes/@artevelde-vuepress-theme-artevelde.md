@@ -24,7 +24,7 @@ publisher:
   url: null
   username: olivierparent
 repository: https://github.com/gdmgent/vuepress-theme-artevelde
-score: 0.5786852220653472
+score: 0.5786912737887661
 stars: 0
 unstable: false
 version: 1.6.5

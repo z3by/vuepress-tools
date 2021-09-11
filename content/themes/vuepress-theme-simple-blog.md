@@ -25,7 +25,7 @@ publisher:
   url: null
   username: gplane
 repository: https://github.com/g-plane/vuepress-theme-simple-blog
-score: 0.4455047301880951
+score: 0.44550992854510924
 stars: 0
 unstable: false
 version: 1.1.0

@@ -29,7 +29,7 @@ publisher:
   url: null
   username: bhabgs
 repository: https://github.com/zx-js/vuepress-theme-bhabgs
-score: 0.34992457651337616
+score: 0.34993075413485897
 stars: 0
 unstable: true
 version: 0.1.2

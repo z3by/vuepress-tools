@@ -30,7 +30,7 @@ publisher:
   url: null
   username: yue_plus
 repository: https://github.com/Yue-plus/vuepress-theme-oxygen-not-included
-score: 0.462405460295479
+score: 0.46240638481368657
 stars: 0
 unstable: true
 version: 0.3.3

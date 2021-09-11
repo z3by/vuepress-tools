@@ -26,7 +26,7 @@ publisher:
   url: null
   username: d0whc3r
 repository: https://github.com/d0whc3r/vuepress-plugin-demo-block
-score: 0.37775566999319965
+score: 0.377763479342222
 stars: 2
 unstable: true
 version: 0.8.2

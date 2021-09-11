@@ -28,7 +28,7 @@ publisher:
   url: null
   username: funnycoderstar
 repository: https://github.com/funnycoderstar/vuepress-theme-lemon
-score: 0.38783945413499765
+score: 0.38782669170271855
 stars: 0
 unstable: false
 version: 1.0.0

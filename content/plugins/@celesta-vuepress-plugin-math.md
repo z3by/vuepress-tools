@@ -24,7 +24,7 @@ publisher:
   url: null
   username: nsznsznjsz
 repository: https://github.com/nsznsznjsz/blog
-score: 0.5196130227166511
+score: 0.5196236534634273
 stars: 2
 unstable: true
 version: 0.5.0
@@ -34,7 +34,7 @@ watchers: 2
 
 ### Hi there 👋
 
-- 🌱 I’m currently learning on SHNU
+- 🌱 I’m currently learning on SHU
 - 🤔 I’m currently learning English...
 
 ![Celeste's github stats](https://github-readme-stats.vercel.app/api/?username=nsznsznjsz&show_icons=true&hide_title=true)

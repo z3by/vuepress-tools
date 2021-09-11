@@ -7,7 +7,7 @@ author:
   username: null
 bugs: https://github.com/getnacelle/vuepress-theme-docs/issues
 category: theme
-date: '2020-09-18T16:18:42.524Z'
+date: '2021-09-10T13:16:27.026Z'
 deprecated: false
 description: Extension of vuepress default theme for Nacelle docs
 downloads: null
@@ -25,15 +25,15 @@ name: '@nacelle/vuepress-theme-docs'
 npm: https://www.npmjs.com/package/%40nacelle%2Fvuepress-theme-docs
 publisher:
   avatar: null
-  email: andrew@shopelf.agency
+  email: darlene.zouras@getnacelle.com
   name: null
   url: null
-  username: andrew-nacelle
+  username: dzouras
 repository: https://github.com/getnacelle/vuepress-theme-docs
-score: 0.47117712419274105
+score: 0.457743630615269
 stars: 0
 unstable: false
-version: 1.1.2
+version: 1.2.0
 watchers: 0
 
 ---

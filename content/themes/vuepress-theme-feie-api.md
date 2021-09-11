@@ -29,7 +29,7 @@ publisher:
   url: null
   username: caikeal
 repository: https://github.com/neoption/vuepress-theme-api
-score: 0.3475212371014741
+score: 0.3475216953190027
 stars: 0
 unstable: true
 version: 0.3.4

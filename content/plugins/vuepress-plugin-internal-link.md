@@ -38,7 +38,7 @@ publisher:
   url: null
   username: r-q
 repository: https://github.com/RoderickQiu/vuepress-plugin-internal-link
-score: 0.40304504583954315
+score: 0.4030426902899479
 stars: 3
 unstable: true
 version: 0.2.0

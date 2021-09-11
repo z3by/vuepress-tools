@@ -31,7 +31,7 @@ publisher:
   url: null
   username: robinhuiser
 repository: https://github.com/rdc-lda/vuepress-theme-rdc-blog
-score: 0.35609255888037816
+score: 0.3560939666570103
 stars: 0
 unstable: false
 version: 1.0.2

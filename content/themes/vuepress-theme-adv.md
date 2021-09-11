@@ -28,7 +28,7 @@ publisher:
   url: null
   username: vcml10
 repository: https://github.com/vcml10/vuepress-theme-adv
-score: 0.29918693641272626
+score: 0.2991862131709432
 stars: 0
 unstable: true
 version: 0.0.1

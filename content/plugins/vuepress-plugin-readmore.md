@@ -32,7 +32,7 @@ publisher:
   url: null
   username: itclan
 repository: https://github.com/itclanCode/vuepress-plugin-readmore
-score: 0.43166701754821063
+score: 0.4316569476630256
 stars: 0
 unstable: true
 version: 0.1.0

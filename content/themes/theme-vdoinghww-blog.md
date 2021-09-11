@@ -26,7 +26,7 @@ publisher:
   url: null
   username: runyuanj
 repository: https://github.com/xugaoyi/vuepress-theme-vdoing
-score: 0.17811554677161306
+score: 0.17811767338632586
 stars: 0
 unstable: false
 version: 1.1.0
