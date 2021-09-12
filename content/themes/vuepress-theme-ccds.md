@@ -36,7 +36,7 @@ publisher:
   url: null
   username: qsyyke
 repository: https://github.com/qsyyke/vuepress-theme-ccds
-score: 0.21119082647763762
+score: 0.2111944628018253
 stars: 0
 unstable: false
 version: 1.0.6

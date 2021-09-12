@@ -30,7 +30,7 @@ publisher:
   url: null
   username: the_alex_mark
 repository: https://github.com/the-alex-mark/vuepress-theme-stack
-score: 0.49414544931298543
+score: 0.4941468185079716
 stars: 0
 unstable: false
 version: 1.1.20

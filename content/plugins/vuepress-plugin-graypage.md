@@ -34,7 +34,7 @@ publisher:
   url: null
   username: zhousiwei
 repository: https://github.com/JoeyBling/vuepress-plugin-graypage
-score: 0.4607097530660197
+score: 0.4607340848036938
 stars: 1
 unstable: true
 version: 0.1.2

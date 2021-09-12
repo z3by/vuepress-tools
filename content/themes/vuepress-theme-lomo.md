@@ -24,7 +24,7 @@ publisher:
   url: null
   username: creanme
 repository: https://github.com/creanme/vuepress-theme-lomo
-score: 0.3844512676378452
+score: 0.3844836119303754
 stars: 0
 unstable: false
 version: 1.0.9

@@ -28,7 +28,7 @@ publisher:
   url: null
   username: shuangya
 repository: https://github.com/sylingd/vuepress-copy-via-link
-score: 0.43606358024092506
+score: 0.436065496327706
 stars: 1
 unstable: false
 version: 1.0.0

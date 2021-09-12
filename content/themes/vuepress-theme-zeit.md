@@ -24,7 +24,7 @@ publisher:
   url: null
   username: wittbulter
 repository: https://github.com/unix/vuepress-theme-zeit
-score: 0.21120863241639326
+score: 0.21123007529323853
 stars: 0
 unstable: false
 version: 1.0.1

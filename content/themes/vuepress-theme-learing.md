@@ -27,7 +27,7 @@ publisher:
   url: null
   username: jiangwei618
 repository: https://github.com/vuepress-reco/vuepress-theme-reco
-score: 0.07632149144821408
+score: 0.07633371306182311
 stars: 0
 unstable: true
 version: 0.0.1

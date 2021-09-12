@@ -24,7 +24,7 @@ publisher:
   url: null
   username: leo946666
 repository: https://github.com/leo94666/leo94666.github.io
-score: 0.4085885564312406
+score: 0.4086071506400795
 stars: 0
 unstable: true
 version: 0.0.1-alpha.5

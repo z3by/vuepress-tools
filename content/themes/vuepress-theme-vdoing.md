@@ -31,11 +31,11 @@ publisher:
   url: null
   username: evan_xu
 repository: https://github.com/xugaoyi/vuepress-theme-vdoing
-score: 0.5968862179031329
-stars: 1243
+score: 0.5968939185828008
+stars: 1247
 unstable: false
 version: 1.8.3
-watchers: 1243
+watchers: 1247
 
 ---
 

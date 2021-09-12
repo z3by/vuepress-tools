@@ -31,7 +31,7 @@ publisher:
   url: null
   username: jardenliu
 repository: https://github.com/jardenliu/vuepress-plugin-code-doc
-score: 0.4592545476407455
+score: 0.4592968823356349
 stars: 1
 unstable: true
 version: 0.0.1

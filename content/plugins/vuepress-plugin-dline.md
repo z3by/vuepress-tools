@@ -27,7 +27,7 @@ publisher:
   url: null
   username: wangshiting
 repository: https://github.com/laobg/vuepress-plugin-dline
-score: 0.5063412989445079
+score: 0.5063417516605546
 stars: 1
 unstable: false
 version: 1.0.2

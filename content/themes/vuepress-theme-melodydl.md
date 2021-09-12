@@ -27,7 +27,7 @@ publisher:
   url: null
   username: topyou
 repository: https://github.com/youdeliang/vuepress-theme-melodydl
-score: 0.33459888365888957
+score: 0.33463744540509904
 stars: 0
 unstable: false
 version: 1.1.2

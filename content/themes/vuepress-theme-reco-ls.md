@@ -27,7 +27,7 @@ publisher:
   url: null
   username: wangyanzu
 repository: https://github.com/vuepress-reco/vuepress-theme-reco
-score: 0.20682214728900208
+score: 0.20682585393288747
 stars: 0
 unstable: false
 version: 1.6.6

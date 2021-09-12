@@ -28,7 +28,7 @@ publisher:
   url: null
   username: upcwangying
 repository: https://github.com/vangojs/vuepress-theme-vango
-score: 0.273286911646204
+score: 0.2733146764511497
 stars: 0
 unstable: true
 version: 0.0.2-alpha.0

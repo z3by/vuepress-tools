@@ -24,7 +24,7 @@ publisher:
   url: null
   username: kybetter
 repository: https://github.com/xiyun-international/vuepress-theme-xydocs
-score: 0.317054812740976
+score: 0.3170611914712152
 stars: 0
 unstable: false
 version: 1.0.1

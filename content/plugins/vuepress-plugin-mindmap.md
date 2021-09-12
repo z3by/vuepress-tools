@@ -30,7 +30,7 @@ publisher:
   url: null
   username: renzhsh
 repository: https://github.com/renzhsh/vuepress-mindmap
-score: 0.5160752104911892
+score: 0.5160782353319477
 stars: 0
 unstable: true
 version: 0.2.5

@@ -24,7 +24,7 @@ publisher:
   url: null
   username: appcelerator
 repository: https://github.com/appcelerator/docs-devkit
-score: 0.6134582628832548
+score: 0.6134679818811593
 stars: 19
 unstable: false
 version: 4.9.0

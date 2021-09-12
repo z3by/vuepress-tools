@@ -27,7 +27,7 @@ publisher:
   url: null
   username: dr.cycle
 repository: https://github.com/leCapsimRy/vuepress-theme-cycle
-score: 0.3464083864705116
+score: 0.346419295775234
 stars: 0
 unstable: true
 version: 0.7.11

@@ -28,7 +28,7 @@ publisher:
   url: null
   username: silvandiepen
 repository: https://github.com/henris-style/vuepress-theme-henris
-score: 0.062407356366855626
+score: 0.0624094880582158
 stars: 0
 unstable: true
 version: 0.0.1

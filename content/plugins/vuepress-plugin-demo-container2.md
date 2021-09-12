@@ -30,7 +30,7 @@ publisher:
   url: null
   username: py419569317
 repository: https://github.com/calebman/vuepress-plugin-demo-container
-score: 0.14951442858937625
+score: 0.1495164841912886
 stars: 73
 unstable: true
 version: 0.1.1

@@ -31,7 +31,7 @@ publisher:
   url: null
   username: anwh
 repository: https://github.com/xugaoyi/vuepress-theme-vdoing
-score: 0.06011672169138304
+score: 0.06012045148275236
 stars: 0
 unstable: false
 version: 1.0.2

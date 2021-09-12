@@ -27,7 +27,7 @@ publisher:
   url: null
   username: leoloso
 repository: https://github.com/leoloso/vuepress-plugin-plausible-analytics
-score: 0.334227900912788
+score: 0.33424771913413737
 stars: 2
 unstable: true
 version: 0.2.1

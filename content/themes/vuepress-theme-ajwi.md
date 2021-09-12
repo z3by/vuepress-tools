@@ -31,7 +31,7 @@ publisher:
   url: null
   username: ajwipo
 repository: https://github.com/aj-wi/aj-theme-blog_vuepress
-score: 0.49590566571339
+score: 0.49590844038527704
 stars: 0
 unstable: false
 version: 1.0.2

@@ -28,7 +28,7 @@ publisher:
   url: null
   username: srcrs
 repository: https://github.com/srcrs/vuepress-plugin-goatcounter
-score: 0.3961555617221004
+score: 0.3961802571094005
 stars: 1
 unstable: false
 version: 1.0.5

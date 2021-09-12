@@ -28,7 +28,7 @@ publisher:
   url: null
   username: cbodtorf
 repository: https://github.com/getnacelle/vuepress-plugin-github-markdown
-score: 0.36346229184640416
+score: 0.36347960776863586
 stars: 0
 unstable: false
 version: 1.0.3

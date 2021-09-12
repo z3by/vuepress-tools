@@ -28,7 +28,7 @@ publisher:
   url: null
   username: mlinquan
 repository: https://github.com/mlinquan/vuepress-plugin-baidu-tongji
-score: 0.342539907226756
+score: 0.3425405609429897
 stars: 0
 unstable: false
 version: 1.0.1

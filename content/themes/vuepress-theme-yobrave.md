@@ -26,7 +26,7 @@ publisher:
   url: null
   username: yobrave1995
 repository: https://github.com/chinanf-boy/vuepress-theme-yobrave
-score: 0.31173960159442016
+score: 0.31174223441370164
 stars: 0
 unstable: false
 version: 1.0.0

@@ -28,7 +28,7 @@ publisher:
   url: null
   username: ifuture
 repository: https://github.com/ifuture-pro/vuepress-plugin-rss
-score: 0.18735678473850204
+score: 0.18737360744670853
 stars: 3
 unstable: false
 version: 1.0.2

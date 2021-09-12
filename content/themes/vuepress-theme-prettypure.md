@@ -25,7 +25,7 @@ publisher:
   url: null
   username: hkchen
 repository: https://github.com/HKChen/vuepress-theme-prettyPure
-score: 0.28239407314563414
+score: 0.2823989905264014
 stars: 0
 unstable: false
 version: 1.0.44

@@ -28,11 +28,11 @@ publisher:
   url: null
   username: shanyuhai123
 repository: https://github.com/shanyuhai123/vuepress-plugin-auto-sidebar
-score: 0.638995473722439
-stars: 78
+score: 0.639040364969419
+stars: 79
 unstable: false
 version: 2.3.2
-watchers: 78
+watchers: 79
 
 ---
 
@@ -45,10 +45,6 @@ watchers: 78
 
 
 
-> 现在，它已经支持 VuePress V2 了。
->
-> Now, it is support VuePress V2.
-
 ## 介绍（Introduction）
 
 This is a plugin that automatically generates a sidebar for vuepress.
@@ -60,7 +56,7 @@ This is a plugin that automatically generates a sidebar for vuepress.
 ```bash
 npm i vuepress-plugin-auto-sidebar -D
 
-# v2 alpha(测试版)
+# v2 alpha(测试版, for vuepress v2)
 npm i vuepress-plugin-auto-sidebar@alpha -D
 ```
 
@@ -68,9 +64,8 @@ npm i vuepress-plugin-auto-sidebar@alpha -D
 
 ## 使用（Usage）
 
-> **Attention, do not put plugins in the themeConfig**, [how to use plugins](https://vuepress.vuejs.org/plugin/using-a-plugin.html#using-a-plugin)。
-
 ```js
+// edit .vuepress/config.js file
 module.exports = {
   plugins: [
     ["vuepress-plugin-auto-sidebar", {}]

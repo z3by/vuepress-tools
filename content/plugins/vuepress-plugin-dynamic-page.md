@@ -24,7 +24,7 @@ publisher:
   url: null
   username: highcwu
 repository: https://github.com/HighCWu/vuepress-plugin-dynamic-page
-score: 0.33797815864227143
+score: 0.33799350543581497
 stars: 0
 unstable: true
 version: 0.1.1

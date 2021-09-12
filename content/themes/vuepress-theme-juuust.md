@@ -28,7 +28,7 @@ publisher:
   url: null
   username: leadream
 repository: https://github.com/leadream/vuepress-theme-juuust
-score: 0.4340651641091904
+score: 0.4340661728331852
 stars: 0
 unstable: false
 version: 1.0.2

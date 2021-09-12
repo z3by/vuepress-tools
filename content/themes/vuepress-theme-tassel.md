@@ -28,7 +28,7 @@ publisher:
   url: null
   username: finen
 repository: https://github.com/hirCodd/vuepress-theme-tassel
-score: 0.23142098103917086
+score: 0.2314222002803359
 stars: 0
 unstable: false
 version: 1.1.9
