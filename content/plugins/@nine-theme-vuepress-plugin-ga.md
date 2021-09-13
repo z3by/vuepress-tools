@@ -26,7 +26,7 @@ publisher:
   url: null
   username: wangjia_1919
 repository: https://github.com/NineSwordsMonster/vuepress-plugin-ga
-score: 0.4200877728878763
+score: 0.4200638427946582
 stars: 0
 unstable: true
 version: 0.0.4-alpha.3

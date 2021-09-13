@@ -26,7 +26,7 @@ publisher:
   url: null
   username: wuwaki
 repository: https://github.com/Yubisaki/vuepress-plugin-pagination
-score: 0.3245710482097832
+score: 0.32457290473889233
 stars: 0
 unstable: true
 version: 0.1.9

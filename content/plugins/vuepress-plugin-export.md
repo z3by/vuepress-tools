@@ -24,7 +24,7 @@ publisher:
   url: null
   username: ulivz
 repository: https://github.com/ulivz/vuepress-plugin-export
-score: 0.24469691029563373
+score: 0.24471121062557522
 stars: 72
 unstable: true
 version: 0.2.0

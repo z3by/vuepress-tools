@@ -30,7 +30,7 @@ publisher:
   url: null
   username: clfeng
 repository: https://github.com/clfeng/vuepress-editable-demo-block
-score: 0.49033282664759814
+score: 0.49033439515686383
 stars: 1
 unstable: true
 version: 0.1.1

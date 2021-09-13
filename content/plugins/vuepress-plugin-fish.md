@@ -27,7 +27,7 @@ publisher:
   url: null
   username: hanyabo
 repository: https://github.com/kevinBobo/vuepress-plugin-fish
-score: 0.25884465666221695
+score: 0.25489297148097034
 stars: 1
 unstable: false
 version: 1.1.4

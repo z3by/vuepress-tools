@@ -27,7 +27,7 @@ publisher:
   url: null
   username: nsznsznjsz
 repository: https://github.com/nsznsznjsz/blog
-score: 0.5300211028991764
+score: 0.5300313040923599
 stars: 0
 unstable: true
 version: 0.5.0

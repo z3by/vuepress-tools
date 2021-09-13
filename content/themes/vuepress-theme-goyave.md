@@ -29,7 +29,7 @@ publisher:
   url: null
   username: systemglitch
 repository: https://github.com/go-goyave/vuepress-theme-goyave
-score: 0.5118966059525076
+score: 0.5118864214483528
 stars: 0
 unstable: false
 version: 1.1.2

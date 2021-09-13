@@ -25,7 +25,7 @@ publisher:
   url: null
   username: libra121
 repository: https://github.com/Libra11/vuepress-theme-libra
-score: 0.1307226383677238
+score: 0.13062179389773496
 stars: 0
 unstable: false
 version: 1.0.1

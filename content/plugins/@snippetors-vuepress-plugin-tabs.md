@@ -7,7 +7,7 @@ author:
   username: Snippetors
 bugs: https://github.com/Snippetors/snippets/labels/plugin%3Atabs
 category: plugin
-date: '2021-09-11T15:22:09.872Z'
+date: '2021-09-12T01:59:15.034Z'
 deprecated: false
 description: Vuepress plugin - markdown custom container to display content in tabs
 downloads: null
@@ -28,11 +28,11 @@ publisher:
   url: null
   username: lucienzhangzl
 repository: https://github.com/Snippetors/snippets
-score: 0.45593902233049316
-stars: 2
+score: 0.5853170270743859
+stars: 3
 unstable: false
-version: 1.0.4
-watchers: 2
+version: 1.0.5
+watchers: 3
 
 ---
 

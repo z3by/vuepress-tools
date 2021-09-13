@@ -29,7 +29,7 @@ publisher:
   url: null
   username: seeyoz
 repository: https://github.com/zpfz/vuepress-plugin-graysite
-score: 0.32448264697951146
+score: 0.3244559752684568
 stars: 8
 unstable: true
 version: 0.1.0

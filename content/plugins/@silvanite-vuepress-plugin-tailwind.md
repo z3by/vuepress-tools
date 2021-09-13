@@ -28,7 +28,7 @@ publisher:
   url: null
   username: m2de
 repository: https://github.com/silvanite/vuepress-plugin-tailwind
-score: 0.3628327633122092
+score: 0.3628078408455071
 stars: 18
 unstable: false
 version: 1.3.0

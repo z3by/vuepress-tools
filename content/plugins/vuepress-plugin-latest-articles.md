@@ -27,7 +27,7 @@ publisher:
   url: null
   username: nsznsznjsz
 repository: https://github.com/nsznsznjsz/vuepress-plugin-latest-articles
-score: 0.44263671586043535
+score: 0.44259772518271423
 stars: 0
 unstable: false
 version: 1.1.1

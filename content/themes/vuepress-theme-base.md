@@ -27,7 +27,7 @@ publisher:
   url: null
   username: petedavisdev
 repository: https://github.com/petedavisdev/vuepress-theme-base
-score: 0.41068335900331476
+score: 0.4106855747533998
 stars: 0
 unstable: true
 version: 0.5.5

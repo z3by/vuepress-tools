@@ -30,7 +30,7 @@ publisher:
   url: null
   username: 1net
 repository: https://github.com/sogud/vuepress-theme-minimalism
-score: 0.27350787564160284
+score: 0.2734580678405709
 stars: 0
 unstable: false
 version: 1.1.3

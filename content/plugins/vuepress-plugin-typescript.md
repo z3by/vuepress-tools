@@ -11,7 +11,7 @@ date: '2020-09-01T04:24:51.457Z'
 deprecated: false
 description: VuePress plugin for typescript
 downloads: null
-homepage: https://github.com/vuepress/vuepress-community#readme
+homepage: https://github.com/vuepress
 keywords:
 - plugin
 - typescript
@@ -27,7 +27,7 @@ publisher:
   url: null
   username: meteorlxy
 repository: https://github.com/vuepress/vuepress-community
-score: 0.5485964151395764
+score: 0.5041233021201781
 stars: 68
 unstable: true
 version: 0.3.1

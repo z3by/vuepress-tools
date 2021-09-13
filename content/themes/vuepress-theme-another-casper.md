@@ -24,7 +24,7 @@ publisher:
   url: null
   username: shcant
 repository: https://github.com/shcant/vuepress-theme-casper
-score: 0.03275871117756204
+score: 0.032759727970689025
 stars: 0
 unstable: true
 version: 0.1.0

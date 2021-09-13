@@ -24,7 +24,7 @@ publisher:
   url: null
   username: ocavue
 repository: https://github.com/ocavue/vuepress-theme-blogue
-score: 0.5172918545792645
+score: 0.517285204933164
 stars: 0
 unstable: true
 version: 0.8.1

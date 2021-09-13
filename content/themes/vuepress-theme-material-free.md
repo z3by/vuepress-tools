@@ -30,7 +30,7 @@ publisher:
   url: null
   username: gabrielwillemann
 repository: https://github.com/gabrielwillemann/vuepress-theme-material-free
-score: 0.3506522507594069
+score: 0.3505891731165749
 stars: 0
 unstable: true
 version: 0.1.4

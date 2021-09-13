@@ -27,7 +27,7 @@ publisher:
   url: null
   username: afanyiyu
 repository: https://github.com/vbox-moe/vuepress-plugin-vbox
-score: 0.3331351889970914
+score: 0.33304505513684285
 stars: 1
 unstable: true
 version: 0.2.1

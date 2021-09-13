@@ -7,7 +7,7 @@ author:
   username: thangved
 bugs: https://github.com/thangved/wibu-2dlive/issues
 category: plugin
-date: '2021-09-11T12:33:48.868Z'
+date: '2021-09-12T05:39:24.095Z'
 deprecated: false
 description: "M\u1ED9t s\u1ED1 model wibu cho vuepress c\u1EE7a b\u1EA1n."
 downloads: null
@@ -26,20 +26,24 @@ publisher:
   url: null
   username: thangved
 repository: https://github.com/thangved/wibu-2dlive
-score: 0.3957950185748419
+score: 0.5163073294008299
 stars: 2
 unstable: false
-version: 1.1.10
+version: 1.1.12
 watchers: 2
 
 ---
 
 # vuepress-plugin-wibu-2dlive
 
-[![npm version](https://badge.fury.io/js/vuepress-plugin-wibu-2dlive.svg)](https://badge.fury.io/js/vuepress-plugin-wibu-2dlive)
-![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)
+![v](https://badgen.net/npm/v/vuepress-plugin-wibu-2dlive)
+![License](https://badgen.net/github/license/thangved/wibu-2dlive)
 ![publish size](https://badgen.net/packagephobia/publish/vuepress-plugin-wibu-2dlive)
 [![Node.js CI](https://github.com/thangved/wibu-2dlive/actions/workflows/node.js.yml/badge.svg)](https://github.com/thangved/wibu-2dlive/actions/workflows/node.js.yml)
+![dd](https://badgen.net/npm/dd/vuepress-plugin-wibu-2dlive)
+![dw](https://badgen.net/npm/dw/vuepress-plugin-wibu-2dlive)
+![dy](https://badgen.net/npm/dy/vuepress-plugin-wibu-2dlive)
+![dt](https://badgen.net/npm/dt/vuepress-plugin-wibu-2dlive)
 
 ## Install
 

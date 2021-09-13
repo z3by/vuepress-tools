@@ -27,7 +27,7 @@ publisher:
   url: null
   username: xuek
 repository: https://github.com/xuekai-china/vuepress-plugin-right-anchor
-score: 0.5036921665835113
+score: 0.47392814693487795
 stars: 14
 unstable: true
 version: 0.5.3

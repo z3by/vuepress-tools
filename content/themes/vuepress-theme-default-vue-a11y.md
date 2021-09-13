@@ -24,7 +24,7 @@ publisher:
   url: null
   username: ktquez
 repository: https://github.com/vue-a11y/vuepress-theme-default-vue-a11y
-score: 0.3968737416243858
+score: 0.39677648948189914
 stars: 0
 unstable: true
 version: 0.1.15

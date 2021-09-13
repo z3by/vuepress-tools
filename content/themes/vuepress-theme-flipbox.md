@@ -24,7 +24,7 @@ publisher:
   url: null
   username: flipbox
 repository: https://github.com/flipboxlabs/vuepress-theme-flipbox
-score: 0.34395252311626034
+score: 0.343943373934336
 stars: 0
 unstable: false
 version: 1.0.31

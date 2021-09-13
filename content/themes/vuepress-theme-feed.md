@@ -24,7 +24,7 @@ publisher:
   url: null
   username: xieyx
 repository: https://github.com/xieyx/vuepress-theme-feed
-score: 0.4377834123021465
+score: 0.43772988444051786
 stars: 0
 unstable: false
 version: 1.2.3

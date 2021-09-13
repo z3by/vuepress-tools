@@ -27,7 +27,7 @@ publisher:
   url: null
   username: ermu
 repository: https://github.com/ermu0420/vuepress-theme-ermu
-score: 0.31349710273659837
+score: 0.3142610560084428
 stars: 0
 unstable: false
 version: 1.0.4

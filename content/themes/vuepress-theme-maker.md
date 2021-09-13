@@ -30,7 +30,7 @@ publisher:
   url: null
   username: 80maker
 repository: https://github.com/80maker/vuepress-theme-maker
-score: 0.5498993575136577
+score: 0.5498998011089371
 stars: 0
 unstable: false
 version: 1.2.0

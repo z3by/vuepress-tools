@@ -27,7 +27,7 @@ publisher:
   url: null
   username: navi-wong
 repository: https://github.com/Navi-1993/vuepress-theme-navi
-score: 0.49399987088894115
+score: 0.49402408770760897
 stars: 0
 unstable: false
 version: 1.0.4

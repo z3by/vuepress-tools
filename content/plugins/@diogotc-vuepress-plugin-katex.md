@@ -27,7 +27,7 @@ publisher:
   url: null
   username: diogotc
 repository: https://github.com/diogotcorreia/vuepress-plugin-katex
-score: 0.5037799334131854
+score: 0.5037883406320227
 stars: 0
 unstable: false
 version: 2.0.0

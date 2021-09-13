@@ -27,7 +27,7 @@ publisher:
   url: null
   username: nyh
 repository: https://github.com/meteorlxy/vuepress-theme-meteorlxy
-score: 0.08647118557016766
+score: 0.08644392683991352
 stars: 0
 unstable: false
 version: 1.7.1
