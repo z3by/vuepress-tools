@@ -24,7 +24,7 @@ publisher:
   url: null
   username: mattstein
 repository: https://github.com/pixelandtonic/vuepress-theme-craftdocs
-score: 0.46569813572980995
+score: 0.4657140225907069
 stars: 0
 unstable: false
 version: 2.0.9

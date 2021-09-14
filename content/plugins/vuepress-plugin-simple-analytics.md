@@ -32,7 +32,7 @@ publisher:
   url: null
   username: simpleanalytics
 repository: https://github.com/simpleanalytics/vuepress-plugin
-score: 0.2731398504766478
+score: 0.27317408959827943
 stars: 1
 unstable: false
 version: 1.0.3

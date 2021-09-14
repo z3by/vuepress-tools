@@ -28,11 +28,11 @@ publisher:
   url: null
   username: kylezhao
 repository: https://github.com/vuejs/vuepress
-score: 0.17461824141993226
-stars: 19370
+score: 0.17461844302319057
+stars: 19375
 unstable: false
 version: 1.0.6
-watchers: 19370
+watchers: 19375
 
 ---
 

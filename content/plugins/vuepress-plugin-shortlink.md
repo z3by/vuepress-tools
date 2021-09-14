@@ -29,7 +29,7 @@ publisher:
   url: null
   username: ioutio
 repository: https://github.com/ioutio/vuepress-plugin-shortlink
-score: 0.42600220990294696
+score: 0.42605328669841896
 stars: 0
 unstable: false
 version: 1.1.0

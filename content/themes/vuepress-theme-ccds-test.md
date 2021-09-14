@@ -35,7 +35,7 @@ publisher:
   url: null
   username: chuchen
 repository: https://github.com/qsyyke/vuepress-theme-ccds
-score: 0.20892570069790245
+score: 0.2089169742328712
 stars: 0
 unstable: false
 version: 1.2.4

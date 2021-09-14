@@ -30,7 +30,7 @@ publisher:
   url: null
   username: tolking
 repository: https://github.com/tolking/vuepress-plugin-blog-multidir
-score: 0.34980868946170823
+score: 0.34979856713433255
 stars: 7
 unstable: false
 version: 1.0.5

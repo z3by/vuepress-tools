@@ -29,7 +29,7 @@ publisher:
   url: null
   username: elevatebart
 repository: https://github.com/vue-styleguidist/vuepress-plugin-live
-score: 0.5415968147220023
+score: 0.5416009717972775
 stars: 36
 unstable: false
 version: 1.6.2

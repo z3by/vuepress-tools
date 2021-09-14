@@ -26,7 +26,7 @@ publisher:
   url: null
   username: gerhut
 repository: https://github.com/Gerhut/vuepress-theme-simple-bulma
-score: 0.320360225245812
+score: 0.32037476181972235
 stars: 0
 unstable: true
 version: 0.1.0

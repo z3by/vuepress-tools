@@ -7,7 +7,7 @@ author:
   username: xuekai-china
 bugs: https://github.com/xuekai-china/vuepress-plugin-right-anchor/issues
 category: plugin
-date: '2021-08-30T09:46:30.803Z'
+date: '2021-09-13T06:32:26.981Z'
 deprecated: false
 description: Right-anchor plugin for vuepress
 downloads: null
@@ -16,7 +16,7 @@ keywords:
 - vuepres
 - right
 - anchor
-license: MIT License
+license: false
 maintainers: null
 name: vuepress-plugin-right-anchor
 npm: https://www.npmjs.com/package/vuepress-plugin-right-anchor
@@ -27,10 +27,10 @@ publisher:
   url: null
   username: xuek
 repository: https://github.com/xuekai-china/vuepress-plugin-right-anchor
-score: 0.47392814693487795
+score: 0.5054319254388583
 stars: 14
 unstable: true
-version: 0.5.3
+version: 0.5.4
 watchers: 14
 
 ---
@@ -45,25 +45,25 @@ watchers: 14
 
 English ｜[中文](./zh-README.md)
 
-> Add **anchor navigation bar** to the right of the document page written in vuepress
+> Add **anchor navigation bar** to the right of the document page written in Vuepress 2.x
+
+## Version
+  - 2.x.x -> Vuepress 2.x -> master branch
+  - 0.x.x -> Vuepress 1.x -> legacy branch
 
 
 ## Features
   - Simplify the structure of the left sidebar without losing the function of Title navigation within the page.
   - Click anchor label page over scrolling.
   - When the page scrolls, the corresponding anchor label follows the highlight.
-  - Disable global ui component.
-
-
-## Sample
-  [soonspacejs document](http://www.xwbuilders.com:9018/soonspacejs/Docs/1.x/api/basics/sbm.html)
+  - Non global component, which can be freely used in the page (under implementation).
 
 
 ## Install
 ```bash
-yarn add vuepress-plugin-right-anchor -D
+yarn add -D vuepress-plugin-right-anchor@next
 # or
-npm i vuepress-plugin-right-anchor -D
+npm i -D vuepress-plugin-right-anchor@next
 ```
 
 
@@ -81,17 +81,27 @@ module.exports = {
 
 
 ## Style
-Add in `.vuepress/styles/palette.styl`
+Add in `.vuepress/styles/index.scss`
 
-```stylus
-$rightAnchorBgColor = #fff;
-$rightAnchorTextColor = $textColor;
-$rightAnchorFontSize = 14px;
-// btn
-$rightAnchorBtnTextColor = $rightAnchorTextColor;
-$rightAnchorBtnBgColor = $rightAnchorBgColor;
-// menu
-$rightAnchorMenuTextColor = $rightAnchorTextColor;
+```css
+.right-anchor {
+  --rightAnchorTextColor: red;
+  --rightAnchorFontSize: 12px;
+  /* Btn */
+  --rightAnchorBtnTextColor: var(--rightAnchorTextColor);
+  /* Menu */
+  --rightAnchorMenuTextColor: var(--rightAnchorTextColor);
+}
+
+/* dark theme */
+.dark .right-anchor {
+  --rightAnchorTextColor: yellow;
+  --rightAnchorFontSize: 16px;
+  /* Btn */
+  --rightAnchorBtnTextColor: var(--rightAnchorTextColor);
+  /* Menu */
+  --rightAnchorMenuTextColor: var(--rightAnchorTextColor);
+}
 ```
 
 
@@ -116,7 +126,6 @@ module.exports = {
           clickModeDefaultOpen: true
         },
         customClass: 'your-customClass',
-        disableGlobalUI: false,
       }
     ]
   ]
@@ -126,8 +135,6 @@ module.exports = {
 ## Param description
 
 ### showDepth
-
-  !!! `showLevel` is abandoned in `0.3.x`.
 
   Which level of title will be used in the right anchor display.
   The pointing meaning of the value is the same as [themeconfig.sidebardepth](https://vuepress.vuejs.org/zh/theme/default-theme-config.html#%E4%BE%A7%E8%BE%B9%E6%A0%8F).
@@ -164,22 +171,6 @@ module.exports = {
   - Type: null | string
   - Default: null
 
-### disableGlobalUI
-
-  Disable globalUIComponent in every page.
-
-  - Type: boolean
-  - Default: false
-
-  If you want disable globalUIComponent in specific page, try `frontmatter`
-
-  ```YAML
-  ---
-  rightAnchor:
-    disableGlobalUI: true
-  ---
-  ```
-
 ## Page Config
 
   Set `front-matter` by `vuepress` recommended method in `.md`.
@@ -192,7 +183,6 @@ module.exports = {
       trigger: hover
       clickModeDefaultOpen: true
     customClass: your-customClass
-    disableGlobalUI: false
   ---
   ```
 

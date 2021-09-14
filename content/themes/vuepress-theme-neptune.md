@@ -24,7 +24,7 @@ publisher:
   url: null
   username: skingwang
 repository: https://github.com/tookit/vuepress-theme-neptune
-score: 0.47297204980614993
+score: 0.4729718920776395
 stars: 0
 unstable: false
 version: 1.1.4

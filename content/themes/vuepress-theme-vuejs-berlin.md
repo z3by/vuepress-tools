@@ -24,7 +24,7 @@ publisher:
   url: null
   username: koehr
 repository: https://github.com/nkoehring/vuepress-theme-vuejs-berlin
-score: 0.2828722050120449
+score: 0.2828680232309394
 stars: 0
 unstable: true
 version: 0.1.2

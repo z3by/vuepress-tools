@@ -24,7 +24,7 @@ publisher:
   url: null
   username: qishaoxuan
 repository: https://github.com/QiShaoXuan/vuepress-plugin-cat
-score: 0.22878148052186278
+score: 0.22877683256828577
 stars: 147
 unstable: false
 version: 1.0.3

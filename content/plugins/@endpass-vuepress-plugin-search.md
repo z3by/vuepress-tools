@@ -28,7 +28,7 @@ publisher:
   url: null
   username: lamartire
 repository: https://github.com/endpass/vuepress-plugin-search
-score: 0.44444734138454256
+score: 0.44448645368173306
 stars: 0
 unstable: false
 version: 1.0.0

@@ -24,7 +24,7 @@ publisher:
   url: null
   username: kawarimidoll
 repository: https://github.com/kawarimidoll/vuepress-theme-blog-kawarimidoll
-score: 0.47248644222020186
+score: 0.47248292813757997
 stars: 0
 unstable: true
 version: 0.0.5

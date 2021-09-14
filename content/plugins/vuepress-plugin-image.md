@@ -26,7 +26,7 @@ publisher:
   url: null
   username: tangxiaomi
 repository: https://github.com/im/vuepress-plugin-image
-score: 0.29910841724789533
+score: 0.2991510667697377
 stars: 4
 unstable: false
 version: 1.0.4

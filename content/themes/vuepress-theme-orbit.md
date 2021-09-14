@@ -30,7 +30,7 @@ publisher:
   url: null
   username: photoadrian
 repository: https://github.com/adrianhall/vuepress-theme-orbit
-score: 0.3686745022556369
+score: 0.3686998451787543
 stars: 0
 unstable: false
 version: 1.1.1

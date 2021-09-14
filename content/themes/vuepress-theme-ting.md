@@ -29,7 +29,7 @@ publisher:
   url: null
   username: chenyating
 repository: https://github.com/Chenyating/vuepress-theme-ting
-score: 0.5001554462865088
+score: 0.500171676012088
 stars: 0
 unstable: false
 version: 2.0.2

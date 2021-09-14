@@ -31,7 +31,7 @@ publisher:
   url: null
   username: john60676
 repository: https://github.com/John60676/vuepress-plugin-google-adsense2
-score: 0.5252456901117306
+score: 0.525243496988836
 stars: 3
 unstable: false
 version: 1.0.2

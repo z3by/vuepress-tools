@@ -34,7 +34,7 @@ publisher:
   url: null
   username: moecopilot
 repository: https://github.com/PentaTea/B-Tree.studio
-score: 0.1773636298404358
+score: 0.17735581661614447
 stars: 20
 unstable: false
 version: 3.7.6

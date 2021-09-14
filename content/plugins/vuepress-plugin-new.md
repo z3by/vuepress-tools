@@ -28,7 +28,7 @@ publisher:
   url: null
   username: baof
 repository: https://github.com/x-bao/vuepress-plugin-new
-score: 0.23057019535230472
+score: 0.2305815108522458
 stars: 1
 unstable: true
 version: 0.1.6

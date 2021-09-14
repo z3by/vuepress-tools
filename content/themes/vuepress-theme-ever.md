@@ -29,7 +29,7 @@ publisher:
   url: null
   username: xunzhaotech
 repository: https://github.com/vuejs/vuepress
-score: 0.14669962203511738
+score: 0.14669848653606643
 stars: 0
 unstable: true
 version: 0.0.1

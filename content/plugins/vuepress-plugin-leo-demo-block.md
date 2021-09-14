@@ -26,7 +26,7 @@ publisher:
   url: null
   username: springleo
 repository: https://github.com/lq782655835/vuepress-plugin-demo-block
-score: 0.3626857370634119
+score: 0.3627034622808333
 stars: 4
 unstable: true
 version: 0.1.1

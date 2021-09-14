@@ -24,7 +24,7 @@ publisher:
   url: null
   username: mlnmln
 repository: https://github.com/factorial-io/vuepress-theme
-score: 0.20142953313810097
+score: 0.2014452062354388
 stars: 0
 unstable: true
 version: 1.0.0-alpha.1

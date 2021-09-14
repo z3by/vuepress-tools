@@ -24,7 +24,7 @@ publisher:
   url: null
   username: ulivz
 repository: https://github.com/ulivz/vuepress-plugin-check-md
-score: 0.2869147509477434
+score: 0.286903893679904
 stars: 25
 unstable: true
 version: 0.0.2

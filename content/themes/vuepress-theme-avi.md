@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/3624059?v=4
+  avatar: null
   email: null
   name: null
   url: null
-  username: avimehenwal
+  username: null
 bugs: https://github.com/avimehenwal/vuepress-theme-avi/issues
 category: theme
 date: '2020-09-05T14:02:29.768Z'
@@ -21,7 +21,7 @@ keywords:
 - theme
 - blog
 - theme-default
-license: GNU General Public License v3.0
+license: null
 maintainers: null
 name: vuepress-theme-avi
 npm: https://www.npmjs.com/package/vuepress-theme-avi
@@ -32,7 +32,7 @@ publisher:
   url: null
   username: avimehenwal
 repository: https://github.com/avimehenwal/vuepress-theme-avi
-score: 0.5544577281531653
+score: 0.5544996428431732
 stars: 0
 unstable: false
 version: 1.0.3

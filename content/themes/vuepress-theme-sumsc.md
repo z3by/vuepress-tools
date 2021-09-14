@@ -27,7 +27,7 @@ publisher:
   url: null
   username: wzhzzmzzy
 repository: https://github.com/sumsc/vuepress-theme-reco
-score: 0.03277506579844419
+score: 0.03277167045100838
 stars: 0
 unstable: true
 version: 0.0.1

@@ -27,7 +27,7 @@ publisher:
   url: null
   username: bestony
 repository: https://github.com/bestony/vuepress-plugin-cleanmylink
-score: 0.562577762162116
+score: 0.5625770467112052
 stars: 1
 unstable: false
 version: 1.0.1

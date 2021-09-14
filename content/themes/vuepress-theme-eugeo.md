@@ -26,7 +26,7 @@ publisher:
   url: null
   username: coolyang
 repository: https://github.com/Coolyang1996/vuepress-theme-eugeo
-score: 0.36300353147114917
+score: 0.3630038649934748
 stars: 0
 unstable: true
 version: 0.0.12

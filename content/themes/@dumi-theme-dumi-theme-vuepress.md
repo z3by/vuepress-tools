@@ -29,7 +29,7 @@ publisher:
   url: null
   username: orekish
 repository: https://github.com/OrekiSH/dumi-theme
-score: 0.30926670734338413
+score: 0.30926453038392565
 stars: 0
 unstable: true
 version: 0.1.0

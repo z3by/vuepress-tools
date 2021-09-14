@@ -29,7 +29,7 @@ publisher:
   url: null
   username: momoko
 repository: https://github.com/wannaxiao/vuepress-theme-resume
-score: 0.43468230474120223
+score: 0.4347109718836907
 stars: 0
 unstable: false
 version: 1.0.1

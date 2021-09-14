@@ -24,7 +24,7 @@ publisher:
   url: null
   username: daylily
 repository: https://github.com/re-xyr/vuepress-theme-chronicle
-score: 0.5009110765961793
+score: 0.5009050365393884
 stars: 0
 unstable: false
 version: 1.0.1

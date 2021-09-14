@@ -27,7 +27,7 @@ publisher:
   url: null
   username: upcwangying
 repository: https://github.com/upcwangying/vuepress-plugin-dplayer
-score: 0.5496214674718152
+score: 0.5496184113940223
 stars: 0
 unstable: false
 version: 1.0.0
