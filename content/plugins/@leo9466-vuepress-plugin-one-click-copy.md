@@ -13,7 +13,7 @@ description: '> TODO: description'
 downloads: null
 homepage: https://github.com/leo94666/leo94666.github.io#readme
 keywords: null
-license: MIT License
+license: false
 maintainers: null
 name: '@leo9466/vuepress-plugin-one-click-copy'
 npm: https://www.npmjs.com/package/%40leo9466%2Fvuepress-plugin-one-click-copy
@@ -24,7 +24,7 @@ publisher:
   url: null
   username: leo946666
 repository: https://github.com/leo94666/leo94666.github.io
-score: 0.5813968645159278
+score: 0.5813970214169955
 stars: 0
 unstable: false
 version: 1.0.1-alpha.3
@@ -32,4 +32,3 @@ watchers: 0
 
 ---
 
-# leo

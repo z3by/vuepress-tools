@@ -24,7 +24,7 @@ publisher:
   url: null
   username: heskeybaozi
 repository: https://github.com/HeskeyBaozi/vuepress-theme-lite
-score: 0.31620136347298144
+score: 0.3161961104717864
 stars: 0
 unstable: false
 version: 1.0.0

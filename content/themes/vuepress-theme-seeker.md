@@ -29,7 +29,7 @@ publisher:
   url: null
   username: wensonsmith
 repository: https://github.com/wensonsmith/vuepress-theme-seeker
-score: 0.26375988456926414
+score: 0.2637421376938218
 stars: 0
 unstable: false
 version: 1.0.9

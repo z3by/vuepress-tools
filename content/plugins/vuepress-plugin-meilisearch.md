@@ -24,7 +24,7 @@ publisher:
   url: null
   username: meili-bot
 repository: https://github.com/meilisearch/vuepress-plugin-meilisearch
-score: 0.6315090325173535
+score: 0.6315047402928453
 stars: 32
 unstable: true
 version: 0.11.2
@@ -173,7 +173,7 @@ You can also find an example in our [playground's `palette.styl` file](./playgro
 
 ## Compatibility with MeiliSearch
 
-This package only guarantees the compatibility with the [version v0.21.0 of MeiliSearch](https://github.com/meilisearch/MeiliSearch/releases/tag/v0.21.0).
+This package only guarantees the compatibility with the [version v0.22.0 of MeiliSearch](https://github.com/meilisearch/MeiliSearch/releases/tag/v0.22.0).
 
 ## Development Workflow and Contributing
 

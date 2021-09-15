@@ -24,7 +24,7 @@ publisher:
   url: null
   username: yemuguliunian
 repository: https://github.com/yemuguliunian/vuepress-plugin-interactive-js
-score: 0.43109179868310615
+score: 0.4310850472610894
 stars: 0
 unstable: false
 version: 1.0.0

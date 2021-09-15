@@ -25,7 +25,7 @@ publisher:
   url: null
   username: zolyn
 repository: https://github.com/Zolyn/vuepress-plugin-rightmenu
-score: 0.5932955924704101
+score: 0.5932948897329005
 stars: 1
 unstable: false
 version: 1.1.0

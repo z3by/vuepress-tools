@@ -7,7 +7,7 @@ author:
   username: null
 bugs: https://github.com/qsyyke/vuepress-theme-ccds/issues
 category: theme
-date: '2021-09-13T01:58:56.058Z'
+date: '2021-09-14T12:05:03.081Z'
 deprecated: false
 description: "This is an anime blog theme based on vuepress, the theme is simple,\
   \ colorful, versatile, and supports customization, providing multiple components\
@@ -39,10 +39,10 @@ publisher:
   url: null
   username: qsyyke
 repository: https://github.com/qsyyke/vuepress-theme-ccds
-score: 0.21932108065285827
+score: 0.21968499601816394
 stars: 0
 unstable: false
-version: 1.2.2
+version: 1.2.3
 watchers: 0
 
 ---

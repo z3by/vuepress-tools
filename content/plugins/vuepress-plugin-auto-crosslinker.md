@@ -29,7 +29,7 @@ publisher:
   url: null
   username: tg44
 repository: https://github.com/tg44/vuepress-plugin-auto-crosslinker
-score: 0.4888458730611665
+score: 0.48882508453266044
 stars: 0
 unstable: false
 version: 1.0.1

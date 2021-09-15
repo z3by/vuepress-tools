@@ -30,7 +30,7 @@ publisher:
   url: null
   username: tolking
 repository: https://github.com/tolking/vuepress-theme-default-prefers-color-scheme
-score: 0.5215233019376481
+score: 0.5215088658237732
 stars: 0
 unstable: false
 version: 2.0.0

@@ -28,7 +28,7 @@ publisher:
   url: null
   username: ianwalter
 repository: https://github.com/ianwalter/vuepress-theme-brooks
-score: 0.34224315929487736
+score: 0.34221071670313885
 stars: 0
 unstable: false
 version: 1.2.0

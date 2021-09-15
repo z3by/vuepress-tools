@@ -24,7 +24,7 @@ publisher:
   url: null
   username: bencodezen
 repository: https://github.com/bencodezen/vuepress-plugin-janitor
-score: 0.14901829354340657
+score: 0.14901436244191055
 stars: 1
 unstable: false
 version: 1.0.0

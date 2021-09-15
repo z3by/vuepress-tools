@@ -28,7 +28,7 @@ publisher:
   url: null
   username: upcwangying
 repository: https://github.com/pangoo-design/pangoo-design
-score: 0.2897457546278663
+score: 0.2897349416062435
 stars: 0
 unstable: true
 version: 0.0.2

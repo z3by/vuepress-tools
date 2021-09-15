@@ -28,7 +28,7 @@ publisher:
   url: null
   username: lucienzhangzl
 repository: https://github.com/Snippetors/snippets
-score: 0.5853229326180974
+score: 0.5853215544687342
 stars: 3
 unstable: false
 version: 1.0.5
@@ -37,14 +37,12 @@ watchers: 3
 ---
 
 # snippets
-Code snippets, copy &amp; run
+code snippets, copy &amp; run
 
-## 如何测试
+## 插件
 
-```bash
-git clone git@github.com:Snippetors/snippets.git
-cd snippets
-docker build -t snippets .
-docker run -it -p 8080:80 snippets
-```
-打开浏览器，访问 http://localhost:8080/
+- [@snippetors/vuepress-plugin-tabs](packages/@snippetors/vuepress-plugin-tabs)
+
+## 如何贡献代码
+
+- [贡献指南](docs/contributing.md)

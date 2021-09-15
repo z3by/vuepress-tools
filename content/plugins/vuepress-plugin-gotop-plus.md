@@ -31,11 +31,11 @@ publisher:
   url: null
   username: zhousiwei
 repository: https://github.com/JoeyBling/vuepress-plugin-gotop-plus
-score: 0.2912038414360048
-stars: 5
+score: 0.29119064388894117
+stars: 4
 unstable: false
 version: 1.0.4
-watchers: 5
+watchers: 4
 
 ---
 

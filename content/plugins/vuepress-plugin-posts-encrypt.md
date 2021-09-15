@@ -7,9 +7,9 @@ author:
   username: alphawq
 bugs: https://github.com/alphawq/vuepress-plugin-posts-encrypt/issues
 category: plugin
-date: '2021-09-13T02:07:23.861Z'
+date: '2021-09-14T08:33:17.752Z'
 deprecated: false
-description: '> **A vuepress plugin for encrypting your posts**'
+description: "English | [\u7B80\u4F53\u4E2D\u6587](./README.zh-cn.md)"
 downloads: null
 homepage: https://github.com/alphawq/vuepress-plugin-posts-encrypt#readme
 keywords:
@@ -30,11 +30,11 @@ publisher:
   url: null
   username: alphawq
 repository: https://github.com/alphawq/vuepress-plugin-posts-encrypt
-score: 0.36465974226710396
-stars: 7
+score: 0.49883317002082794
+stars: 8
 unstable: true
-version: 0.0.1
-watchers: 7
+version: 0.0.2
+watchers: 8
 
 ---
 
@@ -42,10 +42,10 @@ English | [简体中文](./README.zh-cn.md)
 
 # `vuepress-plugin-posts-encrypt`
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/w/alphawq/vuepress-plugin-posts-encrypt)
-![](https://img.shields.io/npm/l/vuepress-plugin-posts-encrypt?style=flat-square)
-![npm type definitions](https://img.shields.io/npm/types/typescript?style=flat-square)
-![](https://img.shields.io/badge/blog-@alphawq-blue.svg?style=social)
+![npm (tag)](https://img.shields.io/npm/v/vuepress-plugin-posts-encrypt/latest?style=flat-square&color=blue)
+![License](https://img.shields.io/npm/l/vuepress-plugin-posts-encrypt?style=flat-square&color=red&label=License)
+![npm downloads](https://img.shields.io/npm/dt/vuepress-plugin-posts-encrypt?style=flat-square&label=Downloads)
+[![Blog](https://img.shields.io/badge/blog-@alphawq-blue.svg?style=social)](https://alphawq.github.io/_blog/)
 
 > **A `vuepress plugin` to add `access verification` to your blog.**
 
@@ -54,11 +54,12 @@ English | [简体中文](./README.zh-cn.md)
 ```sh
 yarn add vuepress-plugin-posts-encrypt
 ```
+
 ## Usage
 
-###  Step 1: Init configuration in vuepress config file
+### Step 1: Init configuration in vuepress config file
 
-``` js
+```js
 // .vuepress/config.js
 module.exports = {
 
@@ -75,11 +76,12 @@ module.exports = {
     ]
 }
 ```
+
 👇[All configuration items](#Configs) can be seen at `Configs` part👇
 
 ### Step 2: Configure the posts that need to be encrypted access in the blog
 
-- Set `secret: true` in the article [Front Matter](https://vuepress.vuejs.org/zh/guide/frontmatter.html#%E5%85%B6%E4%BB%96%E6%A0%BC%E5%BC%8F%E7%9A%84-front-matter) 
+- Set `secret: true` in the article [Front Matter](https://vuepress.vuejs.org/zh/guide/frontmatter.html#%E5%85%B6%E4%BB%96%E6%A0%BC%E5%BC%8F%E7%9A%84-front-matter)
 
 ```yml
 ---
@@ -112,12 +114,12 @@ passwd: 1233211234567
 
 ### Step3: Run it & See the effect
 
-*BTW*: **Under dev mode `encryptInDev: true` also needs to be configured**
+_BTW_: **Under dev mode `encryptInDev: true` also needs to be configured**
 
 Execute the following command to start the development service
 
 ```sh
-vuepress dev docs 
+vuepress dev docs
 ```
 
 Click to enter a page that needs to verify the password, you can see the following effects:
@@ -128,27 +130,30 @@ Click to enter a page that needs to verify the password, you can see the followi
 
 ### Support custom templates
 
-In the custom template scenario, the plugin needs to inject some logic into your template file, such as `the logic related to password verification`. So you need to provide a mark to inject this part of the code in the template. 
+In the custom template scenario, the plugin needs to inject some logic into your template file, such as `the logic related to password verification`. So you need to provide a mark to inject this part of the code in the template.
 
 The following marks except `<%crypto_inject_tag%>` & `<%validate_js_tag%>` are required, the others are optional. You are free to choose:
 
-*BTW*: **The following marks are inserted into the template from top to bottom, so you need to pay attention to the writing position of the mark**
+_BTW_: **The following marks are inserted into the template from top to bottom, so you need to pay attention to the writing position of the mark**
 
 The position markers for content injection in the template include the following
 
 #### `<%iview_css_tag%>` [`Optional`]
 
-> [`iView`](https://www.iviewui.com/docs/introduce) Component library's CSS injection location mark. 
+> [`iView`](https://www.iviewui.com/docs/introduce) Component library's CSS injection location mark.
+
 - Need to set `iview: true` in the `injectConfig` configuration
 
 #### `<%animate_css_tag%>` [`Optional`]
 
 > [`Animate.css`](https://animate.style/) injection location mark.
+
 - Need to set `animate: true` in the `injectConfig` configuration
 
-#### `<%iview_js_tag%>`  [`Optional`]
+#### `<%iview_js_tag%>` [`Optional`]
 
 > [`iView`](https://www.iviewui.com/docs/introduce) Component library's JS injection location mark.
+
 - Need to set `iview: true` in the `injectConfig` configuration
 
 #### `<%minified_css_tag%>` [`Optional`]
@@ -157,12 +162,13 @@ The position markers for content injection in the template include the following
 
 - If you don't want to write `css` in the template, this configuration allows you to separate the style files that need to be used in the template into the `less` file. The plugin will help you `compile and insert` to the corresponding location. You only need Specify the absolute path of the style file in the `less` setting of `injectConfig`
 
-
 #### `<%crypto_inject_tag%>` [`Required`]
+
 - [`CryptoJS`](https://github.com/brix/crypto-js) Script file insertion position
 
 #### `<%validate_js_tag%>` [`Required`]
->  **Password verification** and **Verified routing storage** injection location mark of related logic
+
+> **Password verification** and **Verified routing storage** injection location mark of related logic
 
 ### Support setting password expiration time
 
@@ -170,7 +176,7 @@ By default, if the verified route is on the same device and the same browser and
 
 If you don't want this, you can set `expires` for the password, the unit is `milliseconds (ms)`. This expiration time is for each route, not all routes.
 
-*BTW*: **Do not set the expiration time too short, otherwise it may cause an endless loop of routing**
+_BTW_: **Do not set the expiration time too short, otherwise it may cause an endless loop of routing**
 
 ### The following are all supported configuration options：
 
@@ -199,7 +205,7 @@ interface Options {
   injectConfig?: InjectConfig
 }
 
-// The default options 
+// The default options
 const options: Options = {
   route: '/auth',
   passwd: 'hello world',
@@ -213,8 +219,12 @@ const options: Options = {
   }
 }
 ```
+
 👏👏 **One key triple connection** 👏👏
 
+## Changelog
+
+[CHANGELOG.md](./CHANGELOG.md)
 ## License
 
 **[MIT](./LICENSE)**

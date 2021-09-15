@@ -29,7 +29,7 @@ publisher:
   url: null
   username: spekulatius
 repository: https://github.com/spekulatius/vuepress-plugin-web-monetization
-score: 0.37962511835750834
+score: 0.37960303440286625
 stars: 9
 unstable: true
 version: 0.0.2

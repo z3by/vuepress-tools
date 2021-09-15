@@ -29,7 +29,7 @@ publisher:
   url: null
   username: igby
 repository: https://github.com/andreasvirkus/vuepress-theme-ajv
-score: 0.33767969135269915
+score: 0.3376754599979269
 stars: 0
 unstable: false
 version: 1.0.2

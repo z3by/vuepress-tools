@@ -13,7 +13,7 @@ description: '> TODO: description'
 downloads: null
 homepage: https://github.com/leo94666/leo94666.github.io#readme
 keywords: null
-license: MIT License
+license: false
 maintainers: null
 name: vuepress-plugin-markdown-it-advance
 npm: https://www.npmjs.com/package/vuepress-plugin-markdown-it-advance
@@ -24,7 +24,7 @@ publisher:
   url: null
   username: leo946666
 repository: https://github.com/leo94666/leo94666.github.io
-score: 0.4861844533572923
+score: 0.48618513513246575
 stars: 0
 unstable: true
 version: 0.0.1-alpha.1
@@ -32,4 +32,3 @@ watchers: 0
 
 ---
 
-# leo

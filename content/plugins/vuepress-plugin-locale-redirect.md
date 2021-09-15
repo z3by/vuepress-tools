@@ -30,7 +30,7 @@ publisher:
   url: null
   username: sloaix
 repository: https://github.com/Sloaix/vuepress-plugin-locale-redirect
-score: 0.509304898605926
+score: 0.5092974191246663
 stars: 1
 unstable: false
 version: 1.0.1

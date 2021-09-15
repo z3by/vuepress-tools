@@ -27,7 +27,7 @@ publisher:
   url: null
   username: saweima12
 repository: https://github.com/saweima12/vuepress-theme-saweicore
-score: 0.4445674325052669
+score: 0.4445470676666776
 stars: 0
 unstable: true
 version: 0.2.8

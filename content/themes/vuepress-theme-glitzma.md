@@ -27,7 +27,7 @@ publisher:
   url: null
   username: glittering
 repository: https://github.com/glitzma/vuepress-theme-glitzma
-score: 0.40606046541980656
+score: 0.40603820777571586
 stars: 0
 unstable: false
 version: 1.8.0-alpha.1

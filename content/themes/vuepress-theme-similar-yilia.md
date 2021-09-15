@@ -28,7 +28,7 @@ publisher:
   url: null
   username: z9240
 repository: https://github.com/9240/vuepress-theme-similar-yilia
-score: 0.3576251033411018
+score: 0.35760682900873964
 stars: 0
 unstable: false
 version: 1.1.4

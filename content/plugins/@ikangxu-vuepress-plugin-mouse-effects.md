@@ -27,7 +27,7 @@ publisher:
   url: null
   username: kangxu
 repository: https://github.com/IKangXu/vuepress-plugin-mouse-effects
-score: 0.052684915589153836
+score: 0.05268022000677444
 stars: 0
 unstable: true
 version: 0.0.3

@@ -29,7 +29,7 @@ publisher:
   url: null
   username: vxhly
 repository: https://github.com/vxhly/vuepress-plugin-reward
-score: 0.39075253907514906
+score: 0.3907422761745988
 stars: 1
 unstable: false
 version: 1.0.2

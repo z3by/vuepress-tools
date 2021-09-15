@@ -29,7 +29,7 @@ publisher:
   url: null
   username: ntnyq
 repository: https://github.com/ntnyq/vuepress-plugin-svg-icons
-score: 0.603360707269406
+score: 0.6033430112418506
 stars: 14
 unstable: false
 version: 4.2.3

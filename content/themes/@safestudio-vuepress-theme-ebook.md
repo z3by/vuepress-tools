@@ -28,7 +28,7 @@ publisher:
   url: null
   username: ansidev
 repository: https://github.com/SafeStudio/vuepress-theme-ebook
-score: 0.1614661922507307
+score: 0.16146023021558087
 stars: 0
 unstable: false
 version: 1.0.2

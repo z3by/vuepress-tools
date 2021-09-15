@@ -26,7 +26,7 @@ publisher:
   url: null
   username: ekoeryanto
 repository: https://github.com/ekoeryanto/vuepress-theme-bootstrap
-score: 0.2859124587656564
+score: 0.2859073239707733
 stars: 0
 unstable: true
 version: 0.0.0-1

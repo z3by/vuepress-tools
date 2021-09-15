@@ -36,7 +36,7 @@ publisher:
   url: null
   username: webmasterish
 repository: https://github.com/webmasterish/vuepress-plugin-feed
-score: 0.387053756730334
+score: 0.3870171837643953
 stars: 42
 unstable: true
 version: 0.1.9

@@ -24,7 +24,7 @@ publisher:
   url: null
   username: stefanbc
 repository: https://github.com/stefanbc/vuepress-theme-asgar
-score: 0.4691856636628551
+score: 0.4691823454540382
 stars: 0
 unstable: true
 version: 0.1.0

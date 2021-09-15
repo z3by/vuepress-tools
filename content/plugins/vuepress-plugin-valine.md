@@ -30,7 +30,7 @@ publisher:
   url: null
   username: artiely
 repository: https://github.com/artiely/vuepress-plugin-valine
-score: 0.38535021212037013
+score: 0.3853325845768878
 stars: 0
 unstable: true
 version: 0.3.4

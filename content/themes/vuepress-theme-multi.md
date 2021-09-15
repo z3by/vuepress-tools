@@ -24,7 +24,7 @@ publisher:
   url: null
   username: dmate
 repository: https://github.com/cfharyadi/vuepress-theme-multi
-score: 0.2825219939725276
+score: 0.2825149039934899
 stars: 0
 unstable: false
 version: 1.0.6

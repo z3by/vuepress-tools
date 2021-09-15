@@ -24,7 +24,7 @@ publisher:
   url: null
   username: alexander-heimbuch
 repository: https://github.com/alexander-heimbuch/vuepress-theme-millidocs
-score: 0.2921449584159116
+score: 0.29214128410187007
 stars: 0
 unstable: true
 version: 0.5.4

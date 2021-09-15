@@ -24,7 +24,7 @@ publisher:
   url: null
   username: rikumi
 repository: https://github.com/rikumi/vuepress-theme-journal
-score: 0.4551048891616247
+score: 0.4550844710917471
 stars: 0
 unstable: false
 version: 2.2.2

@@ -26,7 +26,7 @@ publisher:
   url: null
   username: wangjia_1919
 repository: https://github.com/nine-theme/vuepress-plugin-fontawesome
-score: 0.43534400672540946
+score: 0.4353252160740335
 stars: 1
 unstable: true
 version: 0.0.2

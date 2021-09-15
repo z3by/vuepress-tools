@@ -28,7 +28,7 @@ publisher:
   url: null
   username: dongyang_liu
 repository: https://github.com/gitldy1013/vuepress-theme-ldy
-score: 0.43036225335314415
+score: 0.4303427956234084
 stars: 0
 unstable: false
 version: 1.4.0

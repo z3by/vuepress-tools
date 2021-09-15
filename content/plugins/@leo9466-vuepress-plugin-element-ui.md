@@ -13,7 +13,7 @@ description: '> TODO: description'
 downloads: null
 homepage: https://github.com/leo94666/leo94666.github.io#readme
 keywords: null
-license: MIT License
+license: false
 maintainers: null
 name: '@leo9466/vuepress-plugin-element-ui'
 npm: https://www.npmjs.com/package/%40leo9466%2Fvuepress-plugin-element-ui
@@ -24,7 +24,7 @@ publisher:
   url: null
   username: leo946666
 repository: https://github.com/leo94666/leo94666.github.io
-score: 0.5794803890035257
+score: 0.5794808201238209
 stars: 0
 unstable: false
 version: 1.0.1-alpha.0
@@ -32,4 +32,3 @@ watchers: 0
 
 ---
 
-# leo
