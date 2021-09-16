@@ -29,7 +29,7 @@ publisher:
   url: null
   username: godbmw
 repository: https://github.com/dongyuanxin/vuepress-plugin-viewer
-score: 0.53546591747802
+score: 0.5354682342543077
 stars: 0
 unstable: false
 version: 1.0.0

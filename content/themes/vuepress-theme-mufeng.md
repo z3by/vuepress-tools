@@ -27,7 +27,7 @@ publisher:
   url: null
   username: zhangximufeng
 repository: https://github.com/zhangximufeng/vuepress-theme-mufeng
-score: 0.3408336343817539
+score: 0.3408522630058557
 stars: 0
 unstable: false
 version: 2.4.5

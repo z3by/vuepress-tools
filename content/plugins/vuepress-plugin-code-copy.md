@@ -30,11 +30,11 @@ publisher:
   url: null
   username: znicholasbrown
 repository: https://github.com/znicholasbrown/vuepress-plugin-code-copy
-score: 0.31407586714027186
-stars: 47
+score: 0.3140808992116352
+stars: 48
 unstable: false
 version: 1.0.6
-watchers: 47
+watchers: 48
 
 ---
 

@@ -7,16 +7,14 @@ author:
   username: alphawq
 bugs: https://github.com/alphawq/vuepress-plugin-posts-encrypt/issues
 category: plugin
-date: '2021-09-14T08:33:17.752Z'
+date: '2021-09-15T03:55:28.254Z'
 deprecated: false
 description: "English | [\u7B80\u4F53\u4E2D\u6587](./README.zh-cn.md)"
 downloads: null
 homepage: https://github.com/alphawq/vuepress-plugin-posts-encrypt#readme
 keywords:
-- vue
-- plugin
-- encrypt
-- vuepress
+- vuepress-plugin
+- posts-encrypt
 - vuepress-plugin
 - vuepress-plugin-posts-encrypt
 license: MIT License
@@ -30,10 +28,10 @@ publisher:
   url: null
   username: alphawq
 repository: https://github.com/alphawq/vuepress-plugin-posts-encrypt
-score: 0.49883317002082794
+score: 0.5464214223329903
 stars: 8
 unstable: true
-version: 0.0.2
+version: 0.0.3
 watchers: 8
 
 ---

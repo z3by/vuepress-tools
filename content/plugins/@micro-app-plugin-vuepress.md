@@ -30,7 +30,7 @@ publisher:
   url: null
   username: zyao89
 repository: https://github.com/MicroAppJS/plugin-vuepress
-score: 0.5734212046831995
+score: 0.5734348469350414
 stars: 0
 unstable: true
 version: 0.3.2
@@ -40,7 +40,7 @@ watchers: 0
 
 # Micro APP Plugin - VuePress
 
-[Plugin] adapter vuepress plugin.
+[Plugin] adapter vuepress plugin & theme.
 
 适配集成 vuepress 配置. 用于 `@micro-app/cli` 的插件.
 

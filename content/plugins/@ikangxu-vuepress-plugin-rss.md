@@ -26,7 +26,7 @@ publisher:
   url: null
   username: kangxu
 repository: https://github.com/IKangXu/vuepress-plugin-rss
-score: 0.3080198483836324
+score: 0.30804124920487
 stars: 0
 unstable: true
 version: 0.0.4

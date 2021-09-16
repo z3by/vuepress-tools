@@ -24,7 +24,7 @@ publisher:
   url: null
   username: '2020807070'
 repository: https://github.com/2020807070/vuepress-theme-sky
-score: 0.343309559181582
+score: 0.3433074370102021
 stars: 0
 unstable: false
 version: 1.0.3

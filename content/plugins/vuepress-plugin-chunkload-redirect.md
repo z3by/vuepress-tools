@@ -26,7 +26,7 @@ publisher:
   url: null
   username: cwaring
 repository: https://github.com/cwaring/vuepress-plugin-chunkload-redirect
-score: 0.5148730848954542
+score: 0.5148755416160444
 stars: 1
 unstable: false
 version: 1.0.3

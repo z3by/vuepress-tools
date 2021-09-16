@@ -28,7 +28,7 @@ publisher:
   url: null
   username: fischermaen
 repository: https://github.com/Fischermaen/vuepress-plugin-contributors
-score: 0.4062428324774444
+score: 0.40625386229100224
 stars: 1
 unstable: false
 version: 1.4.0

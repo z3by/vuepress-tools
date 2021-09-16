@@ -28,7 +28,7 @@ publisher:
   url: null
   username: ansidev
 repository: https://github.com/SafeStudio/vuepress-plugin-enhanced-search
-score: 0.14237098456363304
+score: 0.14237896672075784
 stars: 0
 unstable: true
 version: 0.0.1

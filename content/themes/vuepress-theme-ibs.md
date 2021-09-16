@@ -24,7 +24,7 @@ publisher:
   url: null
   username: felikx
 repository: https://github.com/pixelandtonic/vuepress-theme-craftdocs
-score: 0.07556746307575167
+score: 0.07558192196499168
 stars: 0
 unstable: false
 version: 2.0.2

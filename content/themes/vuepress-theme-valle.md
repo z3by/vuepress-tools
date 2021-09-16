@@ -28,7 +28,7 @@ publisher:
   url: null
   username: yliah
 repository: https://github.com/yliaho/vuepress-theme-valle
-score: 0.30843316094161877
+score: 0.30916333705577054
 stars: 0
 unstable: true
 version: 0.1.5

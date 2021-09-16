@@ -26,7 +26,7 @@ publisher:
   url: null
   username: thangved
 repository: https://github.com/thangved/wibu-2dlive
-score: 0.5162946324782789
+score: 0.5162953117317055
 stars: 2
 unstable: false
 version: 1.1.12

@@ -30,7 +30,7 @@ publisher:
   url: null
   username: spekulatius
 repository: https://github.com/spekulatius/vuepress-plugin-adsense
-score: 0.3860838997050463
+score: 0.38611850754837396
 stars: 0
 unstable: true
 version: 0.0.3

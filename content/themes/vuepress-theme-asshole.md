@@ -26,7 +26,7 @@ publisher:
   url: null
   username: willin
 repository: https://github.com/assholev0/vuepress-theme-asshole
-score: 0.29345124573299874
+score: 0.29346449336403996
 stars: 0
 unstable: true
 version: 0.0.0-alpha0-20180918

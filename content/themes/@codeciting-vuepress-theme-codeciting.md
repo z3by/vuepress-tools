@@ -24,7 +24,7 @@ publisher:
   url: null
   username: codecitingci
 repository: https://github.com/codeciting/codeciting-vuepress-plugins
-score: 0.2913911223789767
+score: 0.29145993601412384
 stars: 0
 unstable: true
 version: 0.2.4

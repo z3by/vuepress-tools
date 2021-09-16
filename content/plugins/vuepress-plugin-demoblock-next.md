@@ -27,7 +27,7 @@ publisher:
   url: null
   username: cunzaizhuyi
 repository: https://github.com/xinlei3166/vuepress-plugin-demoblock-plus
-score: 0.07124243231253788
+score: 0.07125283043564662
 stars: 2
 unstable: false
 version: 1.0.6

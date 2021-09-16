@@ -24,7 +24,7 @@ publisher:
   url: null
   username: wemlion
 repository: https://github.com/AngusFu/vuepress-plugin-playground
-score: 0.3281803904646969
+score: 0.32822372922450055
 stars: 3
 unstable: false
 version: 2.0.0

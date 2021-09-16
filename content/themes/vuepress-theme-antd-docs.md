@@ -30,7 +30,7 @@ publisher:
   url: null
   username: konnga
 repository: https://github.com/konnga/vuepress-theme-antd-docs
-score: 0.25310097074269905
+score: 0.25316221952745044
 stars: 0
 unstable: true
 version: 0.0.11

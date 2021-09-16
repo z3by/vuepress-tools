@@ -27,11 +27,11 @@ publisher:
   url: null
   username: wtlong
 repository: https://github.com/wtlong/vuepress-click-copy
-score: 0.37303981978777573
-stars: 6
+score: 0.3730456809016577
+stars: 7
 unstable: false
 version: 1.0.4
-watchers: 6
+watchers: 7
 
 ---
 

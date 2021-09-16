@@ -24,7 +24,7 @@ publisher:
   url: null
   username: evaera
 repository: https://github.com/evaera/vuepress-plugin-api-docs
-score: 0.3117986406585175
+score: 0.3118193229643658
 stars: 9
 unstable: false
 version: 1.0.19

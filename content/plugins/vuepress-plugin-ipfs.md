@@ -27,7 +27,7 @@ publisher:
   url: null
   username: cwaring
 repository: https://github.com/cwaring/vuepress-plugin-ipfs
-score: 0.24954680684618094
+score: 0.24956406038075624
 stars: 11
 unstable: false
 version: 1.0.2

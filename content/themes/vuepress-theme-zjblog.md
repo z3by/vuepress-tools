@@ -27,7 +27,7 @@ publisher:
   url: null
   username: zhangjuntracy
 repository: https://github.com/ZjBlog/vuepress-theme-zjblog
-score: 0.32900722991681963
+score: 0.3290174061923581
 stars: 0
 unstable: false
 version: 1.5.4

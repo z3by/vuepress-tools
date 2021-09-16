@@ -24,7 +24,7 @@ publisher:
   url: null
   username: martondev
 repository: https://github.com/nestdotland/docs
-score: 0.07628982694341735
+score: 0.07630487706985102
 stars: 0
 unstable: false
 version: 1.0.0

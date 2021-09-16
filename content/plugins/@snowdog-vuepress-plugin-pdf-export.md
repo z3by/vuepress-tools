@@ -24,7 +24,7 @@ publisher:
   url: null
   username: igloczek
 repository: https://github.com/SnowdogApps/vuepress-plugin-pdf-export
-score: 0.3391032108672899
+score: 0.3391853373042273
 stars: 16
 unstable: false
 version: 1.1.0

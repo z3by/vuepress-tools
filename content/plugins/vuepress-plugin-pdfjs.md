@@ -29,7 +29,7 @@ publisher:
   url: null
   username: rebz
 repository: https://github.com/rebz/vuepress-plugin-pdfjs
-score: 0.2925906734592719
+score: 0.2926007331985704
 stars: 2
 unstable: true
 version: 0.0.1-beta.2
