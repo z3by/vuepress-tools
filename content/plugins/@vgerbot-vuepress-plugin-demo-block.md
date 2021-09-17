@@ -26,7 +26,7 @@ publisher:
   url: null
   username: y1j2x34
 repository: https://github.com/y1j2x34/vuepress-plugin-demo-block
-score: 0.435219571757401
+score: 0.4354295222409673
 stars: 0
 unstable: true
 version: 0.8.0-alpha5

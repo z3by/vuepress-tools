@@ -24,7 +24,7 @@ publisher:
   url: null
   username: makekr
 repository: https://github.com/mAKEkr/vuepress-theme-typewriter
-score: 0.4090517405355848
+score: 0.4093645114395268
 stars: 0
 unstable: false
 version: 1.0.1

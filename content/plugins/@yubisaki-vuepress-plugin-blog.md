@@ -26,7 +26,7 @@ publisher:
   url: null
   username: wuwaki
 repository: https://github.com/Yubisaki/vuepress-plugin-blog
-score: 0.33451763826796055
+score: 0.33457996963847936
 stars: 0
 unstable: true
 version: 0.1.8

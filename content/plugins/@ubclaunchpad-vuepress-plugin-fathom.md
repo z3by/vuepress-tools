@@ -24,7 +24,7 @@ publisher:
   url: null
   username: bobheadxi
 repository: https://github.com/ubclaunchpad/vuepress-plugin-fathom
-score: 0.3561975684157808
+score: 0.35634159832308604
 stars: 0
 unstable: false
 version: 1.2.1

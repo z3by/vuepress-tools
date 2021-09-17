@@ -30,7 +30,7 @@ publisher:
   url: null
   username: springleo
 repository: https://github.com/lq782655835/vuepress-theme-antdocs
-score: 0.1055960909845458
+score: 0.10568540900093028
 stars: 0
 unstable: false
 version: 1.0.0

@@ -27,7 +27,7 @@ publisher:
   url: null
   username: jingaye
 repository: https://github.com/RyanChent/vuepress-theme-sakura
-score: 0.4555288609190209
+score: 0.45558895725197457
 stars: 0
 unstable: false
 version: 1.0.6

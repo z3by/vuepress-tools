@@ -24,7 +24,7 @@ publisher:
   url: null
   username: veaba
 repository: https://github.com/veaba/vuepress-plugin-editable
-score: 0.4815035767474951
+score: 0.4815050883138992
 stars: 1
 unstable: false
 version: 1.0.11

@@ -27,7 +27,7 @@ publisher:
   url: null
   username: viko16
 repository: https://github.com/viko16/vuepress-theme-simple
-score: 0.5053138315467928
+score: 0.5055436825577765
 stars: 0
 unstable: false
 version: 1.2.2

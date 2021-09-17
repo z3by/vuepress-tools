@@ -30,7 +30,7 @@ publisher:
   url: null
   username: gallenhu
 repository: https://github.com/zpfz/vuepress-theme-antdocs
-score: 0.06013531752681875
+score: 0.060139830716265316
 stars: 0
 unstable: false
 version: 1.3.6

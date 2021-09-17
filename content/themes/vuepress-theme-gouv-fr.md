@@ -30,7 +30,7 @@ publisher:
   url: null
   username: aaugusti
 repository: https://github.com/etalab/vuepress-theme-gouv-fr
-score: 0.3387848010464101
+score: 0.33890643911647955
 stars: 0
 unstable: false
 version: 1.1.1

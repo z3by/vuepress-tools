@@ -27,7 +27,7 @@ publisher:
   url: null
   username: cperezcapote
 repository: https://github.com/cperezcapote/vuepress-theme-gocommons
-score: 0.3189431650590825
+score: 0.3189476539568902
 stars: 0
 unstable: false
 version: 1.0.6

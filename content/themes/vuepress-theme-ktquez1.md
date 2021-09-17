@@ -32,7 +32,7 @@ publisher:
   url: null
   username: dodo4513
 repository: https://github.com/ktquez/vuepress-theme-ktquez
-score: 0.03232793647066246
+score: 0.032329502540420184
 stars: 0
 unstable: true
 version: 0.2.19

@@ -24,7 +24,7 @@ publisher:
   url: null
   username: johnwebbcole
 repository: https://github.com/alexander-heimbuch/vuepress-theme-casper
-score: 0.06182214251184985
+score: 0.0618259939839887
 stars: 0
 unstable: false
 version: 1.1.1

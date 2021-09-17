@@ -26,7 +26,7 @@ publisher:
   url: null
   username: sylvainpolletvillard
 repository: https://github.com/sylvainpolletvillard/vuepress-plugin-global-toc
-score: 0.37464177004807075
+score: 0.37469128889065373
 stars: 7
 unstable: false
 version: 1.1.0

@@ -28,7 +28,7 @@ publisher:
   url: null
   username: vittominacori
 repository: https://github.com/vittominacori/vuepress-plugin-facebook-pixel
-score: 0.445765128252146
+score: 0.44608017660164484
 stars: 1
 unstable: false
 version: 1.0.0

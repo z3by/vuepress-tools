@@ -30,7 +30,7 @@ publisher:
   url: null
   username: yemuguliunian
 repository: https://github.com/BuptStEve/vuepress-plugin-demo-code
-score: 0.5189813015810417
+score: 0.518991870167953
 stars: 109
 unstable: true
 version: 0.1.1

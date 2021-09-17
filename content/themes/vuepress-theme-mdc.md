@@ -24,7 +24,7 @@ publisher:
   url: null
   username: ocavue
 repository: https://github.com/ocavue/vuepress-theme-mdc
-score: 0.03294121336503236
+score: 0.032943346859143297
 stars: 0
 unstable: true
 version: 0.0.1-d

@@ -28,7 +28,7 @@ publisher:
   url: null
   username: coolcoffee
 repository: https://github.com/vuepress/vuepress-next
-score: 0.06013531752681875
+score: 0.060139830716265316
 stars: 0
 unstable: false
 version: 2.0.0-beta.25-1

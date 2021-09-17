@@ -24,7 +24,7 @@ publisher:
   url: null
   username: eamiear
 repository: https://github.com/eamiear/vuepress-plugin-export-pdf
-score: 0.4312438377893528
+score: 0.43153158215880916
 stars: 0
 unstable: false
 version: 1.0.2

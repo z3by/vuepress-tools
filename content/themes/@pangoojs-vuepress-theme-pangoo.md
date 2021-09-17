@@ -29,7 +29,7 @@ publisher:
   url: null
   username: upcwangying
 repository: https://github.com/pangoojs/pangoo
-score: 0.25319960562319976
+score: 0.2534500817896328
 stars: 0
 unstable: true
 version: 0.0.3

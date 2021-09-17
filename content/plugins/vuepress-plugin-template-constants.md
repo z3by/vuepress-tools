@@ -28,7 +28,7 @@ publisher:
   url: null
   username: actengage
 repository: https://github.com/actengage/vuepress-plugin-template-constants
-score: 0.26477046701865037
+score: 0.26488862752313425
 stars: 0
 unstable: true
 version: 0.2.1

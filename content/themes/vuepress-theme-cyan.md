@@ -27,7 +27,7 @@ publisher:
   url: null
   username: muqingzi
 repository: https://github.com/CyanH/vuepress-theme-cyan
-score: 0.4768280214071964
+score: 0.476858813575659
 stars: 0
 unstable: false
 version: 1.0.0

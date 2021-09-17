@@ -24,7 +24,7 @@ publisher:
   url: null
   username: ualazy
 repository: https://github.com/youpenglai/vue-cli-plugin-vuepress
-score: 0.396518694079114
+score: 0.3968150735152122
 stars: 0
 unstable: false
 version: 1.0.3

@@ -27,7 +27,7 @@ publisher:
   url: null
   username: azasar
 repository: https://github.com/azasar/vuepress-plugin-disqus
-score: 0.3235383964684544
+score: 0.32365701121990575
 stars: 0
 unstable: true
 version: 0.1.1

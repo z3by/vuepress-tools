@@ -26,7 +26,7 @@ publisher:
   url: null
   username: akccakcctw
 repository: https://github.com/akccakcctw/vuepress-plugin-last-updated-by
-score: 0.44621025821981
+score: 0.4462250314217077
 stars: 0
 unstable: true
 version: 0.1.0

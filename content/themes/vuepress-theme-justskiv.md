@@ -29,7 +29,7 @@ publisher:
   url: null
   username: justskiv
 repository: https://github.com/JustSkiv/vuepress-theme-justskiv
-score: 0.48103369516497396
+score: 0.4810412012917705
 stars: 0
 unstable: true
 version: 0.6.5

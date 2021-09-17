@@ -28,7 +28,7 @@ publisher:
   url: null
   username: qas612820704
 repository: https://github.com/vuejs/vuepress
-score: 0.08081524725987682
+score: 0.08093328349308171
 stars: 0
 unstable: false
 version: 1.2.1

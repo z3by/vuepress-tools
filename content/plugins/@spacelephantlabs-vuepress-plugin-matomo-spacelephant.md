@@ -31,7 +31,7 @@ publisher:
   url: null
   username: spacelephantbot
 repository: https://github.com/spacelephantlabs/vuepress-plugin-matomo-spacelephant
-score: 0.5128817409081309
+score: 0.5128864929999406
 stars: 0
 unstable: false
 version: 1.1.1

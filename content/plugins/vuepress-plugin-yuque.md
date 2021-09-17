@@ -24,7 +24,7 @@ publisher:
   url: null
   username: fychinesepjj
 repository: https://github.com/ulivz/vuepress-plugin-yuque
-score: 0.30233487745224447
+score: 0.3024092682506886
 stars: 276
 unstable: true
 version: 0.6.1

@@ -29,11 +29,11 @@ publisher:
   url: null
   username: octref
 repository: https://github.com/octref/shiki
-score: 0.5970977736760676
-stars: 2553
+score: 0.5971496179353222
+stars: 2558
 unstable: true
 version: 0.2.7
-watchers: 2553
+watchers: 2558
 
 ---
 
@@ -104,8 +104,7 @@ Clone [shikijs/shiki-starter](https://github.com/shikijs/shiki-starter) to play 
 
 ## Contributing
 
-- [Add a theme](./docs/themes.md#add)
-- [Add a language grammar](./docs/languages.md#adding-grammar)
+See the [Contributing Guide](.github/CONTRIBUTING.md).
 
 ## Credits
 

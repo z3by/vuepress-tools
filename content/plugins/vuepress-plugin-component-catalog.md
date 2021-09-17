@@ -28,7 +28,7 @@ publisher:
   url: null
   username: mya-ake
 repository: https://github.com/mya-ake/vuepress-plugin-component-catalog
-score: 0.26658397945310364
+score: 0.2665976044968215
 stars: 28
 unstable: true
 version: 0.6.7
