@@ -28,7 +28,7 @@ publisher:
   url: null
   username: blow
 repository: https://github.com/LinFeng1997/vuepress-plugin-export-site
-score: 0.29527430119102727
+score: 0.29528060654411475
 stars: 3
 unstable: true
 version: 1.0.0-rc.2

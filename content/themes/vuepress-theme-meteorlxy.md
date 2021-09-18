@@ -27,7 +27,7 @@ publisher:
   url: null
   username: meteorlxy
 repository: https://github.com/meteorlxy/vuepress-theme-meteorlxy
-score: 0.5338996802709288
+score: 0.5341518398367164
 stars: 0
 unstable: false
 version: 1.9.0

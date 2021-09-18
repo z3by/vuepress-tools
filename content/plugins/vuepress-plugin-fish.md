@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/29720482?v=4
+  avatar: null
   email: null
   name: bobo
   url: null
-  username: kevinBobo
+  username: null
 bugs: https://github.com/kevinBobo/vuepress-plugin-fish/issues
 category: plugin
 date: '2019-12-06T05:41:56.921Z'
@@ -16,7 +16,7 @@ keywords:
 - vuepress-plugin
 - fish
 - vue
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-plugin-fish
 npm: https://www.npmjs.com/package/vuepress-plugin-fish
@@ -27,19 +27,11 @@ publisher:
   url: null
   username: hanyabo
 repository: https://github.com/kevinBobo/vuepress-plugin-fish
-score: 0.2552823514404013
-stars: 1
+score: 0.2555413812204953
+stars: 0
 unstable: false
 version: 1.1.4
-watchers: 1
+watchers: 0
 
 ---
 
-# vuepress-plugin-fish
-
-## 使用
-```
-npm install --save-dev vuepress-plugin-fish
-```
-
-## 效果

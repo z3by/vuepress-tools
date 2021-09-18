@@ -28,7 +28,7 @@ publisher:
   url: null
   username: johnsen
 repository: https://github.com/JohnsenZhou/Xanadu
-score: 0.40415853184660855
+score: 0.4043939078170068
 stars: 0
 unstable: true
 version: 0.1.5

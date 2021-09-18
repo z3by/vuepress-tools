@@ -27,7 +27,7 @@ publisher:
   url: null
   username: ptandler
 repository: https://github.com/ptandler/vuepress-theme-single-page-sections
-score: 0.5169110170989218
+score: 0.5171312880664191
 stars: 0
 unstable: false
 version: 1.1.4

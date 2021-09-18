@@ -24,7 +24,7 @@ publisher:
   url: null
   username: ahmader
 repository: https://github.com/ahmader/vuepress-theme
-score: 0.479784845506979
+score: 0.4798340604260486
 stars: 0
 unstable: false
 version: 1.0.9

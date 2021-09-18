@@ -28,7 +28,7 @@ publisher:
   url: null
   username: wencaizhang
 repository: https://github.com/wencaizhang/vuepress-theme-gh-style
-score: 0.18074974022384077
+score: 0.1808421896956968
 stars: 0
 unstable: true
 version: 0.1.0

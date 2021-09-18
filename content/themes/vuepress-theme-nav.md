@@ -26,7 +26,7 @@ publisher:
   url: null
   username: nooldey
 repository: https://github.com/zeroNav/vuepress-theme-nav
-score: 0.2666964067186033
+score: 0.26670414053384417
 stars: 0
 unstable: true
 version: 0.1.0

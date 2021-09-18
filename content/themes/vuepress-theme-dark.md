@@ -28,7 +28,7 @@ publisher:
   url: null
   username: visualfanatic
 repository: https://github.com/visualfanatic/vuepress-theme-dark
-score: 0.10717447632914562
+score: 0.10717555549980153
 stars: 0
 unstable: true
 version: 0.1.0

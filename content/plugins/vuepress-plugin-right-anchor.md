@@ -27,7 +27,7 @@ publisher:
   url: null
   username: xuek
 repository: https://github.com/xuekai-china/vuepress-plugin-right-anchor
-score: 0.5054371264697817
+score: 0.5054394470086773
 stars: 14
 unstable: true
 version: 0.5.4
@@ -89,8 +89,10 @@ Add in `.vuepress/styles/index.scss`
   --rightAnchorFontSize: 12px;
   /* Btn */
   --rightAnchorBtnTextColor: var(--rightAnchorTextColor);
+  --rightAnchorBtnBgColor: #fff;
   /* Menu */
   --rightAnchorMenuTextColor: var(--rightAnchorTextColor);
+  --rightAnchorMenuBgColor: #fff;
 }
 
 /* dark theme */
@@ -99,8 +101,10 @@ Add in `.vuepress/styles/index.scss`
   --rightAnchorFontSize: 16px;
   /* Btn */
   --rightAnchorBtnTextColor: var(--rightAnchorTextColor);
+  --rightAnchorBtnBgColor: #000;
   /* Menu */
   --rightAnchorMenuTextColor: var(--rightAnchorTextColor);
+  --rightAnchorMenuBgColor: #000;
 }
 ```
 

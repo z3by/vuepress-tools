@@ -28,11 +28,11 @@ publisher:
   url: null
   username: lucienzhangzl
 repository: https://github.com/Snippetors/snippets
-score: 0.6201861527283881
-stars: 3
+score: 0.6201927952509563
+stars: 4
 unstable: false
 version: 1.0.6
-watchers: 3
+watchers: 4
 
 ---
 

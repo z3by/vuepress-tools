@@ -24,7 +24,7 @@ publisher:
   url: null
   username: gd4ark
 repository: https://github.com/ulivz/vuepress-theme-blog
-score: 0.18869908712325276
+score: 0.1887040496792644
 stars: 0
 unstable: false
 version: 2.3.3

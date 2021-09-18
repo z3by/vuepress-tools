@@ -28,7 +28,7 @@ publisher:
   url: null
   username: limdongjin
 repository: https://github.com/limdongjin/vuepress-plugin-sidebar-on-off
-score: 0.3054713036582809
+score: 0.3054727881254711
 stars: 1
 unstable: true
 version: 1.0.0-alpha.32

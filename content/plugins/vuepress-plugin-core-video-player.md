@@ -27,7 +27,7 @@ publisher:
   url: null
   username: shiguanghai
 repository: https://github.com/shiguanghai/vuepress-plugin-core-video-player
-score: 0.5105433582484229
+score: 0.5105680337535823
 stars: 2
 unstable: false
 version: 1.1.0

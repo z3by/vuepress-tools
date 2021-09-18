@@ -28,7 +28,7 @@ publisher:
   url: null
   username: dsx_gao
 repository: https://github.com/cool-fe/winex-cli
-score: 0.190837333922961
+score: 0.19083902692626287
 stars: 3
 unstable: false
 version: 1.0.2

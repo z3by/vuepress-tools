@@ -27,7 +27,7 @@ publisher:
   url: null
   username: nsznsznjsz
 repository: https://github.com/nsznsznjsz/vuepress-theme-celesta
-score: 0.3526615279199681
+score: 0.35292472270091624
 stars: 0
 unstable: true
 version: 0.1.0

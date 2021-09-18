@@ -31,7 +31,7 @@ publisher:
   url: null
   username: fadeev
 repository: https://github.com/cosmos/vuepress-theme-cosmos
-score: 0.5033235040921363
+score: 0.503329822825497
 stars: 0
 unstable: false
 version: 1.0.182

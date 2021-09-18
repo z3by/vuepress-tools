@@ -29,7 +29,7 @@ publisher:
   url: null
   username: jer0701
 repository: https://github.com/neoption/vuepress-theme-api
-score: 0.31881676384501695
+score: 0.318820994582966
 stars: 0
 unstable: true
 version: 0.1.1

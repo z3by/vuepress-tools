@@ -24,7 +24,7 @@ publisher:
   url: null
   username: sqrtthree
 repository: https://github.com/sqrthree/vuepress-theme-jian
-score: 0.3351496699136668
+score: 0.33526436589655423
 stars: 0
 unstable: true
 version: 0.1.0

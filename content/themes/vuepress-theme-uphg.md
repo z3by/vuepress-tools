@@ -28,7 +28,7 @@ publisher:
   url: null
   username: chennings
 repository: https://github.com/uphg/vuepress-theme-uphg
-score: 0.5456463039697769
+score: 0.5456615356843844
 stars: 0
 unstable: true
 version: 0.0.7
