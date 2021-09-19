@@ -29,7 +29,7 @@ publisher:
   url: null
   username: adamearth
 repository: https://github.com/h69/vuepress-theme-x
-score: 0.41688674902970746
+score: 0.41688688149429465
 stars: 0
 unstable: false
 version: 1.3.0

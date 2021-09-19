@@ -25,7 +25,7 @@ publisher:
   url: null
   username: xxyan0205
 repository: https://github.com/xxyan0205/vuepress-theme-quicksand
-score: 0.6063383555712409
+score: 0.6063235460533551
 stars: 4
 unstable: false
 version: 1.0.3

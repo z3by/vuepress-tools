@@ -27,7 +27,7 @@ publisher:
   url: null
   username: azasar
 repository: https://github.com/azasar/vuepress-plugin-separate-pages
-score: 0.38257273556318383
+score: 0.3825743704786808
 stars: 1
 unstable: true
 version: 0.1.4

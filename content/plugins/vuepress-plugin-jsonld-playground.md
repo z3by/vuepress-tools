@@ -31,7 +31,7 @@ publisher:
   url: null
   username: about-code-js
 repository: https://github.com/about-code/vuepress-plugin-jsonld-playground
-score: 0.45270096576122193
+score: 0.4526753107658581
 stars: 0
 unstable: false
 version: 1.0.2

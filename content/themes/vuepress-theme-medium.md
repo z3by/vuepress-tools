@@ -31,7 +31,7 @@ publisher:
   url: null
   username: z3bya
 repository: https://github.com/z3by/vuepress-theme-medium
-score: 0.39333511285251266
+score: 0.3933023022358743
 stars: 0
 unstable: true
 version: 0.1.0

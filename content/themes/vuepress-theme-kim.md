@@ -26,7 +26,7 @@ publisher:
   url: null
   username: jinjun
 repository: https://github.com/jinjun1994/vuepress-theme-kim
-score: 0.3145409978176825
+score: 0.3145150114133096
 stars: 0
 unstable: false
 version: 1.0.5

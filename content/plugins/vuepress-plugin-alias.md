@@ -29,7 +29,7 @@ publisher:
   url: null
   username: vaniyokk
 repository: https://github.com/vaniyokk/vuepress-plugin-alias
-score: 0.31890502864044035
+score: 0.3188900727791767
 stars: 7
 unstable: true
 version: 1.0.0-beta

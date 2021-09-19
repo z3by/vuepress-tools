@@ -28,7 +28,7 @@ publisher:
   url: null
   username: mcmagni
 repository: https://github.com/busyrat/blog
-score: 0.061141599084423695
+score: 0.06113013108062288
 stars: 0
 unstable: false
 version: 1.0.3

@@ -28,7 +28,7 @@ publisher:
   url: null
   username: sigure_mo
 repository: https://github.com/moefyit/vuepress-plugin-go-top
-score: 0.46587751370357866
+score: 0.4658665682045067
 stars: 3
 unstable: false
 version: 1.0.4

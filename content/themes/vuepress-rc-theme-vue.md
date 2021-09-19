@@ -28,7 +28,7 @@ publisher:
   url: null
   username: wangyonghao
 repository: https://github.com/YongHao0/vuepress
-score: 0.5742035550998348
+score: 0.5741982190659896
 stars: 0
 unstable: false
 version: 1.5.4-11

@@ -28,13 +28,15 @@ publisher:
   url: null
   username: lucienzhangzl
 repository: https://github.com/Snippetors/snippets
-score: 0.6201927952509563
+score: 0.6201383831039847
 stars: 4
 unstable: false
 version: 1.0.6
 watchers: 4
 
 ---
+
+[![Snippets Logo](docs/.vuepress/public/images/hero.svg)](http://snippets.ink/)
 
 # snippets
 

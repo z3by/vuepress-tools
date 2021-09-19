@@ -30,7 +30,7 @@ publisher:
   url: null
   username: newsbielt703
 repository: https://github.com/ekoeryanto/vuepress-plugin-sitemap
-score: 0.046955615890386035
+score: 0.04695335880704911
 stars: 84
 unstable: true
 version: 0.0.1

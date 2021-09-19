@@ -30,7 +30,7 @@ publisher:
   url: null
   username: spekulatius
 repository: https://github.com/spekulatius/vuepress-plugin-plausible
-score: 0.33452270993190925
+score: 0.334460112507334
 stars: 2
 unstable: true
 version: 0.0.2

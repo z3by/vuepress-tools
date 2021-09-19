@@ -32,7 +32,7 @@ publisher:
   url: null
   username: waycowei
 repository: https://github.com/waycowei/vuepress-plugin-demo-container-v2
-score: 0.5088374048722779
+score: 0.5087810650218323
 stars: 1
 unstable: false
 version: 2.3.4

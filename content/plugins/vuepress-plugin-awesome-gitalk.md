@@ -30,7 +30,7 @@ publisher:
   url: null
   username: rain120
 repository: https://github.com/Rain120/vuepress-plugin-awesome-gitalk
-score: 0.2349601867494419
+score: 0.23494230368442726
 stars: 0
 unstable: true
 version: 0.0.4

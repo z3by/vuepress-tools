@@ -24,7 +24,7 @@ publisher:
   url: null
   username: efrane
 repository: https://github.com/eFrane/pressdocs
-score: 0.5391076141027102
+score: 0.5391050824787433
 stars: 0
 unstable: true
 version: 0.0.7

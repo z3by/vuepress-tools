@@ -30,7 +30,7 @@ publisher:
   url: null
   username: anthonynsimon
 repository: https://github.com/panelbearhq/vuepress-plugin-panelbear
-score: 0.41679026054998014
+score: 0.41678392652791607
 stars: 1
 unstable: false
 version: 1.0.0

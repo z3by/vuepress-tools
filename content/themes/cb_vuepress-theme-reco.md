@@ -27,7 +27,7 @@ publisher:
   url: null
   username: snowinszu
 repository: https://github.com/cdnbye/cb_vuepress-theme-reco
-score: 0.3976262895654811
+score: 0.39763280856442407
 stars: 0
 unstable: false
 version: 1.4.5

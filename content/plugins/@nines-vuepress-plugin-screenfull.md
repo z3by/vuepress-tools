@@ -26,7 +26,7 @@ publisher:
   url: null
   username: wangjia_1919
 repository: https://github.com/NineSwordsMonster/vuepress-plugin-screenfull
-score: 0.3743949580952483
+score: 0.3743985931230133
 stars: 0
 unstable: true
 version: 0.0.3

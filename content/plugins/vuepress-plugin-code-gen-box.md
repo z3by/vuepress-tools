@@ -30,7 +30,7 @@ publisher:
   url: null
   username: falstack
 repository: https://github.com/falstack/vuepress-code-box
-score: 0.4332265118656546
+score: 0.4332141061767447
 stars: 0
 unstable: true
 version: 0.0.9

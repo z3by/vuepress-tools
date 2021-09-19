@@ -24,7 +24,7 @@ publisher:
   url: null
   username: zolyn
 repository: https://github.com/Zolyn/vuepress-plugin-bbtalk
-score: 0.46344883216273114
+score: 0.4605807749103113
 stars: 0
 unstable: true
 version: 1.0.0-alpha.1

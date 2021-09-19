@@ -27,7 +27,7 @@ publisher:
   url: null
   username: openhacking
 repository: https://github.com/openHacking/vuepress-plugin-qrcode
-score: 0.5109799394990043
+score: 0.5109464116147258
 stars: 4
 unstable: false
 version: 1.0.7

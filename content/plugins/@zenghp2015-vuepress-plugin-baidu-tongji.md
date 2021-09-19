@@ -26,7 +26,7 @@ publisher:
   url: null
   username: zenghp
 repository: https://github.com/Zero2015/vuepress-plugin-baidu-tongji
-score: 0.5041362659713228
+score: 0.5041090682060725
 stars: 0
 unstable: false
 version: 1.0.3

@@ -24,7 +24,7 @@ publisher:
   url: null
   username: hasan.ixdf
 repository: https://github.com/InteractionDesignFoundation/vuepress-theme-ixdf
-score: 0.4184541758680221
+score: 0.41844530625916654
 stars: 0
 unstable: true
 version: 0.0.2

@@ -29,7 +29,7 @@ publisher:
   url: null
   username: scopewu
 repository: https://github.com/scopewu/vuepress
-score: 0.3399721413617244
+score: 0.3399529751469925
 stars: 1
 unstable: false
 version: 1.0.1

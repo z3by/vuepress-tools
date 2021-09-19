@@ -28,7 +28,7 @@ publisher:
   url: null
   username: saltedfish964
 repository: https://github.com/saltedfish964/vuepress-theme-saltedfish
-score: 0.5152687068269994
+score: 0.5152535966791189
 stars: 0
 unstable: false
 version: 1.0.13

@@ -29,7 +29,7 @@ publisher:
   url: null
   username: shigma
 repository: https://github.com/vuepress/vuepress-plugin-copyright
-score: 0.2502660964255718
+score: 0.2501169134690661
 stars: 2
 unstable: false
 version: 1.0.2

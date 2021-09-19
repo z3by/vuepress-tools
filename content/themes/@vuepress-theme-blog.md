@@ -24,11 +24,11 @@ publisher:
   url: null
   username: newsbielt703
 repository: https://github.com/ulivz/vuepress-theme-blog
-score: 0.5879378322045098
-stars: 168
+score: 0.5878833829619958
+stars: 169
 unstable: false
 version: 2.3.3
-watchers: 168
+watchers: 169
 
 ---
 

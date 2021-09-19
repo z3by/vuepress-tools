@@ -30,7 +30,7 @@ publisher:
   url: null
   username: spekulatius
 repository: https://github.com/spekulatius/vuepress-plugin-ackee
-score: 0.38211148034396036
+score: 0.38211137873931833
 stars: 6
 unstable: true
 version: 0.0.1

@@ -28,7 +28,7 @@ publisher:
   url: null
   username: yunyoujun
 repository: https://github.com/YunYouJun/vuepress-plugin-google-adsense
-score: 0.5119501825397351
+score: 0.5118921520339805
 stars: 8
 unstable: true
 version: 0.2.1

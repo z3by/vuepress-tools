@@ -28,7 +28,7 @@ publisher:
   url: null
   username: fengxinming
 repository: https://github.com/fengxinming/vuepress-theme-purple
-score: 0.6296991537750884
+score: 0.629664465824894
 stars: 2
 unstable: false
 version: 1.1.4

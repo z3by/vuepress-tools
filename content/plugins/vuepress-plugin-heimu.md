@@ -24,7 +24,7 @@ publisher:
   url: null
   username: yesterday17
 repository: https://github.com/Yesterday17/Kyandy
-score: 0.060845857699386344
+score: 0.060839544048452404
 stars: 2
 unstable: false
 version: 1.0.0

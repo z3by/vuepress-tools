@@ -27,7 +27,7 @@ publisher:
   url: null
   username: xiaoluoboding
 repository: https://github.com/xiaoluoboding/vuepress-plugin-geopattern
-score: 0.3571003106868712
+score: 0.3570912211285867
 stars: 0
 unstable: true
 version: 0.1.2

@@ -27,7 +27,7 @@ publisher:
   url: null
   username: wangyi7099
 repository: https://github.com/YvesCoding/vuepress-theme-vuepress
-score: 0.32992359220854506
+score: 0.3298812828029454
 stars: 0
 unstable: true
 version: 0.0.44

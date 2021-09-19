@@ -26,7 +26,7 @@ publisher:
   url: null
   username: huaiyugong
 repository: https://github.com/JialuGong/vuepress-plugin-progressive-image-loader
-score: 0.5574295089470125
+score: 0.55740450683281
 stars: 0
 unstable: true
 version: 0.0.7
