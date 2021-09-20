@@ -29,10 +29,10 @@ publisher:
   username: newsbielt703
 repository: https://github.com/vuejs/vuepress
 score: 0.580348263572309
-stars: 19388
+stars: 19392
 unstable: false
 version: 1.8.2
-watchers: 19388
+watchers: 19392
 
 ---
 

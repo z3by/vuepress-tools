@@ -65,6 +65,8 @@ watchers: 257
 [![codecov](https://codecov.io/gh/vuepress-theme-hope/vuepress-theme-hope/branch/main/graph/badge.svg?token=TNYMbGlxQ9)](https://codecov.io/gh/vuepress-theme-hope/vuepress-theme-hope)
 ![Test theme](https://github.com/vuepress-theme-hope/vuepress-theme-hope/actions/workflows/test-v2.yml/badge.svg)
 
+[![opencollective](https://opencollective.com/vuepress-theme-hope/tiers/badge.svg)](https://opencollective.com/vuepress-theme-hope)
+
 A vuepress theme with tons of features✨ / 一个具有强大功能的 vuepress 主题 ✨
 
 ## Warning
@@ -92,7 +94,7 @@ Here is a list of changes:
 
 ## Changes in plugins
 
-- [@mr-hope/components readme](https://github.com/vuepress-theme-hope/vuepress-theme-hope/blob/main/packages/components/README.md)
+- [@mr-hope/components](https://github.com/vuepress-theme-hope/vuepress-theme-hope/blob/main/packages/components/README.md)
 
 - [vuepress-plugin-add-this](https://github.com/vuepress-theme-hope/vuepress-theme-hope/blob/main/packages/add-this/README.md) ![deprecated](https://img.shields.io/badge/-deprecated-yellow)
 
@@ -120,13 +122,13 @@ Here is a list of changes:
 
   A image viewer plugin for VuePress using [lightGallary](https://www.lightgalleryjs.com/)
 
-  See [LightGallery readme](https://github.com/vuepress-theme-hope/vuepress-theme-hope/blob/main/packages/lightgallery/README.md)
+  See [LightGallery](https://github.com/vuepress-theme-hope/vuepress-theme-hope/blob/main/packages/lightgallery/README.md)
 
 - [x] SassPalette ![new](https://img.shields.io/badge/-new-brightgreen)
 
   A style system for sass across plugins and theme
 
-  See [SassPalette readme](https://github.com/vuepress-theme-hope/vuepress-theme-hope/blob/main/packages/sass-palette/README.md)
+  See [SassPalette](https://github.com/vuepress-theme-hope/vuepress-theme-hope/blob/main/packages/sass-palette/README.md)
 
 - [ ] Share2 ![new](https://img.shields.io/badge/-new-brightgreen)
 
