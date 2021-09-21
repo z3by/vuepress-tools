@@ -28,10 +28,10 @@ publisher:
   username: reco_luan
 repository: https://github.com/recoluan/vuepress-theme-reco-next
 score: 0.44970772878548765
-stars: 19
+stars: 20
 unstable: false
 version: 2.0.1-alpha.0
-watchers: 19
+watchers: 20
 
 ---
 
@@ -58,3 +58,65 @@ reco 主题 2.0 最核心的功能就是提供了网站风格的插槽，允许�
 ![image](https://user-images.githubusercontent.com/18067907/113588226-70e5c580-9662-11eb-84b3-ef64770c512c.png)
 
 开发者可以按照 `风格 package` 的规范，依赖 reco 主题强大的风格插槽，任意扩展页面路由和页面内容，虽然使用同一款主题，但是每个人都可以拥有属于自己的风格。
+
+## 快速开始
+
+**npx**
+
+```bash
+# 初始化，并选择 2.x
+npx @vuepress-reco/theme-cli init
+```
+
+**npm**
+
+```bash
+# 初始化，并选择 2.x
+npm install @vuepress-reco/theme-cli@1.0.7 -g
+theme-cli init
+```
+
+**yarn**
+
+```bash
+# 初始化，并选择 2.x
+yarn global add @vuepress-reco/theme-cli@1.0.7
+theme-cli init
+```
+
+## 预览
+
+<img width="800" alt="light_home" src="https://user-images.githubusercontent.com/18067907/134000239-dd38dde8-5e5b-48e8-93e8-1d44ddfa66ec.png">
+
+<img width="800" alt="dark_home" src="https://user-images.githubusercontent.com/18067907/134000265-bf21536a-11f8-466b-8dd6-e3841a6d3b17.png">
+
+<img width="800" alt="light_category" src="https://user-images.githubusercontent.com/18067907/134000281-723f3a16-ec8b-4051-aff0-cc0f74843ec3.png">
+
+<img width="800" alt="dark_page" src="https://user-images.githubusercontent.com/18067907/134000306-253052af-a986-4af6-88a6-0259369d9dd3.png">
+
+<img width="800" alt="light_page" src="https://user-images.githubusercontent.com/18067907/134000356-031678db-5449-4656-8b1f-cb2de72135f7.png">
+
+<img width="800" alt="dark_category" src="https://user-images.githubusercontent.com/18067907/134000365-a24344c3-05ed-4bbb-abae-41653be9c4c0.png">
+
+## 待办
+
+### 功能
+
+- [ ] 加密功能
+- [ ] loading 功能
+- [ ] 自定义首页功能
+- [ ] 增加 icon 功能
+- [ ] 内置 1.x 原有插件
+- [ ] 1.x reco 官方插件同步升级
+- [ ] 提供自定义任意页面的 API
+- [ ] 允许本地自定义 style（风格）代码
+- [ ] 提供 tailwind 自定义 config 入口（后续官方所有风格均采用 css + taiwindcss 方案）
+- [ ] 按照文件夹自动进行分类，只允许自定义 tag，根据 tag 生成神经网络图（参考 obsidian）
+
+### 优化
+
+- [ ] 完善文档
+- [ ] PWA 样式优化
+- [ ] 侧边栏样式优化
+- [ ] 去除 scss，采用 css + taiwindcss 方案
+- [ ] 将通用功能全部下沉至 vuepress-theme-reco，精简 style（风格）代码

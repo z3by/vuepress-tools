@@ -31,10 +31,10 @@ publisher:
   username: webmasterish
 repository: https://github.com/webmasterish/vuepress-plugin-minimal-analytics
 score: 0.4199338672307133
-stars: 11
+stars: 12
 unstable: true
 version: 0.1.4
-watchers: 11
+watchers: 12
 
 ---
 
