@@ -74,3 +74,9 @@ module.exports = {
 }
 ...
 ```
+
+## Donation
+
+<a href='https://www.paypal.com/paypalme/minhthangpay'>
+    <img title='paypal' width='30px' src='assets/paypal-3384015_1280.png'/>
+</a>
