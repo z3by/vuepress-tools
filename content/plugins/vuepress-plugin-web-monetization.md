@@ -30,10 +30,10 @@ publisher:
   username: spekulatius
 repository: https://github.com/spekulatius/vuepress-plugin-web-monetization
 score: 0.3799082607205325
-stars: 9
+stars: 10
 unstable: true
 version: 0.0.2
-watchers: 9
+watchers: 10
 
 ---
 
