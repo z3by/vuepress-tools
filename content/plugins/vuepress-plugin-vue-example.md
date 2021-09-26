@@ -42,7 +42,14 @@ watchers: 1
 
 # vuepress-plugin-vue-example
 
-A Vuepress plugin to display Vue components\' live examples and source code inside documentation.
+---
+
+:fire: **HEADS UP!** You're currently looking at vuepress-plugin-vue-example branch for **Vuepress 1**.  
+If you're looking for a Vuepress 2 compatible version of vuepress-plugin-vue-example, [please check out the `next` branch](https://github.com/kouts/vuepress-plugin-vue-example/tree/next).
+
+---
+
+A Vuepress plugin to display Vue components' live examples and source code inside documentation.
 
 ## Features
 
