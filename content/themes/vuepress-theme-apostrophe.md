@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/12648958?v=4
   email: null
   name: Apostrophe Technologies
   url: null
-  username: null
+  username: apostrophecms
 bugs: https://github.com/apostrophecms/vuepress-theme-apostrophe/issues
 category: theme
 date: '2021-09-02T16:02:49.349Z'
@@ -19,7 +19,7 @@ keywords:
 - apostrophe
 - cms
 - node
-license: null
+license: MIT License
 maintainers: null
 name: vuepress-theme-apostrophe
 npm: https://www.npmjs.com/package/vuepress-theme-apostrophe
@@ -38,3 +38,6 @@ watchers: 0
 
 ---
 
+# Apostrophe Vuepress Theme
+
+WIP

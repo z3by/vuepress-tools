@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/23313167?v=4
   email: qw13131wang@gmail.com
   name: tolking
   url: null
@@ -20,7 +20,7 @@ keywords:
 - vuepress-theme
 - light-theme
 - dark-theme
-license: null
+license: MIT License
 maintainers: null
 name: vuepress-theme-ououe
 npm: https://www.npmjs.com/package/vuepress-theme-ououe
@@ -32,10 +32,45 @@ publisher:
   username: tolking
 repository: https://github.com/tolking/vuepress-theme-ououe
 score: 0.5260770700880031
-stars: 0
+stars: 73
 unstable: false
 version: 1.5.3
-watchers: 0
+watchers: 73
 
 ---
 
+# vuepress-theme-ououe
+
+> A blog theme for VuePress
+
+Live Demo: [My Blog](https://ououe.com)
+
+[Documentation](https://tolking.github.io/vuepress-theme-ououe)
+
+Uses [vuepress-theme-ououe-template](https://github.com/tolking/vuepress-theme-ououe-template) to starter
+
+---
+
+## Installation
+
+``` sh
+yarn add vuepress-theme-ououe
+# or
+npm i vuepress-theme-ououe
+```
+
+## Usage
+
+``` js
+// .vuepress -> config.js
+module.exports = {
+  theme: 'ououe',
+  themeConfig: {
+    // ...
+  }
+}
+```
+
+## License
+
+[MIT](http://opensource.org/licenses/MIT)
