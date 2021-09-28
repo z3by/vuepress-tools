@@ -4,7 +4,7 @@ author:
   email: yuan.zx@outlook.com
   name: Celeste
   url: null
-  username: nsznsznjsz
+  username: yzx9
 bugs: https://github.com/nsznsznjsz/vuepress-plugin-latest-articles/issues/new
 category: plugin
 date: '2021-01-22T07:16:52.475Z'
