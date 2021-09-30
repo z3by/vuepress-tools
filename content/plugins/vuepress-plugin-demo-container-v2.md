@@ -33,10 +33,10 @@ publisher:
   username: waycowei
 repository: https://github.com/waycowei/vuepress-plugin-demo-container-v2
 score: 0.5087810650218323
-stars: 1
+stars: 2
 unstable: false
 version: 2.3.4
-watchers: 1
+watchers: 2
 
 ---
 
