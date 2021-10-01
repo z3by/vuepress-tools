@@ -26,10 +26,10 @@ publisher:
   username: xxyan0205
 repository: https://github.com/xxyan0205/vuepress-theme-quicksand
 score: 0.6063235460533551
-stars: 4
+stars: 5
 unstable: false
 version: 1.0.3
-watchers: 4
+watchers: 5
 
 ---
 
