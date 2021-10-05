@@ -27,10 +27,10 @@ publisher:
   username: sunziping2016
 repository: https://github.com/sunziping2016/oak-tree-house
 score: 0.3316771345257139
-stars: 12
+stars: 11
 unstable: false
 version: 1.0.1
-watchers: 12
+watchers: 11
 
 ---
 
