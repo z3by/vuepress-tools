@@ -31,10 +31,10 @@ publisher:
   username: tolking
 repository: https://github.com/tolking/vuepress-plugin-blog-multidir
 score: 0.3497752176874434
-stars: 7
+stars: 8
 unstable: false
 version: 1.0.5
-watchers: 7
+watchers: 8
 
 ---
 
