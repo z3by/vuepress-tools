@@ -44,7 +44,7 @@ watchers: 28
 
 # vuepress-plugin-social-share
 
-[![CIRCLECI](https://img.shields.io/circleci/project/ntnyq/vuepress-plugin-social-share/main.svg?logo=circleci)](https://circleci.com/gh/ntnyq/vuepress-plugin-social-share)
+[![CI](https://github.com/ntnyq/vuepress-plugin-social-share/workflows/CI/badge.svg)](https://github.com/ntnyq/vuepress-plugin-social-share/actions)
 [![NPM VERSION](https://img.shields.io/npm/v/vuepress-plugin-social-share.svg)](https://www.npmjs.com/package/vuepress-plugin-social-share)
 [![NPM DOWNLOADS](https://img.shields.io/npm/dy/vuepress-plugin-social-share.svg)](https://www.npmjs.com/package/vuepress-plugin-social-share)
 [![LICENSE](https://img.shields.io/github/license/ntnyq/vuepress-plugin-social-share.svg)](https://github.com/ntnyq/vuepress-plugin-social-share/blob/master/LICENSE)
@@ -67,7 +67,7 @@ Add config to `.vuepress/config.js`:
 
 ```js
 module.exports = {
-  plugins: ['social-share'],
+    plugins: ['social-share'],
 }
 ```
 
