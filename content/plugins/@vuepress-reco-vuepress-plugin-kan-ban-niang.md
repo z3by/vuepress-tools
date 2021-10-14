@@ -28,10 +28,10 @@ publisher:
   username: smallsunnyfox
 repository: https://github.com/vuepress-reco/vuepress-plugin-kan-ban-niang
 score: 0.3022256932557765
-stars: 19
+stars: 20
 unstable: false
 version: 1.0.5
-watchers: 19
+watchers: 20
 
 ---
 
