@@ -31,10 +31,10 @@ publisher:
   username: godbmw
 repository: https://github.com/dongyuanxin/vuepress-plugin-comment
 score: 0.2457274267467246
-stars: 28
+stars: 29
 unstable: true
 version: 0.7.3
-watchers: 28
+watchers: 29
 
 ---
 
