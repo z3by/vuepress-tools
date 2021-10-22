@@ -35,17 +35,17 @@ watchers: 4
 
 ---
 
-# Vuepress-Plugin-Demoblock-Plus
+# vuepress-plugin-demoblock-plus
 
 ## 简介
 
-Vuepress-Plugin-Demoblock-Plus 是一个基于 Vuepress 的插件，它可以帮助你在编写文档的时候增加 Vue 示例，它的诞生初衷是为了降低编写组件文档时增加一些相关示例的难度。
+vuepress-plugin-demoblock-plus 是一个基于 Vuepress 的插件，它可以帮助你在编写文档的时候增加 Vue 示例，它的诞生初衷是为了降低编写组件文档时增加一些相关示例的难度。
 
 使用 Vuepress 编写组件示例有以下不足之处：
   * 1.组件示例和示例代码本质上一样，却需要写两遍。
   * 2.Vuepress 无法渲染 Markdown 中的 script 和 style 代码块。
 
-Vuepress-Plugin-Demoblock-Plus 参考了 [Element UI](https://github.com/element-plus/element-plus) 的文档渲染，实现了和它一样的，可在 Markdown 中直接编写示例的语法。
+vuepress-plugin-demoblock-plus 参考了 [Element UI](https://github.com/element-plus/element-plus) 的文档渲染，实现了和它一样的，可在 Markdown 中直接编写示例的语法。
 
 [查看Demo](https://xinlei3166.github.io/vuepress-demo/)
 
@@ -71,7 +71,21 @@ plugins: [
 ```
 
 
+
+markdown 中的vue代码包含的style内容，会被组合成一个style统一处理，如果需要使用css预处理器，需要提前指定并且手动安装使用的css预处理器。
+
+```js
+plugins: [
+  ['vuepress-plugin-demoblock-plus', {
+    cssPreprocessor: 'less'
+  }]
+]
+```
+
+
+
 markdown 中的vue代码被编译为了 vue 函数组件，需要把 import 转换为 require，这里可附加一些其他的转换。
+
 ```js
 plugins: [
   ['vuepress-plugin-demoblock-plus', {
