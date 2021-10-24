@@ -29,7 +29,7 @@ publisher:
   url: null
   username: roiding
 repository: https://github.com/roiding/plugin-baidu-analytics
-score: 0.3681481200996865
+score: 0.4572602543226857
 stars: 0
 unstable: false
 version: 2.0.0-beta.24

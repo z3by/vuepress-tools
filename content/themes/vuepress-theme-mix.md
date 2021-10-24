@@ -7,7 +7,7 @@ author:
   username: gavinliu0606
 bugs: https://github.com/gavinliu6/vuepress-theme-mix/issues
 category: theme
-date: '2021-08-11T12:26:51.286Z'
+date: '2021-10-19T14:53:22.739Z'
 deprecated: false
 description: A VuePress theme with a mix of features
 downloads: null
@@ -27,10 +27,10 @@ publisher:
   url: null
   username: gavinliu0606
 repository: https://github.com/gavinliu6/vuepress-theme-mix
-score: 0.5104294064821421
+score: 0.5794300215430555
 stars: 0
 unstable: false
-version: 1.1.2
+version: 1.2.5
 watchers: 0
 
 ---
