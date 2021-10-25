@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/10758182?v=4
+  avatar: null
   email: www@cnguu.cn
   name: cnguu
   url: null
@@ -16,7 +16,7 @@ keywords:
 - vuepress
 - theme
 - yur
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-theme-yur
 npm: https://www.npmjs.com/package/vuepress-theme-yur
@@ -28,10 +28,10 @@ publisher:
   username: cnguu
 repository: https://github.com/cnguu/vuepress-theme-yur
 score: 0.6158470021445055
-stars: 141
+stars: 0
 unstable: false
 version: 3.1.11
-watchers: 141
+watchers: 0
 
 ---
 
