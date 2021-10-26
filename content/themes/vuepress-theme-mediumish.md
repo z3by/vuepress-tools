@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/5597992?v=4
+  avatar: null
   email: wowthemesnet@gmail.com
   name: sal
   url: null
@@ -19,7 +19,7 @@ keywords:
 - blog-theme
 - blog
 - theme
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-theme-mediumish
 npm: https://www.npmjs.com/package/vuepress-theme-mediumish
@@ -31,10 +31,10 @@ publisher:
   username: wowthemesnet
 repository: https://github.com/wowthemesnet/mediumish-vuepress-blog-theme
 score: 0.6183471233783024
-stars: 77
+stars: 0
 unstable: false
 version: 1.0.32
-watchers: 77
+watchers: 0
 
 ---
 
