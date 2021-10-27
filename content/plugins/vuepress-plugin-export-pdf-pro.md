@@ -24,7 +24,7 @@ publisher:
   url: null
   username: jarome
 repository: https://github.com/jiangliuhong/vuepress-plugin-export-pdf
-score: 0.5140699450495604
+score: 0.5141709794745603
 stars: 2
 unstable: false
 version: 1.0.2

@@ -30,7 +30,7 @@ publisher:
   url: null
   username: imgradeone
 repository: https://github.com/imgradeone/vuepress-plugin-plausible
-score: 0.46386226422201343
+score: 0.46393098957879536
 stars: 0
 unstable: true
 version: 0.0.3

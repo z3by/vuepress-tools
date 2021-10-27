@@ -30,7 +30,7 @@ publisher:
   url: null
   username: gnqg
 repository: https://github.com/GNQG/vuepress-plugin-remote-url
-score: 0.291033746883535
+score: 0.2912652798019306
 stars: 0
 unstable: true
 version: 0.1.3

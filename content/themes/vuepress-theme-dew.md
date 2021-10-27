@@ -30,7 +30,7 @@ publisher:
   url: null
   username: hvnobug
 repository: https://github.com/hvnobug/vuepress-theme-dew
-score: 0.3572409676150601
+score: 0.3556200178719866
 stars: 0
 unstable: false
 version: 1.0.2

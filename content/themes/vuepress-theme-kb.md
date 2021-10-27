@@ -24,7 +24,7 @@ publisher:
   url: null
   username: orcafit
 repository: https://github.com/aphelionsoftware/vuepress-theme-kb
-score: 0.48926782555287673
+score: 0.4893617710663337
 stars: 0
 unstable: false
 version: 1.3.10

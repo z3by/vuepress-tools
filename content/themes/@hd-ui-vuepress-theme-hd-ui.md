@@ -30,7 +30,7 @@ publisher:
   url: null
   username: upcwangying
 repository: https://github.com/hd-ui/hd-ui
-score: 0.42531036185077375
+score: 0.42335721068787135
 stars: 0
 unstable: true
 version: 0.0.2

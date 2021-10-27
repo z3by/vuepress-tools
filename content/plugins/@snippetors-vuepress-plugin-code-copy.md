@@ -5,22 +5,24 @@ author:
   name: Snippetors
   url: null
   username: Snippetors
-bugs: https://github.com/Snippetors/snippets/labels/plugin%3Atabs
+bugs: https://github.com/Snippetors/snippets/labels/plugin%3Acode-copy
 category: plugin
-date: '2021-09-20T14:59:51.173Z'
+date: '2021-09-20T13:55:53.783Z'
 deprecated: false
-description: Vuepress plugin - markdown custom container to display content in tabs
+description: Vuepress plugin - a button to copy code block
 downloads: null
-homepage: https://snippetors.github.io/plugins/vuepress-plugin-tabs
+homepage: https://snippetors.github.io/plugins/vuepress-plugin-code-copy
 keywords:
 - vuepress-plugin
 - vuepress
 - plugin
-- tabs
+- code-copy
+- copy
+- clipboard
 license: MIT License
 maintainers: null
-name: '@snippetors/vuepress-plugin-tabs'
-npm: https://www.npmjs.com/package/%40snippetors%2Fvuepress-plugin-tabs
+name: '@snippetors/vuepress-plugin-code-copy'
+npm: https://www.npmjs.com/package/%40snippetors%2Fvuepress-plugin-code-copy
 publisher:
   avatar: null
   email: lucienzhangzl@outlook.com
@@ -28,7 +30,7 @@ publisher:
   url: null
   username: lucienzhangzl
 repository: https://github.com/Snippetors/snippets
-score: 0.6243362458491594
+score: 0.6233803778968565
 stars: 4
 unstable: false
 version: 1.1.0

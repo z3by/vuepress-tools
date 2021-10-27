@@ -30,7 +30,7 @@ publisher:
   url: null
   username: dzouras
 repository: https://github.com/getnacelle/vuepress-theme-docs
-score: 0.45820455098708057
+score: 0.4549899811659472
 stars: 0
 unstable: false
 version: 1.2.0

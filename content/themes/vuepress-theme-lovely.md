@@ -28,7 +28,7 @@ publisher:
   url: null
   username: zp961214
 repository: https://github.com/zp961214/vuepress-theme-lovely
-score: 0.26224376999225174
+score: 0.2624084979042269
 stars: 0
 unstable: true
 version: 0.0.6

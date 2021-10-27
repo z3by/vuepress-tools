@@ -29,11 +29,11 @@ publisher:
   url: null
   username: shigma
 repository: https://github.com/Shigma/vuepress-plugin-pangu
-score: 0.08249513989122079
-stars: 3
+score: 0.0825622532185069
+stars: 2
 unstable: false
 version: 1.0.1
-watchers: 3
+watchers: 2
 
 ---
 

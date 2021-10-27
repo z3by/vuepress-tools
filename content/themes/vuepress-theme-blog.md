@@ -24,7 +24,7 @@ publisher:
   url: null
   username: ycm.jason
 repository: https://github.com/ycmjason/vuepress-theme-blog
-score: 0.27179147820035143
+score: 0.2720057574418511
 stars: 0
 unstable: true
 version: 0.0.1

@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/5597992?v=4
   email: wowthemesnet@gmail.com
   name: sal
   url: null
@@ -19,7 +19,7 @@ keywords:
 - blog-theme
 - blog
 - theme
-license: null
+license: MIT License
 maintainers: null
 name: vuepress-theme-mediumish
 npm: https://www.npmjs.com/package/vuepress-theme-mediumish
@@ -30,11 +30,19 @@ publisher:
   url: null
   username: wowthemesnet
 repository: https://github.com/wowthemesnet/mediumish-vuepress-blog-theme
-score: 0.6183471233783024
-stars: 0
+score: 0.6183308749031674
+stars: 77
 unstable: false
 version: 1.0.32
-watchers: 0
+watchers: 77
 
 ---
 
+
+# VuePress Theme Mediumish
+
+This is a free VuePress Bootstrap Blogging Theme, Medium styled, fully featured: multi author, search, categories, newsletter, Disqus, RSS, sitemap, TOC, Prism, 100% Github pages compatible, ready for automatic deployment.
+
+[View Demo](https://wowthemesnet.github.io/vuepress-theme-mediumish/) | [View Documentation](https://bootstrapstarter.com/vuepress-theme-mediumish/)
+
+![mediumish vuepress blogging theme](https://wowthemesnet.github.io/vuepress-theme-mediumish/assets/img/screenshot.jpg)

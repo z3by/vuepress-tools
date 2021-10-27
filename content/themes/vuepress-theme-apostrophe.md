@@ -30,7 +30,7 @@ publisher:
   url: null
   username: alexbea
 repository: https://github.com/apostrophecms/vuepress-theme-apostrophe
-score: 0.501632285312442
+score: 0.5017820222462733
 stars: 0
 unstable: false
 version: 1.1.0

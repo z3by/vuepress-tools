@@ -27,7 +27,7 @@ publisher:
   url: null
   username: laughingwu
 repository: https://github.com/v-laughing/vuepress-plugin-bgfire
-score: 0.17726687658580415
+score: 0.17731110087507412
 stars: 0
 unstable: false
 version: 1.0.0

@@ -28,7 +28,7 @@ publisher:
   url: null
   username: bioboost
 repository: https://github.com/BioBoost/vuepress-theme-challenges
-score: 0.12098420508021415
+score: 0.12016050630598693
 stars: 0
 unstable: true
 version: 0.0.1

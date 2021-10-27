@@ -27,7 +27,7 @@ publisher:
   url: null
   username: tjventurini
 repository: https://github.com/tjventurini/vuepress-plugin-zengarden-publish
-score: 0.359174923390004
+score: 0.3579495622312181
 stars: 0
 unstable: false
 version: 1.0.1

@@ -28,7 +28,7 @@ publisher:
   url: null
   username: tanas
 repository: https://github.com/vuepress/vuepress-community
-score: 0.1785008943998942
+score: 0.17862229284209413
 stars: 69
 unstable: false
 version: 1.1.2

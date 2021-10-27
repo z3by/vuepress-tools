@@ -31,7 +31,7 @@ publisher:
   url: null
   username: maxcwolf
 repository: https://github.com/maxcwolf/vuepress-theme-dynamicsidebar
-score: 0.2998381825509328
+score: 0.300088502916211
 stars: 0
 unstable: false
 version: 1.0.0

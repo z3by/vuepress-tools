@@ -30,7 +30,7 @@ publisher:
   url: null
   username: winyh
 repository: https://github.com/winyh/vuepress-plugin-demo-container
-score: 0.42542268093999824
+score: 0.42305689155829473
 stars: 0
 unstable: true
 version: 0.0.3

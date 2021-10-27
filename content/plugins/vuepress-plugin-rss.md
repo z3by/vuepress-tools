@@ -24,7 +24,7 @@ publisher:
   url: null
   username: sangnd
 repository: https://github.com/dacsang97/vuepress-plugin-rss
-score: 0.22060414399012893
+score: 0.2205821279324638
 stars: 15
 unstable: false
 version: 2.0.0

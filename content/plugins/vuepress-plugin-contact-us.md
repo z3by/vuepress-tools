@@ -31,7 +31,7 @@ publisher:
   url: null
   username: hiyue
 repository: https://github.com/HiYue/vuepress-plugin-contact-us
-score: 0.30983854276525835
+score: 0.31007806413493594
 stars: 6
 unstable: false
 version: 1.0.3

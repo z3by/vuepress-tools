@@ -35,7 +35,7 @@ publisher:
   url: null
   username: webmasterish
 repository: https://github.com/webmasterish/vuepress-plugin-autometa
-score: 0.2625413468692628
+score: 0.261600584219038
 stars: 41
 unstable: true
 version: 0.1.13

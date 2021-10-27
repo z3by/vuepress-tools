@@ -28,7 +28,7 @@ publisher:
   url: null
   username: vinicius-reis
 repository: https://github.com/vinicius73/vuepress-plugin-merge-pages
-score: 0.36431050796186226
+score: 0.3616466307299935
 stars: 4
 unstable: false
 version: 1.3.0

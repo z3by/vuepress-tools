@@ -27,7 +27,7 @@ publisher:
   url: null
   username: sigure_mo
 repository: https://github.com/moefyit/vuepress-plugin-dynamic-title
-score: 0.46409229472930547
+score: 0.46149235018067125
 stars: 6
 unstable: false
 version: 1.0.0

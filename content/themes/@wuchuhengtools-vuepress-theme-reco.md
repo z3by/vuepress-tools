@@ -27,7 +27,7 @@ publisher:
   url: null
   username: wuchuheng
 repository: https://github.com/vuepress-reco/vuepress-theme-reco
-score: 0.06014489016005653
+score: 0.06026038908107664
 stars: 0
 unstable: false
 version: 1.6.7

@@ -28,7 +28,7 @@ publisher:
   url: null
   username: demtario
 repository: https://github.com/demtario/vuepress-plugin-global-variables
-score: 0.41616405726317407
+score: 0.4138405527802315
 stars: 1
 unstable: true
 version: 0.2.0

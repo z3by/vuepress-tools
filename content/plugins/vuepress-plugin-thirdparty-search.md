@@ -32,7 +32,7 @@ publisher:
   url: null
   username: evan_xu
 repository: https://github.com/xugaoyi/vuepress-plugin-thirdparty-search
-score: 0.36819701662854987
+score: 0.3666444881044228
 stars: 3
 unstable: false
 version: 1.0.2

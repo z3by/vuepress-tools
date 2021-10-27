@@ -26,7 +26,7 @@ publisher:
   url: null
   username: mizuka
 repository: https://github.com/mizuka-wu/vuepress-plugin-pixi-live2d-display
-score: 0.5090936471489838
+score: 0.5091606716641064
 stars: 1
 unstable: false
 version: 1.0.1

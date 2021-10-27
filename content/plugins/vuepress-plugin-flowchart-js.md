@@ -29,7 +29,7 @@ publisher:
   url: null
   username: wxsm
 repository: https://github.com/wxsms/vuepress-plugin-flowchart-js
-score: 0.5240161203808893
+score: 0.5216434989814065
 stars: 2
 unstable: false
 version: 2.0.2

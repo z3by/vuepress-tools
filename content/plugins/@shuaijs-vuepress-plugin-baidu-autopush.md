@@ -28,7 +28,7 @@ publisher:
   url: null
   username: stanye
 repository: https://github.com/shuaijs/vuepress-plugin-baidu-autopush
-score: 0.3495632067280604
+score: 0.34868358985710934
 stars: 0
 unstable: false
 version: 1.0.0

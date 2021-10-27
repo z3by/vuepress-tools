@@ -7,7 +7,7 @@ author:
   username: mister-hope
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues
 category: plugin
-date: '2021-08-27T02:22:01.008Z'
+date: '2021-09-19T03:51:39.256Z'
 deprecated: false
 description: Reading time plugin for vuepress
 downloads: null
@@ -27,10 +27,10 @@ publisher:
   url: null
   username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
-score: 0.6942101311865225
+score: 0.6945279714297194
 stars: 285
 unstable: false
-version: 1.20.1
+version: 1.20.3
 watchers: 285
 
 ---

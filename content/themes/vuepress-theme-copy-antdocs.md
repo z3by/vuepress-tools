@@ -30,7 +30,7 @@ publisher:
   url: null
   username: evan_wu
 repository: https://github.com/zpfz/vuepress-theme-antdocs
-score: 0.1803215335976186
+score: 0.18044011615891217
 stars: 0
 unstable: false
 version: 1.8.6

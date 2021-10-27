@@ -28,7 +28,7 @@ publisher:
   url: null
   username: nsznsznjsz
 repository: https://github.com/nsznsznjsz/vuepress-plugin-post-filter
-score: 0.4641671585501759
+score: 0.4616642144967022
 stars: 0
 unstable: false
 version: 1.0.2

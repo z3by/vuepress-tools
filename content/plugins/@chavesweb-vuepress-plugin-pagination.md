@@ -26,7 +26,7 @@ publisher:
   url: null
   username: chavesgu
 repository: https://github.com/Yubisaki/vuepress-plugin-pagination
-score: 0.06119878583361581
+score: 0.061318885727285055
 stars: 0
 unstable: false
 version: 1.0.1

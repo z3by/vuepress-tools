@@ -26,7 +26,7 @@ publisher:
   url: null
   username: staugur
 repository: https://github.com/staugur/vuepress-plugin-utterances
-score: 0.43909479248328653
+score: 0.43753053862721947
 stars: 4
 unstable: true
 version: 0.2.0

@@ -30,7 +30,7 @@ publisher:
   url: null
   username: xitice
 repository: https://github.com/xitice/vuepress-plugin-demo-show
-score: 0.3498279205583263
+score: 0.3489726006907472
 stars: 0
 unstable: false
 version: 1.0.0

@@ -7,7 +7,7 @@ author:
   username: mister-hope
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues
 category: plugin
-date: '2021-08-27T02:22:07.688Z'
+date: '2021-09-19T03:51:41.484Z'
 deprecated: false
 description: Copy Code plugin for vuepress
 downloads: null
@@ -28,10 +28,10 @@ publisher:
   url: null
   username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
-score: 0.6809167889645094
+score: 0.6812395386636443
 stars: 285
 unstable: false
-version: 1.20.1
+version: 1.20.3
 watchers: 285
 
 ---

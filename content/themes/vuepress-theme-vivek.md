@@ -31,7 +31,7 @@ publisher:
   url: null
   username: cavalheiro
 repository: https://github.com/eddievandeer/vuepress-theme-vivek
-score: 0.5023312175396455
+score: 0.5024360569783693
 stars: 0
 unstable: false
 version: 1.0.2

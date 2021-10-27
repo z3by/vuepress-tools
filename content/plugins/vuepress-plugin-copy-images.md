@@ -28,7 +28,7 @@ publisher:
   url: null
   username: wywei
 repository: https://github.com/wyw-s/vuepress-plugin-copy-images
-score: 0.5026188027402998
+score: 0.5026868779059346
 stars: 1
 unstable: false
 version: 1.1.0

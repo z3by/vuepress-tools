@@ -32,7 +32,7 @@ publisher:
   url: null
   username: philxu
 repository: https://github.com/dream2023/vuepress-plugin-run
-score: 0.07646986127977523
+score: 0.07556717706745278
 stars: 26
 unstable: false
 version: 1.0.1

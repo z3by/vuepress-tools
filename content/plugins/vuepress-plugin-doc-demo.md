@@ -30,7 +30,7 @@ publisher:
   url: null
   username: jinxiaoman
 repository: https://github.com/wc-code/vuepress-plugin-doc-demo
-score: 0.4285808281827518
+score: 0.42809619271957555
 stars: 0
 unstable: true
 version: 0.0.6

@@ -25,7 +25,7 @@ publisher:
   url: null
   username: tangxiaomi
 repository: https://github.com/im/vuepress-theme-travis
-score: 0.37087766798730903
+score: 0.3713942341704037
 stars: 0
 unstable: false
 version: 1.1.2

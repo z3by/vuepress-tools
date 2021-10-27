@@ -30,7 +30,7 @@ publisher:
   url: null
   username: wenfangcao
 repository: https://github.com/qrac/vuepress-theme-musubii
-score: 0.39181624395421577
+score: 0.3906435240970991
 stars: 0
 unstable: true
 version: 0.0.2

@@ -26,7 +26,7 @@ publisher:
   url: null
   username: lvqq
 repository: https://github.com/lvqq/vuepress-plugin-click
-score: 0.37723301256623365
+score: 0.376217541235279
 stars: 0
 unstable: false
 version: 1.0.0

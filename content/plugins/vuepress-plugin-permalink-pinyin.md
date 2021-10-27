@@ -27,7 +27,7 @@ publisher:
   url: null
   username: viko16
 repository: https://github.com/viko16/vuepress-plugin-permalink-pinyin
-score: 0.6485615713776309
+score: 0.64867559221617
 stars: 7
 unstable: false
 version: 1.0.0

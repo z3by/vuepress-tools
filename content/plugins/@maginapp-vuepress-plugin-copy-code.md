@@ -27,7 +27,7 @@ publisher:
   url: null
   username: maginapp
 repository: https://github.com/maginapp/vuepress-plugin-copy-code
-score: 0.5096113791923842
+score: 0.5097546209086694
 stars: 0
 unstable: false
 version: 1.0.0

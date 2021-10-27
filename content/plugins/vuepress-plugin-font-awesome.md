@@ -31,7 +31,7 @@ publisher:
   url: null
   username: hiyue
 repository: https://github.com/HiYue/vuepress-component-font-awesome
-score: 0.14992655501470437
+score: 0.1499648109267471
 stars: 6
 unstable: false
 version: 1.90.6

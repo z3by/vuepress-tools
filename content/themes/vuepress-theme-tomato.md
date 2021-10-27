@@ -28,7 +28,7 @@ publisher:
   url: null
   username: destinytaoer
 repository: https://github.com/destinytaoer/vuepress-theme-tomato
-score: 0.3656130084421285
+score: 0.3657210897796771
 stars: 0
 unstable: false
 version: 1.0.1
