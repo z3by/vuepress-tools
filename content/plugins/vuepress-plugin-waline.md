@@ -7,7 +7,7 @@ author:
   username: xinlei3166
 bugs: https://github.com/xinlei3166/vuepress-plugin-waline/issues
 category: plugin
-date: '2021-10-14T09:38:41.411Z'
+date: '2021-10-29T08:04:46.351Z'
 deprecated: false
 description: vuepress plugin for waline
 downloads: null
@@ -29,10 +29,10 @@ publisher:
   url: null
   username: xinlei3166
 repository: https://github.com/xinlei3166/vuepress-plugin-waline
-score: 0.49664335194681264
+score: 0.4968394112445641
 stars: 1
 unstable: true
-version: 0.1.0-alpha.0
+version: 0.1.0
 watchers: 1
 
 ---
@@ -41,9 +41,9 @@ watchers: 1
 
 ## 简介
 
-vuepress-plugin-waline 是一个基于 Vuepress 的插件，它可以帮助你更快的接入 [Waline](https://waline.js.org) 评论系统。
+vuepress-plugin-waline 是一个基于 Vuepress 2.x 的插件，它可以帮助你更快的接入 [Waline](https://waline.js.org) 评论系统。
 
-[查看Demo](https://xinlei3166.github.io/vuepress-demo/)
+[查看Demo](https://xinlei3166.github.io/about.html)
 
 
 
@@ -62,7 +62,9 @@ yarn add -D vuepress-plugin-waline
 
 ```js
 plugins: [
-  ['vuepress-plugin-waline']
+  ['vuepress-plugin-waline', {
+    serverURL: 'https://waline.vercel.app'
+  }]
 ]
 ```
 

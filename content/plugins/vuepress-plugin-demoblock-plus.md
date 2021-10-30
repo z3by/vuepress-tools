@@ -7,7 +7,7 @@ author:
   username: xinlei3166
 bugs: https://github.com/xinlei3166/vuepress-plugin-demoblock-plus/issues
 category: plugin
-date: '2021-10-27T09:13:12.980Z'
+date: '2021-10-29T07:41:06.219Z'
 deprecated: false
 description: vuepress plugin for demoblock
 downloads: null
@@ -27,10 +27,10 @@ publisher:
   url: null
   username: xinlei3166
 repository: https://github.com/xinlei3166/vuepress-plugin-demoblock-plus
-score: 0.5268227164175973
+score: 0.5269850929182529
 stars: 4
 unstable: false
-version: 1.3.0
+version: 1.3.2
 watchers: 4
 
 ---

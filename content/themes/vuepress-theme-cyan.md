@@ -7,7 +7,7 @@ author:
   username: null
 bugs: https://github.com/CyanH/vuepress-theme-cyan/issues
 category: theme
-date: '2021-10-25T11:41:41.017Z'
+date: '2021-10-29T07:47:13.425Z'
 deprecated: false
 description: "\u5C0F\u6E05\u65B0\u770B\u677F\u5A18\u4E3B\u9898,\u57FA\u4E8Evuepress-theme-ting\u4FEE\
   \u6539"
@@ -27,10 +27,10 @@ publisher:
   url: null
   username: muqingzi
 repository: https://github.com/CyanH/vuepress-theme-cyan
-score: 0.49822225790444546
+score: 0.4987949501804787
 stars: 0
 unstable: false
-version: 1.0.3
+version: 1.0.5
 watchers: 0
 
 ---
