@@ -7,18 +7,29 @@ author:
   username: mister-hope
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues
 category: plugin
-date: '2021-09-19T03:51:43.778Z'
+date: '2021-10-30T14:34:54.969Z'
 deprecated: false
-description: Sitemap plugin for vuepress
+description: Markdown enhancement for vuepress
 downloads: null
-homepage: https://vuepress-theme-hope.github.io/sitemap/
+homepage: https://vuepress-theme-hope.github.io/md-enhance/
 keywords:
 - vuepress-plugin
-- sitemap
+- markdown
+- align
+- superscript
+- subscript
+- footnote
+- flowchart
+- tex
+- latex
+- katex
+- mark
+- presentation
+- reveal.js
 license: MIT License
 maintainers: null
-name: '@mr-hope/vuepress-plugin-sitemap'
-npm: https://www.npmjs.com/package/%40mr-hope%2Fvuepress-plugin-sitemap
+name: vuepress-plugin-md-enhance
+npm: https://www.npmjs.com/package/vuepress-plugin-md-enhance
 publisher:
   avatar: null
   email: zhangbowang1998@gmail.com
@@ -26,11 +37,11 @@ publisher:
   url: null
   username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
-score: 0.6798077806254612
-stars: 289
+score: 0.6539000101823542
+stars: 291
 unstable: false
-version: 1.20.3
-watchers: 289
+version: 1.20.4
+watchers: 291
 
 ---
 

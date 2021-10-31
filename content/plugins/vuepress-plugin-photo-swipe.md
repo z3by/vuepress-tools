@@ -6,22 +6,23 @@ author:
   url: https://mrhope.site
   username: mister-hope
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues
-category: theme
-date: '2021-09-19T03:51:45.390Z'
+category: plugin
+date: '2021-10-30T14:34:54.916Z'
 deprecated: false
-description: Theme types for vuepress-theme-hope
+description: Photo Swipe plugin for vuepress
 downloads: null
-homepage: https://github.com/vuepress-theme-hope/vuepress-theme-hope/tree/v1/packages/theme-types#readme
+homepage: https://vuepress-theme-hope.github.io/photo-swipe/
 keywords:
-- vuepress-theme
-- types
+- vuepress-plugin
 - vuepress
-- vuepress-theme-hope
-- mr-hope
+- photo-swipe
+- preview
+- zoom
+- picture
 license: MIT License
 maintainers: null
-name: '@mr-hope/vuepress-theme-types'
-npm: https://www.npmjs.com/package/%40mr-hope%2Fvuepress-theme-types
+name: vuepress-plugin-photo-swipe
+npm: https://www.npmjs.com/package/vuepress-plugin-photo-swipe
 publisher:
   avatar: null
   email: zhangbowang1998@gmail.com
@@ -29,11 +30,11 @@ publisher:
   url: null
   username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
-score: 0.6777791786172052
-stars: 289
+score: 0.6708215516364233
+stars: 291
 unstable: false
-version: 1.20.3
-watchers: 289
+version: 1.20.4
+watchers: 291
 
 ---
 

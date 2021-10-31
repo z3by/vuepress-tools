@@ -31,10 +31,10 @@ publisher:
   username: newsbielt703
 repository: https://github.com/ekoeryanto/vuepress-plugin-sitemap
 score: 0.0460146391606335
-stars: 84
+stars: 85
 unstable: true
 version: 0.0.1
-watchers: 84
+watchers: 85
 
 ---
 

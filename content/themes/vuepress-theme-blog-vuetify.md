@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/4360663?v=4
+  avatar: null
   email: null
   name: ttskch
   url: null
-  username: ttskch
+  username: null
 bugs: https://github.com/ttskch/vuepress-theme-blog-vuetify/issues
 category: theme
 date: '2020-12-14T12:14:39.753Z'
@@ -19,7 +19,7 @@ keywords:
 - vuepress-theme
 - blog
 - blog-theme
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-theme-blog-vuetify
 npm: https://www.npmjs.com/package/vuepress-theme-blog-vuetify
@@ -31,10 +31,10 @@ publisher:
   username: ttskch
 repository: https://github.com/ttskch/vuepress-theme-blog-vuetify
 score: 0.5932050313813383
-stars: 30
+stars: 0
 unstable: false
 version: 1.6.2
-watchers: 30
+watchers: 0
 
 ---
 

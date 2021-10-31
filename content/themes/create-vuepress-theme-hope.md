@@ -6,21 +6,20 @@ author:
   url: https://mrhope.site
   username: mister-hope
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues
-category: plugin
-date: '2021-10-30T14:34:55.121Z'
+category: theme
+date: '2021-10-30T14:34:54.063Z'
 deprecated: false
-description: SEO plugin for vuepress
+description: Theme create shortcut for yarn
 downloads: null
-homepage: https://vuepress-theme-hope.github.io/seo/
+homepage: https://github.com/vuepress-theme-hope/vuepress-theme-hope/tree/v1/packages/create#readme
 keywords:
-- vuepress-plugin
-- seo
-- search
-- share
+- create
+- vuepress
+- vuepress-theme-hope
 license: MIT License
 maintainers: null
-name: '@mr-hope/vuepress-plugin-seo'
-npm: https://www.npmjs.com/package/%40mr-hope%2Fvuepress-plugin-seo
+name: create-vuepress-theme-hope
+npm: https://www.npmjs.com/package/create-vuepress-theme-hope
 publisher:
   avatar: null
   email: zhangbowang1998@gmail.com
@@ -28,7 +27,7 @@ publisher:
   url: null
   username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
-score: 0.6813035582872746
+score: 0.6567268913759137
 stars: 291
 unstable: false
 version: 1.20.4

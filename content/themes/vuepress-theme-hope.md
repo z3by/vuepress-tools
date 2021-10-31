@@ -6,20 +6,21 @@ author:
   url: https://mrhope.site
   username: mister-hope
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues
-category: plugin
-date: '2021-09-19T03:51:39.256Z'
+category: theme
+date: '2021-10-30T14:34:59.256Z'
 deprecated: false
-description: Reading time plugin for vuepress
+description: A light vuepress theme with tons for features
 downloads: null
-homepage: https://vuepress-theme-hope.github.io/reading-time/
+homepage: https://vuepress-theme-hope.github.io
 keywords:
-- vuepress-plugin
-- reading time
-- word count
+- vuepress-theme
+- vuepress-blog
+- vuepress-theme-blog
+- vuepress
 license: MIT License
 maintainers: null
-name: '@mr-hope/vuepress-plugin-reading-time'
-npm: https://www.npmjs.com/package/%40mr-hope%2Fvuepress-plugin-reading-time
+name: vuepress-theme-hope
+npm: https://www.npmjs.com/package/vuepress-theme-hope
 publisher:
   avatar: null
   email: zhangbowang1998@gmail.com
@@ -27,11 +28,11 @@ publisher:
   url: null
   username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
-score: 0.6945279714297194
-stars: 289
+score: 0.6755074230209226
+stars: 291
 unstable: false
-version: 1.20.3
-watchers: 289
+version: 1.20.4
+watchers: 291
 
 ---
 

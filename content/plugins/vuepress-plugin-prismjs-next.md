@@ -30,7 +30,7 @@ publisher:
   url: null
   username: xufangyi
 repository: https://github.com/xfy520/vuepress-plugin-prismjs-next
-score: 0.4938794567120681
+score: 0.4940538119022075
 stars: 0
 unstable: true
 version: 0.26.20
