@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/29194135?v=4
+  avatar: null
   email: null
   name: jaykenxie
   url: null
-  username: jianjunx
+  username: null
 bugs: https://github.com/recoluan/vuepress-theme-reco/issues
 category: theme
 date: '2019-07-10T07:24:35.471Z'
@@ -16,7 +16,7 @@ keywords:
 - vuepress
 - vue
 - theme
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-theme-ken
 npm: https://www.npmjs.com/package/vuepress-theme-ken
@@ -28,11 +28,10 @@ publisher:
   username: jaykenxie
 repository: https://github.com/jaykenxie/vuepress-theme-ken
 score: 0.2995195179700509
-stars: 1
+stars: 0
 unstable: false
 version: 1.2.0
-watchers: 1
+watchers: 0
 
 ---
 
-# vuepress-theme-ken

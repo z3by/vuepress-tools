@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/16408157?v=4
+  avatar: null
   email: orekish@163.com
   name: OrekiSH
   url: null
@@ -18,7 +18,7 @@ keywords:
 - theme
 - documentation
 - vuepress
-license: MIT License
+license: null
 maintainers: null
 name: '@dumi-theme/dumi-theme-vuepress'
 npm: https://www.npmjs.com/package/%40dumi-theme%2Fdumi-theme-vuepress
@@ -30,36 +30,10 @@ publisher:
   username: orekish
 repository: https://github.com/OrekiSH/dumi-theme
 score: 0.3092821842740212
-stars: 4
+stars: 0
 unstable: true
 version: 0.1.0
-watchers: 4
+watchers: 0
 
 ---
 
-<h1 align="center">dumi-theme</h1>
-
-📖 Themes for dumi.
-
-English | <a href="https://github.com/OrekiSH/dumi-theme/blob/main/README-zh_CN.md">简体中文</a>
-
-## Install
-
-* First of all, install [dumi v1.x](https://github.com/umijs/dumi)
-
-* Then install the theme
-
-```bash
-$ npm i -D @dumi-theme/dumi-theme-vuepress
-# OR
-$ yarn add -D @dumi-theme/dumi-theme-vuepress
-```
-
-## Usage
-
-* That's all, dumi will resolve the theme automatically.
-
-## VuePress Theme Preview
-
-![pc mode](https://s3.ax1x.com/2021/02/21/yIXHJK.png)
-![mobile mode](https://s3.ax1x.com/2021/02/21/yIX7i6.png)

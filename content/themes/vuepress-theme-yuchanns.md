@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/25029451?v=4
+  avatar: null
   email: airamusume@gmail.com
   name: yuchanns
   url: null
@@ -16,7 +16,7 @@ keywords:
 - blog
 - theme
 - vuepress
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-theme-yuchanns
 npm: https://www.npmjs.com/package/vuepress-theme-yuchanns
@@ -28,29 +28,10 @@ publisher:
   username: yuchanns
 repository: https://github.com/yuchanns/vuepress-theme-yuchanns
 score: 0.47669570099577224
-stars: 10
+stars: 0
 unstable: false
 version: 1.0.0
-watchers: 10
+watchers: 0
 
 ---
 
-# VuePress Blog Theme yuchanns
-## ATTENTION PLEASE
-**THIS REPO HAS BEEN ARCHIVED !!!**
-
-**v2.0.0** compatible with Vuepress2 is under developing.
-
-Also you can have a look at same theme implemented in [Gatsby theme yuchanns](https://github.com/yuchanns/gatsby-theme-yuchanns).
-
-## Dev
-```bash
-# clone repo
-git clone git@github.com:yuchanns/vuepress-theme-yuchanns.git
-# pull submodule
-git submodule update --init --recursive
-# install dependencies
-yarn
-# start development
-yarn dev
-```

@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/12029165?v=4
+  avatar: null
   email: null
   name: null
   url: null
-  username: im
+  username: null
 bugs: https://github.com/im/vuepress-theme-travis/issues
 category: theme
 date: '2019-07-26T08:42:54.340Z'
@@ -14,7 +14,7 @@ downloads: null
 homepage: https://github.com/im/vuepress-theme-travis#readme
 keywords:
 - vuepress
-license: false
+license: null
 maintainers: null
 name: vuepress-theme-travis
 npm: https://www.npmjs.com/package/vuepress-theme-travis
@@ -33,4 +33,3 @@ watchers: 0
 
 ---
 
-# vuepress-theme-travis
