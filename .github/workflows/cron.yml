@@ -23,13 +23,13 @@ jobs:
           python ${GITHUB_WORKSPACE}/bin/fetch_packages.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_USER: z3by
+          GITHUB_USER: ${{ github.actor }}
       - name: Commit files
         run: |
           echo ${{ github.ref }}
           git add .
-          git config --local user.email "zoaby.am@gmail.com"
-          git config --local user.name "Ahmad Mostafa"
+          git config --local user.email "github-actions@github.com"
+          git config --local user.name "github-actions"
           git commit -m "AUTOMATED: fetch new vuepress themes and plugins" -a | exit 0
       - name: Push changes
         uses: ad-m/github-push-action@master
