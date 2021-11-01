@@ -31,10 +31,10 @@ publisher:
   username: ekoeryanto
 repository: https://github.com/ekoeryanto/vuepress-plugin-sitemap
 score: 0.2853961702003802
-stars: 85
+stars: 86
 unstable: false
 version: 2.3.1
-watchers: 85
+watchers: 86
 
 ---
 

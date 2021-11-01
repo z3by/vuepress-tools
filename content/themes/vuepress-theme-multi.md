@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/13756745?v=4
   email: null
   name: dmate
   url: null
-  username: null
+  username: cfharyadi
 bugs: https://github.com/cfharyadi/vuepress-theme-multi/issues
 category: theme
 date: '2018-05-26T12:54:54.239Z'
@@ -13,7 +13,7 @@ description: null
 downloads: null
 homepage: https://github.com/cfharyadi/vuepress-theme-multi#readme
 keywords: null
-license: null
+license: false
 maintainers: null
 name: vuepress-theme-multi
 npm: https://www.npmjs.com/package/vuepress-theme-multi

@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/156539?v=4
   email: null
   name: "Fran\xE7ois Romain"
   url: null
-  username: null
+  username: francoisromain
 bugs: https://github.com/francoisromain/vuepress-theme-system/issues
 category: theme
 date: '2021-01-08T15:55:06.607Z'
@@ -16,7 +16,7 @@ keywords:
 - vuepress
 - theme
 - system.css
-license: null
+license: false
 maintainers: null
 name: vuepress-theme-system
 npm: https://www.npmjs.com/package/vuepress-theme-system
@@ -35,3 +35,16 @@ watchers: 0
 
 ---
 
+# vuepress-theme-system
+
+- [vuepress](https://vuepress.vuejs.org/)
+- [Vue-cli / webpack](https://cli.vuejs.org/)
+- [Babel](https://babeljs.io/)
+- [Postcss](https://postcss.org/)
+- [Postcss-preset-env](https://preset-env.cssdb.org/)
+- [Eslint](https://eslint.org/)
+- [Prettier](https://prettier.io/)
+- [Standardjs](https://standardjs.com/)
+- [Stylelint](https://stylelint.io/)
+
+---

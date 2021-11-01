@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/54356406?v=4
   email: sabic@technikum-wien.at
   name: Alija Sabic
   url: null
-  username: null
+  username: studyathome-internationally
 bugs: https://github.com/studyathome-internationally/hub.js/issues
 category: theme
 date: '2021-09-02T09:16:43.741Z'
@@ -14,7 +14,7 @@ description: Vuepress theme for StudyATHome Internationally eLearning Sharing & 
 downloads: null
 homepage: https://github.com/studyathome-internationally/hub.js#readme
 keywords: null
-license: null
+license: false
 maintainers: null
 name: '@studyathome-internationally/vuepress-theme-hub'
 npm: https://www.npmjs.com/package/%40studyathome-internationally%2Fvuepress-theme-hub

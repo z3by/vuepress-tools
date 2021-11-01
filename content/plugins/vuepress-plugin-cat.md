@@ -25,10 +25,10 @@ publisher:
   username: qishaoxuan
 repository: https://github.com/QiShaoXuan/vuepress-plugin-cat
 score: 0.22911386248678675
-stars: 150
+stars: 151
 unstable: false
 version: 1.0.3
-watchers: 150
+watchers: 151
 
 ---
 

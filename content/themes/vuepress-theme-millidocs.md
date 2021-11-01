@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/7794717?v=4
   email: npm@heimbu.ch
   name: Alexander Heimbuch
   url: null
@@ -13,7 +13,7 @@ description: Vuepress documentation theme based on Milligram
 downloads: null
 homepage: https://github.com/alexander-heimbuch/vuepress-theme-millidocs#readme
 keywords: null
-license: null
+license: false
 maintainers: null
 name: vuepress-theme-millidocs
 npm: https://www.npmjs.com/package/vuepress-theme-millidocs
@@ -32,3 +32,32 @@ watchers: 0
 
 ---
 
+# Millidocs Theme
+
+Simple documentation theme for VuePress featuring [Milligram CSS framework](http://milligram.io/).
+
+One of the core features is a client side search and full responsiveness.
+
+## Installation
+
+Install the npm package:
+
+```bash
+$ npm i vuepress-theme-millidocs --save
+# or
+$ yarn add vuepress-theme-millidocs
+```
+
+Adapt your vuepress config `config.js`:
+
+```js
+module.exports = {
+  title: 'My page Title',
+  description: 'My docs description',
+  theme: 'milidocs'
+}
+```
+
+## Available Layouts
+
+This theme is made for _pages_ only and doesn't support _posts_ by default. By default a page with a sidebar is generated.

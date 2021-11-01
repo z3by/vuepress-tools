@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/8622362?v=4
   email: imsqrtthree@gmail.com
   name: sqrtthree
   url: null
-  username: null
+  username: sqrthree
 bugs: https://github.com/sqrthree/vuepress-theme-jian/issues
 category: theme
 date: '2020-02-27T15:39:26.672Z'
@@ -13,7 +13,7 @@ description: Just a vuepress theme.
 downloads: null
 homepage: https://github.com/sqrthree/vuepress-theme-jian#readme
 keywords: null
-license: null
+license: MIT License
 maintainers: null
 name: vuepress-theme-jian
 npm: https://www.npmjs.com/package/vuepress-theme-jian
@@ -32,3 +32,24 @@ watchers: 0
 
 ---
 
+# vuepress-theme-jian
+
+Just a vuepress theme, Zero config.
+
+## How to Use
+
+#### 1. Install
+
+```
+yarn add vuepress-theme-jian
+# npm install vuepress-theme-jian
+```
+
+#### 2. Using the theme
+
+```js
+// .vuepress/config.js
+module.exports = {
+  theme: 'jian',
+}
+```

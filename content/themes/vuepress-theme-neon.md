@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/21187224?v=4
   email: summer19941126@gmail.com
   name: summer1874
   url: null
@@ -15,7 +15,7 @@ homepage: https://github.com/summer1874/vuepress-theme-neon
 keywords:
 - vuepress
 - theme
-license: null
+license: MIT License
 maintainers: null
 name: vuepress-theme-neon
 npm: https://www.npmjs.com/package/vuepress-theme-neon
@@ -34,3 +34,18 @@ watchers: 0
 
 ---
 
+> This branch is for Vuepress `1.x`
+
+
+# Vuepress Theme - neon
+
+:heart: neon theme for [Meteorlxy](https://vuepress-theme-meteorlxy.meteorlxy.cn/)
+
+:book: [Live Demo and Docs](https://summery1874.site/)
+
+## Installation
+
+```sh
+# for vuepress 1.x
+npm install vuepress-theme-neon
+```

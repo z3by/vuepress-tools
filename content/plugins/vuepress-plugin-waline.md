@@ -31,10 +31,10 @@ publisher:
   username: xinlei3166
 repository: https://github.com/xinlei3166/vuepress-plugin-waline
 score: 0.49835003572608505
-stars: 1
+stars: 2
 unstable: true
 version: 0.1.6
-watchers: 1
+watchers: 2
 
 ---
 
