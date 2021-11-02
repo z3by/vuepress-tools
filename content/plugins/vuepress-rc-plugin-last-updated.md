@@ -6,7 +6,7 @@ author:
   url: null
   username: YongHao0
 bugs: https://github.com/YongHao0/vuepress/issues
-category: plugin
+category: plugins
 date: '2020-09-15T06:32:12.278Z'
 deprecated: false
 description: last-updated plugin for vuepress

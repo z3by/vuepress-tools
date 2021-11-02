@@ -6,7 +6,7 @@ author:
   url: null
   username: winyh
 bugs: https://github.com/winyh/vuepress-plugin-demo-container/issues
-category: plugin
+category: plugins
 date: '2020-09-28T03:19:29.313Z'
 deprecated: false
 description: Vuepress plugin for demo block.

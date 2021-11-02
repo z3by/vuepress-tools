@@ -6,7 +6,7 @@ author:
   url: null
   username: JialuGong
 bugs: https://github.com/JialuGong/vuepress-plugin-progressive-image-loader/issues
-category: plugin
+category: plugins
 date: '2021-05-24T09:11:41.641Z'
 deprecated: false
 description: a image loader plugin for vuepress

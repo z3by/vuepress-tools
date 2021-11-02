@@ -6,7 +6,7 @@ author:
   url: null
   username: yzx9
 bugs: https://github.com/nsznsznjsz/vuepress-plugin-post-filter/issues/new
-category: plugin
+category: plugins
 date: '2021-02-10T02:29:12.426Z'
 deprecated: false
 description: Post filter plugin for vuepress-next

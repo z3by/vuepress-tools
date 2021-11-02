@@ -6,7 +6,7 @@ author:
   url: null
   username: newsbielt703
 bugs: https://github.com/newsbielt703/vuepress-plugin-mailchimp/issues
-category: plugin
+category: plugins
 date: '2020-03-27T07:03:24.140Z'
 deprecated: false
 description: A VuePress plugin for Mailchimp subscriptions

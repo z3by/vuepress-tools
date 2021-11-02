@@ -1,12 +1,12 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/20984527?v=4
+  avatar: null
   email: null
   name: busyrat
   url: null
-  username: busyrat
+  username: null
 bugs: https://github.com/busyrat/blog/issues
-category: plugin
+category: plugins
 date: '2019-08-20T07:19:01.095Z'
 deprecated: false
 description: "iconfont \u5B57\u4F53\u5E93\u5FEB\u901F\u751F\u6210\u6587\u6863"
@@ -17,7 +17,7 @@ keywords:
 - vuepress-plugin
 - iconfont
 - docs
-license: false
+license: null
 maintainers: null
 name: vuepress-plugin-iconfont-docs
 npm: https://www.npmjs.com/package/vuepress-plugin-iconfont-docs
@@ -36,12 +36,3 @@ watchers: 0
 
 ---
 
-# Blog
-
-找回写代码的乐趣
-
-![Github Actions](https://github.com/busyrat/blog/workflows/Deploy%20gh-pages/badge.svg)
-
-[github page](https://busyrat.github.io/blog/)
-
-[vuepress 1.x](https://v1.vuepress.vuejs.org/zh/guide/global-computed.html#site)

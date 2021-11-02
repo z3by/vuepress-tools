@@ -6,7 +6,7 @@ author:
   url: null
   username: vxhly
 bugs: https://github.com/vxhly/vuepress-plugin-nest/issues
-category: plugin
+category: plugins
 date: '2020-03-16T09:31:39.574Z'
 deprecated: false
 description: A vuepress plugin for canvas-nest.js

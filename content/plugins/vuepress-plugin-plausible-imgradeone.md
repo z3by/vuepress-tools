@@ -6,7 +6,7 @@ author:
   url: https://www.imgradeone.com
   username: imgradeone
 bugs: https://github.com/imgradeone/vuepress-plugin-plausible/issues
-category: plugin
+category: plugins
 date: '2021-09-25T06:07:09.438Z'
 deprecated: false
 description: Modified Plausible Analytics plugin for VuePress

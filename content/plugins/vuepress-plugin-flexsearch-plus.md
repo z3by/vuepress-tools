@@ -6,7 +6,7 @@ author:
   url: https://github.com/bajins
   username: bajins
 bugs: https://github.com/bajins/vuepress-plugin-flexsearch-plus/issues
-category: plugin
+category: plugins
 date: '2021-07-09T03:01:38.666Z'
 deprecated: false
 description: Next-Generation full text search library for Vuepress

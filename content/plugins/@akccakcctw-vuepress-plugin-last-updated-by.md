@@ -6,7 +6,7 @@ author:
   url: null
   username: akccakcctw
 bugs: https://github.com/akccakcctw/vuepress-plugin-last-updated-by/issues
-category: plugin
+category: plugins
 date: '2021-05-31T17:39:36.299Z'
 deprecated: false
 description: last-updated plugin for vuepress

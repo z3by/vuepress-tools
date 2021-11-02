@@ -6,7 +6,7 @@ author:
   url: null
   username: falstack
 bugs: https://github.com/falstack/vuepress-code-box/issues
-category: plugin
+category: plugins
 date: '2019-09-10T02:25:12.822Z'
 deprecated: false
 description: "\U0001F4DD Demo and code plugin for vuepress"

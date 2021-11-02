@@ -6,7 +6,7 @@ author:
   url: https://www.adamdehaven.com/
   username: adamdehaven
 bugs: https://github.com/adamdehaven/vuepress-plugin-custom-tooltip/issues
-category: plugin
+category: plugins
 date: '2021-06-12T12:29:13.904Z'
 deprecated: false
 description: A customizable, reusable tooltip component for VuePress. This plugin

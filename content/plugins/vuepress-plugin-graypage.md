@@ -6,7 +6,7 @@ author:
   url: https://zhousiwei.gitee.io
   username: zhousiwei
 bugs: https://github.com/JoeyBling/vuepress-plugin-graypage/issues
-category: plugin
+category: plugins
 date: '2020-09-29T09:32:46.422Z'
 deprecated: false
 description: "VuePress\u54C0\u60BC\u65E5\u7F51\u7AD9\u53D8\u7070. | Mourning website\

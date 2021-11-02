@@ -6,7 +6,7 @@ author:
   url: null
   username: John60676
 bugs: https://github.com/John60676/vuepress-plugin-google-adsense2/issues
-category: plugin
+category: plugins
 date: '2021-03-29T09:37:43.147Z'
 deprecated: false
 description: VuePress 2 plugin - google-adsense

@@ -6,7 +6,7 @@ author:
   url: null
   username: nine-theme
 bugs: https://github.com/nine-theme/vuepress-plugin-back-to-top/issues
-category: plugin
+category: plugins
 date: '2020-08-13T01:38:36.301Z'
 deprecated: false
 description: vuepress back to top plugin

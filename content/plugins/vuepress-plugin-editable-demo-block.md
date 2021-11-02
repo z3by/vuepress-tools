@@ -6,7 +6,7 @@ author:
   url: null
   username: clfeng
 bugs: https://github.com/clfeng/vuepress-editable-demo-block/issues
-category: plugin
+category: plugins
 date: '2021-10-31T09:56:18.140Z'
 deprecated: false
 description: Editable demo and code plugin for vuepress

@@ -6,7 +6,7 @@ author:
   url: https://github.com/web-liuyang
   username: a984584014
 bugs: https://github.com/web-liuyang/vuepress-plugin-handle-sidebar/issues
-category: plugin
+category: plugins
 date: '2021-03-10T12:24:00.967Z'
 deprecated: false
 description: "VuePress automatically generates directories, custom directories\u3002\

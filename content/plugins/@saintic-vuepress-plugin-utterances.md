@@ -6,7 +6,7 @@ author:
   url: null
   username: staugur
 bugs: https://github.com/staugur/vuepress-plugin-utterances/issues
-category: plugin
+category: plugins
 date: '2020-11-04T09:04:19.224Z'
 deprecated: false
 description: A simple comments plugin for vuepress

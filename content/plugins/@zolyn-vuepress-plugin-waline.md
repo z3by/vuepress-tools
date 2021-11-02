@@ -6,7 +6,7 @@ author:
   url: null
   username: Zolyn
 bugs: https://github.com/Zolyn/vuepress-plugin-waline/issues
-category: plugin
+category: plugins
 date: '2021-05-22T12:00:19.287Z'
 deprecated: false
 description: null

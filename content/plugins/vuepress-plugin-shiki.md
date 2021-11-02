@@ -6,7 +6,7 @@ author:
   url: null
   username: octref
 bugs: https://github.com/octref/shiki/issues
-category: plugin
+category: plugins
 date: '2020-11-13T09:52:24.768Z'
 deprecated: false
 description: Vuepress plugin for Shiki
@@ -30,10 +30,10 @@ publisher:
   username: octref
 repository: https://github.com/octref/shiki
 score: 0.5970476008680486
-stars: 2730
+stars: 2731
 unstable: true
 version: 0.2.7
-watchers: 2730
+watchers: 2731
 
 ---
 

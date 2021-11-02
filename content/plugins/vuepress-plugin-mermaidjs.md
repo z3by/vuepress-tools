@@ -6,7 +6,7 @@ author:
   url: null
   username: eFrane
 bugs: https://github.com/eFrane/vuepress-plugin-mermaidjs/issues
-category: plugin
+category: plugins
 date: '2020-11-09T17:51:10.497Z'
 deprecated: false
 description: A Vuepress plugin providing easy MermaidJS diagramming

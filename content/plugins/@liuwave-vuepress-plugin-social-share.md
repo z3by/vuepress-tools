@@ -6,7 +6,7 @@ author:
   url: null
   username: liuwave
 bugs: https://github.com/liuwave/vuepress-plugin-social-share/issues
-category: plugin
+category: plugins
 date: '2020-04-04T08:09:00.882Z'
 deprecated: false
 description: Social sharing plugin for VuePress

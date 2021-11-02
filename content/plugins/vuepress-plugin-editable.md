@@ -6,7 +6,7 @@ author:
   url: null
   username: veaba
 bugs: https://github.com/veaba/vuepress-plugin-editable/issues
-category: plugin
+category: plugins
 date: '2021-08-22T07:51:40.952Z'
 deprecated: false
 description: <p align="center">

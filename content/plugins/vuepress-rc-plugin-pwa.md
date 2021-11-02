@@ -6,7 +6,7 @@ author:
   url: null
   username: YongHao0
 bugs: https://github.com/YongHao0/vuepress/issues
-category: plugin
+category: plugins
 date: '2020-09-15T06:32:21.986Z'
 deprecated: false
 description: pwa plugin for vuepress

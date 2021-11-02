@@ -1,19 +1,19 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/4836334?v=4
+  avatar: null
   email: bencodezen@gmail.com
   name: Ben Hong
   url: null
   username: bencodezen
 bugs: https://github.com/bencodezen/vuepress-plugin-janitor/issues
-category: plugin
+category: plugins
 date: '2019-01-10T03:12:15.660Z'
 deprecated: false
 description: Helps clean up build files from VuePress
 downloads: null
 homepage: https://github.com/bencodezen/vuepress-plugin-janitor#readme
 keywords: null
-license: false
+license: null
 maintainers: null
 name: vuepress-plugin-janitor
 npm: https://www.npmjs.com/package/vuepress-plugin-janitor
@@ -25,13 +25,10 @@ publisher:
   username: bencodezen
 repository: https://github.com/bencodezen/vuepress-plugin-janitor
 score: 0.1491595001277505
-stars: 1
+stars: 0
 unstable: false
 version: 1.0.0
-watchers: 1
+watchers: 0
 
 ---
 
-# VuePress Plugin Janitor
-
-Cleans up your build files after you've finished generating them

@@ -6,7 +6,7 @@ author:
   url: null
   username: appcelerator
 bugs: https://github.com/appcelerator/docs-devkit/issues
-category: plugin
+category: plugins
 date: '2021-03-09T21:11:14.605Z'
 deprecated: false
 description: Plugin for VuePress to render API reference documentation

@@ -6,7 +6,7 @@ author:
   url: null
   username: Zolyn
 bugs: https://github.com/Zolyn/vuepress-plugin-typescript/issues
-category: plugin
+category: plugins
 date: '2021-06-06T06:51:06.224Z'
 deprecated: false
 description: A fork of vuepress-plugin-typescript

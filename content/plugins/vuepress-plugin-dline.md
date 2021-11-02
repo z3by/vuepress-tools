@@ -6,7 +6,7 @@ author:
   url: null
   username: wangshiting
 bugs: https://github.com/laobg/vuepress-plugin-dline/issues
-category: plugin
+category: plugins
 date: '2021-03-01T08:46:53.097Z'
 deprecated: false
 description: vuepress-theme-plugin

@@ -6,7 +6,7 @@ author:
   url: null
   username: fischermaen
 bugs: https://github.com/Fischermaen/vuepress-plugin-contributors/issues
-category: plugin
+category: plugins
 date: '2020-06-02T14:50:23.558Z'
 deprecated: false
 description: Display a list of all contributors ordered descending by number of contributions,

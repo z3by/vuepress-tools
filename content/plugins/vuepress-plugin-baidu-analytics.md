@@ -6,7 +6,7 @@ author:
   url: null
   username: roiding
 bugs: https://github.com/roiding/plugin-baidu-analytics/issues
-category: plugin
+category: plugins
 date: '2021-08-18T02:03:05.197Z'
 deprecated: false
 description: VuePress plugin - baidu-analytics

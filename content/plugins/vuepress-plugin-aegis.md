@@ -6,7 +6,7 @@ author:
   url: null
   username: aquariuslt
 bugs: https://github.com/aquariuslt/vuepress-plugin-aegis/issues
-category: plugin
+category: plugins
 date: '2020-07-09T13:13:08.866Z'
 deprecated: false
 description: aegis vuepress plugin support router life cycle monitring

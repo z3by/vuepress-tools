@@ -6,7 +6,7 @@ author:
   url: null
   username: linjhon
 bugs: https://github.com/linjhon/vuepress-plugin-svn/issues
-category: plugin
+category: plugins
 date: '2021-05-17T09:04:21.149Z'
 deprecated: false
 description: svn for vuepress plugin

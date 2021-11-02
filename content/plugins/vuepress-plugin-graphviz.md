@@ -6,7 +6,7 @@ author:
   url: null
   username: awwaiid
 bugs: https://github.com/awwaiid/vuepress-plugin-graphviz/issues
-category: plugin
+category: plugins
 date: '2020-08-10T12:47:53.490Z'
 deprecated: false
 description: A Vuepress plugin providing easy Graphviz diagramming

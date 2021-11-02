@@ -6,7 +6,7 @@ author:
   url: null
   username: zolyn
 bugs: https://github.com/Zolyn/vuepress-plugin-bbtalk/issues
-category: plugin
+category: plugins
 date: '2021-05-19T15:12:48.460Z'
 deprecated: false
 description: null

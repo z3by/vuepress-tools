@@ -6,7 +6,7 @@ author:
   url: null
   username: oovm
 bugs: https://github.com/GalAster/vuepress-plugin-shiki/issues
-category: plugin
+category: plugins
 date: '2020-08-09T10:26:39.354Z'
 deprecated: false
 description: shiki highlighter

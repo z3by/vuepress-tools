@@ -6,7 +6,7 @@ author:
   url: null
   username: vuepress
 bugs: https://github.com/vuepress/vuepress-next/issues
-category: plugin
+category: plugins
 date: '2020-12-09T12:13:11.166Z'
 deprecated: false
 description: VuePress plugin - debug
@@ -28,10 +28,10 @@ publisher:
   username: meteorlxy
 repository: https://github.com/vuepress/vuepress-next
 score: 0.6309783827650499
-stars: 704
+stars: 705
 unstable: false
 version: 2.0.0-alpha.6
-watchers: 704
+watchers: 705
 
 ---
 

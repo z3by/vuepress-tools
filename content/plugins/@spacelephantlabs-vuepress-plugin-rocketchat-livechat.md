@@ -6,7 +6,7 @@ author:
   url: null
   username: spacelephantbot
 bugs: https://github.com/spacelephantlabs/vuepress-plugin-rocketchat-livechat/issues
-category: plugin
+category: plugins
 date: '2021-04-23T20:01:11.167Z'
 deprecated: false
 description: Rocket.chat Livechat plugin for vuepress >= 1.0

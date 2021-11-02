@@ -6,7 +6,7 @@ author:
   url: null
   username: vuejs
 bugs: https://github.com/vuejs/vuepress/issues
-category: plugin
+category: plugins
 date: '2021-02-18T16:12:54.729Z'
 deprecated: false
 description: nprogress plugin for vuepress
@@ -29,10 +29,10 @@ publisher:
   username: newsbielt703
 repository: https://github.com/vuejs/vuepress
 score: 0.5948079176143508
-stars: 19534
+stars: 19538
 unstable: false
 version: 1.8.2
-watchers: 19534
+watchers: 19538
 
 ---
 

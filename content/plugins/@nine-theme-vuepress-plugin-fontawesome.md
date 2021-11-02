@@ -6,7 +6,7 @@ author:
   url: null
   username: nine-theme
 bugs: https://github.com/nine-theme/vuepress-plugin-fontawesome/issues
-category: plugin
+category: plugins
 date: '2020-08-28T06:01:26.381Z'
 deprecated: false
 description: vuepress plugin fontawsome

@@ -6,7 +6,7 @@ author:
   url: null
   username: vuepress
 bugs: https://github.com/vuepress/vuepress-next/issues
-category: plugin
+category: plugins
 date: '2021-03-20T15:55:58.143Z'
 deprecated: false
 description: VuePress plugin - prismjs
@@ -30,10 +30,10 @@ publisher:
   username: meteorlxy
 repository: https://github.com/vuepress/vuepress-next
 score: 0.6435670636577546
-stars: 704
+stars: 705
 unstable: false
 version: 2.0.0-beta.4
-watchers: 704
+watchers: 705
 
 ---
 

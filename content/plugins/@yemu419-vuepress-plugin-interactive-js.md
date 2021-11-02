@@ -6,7 +6,7 @@ author:
   url: null
   username: yemuguliunian
 bugs: https://github.com/yemuguliunian/vuepress-plugin-interactive-js/issues
-category: plugin
+category: plugins
 date: '2020-07-24T06:09:07.752Z'
 deprecated: false
 description: interactive js plugin for vuepress

@@ -6,7 +6,7 @@ author:
   url: null
   username: linjhon
 bugs: https://github.com/linjhon/vuepress-plugin-pinyin-urls/issues
-category: plugin
+category: plugins
 date: '2021-05-10T06:22:39.487Z'
 deprecated: false
 description: vuepress plugin for pinyin urls

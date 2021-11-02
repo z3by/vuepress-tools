@@ -6,7 +6,7 @@ author:
   url: null
   username: jiangliuhong
 bugs: https://github.com/jiangliuhong/vuepress-plugin-export-pdf/issues
-category: plugin
+category: plugins
 date: '2021-10-01T15:56:25.091Z'
 deprecated: false
 description: export pdf

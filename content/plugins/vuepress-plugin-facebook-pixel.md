@@ -6,7 +6,7 @@ author:
   url: null
   username: vittominacori
 bugs: https://github.com/vittominacori/vuepress-plugin-facebook-pixel/issues
-category: plugin
+category: plugins
 date: '2020-12-10T20:27:48.556Z'
 deprecated: false
 description: Facebook Pixel plugin for VuePress

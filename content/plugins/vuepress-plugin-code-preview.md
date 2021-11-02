@@ -6,7 +6,7 @@ author:
   url: null
   username: vxhly
 bugs: https://github.com/vxhly/vuepress-plugin-code-preview/issues
-category: plugin
+category: plugins
 date: '2020-08-21T06:31:43.508Z'
 deprecated: false
 description: A vuepress plugin for codesandbox embed code preview

@@ -6,7 +6,7 @@ author:
   url: null
   username: nine-theme
 bugs: https://github.com/nine-theme/vuepress-plugin-pagation/issues
-category: plugin
+category: plugins
 date: '2020-08-13T01:38:10.133Z'
 deprecated: false
 description: pagation plugin for vuepress

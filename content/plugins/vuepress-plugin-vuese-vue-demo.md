@@ -1,12 +1,12 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/20984527?v=4
+  avatar: null
   email: null
   name: busyrat
   url: null
-  username: busyrat
+  username: null
 bugs: https://github.com/busyrat/blog/issues
-category: plugin
+category: plugins
 date: '2019-08-20T06:34:19.093Z'
 deprecated: false
 description: "> \u57FA\u4E8E vuese \u81EA\u52A8\u751F\u6210\u9879\u76EE\u7EC4\u4EF6\
@@ -18,7 +18,7 @@ keywords:
 - vuese
 - vue-demo
 - vuepress-plugin
-license: false
+license: null
 maintainers: null
 name: vuepress-plugin-vuese-vue-demo
 npm: https://www.npmjs.com/package/vuepress-plugin-vuese-vue-demo
@@ -37,12 +37,3 @@ watchers: 0
 
 ---
 
-# Blog
-
-找回写代码的乐趣
-
-![Github Actions](https://github.com/busyrat/blog/workflows/Deploy%20gh-pages/badge.svg)
-
-[github page](https://busyrat.github.io/blog/)
-
-[vuepress 1.x](https://v1.vuepress.vuejs.org/zh/guide/global-computed.html#site)

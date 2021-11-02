@@ -6,7 +6,7 @@ author:
   url: null
   username: tolking
 bugs: https://github.com/tolking/vuepress-plugin-img-lazy/issues
-category: plugin
+category: plugins
 date: '2020-07-09T12:03:53.952Z'
 deprecated: false
 description: a vuepress plugin to better supporting image lazy loading

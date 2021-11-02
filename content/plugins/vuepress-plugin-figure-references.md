@@ -6,7 +6,7 @@ author:
   url: null
   username: alija
 bugs: https://github.com/studyathome-internationally/vuepress-plugins/issues
-category: plugin
+category: plugins
 date: '2021-07-22T19:15:18.573Z'
 deprecated: false
 description: VuePress plugin for figure references

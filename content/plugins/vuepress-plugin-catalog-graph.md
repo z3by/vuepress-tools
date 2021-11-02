@@ -6,7 +6,7 @@ author:
   url: null
   username: ludanxer
 bugs: https://github.com/ludanxer/catalog-graph/issues
-category: plugin
+category: plugins
 date: '2020-12-17T21:19:46.579Z'
 deprecated: false
 description: A network graph for your VuePress' documentation

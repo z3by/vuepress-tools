@@ -6,7 +6,7 @@ author:
   url: null
   username: xinlei3166
 bugs: https://github.com/xinlei3166/vuepress-plugin-waline/issues
-category: plugin
+category: plugins
 date: '2021-10-29T20:27:19.685Z'
 deprecated: false
 description: vuepress plugin for waline

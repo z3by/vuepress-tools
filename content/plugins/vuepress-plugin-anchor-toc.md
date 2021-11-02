@@ -6,7 +6,7 @@ author:
   url: https://ocular-d.tech
   username: ocular-d
 bugs: https://github.com/ocular-d/vuepress-plugin-anchor-toc/issues
-category: plugin
+category: plugins
 date: '2020-11-05T08:55:28.673Z'
 deprecated: false
 description: Right-anchor TOC plugin for VuePress

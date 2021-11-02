@@ -6,7 +6,7 @@ author:
   url: null
   username: renzhsh
 bugs: https://github.com/renzhsh/vuepress-code-components/issues
-category: plugin
+category: plugins
 date: '2021-06-14T07:17:09.861Z'
 deprecated: false
 description: '[Document](https://thinking.renzhansheng.cn/devops/markdown/#fiddle)'

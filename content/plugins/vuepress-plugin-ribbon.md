@@ -6,7 +6,7 @@ author:
   url: null
   username: moefyit
 bugs: https://github.com/moefyit/vuepress-plugin-ribbon/issues
-category: plugin
+category: plugins
 date: '2021-02-14T13:11:08.650Z'
 deprecated: false
 description: Add a beautiful ribbon to your vuepress!

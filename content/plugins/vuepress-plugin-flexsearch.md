@@ -6,7 +6,7 @@ author:
   url: https://github.com/z3by
   username: z3bya
 bugs: https://github.com/z3by/vuepress-plugin-flexsearch/issues
-category: plugin
+category: plugins
 date: '2021-09-30T05:50:38.420Z'
 deprecated: false
 description: Next-Generation full text search library for Vuepress

@@ -6,7 +6,7 @@ author:
   url: null
   username: maginapp
 bugs: https://github.com/maginapp/vuepress-plugin-copy-code/issues
-category: plugin
+category: plugins
 date: '2021-06-21T09:47:13.406Z'
 deprecated: false
 description: vuepress-plugin-copy-code

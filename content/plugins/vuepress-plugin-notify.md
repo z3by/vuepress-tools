@@ -6,7 +6,7 @@ author:
   url: null
   username: qqlcx5
 bugs: https://github.com/qqlcx5/vuepress-plugin-notify/issues
-category: plugin
+category: plugins
 date: '2021-05-23T12:33:59.365Z'
 deprecated: false
 description: Notify plugin for vuepress theme.

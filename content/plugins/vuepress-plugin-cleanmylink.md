@@ -6,7 +6,7 @@ author:
   url: null
   username: bestony
 bugs: https://github.com/bestony/vuepress-plugin-cleanmylink/issues
-category: plugin
+category: plugins
 date: '2019-12-08T05:48:51.709Z'
 deprecated: false
 description: A plugin to export all 404 link

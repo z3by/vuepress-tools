@@ -6,7 +6,7 @@ author:
   url: null
   username: meteorlxy
 bugs: https://github.com/meteorlxy/vssue/issues
-category: plugin
+category: plugins
 date: '2021-04-23T10:11:37.899Z'
 deprecated: false
 description: Vuepress plugin for vssue

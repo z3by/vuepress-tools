@@ -6,7 +6,7 @@ author:
   url: null
   username: shigma
 bugs: https://github.com/vuepress/vuepress-community/issues
-category: plugin
+category: plugins
 date: '2020-09-01T04:24:54.242Z'
 deprecated: false
 description: VuePress plugin to handle redirection

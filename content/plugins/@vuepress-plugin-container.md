@@ -6,7 +6,7 @@ author:
   url: null
   username: vuepress
 bugs: https://github.com/vuepress/vuepress-next/issues
-category: plugin
+category: plugins
 date: '2021-04-11T12:39:28.552Z'
 deprecated: false
 description: VuePress plugin - markdown container
@@ -30,10 +30,10 @@ publisher:
   username: meteorlxy
 repository: https://github.com/vuepress/vuepress-next
 score: 0.6585322494653801
-stars: 704
+stars: 705
 unstable: false
 version: 2.0.0-beta.8
-watchers: 704
+watchers: 705
 
 ---
 

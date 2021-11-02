@@ -6,7 +6,7 @@ author:
   url: https://webmasterish.com
   username: webmasterish
 bugs: https://github.com/webmasterish/vuepress-plugin-autonav/issues
-category: plugin
+category: plugins
 date: '2019-08-08T23:05:05.087Z'
 deprecated: false
 description: Auto nav links plugin for VuePress 1.x

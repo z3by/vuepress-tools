@@ -6,7 +6,7 @@ author:
   url: null
   username: vitelabs
 bugs: https://github.com/vitelabs/vuepress-plugin-mathjax/issues
-category: plugin
+category: plugins
 date: '2021-02-10T03:53:29.330Z'
 deprecated: false
 description: '> A mathjax render plugin for vuepress. It will render mathjax in server,

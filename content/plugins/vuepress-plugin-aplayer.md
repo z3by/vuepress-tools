@@ -6,7 +6,7 @@ author:
   url: null
   username: realkimmy
 bugs: https://github.com/upcwangying/vuepress-plugin-aplayer/issues
-category: plugin
+category: plugins
 date: '2020-02-25T07:24:50.610Z'
 deprecated: false
 description: aplayer for vuepress.

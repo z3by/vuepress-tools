@@ -6,7 +6,7 @@ author:
   url: null
   username: moefyit
 bugs: https://github.com/moefyit/vuepress-plugin-dynamic-title/issues
-category: plugin
+category: plugins
 date: '2020-05-21T20:44:15.486Z'
 deprecated: false
 description: Add a dynamic title in your vuepress!

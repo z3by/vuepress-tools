@@ -6,7 +6,7 @@ author:
   url: null
   username: sylingd
 bugs: https://github.com/sylingd/vuepress-copy-via-link/issues
-category: plugin
+category: plugins
 date: '2019-05-18T06:57:50.623Z'
 deprecated: false
 description: Copy text in vuepress via links

@@ -6,7 +6,7 @@ author:
   url: null
   username: wxsm
 bugs: https://github.com/wxsms/vuepress-plugin-flowchart-js
-category: plugin
+category: plugins
 date: '2020-11-12T04:04:05.140Z'
 deprecated: false
 description: Rapid flowchart development plugin for vuepress

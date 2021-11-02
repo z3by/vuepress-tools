@@ -6,7 +6,7 @@ author:
   url: null
   username: Zenfection
 bugs: https://github.com/zenfection/vuepress-plugin-zenlive2d-cat/issues
-category: plugin
+category: plugins
 date: '2021-09-01T12:30:42.514Z'
 deprecated: false
 description: Add cat live2d and change model with Theme

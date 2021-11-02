@@ -6,7 +6,7 @@ author:
   url: https://webmasterish.com
   username: webmasterish
 bugs: https://github.com/webmasterish/vuepress-plugin-minimal-analytics/issues
-category: plugin
+category: plugins
 date: '2019-01-22T06:17:47.566Z'
 deprecated: false
 description: Minimal Google Analytics plugin for VuePress

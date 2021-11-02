@@ -6,7 +6,7 @@ author:
   url: null
   username: nine-theme
 bugs: https://github.com/NineSwordsMonster/vuepress-plugin-screenfull/issues
-category: plugin
+category: plugins
 date: '2020-09-23T07:47:20.556Z'
 deprecated: false
 description: screenfull for vuepress plugin

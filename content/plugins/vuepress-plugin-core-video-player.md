@@ -6,7 +6,7 @@ author:
   url: null
   username: shiguanghai
 bugs: https://github.com/shiguanghai/vuepress-plugin-core-video-player/issues
-category: plugin
+category: plugins
 date: '2021-02-02T08:05:11.953Z'
 deprecated: false
 description: A Lightweight Video Player For VuePress.

@@ -6,7 +6,7 @@ author:
   url: null
   username: vuepress
 bugs: https://github.com/vuepress/vuepress-next/issues
-category: plugin
+category: plugins
 date: '2020-12-01T02:25:37.171Z'
 deprecated: false
 description: VuePress plugin - palette stylus
@@ -29,10 +29,10 @@ publisher:
   username: meteorlxy
 repository: https://github.com/vuepress/vuepress-next
 score: 0.6153565246694896
-stars: 704
+stars: 705
 unstable: false
 version: 2.0.0-alpha.1
-watchers: 704
+watchers: 705
 
 ---
 

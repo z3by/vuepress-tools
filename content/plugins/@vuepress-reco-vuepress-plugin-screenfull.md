@@ -6,7 +6,7 @@ author:
   url: null
   username: reco_luan
 bugs: https://github.com/vuepress-reco/vuepress-plugin-screenfull/issues
-category: plugin
+category: plugins
 date: '2019-11-26T05:38:03.680Z'
 deprecated: false
 description: Screenfull plugin for vuepress-theme-reco or other vuepress theme
@@ -34,16 +34,4 @@ version: 1.0.1
 watchers: 2
 
 ---
-
-# @vuepress-reco/vuepress-plugin-screenfull
-
-## Details
-
-> Screenfull plugin for vuepress-theme-reco or other vuepress theme.
-
-|使用位置|值|
-|-|-|
-|plugin name|@vuepress-reco/vuepress-plugin-screenfull|
-|component name|Screenfull（主题开发时使用）|
-
 

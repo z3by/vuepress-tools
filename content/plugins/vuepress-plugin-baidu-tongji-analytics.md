@@ -6,7 +6,7 @@ author:
   url: null
   username: zhuqiang
 bugs: https://github.com/zq99299/vuepress-plugin/issues
-category: plugin
+category: plugins
 date: '2020-04-27T02:46:37.807Z'
 deprecated: false
 description: baidu tongji analytics plugin for vuepress

@@ -6,7 +6,7 @@ author:
   url: null
   username: xiaminghu
 bugs: https://github.com/xiaminghu/vuepress-plugin-beautiful-bar/issues
-category: plugin
+category: plugins
 date: '2020-12-22T03:51:11.706Z'
 deprecated: false
 description: a plugin for vuepress to generate navbar and sidebar automatically

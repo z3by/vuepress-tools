@@ -6,7 +6,7 @@ author:
   url: null
   username: atian25
 bugs: https://github.com/atian25/vuepress-plugin-yuque-deploy/issues
-category: plugin
+category: plugins
 date: '2019-03-18T07:14:03.738Z'
 deprecated: false
 description: deploy your vuepress markdown to https://www.yuque.com

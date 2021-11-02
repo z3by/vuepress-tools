@@ -6,7 +6,7 @@ author:
   url: null
   username: talltotal
 bugs: https://github.com/talltotal/vuepress-plugin-editor/issues
-category: plugin
+category: plugins
 date: '2021-06-02T03:17:21.550Z'
 deprecated: false
 description: editor plugin for vuepress

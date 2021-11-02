@@ -6,7 +6,7 @@ author:
   url: null
   username: vxhly
 bugs: https://github.com/vxhly/vuepress-plugin-one-click-copy/issues
-category: plugin
+category: plugins
 date: '2021-09-04T01:52:30.959Z'
 deprecated: false
 description: A vuepress plugin for clipboard-copy

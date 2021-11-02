@@ -6,7 +6,7 @@ author:
   url: null
   username: leo-buneev
 bugs: https://github.com/leo-buneev/vuepress-plugin-fulltext-search/issues
-category: plugin
+category: plugins
 date: '2021-05-31T07:39:23.286Z'
 deprecated: false
 description: Adds full-text search capabilities to your vuepress site with a help

@@ -1,12 +1,12 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/25003088?v=4
+  avatar: null
   email: null
   name: laughing
   url: null
-  username: v-laughing
+  username: null
 bugs: https://github.com/v-laughing/vuepress-plugin-bgfire/issues
-category: plugin
+category: plugins
 date: '2021-05-04T11:05:31.787Z'
 deprecated: false
 description: choose and change content background color in vuepress project
@@ -16,7 +16,7 @@ keywords:
 - vuepress
 - background
 - color
-license: false
+license: null
 maintainers: null
 name: vuepress-plugin-bgfire
 npm: https://www.npmjs.com/package/vuepress-plugin-bgfire
@@ -35,4 +35,3 @@ watchers: 0
 
 ---
 
-# vuepress-plugin-bgfire

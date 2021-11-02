@@ -1,12 +1,12 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/2761281?v=4
+  avatar: null
   email: brandon.liles@gmail.com
   name: Brandon Liles
   url: null
   username: bliles
 bugs: https://github.com/bliles/vuepress-page-locale/issues
-category: plugin
+category: plugins
 date: '2019-08-20T20:12:43.816Z'
 deprecated: false
 description: Vuepress plugin to add page locale to the page data
@@ -16,7 +16,7 @@ keywords:
 - vue
 - vuepress
 - generator
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-plugin-page-locale
 npm: https://www.npmjs.com/package/vuepress-plugin-page-locale
@@ -35,6 +35,3 @@ watchers: 0
 
 ---
 
-# Vuepress Page Locale
-
-Adds the page locale as a property of the page data.

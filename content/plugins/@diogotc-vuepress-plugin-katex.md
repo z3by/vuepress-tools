@@ -6,7 +6,7 @@ author:
   url: null
   username: diogotc
 bugs: https://github.com/diogotcorreia/vuepress-plugin-katex/issues
-category: plugin
+category: plugins
 date: '2021-04-10T19:05:06.857Z'
 deprecated: false
 description: KateX plugin for Vuepress (Fork by Diogo Correia)

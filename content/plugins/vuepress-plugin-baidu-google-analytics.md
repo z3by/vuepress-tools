@@ -6,7 +6,7 @@ author:
   url: null
   username: sylingd
 bugs: https://github.com/sylingd/vuepress-baidu-google-analytics/issues
-category: plugin
+category: plugins
 date: '2020-04-18T13:25:20.646Z'
 deprecated: false
 description: Google-analytics and Baidu-tongji plugin for vuepress

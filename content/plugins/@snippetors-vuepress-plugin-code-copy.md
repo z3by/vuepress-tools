@@ -6,7 +6,7 @@ author:
   url: null
   username: Snippetors
 bugs: https://github.com/Snippetors/snippets/labels/plugin%3Acode-copy
-category: plugin
+category: plugins
 date: '2021-09-20T13:55:53.783Z'
 deprecated: false
 description: Vuepress plugin - a button to copy code block

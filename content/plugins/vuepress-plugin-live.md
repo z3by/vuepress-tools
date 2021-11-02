@@ -6,7 +6,7 @@ author:
   url: null
   username: vue-styleguidist
 bugs: https://github.com/vue-styleguidist/vuepress-plugin-live/issues
-category: plugin
+category: plugins
 date: '2020-10-11T23:48:03.193Z'
 deprecated: false
 description: Make your markdown code examples come alive

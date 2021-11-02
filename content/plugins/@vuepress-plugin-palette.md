@@ -6,7 +6,7 @@ author:
   url: null
   username: vuepress
 bugs: https://github.com/vuepress/vuepress-next/issues
-category: plugin
+category: plugins
 date: '2021-02-24T12:19:59.044Z'
 deprecated: false
 description: VuePress plugin - palette
@@ -34,10 +34,10 @@ publisher:
   username: meteorlxy
 repository: https://github.com/vuepress/vuepress-next
 score: 0.6435443449968496
-stars: 704
+stars: 705
 unstable: false
 version: 2.0.0-alpha.26
-watchers: 704
+watchers: 705
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/13609768?v=4
+  avatar: null
   email: sabic.alija@gmail.com
   name: Alija Sabic
   url: null
   username: alija
 bugs: https://github.com/sabicalija/vuepress-plugins/issues
-category: plugin
+category: plugins
 date: '2020-04-23T22:29:12.784Z'
 deprecated: false
 description: VuePress plugin for directory based classification
@@ -19,7 +19,7 @@ keywords:
 - generator
 - directory
 - classifier
-license: false
+license: null
 maintainers: null
 name: vuepress-plugin-directory-classifier
 npm: https://www.npmjs.com/package/vuepress-plugin-directory-classifier

@@ -6,7 +6,7 @@ author:
   url: https://github.com/kawarimidoll
   username: kawarimidoll
 bugs: https://github.com/kawarimidoll/vuepress-plugin-tailwind/issues
-category: plugin
+category: plugins
 date: '2020-12-13T06:43:39.211Z'
 deprecated: false
 description: A VuePress plugin to use tailwindcss easily

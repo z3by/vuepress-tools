@@ -6,7 +6,7 @@ author:
   url: https://f3l1x.io
   username: f00b4r
 bugs: https://github.com/webkitty/vuepress-plugin-smartlook/issues
-category: plugin
+category: plugins
 date: '2020-03-23T12:25:40.858Z'
 deprecated: false
 description: Smartlook tracking plugin for VuePress

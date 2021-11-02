@@ -6,7 +6,7 @@ author:
   url: null
   username: xufangyi
 bugs: https://github.com/xfy520/vuepress-plugin-prismjs-next/issues
-category: plugin
+category: plugins
 date: '2021-10-23T13:50:48.491Z'
 deprecated: false
 description: "vuepress prismjs \u81EA\u5B9A\u4E49\u914D\u7F6E"

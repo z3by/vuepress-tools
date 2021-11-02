@@ -6,7 +6,7 @@ author:
   url: null
   username: GitHub-Xzhi
 bugs: https://github.com/GitHub-Xzhi/vuepress-plugin-add-copyright/issues
-category: plugin
+category: plugins
 date: '2021-05-06T17:28:24.661Z'
 deprecated: false
 description: "\u6DFB\u52A0\u81EA\u5B9A\u4E49\u7248\u6743\u7684VuePress\u63D2\u4EF6\

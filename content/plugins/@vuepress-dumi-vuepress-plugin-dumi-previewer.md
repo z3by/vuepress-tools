@@ -6,7 +6,7 @@ author:
   url: null
   username: orekish
 bugs: https://github.com/OrekiSH/vuepress-dumi/issues
-category: plugin
+category: plugins
 date: '2021-08-09T12:52:15.350Z'
 deprecated: false
 description: A dumi style code previewer plugin for VuePress.

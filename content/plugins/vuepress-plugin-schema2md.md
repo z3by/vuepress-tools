@@ -6,7 +6,7 @@ author:
   url: null
   username: rich-lab
 bugs: https://github.com/rich-lab/json-schema-2-markdown/issues
-category: plugin
+category: plugins
 date: '2020-03-09T03:04:20.164Z'
 deprecated: false
 description: A VuePress plugin to help you generate pages via JSON Schema (HMR Support).

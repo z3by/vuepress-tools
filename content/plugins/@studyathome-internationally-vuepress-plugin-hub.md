@@ -1,12 +1,12 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/54356406?v=4
+  avatar: null
   email: sabic@technikum-wien.at
   name: Alija Sabic
   url: null
-  username: studyathome-internationally
+  username: null
 bugs: https://github.com/studyathome-internationally/hub.js/issues
-category: plugin
+category: plugins
 date: '2020-05-16T20:46:09.491Z'
 deprecated: false
 description: Vuepress plugin for StudyATHome Internationally eLearning Sharing & Virtual
@@ -14,7 +14,7 @@ description: Vuepress plugin for StudyATHome Internationally eLearning Sharing &
 downloads: null
 homepage: https://github.com/studyathome-internationally/hub.js#readme
 keywords: null
-license: false
+license: null
 maintainers: null
 name: '@studyathome-internationally/vuepress-plugin-hub'
 npm: https://www.npmjs.com/package/%40studyathome-internationally%2Fvuepress-plugin-hub

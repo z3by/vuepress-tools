@@ -6,7 +6,7 @@ author:
   url: null
   username: renovamen
 bugs: https://github.com/Renovamen/vuepress-theme-gungnir/issues
-category: plugin
+category: plugins
 date: '2021-08-18T02:15:12.829Z'
 deprecated: false
 description: A plugin for adding RSS to vuepress-theme-gungnir.

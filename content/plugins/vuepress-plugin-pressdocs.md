@@ -6,7 +6,7 @@ author:
   url: null
   username: eFrane
 bugs: https://github.com/eFrane/pressdocs/issues
-category: plugin
+category: plugins
 date: '2021-02-01T16:19:02.595Z'
 deprecated: false
 description: A Vuepress Plugin for Code Documentation

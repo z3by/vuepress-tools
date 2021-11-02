@@ -1,19 +1,19 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/6063358?v=4
+  avatar: null
   email: null
   name: null
   url: null
-  username: xxholly32
+  username: null
 bugs: https://github.com/xxholly32/vuepress-plugin-code-box/issues
-category: plugin
+category: plugins
 date: '2020-05-09T12:30:57.657Z'
 deprecated: false
 description: code box for vuepress
 downloads: null
 homepage: https://github.com/xxholly32/vuepress-plugin-code-box#readme
 keywords: null
-license: false
+license: null
 maintainers: null
 name: vuepress-plugin-code-box
 npm: https://www.npmjs.com/package/vuepress-plugin-code-box
@@ -25,28 +25,10 @@ publisher:
   username: xiangxiao
 repository: https://github.com/xxholly32/vuepress-plugin-code-box
 score: 0.16829005929217686
-stars: 1
+stars: 0
 unstable: true
 version: 0.0.4
-watchers: 1
+watchers: 0
 
 ---
 
-# vuepress-plugin-code-box
-
-> code box for vuepress
-
-## 安装
-
-```
-yarn add vuepress-plugin-code-box
-```
-
-## Development
-
-```bash
-yarn dev
-yarn build
-```
-
-For more details, please head VuePress's [documentation](https://v1.vuepress.vuejs.org/).

@@ -6,7 +6,7 @@ author:
   url: null
   username: realkimmy
 bugs: https://github.com/upcwangying/vuepress-plugin-dplayer/issues
-category: plugin
+category: plugins
 date: '2020-02-25T07:55:46.827Z'
 deprecated: false
 description: dplayer for vuepress.

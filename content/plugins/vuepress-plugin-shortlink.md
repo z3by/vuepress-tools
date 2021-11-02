@@ -6,7 +6,7 @@ author:
   url: null
   username: AutreC
 bugs: null
-category: plugin
+category: plugins
 date: '2020-11-15T16:21:39.380Z'
 deprecated: false
 description: short link for vuepress

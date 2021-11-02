@@ -6,7 +6,7 @@ author:
   url: null
   username: mizuka-wu
 bugs: https://github.com/mizuka-wu/vuepress-plugin-pixi-live2d-display/issues
-category: plugin
+category: plugins
 date: '2021-07-02T07:58:46.874Z'
 deprecated: false
 description: use live2d in vuepress

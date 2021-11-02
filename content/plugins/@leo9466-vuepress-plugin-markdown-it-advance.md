@@ -1,19 +1,19 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/71742460?v=4
+  avatar: null
   email: liayng.ok@outlook.com
   name: leo
   url: null
-  username: leo94666
+  username: null
 bugs: https://github.com/leo94666/leo94666.github.io/issues
-category: plugin
+category: plugins
 date: '2021-05-10T09:26:02.928Z'
 deprecated: false
 description: '> TODO: description'
 downloads: null
 homepage: https://github.com/leo94666/leo94666.github.io#readme
 keywords: null
-license: false
+license: null
 maintainers: null
 name: '@leo9466/vuepress-plugin-markdown-it-advance'
 npm: https://www.npmjs.com/package/%40leo9466%2Fvuepress-plugin-markdown-it-advance

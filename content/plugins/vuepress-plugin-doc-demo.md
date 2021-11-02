@@ -6,7 +6,7 @@ author:
   url: null
   username: systemctls
 bugs: https://github.com/wc-code/vuepress-plugin-doc-demo/issues
-category: plugin
+category: plugins
 date: '2020-12-30T12:47:29.779Z'
 deprecated: false
 description: Vuepress plugin for demo block.

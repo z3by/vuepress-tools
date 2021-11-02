@@ -6,7 +6,7 @@ author:
   url: null
   username: moefyit
 bugs: https://github.com/moefyit/vuepress-plugin-go-top/issues
-category: plugin
+category: plugins
 date: '2020-06-07T13:15:53.609Z'
 deprecated: false
 description: Click such a lovely cat to back to top!

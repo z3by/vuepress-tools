@@ -6,7 +6,7 @@ author:
   url: null
   username: eamiear
 bugs: https://github.com/eamiear/vuepress-plugin-export-pdf/issues
-category: plugin
+category: plugins
 date: '2020-11-24T01:43:32.591Z'
 deprecated: false
 description: export pdf

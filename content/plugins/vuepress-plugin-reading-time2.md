@@ -6,7 +6,7 @@ author:
   url: https://mrhope.site
   username: mister-hope
 bugs: https://github.com/Mister-Hope/vuepress-theme-hope/issues
-category: plugin
+category: plugins
 date: '2021-06-08T15:09:32.486Z'
 deprecated: false
 description: Reading time plugin for VuePress
@@ -28,10 +28,10 @@ publisher:
   username: mister-hope
 repository: https://github.com/Mister-Hope/vuepress-theme-hope
 score: 0.6374914622237635
-stars: 292
+stars: 293
 unstable: false
 version: 2.0.0-alpha.0
-watchers: 292
+watchers: 293
 
 ---
 

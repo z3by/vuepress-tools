@@ -6,7 +6,7 @@ author:
   url: https://github.com/alphawq
   username: alphawq
 bugs: https://github.com/alphawq/vuepress-plugin-posts-encrypt/issues
-category: plugin
+category: plugins
 date: '2021-10-28T09:20:58.444Z'
 deprecated: false
 description: "English | [\u7B80\u4F53\u4E2D\u6587](./README.zh-cn.md)"

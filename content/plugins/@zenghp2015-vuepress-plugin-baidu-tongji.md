@@ -6,7 +6,7 @@ author:
   url: null
   username: zenghp
 bugs: https://github.com/Zero2015/vuepress-plugin-baidu-tongji/issues
-category: plugin
+category: plugins
 date: '2021-05-01T02:46:48.071Z'
 deprecated: false
 description: baidu tongji plugin for vuepress

@@ -6,7 +6,7 @@ author:
   url: null
   username: saltbo
 bugs: https://github.com/saltbo/vuepress-plugin-disqusjs/issues
-category: plugin
+category: plugins
 date: '2020-05-20T13:33:48.223Z'
 deprecated: false
 description: "# Vuepress Plugin Disqusjs \U0001F50C Register a global `<Disqusjs />`\

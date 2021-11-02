@@ -6,7 +6,7 @@ author:
   url: null
   username: waycowei
 bugs: https://github.com/waycowei/vuepress-plugin-demo-container-v2/issues
-category: plugin
+category: plugins
 date: '2021-06-07T02:03:02.143Z'
 deprecated: false
 description: Vuepress plugin for demo block.

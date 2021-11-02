@@ -6,7 +6,7 @@ author:
   url: null
   username: moefyit
 bugs: https://github.com/moefyit/vuepress-plugin-cursor-effects/issues
-category: plugin
+category: plugins
 date: '2021-02-14T18:42:50.948Z'
 deprecated: false
 description: Add a cute click effect to your mouse in your vuepress!

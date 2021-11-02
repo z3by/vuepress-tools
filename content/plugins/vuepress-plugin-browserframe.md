@@ -1,12 +1,12 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/979071?v=4
+  avatar: null
   email: info@sillevl.be
   name: Sille Van Landschoot
   url: null
   username: sillevl
 bugs: https://github.com/sillevl/vuepress-plugin-browserframe/issues
-category: plugin
+category: plugins
 date: '2020-10-27T11:54:23.533Z'
 deprecated: false
 description: Add browserframes to image
@@ -18,7 +18,7 @@ keywords:
 - plugin
 - browserframe
 - browsermockup
-license: false
+license: null
 maintainers: null
 name: vuepress-plugin-browserframe
 npm: https://www.npmjs.com/package/vuepress-plugin-browserframe

@@ -6,7 +6,7 @@ author:
   url: https://webmasterish.com
   username: webmasterish
 bugs: https://github.com/webmasterish/vuepress-plugin-feed/issues
-category: plugin
+category: plugins
 date: '2020-10-27T18:47:32.007Z'
 deprecated: false
 description: RSS, Atom, and JSON feeds generator plugin for VuePress 1.x

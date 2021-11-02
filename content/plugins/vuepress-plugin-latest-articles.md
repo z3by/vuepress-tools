@@ -6,7 +6,7 @@ author:
   url: null
   username: yzx9
 bugs: https://github.com/nsznsznjsz/vuepress-plugin-latest-articles/issues/new
-category: plugin
+category: plugins
 date: '2021-01-22T07:16:52.475Z'
 deprecated: false
 description: latest-articles plugin for vuepress

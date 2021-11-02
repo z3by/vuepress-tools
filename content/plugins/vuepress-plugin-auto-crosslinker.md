@@ -6,7 +6,7 @@ author:
   url: null
   username: tg44
 bugs: https://github.com/tg44/vuepress-plugin-auto-crosslinker/issues
-category: plugin
+category: plugins
 date: '2021-06-05T17:16:17.922Z'
 deprecated: false
 description: Automatically cross-links pages at first appearance

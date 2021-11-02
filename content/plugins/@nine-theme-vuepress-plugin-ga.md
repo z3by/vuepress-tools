@@ -6,7 +6,7 @@ author:
   url: null
   username: nine-theme
 bugs: https://github.com/NineSwordsMonster/vuepress-plugin-ga/issues
-category: plugin
+category: plugins
 date: '2020-09-23T07:47:20.478Z'
 deprecated: false
 description: ga plugin for vuepress

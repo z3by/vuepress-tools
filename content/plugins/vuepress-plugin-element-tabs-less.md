@@ -6,7 +6,7 @@ author:
   url: null
   username: tortorse
 bugs: https://github.com/tortorse/vuepress-plugin-tabs/issues
-category: plugin
+category: plugins
 date: '2020-08-07T03:26:03.259Z'
 deprecated: false
 description: Vuepress plugin - Tabs Container for Vuepress without SASS

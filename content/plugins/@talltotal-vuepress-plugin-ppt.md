@@ -6,7 +6,7 @@ author:
   url: null
   username: talltotal
 bugs: https://github.com/talltotal/vuepress-plugin-ppt/issues
-category: plugin
+category: plugins
 date: '2020-01-07T05:41:18.056Z'
 deprecated: false
 description: ppt plugin for vuepress

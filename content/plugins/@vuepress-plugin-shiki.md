@@ -6,7 +6,7 @@ author:
   url: null
   username: vuepress
 bugs: https://github.com/vuepress/vuepress-next/issues
-category: plugin
+category: plugins
 date: '2021-03-26T11:11:13.282Z'
 deprecated: false
 description: VuePress plugin - shiki
@@ -30,10 +30,10 @@ publisher:
   username: meteorlxy
 repository: https://github.com/vuepress/vuepress-next
 score: 0.6327882257449744
-stars: 704
+stars: 705
 unstable: false
 version: 2.0.0-beta.5
-watchers: 704
+watchers: 705
 
 ---
 

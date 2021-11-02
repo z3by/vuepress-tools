@@ -6,7 +6,7 @@ author:
   url: null
   username: endpass
 bugs: https://github.com/endpass/vuepress-plugin-search/issues
-category: plugin
+category: plugins
 date: '2020-04-20T10:52:52.146Z'
 deprecated: false
 description: search plugin for vuepress

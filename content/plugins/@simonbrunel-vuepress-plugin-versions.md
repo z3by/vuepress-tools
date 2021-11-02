@@ -6,7 +6,7 @@ author:
   url: null
   username: simonbrunel
 bugs: https://github.com/simonbrunel/vuepress-plugin-versions/issues
-category: plugin
+category: plugins
 date: '2021-04-11T17:21:02.535Z'
 deprecated: false
 description: Allows users to switch between different versions of your documentation

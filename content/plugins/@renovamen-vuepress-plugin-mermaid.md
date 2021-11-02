@@ -6,7 +6,7 @@ author:
   url: null
   username: renovamen
 bugs: https://github.com/Renovamen/vuepress-theme-gungnir/issues
-category: plugin
+category: plugins
 date: '2021-08-18T02:14:59.797Z'
 deprecated: false
 description: A plugin for adding Mermaid to VuePress.

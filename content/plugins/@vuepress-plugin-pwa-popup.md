@@ -6,7 +6,7 @@ author:
   url: null
   username: vuepress
 bugs: https://github.com/vuepress/vuepress-next/issues
-category: plugin
+category: plugins
 date: '2020-12-11T18:04:01.198Z'
 deprecated: false
 description: VuePress plugin - PWA popup
@@ -29,10 +29,10 @@ publisher:
   username: meteorlxy
 repository: https://github.com/vuepress/vuepress-next
 score: 0.6244125087570016
-stars: 704
+stars: 705
 unstable: false
 version: 2.0.0-alpha.8
-watchers: 704
+watchers: 705
 
 ---
 

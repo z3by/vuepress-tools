@@ -6,7 +6,7 @@ author:
   url: null
   username: tolking
 bugs: https://github.com/tolking/vuepress-plugin-last-reading/issues
-category: plugin
+category: plugins
 date: '2020-10-13T06:56:00.471Z'
 deprecated: false
 description: A vuepress plugin to record the last reading

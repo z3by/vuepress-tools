@@ -6,7 +6,7 @@ author:
   url: null
   username: QYueWang
 bugs: https://github.com/QYueWang/vuepress-plugin-flexsearch-pro/issues
-category: plugin
+category: plugins
 date: '2021-02-01T14:54:40.939Z'
 deprecated: false
 description: En/De/Cn/Ja/Ko languages full text search

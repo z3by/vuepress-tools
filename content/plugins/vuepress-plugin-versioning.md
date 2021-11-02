@@ -6,7 +6,7 @@ author:
   url: null
   username: appcelerator
 bugs: https://github.com/appcelerator/docs-devkit/issues
-category: plugin
+category: plugins
 date: '2021-03-09T18:25:26.484Z'
 deprecated: false
 description: Versioning plugin for VuePress

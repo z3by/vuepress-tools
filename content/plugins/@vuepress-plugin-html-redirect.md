@@ -6,7 +6,7 @@ author:
   url: null
   username: vuepress
 bugs: https://github.com/vuepressjs/vuepress-plugin-html-redirect/issues
-category: plugin
+category: plugins
 date: '2021-06-04T03:45:36.464Z'
 deprecated: false
 description: A VuePress plugin to handle "redirection" with HTML.

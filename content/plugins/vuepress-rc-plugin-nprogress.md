@@ -6,7 +6,7 @@ author:
   url: null
   username: YongHao0
 bugs: https://github.com/YongHao0/vuepress/issues
-category: plugin
+category: plugins
 date: '2020-09-15T06:32:13.215Z'
 deprecated: false
 description: nprogress plugin for vuepress

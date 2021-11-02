@@ -6,7 +6,7 @@ author:
   url: null
   username: Zolyn
 bugs: https://github.com/Zolyn/vuepress-plugin-rightmenu/issues
-category: plugin
+category: plugins
 date: '2021-06-12T07:28:06.330Z'
 deprecated: false
 description: '[![npm](https://img.shields.io/npm/v/@zolyn/vuepress-plugin-rightmenu?style=flat-square)](https://npmjs.com/package/@zolyn/vuepress-plugin-rightmenu)

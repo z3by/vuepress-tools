@@ -6,7 +6,7 @@ author:
   url: null
   username: openHacking
 bugs: https://github.com/openHacking/vuepress-plugin-qrcode/issues
-category: plugin
+category: plugins
 date: '2021-02-15T13:07:38.503Z'
 deprecated: false
 description: vuepress plugin qrcode

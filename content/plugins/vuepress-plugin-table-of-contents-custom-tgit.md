@@ -1,12 +1,12 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/48539483?v=4
+  avatar: null
   email: keyu98@qq.com
   name: keyu
   url: null
   username: kylezhao
 bugs: https://github.com/vuepress/vuepress-plugin-table-of-contents/issues
-category: plugin
+category: plugins
 date: '2020-10-20T13:01:10.717Z'
 deprecated: false
 description: Table of contents plugin for VuePress
@@ -17,7 +17,7 @@ keywords:
 - plugin
 - table-of-contents
 - toc
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-plugin-table-of-contents-custom-tgit
 npm: https://www.npmjs.com/package/vuepress-plugin-table-of-contents-custom-tgit
@@ -36,19 +36,3 @@ watchers: 0
 
 ---
 
-# [vuepress-plugin-table-of-contents](https://vuepress.github.io/plugins/table-of-contents.html)
-
-> Migrated to [vuepress-community](https://github.com/vuepress/vuepress-community)
-
-[![npm](https://img.shields.io/npm/v/vuepress-plugin-table-of-contents.svg)](https://www.npmjs.com/package/vuepress-plugin-table-of-contents)
-[![GitHub](https://img.shields.io/github/license/vuepress/vuepress-plugin-table-of-contents.svg)](https://github.com/vuepress/vuepress-plugin-table-of-contents/blob/master/LICENSE)
-
-Table of contents plugin for VuePress
-
-## Documentation
-
-:book: [See documentation in VuePress Community](https://vuepress.github.io/plugins/table-of-contents.html)
-
-## LICENSE
-
-MIT &copy; [VuePress Community](https://github.com/vuepress)

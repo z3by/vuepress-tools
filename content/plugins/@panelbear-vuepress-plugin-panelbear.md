@@ -6,7 +6,7 @@ author:
   url: null
   username: anthonynsimon
 bugs: https://github.com/panelbearhq/vuepress-plugin-panelbear/issues
-category: plugin
+category: plugins
 date: '2021-01-16T13:05:07.304Z'
 deprecated: false
 description: Official Panelbear Vuepress Plugin

@@ -6,7 +6,7 @@ author:
   url: null
   username: null
 bugs: https://github.com/kevinBobo/vuepress-plugin-fish/issues
-category: plugin
+category: plugins
 date: '2019-12-06T05:41:56.921Z'
 deprecated: false
 description: fish style

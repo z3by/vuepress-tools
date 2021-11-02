@@ -1,12 +1,12 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/29809148?v=4
+  avatar: null
   email: null
   name: lvqq
   url: null
-  username: lvqq
+  username: null
 bugs: https://github.com/lvqq/vuepress-plugin-click/issues
-category: plugin
+category: plugins
 date: '2019-09-21T09:47:31.776Z'
 deprecated: false
 description: beautify your click in vuepress
@@ -15,7 +15,7 @@ homepage: https://github.com/lvqq/vuepress-plugin-click#readme
 keywords:
 - vuepress-plugin
 - click
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-plugin-click
 npm: https://www.npmjs.com/package/vuepress-plugin-click
@@ -34,24 +34,3 @@ watchers: 0
 
 ---
 
-# vuepress-plugin-click
-click heart animation in vuepress
-
-### Install
-```
-npm install vuepress-plugin-click -S
-```
-
-### Use
-add in `.vuepress/config.js`
-```
-plugins: [
-  'vuepress-plugin-click'
-]
-```
-
-### Demo
-- [demo](https://www.nicksonlvqq.cn)
-
-### License
-- MIT

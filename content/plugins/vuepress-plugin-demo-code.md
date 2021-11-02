@@ -6,7 +6,7 @@ author:
   url: null
   username: BuptStEve
 bugs: https://github.com/BuptStEve/vuepress-plugin-demo-code/issues
-category: plugin
+category: plugins
 date: '2021-06-23T13:14:55.686Z'
 deprecated: false
 description: "\U0001F4DD Demo and code plugin for vuepress"

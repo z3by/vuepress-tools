@@ -6,7 +6,7 @@ author:
   url: null
   username: gezihuzi
 bugs: https://github.com/gezihuzi/vuepress-plugin-jsdelivr-cdn/issues
-category: plugin
+category: plugins
 date: '2020-12-21T15:48:49.927Z'
 deprecated: false
 description: jsdelivr-cdn plugin for vuepress

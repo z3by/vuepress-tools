@@ -6,7 +6,7 @@ author:
   url: null
   username: vuepress
 bugs: https://github.com/vuepress/vuepress-next/issues
-category: plugin
+category: plugins
 date: '2021-02-20T19:23:33.045Z'
 deprecated: false
 description: VuePress plugin - theme data
@@ -29,10 +29,10 @@ publisher:
   username: meteorlxy
 repository: https://github.com/vuepress/vuepress-next
 score: 0.6450923705182485
-stars: 704
+stars: 705
 unstable: false
 version: 2.0.0-alpha.25
-watchers: 704
+watchers: 705
 
 ---
 

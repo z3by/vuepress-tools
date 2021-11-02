@@ -6,7 +6,7 @@ author:
   url: null
   username: zenghp
 bugs: https://github.com/Zero2015/vuepress-plugin-ftp/issues
-category: plugin
+category: plugins
 date: '2021-04-30T16:40:26.876Z'
 deprecated: false
 description: ftp plugin for vuepress

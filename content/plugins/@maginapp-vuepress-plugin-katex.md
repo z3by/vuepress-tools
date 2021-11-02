@@ -6,7 +6,7 @@ author:
   url: null
   username: maginapp
 bugs: https://github.com/maginapp/vuepress-plugin-katex/issues
-category: plugin
+category: plugins
 date: '2021-03-23T11:36:03.654Z'
 deprecated: false
 description: KateX plugin for Vuepress

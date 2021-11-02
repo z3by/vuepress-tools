@@ -6,7 +6,7 @@ author:
   url: null
   username: maiscrm
 bugs: https://github.com/maiscrm/vuepress-plugin-exportpdf/issues
-category: plugin
+category: plugins
 date: '2020-11-05T10:31:16.114Z'
 deprecated: false
 description: Export your VuePress site to a PDF file with outline

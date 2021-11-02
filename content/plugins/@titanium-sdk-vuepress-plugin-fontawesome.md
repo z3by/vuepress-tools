@@ -6,7 +6,7 @@ author:
   url: null
   username: appcelerator
 bugs: https://github.com/appcelerator/docs-devkit/issues
-category: plugin
+category: plugins
 date: '2020-10-21T17:20:15.960Z'
 deprecated: false
 description: FontAwesome plugin for VuePress

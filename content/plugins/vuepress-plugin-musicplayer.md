@@ -6,7 +6,7 @@ author:
   url: null
   username: qqlcx5
 bugs: https://github.com/qqlcx5/vuepress-plugin-musicplayer/issues
-category: plugin
+category: plugins
 date: '2021-07-11T07:27:24.240Z'
 deprecated: false
 description: plugin for vuepress music player

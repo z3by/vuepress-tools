@@ -6,7 +6,7 @@ author:
   url: https://github.com/jinhang87
   username: jinhang
 bugs: https://github.com/jinhang87/vuepress-plugin-tailwind/issues
-category: plugin
+category: plugins
 date: '2021-10-31T03:15:33.241Z'
 deprecated: false
 description: A VuePress plugin to use tailwindcss easily

@@ -6,7 +6,7 @@ author:
   url: null
   username: Sloaix
 bugs: https://github.com/Sloaix/vuepress-plugin-locale-redirect/issues
-category: plugin
+category: plugins
 date: '2021-07-10T19:46:06.972Z'
 deprecated: false
 description: VuePress plugin - locale redirect

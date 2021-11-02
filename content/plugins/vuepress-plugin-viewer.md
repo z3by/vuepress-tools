@@ -6,7 +6,7 @@ author:
   url: null
   username: dongyuanxin
 bugs: https://github.com/dongyuanxin/vuepress-plugin-viewer/issues
-category: plugin
+category: plugins
 date: '2019-07-11T08:30:18.279Z'
 deprecated: false
 description: Image viewer for vuepress specially

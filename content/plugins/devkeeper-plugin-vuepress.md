@@ -6,7 +6,7 @@ author:
   url: null
   username: ozum
 bugs: https://github.com/ozum/devkeeper-plugin-vuepress/issues
-category: plugin
+category: plugins
 date: '2020-06-10T09:22:05.641Z'
 deprecated: false
 description: VuePress plugin for devkeeper

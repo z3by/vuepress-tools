@@ -6,7 +6,7 @@ author:
   url: https://mrhope.site
   username: mister-hope
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues
-category: plugin
+category: plugins
 date: '2021-06-11T16:35:01.475Z'
 deprecated: false
 description: A common palette plugin for vuepress themes and plugins
@@ -28,10 +28,10 @@ publisher:
   username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
 score: 0.6293335361893847
-stars: 292
+stars: 293
 unstable: false
 version: 2.0.0-alpha.2
-watchers: 292
+watchers: 293
 
 ---
 

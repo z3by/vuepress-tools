@@ -6,7 +6,7 @@ author:
   url: null
   username: reco_luan
 bugs: https://github.com/recoluan/vuepress-theme-reco-next/issues
-category: plugin
+category: plugins
 date: '2021-09-16T15:44:29.312Z'
 deprecated: false
 description: A simple blog plugin for vuepress-theme-reco.
@@ -28,10 +28,10 @@ publisher:
   username: reco_luan
 repository: https://github.com/recoluan/vuepress-theme-reco-next
 score: 0.5124975736427257
-stars: 25
+stars: 27
 unstable: false
 version: 2.0.1-alpha.0
-watchers: 25
+watchers: 27
 
 ---
 

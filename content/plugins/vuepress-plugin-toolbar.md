@@ -6,7 +6,7 @@ author:
   url: null
   username: zhuqiang
 bugs: https://github.com/zq99299/vuepress-plugin/issues
-category: plugin
+category: plugins
 date: '2020-05-06T01:55:24.424Z'
 deprecated: false
 description: toolbar plugin for vuepress

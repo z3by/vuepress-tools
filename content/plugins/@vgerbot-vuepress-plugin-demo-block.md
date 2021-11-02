@@ -6,7 +6,7 @@ author:
   url: null
   username: y1j2x34
 bugs: https://github.com/y1j2x34/vuepress-plugin-demo-block/issues
-category: plugin
+category: plugins
 date: '2020-09-25T06:23:27.647Z'
 deprecated: false
 description: demo block for vuepress both support vue and react

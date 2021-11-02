@@ -6,7 +6,7 @@ author:
   url: null
   username: xinlei3166
 bugs: https://github.com/xinlei3166/vuepress-plugin-demoblock-plus/issues
-category: plugin
+category: plugins
 date: '2021-10-29T07:41:06.219Z'
 deprecated: false
 description: vuepress plugin for demoblock

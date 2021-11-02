@@ -6,7 +6,7 @@ author:
   url: null
   username: yzx9
 bugs: https://github.com/nsznsznjsz/blog/issues
-category: plugin
+category: plugins
 date: '2021-07-05T00:37:48.770Z'
 deprecated: false
 description: KaTex support for vuepress

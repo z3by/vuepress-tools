@@ -6,7 +6,7 @@ author:
   url: null
   username: spacelephantbot
 bugs: https://github.com/spacelephantlabs/vuepress-plugin-matomo-spacelephant/issues
-category: plugin
+category: plugins
 date: '2021-06-21T13:26:07.618Z'
 deprecated: false
 description: Matomo plugin for vuepress >= 1.0 for Space Elephant's projects

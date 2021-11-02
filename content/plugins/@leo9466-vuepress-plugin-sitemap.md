@@ -6,7 +6,7 @@ author:
   url: null
   username: leo946666
 bugs: https://github.com/leo94666/leo94666.github.io/issues
-category: plugin
+category: plugins
 date: '2021-05-10T09:11:57.325Z'
 deprecated: false
 description: '> TODO: description'

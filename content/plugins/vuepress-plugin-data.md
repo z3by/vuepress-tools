@@ -6,7 +6,7 @@ author:
   url: null
   username: psalaets
 bugs: https://github.com/psalaets/vuepress-plugin-data/issues
-category: plugin
+category: plugins
 date: '2020-04-30T22:39:02.186Z'
 deprecated: false
 description: Inject external data into a VuePress site

@@ -6,7 +6,7 @@ author:
   url: null
   username: SivanLaai
 bugs: https://github.com/SivanLaai/vuepress-plugin-comment-plus/issues
-category: plugin
+category: plugins
 date: '2021-08-03T11:37:11.514Z'
 deprecated: false
 description: Comment plugin in vuepress, such as Gitalk, Valine...

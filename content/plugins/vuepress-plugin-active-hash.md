@@ -6,7 +6,7 @@ author:
   url: https://mrhope.site
   username: mister-hope
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues
-category: plugin
+category: plugins
 date: '2021-10-30T14:34:54.411Z'
 deprecated: false
 description: active-hash plugin for vuepress
@@ -30,10 +30,10 @@ publisher:
   username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
 score: 0.665244206672309
-stars: 292
+stars: 293
 unstable: false
 version: 1.20.4
-watchers: 292
+watchers: 293
 
 ---
 

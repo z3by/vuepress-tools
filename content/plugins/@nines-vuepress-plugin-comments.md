@@ -6,7 +6,7 @@ author:
   url: null
   username: nine-theme
 bugs: https://github.com/nine-theme/vuepress-plugin-comments/issues
-category: plugin
+category: plugins
 date: '2020-08-13T02:31:02.302Z'
 deprecated: false
 description: vuepress' comments plugin for vuepress

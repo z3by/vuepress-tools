@@ -6,7 +6,7 @@ author:
   url: https://github.com/ampedandwired
   username: jantimon
 bugs: https://github.com/jantimon/html-webpack-plugin/issues
-category: plugin
+category: plugins
 date: '2018-04-16T17:42:11.111Z'
 deprecated: false
 description: Simplifies creation of HTML files to serve your webpack bundles
@@ -29,10 +29,10 @@ publisher:
   username: yyx990803
 repository: https://github.com/jantimon/html-webpack-plugin
 score: 0.6112503633462657
-stars: 9872
+stars: 9874
 unstable: false
 version: 3.2.0
-watchers: 9872
+watchers: 9874
 
 ---
 

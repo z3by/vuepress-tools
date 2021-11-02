@@ -1,12 +1,12 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/26431026?v=4
+  avatar: null
   email: 2490445193@qq.com
   name: PentaTea
   url: null
   username: moecopilot
 bugs: https://github.com/PentaTea/B-Tree.studio/issues
-category: plugin
+category: plugins
 date: '2020-06-16T05:14:57.426Z'
 deprecated: false
 description: A music-bar plugin for vuepress
@@ -23,7 +23,7 @@ keywords:
 - "\u97F3\u4E50"
 - bgm
 - player
-license: Mozilla Public License 2.0
+license: null
 maintainers: null
 name: vuepress-plugin-music-bar
 npm: https://www.npmjs.com/package/vuepress-plugin-music-bar
@@ -35,16 +35,10 @@ publisher:
   username: moecopilot
 repository: https://github.com/PentaTea/B-Tree.studio
 score: 0.17712903852187045
-stars: 18
+stars: 0
 unstable: false
 version: 3.7.6
-watchers: 18
+watchers: 0
 
 ---
 
-# B-Tree Design Studio
-
-
-- [vuepress-plugin-music-bar](https://github.com/PentaTea/B-Tree.studio/tree/master/docs/.vuepress/plugin/vuepress-plugin-music-bar#vuepress-plugin-music-bar)
-- [vuepress-plugin-fontmin](https://github.com/PentaTea/B-Tree.studio/tree/master/docs/.vuepress/plugin/vuepress-plugin-fontmin#vuepress-plugin-fontmin)
-- [b-tree.studio](http://b-tree.studio)

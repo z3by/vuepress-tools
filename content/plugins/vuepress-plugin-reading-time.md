@@ -6,7 +6,7 @@ author:
   url: null
   username: darrenjennings
 bugs: https://github.com/darrenjennings/vuepress-plugin-reading-time/issues
-category: plugin
+category: plugins
 date: '2019-01-05T21:32:34.008Z'
 deprecated: false
 description: Vuepress plugin to add reading-time functionality to page data

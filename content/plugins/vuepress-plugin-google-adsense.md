@@ -6,7 +6,7 @@ author:
   url: null
   username: yunyoujun
 bugs: https://github.com/YunYouJun/vuepress-plugin-google-adsense/issues
-category: plugin
+category: plugins
 date: '2021-02-15T08:24:01.073Z'
 deprecated: false
 description: google-adsense plugin for vuepress

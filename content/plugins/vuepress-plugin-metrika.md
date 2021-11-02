@@ -6,7 +6,7 @@ author:
   url: null
   username: teners
 bugs: https://github.com/teners/vuepress-plugin-metrika
-category: plugin
+category: plugins
 date: '2021-07-20T15:09:02.964Z'
 deprecated: false
 description: Yandex Metrika plugin for VuePress

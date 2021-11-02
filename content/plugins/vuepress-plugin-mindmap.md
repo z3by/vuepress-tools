@@ -6,7 +6,7 @@ author:
   url: null
   username: renzhsh
 bugs: https://github.com/renzhsh/vuepress-mindmap/issues
-category: plugin
+category: plugins
 date: '2021-06-14T08:51:40.292Z'
 deprecated: false
 description: a plugin to render mindmap for vuepress

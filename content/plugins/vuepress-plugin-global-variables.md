@@ -6,7 +6,7 @@ author:
   url: null
   username: demtario
 bugs: https://github.com/demtario/vuepress-plugin-global-variables/issues
-category: plugin
+category: plugins
 date: '2020-11-06T11:22:54.228Z'
 deprecated: false
 description: <h1 align="center">vuepress-plugin-global-variables</h1> <div align="center">

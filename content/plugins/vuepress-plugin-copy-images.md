@@ -6,7 +6,7 @@ author:
   url: null
   username: wywei
 bugs: https://github.com/wyw-s/vuepress-plugin-copy-images/issues
-category: plugin
+category: plugins
 date: '2021-05-22T12:27:08.490Z'
 deprecated: false
 description: A vuepress plugin for auto copy imags

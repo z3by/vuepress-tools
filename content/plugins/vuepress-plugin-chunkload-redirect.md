@@ -6,7 +6,7 @@ author:
   url: https://wwaves.co/
   username: cwaring
 bugs: https://github.com/cwaring/vuepress-plugin-chunkload-redirect/issues
-category: plugin
+category: plugins
 date: '2021-04-16T10:56:14.860Z'
 deprecated: false
 description: Catch chunkload errors from a stale deploy and route to destination

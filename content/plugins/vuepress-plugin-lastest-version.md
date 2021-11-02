@@ -6,7 +6,7 @@ author:
   url: null
   username: yangyang0507
 bugs: https://github.com/yangyang0507/vuepress-plugin-lastest-version/issues
-category: plugin
+category: plugins
 date: '2021-08-04T02:50:10.544Z'
 deprecated: false
 description: Get lastest version of artifact for your document

@@ -6,7 +6,7 @@ author:
   url: null
   username: panxingcheng
 bugs: https://github.com/panxingcheng/vuepress-plugin-code-copy/issues
-category: plugin
+category: plugins
 date: '2020-09-21T06:55:52.692Z'
 deprecated: false
 description: A vuepress plugin that copies code blocks with one click.

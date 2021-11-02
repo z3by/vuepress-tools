@@ -6,7 +6,7 @@ author:
   url: null
   username: zhuqiang
 bugs: https://github.com/zq99299/vuepress-plugin/issues
-category: plugin
+category: plugins
 date: '2021-01-29T06:15:51.222Z'
 deprecated: false
 description: tags plugin for vuepress

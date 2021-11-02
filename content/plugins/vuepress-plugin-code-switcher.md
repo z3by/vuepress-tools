@@ -6,7 +6,7 @@ author:
   url: https://padarom.xyz
   username: padarom
 bugs: https://github.com/padarom/vuepress-plugin-code-switcher/issues
-category: plugin
+category: plugins
 date: '2021-04-20T09:26:52.124Z'
 deprecated: false
 description: Component that allows having synchronized language switchable code blocks

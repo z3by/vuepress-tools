@@ -6,7 +6,7 @@ author:
   url: null
   username: vuepress
 bugs: https://github.com/ulivz/vuepress-plugin-blog/issues
-category: plugin
+category: plugins
 date: '2021-01-17T13:04:36.544Z'
 deprecated: false
 description: Offical blog plugin for VuePress
@@ -25,10 +25,10 @@ publisher:
   username: newsbielt703
 repository: https://github.com/ulivz/vuepress-plugin-blog
 score: 0.5262774633289125
-stars: 170
+stars: 171
 unstable: false
 version: 1.9.4
-watchers: 170
+watchers: 171
 
 ---
 

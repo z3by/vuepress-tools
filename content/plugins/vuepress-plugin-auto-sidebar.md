@@ -6,7 +6,7 @@ author:
   url: null
   username: shanyuhai123
 bugs: https://github.com/shanyuhai123/vuepress-plugin-auto-sidebar/issues
-category: plugin
+category: plugins
 date: '2021-07-03T17:20:34.852Z'
 deprecated: false
 description: A vuepress plugin for generate sidebar

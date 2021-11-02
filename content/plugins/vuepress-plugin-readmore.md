@@ -6,7 +6,7 @@ author:
   url: null
   username: itclanCode
 bugs: https://github.com/itclanCode/vuepress-plugin-readmore/issues
-category: plugin
+category: plugins
 date: '2020-11-23T08:32:12.722Z'
 deprecated: false
 description: "vuepress-plugin-readmore \u9605\u8BFB\u66F4\u591A \u6587\u7AE0\u90E8\

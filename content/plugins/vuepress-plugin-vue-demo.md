@@ -1,12 +1,12 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/20984527?v=4
+  avatar: null
   email: null
   name: busyrat
   url: null
-  username: busyrat
+  username: null
 bugs: https://github.com/busyrat/vuepress-plugins/issues
-category: plugin
+category: plugins
 date: '2019-08-28T07:20:17.460Z'
 deprecated: false
 description: "> vuepress \u4E2D\u4F7F\u7528\u7C7B\u4F3C element-ui \u5B98\u65B9\u6587\
@@ -17,7 +17,7 @@ keywords:
 - vuepress
 - demo-block
 - vuepress-plugin
-license: false
+license: null
 maintainers: null
 name: vuepress-plugin-vue-demo
 npm: https://www.npmjs.com/package/vuepress-plugin-vue-demo
@@ -29,24 +29,10 @@ publisher:
   username: mcmagni
 repository: https://github.com/busyrat/vuepress-plugins
 score: 0.22642768118691373
-stars: 7
+stars: 0
 unstable: false
 version: 1.0.15
-watchers: 7
+watchers: 0
 
 ---
 
-# VuePress Plugins
-
-[![Build Status](https://travis-ci.org/busyrat/vuepress-plugins.svg?branch=master)](https://travis-ci.org/busyrat/vuepress-plugins)
-
-vuepress-plugin-vue-demo
-[文档](https://github.com/busyrat/vuepress-plugins/blob/master/packages/vue-demo/README.md) ➡️[预览](https://busyrat.github.io/vuepress-plugins/vue-demo/)
-
-
-vuepress-plugin-elementui-docs
-[文档](https://github.com/busyrat/vuepress-plugins/blob/master/packages/elementui-docs/README.md) ➡️[预览](https://busyrat.github.io/vuepress-plugins/elementui-docs/)
-
-
-vuepress-plugin-vuese-docs
-[文档](https://github.com/busyrat/vuepress-plugins/blob/master/packages/vuese-docs/README.md) ➡️[预览](https://busyrat.github.io/vuepress-plugins/vuese-docs/)
