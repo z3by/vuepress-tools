@@ -1,4 +1,7 @@
+import datetime
+import logging
 import os
+import sys
 from base64 import b64decode
 from dataclasses import asdict, dataclass
 from pathlib import Path
@@ -6,6 +9,14 @@ from typing import Optional
 
 import requests
 import yaml
+
+logging_handlers = [logging.StreamHandler(stream=sys.stdout)]
+logging.basicConfig(
+    level=logging.INFO,
+    handlers=logging_handlers,
+    format="[%(asctime)s] %(levelname)s - %(message)s",
+)
+logger = logging.getLogger(__file__)
 
 BASE_DIR = Path(__file__).parent.parent
 GITHUB_USER = os.environ["GITHUB_USER"]
@@ -53,7 +64,7 @@ class Package:
 
     def is_excluded(self) -> bool:
         excluded_cases = [
-            self.category not in self.name,
+            self.category[:-1] not in self.name,
             self.repository == "",
             "github" not in self.repository,
             self.deprecated,
@@ -88,14 +99,18 @@ class Package:
         file_content = b64decode(readme.get("content", b"")).decode("utf-8")
         return file_content
 
-    def save(self, relative_path: str) -> None:
+    def save(self, relative_path: str) -> str:
         pkg_name = self.get_clean_package_name()
         path = BASE_DIR / relative_path / pkg_name
+        file_path = f"{path}.md"
         if self.is_excluded():
+            logger.info(f"❌ Excluded {file_path}")
             return
-        with open(f"{path}.md", "w") as f:
+        with open(f"{file_path}", "w") as f:
             content = self.get_frontmatter() + self.get_readme()
             f.write(content)
+            logger.info(f"✅ Saved {file_path}")
+        return f"{file_path}"
 
 
 def construct_package(data: dict, category: str = "") -> Package:
@@ -143,19 +158,26 @@ def fetch_packages(query: str):
         yield from data["results"]
 
 
-def remove_current_packages() -> None:
-    content_path = BASE_DIR / "content"
-    for p in content_path.glob("**/*.md"):
+def remove_current_packages(pkg_type) -> None:
+    directory = BASE_DIR / "content" / pkg_type
+    for p in directory.glob("**/*.md"):
         p.unlink()
+    logger.info(f"🗑 Removed all existing {pkg_type} ✅")
 
 
 def write_packages(pkg_type: str) -> None:
-    for package in fetch_packages(f"vuepress-{pkg_type}"):
+    query_lookup = {"plugins": "vuepress-plugin", "themes": "vuepress-theme"}
+    for package in fetch_packages(query_lookup[pkg_type]):
         pkg = construct_package(package, category=pkg_type)
-        pkg.save(f"content/{pkg_type}s")
+        dir = f"content/{pkg_type}"
+        pkg.save(dir)
 
 
 if __name__ == "__main__":
-    remove_current_packages()
-    write_packages("plugin")
-    write_packages("theme")
+    begin_time = datetime.datetime.now()
+    pkg_type = sys.argv[1]
+    remove_current_packages(pkg_type)
+    write_packages(pkg_type)
+    logger.info("Done")
+    end_time = datetime.datetime.now() - begin_time
+    logger.info(f"Fetching {pkg_type} took {end_time}")

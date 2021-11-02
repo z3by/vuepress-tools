@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  fetch-plugins:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -18,9 +18,9 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r ${GITHUB_WORKSPACE}/bin/requirements.txt
-      - name: Fetch themes and plugins
+      - name: Fetch plugins
         run: |
-          python ${GITHUB_WORKSPACE}/bin/fetch_packages.py
+          python ${GITHUB_WORKSPACE}/bin/fetch_packages.py plugins
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_USER: ${{ github.actor }}
@@ -31,6 +31,36 @@ jobs:
           git config --local user.email "github-actions@github.com"
           git config --local user.name "github-actions"
           git commit -m "AUTOMATED: fetch new vuepress themes and plugins" -a | exit 0
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          branch: ${{ github.ref }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+  fetch-themes:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up Python 3.9
+        uses: actions/setup-python@v1
+        with:
+          python-version: 3.9
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r ${GITHUB_WORKSPACE}/bin/requirements.txt
+      - name: Fetch themes
+        run: |
+          python ${GITHUB_WORKSPACE}/bin/fetch_packages.py themes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USER: ${{ github.actor }}
+      - name: Commit files
+        run: |
+          echo ${{ github.ref }}
+          git add .
+          git config --local user.email "github-actions@github.com"
+          git config --local user.name "github-actions"
+          git commit -m "AUTOMATED: fetch new vuepress themes and themes" -a | exit 0
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
