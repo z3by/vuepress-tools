@@ -6,7 +6,7 @@ author:
   url: null
   username: null
 bugs: https://github.com/zpfz/vuepress-theme-antdocs/issues
-category: theme
+category: themes
 date: '2021-08-17T01:07:57.979Z'
 deprecated: false
 description: An Ant Design style theme for VuePress.

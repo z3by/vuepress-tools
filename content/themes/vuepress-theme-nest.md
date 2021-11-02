@@ -6,7 +6,7 @@ author:
   url: null
   username: null
 bugs: https://github.com/nestdotland/docs/issues
-category: theme
+category: themes
 date: '2020-07-08T16:30:13.181Z'
 deprecated: false
 description: The nest.land theme for vuepress

@@ -6,7 +6,7 @@ author:
   url: null
   username: vuejs
 bugs: https://github.com/vuejs/vuepress/issues
-category: theme
+category: themes
 date: '2021-02-18T16:13:08.734Z'
 deprecated: false
 description: VuePress theme for official Vue projects
@@ -29,10 +29,10 @@ publisher:
   username: newsbielt703
 repository: https://github.com/vuejs/vuepress
 score: 0.5686446333680513
-stars: 19534
+stars: 19538
 unstable: false
 version: 1.8.2
-watchers: 19534
+watchers: 19538
 
 ---
 

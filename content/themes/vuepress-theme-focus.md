@@ -6,7 +6,7 @@ author:
   url: null
   username: null
 bugs: https://github.com/ulivz/40-lines-of-vuepress-blog-theme/issues
-category: theme
+category: themes
 date: '2019-07-17T08:35:22.808Z'
 deprecated: false
 description: A VuePress Blog Theme implemented with [70-lines-of-vuepress-blog-theme](https://github.com/ulivz/70-lines-of-vuepress-blog-theme)

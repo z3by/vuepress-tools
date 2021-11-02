@@ -1,12 +1,12 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/37400982?v=4
   email: j80304xz@gmail.com
   name: SidStraw
   url: https://sidstraw.dev/
   username: sidstraw
 bugs: https://github.com/SidStraw/vuepress-theme-sidstraw-blog/issues
-category: theme
+category: themes
 date: '2020-06-01T12:30:03.582Z'
 deprecated: false
 description: SidStraw's blog theme for VuePress
@@ -20,7 +20,7 @@ keywords:
 - vue
 - vuepress-theme-blog
 - vuepress-theme-sidstraw-blog
-license: null
+license: MIT License
 maintainers: null
 name: vuepress-theme-sidstraw-blog
 npm: https://www.npmjs.com/package/vuepress-theme-sidstraw-blog
@@ -39,3 +39,4 @@ watchers: 0
 
 ---
 
+# vuepress-theme-sidstraw-blog

@@ -6,7 +6,7 @@ author:
   url: null
   username: null
 bugs: https://github.com/vuejs/vuepress/issues
-category: theme
+category: themes
 date: '2019-12-03T05:36:38.325Z'
 deprecated: false
 description: Lego Edition of VuePress theme

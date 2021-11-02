@@ -6,7 +6,7 @@ author:
   url: null
   username: null
 bugs: https://github.com/wannaxiao/vuepress-theme-resume/issues
-category: theme
+category: themes
 date: '2020-02-12T06:49:28.939Z'
 deprecated: false
 description: "\u7F16\u5199\u7B80\u6D01\u4F18\u96C5\u7684markdown\u7B80\u5386\uFF0C\

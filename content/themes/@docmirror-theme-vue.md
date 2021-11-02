@@ -6,7 +6,7 @@ author:
   url: null
   username: null
 bugs: https://github.com/vuejs/vuepress/issues
-category: theme
+category: themes
 date: '2020-09-08T07:21:01.623Z'
 deprecated: false
 description: VuePress theme for official Vue projects

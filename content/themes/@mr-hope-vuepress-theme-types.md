@@ -6,7 +6,7 @@ author:
   url: https://mrhope.site
   username: mister-hope
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues
-category: theme
+category: themes
 date: '2021-10-31T06:52:32.251Z'
 deprecated: false
 description: Theme types for vuepress-theme-hope
@@ -30,10 +30,10 @@ publisher:
   username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
 score: 0.6780813697186364
-stars: 292
+stars: 293
 unstable: false
 version: 1.20.5
-watchers: 292
+watchers: 293
 
 ---
 

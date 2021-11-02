@@ -6,7 +6,7 @@ author:
   url: null
   username: isonaj
 bugs: https://github.com/isonaj/vuepress-theme-isonaj/issues
-category: theme
+category: themes
 date: '2019-12-24T05:10:07.155Z'
 deprecated: false
 description: Casper-like Theme for VuePress

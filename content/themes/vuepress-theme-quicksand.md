@@ -6,7 +6,7 @@ author:
   url: null
   username: xxyan0205
 bugs: https://github.com/xxyan0205/vuepress-theme-quicksand/issues
-category: theme
+category: themes
 date: '2021-07-20T13:20:27.557Z'
 deprecated: false
 description: vuepress-theme

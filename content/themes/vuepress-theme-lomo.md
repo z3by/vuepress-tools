@@ -6,7 +6,7 @@ author:
   url: null
   username: creanme
 bugs: https://github.com/creanme/vuepress-theme-lomo/issues
-category: theme
+category: themes
 date: '2020-03-08T07:24:35.427Z'
 deprecated: false
 description: a vuepress blog theme

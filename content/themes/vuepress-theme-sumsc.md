@@ -6,7 +6,7 @@ author:
   url: null
   username: null
 bugs: null
-category: theme
+category: themes
 date: '2019-06-04T13:09:09.378Z'
 deprecated: false
 description: this is a vuepress theme

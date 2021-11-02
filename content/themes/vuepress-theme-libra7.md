@@ -6,7 +6,7 @@ author:
   url: null
   username: null
 bugs: https://github.com/Libra11/vuepress-theme-libra/issues
-category: theme
+category: themes
 date: '2020-11-13T04:44:18.289Z'
 deprecated: false
 description: a vuepress blog template

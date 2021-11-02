@@ -6,7 +6,7 @@ author:
   url: null
   username: tiya
 bugs: https://github.com/Tr-blank/vuepress-theme-trskillblog/issues
-category: theme
+category: themes
 date: '2019-10-25T06:56:41.056Z'
 deprecated: false
 description: VuePress Blog Theme - trskillblog

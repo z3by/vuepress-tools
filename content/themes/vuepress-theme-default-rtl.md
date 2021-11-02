@@ -1,12 +1,12 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/13087224?v=4
   email: alizadeh118@gmail.com
   name: Hassan Alizadeh
   url: https://alizadeh118.ir/
   username: alizadeh118
 bugs: https://github.com/alizadeh118/vuepress-theme-default-rtl/issues
-category: theme
+category: themes
 date: '2020-03-25T16:08:09.433Z'
 deprecated: false
 description: RTL version for VuePress default theme v1.4.0
@@ -21,7 +21,7 @@ keywords:
 - right to left
 - persian
 - arabic
-license: null
+license: MIT License
 maintainers: null
 name: vuepress-theme-default-rtl
 npm: https://www.npmjs.com/package/vuepress-theme-default-rtl
@@ -33,10 +33,51 @@ publisher:
   username: alizadeh118
 repository: https://github.com/alizadeh118/vuepress-theme-default-rtl
 score: 0.2582136351731657
-stars: 0
+stars: 5
 unstable: false
 version: 1.0.1
-watchers: 0
+watchers: 5
 
 ---
 
+# vuepress-theme-default-rtl
+
+> ✏️ RTL version for VuePress default theme.
+
+[Demo with dummy text](https://alizadeh118.github.io/vuepress-theme-default-rtl/):
+[![preview](https://user-images.githubusercontent.com/13087224/77238366-e8c68680-6bec-11ea-8438-78ba4d407764.png)](https://alizadeh118.github.io/vuepress-theme-default-rtl/)
+
+
+## Installation
+
+
+```shell
+$ yarn add vuepress-theme-default-rtl --dev
+# or
+$ npm install vuepress-theme-default-rtl --save-dev
+```
+
+## Usage
+
+Modify your `.vuepress/config.js` and provide the `theme` option.
+
+```js
+module.exports = {
+  theme: 'default-rtl',
+}
+```
+
+And that's some additional configs: (Optional) 
+```js
+module.exports = {
+  theme: 'default-rtl',
+  themeConfig: {
+    persianDate: true, // used in last-update plugin
+    lastUpdated: 'آخرین ویرایش',
+    ...
+  }
+}
+```
+
+## License
+[MIT License](https://alizadeh118.mit-license.org/)

@@ -6,7 +6,7 @@ author:
   url: null
   username: null
 bugs: https://github.com/henris-style/vuepress-theme-henris/issues
-category: theme
+category: themes
 date: '2019-03-27T07:37:58.260Z'
 deprecated: false
 description: Henri's theme for VuePress

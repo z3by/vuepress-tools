@@ -6,7 +6,7 @@ author:
   url: null
   username: null
 bugs: https://github.com/vuepress-reco/vuepress-theme-reco/issues
-category: theme
+category: themes
 date: '2021-08-16T09:47:12.303Z'
 deprecated: false
 description: A simple and beautiful vuepress Blog & Doc theme.

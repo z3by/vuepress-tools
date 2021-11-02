@@ -1,19 +1,19 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/45715831?v=4
   email: n@koehr.in
   name: koehr
   url: null
-  username: null
+  username: VuejsBerlin
 bugs: https://github.com/nkoehring/vuepress-theme-vuejs-berlin/issues
-category: theme
+category: themes
 date: '2018-07-19T19:15:25.042Z'
 deprecated: false
 description: Theme for vuejs.berlin
 downloads: null
 homepage: https://github.com/nkoehring/vuepress-theme-vuejs-berlin#readme
 keywords: null
-license: null
+license: false
 maintainers: null
 name: vuepress-theme-vuejs-berlin
 npm: https://www.npmjs.com/package/vuepress-theme-vuejs-berlin
@@ -32,3 +32,6 @@ watchers: 0
 
 ---
 
+VuePress theme for https://vuejs.berlin
+
+See [vuepress guide](https://vuepress.vuejs.org/guide/custom-themes.html) for details.

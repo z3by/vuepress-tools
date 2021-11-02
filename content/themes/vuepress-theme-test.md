@@ -6,7 +6,7 @@ author:
   url: null
   username: meteorlxy
 bugs: https://github.com/meteorlxy/vuepress-theme-test/issues
-category: theme
+category: themes
 date: '2018-05-10T08:16:53.134Z'
 deprecated: false
 description: Test Theme for Vuepress

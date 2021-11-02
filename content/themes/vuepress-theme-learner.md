@@ -6,7 +6,7 @@ author:
   url: null
   username: null
 bugs: https://github.com/dylan-wu/vuepress-theme-learner/issues
-category: theme
+category: themes
 date: '2019-02-27T17:46:42.173Z'
 deprecated: false
 description: Vuepress theme - Learner

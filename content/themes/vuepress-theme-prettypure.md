@@ -1,12 +1,12 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/4105970?v=4
   email: null
   name: HK Chen
   url: null
-  username: null
+  username: HKChen
 bugs: https://github.com/HKChen/vuepress-theme-prettyPure/issues
-category: theme
+category: themes
 date: '2019-01-08T01:34:15.591Z'
 deprecated: false
 description: vupress theme By HK Chen
@@ -14,7 +14,7 @@ downloads: null
 homepage: https://github.com/HKChen/vuepress-theme-prettyPure#readme
 keywords:
 - vuepress
-license: null
+license: MIT License
 maintainers: null
 name: vuepress-theme-prettypure
 npm: https://www.npmjs.com/package/vuepress-theme-prettypure

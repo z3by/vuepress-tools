@@ -6,7 +6,7 @@ author:
   url: null
   username: null
 bugs: https://github.com/pixelandtonic/vuepress-theme-craftdocs/issues
-category: theme
+category: themes
 date: '2020-04-25T17:17:22.668Z'
 deprecated: false
 description: vuepress-theme

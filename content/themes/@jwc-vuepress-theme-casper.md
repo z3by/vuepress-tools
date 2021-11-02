@@ -6,7 +6,7 @@ author:
   url: null
   username: null
 bugs: https://github.com/alexander-heimbuch/vuepress-theme-casper/issues
-category: theme
+category: themes
 date: '2019-03-10T14:44:07.112Z'
 deprecated: false
 description: Ghosts Casper Theme for VuePress

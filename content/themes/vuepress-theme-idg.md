@@ -6,7 +6,7 @@ author:
   url: null
   username: evildoer_laura
 bugs: https://github.com/evildoerX/vuepress-theme-idg/issues
-category: theme
+category: themes
 date: '2019-07-30T13:11:38.966Z'
 deprecated: false
 description: A idg theme that has integrated some vue components, charts via charts,

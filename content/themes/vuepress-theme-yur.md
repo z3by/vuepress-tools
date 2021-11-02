@@ -6,7 +6,7 @@ author:
   url: null
   username: cnguu
 bugs: https://github.com/cnguu/vuepress-theme-yur/issues
-category: theme
+category: themes
 date: '2020-11-14T02:23:20.641Z'
 deprecated: false
 description: VuePress Theme - Yur

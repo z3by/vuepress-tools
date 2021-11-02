@@ -6,7 +6,7 @@ author:
   url: https://ktquez.com/
   username: null
 bugs: https://github.com/ktquez/vuepress-theme-ktquez/issues
-category: theme
+category: themes
 date: '2019-06-08T04:42:39.740Z'
 deprecated: false
 description: A blog theme for VuePress by Ktquez

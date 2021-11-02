@@ -1,12 +1,12 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/36023898?v=4
   email: ekoeryanto@gmail.com
   name: Eko Eryanto
   url: null
   username: ekoeryanto
 bugs: https://github.com/ekoeryanto/vuepress-theme-bootstrap/issues
-category: theme
+category: themes
 date: '2018-09-21T04:31:42.835Z'
 deprecated: false
 description: Bootstrap theme for Vuepress
@@ -15,7 +15,7 @@ homepage: https://github.com/ekoeryanto/vuepress-theme-bootstrap#readme
 keywords:
 - bootstrap
 - vuepress
-license: null
+license: false
 maintainers: null
 name: vuepress-theme-bootstrap
 npm: https://www.npmjs.com/package/vuepress-theme-bootstrap
@@ -34,3 +34,4 @@ watchers: 0
 
 ---
 
+# Bootstrap Theme for Vuepress

@@ -1,12 +1,12 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/25994733?v=4
   email: dong550293874@163.com
   name: liulixin
   url: null
-  username: null
+  username: liulxin
 bugs: https://github.com/liulxin/vuepress-theme-liuli/issues
-category: theme
+category: themes
 date: '2020-01-09T10:00:26.818Z'
 deprecated: false
 description: A simple and beautiful vuepress Blog & Doc theme
@@ -16,7 +16,7 @@ keywords:
 - vuepress
 - vue
 - theme
-license: null
+license: MIT License
 maintainers: null
 name: vuepress-theme-liuli
 npm: https://www.npmjs.com/package/vuepress-theme-liuli
@@ -35,3 +35,4 @@ watchers: 0
 
 ---
 
+# vuepress-theme-liuli

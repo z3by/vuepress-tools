@@ -6,7 +6,7 @@ author:
   url: null
   username: null
 bugs: https://github.com/artiely/vuepress-theme-koala/issues
-category: theme
+category: themes
 date: '2019-03-28T01:42:55.660Z'
 deprecated: false
 description: blog theme for VuePress

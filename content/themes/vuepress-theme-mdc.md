@@ -6,7 +6,7 @@ author:
   url: null
   username: null
 bugs: https://github.com/ocavue/vuepress-theme-mdc/issues
-category: theme
+category: themes
 date: '2018-06-19T12:01:43.800Z'
 deprecated: false
 description: null

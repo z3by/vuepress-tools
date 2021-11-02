@@ -6,7 +6,7 @@ author:
   url: null
   username: null
 bugs: https://github.com/shcant/vuepress-theme-casper/issues
-category: theme
+category: themes
 date: '2019-06-12T14:23:31.678Z'
 deprecated: false
 description: Another Ghosts Casper Theme for VuePress

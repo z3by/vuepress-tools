@@ -6,7 +6,7 @@ author:
   url: null
   username: null
 bugs: https://github.com/kitdocs/vuepress-theme-ads/issues
-category: theme
+category: themes
 date: '2018-04-30T05:51:33.189Z'
 deprecated: false
 description: VuePress theme for official Vue projects

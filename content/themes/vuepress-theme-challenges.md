@@ -6,7 +6,7 @@ author:
   url: null
   username: null
 bugs: https://github.com/BioBoost/vuepress-theme-challenges/issues
-category: theme
+category: themes
 date: '2020-02-03T16:49:05.429Z'
 deprecated: false
 description: VuePress theme for programming challenges

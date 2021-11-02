@@ -1,19 +1,19 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/71742460?v=4
   email: liayng.ok@outlook.com
   name: leo
   url: null
-  username: null
+  username: leo94666
 bugs: https://github.com/leo94666/leo94666.github.io/issues
-category: theme
+category: themes
 date: '2021-05-10T09:26:07.599Z'
 deprecated: false
 description: '> TODO: description'
 downloads: null
 homepage: https://github.com/leo94666/leo94666.github.io#readme
 keywords: null
-license: null
+license: false
 maintainers: null
 name: '@leo9466/vuepress-theme-leo'
 npm: https://www.npmjs.com/package/%40leo9466%2Fvuepress-theme-leo

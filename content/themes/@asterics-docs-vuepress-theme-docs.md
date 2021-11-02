@@ -1,19 +1,19 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/5062966?v=4
   email: sabic.alija@gmail.com
   name: Alija Sabic
   url: null
   username: alija
 bugs: https://github.com/asterics/asterics-docs.js/issues
-category: theme
+category: themes
 date: '2021-09-21T11:51:53.048Z'
 deprecated: false
 description: Vuepress theme for AsTeRICS Docs
 downloads: null
 homepage: https://github.com/asterics/asterics-docs.js#readme
 keywords: null
-license: null
+license: false
 maintainers: null
 name: '@asterics-docs/vuepress-theme-docs'
 npm: https://www.npmjs.com/package/%40asterics-docs%2Fvuepress-theme-docs

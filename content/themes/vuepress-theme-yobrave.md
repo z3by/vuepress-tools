@@ -1,12 +1,12 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/20272484?v=4
   email: null
   name: chinanf-boy
   url: null
-  username: null
+  username: chinanf-boy
 bugs: https://github.com/chinanf-boy/vuepress-theme-yobrave/issues
-category: theme
+category: themes
 date: '2018-07-13T08:46:08.293Z'
 deprecated: false
 description: yobrave {me} vuepress theme
@@ -15,7 +15,7 @@ homepage: https://github.com/chinanf-boy/vuepress-theme-yobrave#readme
 keywords:
 - vuepress
 - theme
-license: null
+license: false
 maintainers: null
 name: vuepress-theme-yobrave
 npm: https://www.npmjs.com/package/vuepress-theme-yobrave
@@ -33,4 +33,9 @@ version: 1.0.0
 watchers: 0
 
 ---
+
+# vuepress-theme-yobarve 
+
+「 Copy from vuepress-theme-vue theme , but remove abs」
+
 

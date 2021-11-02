@@ -6,7 +6,7 @@ author:
   url: null
   username: null
 bugs: https://github.com/visualfanatic/vue-svg-loader/issues
-category: theme
+category: themes
 date: '2018-08-31T20:12:25.000Z'
 deprecated: false
 description: Dark theme for vuepress

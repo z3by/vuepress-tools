@@ -6,7 +6,7 @@ author:
   url: null
   username: wowthemesnet
 bugs: https://github.com/wowthemesnet/mediumish-vuepress-blog-theme/issues
-category: theme
+category: themes
 date: '2020-03-04T14:36:05.385Z'
 deprecated: false
 description: Mediumish blog theme for VuePress

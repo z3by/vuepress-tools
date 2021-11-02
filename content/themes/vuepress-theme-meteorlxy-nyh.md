@@ -6,7 +6,7 @@ author:
   url: null
   username: null
 bugs: https://github.com/meteorlxy/vuepress-theme-meteorlxy/issues
-category: theme
+category: themes
 date: '2020-01-11T17:40:15.040Z'
 deprecated: false
 description: vuepress blog theme - meteorlxy

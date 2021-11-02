@@ -6,7 +6,7 @@ author:
   url: null
   username: fengxinming
 bugs: https://github.com/fengxinming/vuepress-theme-purple/issues
-category: theme
+category: themes
 date: '2021-05-22T08:50:54.155Z'
 deprecated: false
 description: A purple theme for Vuepress

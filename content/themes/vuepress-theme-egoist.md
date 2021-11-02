@@ -6,7 +6,7 @@ author:
   url: null
   username: null
 bugs: https://github.com/vuejs/vuepress/issues
-category: theme
+category: themes
 date: '2018-11-12T02:33:27.202Z'
 deprecated: false
 description: theme-blog-example for vuepress

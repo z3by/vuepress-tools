@@ -1,19 +1,19 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/12093502?v=4
   email: kybetter@163.com
   name: zhaoliang
   url: null
   username: kybetter
 bugs: https://github.com/kybetter/vuepress-theme-kytest/issues
-category: theme
+category: themes
 date: '2019-04-28T06:08:28.236Z'
 deprecated: false
 description: vuepress-theme-kytest
 downloads: null
 homepage: https://github.com/kybetter/vuepress-theme-kytest#readme
 keywords: null
-license: null
+license: false
 maintainers: null
 name: vuepress-theme-kytest
 npm: https://www.npmjs.com/package/vuepress-theme-kytest
