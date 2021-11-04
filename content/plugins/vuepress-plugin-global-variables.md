@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/26066123?v=4
   email: null
   name: "Artur M\u0119dryga\u0142"
   url: null
-  username: null
+  username: demtario
 bugs: https://github.com/demtario/vuepress-plugin-global-variables/issues
 category: plugins
 date: '2020-11-06T11:22:54.228Z'
@@ -17,7 +17,7 @@ keywords:
 - global-variables
 - vue
 - vuepress
-license: null
+license: false
 maintainers: null
 name: vuepress-plugin-global-variables
 npm: https://www.npmjs.com/package/vuepress-plugin-global-variables
@@ -29,10 +29,10 @@ publisher:
   username: demtario
 repository: https://github.com/demtario/vuepress-plugin-global-variables
 score: 0.4138405527802315
-stars: 0
+stars: 1
 unstable: true
 version: 0.2.0
-watchers: 0
+watchers: 1
 
 ---
 

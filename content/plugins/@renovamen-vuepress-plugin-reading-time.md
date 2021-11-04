@@ -35,10 +35,10 @@ publisher:
   username: renovamen
 repository: https://github.com/Renovamen/vuepress-theme-gungnir
 score: 0.5406710949826642
-stars: 129
+stars: 130
 unstable: true
 version: 0.2.0
-watchers: 129
+watchers: 130
 
 ---
 
