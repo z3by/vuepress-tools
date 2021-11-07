@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/47939026?v=4
+  avatar: null
   email: null
   name: null
   url: null
-  username: youpenglai
+  username: null
 bugs: https://github.com/youpenglai/vue-cli-plugin-vuepress/issues
 category: plugins
 date: '2020-02-29T04:29:04.014Z'
@@ -13,7 +13,7 @@ description: vue-cli 3 plugin to add vue-cli-plugin-vuepress
 downloads: null
 homepage: https://github.com/youpenglai/vue-cli-plugin-vuepress#readme
 keywords: null
-license: false
+license: null
 maintainers: null
 name: vue-cli-plugin-ypl-vuepress
 npm: https://www.npmjs.com/package/vue-cli-plugin-ypl-vuepress
