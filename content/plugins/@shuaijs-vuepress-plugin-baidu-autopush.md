@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/58034399?v=4
   email: null
   name: Stan Ye
   url: null
-  username: null
+  username: shuaijs
 bugs: https://github.com/shuaijs/vuepress-plugin-baidu-autopush/issues
 category: plugins
 date: '2019-12-06T03:13:28.598Z'
@@ -17,7 +17,7 @@ keywords:
 - vue
 - vuepress
 - baidu-autopush
-license: null
+license: MIT License
 maintainers: null
 name: '@shuaijs/vuepress-plugin-baidu-autopush'
 npm: https://www.npmjs.com/package/%40shuaijs%2Fvuepress-plugin-baidu-autopush
@@ -36,3 +36,32 @@ watchers: 0
 
 ---
 
+# @shuaijs/vuepress-plugin-baidu-autopush
+
+## 介绍
+
+vuepress-plugin-baidu-autopush
+
+## 安装
+
+```bash
+yarn add @shuaijs/vuepress-plugin-baidu-autopush
+# or
+npm install @shuaijs/vuepress-plugin-baidu-autopush --save
+```
+
+------------
+
+## 使用
+
+在配置文件中引入 `vuepress-plugin-baidu-autopush`
+
+```javascript
+module.exports = {
+  plugins: [
+    [
+      '@shuaijs/baidu-autopush'
+    ],
+  ],
+}
+```

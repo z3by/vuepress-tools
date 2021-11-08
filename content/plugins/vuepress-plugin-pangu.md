@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/33423008?v=4
   email: 1700011071@pku.edu.cn
   name: Shigma
   url: null
@@ -18,7 +18,7 @@ keywords:
 - spacing
 - pangu
 - markdown
-license: null
+license: MIT License
 maintainers: null
 name: vuepress-plugin-pangu
 npm: https://www.npmjs.com/package/vuepress-plugin-pangu
@@ -30,10 +30,37 @@ publisher:
   username: shigma
 repository: https://github.com/Shigma/vuepress-plugin-pangu
 score: 0.0825622532185069
-stars: 0
+stars: 2
 unstable: false
 version: 1.0.1
-watchers: 0
+watchers: 2
 
 ---
 
+# vuepress-plugin-pangu
+
+[![Build Status](https://travis-ci.org/Shigma/markdown-it-pangu.svg?branch=master)](https://travis-ci.org/Shigma/markdown-it-pangu)
+[![npm](https://img.shields.io/npm/v/vuepress-plugin-pangu.svg)](https://www.npmjs.com/package/vuepress-plugin-pangu)
+
+A [VuePress](https://vuepress.vuejs.org/) plugin which inserts whitespace into your markdown files.
+
+- [Home Page](https://shigma.github.io/markdown-it-pangu/vuepress.html)
+
+## Usage
+
+```bash
+npm install vuepress-plugin-pangu
+# OR
+yarn add vuepress-plugin-pangu
+```
+
+## Configurations
+
+### additionalRules
+
+- **type**: `string[]`
+- **default**: `['code_inline']`
+
+## Contribution
+
+Contribution Welcome!

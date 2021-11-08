@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/2761281?v=4
   email: brandon.liles@gmail.com
   name: Brandon Liles
   url: null
@@ -16,7 +16,7 @@ keywords:
 - vue
 - vuepress
 - generator
-license: null
+license: MIT License
 maintainers: null
 name: vuepress-plugin-page-locale
 npm: https://www.npmjs.com/package/vuepress-plugin-page-locale
@@ -35,3 +35,6 @@ watchers: 0
 
 ---
 
+# Vuepress Page Locale
+
+Adds the page locale as a property of the page data.

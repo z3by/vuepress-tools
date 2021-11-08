@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/5062966?v=4
   email: sabic.alija@gmail.com
   name: Alija Sabic
   url: null
@@ -13,7 +13,7 @@ description: Vuepress cli plugin for documentation management of AsTeRICS
 downloads: null
 homepage: https://github.com/asterics/asterics-docs.js#readme
 keywords: null
-license: null
+license: false
 maintainers: null
 name: '@asterics-docs/vuepress-plugin-asterics-docs-tool'
 npm: https://www.npmjs.com/package/%40asterics-docs%2Fvuepress-plugin-asterics-docs-tool

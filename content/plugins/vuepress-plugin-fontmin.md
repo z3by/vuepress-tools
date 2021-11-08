@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/26431026?v=4
   email: 2490445193@qq.com
   name: PentaTea
   url: null
@@ -23,7 +23,7 @@ keywords:
 - "vuepress\u63D2\u4EF6"
 - "\u5B57\u4F53"
 - "\u63D0\u53D6"
-license: null
+license: Mozilla Public License 2.0
 maintainers: null
 name: vuepress-plugin-fontmin
 npm: https://www.npmjs.com/package/vuepress-plugin-fontmin
@@ -35,10 +35,16 @@ publisher:
   username: moecopilot
 repository: https://github.com/PentaTea/B-Tree.studio
 score: 0.09387181641223193
-stars: 0
+stars: 18
 unstable: false
 version: 2.0.3
-watchers: 0
+watchers: 18
 
 ---
 
+# B-Tree Design Studio
+
+
+- [vuepress-plugin-music-bar](https://github.com/PentaTea/B-Tree.studio/tree/master/docs/.vuepress/plugin/vuepress-plugin-music-bar#vuepress-plugin-music-bar)
+- [vuepress-plugin-fontmin](https://github.com/PentaTea/B-Tree.studio/tree/master/docs/.vuepress/plugin/vuepress-plugin-fontmin#vuepress-plugin-fontmin)
+- [b-tree.studio](http://b-tree.studio)

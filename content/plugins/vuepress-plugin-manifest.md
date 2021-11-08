@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/2761281?v=4
   email: brandon.liles@gmail.com
   name: Brandon Liles
   url: null
@@ -16,7 +16,7 @@ keywords:
 - vue
 - vuepress
 - generator
-license: null
+license: MIT License
 maintainers: null
 name: vuepress-plugin-manifest
 npm: https://www.npmjs.com/package/vuepress-plugin-manifest
@@ -28,10 +28,14 @@ publisher:
   username: bliles
 repository: https://github.com/bliles/vuepress-page-manifest
 score: 0.320458215434555
-stars: 0
+stars: 1
 unstable: false
 version: 1.0.0
-watchers: 0
+watchers: 1
 
 ---
 
+# Vuepress Page Manifest
+
+Simple Vuepress plugin to write a page manifest. This may be useful when you
+have some other tool that needs to build links to pages in your Vuepress site.

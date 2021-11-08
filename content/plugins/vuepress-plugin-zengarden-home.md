@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/4708070?v=4
   email: thomas@venturini.codes
   name: Thomas Venturini
   url: null
@@ -17,7 +17,7 @@ keywords:
 - vuepress
 - plugin
 - zengarden
-license: null
+license: MIT License
 maintainers: null
 name: vuepress-plugin-zengarden-home
 npm: https://www.npmjs.com/package/vuepress-plugin-zengarden-home
@@ -36,3 +36,27 @@ watchers: 0
 
 ---
 
+# VuePress Plugin Zengarden Home
+
+Creates homepage for your VuePress site.
+
+## Installation
+
+```bash
+npm install -D vuepress-plugin-zengarden-home
+# or
+yarn add -D vuepress-plugin-zengarden-home
+```
+
+## Usage
+
+Add the following to your `config.js` or `index.js` file.
+
+```javascript
+['zengarden-home', {
+    title: 'Home',
+    frontmatter: {
+        layout: 'Home'
+    }
+}],
+```
