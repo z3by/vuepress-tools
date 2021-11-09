@@ -29,10 +29,10 @@ publisher:
   username: ma-jinyao
 repository: https://github.com/jinyaoMa/vuepress-theme-mustom
 score: 0.47930108192783144
-stars: 19
+stars: 20
 unstable: false
 version: 1.1.1-20200901.1245.1
-watchers: 19
+watchers: 20
 
 ---
 
