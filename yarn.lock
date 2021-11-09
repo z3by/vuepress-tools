@@ -12161,10 +12161,10 @@ vuetify-loader@^1.7.2:
     file-loader "^6.2.0"
     loader-utils "^2.0.0"
 
-vuetify@^2.5.3, vuetify@^2.5.7:
-  version "2.5.7"
-  resolved "https://registry.yarnpkg.com/vuetify/-/vuetify-2.5.7.tgz#0c7cfa143bffa6a14ef3ca5cfd8f2135713f4360"
-  integrity sha512-3Hn7X6FFtQetc6qy8GcMDKbZRKbiBMDBsYuUjDS4EdpDvHBDTMySpzBWqBNuPjPHRaT3XSrQfoYN84vGDg87Ug==
+vuetify@^2.5.13, vuetify@^2.5.3:
+  version "2.5.13"
+  resolved "https://registry.yarnpkg.com/vuetify/-/vuetify-2.5.13.tgz#b04f52f8c3f5713a43a25dc5be6945cd2676ec82"
+  integrity sha512-MfEkGq+wR3oa/BjHgonACp21aihgM17pCs7YBAsa/w87VnLKRgds1v/Rgtcq/pkIIH7yTV+XG3icQWpRgrKCiQ==
 
 vuex@^3.6.2:
   version "3.6.2"
