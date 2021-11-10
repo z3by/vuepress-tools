@@ -7,7 +7,7 @@ author:
   username: shentuzhigang
 bugs: https://github.com/shentuzhigang/vuepress-theme-star/issues
 category: themes
-date: '2021-10-30T14:15:23.135Z'
+date: '2021-11-02T02:43:22.888Z'
 deprecated: false
 description: A theme of VuePress
 downloads: null
@@ -28,10 +28,10 @@ publisher:
   url: null
   username: starzkg
 repository: https://github.com/shentuzhigang/vuepress-theme-star
-score: 0.5080074744773543
+score: 0.5829145057887649
 stars: 0
 unstable: true
-version: 1.0.0-beta.4
+version: 1.0.0-beta.6
 watchers: 0
 
 ---
