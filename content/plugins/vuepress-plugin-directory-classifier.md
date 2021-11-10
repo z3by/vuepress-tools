@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/13609768?v=4
+  avatar: null
   email: sabic.alija@gmail.com
   name: Alija Sabic
   url: null
@@ -19,7 +19,7 @@ keywords:
 - generator
 - directory
 - classifier
-license: false
+license: null
 maintainers: null
 name: vuepress-plugin-directory-classifier
 npm: https://www.npmjs.com/package/vuepress-plugin-directory-classifier

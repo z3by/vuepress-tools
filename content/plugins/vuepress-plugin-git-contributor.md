@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/19400528?v=4
+  avatar: null
   email: null
   name: xieyx
   url: null
-  username: xieyx
+  username: null
 bugs: https://github.com/xieyx/vuepress-plugin-git-contributor/issues
 category: plugins
 date: '2020-06-09T10:53:20.658Z'
@@ -13,7 +13,7 @@ description: '> git contributor plugin for VuePress'
 downloads: null
 homepage: https://github.com/xieyx/vuepress-plugin-git-contributor#readme
 keywords: null
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-plugin-git-contributor
 npm: https://www.npmjs.com/package/vuepress-plugin-git-contributor
@@ -25,13 +25,10 @@ publisher:
   username: xieyx
 repository: https://github.com/xieyx/vuepress-plugin-git-contributor
 score: 0.3353405480644485
-stars: 1
+stars: 0
 unstable: false
 version: 1.1.1
-watchers: 1
+watchers: 0
 
 ---
 
-# vuepress-plugin-git-contributor
-
-> git contributor plugin for VuePress

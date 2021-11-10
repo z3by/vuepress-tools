@@ -2,37 +2,36 @@
 author:
   avatar: https://avatars.githubusercontent.com/u/48539483?v=4
   email: null
-  name: meteorlxy
+  name: Starzkg
   url: null
   username: vuepress
 bugs: https://github.com/vuepress/vuepress-next/issues
 category: plugins
-date: '2021-04-11T12:39:28.552Z'
+date: '2021-11-08T06:46:52.383Z'
 deprecated: false
-description: VuePress plugin - markdown container
+description: VuePress plugin - Element Plus
 downloads: null
 homepage: https://github.com/vuepress
 keywords:
 - vuepress-plugin
 - vuepress
 - plugin
-- markdown
-- container
+- element-plus
 license: MIT License
 maintainers: null
-name: '@vuepress/plugin-container'
-npm: https://www.npmjs.com/package/%40vuepress%2Fplugin-container
+name: '@starzkg/vuepress-plugin-element-plus'
+npm: https://www.npmjs.com/package/%40starzkg%2Fvuepress-plugin-element-plus
 publisher:
   avatar: null
-  email: meteor.lxy@foxmail.com
+  email: shentuzhigang@qq.com
   name: null
   url: null
-  username: meteorlxy
+  username: starzkg
 repository: https://github.com/vuepress/vuepress-next
-score: 0.6585322494653801
+score: 0.5884861121944971
 stars: 724
-unstable: false
-version: 2.0.0-beta.8
+unstable: true
+version: 1.0.0-beta.11
 watchers: 724
 
 ---

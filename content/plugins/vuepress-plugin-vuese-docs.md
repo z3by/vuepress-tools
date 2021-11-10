@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/20984527?v=4
+  avatar: null
   email: null
   name: busyrat
   url: null
-  username: busyrat
+  username: null
 bugs: https://github.com/busyrat/blog/issues
 category: plugins
 date: '2019-08-21T08:37:00.089Z'
@@ -18,7 +18,7 @@ keywords:
 - vuese
 - vue-demo
 - vuepress-plugin
-license: false
+license: null
 maintainers: null
 name: vuepress-plugin-vuese-docs
 npm: https://www.npmjs.com/package/vuepress-plugin-vuese-docs
@@ -37,12 +37,3 @@ watchers: 0
 
 ---
 
-# Blog
-
-找回写代码的乐趣
-
-![Github Actions](https://github.com/busyrat/blog/workflows/Deploy%20gh-pages/badge.svg)
-
-[github page](https://busyrat.github.io/blog/)
-
-[vuepress 1.x](https://v1.vuepress.vuejs.org/zh/guide/global-computed.html#site)

@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/13609768?v=4
+  avatar: null
   email: sabic.alija@gmail.com
   name: Alija Sabic
   url: null
@@ -13,7 +13,7 @@ description: Vuepress plugin for directory based classification
 downloads: null
 homepage: https://github.com/sabicalija/webdev.js#readme
 keywords: null
-license: false
+license: null
 maintainers: null
 name: '@fhtw/vuepress-plugin-directory-classifier'
 npm: https://www.npmjs.com/package/%40fhtw%2Fvuepress-plugin-directory-classifier

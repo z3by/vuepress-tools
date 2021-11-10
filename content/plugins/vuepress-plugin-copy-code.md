@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/19198355?v=4
+  avatar: null
   email: null
   name: artiely
   url: null
-  username: artiely
+  username: null
 bugs: https://github.com/artiely/vuepress-plugin-copy-code/issues
 category: plugins
 date: '2020-03-30T07:23:36.449Z'
@@ -20,7 +20,7 @@ keywords:
 - vuepress-code-copy
 - copy
 - copy-code
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-plugin-copy-code
 npm: https://www.npmjs.com/package/vuepress-plugin-copy-code
@@ -32,51 +32,10 @@ publisher:
   username: artiely
 repository: https://github.com/artiely/vuepress-plugin-copy-code
 score: 0.053733180011507134
-stars: 2
+stars: 0
 unstable: true
 version: 0.0.1
-watchers: 2
+watchers: 0
 
 ---
-
-# vuepress-plugin-copy-code
-
-> A vuepress plugin for clipboard-copy
-
-## Install
-
-``` bash
-# install dependencies
-npm i vuepress-plugin-copy-code -D
-
-# or use yarn
-yarn add vuepress-plugin-copy-code -D
-```
-
-## Usage
-
-Write vuepress config
-
-``` javascript
-module.exports = {
-  plugins: ['copy-code']
-}
-```
-
-## Options
-
-This plugin supports the following configurations.
-
-``` javascript
-module.exports = {
-  plugins: ['copy-code', {
-    copySelector: ['div[class*="language-"] pre', 'div[class*="aside-code"] aside'], // String or Array
-    copyMessage: 'Copy successfully and then paste it for use.', // default is 'Copy successfully and then paste it for use.'
-    duration: 300, // prompt message display time.
-    showInMobile: false // whether to display on the mobile side, default: false.
-  }]
-}
-```
-## demo
-[https://artiely.gitee.io](https://artiely.gitee.io)
 

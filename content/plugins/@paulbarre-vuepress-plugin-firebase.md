@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/19966190?v=4
+  avatar: null
   email: contact@paulbarre.co
   name: "Paul Barr\xE9"
   url: null
@@ -19,7 +19,7 @@ keywords:
 - firestore
 - api
 - plugin
-license: GNU General Public License v3.0
+license: null
 maintainers: null
 name: '@paulbarre/vuepress-plugin-firebase'
 npm: https://www.npmjs.com/package/%40paulbarre%2Fvuepress-plugin-firebase
@@ -38,41 +38,3 @@ watchers: 0
 
 ---
 
-# Vuepress Plugin to setup Firebase
-
-## Introduction
-
-This plugin installs [@paulbarre/vue-firebase](https://github.com/paulbarre/vue-firebase) package into your Vuepress application.
-
-Check out its documentation to see how to configure this plugin, the options are exactly the same.
-
-## Installation
-
-Install the package into your Vue application:
-
-```
-npm i @paulbarre/vuepress-plugin-firebase @paulbarre/vue-firebase firebase
-```
-
-Next step needs to configure the plugin into your application. Edit your `.vuepress\config.js` file:
-
-```js
-module.exports = {
-    plugins: [
-        ...
-        [
-            '@paulbarre/firebase',
-            {
-                config: {
-                    ...
-                },
-                firestore: {
-                    ...
-                }
-            }
-        ]
-    ]
-}
-```
-
-Check out [Vuepress' official documentation](https://vuepress.vuejs.org/plugin/using-a-plugin.html) to see how to setup a plugin.

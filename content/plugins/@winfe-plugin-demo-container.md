@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/83055655?v=4
+  avatar: null
   email: null
   name: null
   url: null
-  username: cool-fe
+  username: null
 bugs: https://github.com/cool-fe/winex-cli/issues
 category: plugins
 date: '2021-09-29T06:59:57.924Z'
@@ -17,7 +17,7 @@ keywords:
 - vuepress
 - material
 - plugin
-license: false
+license: null
 maintainers: null
 name: '@winfe/plugin-demo-container'
 npm: https://www.npmjs.com/package/%40winfe%2Fplugin-demo-container
@@ -29,10 +29,10 @@ publisher:
   username: dsx_gao
 repository: https://github.com/cool-fe/winex-cli
 score: 0.1971459002721864
-stars: 3
+stars: 0
 unstable: false
 version: 1.0.3
-watchers: 3
+watchers: 0
 
 ---
 

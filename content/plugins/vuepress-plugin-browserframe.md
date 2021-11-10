@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/979071?v=4
+  avatar: null
   email: info@sillevl.be
   name: Sille Van Landschoot
   url: null
@@ -18,7 +18,7 @@ keywords:
 - plugin
 - browserframe
 - browsermockup
-license: false
+license: null
 maintainers: null
 name: vuepress-plugin-browserframe
 npm: https://www.npmjs.com/package/vuepress-plugin-browserframe
