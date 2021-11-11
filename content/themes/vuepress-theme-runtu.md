@@ -7,7 +7,7 @@ author:
   username: Runtus
 bugs: https://github.com/Runtus/vuepress-theme-runtu/issues
 category: themes
-date: '2021-11-08T06:07:25.478Z'
+date: '2021-11-09T08:08:23.843Z'
 deprecated: false
 description: '* Change the old blog theme to the static web page and provide customize
   configuration.'
@@ -25,10 +25,10 @@ publisher:
   url: null
   username: runtu_go
 repository: https://github.com/Runtus/vuepress-theme-runtu
-score: 0.5070158099168753
+score: 0.5074727835006936
 stars: 0
 unstable: false
-version: 1.0.0
+version: 1.0.1
 watchers: 0
 
 ---
