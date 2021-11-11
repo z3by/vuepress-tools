@@ -39,7 +39,7 @@ watchers: 4
 
 ## 简介
 
-vuepress-plugin-demoblock-plus 是一个基于 Vuepress 的插件，它可以帮助你在编写文档的时候增加 Vue 示例，它的诞生初衷是为了降低编写组件文档时增加一些相关示例的难度。
+vuepress-plugin-demoblock-plus 是一个基于 Vuepress 2.x 的插件，它可以帮助你在编写文档的时候增加 Vue 示例，它的诞生初衷是为了降低编写组件文档时增加一些相关示例的难度。
 
 使用 Vuepress 编写组件示例有以下不足之处：
   * 1.组件示例和示例代码本质上一样，却需要写两遍。
