@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/64388301?v=4
+  avatar: null
   email: null
   name: wangjia_1919@163.com
   url: null
-  username: nine-theme
+  username: null
 bugs: https://github.com/NineSwordsMonster/vuepress-plugin-ga/issues
 category: plugins
 date: '2020-09-23T07:47:20.478Z'
@@ -15,7 +15,7 @@ homepage: https://github.com/NineSwordsMonster/vuepress-plugin-ga#readme
 keywords:
 - ga
 - vuepress
-license: MIT License
+license: null
 maintainers: null
 name: '@nine-theme/vuepress-plugin-ga'
 npm: https://www.npmjs.com/package/%40nine-theme%2Fvuepress-plugin-ga
