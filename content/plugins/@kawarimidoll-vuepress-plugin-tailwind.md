@@ -31,10 +31,10 @@ publisher:
   username: kawarimidoll
 repository: https://github.com/kawarimidoll/vuepress-plugin-tailwind
 score: 0.6185270181142509
-stars: 13
+stars: 14
 unstable: false
 version: 2.0.0
-watchers: 13
+watchers: 14
 
 ---
 
