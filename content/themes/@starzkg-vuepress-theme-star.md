@@ -28,7 +28,7 @@ publisher:
   url: null
   username: starzkg
 repository: https://github.com/shentuzhigang/vuepress-theme-star
-score: 0.5829145057887649
+score: 0.5829917111020148
 stars: 0
 unstable: true
 version: 1.0.0-beta.6
