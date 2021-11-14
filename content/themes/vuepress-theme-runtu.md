@@ -2,12 +2,12 @@
 author:
   avatar: https://avatars.githubusercontent.com/u/48038769?v=4
   email: null
-  name: null
+  name: Runtus
   url: null
   username: Runtus
 bugs: https://github.com/Runtus/vuepress-theme-runtu/issues
 category: themes
-date: '2021-11-12T07:41:17.653Z'
+date: '2021-11-13T09:41:52.502Z'
 deprecated: false
 description: '* Change the old blog theme to the static web page and provide customize
   configuration.'
@@ -25,10 +25,10 @@ publisher:
   url: null
   username: runtu_go
 repository: https://github.com/Runtus/vuepress-theme-runtu
-score: 0.5075645806503206
+score: 0.5080813911123434
 stars: 0
 unstable: false
-version: 1.0.3
+version: 1.0.5
 watchers: 0
 
 ---
@@ -45,4 +45,5 @@ watchers: 0
 5. 博客展示页面优化
 <!-- 6. 图片可配置自定义 ----> 
 <!-- 7. 路由跳转时，要求Header不重新渲染 -> over -->
-8. 移动端适配 
+<!-- 8. 移动端适配 over -->
+9. footer设置
