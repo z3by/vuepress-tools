@@ -27,10 +27,10 @@ publisher:
   username: bambusaceae
 repository: https://github.com/Bambusaceae/vuepress-theme-bootstrap-simple
 score: 0.5229744164082191
-stars: 1
+stars: 2
 unstable: false
 version: 1.1.4
-watchers: 1
+watchers: 2
 
 ---
 
