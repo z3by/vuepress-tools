@@ -7,7 +7,7 @@ author:
   username: mister-hope
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues
 category: plugins
-date: '2021-09-19T03:51:43.876Z'
+date: '2021-11-14T16:33:03.880Z'
 deprecated: false
 description: smooth-scroll plugin for vuepress
 downloads: null
@@ -29,10 +29,10 @@ publisher:
   url: null
   username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
-score: 0.6768874481432747
+score: 0.6659798384293217
 stars: 305
 unstable: false
-version: 1.20.3
+version: 1.21.0
 watchers: 305
 
 ---

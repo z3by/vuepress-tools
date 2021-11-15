@@ -7,20 +7,19 @@ author:
   username: mister-hope
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues
 category: plugins
-date: '2021-11-14T16:33:01.758Z'
+date: '2021-11-14T16:32:56.054Z'
 deprecated: false
-description: Add This plugin for vuepress
+description: Reading time plugin for vuepress
 downloads: null
-homepage: https://vuepress-theme-hope.github.io/add-this/
+homepage: https://vuepress-theme-hope.github.io/reading-time/
 keywords:
 - vuepress-plugin
-- vuepress
-- add-this
-- share
+- reading time
+- word count
 license: MIT License
 maintainers: null
-name: vuepress-plugin-add-this
-npm: https://www.npmjs.com/package/vuepress-plugin-add-this
+name: '@mr-hope/vuepress-plugin-reading-time'
+npm: https://www.npmjs.com/package/%40mr-hope%2Fvuepress-plugin-reading-time
 publisher:
   avatar: null
   email: zhangbowang1998@gmail.com
@@ -28,7 +27,7 @@ publisher:
   url: null
   username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
-score: 0.6695162562929433
+score: 0.6852517795437081
 stars: 305
 unstable: false
 version: 1.21.0
