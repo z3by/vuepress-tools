@@ -36,7 +36,7 @@ publisher:
   url: null
   username: starzkg
 repository: https://github.com/Mister-Hope/vuepress-theme-hope
-score: 0.186636845977857
+score: 0.18672120271953235
 stars: 0
 unstable: true
 version: 1.0.0-beta.11
