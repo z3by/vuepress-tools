@@ -7,7 +7,7 @@ author:
   username: null
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues
 category: plugins
-date: '2021-11-15T15:49:50.723Z'
+date: '2021-11-15T15:49:49.905Z'
 deprecated: false
 description: A comment plugin for vuepress
 downloads: null
@@ -21,8 +21,8 @@ keywords:
 - page-info
 license: null
 maintainers: null
-name: '@starzkg/vuepress-plugin-comment'
-npm: https://www.npmjs.com/package/%40starzkg%2Fvuepress-plugin-comment
+name: '@starzkg/vuepress-plugin-page-view'
+npm: https://www.npmjs.com/package/%40starzkg%2Fvuepress-plugin-page-view
 publisher:
   avatar: null
   email: shentuzhigang@qq.com
@@ -30,7 +30,7 @@ publisher:
   url: null
   username: starzkg
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
-score: 0.17976431319061192
+score: 0.1795562713227716
 stars: 0
 unstable: true
 version: 1.0.0-beta.14
