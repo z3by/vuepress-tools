@@ -7,9 +7,9 @@ author:
   username: null
 bugs: https://github.com/cool-fe/winex-cli/issues
 category: plugins
-date: '2021-09-29T06:59:57.921Z'
+date: '2021-11-17T03:53:57.453Z'
 deprecated: false
-description: Create a  App in seconds.
+description: null
 downloads: null
 homepage: https://github.com/cool-fe/winex-cli#readme
 keywords:
@@ -19,8 +19,8 @@ keywords:
 - plugin
 license: null
 maintainers: null
-name: '@winfe/plugin-auto-material-doc'
-npm: https://www.npmjs.com/package/%40winfe%2Fplugin-auto-material-doc
+name: '@winfe/plugin-registry-material-components'
+npm: https://www.npmjs.com/package/%40winfe%2Fplugin-registry-material-components
 publisher:
   avatar: null
   email: 18570148691@163.com
@@ -28,10 +28,10 @@ publisher:
   url: null
   username: dsx_gao
 repository: https://github.com/cool-fe/winex-cli
-score: 0.19720224617175025
+score: 0.18680728743445352
 stars: 0
 unstable: false
-version: 1.0.3
+version: 1.0.4
 watchers: 0
 
 ---
