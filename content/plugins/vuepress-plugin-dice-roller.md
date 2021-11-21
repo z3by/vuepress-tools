@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/1846676?v=4
+  avatar: null
   email: info@greenimp.co.uk
   name: GreenImp
   url: http://greenimp.co.uk
-  username: GreenImp
+  username: null
 bugs: https://github.com/GreenImp/vuepress-plugin-dice-roller/issues
 category: plugins
 date: '2020-09-07T21:23:44.514Z'
@@ -16,7 +16,7 @@ keywords:
 - vuepress
 - dice
 - roll
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-plugin-dice-roller
 npm: https://www.npmjs.com/package/vuepress-plugin-dice-roller
@@ -35,50 +35,3 @@ watchers: 0
 
 ---
 
-# vuepress-plugin-dice-roller
-
-Plugin for [VuePress](https://vuepress.vuejs.org/) that allows rolling dice.
-
-It is built upon this [RPG dice roller](https://github.com/GreenImp/rpg-dice-roller), and is used in its [documentation](https://greenimp.github.io/rpg-dice-roller).
-
-
-## Install
-
-Install the plugin:
-
-```bash
-npm install -D vuepress-plugin-dice-roller
-# Or
-yarn add -D vuepress-plugin-dice-roller
-```
-
-Then add the plugin to your Vuepress config file:
-
-```javascript
-module.exports = {
-  ...
-  plugins: [
-    ...
-    'dice-roller',
-  ],
-};
-```
-
-
-## Usage
-
-You can add a dice roller anywhere by using the following markdown syntax, where `{notation}` is the optional notation to pre-fill the input with:
-
-```
-::: roll {notation} :::
-```
-
-For example:
-
-```
-::: roll 4d6 ::
-```
-
-```
-::: roll (2*6)d10 / (4 - d20) :::
-```
