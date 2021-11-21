@@ -4,15 +4,15 @@ author:
   email: ko.momo@qq.com
   name: momoko
   url: null
-  username: wannaxiao
-bugs: https://github.com/wannaxiao/vuepress-theme-resume/issues
+  username: momoko
+bugs: https://github.com/komomoo/vuepress-theme-resume/issues
 category: themes
-date: '2020-02-12T07:42:58.763Z'
+date: '2021-11-19T09:08:24.910Z'
 deprecated: false
 description: "\u7F16\u5199\u7B80\u6D01\u4F18\u96C5\u7684markdown\u7B80\u5386\uFF0C\
   \u7531 vuepress \u9A71\u52A8"
 downloads: null
-homepage: https://github.com/wannaxiao/vuepress-theme-resume#readme
+homepage: https://github.com/komomoo/vuepress-theme-resume#readme
 keywords:
 - vuepress
 - markdown
@@ -28,11 +28,11 @@ publisher:
   name: null
   url: null
   username: momoko
-repository: https://github.com/wannaxiao/vuepress-theme-resume
-score: 0.43434186696282756
+repository: https://github.com/komomoo/vuepress-theme-resume
+score: 0.595585799108781
 stars: 259
 unstable: false
-version: 1.0.1
+version: 1.0.2
 watchers: 259
 
 ---

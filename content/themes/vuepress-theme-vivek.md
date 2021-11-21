@@ -7,7 +7,7 @@ author:
   username: eddievandeer
 bugs: https://github.com/eddievandeer/vuepress-theme-vivek/issues
 category: themes
-date: '2021-10-30T09:13:05.046Z'
+date: '2021-11-20T09:50:28.077Z'
 deprecated: false
 description: "A simple style vuepress theme. \u4E00\u4E2A\u7B80\u7EA6\u98CE\u683C\u7684\
   vuepress\u4E3B\u9898\u3002"
@@ -31,10 +31,10 @@ publisher:
   url: null
   username: cavalheiro
 repository: https://github.com/eddievandeer/vuepress-theme-vivek
-score: 0.504292860727361
+score: 0.5042051472800323
 stars: 0
 unstable: false
-version: 1.1.0
+version: 1.1.1
 watchers: 0
 
 ---
@@ -159,6 +159,15 @@ module.exports = {
 - 默认值: `undefined`
 
 配置顶部导航栏的路由项，与 `vuepress` 的配置一致
+
+
+
+### filters
+
+- 类型: `Array`
+- 默认值: `undefined`
+
+过滤特定分类的文章（ `frontmatter` 中 `categories` 的值），使该分类下的文章不展示在首页的所有文章的列表中
 
 
 
