@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/6128107?v=4
   email: null
   name: Lego Chiang
   url: null
-  username: null
+  username: vuejs
 bugs: https://github.com/vuejs/vuepress/issues
 category: themes
 date: '2019-12-03T05:36:38.325Z'
@@ -17,7 +17,7 @@ keywords:
 - vue
 - vuepress
 - generator
-license: null
+license: MIT License
 maintainers: null
 name: '@legochiang/vuepress-theme-zero'
 npm: https://www.npmjs.com/package/%40legochiang%2Fvuepress-theme-zero
@@ -29,10 +29,10 @@ publisher:
   username: qas612820704
 repository: https://github.com/vuejs/vuepress
 score: 0.07978641329537306
-stars: 0
+stars: 19610
 unstable: false
 version: 1.2.1
-watchers: 0
+watchers: 19610
 
 ---
 
