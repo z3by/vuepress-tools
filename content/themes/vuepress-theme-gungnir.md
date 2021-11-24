@@ -7,7 +7,7 @@ author:
   username: renovamen
 bugs: https://github.com/Renovamen/vuepress-theme-gungnir/issues
 category: themes
-date: '2021-08-26T06:22:00.868Z'
+date: '2021-11-22T16:26:40.506Z'
 deprecated: false
 description: Gungnir is a blog theme for VuePress.
 downloads: null
@@ -19,7 +19,6 @@ keywords:
 - katex
 - chartjs
 - mermaid
-- markmap
 - roughviz
 license: Apache License 2.0
 maintainers: null
@@ -32,11 +31,11 @@ publisher:
   url: null
   username: renovamen
 repository: https://github.com/Renovamen/vuepress-theme-gungnir
-score: 0.5417927632272306
-stars: 134
+score: 0.5419798678681941
+stars: 133
 unstable: true
-version: 0.2.1
-watchers: 134
+version: 0.3.0
+watchers: 133
 
 ---
 
