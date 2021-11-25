@@ -7,7 +7,7 @@ author:
   username: eddievandeer
 bugs: https://github.com/eddievandeer/vuepress-theme-vivek/issues
 category: themes
-date: '2021-11-20T09:50:28.077Z'
+date: '2021-11-24T13:20:46.236Z'
 deprecated: false
 description: "A simple style vuepress theme. \u4E00\u4E2A\u7B80\u7EA6\u98CE\u683C\u7684\
   vuepress\u4E3B\u9898\u3002"
@@ -31,10 +31,10 @@ publisher:
   url: null
   username: cavalheiro
 repository: https://github.com/eddievandeer/vuepress-theme-vivek
-score: 0.5042051472800323
+score: 0.50564495265299
 stars: 1
 unstable: false
-version: 1.1.1
+version: 1.2.0
 watchers: 1
 
 ---
@@ -132,6 +132,15 @@ module.exports = {
 - 默认值: `undefined`
 
 配置主页的背景图片
+
+
+
+### logo
+
+- 类型: `string`
+- 默认值: `undefined`
+
+配置在侧边栏中展示的 logo 图片
 
 
 

@@ -31,10 +31,10 @@ publisher:
   username: gabrielwillemann
 repository: https://github.com/gabrielwillemann/vuepress-theme-material-free
 score: 0.3488518149336042
-stars: 5
+stars: 6
 unstable: true
 version: 0.1.4
-watchers: 5
+watchers: 6
 
 ---
 
