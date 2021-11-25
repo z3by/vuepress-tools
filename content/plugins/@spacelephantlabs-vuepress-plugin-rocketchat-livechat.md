@@ -4,7 +4,7 @@ author:
   email: developers@spacelephant.org
   name: Space Elephant SAS
   url: null
-  username: spacelephantbot
+  username: spacelephantlabs
 bugs: https://github.com/spacelephantlabs/vuepress-plugin-rocketchat-livechat/issues
 category: plugins
 date: '2021-04-23T20:01:11.167Z'
@@ -29,7 +29,7 @@ publisher:
   url: null
   username: spacelephantbot
 repository: https://github.com/spacelephantlabs/vuepress-plugin-rocketchat-livechat
-score: 0.5077618532288455
+score: 0.4746968511294196
 stars: 0
 unstable: false
 version: 1.0.0

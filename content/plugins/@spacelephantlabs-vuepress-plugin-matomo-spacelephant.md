@@ -4,7 +4,7 @@ author:
   email: developers@spacelephant.org
   name: Space Elephant SAS
   url: null
-  username: spacelephantbot
+  username: spacelephantlabs
 bugs: https://github.com/spacelephantlabs/vuepress-plugin-matomo-spacelephant/issues
 category: plugins
 date: '2021-06-21T13:26:07.618Z'
@@ -31,7 +31,7 @@ publisher:
   url: null
   username: spacelephantbot
 repository: https://github.com/spacelephantlabs/vuepress-plugin-matomo-spacelephant
-score: 0.5129473032033603
+score: 0.45181483489597285
 stars: 0
 unstable: false
 version: 1.1.1
