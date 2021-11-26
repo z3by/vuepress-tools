@@ -7,7 +7,7 @@ author:
   username: vuepress-aurora
 bugs: https://github.com/vuepress-aurora/vuepress-theme-aurora/issues
 category: themes
-date: '2021-11-23T16:24:21.997Z'
+date: '2021-11-25T12:55:44.156Z'
 deprecated: false
 description: "A vuepress-based animation blog theme, simple, beautiful, multi-color,\
   \ multiple custom functions, providing article poster sharing, talk, photo album,\
@@ -17,7 +17,7 @@ description: "A vuepress-based animation blog theme, simple, beautiful, multi-co
   \u62A5\u5206\u4EAB\uFF0C\u8BF4\u8BF4\uFF0C\u76F8\u518C\uFF0C\u8BC4\u8BBA\u7B49\u7279\
   \u8272\u529F\uFFFD?"
 downloads: null
-homepage: https://aurora.xcye.xyz/
+homepage: https://github.com/vuepress-aurora/vuepress-theme-aurora#readme
 keywords:
 - vuepress-theme
 - vuepress-theme-aurora
@@ -41,17 +41,17 @@ publisher:
   url: null
   username: qsyyke
 repository: https://github.com/vuepress-aurora/vuepress-theme-aurora
-score: 0.5598327900742699
-stars: 46
+score: 0.505249861516096
+stars: 47
 unstable: false
-version: 1.9.1
-watchers: 46
+version: 1.9.6
+watchers: 47
 
 ---
 
 ## Introduce
 
-<a target="_blank" href="http://aurora.cco.vin/" >Demo</a>
+<a target="_blank" href="http://aurora.xcye.xyz/" >Demo</a>
 
 > A vuepress-based animation blog theme, simple, beautiful, multi-color, multiple custom functions, providing article poster sharing, talk, photo album, comment and other features
 >
@@ -63,13 +63,17 @@ watchers: 46
 
 如果你之前没有使用过`vuepress`，那么安装过程，可以查看<a target="_blank" href="https://v2.vuepress.vuejs.org/zh/guide/getting-started.html">官方教程</a>或者本主题<a target="_blank" href="/readme/introduce.md">详细安装教程</a>
 
-主题使用文档地址为 <a href="https://aurora.cco.vin/" target="_blank">**click me**</a>
+主题使用文档地址为 <a href="https://aurora.xcye.xyz/" target="_blank">**click me**</a>
 
-<a href="https://blog.cco.vin/" target="_blank"> **Demo** </a>
+<a href="https://xcye.xyz/" target="_blank"> **Demo** </a>
 
-![image-20211009083404086](https://ooszy.cco.vin/img/blog-note/image-20211009083404086.png?x-oss-process=style/pictureProcess1)
+![image-20211125153810153](https://ooszy.cco.vin/img/blog-note/image-20211125153810153.png?x-oss-process=style/pictureProcess1)
 
-![image-20211014230618458](https://ooszy.cco.vin/img/blog-note/image-20211014230618458.png?x-oss-process=style/pictureProcess1)
+![image-20211125154003812](https://ooszy.cco.vin/img/blog-note/image-20211125154003812.png?x-oss-process=style/pictureProcess1)
+
+
+
+![image-20211125163143029](https://ooszy.cco.vin/img/blog-note/image-20211125163143029.png?x-oss-process=style/pictureProcess1)
 
 ## Feature
 
@@ -115,7 +119,7 @@ watchers: 46
 - 安装依赖
 
 ```sh
-npm i vuepress@2.0.0-beta.25
+npm i vuepress@2.0.0-beta.27
 npm i vuepress-theme-aurora
 ```
 
@@ -127,12 +131,11 @@ npm i vuepress-theme-aurora
   "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1",
       "dev": "vuepress dev docs",
-      "build": "vuepress build docs",
-      "deploy": "bash deploy.sh"
+      "build": "vuepress build docs"
     },
   ```
-
   
+
 
 ## 使用主题
 
@@ -212,11 +215,5 @@ npm run dev
 ![](https://ooszy.cco.vin/img/theme/photo-theme.jpg)
 ![](https://ooszy.cco.vin/img/theme/tag.jpg)
 
-或者我的<a target="_blank" href="https://blog.cco.vin">博客站点</a>
-
-## 首页配置
-
-
-
-[首页](../homeconfig.md)
+或者我的[博客站点](https://xcye.xyz)
 

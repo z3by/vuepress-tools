@@ -28,10 +28,10 @@ publisher:
   username: alexads
 repository: https://github.com/Dushusir/vuepress-theme-blogplus
 score: 0.5916119445099841
-stars: 1
+stars: 0
 unstable: false
 version: 1.0.1
-watchers: 1
+watchers: 0
 
 ---
 

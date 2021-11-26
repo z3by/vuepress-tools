@@ -7,7 +7,7 @@ author:
   username: xxyan0205
 bugs: https://github.com/xxyan0205/vuepress-theme-quicksand/issues
 category: themes
-date: '2021-07-20T13:20:27.557Z'
+date: '2021-11-25T11:30:34.054Z'
 deprecated: false
 description: vuepress-theme
 downloads: null
@@ -25,10 +25,10 @@ publisher:
   url: null
   username: xxyan0205
 repository: https://github.com/xxyan0205/vuepress-theme-quicksand
-score: 0.6067323759718048
+score: 0.6057061831183186
 stars: 6
 unstable: false
-version: 1.0.3
+version: 1.0.4
 watchers: 6
 
 ---
