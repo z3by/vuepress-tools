@@ -68,16 +68,16 @@ shiki
 ```
 
 ```html
-<script src='https://unpkg.com/shiki'></script>
+<script src="https://unpkg.com/shiki"></script>
 <script>
-shiki
-  .getHighlighter({
-    theme: 'nord'
-  })
-  .then(highlighter => {
-    const code = highlighter.codeToHtml(`console.log('shiki');`, 'js')
-    document.getElementById('output').innerHTML = code
-  })
+  shiki
+    .getHighlighter({
+      theme: 'nord'
+    })
+    .then(highlighter => {
+      const code = highlighter.codeToHtml(`console.log('shiki');`, 'js')
+      document.getElementById('output').innerHTML = code
+    })
 </script>
 ```
 
@@ -109,7 +109,7 @@ See the [Contributing Guide](.github/CONTRIBUTING.md).
 
 ## Credits
 
-- Shiki uses [Onigasm](https://github.com/NeekSandhu/onigasm) by [@NeekSandhu](https://github.com/NeekSandhu)
+- Shiki uses [vscode-oniguruma](https://github.com/microsoft/vscode-oniguruma)
 - A lot of code is based on [vscode-textmate](https://github.com/Microsoft/vscode-textmate)
 
 ## Sponsorship

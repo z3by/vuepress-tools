@@ -29,10 +29,10 @@ publisher:
   username: sigure_mo
 repository: https://github.com/moefyit/vuepress-plugin-go-top
 score: 0.4630224568489488
-stars: 3
+stars: 2
 unstable: false
 version: 1.0.4
-watchers: 3
+watchers: 2
 
 ---
 
