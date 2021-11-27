@@ -7,7 +7,7 @@ author:
   username: lyh543
 bugs: https://github.com/lyh543/vuepress-theme-blog-material/issues
 category: themes
-date: '2021-09-12T05:10:39.670Z'
+date: '2021-11-26T08:57:16.098Z'
 deprecated: false
 description: Material VuePress Blog Theme Powered By Vuetify
 downloads: null
@@ -28,10 +28,10 @@ publisher:
   url: null
   username: lyh543
 repository: https://github.com/lyh543/vuepress-theme-blog-material
-score: 0.5184386738098782
+score: 0.5241048561314345
 stars: 1
 unstable: true
-version: 0.0.4
+version: 0.0.5
 watchers: 1
 
 ---
@@ -44,37 +44,39 @@ Material VuePress Blog Theme Powered By Vuetify.
 
 ## 在线 Demo
 
+目前主题仍处于开发中，近期准备使用 TypeScript + Vue 3 + Vuetify 3 + Vuepress 2 重写，切换到 VuePress 2 后，博客的文件结构可能会有变动。主题稳定以后会使用 `v1.0.0` 作为版本号。
+
+* [我的个人博客](https://blog.lyh543.cn)
 * [国内 Demo](https://vuepress-theme-blog-material.lyh543.cn/) [![Deploy VuePress Example](https://github.com/lyh543/vuepress-theme-blog-material/actions/workflows/deploy-template.yml/badge.svg)](https://github.com/lyh543/vuepress-theme-blog-material/actions/workflows/deploy-template.yml)
 * [国外 Demo](https://vuepress-theme-blog-material.netlify.app/) [![Netlify Status](https://api.netlify.com/api/v1/badges/1c1bdacd-89b2-4b60-a19d-58929dab5f16/deploy-status)](https://app.netlify.com/sites/vuepress-theme-blog-material/deploys)
 
-## 如何使用？
-
-[master](https://github.com/lyh543/vuepress-theme-blog-material/tree/master) 分支提供了主题的源代码，而 [template](https://github.com/lyh543/vuepress-theme-blog-material/tree/template) 分支提供了使用本主题搭建的示例博客。
-
-如需使用本主题，请 clone template 分支，然后修改为自己的博客。
+## 使用主题
 
 ### 下载
 
-```shell
-git clone https://github.com/lyh543/vuepress-theme-blog-material.git
-# 如果网络不畅，可以使用 git clone https://hub.fastgit.org/lyh543/vuepress-theme-blog-material.git
-git checkout template
+从 release 下载最新的 template。
 
-rm -rf .git # 或者手动删除 .git 文件夹
-git init
-npm i
+安装依赖：
+
+```shell
+yarn
 ```
+
+修改 your-blog/blog/.vuepress/config.js
+
+
+之后会写 GitHub Actions 自动发布 template。
 
 ### 在本地测试运行
 
 ```shell
-npm run serve
+yarn dev
 ```
 
 ### 构建（以发布到网站上）
 
 ```shell
-npm run build
+yarn build
 ```
 
 ## 博客编写
@@ -143,24 +145,15 @@ I_n &= 1-nI_{n-1} \quad (n=1,2,...)
 \end{aligned} \right.$$
 ```
 
-## 如何开发？
-
-本主题的文件和测试博客的文件分别在 master 和 template 分支中。开发博客主题时，推荐将主题文件和博文分别 clone 到两个文件夹，然后使用 `npm link` 进行链接：
+## 开发主题
 
 ```shell
 git clone https://github.com/lyh543/vuepress-theme-blog-material.git vuepress-theme-blog-material
-cp -r vuepress-theme-blog-material vuepress-theme-blog-material-template
-cd vuepress-theme-blog-material
-npm i
-sudo npm link
-
-cd ../vuepress-theme-blog-material-template
-git checkout template
-npm i
-npm link vuepress-theme-blog-material
-npm run serve
+yarn
+yarn dev:example
 ```
 
 ## 已知问题
 
 * `npm run serve` 时不会生成 `sitemap.xml` 和 `rss.xml`，但是 `npm run build` 会生成。
+
