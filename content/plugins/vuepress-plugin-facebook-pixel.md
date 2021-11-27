@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/8151143?v=4
+  avatar: null
   email: null
   name: Vittorio Minacori
   url: null
-  username: vittominacori
+  username: null
 bugs: https://github.com/vittominacori/vuepress-plugin-facebook-pixel/issues
 category: plugins
 date: '2020-12-10T20:27:48.556Z'
@@ -17,7 +17,7 @@ keywords:
 - pixel
 - vue
 - vuepress
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-plugin-facebook-pixel
 npm: https://www.npmjs.com/package/vuepress-plugin-facebook-pixel
@@ -29,41 +29,10 @@ publisher:
   username: vittominacori
 repository: https://github.com/vittominacori/vuepress-plugin-facebook-pixel
 score: 0.4426649045547142
-stars: 1
+stars: 0
 unstable: false
 version: 1.0.0
-watchers: 1
+watchers: 0
 
 ---
 
-# VuePress Plugin for Facebook Pixel
-
-[![NPM Package](https://img.shields.io/npm/v/vuepress-plugin-facebook-pixel.svg?style=flat-square)](https://www.npmjs.com/package/vuepress-plugin-facebook-pixel)
-[![MIT licensed](https://img.shields.io/github/license/vittominacori/vuepress-plugin-facebook-pixel.svg)](https://github.com/vittominacori/vuepress-plugin-facebook-pixel/blob/master/LICENSE)
-
-## Install
-
-```bash
-yarn add -D vuepress-plugin-facebook-pixel
-# OR 
-npm install -D vuepress-plugin-facebook-pixel
-```
-
-## Usage 
-
-```bash
-module.exports = {
-  plugins: [
-    'vuepress-plugin-facebook-pixel': { 
-        pixelId: '123456789',
-    },
-
-    // other plugins
-    // ...
-  ],
-}
-```
-
-## License
-
-Code released under the [MIT License](https://github.com/vittominacori/vuepress-plugin-facebook-pixel/blob/master/LICENSE).

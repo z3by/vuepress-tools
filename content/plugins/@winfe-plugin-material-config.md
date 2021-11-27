@@ -7,7 +7,7 @@ author:
   username: null
 bugs: https://github.com/cool-fe/winex-cli/issues
 category: plugins
-date: '2021-11-22T06:24:22.652Z'
+date: '2021-11-26T07:39:22.147Z'
 deprecated: false
 description: null
 downloads: null
@@ -28,10 +28,10 @@ publisher:
   url: null
   username: dsx_gao
 repository: https://github.com/cool-fe/winex-cli
-score: 0.18732549863671594
+score: 0.18747135527137793
 stars: 0
 unstable: false
-version: 1.0.9
+version: 1.0.10
 watchers: 0
 
 ---

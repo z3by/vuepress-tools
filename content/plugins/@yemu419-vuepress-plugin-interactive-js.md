@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/26818843?v=4
+  avatar: null
   email: null
   name: null
   url: null
-  username: yemuguliunian
+  username: null
 bugs: https://github.com/yemuguliunian/vuepress-plugin-interactive-js/issues
 category: plugins
 date: '2020-07-24T06:09:07.752Z'
@@ -13,7 +13,7 @@ description: interactive js plugin for vuepress
 downloads: null
 homepage: https://github.com/yemuguliunian/vuepress-plugin-interactive-js#readme
 keywords: null
-license: false
+license: null
 maintainers: null
 name: '@yemu419/vuepress-plugin-interactive-js'
 npm: https://www.npmjs.com/package/%40yemu419%2Fvuepress-plugin-interactive-js
