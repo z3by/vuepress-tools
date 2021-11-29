@@ -28,11 +28,11 @@ publisher:
   url: null
   username: starzkg
 repository: https://github.com/vuepress/vuepress-next
-score: 0.5896610973376311
-stars: 761
+score: 0.5964576556854903
+stars: 763
 unstable: true
 version: 1.0.0-beta.11
-watchers: 761
+watchers: 763
 
 ---
 

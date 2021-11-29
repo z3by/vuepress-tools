@@ -1,38 +1,38 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/48539483?v=4
-  email: null
-  name: meteorlxy
-  url: null
-  username: vuepress
-bugs: https://github.com/vuepress/vuepress-next/issues
+  avatar: https://avatars.githubusercontent.com/u/46020123?v=4
+  email: shentuzhigang@shentuzhigang.cn
+  name: Starzkg
+  url: https://shentuzhigang.cn
+  username: shentuzhigang
+bugs: https://github.com/shentuzhigang/vuepress-theme-star/issues
 category: plugins
-date: '2021-02-20T19:23:33.045Z'
+date: '2021-11-28T11:57:41.720Z'
 deprecated: false
-description: VuePress plugin - theme data
+description: Copy Code plugin for vuepress
 downloads: null
-homepage: https://github.com/vuepress
+homepage: https://shentuzhigang.cn/vuepress-theme-star
 keywords:
 - vuepress-plugin
 - vuepress
-- plugin
-- theme
+- copy-code
+- code-copy
 license: MIT License
 maintainers: null
-name: '@vuepress/plugin-theme-data'
-npm: https://www.npmjs.com/package/%40vuepress%2Fplugin-theme-data
+name: '@starzkg/vuepress-plugin-copy-to-clipboard'
+npm: https://www.npmjs.com/package/%40starzkg%2Fvuepress-plugin-copy-to-clipboard
 publisher:
   avatar: null
-  email: meteor.lxy@foxmail.com
+  email: shentuzhigang@qq.com
   name: null
   url: null
-  username: meteorlxy
-repository: https://github.com/vuepress/vuepress-next
-score: 0.6450923705182485
-stars: 763
-unstable: false
-version: 2.0.0-alpha.25
-watchers: 763
+  username: starzkg
+repository: https://github.com/shentuzhigang/vuepress-theme-star
+score: 0.46906465916410134
+stars: 0
+unstable: true
+version: 1.0.0-beta.17
+watchers: 0
 
 ---
 
