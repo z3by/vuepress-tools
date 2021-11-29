@@ -1,17 +1,17 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/46020123?v=4
-  email: null
+  email: shentuzhigang@shentuzhigang.cn
   name: Starzkg
-  url: null
+  url: https://shentuzhigang.cn
   username: shentuzhigang
 bugs: https://github.com/shentuzhigang/vuepress-theme-star/issues
 category: themes
-date: '2021-11-02T02:43:22.888Z'
+date: '2021-11-28T12:05:22.250Z'
 deprecated: false
 description: A theme of VuePress
 downloads: null
-homepage: https://shentuzhigang.cn
+homepage: https://shentuzhigang.cn/vuepress-theme-star
 keywords:
 - vuepress-theme
 - vuepress
@@ -28,10 +28,10 @@ publisher:
   url: null
   username: starzkg
 repository: https://github.com/shentuzhigang/vuepress-theme-star
-score: 0.5833880425930575
+score: 0.5834950158447658
 stars: 0
 unstable: true
-version: 1.0.0-beta.6
+version: 1.0.0-beta.17
 watchers: 0
 
 ---
