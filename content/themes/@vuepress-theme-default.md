@@ -29,10 +29,10 @@ publisher:
   username: newsbielt703
 repository: https://github.com/vuejs/vuepress
 score: 0.5699003210567423
-stars: 19649
+stars: 19654
 unstable: false
 version: 1.8.2
-watchers: 19649
+watchers: 19654
 
 ---
 
@@ -82,7 +82,7 @@ If you have a VuePress-related project/component/tool, add it with a pull reques
 
 <table>
   <td align="center"><a href="http://evanyou.me"><img src="https://avatars1.githubusercontent.com/u/499550?v=4" width="100px;" alt="Evan You"/><br /><sub><b>Evan You</b></sub></a><br /><a href="https://github.com/vuejs/vuepress/commits?author=yyx990803" title="Code">💻</a></td>
-  <td align="center"><a href="http://ulivz.com"><img src="https://avatars1.githubusercontent.com/u/23133919?v=4" width="100px;" alt="ULIVZ"/><br /><sub><b>ULIVZ</b></sub></a><br /><a href="https://github.com/vuejs/vuepress/commits?author=ulivz" title="Code">💻</a> <a href="https://github.com/vuejs/vuepress/commits?author=ulivz" title="Documentation">📖</a></td>
+  <td align="center"><a href="https://github.com/ulivz"><img src="https://avatars1.githubusercontent.com/u/23133919?v=4" width="100px;" alt="ULIVZ"/><br /><sub><b>ULIVZ</b></sub></a><br /><a href="https://github.com/vuejs/vuepress/commits?author=ulivz" title="Code">💻</a> <a href="https://github.com/vuejs/vuepress/commits?author=ulivz" title="Documentation">📖</a></td>
 </table>
 
 ### Active Core Team
