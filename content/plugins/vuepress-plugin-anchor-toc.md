@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/51355349?v=4
+  avatar: null
   email: sven@ocular-d.tech
   name: ocular-d
   url: https://ocular-d.tech
@@ -17,7 +17,7 @@ keywords:
 - right
 - anchor
 - toc
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-plugin-anchor-toc
 npm: https://www.npmjs.com/package/vuepress-plugin-anchor-toc
@@ -29,10 +29,10 @@ publisher:
   username: ocular-d
 repository: https://github.com/ocular-d/vuepress-plugin-anchor-toc
 score: 0.41930533633063594
-stars: 1
+stars: 0
 unstable: true
 version: 0.0.3
-watchers: 1
+watchers: 0
 
 ---
 

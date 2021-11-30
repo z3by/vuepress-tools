@@ -7,7 +7,7 @@ author:
   username: xinlei3166
 bugs: https://github.com/xinlei3166/vuepress-plugin-demoblock-plus/issues
 category: plugins
-date: '2021-11-26T08:21:15.444Z'
+date: '2021-11-29T13:03:28.055Z'
 deprecated: false
 description: vuepress plugin for demoblock
 downloads: null
@@ -28,10 +28,10 @@ publisher:
   url: null
   username: xinlei3166
 repository: https://github.com/xinlei3166/vuepress-plugin-demoblock-plus
-score: 0.5276598030797831
+score: 0.5279091108193041
 stars: 5
 unstable: false
-version: 1.4.2
+version: 1.5.0-beta.1
 watchers: 5
 
 ---
@@ -126,6 +126,85 @@ const locales = {
 plugins: [
 	['vuepress-plugin-demoblock-plus', { locales }]
 ]
+```
+
+## 自定义主题
+使用 shiki 默认自带的主题代码高亮
+```js
+plugins: [
+  ['vuepress-plugin-demoblock-plus', {
+    theme: 'github-light',
+  }]
+]
+```
+
+使用 shiki css-variables 自定义代码高亮，theme 参数设置为 css-variables
+```css
+:root {
+  --shiki-color-text: #24292f;
+  --shiki-color-background: #ffffff;
+  --shiki-token-constant: #0550ae;
+  --shiki-token-string: #24292f;
+  --shiki-token-comment: #6e7781;
+  --shiki-token-keyword: #cf222e;
+  --shiki-token-parameter: #24292f;
+  --shiki-token-function: #8250df;
+  --shiki-token-string-expression: #116329;
+  --shiki-token-punctuation: #000011;
+  --shiki-token-link: #000012;
+}
+
+html.dark {
+  --shiki-color-text: #c9d1d9;
+  --shiki-color-background: #0d1117;
+  --shiki-token-constant: #79c0ff;
+  --shiki-token-string: #a5d6ff;
+  --shiki-token-comment: #8b949e;
+  --shiki-token-keyword: #ff7b72;
+  --shiki-token-parameter: #c9d1d9;
+  --shiki-token-function: #d2a8ff;
+  --shiki-token-string-expression: #7ee787;
+  --shiki-token-punctuation: #000011;
+  --shiki-token-link: #000012;
+}
+```
+
+通过配置 customClass 类名称，自定义demoblock样式
+```js
+plugins: [
+  ['vuepress-plugin-demoblock-plus', {
+    customClass: 'demoblcok-custom',
+  }]
+]
+```
+
+通过配置暴露的 css-variables，自定义demoblock样式, --code-bg-color 是代码块的背景色，light和dark模式下背景色要区分
+```css
+:root {
+  --code-bg-color: #f9fafb;
+  --demoblock-border: var(--c-border);
+  --demoblock-control: #d3dce6;
+  --demoblock-control-bg: var(--c-bg);
+  --demoblock-control-bg-hover: #f9fafc;
+  --demoblock-description-bg: var(--c-bg);
+}
+
+html.dark {
+  --code-bg-color: #282c34;
+  --demoblock-border: var(--c-border);
+  --demoblock-control: #8b9eb0;
+  --demoblock-control-bg: var(--c-bg);
+  --demoblock-control-bg-hover: var(--c-bg);
+  --demoblock-description-bg: var(--code-bg-color);
+}
+```
+
+配置主题色
+```css
+:root {
+  --c-brand: #646cff;
+  --c-brand-light: #747bff;
+}
 ```
 
 
