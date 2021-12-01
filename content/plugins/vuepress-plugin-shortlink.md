@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/8779333?v=4
   email: null
   name: a little
   url: null
-  username: null
+  username: AutreC
 bugs: null
 category: plugins
 date: '2020-11-15T16:21:39.380Z'
@@ -18,7 +18,7 @@ keywords:
 - link
 - shortlink
 - permalink
-license: null
+license: false
 maintainers: null
 name: vuepress-plugin-shortlink
 npm: https://www.npmjs.com/package/vuepress-plugin-shortlink

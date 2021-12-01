@@ -7,7 +7,7 @@ author:
   username: xinlei3166
 bugs: https://github.com/xinlei3166/vuepress-plugin-demoblock-plus/issues
 category: plugins
-date: '2021-11-29T13:03:28.055Z'
+date: '2021-11-30T09:07:24.222Z'
 deprecated: false
 description: vuepress plugin for demoblock
 downloads: null
@@ -28,10 +28,10 @@ publisher:
   url: null
   username: xinlei3166
 repository: https://github.com/xinlei3166/vuepress-plugin-demoblock-plus
-score: 0.5279091108193041
+score: 0.5279891375032896
 stars: 5
 unstable: false
-version: 1.5.0-beta.1
+version: 1.5.0
 watchers: 5
 
 ---
@@ -128,8 +128,16 @@ plugins: [
 ]
 ```
 
+
 ## 自定义主题
+支持vuepress darkMode，.vuepress/config.js 文件中配置 `darkMode: true`
+
+```
+themeConfig: { darkMode: true }
+```
+
 使用 shiki 默认自带的主题代码高亮
+
 ```js
 plugins: [
   ['vuepress-plugin-demoblock-plus', {
@@ -138,7 +146,7 @@ plugins: [
 ]
 ```
 
-使用 shiki css-variables 自定义代码高亮，theme 参数设置为 css-variables
+使用 shiki css-variables 自定义代码高亮，theme 参数设置为 `css-variables`
 ```css
 :root {
   --shiki-color-text: #24292f;
@@ -150,8 +158,8 @@ plugins: [
   --shiki-token-parameter: #24292f;
   --shiki-token-function: #8250df;
   --shiki-token-string-expression: #116329;
-  --shiki-token-punctuation: #000011;
-  --shiki-token-link: #000012;
+  // --shiki-token-punctuation: #000011;
+  // --shiki-token-link: #000012;
 }
 
 html.dark {
@@ -164,10 +172,14 @@ html.dark {
   --shiki-token-parameter: #c9d1d9;
   --shiki-token-function: #d2a8ff;
   --shiki-token-string-expression: #7ee787;
-  --shiki-token-punctuation: #000011;
-  --shiki-token-link: #000012;
+  // --shiki-token-punctuation: #000011;
+  // --shiki-token-link: #000012;
 }
 ```
+
+> 如果出现类似这个错误 `Error: ENOENT: no such file or directory, node_modules/shiki/themes/css-variables.json`,
+> 这是因为 `shiki css-variables` 需要更高版本才能使用，删除 `node_modules`，重新安装 `@vuepress/plugin-shiki` 和 `vuepress-vite`
+
 
 通过配置 customClass 类名称，自定义demoblock样式
 ```js
@@ -248,5 +260,4 @@ const onClick = () => {
 }
 </script>
 ```
-
 
