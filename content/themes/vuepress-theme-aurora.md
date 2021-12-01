@@ -7,7 +7,7 @@ author:
   username: vuepress-aurora
 bugs: https://github.com/vuepress-aurora/vuepress-theme-aurora/issues
 category: themes
-date: '2021-11-29T12:20:42.575Z'
+date: '2021-11-30T02:01:19.050Z'
 deprecated: false
 description: "A vuepress-based animation blog theme, simple, beautiful, multi-color,\
   \ multiple custom functions, providing article poster sharing, talk, photo album,\
@@ -41,11 +41,11 @@ publisher:
   url: null
   username: qsyyke
 repository: https://github.com/vuepress-aurora/vuepress-theme-aurora
-score: 0.535017458952712
-stars: 48
+score: 0.5350978883820752
+stars: 49
 unstable: false
-version: 1.10.0
-watchers: 48
+version: 1.10.1
+watchers: 49
 
 ---
 
@@ -98,11 +98,9 @@ watchers: 48
 
 运行环境需要依赖`node`，如果你未安装`node`，请先安装node，我安装的版本为`v14.17.3`
 
-> 安装node可查看<a href="https://aurora.xcye.xyz/node.html" target="_blank">node 安装</a>
+> 安装node可查看[Node 安装](https://aurora.xcye.xyz/node.html)
 
-
-
-### 安装脚手架
+### 安装CLI
 
 - npm
 
@@ -118,54 +116,58 @@ watchers: 48
 
 
 
+- [观看视频](https://ooszy.cco.vin/theme-template/%E6%9C%80%E7%BB%88%E7%89%88%E6%9C%AC.mp4)
+
 ### 创建博客
 
-待脚手架安装成功之后，进入cmd中
+待脚手架cli安装成功之后，进入cmd中
 
 ![image-20211127104249135](https://ooszy.cco.vin/img/blog-note/image-20211127104249135.png?x-oss-process=style/pictureProcess1)
 
 
 
-在命令行处输入下面命令
+在命令行处输入下面命令(`之后一直按Enter键`)
 
 ```sh
 aurora blog-demo
 ```
 
 > `blog-demo`是你的博客文件件名称，会自动创建以此名字命名的文件夹
+>
+> 当你输入`aurora blog-demo`命令之后，会需要你填写一下`description`和`logoText(首页logo文字)`，你可以随便填一下
+>
+> 如果提示下面信息，请看[这里](https://aurora.xcye.xyz/issue/cli-issue.md)
+>
+> ```sh
+> 'aurora' 不是内部或外部命令，也不是可运行的程序
+> 或批处理文件。
+> ```
 
 
 
-::: tip
-
-如果提示
-
-```sh
-'aurora' 不是内部或外部命令，也不是可运行的程序
-或批处理文件。
-```
-
-请看[这里](https://aurora.xcye.xyz/issue/cli-issue.md)
-
-:::
+![image-20211130123037624](https://ooszy.cco.vin/img/blog-note/image-20211130123037624.png?x-oss-process=style/pictureProcess1)
 
 
-
-![image-20211127104417748](https://ooszy.cco.vin/img/blog-note/image-20211127104417748.png?x-oss-process=style/pictureProcess1)
 
 
 
 > 这个过程大概几秒，取决于你的网速，待安装成功之后，你会发现在当前目录下，多了一个目录
 
-![image-20211127104750379](https://ooszy.cco.vin/img/blog-note/image-20211127104750379.png?x-oss-process=style/pictureProcess1)
+
+
+![image-20211130123146954](https://ooszy.cco.vin/img/blog-note/image-20211130123146954.png?x-oss-process=style/pictureProcess1)
+
+不知道你有没有注意到上图红色框中的信息，当博客模板下载完成之后，你还需要安装依赖，请根据你自己的环境，选择使用`npm`还是`yarn`
 
 
 
-> 然后进入此`demo-blog`目录中，使用命令`npm install`或者`yarn install`安装所需的依赖，待依赖安装成功之后，使用`npm run dev`或者`yarn dev`启动博客
-
-![image-20211127104833140](https://ooszy.cco.vin/img/blog-note/image-20211127104833140.png?x-oss-process=style/pictureProcess1)
 
 
+
+
+
+
+### 启动
 
 
 
@@ -191,7 +193,7 @@ aurora blog-demo
 - [问题及报错解决](/issue/bug.md)
 - [注意更新日志](/issue/CHANGELOG.md)
 
-:::
+
 
 ## 联系我
 

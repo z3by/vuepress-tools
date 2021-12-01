@@ -7,7 +7,7 @@ author:
   username: apostrophecms
 bugs: https://github.com/apostrophecms/vuepress-theme-apostrophe/issues
 category: themes
-date: '2021-09-02T16:02:49.349Z'
+date: '2021-11-30T15:27:11.500Z'
 deprecated: false
 description: Vuepress theme for ApostropheCMS documentation
 downloads: null
@@ -30,10 +30,10 @@ publisher:
   url: null
   username: alexbea
 repository: https://github.com/apostrophecms/vuepress-theme-apostrophe
-score: 0.5017820222462733
+score: 0.5030507335986885
 stars: 0
 unstable: false
-version: 1.1.0
+version: 1.2.0
 watchers: 0
 
 ---
