@@ -45,15 +45,11 @@ watchers: 0
 
 ### Install
 
-+ npm
-+ 
 ```shell
+# use npm
 npm install vuepress-plugin-mermaid-next
-```
 
-+ yarn
-+ 
-```shell
+# use yarn
 yarn add vuepress-plugin-mermaid-next
 ```
 
@@ -77,3 +73,9 @@ You can config mermaid by using plugin settings.
 The settings you configured will be use in `mermaid.initialize()`
 
 Fully configuration fields can be find in [Mermaid - Configuration](https://mermaid-js.github.io/mermaid/#/./Setup?id=mermaidapi-configuration-defaults)
+
+
+## TODO
+
+- [ ] Extra Preset Theme[WIP]
+- [ ] Toolbar for download[WIP]
