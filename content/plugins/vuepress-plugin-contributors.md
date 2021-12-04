@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/10135110?v=4
+  avatar: null
   email: andy@5ff.de
   name: Andreas Fischer
   url: null
@@ -17,7 +17,7 @@ keywords:
 - vuepress
 - vuepress-plugin
 - contributors
-license: false
+license: null
 maintainers: null
 name: vuepress-plugin-contributors
 npm: https://www.npmjs.com/package/vuepress-plugin-contributors
@@ -29,10 +29,10 @@ publisher:
   username: fischermaen
 repository: https://github.com/Fischermaen/vuepress-plugin-contributors
 score: 0.40321361862018135
-stars: 1
+stars: 0
 unstable: false
 version: 1.4.0
-watchers: 1
+watchers: 0
 
 ---
 
