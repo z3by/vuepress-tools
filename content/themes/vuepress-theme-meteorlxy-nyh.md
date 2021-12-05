@@ -28,10 +28,10 @@ publisher:
   username: nyh
 repository: https://github.com/meteorlxy/vuepress-theme-meteorlxy
 score: 0.08574173509816259
-stars: 345
+stars: 346
 unstable: false
 version: 1.7.1
-watchers: 345
+watchers: 346
 
 ---
 
