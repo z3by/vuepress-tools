@@ -30,10 +30,10 @@ publisher:
   username: octref
 repository: https://github.com/octref/shiki
 score: 0.5970476008680486
-stars: 2812
+stars: 2815
 unstable: true
 version: 0.2.7
-watchers: 2812
+watchers: 2815
 
 ---
 
@@ -59,7 +59,7 @@ shiki
     theme: 'nord'
   })
   .then(highlighter => {
-    console.log(highlighter.codeToHtml(`console.log('shiki');`, 'js'))
+    console.log(highlighter.codeToHtml(`console.log('shiki');`, { lang: 'js' }))
   })
 
 // <pre class="shiki" style="background-color: #2e3440"><code>
@@ -75,7 +75,7 @@ shiki
       theme: 'nord'
     })
     .then(highlighter => {
-      const code = highlighter.codeToHtml(`console.log('shiki');`, 'js')
+      const code = highlighter.codeToHtml(`console.log('shiki');`, { lang: 'js' })
       document.getElementById('output').innerHTML = code
     })
 </script>

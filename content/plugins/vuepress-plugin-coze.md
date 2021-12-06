@@ -38,7 +38,7 @@ publisher:
   url: null
   username: qsyyke
 repository: https://github.com/vuepress-aurora/vuepress-plugin-coze
-score: 0.547932323965534
+score: 0.5147706964325857
 stars: 1
 unstable: false
 version: 1.7.3
