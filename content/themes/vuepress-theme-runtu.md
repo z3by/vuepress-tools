@@ -7,7 +7,7 @@ author:
   username: Runtus
 bugs: https://github.com/Runtus/vuepress-theme-runtu/issues
 category: themes
-date: '2021-11-22T08:54:26.673Z'
+date: '2021-12-05T09:04:50.110Z'
 deprecated: false
 description: null
 downloads: null
@@ -24,10 +24,10 @@ publisher:
   url: null
   username: runtu_go
 repository: https://github.com/Runtus/vuepress-theme-runtu
-score: 0.512467408855292
+score: 0.5127128195147708
 stars: 0
 unstable: false
-version: 1.0.8
+version: 1.0.9
 watchers: 0
 
 ---

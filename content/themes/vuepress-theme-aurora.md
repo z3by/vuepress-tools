@@ -41,11 +41,11 @@ publisher:
   url: null
   username: qsyyke
 repository: https://github.com/vuepress-aurora/vuepress-theme-aurora
-score: 0.5350978883820752
-stars: 51
+score: 0.5353975274606871
+stars: 52
 unstable: false
 version: 1.10.1
-watchers: 51
+watchers: 52
 
 ---
 

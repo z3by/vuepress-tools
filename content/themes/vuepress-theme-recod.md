@@ -28,10 +28,10 @@ publisher:
   username: frank_cheung
 repository: https://github.com/vuepress-reco/vuepress-theme-reco
 score: 0.20827204629009685
-stars: 1441
+stars: 1442
 unstable: false
 version: 1.0.2
-watchers: 1441
+watchers: 1442
 
 ---
 
