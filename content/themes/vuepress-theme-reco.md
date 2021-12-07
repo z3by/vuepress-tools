@@ -7,7 +7,7 @@ author:
   username: vuepress-reco
 bugs: https://github.com/vuepress-reco/vuepress-theme-reco/issues
 category: themes
-date: '2021-12-04T09:12:35.727Z'
+date: '2021-12-06T16:41:11.577Z'
 deprecated: false
 description: A simple and beautiful vuepress Blog & Doc theme.
 downloads: null
@@ -27,11 +27,11 @@ publisher:
   url: null
   username: reco_luan
 repository: https://github.com/vuepress-reco/vuepress-theme-reco
-score: 0.5888800770827529
-stars: 1442
+score: 0.5889574177309642
+stars: 1444
 unstable: false
-version: 1.6.9
-watchers: 1442
+version: 1.6.10
+watchers: 1444
 
 ---
 
