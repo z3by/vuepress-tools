@@ -7,7 +7,7 @@ author:
   username: Runtus
 bugs: https://github.com/Runtus/vuepress-plugin-runtus-aplayer/issues
 category: plugins
-date: '2021-11-18T03:15:25.459Z'
+date: '2021-12-06T07:15:49.043Z'
 deprecated: false
 description: "> \u96C6\u6210\u4E86aplayer\u7684vuepress\u63D2\u4EF6"
 downloads: null
@@ -24,10 +24,10 @@ publisher:
   url: null
   username: runtu_go
 repository: https://github.com/Runtus/vuepress-plugin-runtus-aplayer
-score: 0.5075591846809531
+score: 0.5122073388001672
 stars: 2
 unstable: false
-version: 1.0.1
+version: 1.0.2
 watchers: 2
 
 ---
