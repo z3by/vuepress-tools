@@ -7,7 +7,7 @@ author:
   username: vuepress-aurora
 bugs: https://github.com/vuepress-aurora/vuepress-plugin-coze/issues
 category: plugins
-date: '2021-11-29T12:19:46.370Z'
+date: '2021-12-07T14:45:29.920Z'
 deprecated: false
 description: "\u4E3AVuepress\u9759\u6001\u7AD9\u70B9\u63D0\u4F9B\u5728\u7EBF\u53D1\
   \u5E03\uFF0C\u7F16\u8F91\u8BF4\u8BF4\u529F\u80FD\uFF0C\u652F\u6301\u56FE\u7247\u4E0A\
@@ -38,10 +38,10 @@ publisher:
   url: null
   username: qsyyke
 repository: https://github.com/vuepress-aurora/vuepress-plugin-coze
-score: 0.5147706964325857
+score: 0.5481597803739583
 stars: 1
 unstable: false
-version: 1.7.3
+version: 1.7.4
 watchers: 1
 
 ---
