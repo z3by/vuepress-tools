@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/6310131?v=4
+  avatar: null
   email: null
   name: springleo
   url: null
-  username: lq782655835
+  username: null
 bugs: https://github.com/lq782655835/vuepress-theme-antdocs/issues
 category: themes
 date: '2020-04-14T11:45:54.969Z'
@@ -19,7 +19,7 @@ keywords:
 - antd
 - antdocs
 - ant-design
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-theme-antdocs-phone
 npm: https://www.npmjs.com/package/vuepress-theme-antdocs-phone
@@ -31,10 +31,10 @@ publisher:
   username: springleo
 repository: https://github.com/lq782655835/vuepress-theme-antdocs
 score: 0.10483596524440114
-stars: 1
+stars: 0
 unstable: false
 version: 1.0.0
-watchers: 1
+watchers: 0
 
 ---
 
