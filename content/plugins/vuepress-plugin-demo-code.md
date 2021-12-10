@@ -31,10 +31,10 @@ publisher:
   username: buptsteve
 repository: https://github.com/BuptStEve/vuepress-plugin-demo-code
 score: 0.6321339072467753
-stars: 111
+stars: 109
 unstable: true
 version: 0.6.0
-watchers: 111
+watchers: 109
 
 ---
 
