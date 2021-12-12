@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/71742460?v=4
+  avatar: null
   email: liayng.ok@outlook.com
   name: leo
   url: null
-  username: leo94666
+  username: null
 bugs: https://github.com/leo94666/leo94666.github.io/issues
 category: plugins
 date: '2021-04-21T06:18:22.892Z'
@@ -13,7 +13,7 @@ description: '> TODO: description'
 downloads: null
 homepage: https://github.com/leo94666/leo94666.github.io#readme
 keywords: null
-license: false
+license: null
 maintainers: null
 name: '@leo9466/vuepress-plugin-comment'
 npm: https://www.npmjs.com/package/%40leo9466%2Fvuepress-plugin-comment

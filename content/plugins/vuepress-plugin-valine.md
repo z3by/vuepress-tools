@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/19198355?v=4
+  avatar: null
   email: null
   name: artiely
   url: null
-  username: artiely
+  username: null
 bugs: https://github.com/artiely/vuepress-plugin-valine/issues
 category: plugins
 date: '2020-08-21T03:47:46.714Z'
@@ -19,7 +19,7 @@ keywords:
 - vue
 - gitalk
 - valine
-license: false
+license: null
 maintainers: null
 name: vuepress-plugin-valine
 npm: https://www.npmjs.com/package/vuepress-plugin-valine
@@ -38,57 +38,3 @@ watchers: 0
 
 ---
 
-# Vuepress-plugin-valine
-
-> Support popluar comment plugins in Vuepress, such as Valine.
-
-## Features
-
-- Support Valine
-- Dynamic Import
-- Response router change and refresh automatic
-- User can use passage's `$frontmatter`
-
-## Usage
-
-### Install
-
-With `npm`:
-
-```bash
-npm install --save vuepress-plugin-valine
-```
-
-With `yarn`:
-
-```bash
-yarn add vuepress-plugin-valine -D
-```
-
-With `cnpm`:
-
-```bash
-cnpm i --save vuepress-plugin-valine
-```
-
-### Usage
-
-The `options` is exactly the same as `Valine` configuration.
-
-```javascript
-module.exports = {
-  plugins: [
-    [
-      'vuepress-plugin-valine',
-      {
-        appId: 'Your own appId',
-        appKey: 'Your own appKey'
-      }
-    ]
-  ]
-}
-```
-
-## demo
-
-[https://artiely.gitee.io](https://artiely.gitee.io)

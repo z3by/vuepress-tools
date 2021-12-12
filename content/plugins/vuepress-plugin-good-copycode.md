@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/32730471?v=4
+  avatar: null
   email: null
   name: wtlong
   url: null
-  username: wtlong
+  username: null
 bugs: https://github.com/wtlong/vuepress-click-copy/issues
 category: plugins
 date: '2020-04-23T09:17:18.309Z'
@@ -16,7 +16,7 @@ keywords:
 - vuepress
 - copy
 - one-click-copy
-license: false
+license: null
 maintainers: null
 name: vuepress-plugin-good-copycode
 npm: https://www.npmjs.com/package/vuepress-plugin-good-copycode
@@ -28,10 +28,10 @@ publisher:
   username: wtlong
 repository: https://github.com/wtlong/vuepress-click-copy
 score: 0.3714254110684695
-stars: 7
+stars: 0
 unstable: false
 version: 1.0.4
-watchers: 7
+watchers: 0
 
 ---
 
