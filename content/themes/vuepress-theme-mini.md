@@ -7,7 +7,7 @@ author:
   username: wxsm
 bugs: https://github.com/wxsms/vuepress-theme-mini/issues
 category: themes
-date: '2021-10-08T09:45:54.855Z'
+date: '2021-12-10T10:03:20.543Z'
 deprecated: false
 description: A minimal blogging theme of VuePress.
 downloads: null
@@ -24,10 +24,10 @@ publisher:
   url: null
   username: wxsm
 repository: https://github.com/wxsms/vuepress-theme-mini
-score: 0.5519404248163488
+score: 0.5520188485535433
 stars: 16
 unstable: false
-version: 3.1.0
+version: 3.1.1
 watchers: 16
 
 ---
@@ -45,10 +45,9 @@ A minimal blogging theme of VuePress.
 * With [Waline](https://github.com/walinejs/waline) comment system integrated.
 * Pure CSS darkmode solution.
 
-## Example
+## Demo
 
 * [https://vuepress-theme-mini.wxsm.space](https://vuepress-theme-mini.wxsm.space)
-* [https://wxsm.space](https://wxsm.space/)
 
 ## Install
 
