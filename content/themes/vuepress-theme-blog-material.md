@@ -29,10 +29,10 @@ publisher:
   username: lyh543
 repository: https://github.com/lyh543/vuepress-theme-blog-material
 score: 0.5241048561314345
-stars: 1
+stars: 2
 unstable: true
 version: 0.0.5
-watchers: 1
+watchers: 2
 
 ---
 
