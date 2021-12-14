@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/70450445?v=4
   email: anthony@panelbear.com
   name: Anthony N. Simon
   url: null
@@ -19,7 +19,7 @@ keywords:
 - vuepress
 - plugin
 - vuepress-plugin
-license: null
+license: Apache License 2.0
 maintainers: null
 name: '@panelbear/vuepress-plugin-panelbear'
 npm: https://www.npmjs.com/package/%40panelbear%2Fvuepress-plugin-panelbear
@@ -31,10 +31,10 @@ publisher:
   username: anthonynsimon
 repository: https://github.com/panelbearhq/vuepress-plugin-panelbear
 score: 0.4131648634646742
-stars: 0
+stars: 1
 unstable: false
 version: 1.0.0
-watchers: 0
+watchers: 1
 
 ---
 
