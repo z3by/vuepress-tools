@@ -7,7 +7,7 @@ author:
   username: focuxin
 bugs: https://github.com/focuxin/vuepress-theme-landing/issues
 category: themes
-date: '2021-12-11T10:14:15.768Z'
+date: '2021-12-13T07:48:33.643Z'
 deprecated: false
 description: VuePress theme for landing page.
 downloads: null
@@ -22,15 +22,15 @@ name: vuepress-theme-landing
 npm: https://www.npmjs.com/package/vuepress-theme-landing
 publisher:
   avatar: null
-  email: focuxin@gmail.com
+  email: focuxin@163.com
   name: null
   url: null
   username: focuxin
 repository: https://github.com/focuxin/vuepress-theme-landing
-score: 0.3723527832724827
+score: 0.4906603053538705
 stars: 0
 unstable: false
-version: 1.0.0
+version: 1.0.1
 watchers: 0
 
 ---
