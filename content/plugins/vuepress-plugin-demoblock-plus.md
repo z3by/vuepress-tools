@@ -7,7 +7,7 @@ author:
   username: xinlei3166
 bugs: https://github.com/xinlei3166/vuepress-plugin-demoblock-plus/issues
 category: plugins
-date: '2021-11-30T09:07:24.222Z'
+date: '2021-12-15T07:04:32.038Z'
 deprecated: false
 description: vuepress plugin for demoblock
 downloads: null
@@ -28,10 +28,10 @@ publisher:
   url: null
   username: xinlei3166
 repository: https://github.com/xinlei3166/vuepress-plugin-demoblock-plus
-score: 0.5279891375032896
+score: 0.5281415590490742
 stars: 5
 unstable: false
-version: 1.5.0
+version: 1.5.1
 watchers: 5
 
 ---
@@ -157,9 +157,9 @@ plugins: [
   --shiki-token-keyword: #cf222e;
   --shiki-token-parameter: #24292f;
   --shiki-token-function: #8250df;
-  --shiki-token-string-expression: #116329;
-  // --shiki-token-punctuation: #000011;
-  // --shiki-token-link: #000012;
+  --shiki-token-string-expression: #0a3069; // #116329
+  --shiki-token-punctuation: #24292f;
+  //--shiki-token-link: #000012;
 }
 
 html.dark {
@@ -171,9 +171,9 @@ html.dark {
   --shiki-token-keyword: #ff7b72;
   --shiki-token-parameter: #c9d1d9;
   --shiki-token-function: #d2a8ff;
-  --shiki-token-string-expression: #7ee787;
-  // --shiki-token-punctuation: #000011;
-  // --shiki-token-link: #000012;
+  --shiki-token-string-expression: #a5d6ff; // #7ee787;
+  --shiki-token-punctuation: #c9d1d9;
+  //--shiki-token-link: #000012;
 }
 ```
 
