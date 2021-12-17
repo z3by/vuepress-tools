@@ -29,10 +29,10 @@ publisher:
   username: newsbielt703
 repository: https://github.com/vuejs/vuepress
 score: 0.5699003210567423
-stars: 19709
+stars: 19721
 unstable: false
 version: 1.8.2
-watchers: 19709
+watchers: 19721
 
 ---
 
@@ -49,7 +49,9 @@ watchers: 19709
   <a href="https://discordapp.com/invite/HBherRA"><img src="https://img.shields.io/badge/Discord-join%20chat-738bd7.svg" alt="VuePress channel on Discord"></a>
 </p>
 
-> VuePress 2 is coming! Please check out [vuepress-next](https://github.com/vuepress/vuepress-next).
+## Status
+
+> VuePress is now in maintenance mode. For a next-gen Vue-based SSG built on top of Vue 3 + Vite, check out [VitePress](https://vitepress.vuejs.org/).
 
 ## Documentation
 
