@@ -5,13 +5,13 @@ author:
   name: lzw.
   url: null
   username: null
-bugs: https://github.com/lzwdot/mdpress/issues
+bugs: https://github.com/lzwdot/blog/issues
 category: plugins
-date: '2021-11-23T12:32:14.819Z'
+date: '2021-12-16T08:57:43.167Z'
 deprecated: false
 description: A vuepress plugin uses XmlRpc to synchronize Vuepress content to WordPress
 downloads: null
-homepage: https://github.com/lzwdot/mdpress/tree/main/docs/.vuepress/plugins/vuepress-plugin-to-wordpress
+homepage: https://github.com/lzwdot/blog/tree/main/docs/.vuepress/plugins/vuepress-plugin-to-wordpress
 keywords:
 - vuepress-plugin-to-wordpress
 license: null
@@ -24,11 +24,11 @@ publisher:
   name: null
   url: null
   username: lzwdot
-repository: https://github.com/lzwdot/mdpress
-score: 0.15029896854991676
+repository: https://github.com/lzwdot/blog
+score: 0.15115865417512495
 stars: 0
 unstable: true
-version: 1.0.0-beta.12
+version: 1.0.0-beta.13
 watchers: 0
 
 ---

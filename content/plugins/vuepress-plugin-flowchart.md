@@ -7,7 +7,7 @@ author:
   username: null
 bugs: https://github.com/ulivz/vuepress-plugin-flowchart
 category: plugins
-date: '2018-11-19T01:49:48.672Z'
+date: '2021-12-16T09:25:52.826Z'
 deprecated: false
 description: Rapid flowchart development plugin for vuepress
 downloads: null
@@ -28,10 +28,10 @@ publisher:
   url: null
   username: ulivz
 repository: https://github.com/vuejs/vuepress
-score: 0.07829546722418962
+score: 0.07753703406901519
 stars: 0
 unstable: false
-version: 1.4.3
+version: 1.5.0
 watchers: 0
 
 ---
