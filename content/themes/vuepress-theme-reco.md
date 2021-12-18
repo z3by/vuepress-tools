@@ -28,10 +28,10 @@ publisher:
   username: reco_luan
 repository: https://github.com/vuepress-reco/vuepress-theme-reco
 score: 0.5710459160107362
-stars: 1450
+stars: 1451
 unstable: false
 version: 1.6.10
-watchers: 1450
+watchers: 1451
 
 ---
 
