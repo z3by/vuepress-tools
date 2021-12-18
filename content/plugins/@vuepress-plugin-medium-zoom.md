@@ -11,7 +11,7 @@ date: '2021-02-18T16:12:50.965Z'
 deprecated: false
 description: medium-zoom plugin for vuepress
 downloads: null
-homepage: https://github.com/vuejs/vuepress#readme
+homepage: https://github.com/vuejs/vuepress/blob/master/packages/@vuepress/plugin-medium-zoom#readme
 keywords:
 - documentation
 - generator
@@ -28,11 +28,11 @@ publisher:
   url: null
   username: newsbielt703
 repository: https://github.com/vuejs/vuepress
-score: 0.5844287153707088
-stars: 19721
+score: 0.5856587096137511
+stars: 19727
 unstable: false
 version: 1.8.2
-watchers: 19721
+watchers: 19727
 
 ---
 
