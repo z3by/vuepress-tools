@@ -7,28 +7,19 @@ author:
   username: shentuzhigang
 bugs: https://github.com/shentuzhigang/vuepress-theme-star/issues
 category: plugins
-date: '2021-11-28T12:05:53.435Z'
+date: '2021-12-18T13:04:12.871Z'
 deprecated: false
-description: Markdown enhancement plugin for vuepress
+description: Icon library for Vuepress
 downloads: null
 homepage: https://shentuzhigang.cn/vuepress-theme-star
 keywords:
-- vuepress-plugin
-- markdown
-- align
-- superscript
-- subscript
-- footnote
-- flowchart
-- tex
-- katex
-- mark
-- presentation
-- reveal.js
+- icon
+- svg
+- vuepress
 license: MIT License
 maintainers: null
-name: '@starzkg/vuepress-plugin-markdown-enhance'
-npm: https://www.npmjs.com/package/%40starzkg%2Fvuepress-plugin-markdown-enhance
+name: '@starzkg/vuepress-plugin-classifier'
+npm: https://www.npmjs.com/package/%40starzkg%2Fvuepress-plugin-classifier
 publisher:
   avatar: null
   email: shentuzhigang@qq.com
@@ -36,10 +27,10 @@ publisher:
   url: null
   username: starzkg
 repository: https://github.com/shentuzhigang/vuepress-theme-star
-score: 0.5715608518618728
+score: 0.4629990854640673
 stars: 1
 unstable: true
-version: 1.0.0-beta.17
+version: 1.0.0-beta.21
 watchers: 1
 
 ---

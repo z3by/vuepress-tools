@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/12797966?v=4
   email: a495008890@live.com
   name: gezihuzi
   url: null
@@ -19,7 +19,7 @@ keywords:
 - vuepress
 - jsdelivr
 - cdn
-license: null
+license: MIT License
 maintainers: null
 name: vuepress-plugin-jsdelivr-cdn
 npm: https://www.npmjs.com/package/vuepress-plugin-jsdelivr-cdn
@@ -38,3 +38,4 @@ watchers: 0
 
 ---
 
+# plugin-jsdelivr-cdn

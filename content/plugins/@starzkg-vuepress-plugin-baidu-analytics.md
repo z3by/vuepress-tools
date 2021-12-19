@@ -29,7 +29,7 @@ publisher:
   url: null
   username: starzkg
 repository: https://github.com/roiding/plugin-baidu-analytics
-score: 0.15722583005595756
+score: 0.15758589141056073
 stars: 0
 unstable: true
 version: 1.0.0-beta.16

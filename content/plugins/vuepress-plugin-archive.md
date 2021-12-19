@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/93846129?v=4
   email: null
   name: qsyyke
   url: null
-  username: null
+  username: vuepress-aurora
 bugs: https://github.com/vuepress-aurora/vuepress-plugin-archive/issues
 category: plugins
 date: '2021-11-25T07:25:31.638Z'
@@ -27,7 +27,7 @@ keywords:
 - archive
 - vuepress-plugin-timeline
 - vuepress timeline
-license: null
+license: false
 maintainers: null
 name: vuepress-plugin-archive
 npm: https://www.npmjs.com/package/vuepress-plugin-archive
