@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/64388301?v=4
+  avatar: null
   email: null
   name: wangjia_1919@163.com
   url: null
-  username: nine-theme
+  username: null
 bugs: https://github.com/nine-theme/vuepress-plugin-comments/issues
 category: plugins
 date: '2020-08-13T02:31:02.302Z'
@@ -15,7 +15,7 @@ homepage: https://github.com/nine-theme/vuepress-plugin-comments#readme
 keywords:
 - vuepress
 - comments
-license: MIT License
+license: null
 maintainers: null
 name: '@nines/vuepress-plugin-comments'
 npm: https://www.npmjs.com/package/%40nines%2Fvuepress-plugin-comments
@@ -34,11 +34,3 @@ watchers: 0
 
 ---
 
-# vuepress-plugin-comments
-![GitHub last commit](https://img.shields.io/github/last-commit/nine-theme/vuepress-plugin-comments) 
-![npm (scoped)](https://img.shields.io/npm/v/@nine-theme/vuepress-plugin-comments) 
-![npm](https://img.shields.io/npm/dt/@nine-theme/vuepress-plugin-comments) 
-![NPM](https://img.shields.io/npm/l/@nine-theme/vuepress-plugin-comments)
-
----
-vuepress theme comments 
