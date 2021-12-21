@@ -7,7 +7,7 @@ author:
   username: vuejs
 bugs: https://github.com/vuejs/vuepress/issues
 category: plugins
-date: '2021-02-18T16:12:45.039Z'
+date: '2021-12-20T19:48:16.305Z'
 deprecated: false
 description: last-updated plugin for vuepress
 downloads: null
@@ -23,16 +23,16 @@ name: '@vuepress/plugin-last-updated'
 npm: https://www.npmjs.com/package/%40vuepress%2Fplugin-last-updated
 publisher:
   avatar: null
-  email: newsbielt703@gmail.com
+  email: 472590061@qq.com
   name: null
   url: null
-  username: newsbielt703
+  username: ulivz
 repository: https://github.com/vuejs/vuepress
-score: 0.6185963310226359
-stars: 19735
+score: 0.6015568420819403
+stars: 19737
 unstable: false
-version: 1.8.2
-watchers: 19735
+version: 1.8.3
+watchers: 19737
 
 ---
 
