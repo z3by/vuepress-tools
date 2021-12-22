@@ -7,20 +7,22 @@ author:
   username: shentuzhigang
 bugs: https://github.com/shentuzhigang/vuepress-theme-star/issues
 category: plugins
-date: '2021-11-28T11:57:44.847Z'
+date: '2021-12-21T15:52:49.657Z'
 deprecated: false
-description: Copy Code plugin for vuepress
+description: VuePress plugin - cnzz-analytics
 downloads: null
 homepage: https://shentuzhigang.cn/vuepress-theme-star
 keywords:
 - vuepress-plugin
 - vuepress
-- copy-code
-- code-copy
+- plugin
+- umeng
+- cnzz
+- analytics
 license: MIT License
 maintainers: null
-name: '@starzkg/vuepress-plugin-copy-code'
-npm: https://www.npmjs.com/package/%40starzkg%2Fvuepress-plugin-copy-code
+name: '@starzkg/vuepress-plugin-cnzz-analytics'
+npm: https://www.npmjs.com/package/%40starzkg%2Fvuepress-plugin-cnzz-analytics
 publisher:
   avatar: null
   email: shentuzhigang@qq.com
@@ -28,10 +30,10 @@ publisher:
   url: null
   username: starzkg
 repository: https://github.com/shentuzhigang/vuepress-theme-star
-score: 0.5886228827662602
+score: 0.4872391562117296
 stars: 1
 unstable: true
-version: 1.0.0-beta.17
+version: 1.0.0-beta.23
 watchers: 1
 
 ---
