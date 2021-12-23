@@ -7,11 +7,11 @@ author:
   username: vuejs
 bugs: https://github.com/vuejs/vuepress/issues
 category: plugins
-date: '2021-12-20T19:48:20.663Z'
+date: '2021-12-22T21:21:15.837Z'
 deprecated: false
-description: register-global-components plugin for vuepress
+description: nprogress plugin for vuepress
 downloads: null
-homepage: https://github.com/vuejs/vuepress/blob/master/packages/@vuepress/plugin-register-components#readme
+homepage: https://github.com/vuejs/vuepress/blob/master/packages/@vuepress/plugin-nprogress#readme
 keywords:
 - documentation
 - generator
@@ -19,8 +19,8 @@ keywords:
 - vuepress
 license: MIT License
 maintainers: null
-name: '@vuepress/plugin-register-components'
-npm: https://www.npmjs.com/package/%40vuepress%2Fplugin-register-components
+name: '@vuepress/plugin-nprogress'
+npm: https://www.npmjs.com/package/%40vuepress%2Fplugin-nprogress
 publisher:
   avatar: null
   email: 472590061@qq.com
@@ -28,11 +28,11 @@ publisher:
   url: null
   username: ulivz
 repository: https://github.com/vuejs/vuepress
-score: 0.6184348584335462
-stars: 19742
+score: 0.6309122116294873
+stars: 19746
 unstable: false
-version: 1.8.3
-watchers: 19742
+version: 1.9.1
+watchers: 19746
 
 ---
 

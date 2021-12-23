@@ -7,11 +7,11 @@ author:
   username: null
 bugs: https://github.com/vuejs/vuepress/issues
 category: plugins
-date: '2021-12-22T21:21:15.362Z'
+date: '2021-12-22T21:21:15.222Z'
 deprecated: false
-description: medium-zoom plugin for vuepress
+description: search plugin for vuepress
 downloads: null
-homepage: https://github.com/vuejs/vuepress/blob/master/packages/@vuepress/plugin-medium-zoom#readme
+homepage: https://github.com/vuejs/vuepress/blob/master/packages/@vuepress/plugin-search#readme
 keywords:
 - documentation
 - generator
@@ -19,8 +19,8 @@ keywords:
 - vuepress
 license: null
 maintainers: null
-name: '@vuepress/plugin-medium-zoom'
-npm: https://www.npmjs.com/package/%40vuepress%2Fplugin-medium-zoom
+name: '@vuepress/plugin-search'
+npm: https://www.npmjs.com/package/%40vuepress%2Fplugin-search
 publisher:
   avatar: null
   email: 472590061@qq.com
@@ -28,7 +28,7 @@ publisher:
   url: null
   username: ulivz
 repository: https://github.com/vuejs/vuepress
-score: 0.420714996969523
+score: 0.4322867228431986
 stars: 0
 unstable: false
 version: 1.9.1

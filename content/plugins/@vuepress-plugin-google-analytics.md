@@ -7,7 +7,7 @@ author:
   username: vuejs
 bugs: https://github.com/vuejs/vuepress/issues
 category: plugins
-date: '2021-12-20T19:48:16.222Z'
+date: '2021-12-22T21:21:15.280Z'
 deprecated: false
 description: google-analytics plugin for vuepress
 downloads: null
@@ -28,11 +28,11 @@ publisher:
   url: null
   username: ulivz
 repository: https://github.com/vuejs/vuepress
-score: 0.6191089090147869
-stars: 19742
+score: 0.6192439135024158
+stars: 19746
 unstable: false
-version: 1.8.3
-watchers: 19742
+version: 1.9.1
+watchers: 19746
 
 ---
 
