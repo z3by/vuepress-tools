@@ -28,7 +28,7 @@ publisher:
   url: null
   username: akanoa
 repository: https://github.com/srcrs/vuepress-plugin-goatcounter
-score: 0.17883149938145643
+score: 0.1776802125207652
 stars: 0
 unstable: false
 version: 1.0.6

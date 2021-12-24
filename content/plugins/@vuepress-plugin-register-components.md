@@ -7,11 +7,11 @@ author:
   username: vuejs
 bugs: https://github.com/vuejs/vuepress/issues
 category: plugins
-date: '2021-12-23T20:25:42.476Z'
+date: '2021-12-23T20:25:43.017Z'
 deprecated: false
-description: pwa plugin for vuepress
+description: register-global-components plugin for vuepress
 downloads: null
-homepage: https://github.com/vuejs/vuepress/blob/master/packages/@vuepress/plugin-pwa#readme
+homepage: https://github.com/vuejs/vuepress/blob/master/packages/@vuepress/plugin-register-components#readme
 keywords:
 - documentation
 - generator
@@ -19,8 +19,8 @@ keywords:
 - vuepress
 license: MIT License
 maintainers: null
-name: '@vuepress/plugin-pwa'
-npm: https://www.npmjs.com/package/%40vuepress%2Fplugin-pwa
+name: '@vuepress/plugin-register-components'
+npm: https://www.npmjs.com/package/%40vuepress%2Fplugin-register-components
 publisher:
   avatar: null
   email: 472590061@qq.com
@@ -28,7 +28,7 @@ publisher:
   url: null
   username: ulivz
 repository: https://github.com/vuejs/vuepress
-score: 0.6152484509754347
+score: 0.619216978084982
 stars: 19755
 unstable: false
 version: 1.9.3

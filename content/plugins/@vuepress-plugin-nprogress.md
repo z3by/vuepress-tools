@@ -7,7 +7,7 @@ author:
   username: vuejs
 bugs: https://github.com/vuejs/vuepress/issues
 category: plugins
-date: '2021-12-22T21:21:15.837Z'
+date: '2021-12-23T20:25:40.718Z'
 deprecated: false
 description: nprogress plugin for vuepress
 downloads: null
@@ -28,11 +28,11 @@ publisher:
   url: null
   username: ulivz
 repository: https://github.com/vuejs/vuepress
-score: 0.6309122116294873
-stars: 19746
+score: 0.6308736000845813
+stars: 19755
 unstable: false
-version: 1.9.1
-watchers: 19746
+version: 1.9.3
+watchers: 19755
 
 ---
 

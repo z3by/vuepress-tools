@@ -7,11 +7,11 @@ author:
   username: vuejs
 bugs: https://github.com/vuejs/vuepress/issues
 category: plugins
-date: '2021-12-23T20:25:42.476Z'
+date: '2021-12-23T20:25:40.358Z'
 deprecated: false
-description: pwa plugin for vuepress
+description: active-header-links plugin for vuepress
 downloads: null
-homepage: https://github.com/vuejs/vuepress/blob/master/packages/@vuepress/plugin-pwa#readme
+homepage: https://github.com/vuejs/vuepress/blob/master/packages/@vuepress/plugin-active-header-links#readme
 keywords:
 - documentation
 - generator
@@ -19,8 +19,8 @@ keywords:
 - vuepress
 license: MIT License
 maintainers: null
-name: '@vuepress/plugin-pwa'
-npm: https://www.npmjs.com/package/%40vuepress%2Fplugin-pwa
+name: '@vuepress/plugin-active-header-links'
+npm: https://www.npmjs.com/package/%40vuepress%2Fplugin-active-header-links
 publisher:
   avatar: null
   email: 472590061@qq.com
@@ -28,7 +28,7 @@ publisher:
   url: null
   username: ulivz
 repository: https://github.com/vuejs/vuepress
-score: 0.6152484509754347
+score: 0.6336189536390544
 stars: 19755
 unstable: false
 version: 1.9.3
