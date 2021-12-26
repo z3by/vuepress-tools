@@ -7,7 +7,7 @@ author:
   username: vuejs
 bugs: https://github.com/vuejs/vuepress/issues
 category: themes
-date: '2021-12-24T09:14:18.039Z'
+date: '2021-12-25T20:48:57.139Z'
 deprecated: false
 description: VuePress theme for official Vue projects
 downloads: null
@@ -28,11 +28,11 @@ publisher:
   url: null
   username: ulivz
 repository: https://github.com/vuejs/vuepress
-score: 0.5876560849540363
-stars: 19758
+score: 0.5876858197748747
+stars: 19760
 unstable: false
-version: 1.9.4
-watchers: 19758
+version: 1.9.5
+watchers: 19760
 
 ---
 
