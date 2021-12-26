@@ -16,7 +16,7 @@ keywords:
 - vuepress
 - music
 - player
-license: false
+license: MIT License
 maintainers: null
 name: vuepress-plugin-awesome-musicplayer
 npm: https://www.npmjs.com/package/vuepress-plugin-awesome-musicplayer
@@ -28,10 +28,10 @@ publisher:
   username: daodaolee
 repository: https://github.com/daodaolee/vuepress-plugin-awesome-musicplayer
 score: 0.4926125973833081
-stars: 3
+stars: 6
 unstable: false
 version: 1.0.3
-watchers: 3
+watchers: 6
 
 ---
 

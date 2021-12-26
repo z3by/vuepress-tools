@@ -7,7 +7,7 @@ author:
   username: vuejs
 bugs: https://github.com/vuejs/vuepress/issues
 category: plugins
-date: '2021-12-23T20:25:42.476Z'
+date: '2021-12-25T20:48:47.832Z'
 deprecated: false
 description: pwa plugin for vuepress
 downloads: null
@@ -28,11 +28,11 @@ publisher:
   url: null
   username: ulivz
 repository: https://github.com/vuejs/vuepress
-score: 0.6152484509754347
-stars: 19755
+score: 0.6151373712611399
+stars: 19760
 unstable: false
-version: 1.9.3
-watchers: 19755
+version: 1.9.5
+watchers: 19760
 
 ---
 

@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/37177191?v=4
+  avatar: null
   email: null
   name: null
   url: null
-  username: systemctls
+  username: null
 bugs: https://github.com/wc-code/vuepress-plugin-doc-demo/issues
 category: plugins
 date: '2020-12-30T12:47:29.779Z'
@@ -19,7 +19,7 @@ keywords:
 - vuepress
 - demo
 - block
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-plugin-doc-demo
 npm: https://www.npmjs.com/package/vuepress-plugin-doc-demo

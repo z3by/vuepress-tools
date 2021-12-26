@@ -7,7 +7,7 @@ author:
   username: vuejs
 bugs: https://github.com/vuejs/vuepress/issues
 category: plugins
-date: '2021-12-23T20:25:43.017Z'
+date: '2021-12-25T20:48:48.492Z'
 deprecated: false
 description: register-global-components plugin for vuepress
 downloads: null
@@ -28,11 +28,11 @@ publisher:
   url: null
   username: ulivz
 repository: https://github.com/vuejs/vuepress
-score: 0.619216978084982
-stars: 19755
+score: 0.6188798147869501
+stars: 19760
 unstable: false
-version: 1.9.3
-watchers: 19755
+version: 1.9.5
+watchers: 19760
 
 ---
 
