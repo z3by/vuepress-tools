@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/5062966?v=4
+  avatar: null
   email: sabic.alija@gmail.com
   name: Alija Sabic
   url: null
@@ -13,7 +13,7 @@ description: Vuepress theme for AsTeRICS Docs
 downloads: null
 homepage: https://github.com/asterics/asterics-docs.js#readme
 keywords: null
-license: false
+license: null
 maintainers: null
 name: '@asterics-docs/vuepress-theme-docs'
 npm: https://www.npmjs.com/package/%40asterics-docs%2Fvuepress-theme-docs

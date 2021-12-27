@@ -7,7 +7,7 @@ author:
   username: vuepress-aurora
 bugs: https://github.com/vuepress-aurora/vuepress-theme-aurora/issues
 category: themes
-date: '2021-12-25T13:13:48.846Z'
+date: '2021-12-26T05:16:46.995Z'
 deprecated: false
 description: "A vuepress-based animation blog theme, simple, beautiful, multi-color,\
   \ multiple custom functions, providing article poster sharing, talk, photo album,\
@@ -41,10 +41,10 @@ publisher:
   url: null
   username: qsyyke
 repository: https://github.com/vuepress-aurora/vuepress-theme-aurora
-score: 0.504702056914264
+score: 0.5045549167127045
 stars: 66
 unstable: false
-version: 1.12.4
+version: 1.12.6
 watchers: 66
 
 ---
