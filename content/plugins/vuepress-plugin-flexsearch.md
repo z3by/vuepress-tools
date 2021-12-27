@@ -30,10 +30,10 @@ publisher:
   username: z3bya
 repository: https://github.com/z3by/vuepress-plugin-flexsearch
 score: 0.5134443243200937
-stars: 31
+stars: 32
 unstable: true
 version: 0.3.0
-watchers: 31
+watchers: 32
 
 ---
 
