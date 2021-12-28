@@ -25,10 +25,10 @@ publisher:
   username: easyhexo
 repository: https://github.com/EasyHexo/vuepress-theme-macgs
 score: 0.4567228894600248
-stars: 15
+stars: 16
 unstable: true
 version: 1.0.0-alpha.37
-watchers: 15
+watchers: 16
 
 ---
 
