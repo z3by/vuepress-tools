@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/17906558?v=4
+  avatar: null
   email: pengchengou@gmail.com
   name: vxhly
   url: null
@@ -17,7 +17,7 @@ keywords:
 - plugin
 - codesandbox
 - code-preview
-license: Other
+license: null
 maintainers: null
 name: vuepress-plugin-code-preview
 npm: https://www.npmjs.com/package/vuepress-plugin-code-preview
@@ -29,10 +29,10 @@ publisher:
   username: vxhly
 repository: https://github.com/vxhly/vuepress-plugin-code-preview
 score: 0.43144539599683407
-stars: 1
+stars: 0
 unstable: false
 version: 1.0.0
-watchers: 1
+watchers: 0
 
 ---
 

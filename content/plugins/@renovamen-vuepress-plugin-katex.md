@@ -31,39 +31,22 @@ publisher:
   username: renovamen
 repository: https://github.com/Renovamen/vuepress-theme-gungnir
 score: 0.49061856679436644
-stars: 141
+stars: 142
 unstable: true
 version: 0.2.0
-watchers: 141
+watchers: 142
 
 ---
 
-# Gungnir V0
+# Gungnir V2
 
-[![npm](https://img.shields.io/npm/v/vuepress-theme-gungnir.svg?style=flat-square&logo=npm)](https://www.npmjs.com/package/vuepress-theme-gungnir) [![docs](https://img.shields.io/badge/Docs-Gungnir-26A2FF?style=flat-square)](https://vuepress-theme-gungnir.vercel.app/docs/) [![license](https://img.shields.io/badge/License-Apache--2.0-green?style=flat-square)](LICENSE)
+[![npm](https://img.shields.io/npm/v/vuepress-theme-gungnir/next.svg?style=flat-square&logo=npm)](https://www.npmjs.com/package/vuepress-theme-gungnir/v/next) [![docs](https://img.shields.io/badge/Docs-Gungnir-26A2FF?style=flat-square)](https://v2-vuepress-theme-gungnir.vercel.app/docs/) [![license](https://img.shields.io/badge/License-Apache--2.0-green?style=flat-square)](LICENSE)
 
-A blog theme for [VuePress 1](https://vuepress.vuejs.org/). The [Jekyll](https://jekyllrb.com/) version of it is available [here](https://github.com/Renovamen/jekyll-theme-gungnir).
-
----
-
-**Notice:** I'm now working on [Gungnir v2](https://github.com/Renovamen/vuepress-theme-gungnir/tree/v2) for [VuePress 2](https://v2.vuepress.vuejs.org/). So no further update expected for Gungnir v0 except bug fixes.
-
----
+A blog theme for [VuePress 2](https://v2.vuepress.vuejs.org/), **WIP**. 
 
 **Gungnir** is the spear of the god Odin in Norse mythology.
 
-English | [中文](README-CN.md)
-
 ![preview](docs/.vuepress/public/img/docs/gungnir.jpg)
-
-
-&nbsp;
-
-## V2
-
-I'm now working on Gungnir v2, with the power of [VuePress 2](https://v2.vuepress.vuejs.org/), [Vue 3](https://v3.vuejs.org/), [Vite](https://vitejs.dev/) and [Webpack 5](https://webpack.js.org/). The new version will be written using [Composition API](https://v3.vuejs.org/guide/composition-api-introduction.html) and with a much higher dev server spinning up speed.
-
-V2 is still **WIP**, see [v2](https://github.com/Renovamen/vuepress-theme-gungnir/tree/v2) branch for the progress.
 
 
 &nbsp;
@@ -77,18 +60,22 @@ V2 is still **WIP**, see [v2](https://github.com/Renovamen/vuepress-theme-gungni
 - Dark and light mode: system theme detection with a theme-switcher to set the theme as per the user preference
 - Search
 - Table of contents
-- Multiple syntax highlighting themes, support full screening the code blocks (inspired by WordPress theme [Sakura](https://github.com/mashirozx/Sakura))
-- Tex support ([KaTex](https://github.com/KaTeX/KaTeX))
-- Draw charts and graphs in Markdown easily: [Chart.js](https://www.chartjs.org), [Mermaid](https://mermaid-js.github.io) and [roughViz.js](https://github.com/jwilber/roughViz)
+- Full screening the code blocks (inspired by WordPress theme [Sakura](https://github.com/mashirozx/Sakura))
+- Tex support ([Katex](https://github.com/KaTeX/KaTeX))
+- Draw charts and graphs in Markdown easily: [Chart.js](https://www.chartjs.org), [Mermaid](https://mermaid-js.github.io)
+- Analytics ([Google Analytics](https://analytics.google.com/) and [Baidu Tongji](https://tongji.baidu.com/))
+- Comment ([Giscus](https://github.com/giscus/giscus))
+- Reading time
+- Multi-language support (English, Simplified Chinese)
+- Archive page with tags and links page
+
+TODO:
+
+- [roughViz.js](https://github.com/jwilber/roughViz) and [markmap](https://github.com/gera2ld/markmap)
 - Markdown enhancements:
   - Footnote ([markdown-it-footnote](https://github.com/markdown-it/markdown-it-footnote))
   - Mark ([markdown-it-mark](https://github.com/markdown-it/markdown-it-mark))
-- Analytics ([Google Analytics](https://analytics.google.com/) and [Baidu Tongji](https://tongji.baidu.com/))
-- Comment ([Vssue](https://github.com/meteorlxy/vssue))
 - RSS
-- Reading time
-- Multi-language support (English, Simplified Chinese)
-- Archive page with tags, links page
 
 
 &nbsp;
@@ -96,31 +83,67 @@ V2 is still **WIP**, see [v2](https://github.com/Renovamen/vuepress-theme-gungni
 ## Installation
 
 ```bash
-yarn add -D vuepress-theme-gungnir
+yarn add -D vuepress-theme-gungnir@next
 # or
-npm i -D vuepress-theme-gungnir
+npm i -D vuepress-theme-gungnir@next
 ```
 
 
 &nbsp;
 
-## Demo
+## Documentation & Live Demos
 
-Here are some live demos:
-
-- [vuepress-theme-gungnir.vercel.app](https://vuepress-theme-gungnir.vercel.app/)
-- [zxh.io](https://zxh.io) (my blog)
+- Documentation: [v2-vuepress-theme-gungnir.vercel.app](https://v2-vuepress-theme-gungnir.vercel.app)
+- My blog: [zxh.io](https://zxh.io/)
 
 
 &nbsp;
 
-## Documentation
+## Plugins
 
-Documentation is available [here](https://vuepress-theme-gungnir.vercel.app/docs/).
+This repository also contains the following plugins:
+
+- [plugin-giscus](packages/plugins/giscus): use [Giscus](https://github.com/giscus/giscus) (a comments system powered by [GitHub Discussions](https://docs.github.com/en/discussions)) in Vuepress 2
+- [plugin-katex](packages/plugins/katex): [KaTeX](https://katex.org/)
+- [plugin-chart](packages/plugins/chart): [Chart.js](https://www.chartjs.org)
+- [plugin-mermaid](packages/plugins/mermaid): [Mermaid](https://mermaid-js.github.io)
+- [plugin-reading-time](packages/plugins/reading-time): word count and reading time
+- [plugin-baidu-tongji](packages/plugins/baidu-tongji): [百度统计](https://tongji.baidu.com/)
+- [plugin-code-enhance](packages/plugins/code-enhance): full-screen and ~~copy~~ button for code blocks
+- [plugin-search](packages/plugins/search): edit [@vuepress/plugin-search](https://github.com/vuepress/vuepress-next/tree/main/packages/%40vuepress/plugin-search) to make it compatible with Gungnir
+
+
+&nbsp;
+
+## Changes (v0 -> v2)
+
+- With the power of [VuePress 2](https://v2.vuepress.vuejs.org/), [Vue 3](https://v3.vuejs.org/), [Vite](https://vitejs.dev/) and [Webpack 5](https://webpack.js.org/), written using [Composition API](https://v3.vuejs.org/guide/composition-api-introduction.html), of course
+- Stylus -> SCSS
+- Drop external fonts to increase load speed
+- Built-in comments system: move from [Vssue](https://github.com/meteorlxy/vssue) (isn't compatable with Vue 3 as for now) to [Giscus](https://github.com/giscus/giscus)
+
+
+&nbsp;
+
+## Contribution
+
+See [Contributing Guide](CONTRIBUTING.md).
+
+
+&nbsp;
+
+## Other Versions
+
+No further update expected for the following previous versions:
+
+- [VuePress 1 theme](https://github.com/Renovamen/vuepress-theme-gungnir/tree/v0)
+- [Jekyll theme](https://github.com/Renovamen/jekyll-theme-gungnir)
 
 
 &nbsp;
 
 ## License
 
-VuePress theme Gungnir is [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) licensed, see the [LICENSE](packages/theme-gungnir/LICENSE) file for details.
+VuePress theme Gungnir is [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) licensed, see the [LICENSE](LICENSE) file for details.
+
+Plugins are licensed by MIT.
