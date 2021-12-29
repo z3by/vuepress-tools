@@ -4,7 +4,7 @@ author:
   email: null
   name: Vincent Hy
   url: null
-  username: WiensHy
+  username: Wiensss
 bugs: https://github.com/Veminem/vuepress-theme-oneN/issues
 category: themes
 date: '2019-10-18T19:22:58.594Z'
