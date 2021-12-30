@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/10540493?v=4
   email: null
   name: tortorse
   url: null
-  username: null
+  username: tortorse
 bugs: https://github.com/tortorse/vuepress-plugin-tabs/issues
 category: plugins
 date: '2020-08-07T03:26:03.259Z'
@@ -16,7 +16,7 @@ keywords:
 - vuepress-plugin
 - tabs
 - component
-license: null
+license: Other
 maintainers: null
 name: vuepress-plugin-element-tabs-less
 npm: https://www.npmjs.com/package/vuepress-plugin-element-tabs-less
