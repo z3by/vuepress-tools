@@ -37,8 +37,9 @@ watchers: 3
 
 ### Hi there 👋
 
-- 🌱 I’m currently learning on SHU
-- 🤔 I’m currently learning English...
+- 🌱 I’m studying for my master's degree on SHU
+- 🤔 I’m currently learning English
+- ⚡ Fun fact: Rendering in Computer Graphic
 
 ![Celeste's github stats](https://github-readme-stats.vercel.app/api/?username=yzx9&show_icons=true&hide_title=true)
 ![Celeste's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yzx9&layout=compact&exclude_repo=yzx9.github.io)
