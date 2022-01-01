@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/18214609?v=4
   email: https://github.com/konnga
   name: konnga
   url: null
-  username: null
+  username: konnga
 bugs: https://github.com/konnga/vuepress-theme-antd-docs/issues
 category: themes
 date: '2020-10-12T08:48:37.994Z'
@@ -19,7 +19,7 @@ keywords:
 - antd
 - ant-design
 - antd-docs
-license: null
+license: MIT License
 maintainers: null
 name: vuepress-theme-antd-docs
 npm: https://www.npmjs.com/package/vuepress-theme-antd-docs
@@ -31,10 +31,10 @@ publisher:
   username: konnga
 repository: https://github.com/konnga/vuepress-theme-antd-docs
 score: 0.2515071348210727
-stars: 0
+stars: 1
 unstable: true
 version: 0.0.11
-watchers: 0
+watchers: 1
 
 ---
 

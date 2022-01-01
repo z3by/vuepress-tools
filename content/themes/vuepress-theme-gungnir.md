@@ -31,11 +31,11 @@ publisher:
   url: null
   username: renovamen
 repository: https://github.com/Renovamen/vuepress-theme-gungnir
-score: 0.5245980656935458
-stars: 143
+score: 0.5247361827982586
+stars: 144
 unstable: true
 version: 0.3.0
-watchers: 143
+watchers: 144
 
 ---
 
@@ -110,6 +110,7 @@ This repository also contains the following plugins:
 - [plugin-mermaid](packages/plugins/mermaid): [Mermaid](https://mermaid-js.github.io)
 - [plugin-reading-time](packages/plugins/reading-time): word count and reading time
 - [plugin-baidu-tongji](packages/plugins/baidu-tongji): [百度统计](https://tongji.baidu.com/)
+- [plugin-rss](packages/plugins/rss): RSS
 - [plugin-code-enhance](packages/plugins/code-enhance): full-screen and ~~copy~~ button for code blocks
 - [plugin-search](packages/plugins/search): edit [@vuepress/plugin-search](https://github.com/vuepress/vuepress-next/tree/main/packages/%40vuepress/plugin-search) to make it compatible with Gungnir
 
