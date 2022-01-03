@@ -35,10 +35,10 @@ publisher:
   username: danktuary
 repository: https://github.com/Danktuary/vuepress-theme-yuu
 score: 0.5113074017975723
-stars: 68
+stars: 70
 unstable: false
 version: 3.1.1
-watchers: 68
+watchers: 70
 
 ---
 
