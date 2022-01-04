@@ -11,7 +11,7 @@ date: '2021-11-28T12:05:22.250Z'
 deprecated: false
 description: A theme of VuePress
 downloads: null
-homepage: https://shentuzhigang.cn/vuepress-theme-star
+homepage: https://github.com/shentuzhigang/vuepress-theme-star#readme
 keywords:
 - vuepress-theme
 - vuepress
@@ -28,7 +28,7 @@ publisher:
   url: null
   username: starzkg
 repository: https://github.com/shentuzhigang/vuepress-theme-star
-score: 0.5835852100212536
+score: 0.5542403042804612
 stars: 1
 unstable: true
 version: 1.0.0-beta.17
