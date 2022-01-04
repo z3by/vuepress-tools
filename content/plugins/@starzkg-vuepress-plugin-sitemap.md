@@ -11,7 +11,7 @@ date: '2021-12-25T17:58:24.440Z'
 deprecated: false
 description: Sitemap plugin for vuepress
 downloads: null
-homepage: https://shentuzhigang.cn/vuepress-theme-star
+homepage: https://github.com/shentuzhigang/vuepress-theme-star#readme
 keywords:
 - vuepress-plugin
 - sitemap
@@ -26,7 +26,7 @@ publisher:
   url: null
   username: starzkg
 repository: https://github.com/shentuzhigang/vuepress-theme-star
-score: 0.4721305731528413
+score: 0.536842356936026
 stars: 1
 unstable: true
 version: 1.0.0-beta.24

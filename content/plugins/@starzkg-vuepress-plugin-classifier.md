@@ -11,7 +11,7 @@ date: '2021-12-18T13:04:12.871Z'
 deprecated: false
 description: Icon library for Vuepress
 downloads: null
-homepage: https://shentuzhigang.cn/vuepress-theme-star
+homepage: https://github.com/shentuzhigang/vuepress-theme-star#readme
 keywords:
 - icon
 - svg
@@ -27,7 +27,7 @@ publisher:
   url: null
   username: starzkg
 repository: https://github.com/shentuzhigang/vuepress-theme-star
-score: 0.4629990854640673
+score: 0.5522755474839703
 stars: 1
 unstable: true
 version: 1.0.0-beta.21

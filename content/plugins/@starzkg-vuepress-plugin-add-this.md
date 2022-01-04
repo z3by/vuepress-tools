@@ -11,7 +11,7 @@ date: '2021-12-25T17:58:18.533Z'
 deprecated: false
 description: Add This plugin for vuepress
 downloads: null
-homepage: https://shentuzhigang.cn/vuepress-theme-star
+homepage: https://github.com/shentuzhigang/vuepress-theme-star#readme
 keywords:
 - vuepress-plugin
 - vuepress
@@ -28,7 +28,7 @@ publisher:
   url: null
   username: starzkg
 repository: https://github.com/shentuzhigang/vuepress-theme-star
-score: 0.4872391562117296
+score: 0.5518662236523321
 stars: 1
 unstable: true
 version: 1.0.0-beta.24

@@ -11,7 +11,7 @@ date: '2021-11-28T12:32:26.967Z'
 deprecated: false
 description: A VuePress plugin which handles copy behaviors.
 downloads: null
-homepage: https://shentuzhigang.cn/vuepress-theme-star
+homepage: https://github.com/shentuzhigang/vuepress-theme-star#readme
 keywords:
 - vuepress
 - vuepress-plugin
@@ -29,7 +29,7 @@ publisher:
   url: null
   username: starzkg
 repository: https://github.com/shentuzhigang/vuepress-theme-star
-score: 0.5885351013038103
+score: 0.5592966936893724
 stars: 1
 unstable: true
 version: 1.0.0-beta.17

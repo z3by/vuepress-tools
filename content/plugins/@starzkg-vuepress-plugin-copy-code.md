@@ -11,7 +11,7 @@ date: '2021-11-28T11:57:44.847Z'
 deprecated: false
 description: Copy Code plugin for vuepress
 downloads: null
-homepage: https://shentuzhigang.cn/vuepress-theme-star
+homepage: https://github.com/shentuzhigang/vuepress-theme-star#readme
 keywords:
 - vuepress-plugin
 - vuepress
@@ -28,7 +28,7 @@ publisher:
   url: null
   username: starzkg
 repository: https://github.com/shentuzhigang/vuepress-theme-star
-score: 0.5890374360594794
+score: 0.5596752168467487
 stars: 1
 unstable: true
 version: 1.0.0-beta.17
