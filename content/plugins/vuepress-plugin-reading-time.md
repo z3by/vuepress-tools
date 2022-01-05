@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/5770711?v=4
+  avatar: null
   email: null
   name: Darren Jennings
   url: null
-  username: darrenjennings
+  username: null
 bugs: https://github.com/darrenjennings/vuepress-plugin-reading-time/issues
 category: plugins
 date: '2019-01-05T21:32:34.008Z'
@@ -16,7 +16,7 @@ keywords:
 - vue
 - vuepress
 - reading-time
-license: false
+license: null
 maintainers: null
 name: vuepress-plugin-reading-time
 npm: https://www.npmjs.com/package/vuepress-plugin-reading-time
@@ -28,10 +28,10 @@ publisher:
   username: darrenjennings
 repository: https://github.com/darrenjennings/vuepress-plugin-reading-time
 score: 0.42415568642327706
-stars: 34
+stars: 0
 unstable: true
 version: 0.1.1
-watchers: 34
+watchers: 0
 
 ---
 

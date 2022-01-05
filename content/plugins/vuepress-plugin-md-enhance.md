@@ -7,22 +7,29 @@ author:
   username: mister-hope
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues
 category: plugins
-date: '2022-01-04T13:08:48.080Z'
+date: '2022-01-04T13:08:48.639Z'
 deprecated: false
-description: Photo Swipe plugin for vuepress
+description: Markdown enhancement for vuepress
 downloads: null
-homepage: https://vuepress-theme-hope.github.io/photo-swipe/
+homepage: https://vuepress-theme-hope.github.io/md-enhance/
 keywords:
 - vuepress-plugin
-- vuepress
-- photo-swipe
-- preview
-- zoom
-- picture
+- markdown
+- align
+- superscript
+- subscript
+- footnote
+- flowchart
+- tex
+- latex
+- katex
+- mark
+- presentation
+- reveal.js
 license: MIT License
 maintainers: null
-name: vuepress-plugin-photo-swipe
-npm: https://www.npmjs.com/package/vuepress-plugin-photo-swipe
+name: vuepress-plugin-md-enhance
+npm: https://www.npmjs.com/package/vuepress-plugin-md-enhance
 publisher:
   avatar: null
   email: zhangbowang1998@gmail.com
@@ -30,7 +37,7 @@ publisher:
   url: null
   username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
-score: 0.684309389955315
+score: 0.6713684014557973
 stars: 344
 unstable: false
 version: 1.23.0

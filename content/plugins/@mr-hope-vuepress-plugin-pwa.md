@@ -7,22 +7,21 @@ author:
   username: mister-hope
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues
 category: plugins
-date: '2022-01-04T13:08:48.080Z'
+date: '2022-01-04T13:08:49.686Z'
 deprecated: false
-description: Photo Swipe plugin for vuepress
+description: Powerful PWA plugin for vuepress
 downloads: null
-homepage: https://vuepress-theme-hope.github.io/photo-swipe/
+homepage: https://vuepress-theme-hope.github.io/pwa/
 keywords:
 - vuepress-plugin
-- vuepress
-- photo-swipe
-- preview
-- zoom
-- picture
+- pwa
+- web app
+- workbox
+- service worker
 license: MIT License
 maintainers: null
-name: vuepress-plugin-photo-swipe
-npm: https://www.npmjs.com/package/vuepress-plugin-photo-swipe
+name: '@mr-hope/vuepress-plugin-pwa'
+npm: https://www.npmjs.com/package/%40mr-hope%2Fvuepress-plugin-pwa
 publisher:
   avatar: null
   email: zhangbowang1998@gmail.com
@@ -30,7 +29,7 @@ publisher:
   url: null
   username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
-score: 0.684309389955315
+score: 0.6934934620604476
 stars: 344
 unstable: false
 version: 1.23.0

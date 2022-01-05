@@ -7,7 +7,7 @@ author:
   username: mister-hope
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues
 category: plugins
-date: '2021-11-14T16:33:05.921Z'
+date: '2022-01-04T13:08:44.620Z'
 deprecated: false
 description: Sitemap plugin for vuepress
 downloads: null
@@ -26,10 +26,10 @@ publisher:
   url: null
   username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
-score: 0.6677414643100099
+score: 0.6802214337081278
 stars: 344
 unstable: false
-version: 1.21.0
+version: 1.23.0
 watchers: 344
 
 ---
