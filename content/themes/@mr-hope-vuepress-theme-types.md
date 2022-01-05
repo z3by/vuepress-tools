@@ -7,20 +7,21 @@ author:
   username: mister-hope
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues
 category: themes
-date: '2022-01-04T13:08:57.991Z'
+date: '2022-01-04T13:08:53.401Z'
 deprecated: false
-description: A light vuepress theme with tons for features
+description: Theme types for vuepress-theme-hope
 downloads: null
-homepage: https://vuepress-theme-hope.github.io
+homepage: https://github.com/vuepress-theme-hope/vuepress-theme-hope/tree/v1/packages/theme-types#readme
 keywords:
 - vuepress-theme
-- vuepress-blog
-- vuepress-theme-blog
+- types
 - vuepress
+- vuepress-theme-hope
+- mr-hope
 license: MIT License
 maintainers: null
-name: vuepress-theme-hope
-npm: https://www.npmjs.com/package/vuepress-theme-hope
+name: '@mr-hope/vuepress-theme-types'
+npm: https://www.npmjs.com/package/%40mr-hope%2Fvuepress-theme-types
 publisher:
   avatar: null
   email: zhangbowang1998@gmail.com
@@ -28,7 +29,7 @@ publisher:
   url: null
   username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
-score: 0.6869164999315088
+score: 0.6820174105089809
 stars: 344
 unstable: false
 version: 1.23.0
