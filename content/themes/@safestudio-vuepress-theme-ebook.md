@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/16624942?v=4
+  avatar: null
   email: ansidev@gmail.com
   name: Le Minh Tri
   url: null
@@ -17,7 +17,7 @@ keywords:
 - vue
 - vuepress
 - generator
-license: MIT License
+license: null
 maintainers: null
 name: '@safestudio/vuepress-theme-ebook'
 npm: https://www.npmjs.com/package/%40safestudio%2Fvuepress-theme-ebook
@@ -36,13 +36,3 @@ watchers: 0
 
 ---
 
-# vuepress-theme-ebook
-
-> This theme was forked from default vuepress
-
-## Plugins
-
-The theme has the following plugin built in:
-
-- [@vuepress/plugin-active-header-links](https://github.com/vuejs/vuepress/tree/master/packages/@vuepress/plugin-active-header-links)
-- [@vuepress/plugin-google-analytics](https://github.com/vuejs/vuepress/tree/master/packages/%40vuepress/plugin-google-analytics)
