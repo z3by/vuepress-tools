@@ -7,7 +7,7 @@ author:
   username: octref
 bugs: https://github.com/octref/shiki/issues
 category: plugins
-date: '2020-11-13T09:52:24.768Z'
+date: '2022-01-05T14:51:15.799Z'
 deprecated: false
 description: Vuepress plugin for Shiki
 downloads: null
@@ -29,11 +29,11 @@ publisher:
   url: null
   username: octref
 repository: https://github.com/octref/shiki
-score: 0.5970476008680486
-stars: 2909
+score: 0.6160114463275784
+stars: 2914
 unstable: true
-version: 0.2.7
-watchers: 2909
+version: 0.10.0
+watchers: 2914
 
 ---
 
@@ -103,6 +103,7 @@ Clone [shikijs/shiki-starter](https://github.com/shikijs/shiki-starter) to play 
 - [Torchlight](https://torchlight.dev/), a syntax highlighting API powered by the Shiki tokenizer.
 - [CodeChalk](https://github.com/a20185/codechalk), A neat terminal code highlighting tool powered by Shiki tokenizer and Chalk.
 - [shiki-renderer-pdf](https://github.com/sachinraja/shiki-renderer-pdf), a Shiki renderer for PDFs. Used in [pdfc](https://github.com/sachinraja/pdfc) to compile your source code to PDFs.
+- [Code Hike](https://codehike.org/), a collection of components and mods for MDX codeblocks.
 
 ## Contributing
 

@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/45766545?v=4
   email: developers@spacelephant.org
   name: Space Elephant SAS
   url: null
-  username: null
+  username: spacelephantlabs
 bugs: https://github.com/spacelephantlabs/vuepress-plugin-rocketchat-livechat/issues
 category: plugins
 date: '2021-04-23T20:01:11.167Z'
@@ -18,7 +18,7 @@ keywords:
 - vuepress
 - generator
 - rocket.chat
-license: null
+license: MIT License
 maintainers: null
 name: '@spacelephantlabs/vuepress-plugin-rocketchat-livechat'
 npm: https://www.npmjs.com/package/%40spacelephantlabs%2Fvuepress-plugin-rocketchat-livechat
