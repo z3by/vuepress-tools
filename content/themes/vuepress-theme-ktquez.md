@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/8084606?v=4
+  avatar: null
   email: ktquez@gmail.com
   name: Alan Ktquez
   url: https://ktquez.com/
@@ -21,7 +21,7 @@ keywords:
 - jekyll
 - documentation
 - blog
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-theme-ktquez
 npm: https://www.npmjs.com/package/vuepress-theme-ktquez
@@ -33,10 +33,10 @@ publisher:
   username: ktquez
 repository: https://github.com/ktquez/vuepress-theme-ktquez
 score: 0.2182674371056291
-stars: 330
+stars: 0
 unstable: true
 version: 0.2.18
-watchers: 330
+watchers: 0
 
 ---
 
