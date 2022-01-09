@@ -29,7 +29,7 @@ publisher:
   url: null
   username: zack.sun
 repository: https://github.com/maiscrm/vuepress-plugin-exportpdf
-score: 0.4993356785830184
+score: 0.4010395331618445
 stars: 0
 unstable: true
 version: 0.1.3

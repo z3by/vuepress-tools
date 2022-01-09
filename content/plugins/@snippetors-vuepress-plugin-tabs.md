@@ -28,7 +28,7 @@ publisher:
   url: null
   username: lucienzhangzl
 repository: https://github.com/Snippetors/snippets
-score: 0.6243362458491594
+score: 0.624804056002791
 stars: 5
 unstable: false
 version: 1.1.0
