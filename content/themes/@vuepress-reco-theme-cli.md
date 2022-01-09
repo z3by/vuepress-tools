@@ -5,32 +5,34 @@ author:
   name: reco_luan
   url: null
   username: vuepress-reco
-bugs: https://github.com/vuepress-reco/vuepress-theme-reco/issues
+bugs: https://github.com/recoluan/vuepress-theme-reco-cli/issues
 category: themes
-date: '2019-11-13T03:42:47.506Z'
+date: '2021-09-19T17:18:50.727Z'
 deprecated: false
-description: A simple and beautiful vuepress Blog & Doc theme.
+description: A cli for vuepress-theme-reco
 downloads: null
 homepage: https://vuepress-theme-reco.recoluan.com
 keywords:
 - vuepress
 - vue
 - theme
+- reco
+- cli
 license: MIT License
 maintainers: null
-name: vuepress-theme-fake
-npm: https://www.npmjs.com/package/vuepress-theme-fake
+name: '@vuepress-reco/theme-cli'
+npm: https://www.npmjs.com/package/%40vuepress-reco%2Ftheme-cli
 publisher:
   avatar: null
-  email: 1024151886@qq.com
+  email: recoluan@outlook.com
   name: null
   url: null
-  username: hu1024151886
-repository: https://github.com/vuepress-reco/vuepress-theme-reco
-score: 0.48914519981168414
+  username: reco_luan
+repository: https://github.com/recoluan/vuepress-theme-reco
+score: 0.5747291449273031
 stars: 1484
 unstable: false
-version: 1.0.9-alpha.9
+version: 1.0.7
 watchers: 1484
 
 ---
