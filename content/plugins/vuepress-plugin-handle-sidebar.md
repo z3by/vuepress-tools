@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/52391595?v=4
+  avatar: null
   email: 984584014@qq.com
   name: LiuYang
   url: https://github.com/web-liuyang
@@ -22,7 +22,7 @@ keywords:
 - plugin
 - autosidebar
 - generates
-license: false
+license: null
 maintainers: null
 name: vuepress-plugin-handle-sidebar
 npm: https://www.npmjs.com/package/vuepress-plugin-handle-sidebar
@@ -34,16 +34,10 @@ publisher:
   username: a984584014
 repository: https://github.com/web-liuyang/vuepress-plugin-handle-sidebar
 score: 0.47083412540532843
-stars: 1
+stars: 0
 unstable: false
 version: 1.0.3
-watchers: 1
+watchers: 0
 
 ---
-
-# vuepress-plugin-handle-sidebar
-
-Vuepress自动生成侧边栏的插件
-
-[文档点我](https://webliuyang.com/vue/vuepress/)
 

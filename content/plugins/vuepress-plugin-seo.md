@@ -7,15 +7,17 @@ author:
   username: null
 bugs: https://github.com/lorisleiva/vuepress-plugin-seo/issues
 category: plugins
-date: '2020-07-16T16:49:01.806Z'
+date: '2022-01-09T21:59:51.430Z'
 deprecated: false
-description: Generate SEO friendly meta header for every page
+description: Generate SEO friendly meta header for every page, VuePress v2
 downloads: null
 homepage: https://github.com/lorisleiva/vuepress-plugin-seo#readme
 keywords:
 - vuepress
 - plugin
 - seo
+- meta
+- headers
 license: null
 maintainers: null
 name: vuepress-plugin-seo
@@ -27,10 +29,10 @@ publisher:
   url: null
   username: lorisleiva
 repository: https://github.com/lorisleiva/vuepress-plugin-seo
-score: 0.23650002757880945
+score: 0.27005602062302947
 stars: 0
 unstable: true
-version: 0.1.4
+version: 0.2.0
 watchers: 0
 
 ---

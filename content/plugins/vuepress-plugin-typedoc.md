@@ -7,7 +7,7 @@ author:
   username: tgreyuk
 bugs: https://github.com/tgreyuk/typedoc-plugin-markdown/issues
 category: plugins
-date: '2022-01-06T21:36:14.186Z'
+date: '2022-01-09T17:43:45.198Z'
 deprecated: false
 description: A VuePress plugin to build api documentation with TypeDoc.
 downloads: null
@@ -30,10 +30,10 @@ publisher:
   url: null
   username: tgreyuk
 repository: https://github.com/tgreyuk/typedoc-plugin-markdown
-score: 0.6251000843603105
+score: 0.6251731467717275
 stars: 339
 unstable: true
-version: 0.10.1
+version: 0.10.2
 watchers: 339
 
 ---

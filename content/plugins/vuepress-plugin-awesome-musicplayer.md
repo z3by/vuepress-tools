@@ -7,7 +7,7 @@ author:
   username: daodaolee
 bugs: https://github.com/daodaolee/vuepress-plugin-awesome-musicplayer/issues
 category: plugins
-date: '2021-12-29T12:13:07.571Z'
+date: '2022-01-09T15:36:37.724Z'
 deprecated: false
 description: a music player by vuepress
 downloads: null
@@ -27,10 +27,10 @@ publisher:
   url: null
   username: daodaolee
 repository: https://github.com/daodaolee/vuepress-plugin-awesome-musicplayer
-score: 0.5017873441080927
+score: 0.5029066753525367
 stars: 13
 unstable: false
-version: 1.2.0
+version: 1.2.1
 watchers: 13
 
 ---
