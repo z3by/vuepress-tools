@@ -28,10 +28,10 @@ publisher:
   username: hu1024151886
 repository: https://github.com/vuepress-reco/vuepress-theme-reco
 score: 0.48914519981168414
-stars: 1485
+stars: 1488
 unstable: false
 version: 1.0.9-alpha.9
-watchers: 1485
+watchers: 1488
 
 ---
 
