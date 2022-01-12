@@ -30,10 +30,10 @@ publisher:
   username: taoguo
 repository: https://github.com/Tickly/vuepress-plugin-code-example
 score: 0.5086086286714492
-stars: 0
+stars: 1
 unstable: false
 version: 1.1.0
-watchers: 0
+watchers: 1
 
 ---
 
@@ -94,11 +94,14 @@ module.exports = {
 
 # FAQ
 
+- 基于`vuepress1.x`
+
 注意，目前插件代码里面包含了`ant-design-vue`的代码，所以要在你的项目中先安装该依赖。  
 我会尽快移除该限制。
 
 # Todo
 
-- 优化样式
-- 提供主题参数
-- 方便二次开发
+- [x] 优化样式
+- [x] 提供主题参数
+- [x] 方便二次开发
+- [x] 提供`vuepress2.x`的支持
