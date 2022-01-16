@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/54167020?v=4
+  avatar: null
   email: null
   name: reco_luan
   url: null
-  username: vuepress-reco
+  username: null
 bugs: https://github.com/vuepress-reco/vuepress-theme-reco/issues
 category: themes
 date: '2019-11-15T08:08:28.791Z'
@@ -16,7 +16,7 @@ keywords:
 - vuepress
 - vue
 - theme
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-theme-learing
 npm: https://www.npmjs.com/package/vuepress-theme-learing
@@ -28,10 +28,10 @@ publisher:
   username: jiangwei618
 repository: https://github.com/vuepress-reco/vuepress-theme-reco
 score: 0.07554149964055655
-stars: 1489
+stars: 0
 unstable: true
 version: 0.0.1
-watchers: 1489
+watchers: 0
 
 ---
 

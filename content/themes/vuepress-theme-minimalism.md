@@ -49,7 +49,7 @@ watchers: 19
 
 A minimalist vuepress theme, compatible with hexo YAML front matter syntax.
 
-preview：https://1net.world
+preview：https://sogud.github.io
 
 ## Quick Start
 
@@ -71,7 +71,7 @@ module.exports = {
 }
 ```
 
-- new _posts folder, article written in _posts directory, as the topic is compiled based on the content under the _posts folder. Note: Folder names are case-sensitive.
+- new posts folder, article written in posts directory, as the topic is compiled based on the content under the posts folder. Note: Folder names are case-sensitive.
 
 #### Directory Structure
 
@@ -79,7 +79,7 @@ module.exports = {
 .
 ├── docs
 │   ├── .vuepress #vuepress configuration folder
-│   ├── _posts #Article Storage Folder
+│   ├── posts #Article Storage Folder
 ├── package.json
 └── yarn.lock
 ```
