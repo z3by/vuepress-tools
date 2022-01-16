@@ -28,10 +28,10 @@ publisher:
   username: meteorlxy
 repository: https://github.com/meteorlxy/vssue
 score: 0.673327374145342
-stars: 589
+stars: 590
 unstable: false
 version: 1.4.8
-watchers: 589
+watchers: 590
 
 ---
 
