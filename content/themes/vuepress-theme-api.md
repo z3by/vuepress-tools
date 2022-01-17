@@ -30,10 +30,10 @@ publisher:
   username: sqrtthree
 repository: https://github.com/sqrthree/vuepress-theme-api
 score: 0.5750558593923832
-stars: 311
+stars: 315
 unstable: false
 version: 1.0.1
-watchers: 311
+watchers: 315
 
 ---
 
