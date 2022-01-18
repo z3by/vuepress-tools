@@ -31,10 +31,10 @@ publisher:
   username: lucienzhangzl
 repository: https://github.com/Snippetors/snippets
 score: 0.6234560943289105
-stars: 5
+stars: 6
 unstable: false
 version: 1.1.0
-watchers: 5
+watchers: 6
 
 ---
 

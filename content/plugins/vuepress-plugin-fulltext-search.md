@@ -26,10 +26,10 @@ publisher:
   username: leo-buneev
 repository: https://github.com/leo-buneev/vuepress-plugin-fulltext-search
 score: 0.5180185576821975
-stars: 52
+stars: 53
 unstable: false
 version: 2.2.1
-watchers: 52
+watchers: 53
 
 ---
 
