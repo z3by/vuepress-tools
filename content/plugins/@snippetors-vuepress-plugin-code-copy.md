@@ -66,7 +66,11 @@ code snippets, copy &amp; run
 ## 插件
 
 - [@snippetors/vuepress-plugin-tabs](https://github.com/Snippetors/snippets/blob/main/packages/@snippetors/vuepress-plugin-tabs)
+[![npm](https://badgen.net/npm/v/@snippetors/vuepress-plugin-tabs)](https://www.npmjs.com/package/@snippetors/vuepress-plugin-tabs)
+[![downloads](https://badgen.net/npm/dt/@snippetors/vuepress-plugin-tabs)](https://www.npmjs.com/package/@snippetors/vuepress-plugin-tabs)
 - [@snippetors/vuepress-plugin-code-copy](https://github.com/Snippetors/snippets/blob/main/packages/@snippetors/vuepress-plugin-code-copy)
+[![npm](https://badgen.net/npm/v/@snippetors/vuepress-plugin-code-copy)](https://www.npmjs.com/package/@snippetors/vuepress-plugin-code-copy)
+[![downloads](https://badgen.net/npm/dt/@snippetors/vuepress-plugin-code-copy)](https://www.npmjs.com/package/@snippetors/vuepress-plugin-code-copy)
 
 ## 如何贡献代码
 
