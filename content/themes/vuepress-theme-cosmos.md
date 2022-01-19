@@ -266,6 +266,7 @@ https://github.com/cosmos/cosmos-sdk/blob/master/Makefile#L195 to build versione
 5. [Kava Documentation](https://docs.kava.io) — [`github`](https://github.com/Kava-Labs/kava/tree/master/docs) — [`.vuepress/config.js`](https://github.com/Kava-Labs/kava/blob/master/docs/.vuepress/config.js)
 6. [Ethermint Documentation](https://docs.ethermint.zone) — [`github`](https://github.com/ChainSafe/ethermint/tree/development/docs) — [`.vuepress/config.js`](https://github.com/ChainSafe/ethermint/blob/development/docs/.vuepress/config.js)
 7. [Cosmwasm Documentation](https://docs.cosmwasm.com) — [`github`](https://github.com/CosmWasm/docs2) — [`.vuepress/config.js`](https://github.com/CosmWasm/docs2/blob/master/.vuepress/config.js)
+8. [IBC-Go Documentation](https://ibc.cosmos.network) — [`github`](https://github.com/cosmos/ibc-go/tree/main/docs) — [`.vuepress/config.js`](https://github.com/cosmos/ibc-go/blob/main/docs/.vuepress/config.js)
 
 ## Contributing
 
