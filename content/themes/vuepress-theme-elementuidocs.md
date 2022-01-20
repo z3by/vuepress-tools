@@ -32,10 +32,10 @@ publisher:
   username: dufajun
 repository: https://github.com/xiaoxiaofei2016/vuepress-theme-elementdocs
 score: 0.25993682259023465
-stars: 1
+stars: 2
 unstable: false
 version: 2.4.8
-watchers: 1
+watchers: 2
 
 ---
 
