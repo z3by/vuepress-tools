@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/7467891?v=4
   email: me@diogotc.com
   name: Diogo Correia
   url: null
@@ -16,7 +16,7 @@ keywords:
 - vuepress
 - katex
 - markdown
-license: null
+license: false
 maintainers: null
 name: '@diogotc/vuepress-plugin-katex'
 npm: https://www.npmjs.com/package/%40diogotc%2Fvuepress-plugin-katex
