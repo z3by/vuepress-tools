@@ -28,10 +28,10 @@ publisher:
   username: jingaye
 repository: https://github.com/RyanChent/vuepress-theme-sakura
 score: 0.45245455373787574
-stars: 2
+stars: 3
 unstable: false
 version: 1.0.6
-watchers: 2
+watchers: 3
 
 ---
 
