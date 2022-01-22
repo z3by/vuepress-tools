@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/31773900?v=4
+  avatar: null
   email: null
   name: Pan
   url: null
-  username: panxingcheng
+  username: null
 bugs: https://github.com/panxingcheng/vuepress-plugin-code-copy/issues
 category: plugins
 date: '2020-09-21T06:55:52.692Z'
@@ -18,7 +18,7 @@ keywords:
 - code copy
 - copy
 - clipboard
-license: MIT License
+license: null
 maintainers: null
 name: '@xiaopanda/vuepress-plugin-code-copy'
 npm: https://www.npmjs.com/package/%40xiaopanda%2Fvuepress-plugin-code-copy
@@ -30,10 +30,10 @@ publisher:
   username: panxingcheng
 repository: https://github.com/panxingcheng/vuepress-plugin-code-copy
 score: 0.4382171485966348
-stars: 2
+stars: 0
 unstable: false
 version: 1.0.3
-watchers: 2
+watchers: 0
 
 ---
 
