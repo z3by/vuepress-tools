@@ -28,10 +28,10 @@ publisher:
   username: xuzhongpeng
 repository: https://github.com/xuzhongpeng/vuepress-theme-reform
 score: 0.3877749618253593
-stars: 20
+stars: 21
 unstable: false
 version: 1.5.1
-watchers: 20
+watchers: 21
 
 ---
 

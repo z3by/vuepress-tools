@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/53597307?v=4
+  avatar: null
   email: linjie.gao@tendcloud.com
   name: Jagger
   url: null
-  username: codeciting
+  username: null
 bugs: https://github.com/codeciting/codeciting-vuepress-plugins/issues
 category: themes
 date: '2020-12-15T03:39:23.264Z'
@@ -13,7 +13,7 @@ description: '> TODO: description'
 downloads: null
 homepage: https://github.com/codeciting/codeciting-vuepress-plugins#readme
 keywords: null
-license: false
+license: null
 maintainers: null
 name: '@codeciting/vuepress-theme-codeciting'
 npm: https://www.npmjs.com/package/%40codeciting%2Fvuepress-theme-codeciting
@@ -32,8 +32,3 @@ watchers: 0
 
 ---
 
-# Codeciting Vuepress plugins
-
-- [Math Plugin](packages/vuepress-plugin-math/README.md)
-- [PlantUML Plugin](packages/vuepress-plugin-plantuml/README.md)
-- [ECharts Plugin](packages/vuepress-plugin-echarts/README.md)

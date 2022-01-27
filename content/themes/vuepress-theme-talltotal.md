@@ -28,10 +28,10 @@ publisher:
   username: talltotal
 repository: https://github.com/talltotal/vuepress-theme-talltotal
 score: 0.42038864945149046
-stars: 2
+stars: 3
 unstable: true
 version: 0.0.13
-watchers: 2
+watchers: 3
 
 ---
 

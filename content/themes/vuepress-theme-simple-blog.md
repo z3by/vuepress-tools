@@ -26,10 +26,10 @@ publisher:
   username: gplane
 repository: https://github.com/g-plane/vuepress-theme-simple-blog
 score: 0.44318700261446176
-stars: 2
+stars: 3
 unstable: false
 version: 1.1.0
-watchers: 2
+watchers: 3
 
 ---
 

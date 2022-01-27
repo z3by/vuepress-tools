@@ -28,10 +28,10 @@ publisher:
   username: glittering
 repository: https://github.com/glitzma/vuepress-theme-glitzma
 score: 0.3770315624136429
-stars: 2
+stars: 3
 unstable: false
 version: 1.0.1
-watchers: 2
+watchers: 3
 
 ---
 
