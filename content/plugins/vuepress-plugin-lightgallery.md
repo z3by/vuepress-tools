@@ -29,10 +29,10 @@ publisher:
   username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
 score: 0.6219459239284099
-stars: 361
+stars: 363
 unstable: false
 version: 2.0.0-alpha.4
-watchers: 361
+watchers: 363
 
 ---
 
@@ -54,7 +54,7 @@ watchers: 361
 [![DeepScan grade](https://deepscan.io/api/teams/9792/projects/17544/branches/405512/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=9792&pid=17544&bid=405512)
 ![CodeQL](https://github.com/vuepress-theme-hope/vuepress-theme-hope/actions/workflows/codeql-analysis.yml/badge.svg)
 [![codecov](https://codecov.io/gh/vuepress-theme-hope/vuepress-theme-hope/branch/main/graph/badge.svg?token=TNYMbGlxQ9)](https://codecov.io/gh/vuepress-theme-hope/vuepress-theme-hope)
-![Test theme](https://github.com/vuepress-theme-hope/vuepress-theme-hope/actions/workflows/test-v2.yml/badge.svg)
+![Test theme](https://github.com/vuepress-theme-hope/vuepress-theme-hope/actions/workflows/v2-test.yml/badge.svg)
 
 [![opencollective](https://opencollective.com/vuepress-theme-hope/tiers/badge.svg)](https://opencollective.com/vuepress-theme-hope)
 
@@ -147,4 +147,4 @@ Here is a list of changes:
 
   Most visitors do not use this feature.
 
-- [ ] Allow I18N Customize ![new](https://img.shields.io/badge/-new-brightgreen)
+- [x] Allow I18N Customize ![new](https://img.shields.io/badge/-new-brightgreen)
