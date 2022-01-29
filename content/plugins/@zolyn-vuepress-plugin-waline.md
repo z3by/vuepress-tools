@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/35414841?v=4
+  avatar: null
   email: null
   name: Zorin
   url: null
-  username: Zolyn
+  username: null
 bugs: https://github.com/Zolyn/vuepress-plugin-waline/issues
 category: plugins
 date: '2021-05-22T12:00:19.287Z'
@@ -13,7 +13,7 @@ description: null
 downloads: null
 homepage: https://github.com/Zolyn/vuepress-plugin-waline#readme
 keywords: null
-license: MIT License
+license: null
 maintainers: null
 name: '@zolyn/vuepress-plugin-waline'
 npm: https://www.npmjs.com/package/%40zolyn%2Fvuepress-plugin-waline
@@ -25,11 +25,10 @@ publisher:
   username: zolyn
 repository: https://github.com/Zolyn/vuepress-plugin-waline
 score: 0.48145780196762206
-stars: 2
+stars: 0
 unstable: false
 version: 1.1.1
-watchers: 2
+watchers: 0
 
 ---
 
-## @zolyn/vuepress-plugin-waline
