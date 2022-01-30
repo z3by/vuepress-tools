@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/30969327?v=4
   email: null
   name: imgradeone
   url: https://www.imgradeone.com
-  username: null
+  username: imgradeone
 bugs: https://github.com/imgradeone/vuepress-plugin-plausible/issues
 category: plugins
 date: '2021-09-25T06:07:09.438Z'
@@ -19,7 +19,7 @@ keywords:
 - vuepress-plugin
 - analytics
 - plausible
-license: null
+license: MIT License
 maintainers: null
 name: vuepress-plugin-plausible-imgradeone
 npm: https://www.npmjs.com/package/vuepress-plugin-plausible-imgradeone
