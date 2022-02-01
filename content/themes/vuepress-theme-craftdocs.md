@@ -25,10 +25,10 @@ publisher:
   username: mattstein
 repository: https://github.com/pixelandtonic/vuepress-theme-craftdocs
 score: 0.46501341037033117
-stars: 103
+stars: 104
 unstable: false
 version: 2.0.9
-watchers: 103
+watchers: 104
 
 ---
 
