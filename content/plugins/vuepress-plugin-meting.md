@@ -17,7 +17,7 @@ keywords:
 - plugin
 - meting
 - aplayer
-license: MIT License
+license: Other
 maintainers: null
 name: vuepress-plugin-meting
 npm: https://www.npmjs.com/package/vuepress-plugin-meting
@@ -45,11 +45,11 @@ watchers: 25
    <a href="https://github.com/moefyit/vuepress-plugin-meting/stargazers" target="_blank"><img alt="GitHub stars" src="https://img.shields.io/github/stars/moefyit/vuepress-plugin-meting"></a>
    <a href="https://www.npmjs.com/package/vuepress-plugin-meting" target="_blank"><img alt="downloads" src="https://img.shields.io/npm/dt/vuepress-plugin-meting.svg"></a>
    <a href="https://www.npmjs.com/package/vuepress-plugin-meting" target="_blank"><img alt="downloads" src="https://img.shields.io/npm/dm/vuepress-plugin-meting.svg"></a>
-   <a href="https://github.com/moefyit/vuepress-plugin-meting/blob/master/LICENSE" target="_blank"><img alt="GitHub license" src="https://img.shields.io/github/license/moefyit/vuepress-plugin-meting"></a>
+   <a href="https://github.com/moefyit/vuepress-plugin-meting/blob/main/LICENSE" target="_blank"><img alt="GitHub license" src="https://img.shields.io/github/license/moefyit/vuepress-plugin-meting"></a>
 </p>
 
 -  Document: [moefy-vuepress](https://moefyit.github.io/moefy-vuepress/)
--  LiveDemo: [notev](https://nyakku.moe/)
+-  Live demo: [notev](https://nyakku.moe/)
 
 <Meting server="netease"
         type="playlist"
