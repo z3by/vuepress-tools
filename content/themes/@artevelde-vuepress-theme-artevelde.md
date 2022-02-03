@@ -40,23 +40,23 @@ VuePress theme for use at Artevelde University of Applied Sciences, based on htt
 
 Install in a VuePress project.
 
-    $ npm add -D @artevelde/vuepress-theme-artevelde
+    $ yarn add -D @artevelde/vuepress-theme-artevelde
 
 ### Publish to NPM
 
 Run NPM scripts in this exact order.
 
-    1. `npm run git:add-new`
-    2. `npm run git:commit`
-    3. `npm run npm:version-0.0.x` (or one of the others)
-    4. `npm run npm:publish-push`
+    1. `yarn run git:add-new`
+    2. `yarn run git:commit`
+    3. `yarn run npm:version-0.0.x` (or one of the others)
+    4. `yarn run npm:publish-push`
 
 ### Link Local
 
 Link in this local repo.
 
-    $ npm link
+    $ yarn link
 
 Link in the VuePress project local repo.
 
-    $ npm link @artevelde/vuepress-theme-artevelde
+    $ yarn link @artevelde/vuepress-theme-artevelde

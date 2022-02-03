@@ -28,10 +28,10 @@ publisher:
   username: ptandler
 repository: https://github.com/ptandler/vuepress-theme-single-page-sections
 score: 0.514428837467874
-stars: 1
+stars: 2
 unstable: false
 version: 1.1.4
-watchers: 1
+watchers: 2
 
 ---
 

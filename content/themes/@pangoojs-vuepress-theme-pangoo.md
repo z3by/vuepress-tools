@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/56213412?v=4
   email: null
   name: null
   url: null
-  username: null
+  username: pangoojs
 bugs: https://github.com/pangoojs/pangoo/issues
 category: themes
 date: '2020-01-18T12:42:49.635Z'
@@ -18,7 +18,7 @@ keywords:
 - theme
 - pangoojs
 - pangoo
-license: null
+license: MIT License
 maintainers: null
 name: '@pangoojs/vuepress-theme-pangoo'
 npm: https://www.npmjs.com/package/%40pangoojs%2Fvuepress-theme-pangoo
