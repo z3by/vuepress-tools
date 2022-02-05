@@ -17,7 +17,7 @@ keywords:
 - plugin
 - meting
 - aplayer
-license: Other
+license: MIT License
 maintainers: null
 name: vuepress-plugin-meting
 npm: https://www.npmjs.com/package/vuepress-plugin-meting

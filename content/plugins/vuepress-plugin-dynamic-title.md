@@ -16,7 +16,7 @@ keywords:
 - vuepress
 - plugin
 - title
-license: Other
+license: MIT License
 maintainers: null
 name: vuepress-plugin-dynamic-title
 npm: https://www.npmjs.com/package/vuepress-plugin-dynamic-title

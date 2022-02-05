@@ -16,7 +16,7 @@ keywords:
 - vuepress
 - plugin
 - ribbon
-license: Other
+license: MIT License
 maintainers: null
 name: vuepress-plugin-ribbon
 npm: https://www.npmjs.com/package/vuepress-plugin-ribbon

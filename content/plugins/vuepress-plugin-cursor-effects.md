@@ -17,7 +17,7 @@ keywords:
 - plugin
 - cursor
 - effects
-license: Other
+license: MIT License
 maintainers: null
 name: vuepress-plugin-cursor-effects
 npm: https://www.npmjs.com/package/vuepress-plugin-cursor-effects
@@ -29,10 +29,10 @@ publisher:
   username: sigure_mo
 repository: https://github.com/moefyit/vuepress-plugin-cursor-effects
 score: 0.555076467601269
-stars: 15
+stars: 16
 unstable: false
 version: 1.0.2
-watchers: 15
+watchers: 16
 
 ---
 

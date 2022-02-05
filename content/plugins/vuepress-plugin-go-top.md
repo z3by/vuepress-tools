@@ -17,7 +17,7 @@ keywords:
 - plugin
 - cat
 - back-to-top
-license: Other
+license: MIT License
 maintainers: null
 name: vuepress-plugin-go-top
 npm: https://www.npmjs.com/package/vuepress-plugin-go-top
