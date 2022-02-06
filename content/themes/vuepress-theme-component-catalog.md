@@ -32,3 +32,4 @@ watchers: 1
 
 ---
 
+# vuepress-theme-component-catalog
