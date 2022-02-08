@@ -25,10 +25,10 @@ publisher:
   username: romakita
 repository: https://github.com/tsedio/vuepress-theme-tsed
 score: 0.5957955876254482
-stars: 4
+stars: 5
 unstable: false
 version: 3.16.1
-watchers: 4
+watchers: 5
 
 ---
 
