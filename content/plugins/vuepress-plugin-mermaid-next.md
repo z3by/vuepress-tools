@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/30686223?v=4
+  avatar: null
   email: howe.personal@gmail.com
   name: LiHowe
   url: null
@@ -18,7 +18,7 @@ keywords:
 - vuepress-plugin
 - vuepress-next
 - mermaid
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-plugin-mermaid-next
 npm: https://www.npmjs.com/package/vuepress-plugin-mermaid-next
@@ -37,45 +37,3 @@ watchers: 0
 
 ---
 
-# vuepress-plugin-mermaid-next
-
-> This plugin is only for `vuepress-next`
-
-## Usage
-
-### Install
-
-```shell
-# use npm
-npm install vuepress-plugin-mermaid-next
-
-# use yarn
-yarn add vuepress-plugin-mermaid-next
-```
-
-### `.vuepress/config.ts` or (`config.js`)
-
-```typescript
-export default {
-  // ...
-  plugins: [
-    // ...other plugins
-    ['mermaid-next', {}]
-  ]
-  // ...
-}
-```
-
-### Plugin Settings
-
-You can config mermaid by using plugin settings.
-
-The settings you configured will be use in `mermaid.initialize()`
-
-Fully configuration fields can be find in [Mermaid - Configuration](https://mermaid-js.github.io/mermaid/#/./Setup?id=mermaidapi-configuration-defaults)
-
-
-## TODO
-
-- [ ] Extra Preset Theme[WIP]
-- [ ] Toolbar for download[WIP]
