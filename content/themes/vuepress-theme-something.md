@@ -28,10 +28,10 @@ publisher:
   username: vczyh
 repository: https://github.com/vczyh/vuepress-theme-something
 score: 0.38259248098636545
-stars: 4
+stars: 3
 unstable: false
 version: 1.0.43
-watchers: 4
+watchers: 3
 
 ---
 
