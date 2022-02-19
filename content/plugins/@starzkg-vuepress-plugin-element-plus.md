@@ -29,10 +29,10 @@ publisher:
   username: starzkg
 repository: https://github.com/vuepress/vuepress-next
 score: 0.5980759075621169
-stars: 935
+stars: 937
 unstable: true
 version: 1.0.0-beta.11
-watchers: 935
+watchers: 937
 
 ---
 
