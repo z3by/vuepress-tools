@@ -30,10 +30,10 @@ publisher:
   username: octref
 repository: https://github.com/octref/shiki
 score: 0.6160114463275784
-stars: 3074
+stars: 3077
 unstable: true
 version: 0.10.0
-watchers: 3074
+watchers: 3077
 
 ---
 
@@ -48,7 +48,6 @@ watchers: 3074
 
 ```sh
 npm i shiki
-# yarn add shiki
 ```
 
 ```js
