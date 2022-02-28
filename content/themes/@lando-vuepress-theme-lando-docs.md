@@ -27,10 +27,10 @@ publisher:
   username: pirog
 repository: https://github.com/lando/vuepress-theme-lando-docs
 score: 0.49985578473645365
-stars: 0
+stars: 1
 unstable: true
 version: 0.2.3
-watchers: 0
+watchers: 1
 
 ---
 
