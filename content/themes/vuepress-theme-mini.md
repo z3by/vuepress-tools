@@ -25,10 +25,10 @@ publisher:
   username: wxsm
 repository: https://github.com/wxsms/vuepress-theme-mini
 score: 0.5520188485535433
-stars: 20
+stars: 21
 unstable: false
 version: 3.1.1
-watchers: 20
+watchers: 21
 
 ---
 
