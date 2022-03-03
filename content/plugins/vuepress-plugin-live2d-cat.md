@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/19198355?v=4
+  avatar: null
   email: null
   name: null
   url: null
-  username: artiely
+  username: null
 bugs: https://github.com/artiely/vuepress-plugin-live2d-cat/issues
 category: plugins
 date: '2020-04-07T03:52:29.070Z'
@@ -13,7 +13,7 @@ description: 1. install `npm i vuepress-plugin-live2d-cat -S`
 downloads: null
 homepage: https://github.com/artiely/vuepress-plugin-live2d-cat#readme
 keywords: null
-license: false
+license: null
 maintainers: null
 name: vuepress-plugin-live2d-cat
 npm: https://www.npmjs.com/package/vuepress-plugin-live2d-cat

@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/15069983?v=4
+  avatar: null
   email: omerbuyukcelik@gmail.com
   name: "\xD6mer B\xFCy\xFCk\xE7elik"
   url: null
@@ -17,7 +17,7 @@ keywords:
 - vue
 - vuepress
 - generator
-license: false
+license: null
 maintainers: null
 name: vuepress-plugin-google-tag-manager
 npm: https://www.npmjs.com/package/vuepress-plugin-google-tag-manager
@@ -29,84 +29,10 @@ publisher:
   username: bykclk
 repository: https://github.com/bykclk/vuepress-plugin-google-tag-manager
 score: 0.3750044050541388
-stars: 8
+stars: 0
 unstable: true
 version: 0.0.5
-watchers: 8
+watchers: 0
 
 ---
 
-# vuepress-plugin-google-tag-manager
-
-> vuepress-plugin-google-tag-manager plugin for vuepress
-
-## Install
-
-```
-npm i vuepress-plugin-google-tag-manager --save
-```
-or
-```
-yarn add vuepress-plugin-google-tag-manager
-```
-
-## Configuration
-
-```javascript
-module.exports = {
-  plugins: ['vuepress-plugin-google-tag-manager'] 
-}
-```
-
-## Options
-
-### gtm
-
-- Type: `string`
-- Default: `undefined`
-
-Provide the Google Tag Manager ID to enable integration.
-
-## Documentation
-
-Once the configuration is completed, you can access vue gtm instance in your components like that :
-
-```javascript
-export default {
-  name: 'MyComponent',
-  data() {
-    return {
-      someData: false
-    };
-  },
-  methods: {
-    onClick: function() {
-      this.$gtm.trackEvent({
-        event: null, // Event type [default = 'interaction'] (Optional)
-        category: 'Calculator',
-        action: 'click',
-        label: 'Home page SIP calculator',
-        value: 5000,
-        noninteraction: false // Optional
-      });
-    }
-  },
-  mounted() {
-    this.$gtm.trackView('MyScreenName', 'currentpath');
-  }
-};
-```
-
-The passed variables are mapped with GTM data layer as follows
-
-```
-dataLayer.push({
-	'event': event || 'interaction',
-	'target': category,
-	'action': action,
-	'target-properties': label,
-	'value': value,
-	'interaction-type': noninteraction,
-	...rest
-});
-```
