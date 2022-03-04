@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/82188?v=4
+  avatar: https://avatars.githubusercontent.com/u/6147452?v=4
   email: null
   name: Axway Appcelerator
   url: null
-  username: appcelerator
+  username: tidev
 bugs: https://github.com/appcelerator/docs-devkit/issues
 category: plugins
 date: '2021-03-09T21:11:14.605Z'
