@@ -32,10 +32,10 @@ publisher:
   username: evan_xu
 repository: https://github.com/xugaoyi/vuepress-theme-vdoing
 score: 0.5963193425770961
-stars: 1809
+stars: 1811
 unstable: false
 version: 1.9.4
-watchers: 1809
+watchers: 1811
 
 ---
 
@@ -129,7 +129,7 @@ npm run dev # or yarn dev
       </td>
       <td align="center" valign="middle">
         <img src="https://cdn.jsdelivr.net/gh/xugaoyi/image_store@master/qq.3ugglfuuwz00.webp" alt="群号: 694387113" class="no-zoom" style="width:120px;margin: 10px;">
-        <p>vdoing QQ群(已满): 694387113</p>
+        <p>vdoing QQ群: 694387113</p>
       </td>
     </tr>
   </tbody>
