@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/42461471?v=4
+  avatar: null
   email: null
   name: nav
   url: null
-  username: zeroNav
+  username: null
 bugs: https://github.com/zeroNav/vuepress-theme-nav/issues
 category: themes
 date: '2018-09-07T06:59:30.215Z'
@@ -15,7 +15,7 @@ homepage: https://github.com/zeroNav/vuepress-theme-nav
 keywords:
 - vuepress
 - theme
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-theme-nav
 npm: https://www.npmjs.com/package/vuepress-theme-nav
