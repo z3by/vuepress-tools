@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/52195988?v=4
   email: null
   name: Du Fajun
   url: null
-  username: null
+  username: xiaoxiaofei2016
 bugs: https://github.com/xiaoxiaofei2016/vuepress-theme-elementdocs/issues
 category: themes
 date: '2020-07-27T11:57:56.778Z'
@@ -20,7 +20,7 @@ keywords:
 - elementuidocs
 - element-ui
 - sass
-license: null
+license: false
 maintainers: null
 name: vuepress-theme-elementuidocs
 npm: https://www.npmjs.com/package/vuepress-theme-elementuidocs
@@ -32,10 +32,10 @@ publisher:
   username: dufajun
 repository: https://github.com/xiaoxiaofei2016/vuepress-theme-elementdocs
 score: 0.25993682259023465
-stars: 0
+stars: 2
 unstable: false
 version: 2.4.8
-watchers: 0
+watchers: 2
 
 ---
 
