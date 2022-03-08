@@ -4,7 +4,7 @@ author:
   email: null
   name: null
   url: null
-  username: realkimmy
+  username: see
 bugs: https://github.com/upcwangying/vuepress-plugin-dplayer/issues
 category: plugins
 date: '2020-02-25T07:55:46.827Z'
