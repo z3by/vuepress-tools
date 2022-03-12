@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/45766545?v=4
   email: developers@spacelephant.org
   name: Space Elephant SAS
   url: null
-  username: null
+  username: spacelephantlabs
 bugs: https://github.com/spacelephantlabs/vuepress-plugin-matomo-spacelephant/issues
 category: plugins
 date: '2021-06-21T13:26:07.618Z'
@@ -20,7 +20,7 @@ keywords:
 - matomo
 - spacelephant
 - space elephant
-license: null
+license: MIT License
 maintainers: null
 name: '@spacelephantlabs/vuepress-plugin-matomo-spacelephant'
 npm: https://www.npmjs.com/package/%40spacelephantlabs%2Fvuepress-plugin-matomo-spacelephant
