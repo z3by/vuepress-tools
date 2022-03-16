@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/25240064?v=4
+  avatar: null
   email: 2434387555@qq.com
   name: JoeyBling
   url: https://zhousiwei.gitee.io
@@ -21,7 +21,7 @@ keywords:
 - generator
 - customization
 - yilia-plus
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-theme-yilia-plus
 npm: https://www.npmjs.com/package/vuepress-theme-yilia-plus
@@ -33,10 +33,10 @@ publisher:
   username: zhousiwei
 repository: https://github.com/JoeyBling/vuepress-theme-yilia-plus
 score: 0.2810857359359751
-stars: 40
+stars: 0
 unstable: false
 version: 1.0.0
-watchers: 40
+watchers: 0
 
 ---
 
