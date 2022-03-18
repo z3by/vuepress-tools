@@ -30,10 +30,10 @@ publisher:
   username: igby
 repository: https://github.com/andreasvirkus/vuepress-theme-ajv
 score: 0.3377638690424005
-stars: 5
+stars: 4
 unstable: false
 version: 1.0.2
-watchers: 5
+watchers: 4
 
 ---
 
