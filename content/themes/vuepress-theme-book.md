@@ -17,7 +17,7 @@ keywords:
 - theme
 - gitbook
 - vuepress-theme
-license: MIT License
+license: false
 maintainers: null
 name: vuepress-theme-book
 npm: https://www.npmjs.com/package/vuepress-theme-book
@@ -29,10 +29,10 @@ publisher:
   username: cyrilf
 repository: https://github.com/cyrilf/vuepress-theme-book
 score: 0.4346960704160928
-stars: 98
+stars: 99
 unstable: true
 version: 0.0.6
-watchers: 98
+watchers: 99
 
 ---
 
