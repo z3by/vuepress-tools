@@ -7,19 +7,20 @@ author:
   username: vuepress-theme-hope
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues
 category: plugins
-date: '2022-02-22T11:50:48.904Z'
+date: '2022-02-22T11:50:48.740Z'
 deprecated: false
-description: A common palette plugin for vuepress themes and plugins
+description: Blog plugin for VuePress
 downloads: null
-homepage: https://vuepress-theme-hope.github.io/v2/sass-palette/
+homepage: https://vuepress-theme-hope.github.io/v2/blog/
 keywords:
 - vuepress-plugin
 - vuepress
-- palette
+- blog
+- mr-hope
 license: MIT License
 maintainers: null
-name: vuepress-plugin-sass-palette
-npm: https://www.npmjs.com/package/vuepress-plugin-sass-palette
+name: vuepress-plugin-blog2
+npm: https://www.npmjs.com/package/vuepress-plugin-blog2
 publisher:
   avatar: null
   email: zhangbowang1998@gmail.com
@@ -27,7 +28,7 @@ publisher:
   url: null
   username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
-score: 0.6806254623649426
+score: 0.6798957283823591
 stars: 405
 unstable: false
 version: 2.0.0-alpha.33

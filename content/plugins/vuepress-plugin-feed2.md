@@ -1,17 +1,17 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/78192711?v=4
-  email: zhangbowang1998@gmail.com
+  email: mister-hope@outlook.com
   name: Mr.Hope
   url: https://mrhope.site
-  username: mister-hope
+  username: vuepress-theme-hope
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues
 category: plugins
-date: '2021-06-08T15:09:29.320Z'
+date: '2022-02-22T11:50:48.978Z'
 deprecated: false
 description: Feed plugin for vuepress-theme-hope
 downloads: null
-homepage: https://vuepress-theme-hope.github.io/feed/
+homepage: https://vuepress-theme-hope.github.io/v2/feed/
 keywords:
 - vuepress-plugin
 - vuepress
@@ -27,11 +27,11 @@ publisher:
   url: null
   username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
-score: 0.6407961066987973
-stars: 403
+score: 0.6799364512872144
+stars: 405
 unstable: false
-version: 2.0.0-alpha.0
-watchers: 403
+version: 2.0.0-alpha.33
+watchers: 405
 
 ---
 

@@ -7,11 +7,11 @@ author:
   username: mister-hope
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues
 category: plugins
-date: '2022-01-04T13:08:47.783Z'
+date: '2022-03-19T08:49:13.091Z'
 deprecated: false
 description: components plugin for vuepress-theme-hope
 downloads: null
-homepage: https://github.com/vuepress-theme-hope/vuepress-theme-hope/tree/v1/packages/components#readme
+homepage: https://vuepress-theme-hope.github.io/v1/components/
 keywords:
 - vuepress-plugin
 - components
@@ -26,11 +26,11 @@ publisher:
   url: null
   username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
-score: 0.6782592317592838
-stars: 403
+score: 0.6665706049416693
+stars: 405
 unstable: false
-version: 1.23.0
-watchers: 403
+version: 1.28.4
+watchers: 405
 
 ---
 

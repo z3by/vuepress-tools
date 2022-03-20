@@ -7,11 +7,11 @@ author:
   username: mister-hope
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues
 category: plugins
-date: '2022-01-04T13:08:48.080Z'
+date: '2022-03-18T04:09:41.119Z'
 deprecated: false
 description: Photo Swipe plugin for vuepress
 downloads: null
-homepage: https://vuepress-theme-hope.github.io/photo-swipe/
+homepage: https://vuepress-theme-hope.github.io/v1/photo-swipe/
 keywords:
 - vuepress-plugin
 - vuepress
@@ -30,11 +30,11 @@ publisher:
   url: null
   username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
-score: 0.684309389955315
-stars: 403
+score: 0.6840604780453321
+stars: 405
 unstable: false
-version: 1.23.0
-watchers: 403
+version: 1.28.3
+watchers: 405
 
 ---
 

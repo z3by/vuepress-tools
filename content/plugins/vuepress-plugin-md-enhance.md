@@ -7,11 +7,11 @@ author:
   username: mister-hope
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues
 category: plugins
-date: '2022-01-04T13:08:48.639Z'
+date: '2022-03-18T04:09:42.396Z'
 deprecated: false
 description: Markdown enhancement for vuepress
 downloads: null
-homepage: https://vuepress-theme-hope.github.io/md-enhance/
+homepage: https://vuepress-theme-hope.github.io/v1/md-enhance/
 keywords:
 - vuepress-plugin
 - markdown
@@ -37,11 +37,11 @@ publisher:
   url: null
   username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
-score: 0.6713684014557973
-stars: 403
+score: 0.6785575225643652
+stars: 405
 unstable: false
-version: 1.23.0
-watchers: 403
+version: 1.28.3
+watchers: 405
 
 ---
 
