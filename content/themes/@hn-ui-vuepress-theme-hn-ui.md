@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/67731228?v=4
+  avatar: https://avatars.githubusercontent.com/u/19725091?v=4
   email: null
   name: null
   url: null
-  username: hn-ui
+  username: see
 bugs: https://github.com/hn-ui/hn-ui/issues
 category: themes
 date: '2020-07-15T08:43:18.077Z'
