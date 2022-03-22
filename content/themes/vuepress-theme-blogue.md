@@ -25,10 +25,10 @@ publisher:
   username: ocavue
 repository: https://github.com/ocavue/vuepress-theme-blogue
 score: 0.5169879367578274
-stars: 11
+stars: 12
 unstable: true
 version: 0.8.1
-watchers: 11
+watchers: 12
 
 ---
 
