@@ -30,10 +30,10 @@ publisher:
   username: momoko
 repository: https://github.com/komomoo/vuepress-theme-resume
 score: 0.595585799108781
-stars: 284
+stars: 283
 unstable: false
 version: 1.0.2
-watchers: 284
+watchers: 283
 
 ---
 
