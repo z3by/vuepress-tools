@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/6533126?v=4
   email: liuwave@qq.com
   name: liuwave
   url: null
@@ -23,7 +23,7 @@ keywords:
 - plugin
 - twitter
 - weibo
-license: null
+license: MIT License
 maintainers: null
 name: '@liuwave/vuepress-plugin-social-share'
 npm: https://www.npmjs.com/package/%40liuwave%2Fvuepress-plugin-social-share
