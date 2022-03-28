@@ -7,7 +7,7 @@ author:
   username: eFrane
 bugs: https://github.com/eFrane/vuepress-plugin-mermaidjs/issues
 category: plugins
-date: '2021-12-22T18:39:57.635Z'
+date: '2022-03-27T08:51:54.584Z'
 deprecated: false
 description: A Vuepress plugin providing easy MermaidJS diagramming
 downloads: null
@@ -30,10 +30,10 @@ publisher:
   url: null
   username: efrane
 repository: https://github.com/eFrane/vuepress-plugin-mermaidjs
-score: 0.6666965892660222
+score: 0.6694746830446959
 stars: 62
 unstable: false
-version: 1.9.0
+version: 2.0.0-beta.2
 watchers: 62
 
 ---
@@ -94,7 +94,7 @@ a fenced code block with the language 'mermaid':
 ## VuePress 2 Support
 
 You can use this plugin with the upcoming (`next`) release of VuePress
-aka VuePress 2. To do so, use version `2.0-beta.1` or above. 
+aka VuePress 2. To do so, use version `2.0.0-beta.1` or above. 
 
 [1]: https://vuepress.vuejs.org
 [2]: https://mermaidjs.github.io

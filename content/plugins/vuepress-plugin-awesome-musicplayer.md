@@ -40,6 +40,9 @@ watchers: 19
 ## 说明
 该插件参考了[vue-netease-music](https://github.com/sl1673495/vue-netease-music)，把Mac端的网易云播放器界面的部分功能做成了vuepress插件，让用户在vuepress里也有同样的音乐体验，接口来自 [保罗API](https://api.paugram.com/help/netease)。
 ## 安装
+
+建议[Node.js](https://nodejs.org/)版本=12.x，过高的版本可能导致安装失败
+
 ```bash
 npm install vuepress-plugin-awesome-musicplayer -D
 ```
@@ -68,7 +71,7 @@ npm install vuepress-plugin-awesome-musicplayer -D
 ### 引入
 在想要插入播放器的Markdown页面，加入以下代码即可：
 ``` html
-<MusicPlayer musicId="xxx" musicSrc="xxx.mp3" style="margin:0 auto">
+<MusicPlayer musicId="xxx" musicSrc="xxx.mp3" style="margin:0 auto" />
 ```
 ### 主题
 如果想改变主题，添加 `theme` 参数即可，默认是 `apple` 主题：

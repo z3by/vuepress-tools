@@ -7,11 +7,11 @@ author:
   username: vuepress-theme-hope
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues
 category: plugins
-date: '2022-02-22T11:50:49.218Z'
+date: '2022-03-20T18:47:00.906Z'
 deprecated: false
 description: Sitemap plugin for vuepress
 downloads: null
-homepage: https://github.com/vuepress-theme-hope/vuepress-theme-hope#readme
+homepage: https://vuepress-theme-hope.github.io/v2/sitemap/
 keywords:
 - vuepress-plugin
 - sitemap
@@ -26,11 +26,11 @@ publisher:
   url: null
   username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
-score: 0.6509771636851154
-stars: 417
+score: 0.6811568595606666
+stars: 419
 unstable: false
-version: 2.0.0-alpha.33
-watchers: 417
+version: 2.0.0-beta.24
+watchers: 419
 
 ---
 
