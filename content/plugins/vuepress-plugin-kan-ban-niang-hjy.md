@@ -7,7 +7,7 @@ author:
   username: null
 bugs: https://github.com/vuepress-reco/vuepress-plugin-kan-ban-niang/issues
 category: plugins
-date: '2022-03-28T00:59:16.430Z'
+date: '2022-03-28T10:17:27.841Z'
 deprecated: false
 description: Kan-ban-niang plugin for vuepress-theme-reco or other vuepress theme
 downloads: null
@@ -27,10 +27,10 @@ publisher:
   url: null
   username: cschero101
 repository: https://github.com/vuepress-reco/vuepress-plugin-kan-ban-niang
-score: 0.20624501927368832
+score: 0.20958242500281793
 stars: 0
 unstable: false
-version: 1.1.1
+version: 1.1.2
 watchers: 0
 
 ---
