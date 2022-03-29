@@ -7,19 +7,21 @@ author:
   username: gavinliu0606
 bugs: https://github.com/gavinliu6/vuepress-theme-mix/issues
 category: themes
-date: '2022-03-28T04:45:24.652Z'
+date: '2022-03-28T04:45:23.592Z'
 deprecated: false
-description: A VuePress theme with a mix of features
+description: VuePress theme mix plugin - back top
 downloads: null
 homepage: https://github.com/gavinliu6/vuepress-theme-mix
 keywords:
-- vuepress-theme
+- vuepress-theme-mix
+- vuepress-plugin
 - vuepress
-- vue
+- plugin
+- back-top
 license: MIT License
 maintainers: null
-name: vuepress-theme-mix
-npm: https://www.npmjs.com/package/vuepress-theme-mix
+name: '@vuepress-theme-mix/vuepress-plugin-back-top'
+npm: https://www.npmjs.com/package/%40vuepress-theme-mix%2Fvuepress-plugin-back-top
 publisher:
   avatar: null
   email: gavinliu0606@gmail.com
@@ -27,7 +29,7 @@ publisher:
   url: null
   username: gavinliu0606
 repository: https://github.com/gavinliu6/vuepress-theme-mix
-score: 0.5493422984824703
+score: 0.5487894289683123
 stars: 25
 unstable: false
 version: 1.3.0
