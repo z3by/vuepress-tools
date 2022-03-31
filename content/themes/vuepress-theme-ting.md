@@ -30,10 +30,10 @@ publisher:
   username: chenyating
 repository: https://github.com/Chenyating/vuepress-theme-ting
 score: 0.5001875508062201
-stars: 110
+stars: 111
 unstable: false
 version: 2.0.2
-watchers: 110
+watchers: 111
 
 ---
 
