@@ -7,7 +7,7 @@ author:
   username: vuejs
 bugs: https://github.com/vuejs/vuepress/issues
 category: plugins
-date: '2021-12-25T20:48:46.998Z'
+date: '2022-01-18T04:23:29.383Z'
 deprecated: false
 description: active-header-links plugin for vuepress
 downloads: null
@@ -28,11 +28,11 @@ publisher:
   url: null
   username: ulivz
 repository: https://github.com/vuejs/vuepress
-score: 0.5948435209792476
-stars: 20157
+score: 0.6259227560303231
+stars: 20165
 unstable: false
-version: 1.9.5
-watchers: 20157
+version: 1.9.7
+watchers: 20165
 
 ---
 
