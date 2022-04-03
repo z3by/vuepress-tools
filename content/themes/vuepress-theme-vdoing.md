@@ -32,10 +32,10 @@ publisher:
   username: evan_xu
 repository: https://github.com/xugaoyi/vuepress-theme-vdoing
 score: 0.6237405218642267
-stars: 1900
+stars: 1902
 unstable: false
 version: 1.10.1
-watchers: 1900
+watchers: 1902
 
 ---
 
@@ -70,7 +70,7 @@ watchers: 1900
 * 案例1：[知识库兼博客站](https://xugaoyi.com/)
 * 案例2：[仅博客站](https://xugaoyi.github.io/vdoing-demo-blog/)
 * 案例3：[仅知识库](https://xugaoyi.github.io/vdoing-demo-repository/)
-* 案例4：[文档站](https://xugaoyi.github.io/vuepress-theme-vdoing-doc/)
+* 案例4：[文档站](https://doc.xugaoyi.com/)
 
 
 ## 快速上手
