@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/25240064?v=4
+  avatar: null
   email: 2434387555@qq.com
   name: JoeyBling
   url: https://zhousiwei.gitee.io
@@ -23,7 +23,7 @@ keywords:
 - "\u7070\u8272"
 - "\u54C0\u60BC\u65E5"
 - yilia-plus
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-plugin-graypage
 npm: https://www.npmjs.com/package/vuepress-plugin-graypage
@@ -35,10 +35,10 @@ publisher:
   username: zhousiwei
 repository: https://github.com/JoeyBling/vuepress-plugin-graypage
 score: 0.4587662923454321
-stars: 3
+stars: 0
 unstable: true
 version: 0.1.2
-watchers: 3
+watchers: 0
 
 ---
 
