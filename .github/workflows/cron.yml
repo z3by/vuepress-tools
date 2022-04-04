@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Set up Python 3.9
-        uses: actions/setup-python@v1
+        uses: actions/setup-python@v3.1.0
         with:
           python-version: 3.9
       - name: Install dependencies
@@ -42,7 +42,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Set up Python 3.9
-        uses: actions/setup-python@v1
+        uses: actions/setup-python@v3.1.0
         with:
           python-version: 3.9
       - name: Install dependencies
