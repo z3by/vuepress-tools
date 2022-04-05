@@ -7,7 +7,7 @@ author:
   username: olivierparent
 bugs: https://github.com/gdmgent/vuepress-theme-artevelde/issues
 category: themes
-date: '2021-12-23T13:23:53.286Z'
+date: '2022-02-02T17:30:38.350Z'
 deprecated: false
 description: VuePress theme for Artevelde University of Applied Sciences.
 downloads: null
@@ -24,10 +24,10 @@ publisher:
   url: null
   username: olivierparent
 repository: https://github.com/gdmgent/vuepress-theme-artevelde
-score: 0.5130351611682247
+score: 0.5177594798236126
 stars: 0
 unstable: false
-version: 1.13.0
+version: 1.14.0
 watchers: 0
 
 ---
