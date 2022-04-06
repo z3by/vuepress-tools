@@ -26,7 +26,7 @@ publisher:
   url: null
   username: chavesgu
 repository: https://github.com/Yubisaki/vuepress-plugin-blog
-score: 0.06190068416497162
+score: 0.17917462919845592
 stars: 0
 unstable: false
 version: 1.0.4
