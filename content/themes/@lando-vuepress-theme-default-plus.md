@@ -29,7 +29,7 @@ publisher:
   url: null
   username: pirog
 repository: https://github.com/lando/vuepress-theme-default-plus
-score: 0.5121853232125266
+score: 0.5119131712983587
 stars: 1
 unstable: true
 version: 1.0.0-beta.30

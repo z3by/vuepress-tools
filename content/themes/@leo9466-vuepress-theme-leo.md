@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/71742460?v=4
+  avatar: null
   email: liayng.ok@outlook.com
   name: leo
   url: null
-  username: leo94666
+  username: null
 bugs: https://github.com/leo94666/leo94666.github.io/issues
 category: themes
 date: '2021-05-10T09:26:07.599Z'
@@ -13,7 +13,7 @@ description: '> TODO: description'
 downloads: null
 homepage: https://github.com/leo94666/leo94666.github.io#readme
 keywords: null
-license: false
+license: null
 maintainers: null
 name: '@leo9466/vuepress-theme-leo'
 npm: https://www.npmjs.com/package/%40leo9466%2Fvuepress-theme-leo
@@ -24,7 +24,7 @@ publisher:
   url: null
   username: leo946666
 repository: https://github.com/leo94666/leo94666.github.io
-score: 0.4185895070539182
+score: 0.14964758660906718
 stars: 0
 unstable: true
 version: 0.0.1-alpha.18
