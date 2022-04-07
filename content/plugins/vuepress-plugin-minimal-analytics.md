@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/246901?v=4
   email: webmasterish@gmail.com
   name: webmasterish
   url: https://webmasterish.com
@@ -19,7 +19,7 @@ keywords:
 - vuepress-plugin
 - analytics
 - google-analytics
-license: null
+license: MIT License
 maintainers: null
 name: vuepress-plugin-minimal-analytics
 npm: https://www.npmjs.com/package/vuepress-plugin-minimal-analytics
@@ -31,10 +31,10 @@ publisher:
   username: webmasterish
 repository: https://github.com/webmasterish/vuepress-plugin-minimal-analytics
 score: 0.42035467384434466
-stars: 0
+stars: 11
 unstable: true
 version: 0.1.4
-watchers: 0
+watchers: 11
 
 ---
 

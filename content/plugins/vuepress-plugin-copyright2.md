@@ -1,25 +1,26 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/78192711?v=4
-  email: zhangbowang1998@gmail.com
+  email: mister-hope@outlook.com
   name: Mr.Hope
   url: https://mrhope.site
-  username: mister-hope
+  username: vuepress-theme-hope
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues
 category: plugins
-date: '2021-11-14T16:33:00.573Z'
+date: '2022-04-05T18:02:42.431Z'
 deprecated: false
-description: Last update time plugin for vuepress
+description: Copyright plugin for VuePress
 downloads: null
-homepage: https://vuepress-theme-hope.github.io/git/
+homepage: https://github.com/vuepress-theme-hope/vuepress-theme-hope#readme
 keywords:
 - vuepress-plugin
 - vuepress
-- git
+- copyright
+- mr-hope
 license: MIT License
 maintainers: null
-name: '@mr-hope/vuepress-plugin-git'
-npm: https://www.npmjs.com/package/%40mr-hope%2Fvuepress-plugin-git
+name: vuepress-plugin-copyright2
+npm: https://www.npmjs.com/package/vuepress-plugin-copyright2
 publisher:
   avatar: null
   email: zhangbowang1998@gmail.com
@@ -27,11 +28,11 @@ publisher:
   url: null
   username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
-score: 0.6844816343077909
-stars: 453
+score: 0.686782335082815
+stars: 457
 unstable: false
-version: 1.21.0
-watchers: 453
+version: 2.0.0-beta.36
+watchers: 457
 
 ---
 

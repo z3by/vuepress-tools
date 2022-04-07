@@ -24,7 +24,7 @@ publisher:
   url: null
   username: kidonng
 repository: https://github.com/kidonng/vuepress-plugin-contributors
-score: 0.36801455405252803
+score: 0.31957877930328776
 stars: 0
 unstable: true
 version: 0.3.0

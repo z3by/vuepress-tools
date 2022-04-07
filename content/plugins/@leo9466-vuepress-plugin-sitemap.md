@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/71742460?v=4
+  avatar: null
   email: liyang.ok@outlook.com
   name: leo
   url: null
@@ -13,7 +13,7 @@ description: '> TODO: description'
 downloads: null
 homepage: https://github.com/leo94666/leo94666.github.io#readme
 keywords: null
-license: false
+license: null
 maintainers: null
 name: '@leo9466/vuepress-plugin-sitemap'
 npm: https://www.npmjs.com/package/%40leo9466%2Fvuepress-plugin-sitemap
@@ -24,7 +24,7 @@ publisher:
   url: null
   username: leo946666
 repository: https://github.com/leo94666/leo94666.github.io
-score: 0.5756875417460208
+score: 0.10670317416484254
 stars: 0
 unstable: false
 version: 1.0.1-alpha.0

@@ -30,7 +30,7 @@ publisher:
   url: null
   username: jinhang
 repository: https://github.com/jinhang87/vuepress-plugin-tailwind
-score: 0.6447295223434129
+score: 0.6471638020433337
 stars: 0
 unstable: false
 version: 4.0.4

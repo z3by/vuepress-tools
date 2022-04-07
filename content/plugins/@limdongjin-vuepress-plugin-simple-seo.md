@@ -28,7 +28,7 @@ publisher:
   url: null
   username: limdongjin
 repository: https://github.com/limdongjin/vuepress-plugin-simple-seo
-score: 0.36942736364163636
+score: 0.37290992788056654
 stars: 0
 unstable: false
 version: 1.0.4-alpha.5
