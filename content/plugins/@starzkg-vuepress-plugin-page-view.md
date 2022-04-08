@@ -11,7 +11,7 @@ date: '2021-11-15T15:49:49.905Z'
 deprecated: false
 description: A comment plugin for vuepress
 downloads: null
-homepage: https://vuepress-theme-hope.github.io/comment/
+homepage: https://github.com/vuepress-theme-hope/vuepress-theme-hope#readme
 keywords:
 - vuepress-plugin
 - vuepress-blog
@@ -30,7 +30,7 @@ publisher:
   url: null
   username: starzkg
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
-score: 0.1795562713227716
+score: 0.14998334014476095
 stars: 0
 unstable: true
 version: 1.0.0-beta.14

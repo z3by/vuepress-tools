@@ -29,7 +29,7 @@ publisher:
   url: null
   username: talltotal
 repository: https://github.com/talltotal/vuepress-plugin-editor
-score: 0.5378901077854843
+score: 0.48868444254450094
 stars: 0
 unstable: true
 version: 0.0.4

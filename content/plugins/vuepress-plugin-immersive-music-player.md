@@ -7,10 +7,10 @@ author:
   username: simonzhangs
 bugs: https://github.com/simonzhangs/vuepress-plugin-immersive-music-player/issues
 category: plugins
-date: '2022-04-05T14:28:43.610Z'
+date: '2022-04-07T07:20:01.631Z'
 deprecated: false
-description: "vuepress\u63D2\u4EF6-\u6C89\u6D78\u5F0F\u97F3\u4E50\u64AD\u653E\u5668\
-  \u63D2\u4EF6"
+description: "An immersive and personalized vuepress music plugin | \u4E00\u4E2A\u6C89\
+  \u6D78\u5F0F\u4E2A\u6027\u5316\u7684vuepress \u97F3\u4E50\u63D2\u4EF6"
 downloads: null
 homepage: https://github.com/simonzhangs/vuepress-plugin-immersive-music-player#readme
 keywords:
@@ -36,10 +36,10 @@ publisher:
   url: null
   username: simonzhangs
 repository: https://github.com/simonzhangs/vuepress-plugin-immersive-music-player
-score: 0.5469197575437623
+score: 0.5475147907500391
 stars: 1
 unstable: false
-version: 1.1.0
+version: 1.1.2
 watchers: 1
 
 ---
@@ -60,6 +60,7 @@ watchers: 1
 ### 新特性
 - 支持自定义配置播放歌单
 - 支持自定义配置播放进度条主题
+- 🌟 new! 支持用户界面直接输入歌单ID替换播放歌单，博客访问者可以在浏览博客时输入选择播放的歌单
 
 #### 安装
 

@@ -7,20 +7,28 @@ author:
   username: vuepress-star
 bugs: https://github.com/shentuzhigang/vuepress-theme-star/issues
 category: plugins
-date: '2021-12-25T17:58:18.533Z'
+date: '2021-11-28T12:05:53.435Z'
 deprecated: false
-description: Add This plugin for vuepress
+description: Markdown enhancement plugin for vuepress
 downloads: null
 homepage: https://github.com/shentuzhigang/vuepress-theme-star#readme
 keywords:
 - vuepress-plugin
-- vuepress
-- add-this
-- share
+- markdown
+- align
+- superscript
+- subscript
+- footnote
+- flowchart
+- tex
+- katex
+- mark
+- presentation
+- reveal.js
 license: MIT License
 maintainers: null
-name: '@starzkg/vuepress-plugin-add-this'
-npm: https://www.npmjs.com/package/%40starzkg%2Fvuepress-plugin-add-this
+name: '@starzkg/vuepress-plugin-markdown-enhance'
+npm: https://www.npmjs.com/package/%40starzkg%2Fvuepress-plugin-markdown-enhance
 publisher:
   avatar: null
   email: shentuzhigang@qq.com
@@ -28,10 +36,10 @@ publisher:
   url: null
   username: starzkg
 repository: https://github.com/shentuzhigang/vuepress-theme-star
-score: 0.5518662236523321
+score: 0.5366818535896933
 stars: 1
 unstable: true
-version: 1.0.0-beta.24
+version: 1.0.0-beta.17
 watchers: 1
 
 ---

@@ -29,7 +29,7 @@ publisher:
   url: null
   username: pengzhanbo
 repository: https://github.com/pengzhanbo/vuepress-plugin-caniuse
-score: 0.5157934847449959
+score: 0.5163411251492763
 stars: 0
 unstable: false
 version: 1.0.2

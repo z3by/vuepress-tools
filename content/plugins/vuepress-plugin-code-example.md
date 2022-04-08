@@ -30,10 +30,10 @@ publisher:
   username: taoguo
 repository: https://github.com/Tickly/vuepress-plugin-code-example
 score: 0.5086086286714492
-stars: 1
+stars: 2
 unstable: false
 version: 1.1.0
-watchers: 1
+watchers: 2
 
 ---
 

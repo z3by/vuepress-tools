@@ -11,7 +11,7 @@ date: '2021-12-27T13:52:46.775Z'
 deprecated: false
 description: VuePress theme Gungnir plugin - built-in search
 downloads: null
-homepage: https://github.com/Renovamen/vuepress-theme-gungnir#readme
+homepage: https://github.com/Renovamen/vuepress-theme-gungnir/tree/main/packages/plugins/search
 keywords: null
 license: Apache License 2.0
 maintainers: null
@@ -24,7 +24,7 @@ publisher:
   url: null
   username: renovamen
 repository: https://github.com/Renovamen/vuepress-theme-gungnir
-score: 0.568491405292328
+score: 0.5844073895041242
 stars: 185
 unstable: false
 version: 2.0.0-alpha.4
