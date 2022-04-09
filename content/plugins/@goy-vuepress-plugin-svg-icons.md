@@ -7,7 +7,7 @@ author:
   username: ntnyq
 bugs: https://github.com/ntnyq/vuepress-plugin-svg-icons/issues
 category: plugins
-date: '2021-02-01T01:12:50.351Z'
+date: '2022-04-08T01:26:50.993Z'
 deprecated: false
 description: SVG sprite icon plugin for VuePress
 downloads: null
@@ -29,11 +29,11 @@ publisher:
   url: null
   username: ntnyq
 repository: https://github.com/ntnyq/vuepress-plugin-svg-icons
-score: 0.6248334404138659
-stars: 15
+score: 0.47216851310451424
+stars: 16
 unstable: false
-version: 4.2.3
-watchers: 15
+version: 4.3.0
+watchers: 16
 
 ---
 

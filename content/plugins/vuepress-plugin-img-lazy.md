@@ -31,10 +31,10 @@ publisher:
   username: tolking
 repository: https://github.com/tolking/vuepress-plugin-img-lazy
 score: 0.4649293645884728
-stars: 18
+stars: 19
 unstable: false
 version: 1.0.4
-watchers: 18
+watchers: 19
 
 ---
 

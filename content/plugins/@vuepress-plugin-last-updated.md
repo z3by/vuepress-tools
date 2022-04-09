@@ -7,7 +7,7 @@ author:
   username: vuejs
 bugs: https://github.com/vuejs/vuepress/issues
 category: plugins
-date: '2021-12-25T20:48:47.875Z'
+date: '2022-01-18T04:23:29.305Z'
 deprecated: false
 description: last-updated plugin for vuepress
 downloads: null
@@ -28,11 +28,11 @@ publisher:
   url: null
   username: ulivz
 repository: https://github.com/vuejs/vuepress
-score: 0.6195398932292724
-stars: 20179
+score: 0.6594111372154509
+stars: 20188
 unstable: false
-version: 1.9.5
-watchers: 20179
+version: 1.9.7
+watchers: 20188
 
 ---
 

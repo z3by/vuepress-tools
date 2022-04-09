@@ -7,19 +7,18 @@ author:
   username: reco_luan
 bugs: https://github.com/recoluan/vuepress-theme-reco-next/issues
 category: plugins
-date: '2021-09-16T15:44:29.312Z'
+date: '2022-01-25T17:08:01.047Z'
 deprecated: false
-description: A simple blog plugin for vuepress-theme-reco.
+description: A vue component preview plugin for vuepress-theme-reco.
 downloads: null
 homepage: https://github.com/recoluan/vuepress-theme-reco-next#readme
 keywords:
 - vuepress-plugin
 - vuepress
-- blog
 license: MIT License
 maintainers: null
-name: '@vuepress-reco/vuepress-plugin-page'
-npm: https://www.npmjs.com/package/%40vuepress-reco%2Fvuepress-plugin-page
+name: '@vuepress-reco/vuepress-plugin-vue-preview'
+npm: https://www.npmjs.com/package/%40vuepress-reco%2Fvuepress-plugin-vue-preview
 publisher:
   avatar: null
   email: recoluan@outlook.com
@@ -27,10 +26,10 @@ publisher:
   url: null
   username: reco_luan
 repository: https://github.com/recoluan/vuepress-theme-reco-next
-score: 0.5885765158064772
+score: 0.6159955708792108
 stars: 101
 unstable: false
-version: 2.0.1-alpha.0
+version: 2.0.1-alpha.27
 watchers: 101
 
 ---
