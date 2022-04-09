@@ -31,10 +31,10 @@ publisher:
   username: tolking
 repository: https://github.com/tolking/vuepress-theme-default-prefers-color-scheme
 score: 0.5046952271426346
-stars: 50
+stars: 51
 unstable: false
 version: 2.0.0
-watchers: 50
+watchers: 51
 
 ---
 

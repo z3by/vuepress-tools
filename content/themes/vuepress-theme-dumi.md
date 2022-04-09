@@ -7,7 +7,7 @@ author:
   username: wukd
 bugs: https://github.com/wukd/vuepress-dumi/issues
 category: themes
-date: '2022-04-07T02:36:58.831Z'
+date: '2022-04-08T01:48:20.616Z'
 deprecated: false
 description: "\U0001F4D6 A dumi style theme for VuePress2."
 downloads: null
@@ -26,10 +26,10 @@ publisher:
   url: null
   username: wukd
 repository: https://github.com/wukd/vuepress-dumi
-score: 0.36793579426370704
+score: 0.48661881585090355
 stars: 0
 unstable: true
-version: 0.1.0
+version: 0.1.1
 watchers: 0
 
 ---

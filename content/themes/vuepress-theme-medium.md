@@ -32,10 +32,10 @@ publisher:
   username: z3bya
 repository: https://github.com/z3by/vuepress-theme-medium
 score: 0.3914663679912197
-stars: 18
+stars: 19
 unstable: true
 version: 0.1.0
-watchers: 18
+watchers: 19
 
 ---
 

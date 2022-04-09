@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/58064072?v=4
   email: null
   name: dshu
   url: null
-  username: null
+  username: dshuu
 bugs: https://github.com/dshuu/vuepress-theme-yolo/issues
 category: themes
 date: '2020-09-02T07:56:58.374Z'
@@ -16,7 +16,7 @@ keywords:
 - vuepress
 - vue
 - theme
-license: null
+license: false
 maintainers: null
 name: vuepress-theme-yolo
 npm: https://www.npmjs.com/package/vuepress-theme-yolo
