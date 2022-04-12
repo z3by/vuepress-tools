@@ -28,7 +28,7 @@ publisher:
   url: null
   username: qdyucn
 repository: https://github.com/vuejs/vuepress
-score: 0.1777893289663066
+score: 0.1066013783726828
 stars: 0
 unstable: false
 version: 1.8.2

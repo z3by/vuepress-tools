@@ -29,7 +29,7 @@ publisher:
   url: null
   username: aibayanyu
 repository: https://github.com/yanyu-fe/vuepress-plugins
-score: 0.5832563263307902
+score: 0.5837110740614295
 stars: 4
 unstable: false
 version: 1.0.0

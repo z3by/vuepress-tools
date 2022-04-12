@@ -11,7 +11,7 @@ date: '2021-08-16T09:47:12.303Z'
 deprecated: false
 description: A simple and beautiful vuepress Blog & Doc theme.
 downloads: null
-homepage: https://github.com/vuepress-reco/vuepress-theme-reco#readme
+homepage: https://vuepress-theme-reco.recoluan.com
 keywords:
 - vuepress
 - vue
@@ -27,7 +27,7 @@ publisher:
   url: null
   username: wuchuheng
 repository: https://github.com/vuepress-reco/vuepress-theme-reco
-score: 0.06026038908107664
+score: 0.1358722778817047
 stars: 0
 unstable: false
 version: 1.6.7
