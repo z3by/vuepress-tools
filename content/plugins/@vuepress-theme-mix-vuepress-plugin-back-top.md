@@ -7,7 +7,7 @@ author:
   username: gavinliu0606
 bugs: https://github.com/gavinliu6/vuepress-theme-mix/issues
 category: plugins
-date: '2022-03-28T04:45:23.592Z'
+date: '2022-04-11T13:20:42.576Z'
 deprecated: false
 description: VuePress theme mix plugin - back top
 downloads: null
@@ -29,10 +29,10 @@ publisher:
   url: null
   username: gavinliu0606
 repository: https://github.com/gavinliu6/vuepress-theme-mix
-score: 0.5902990098171863
+score: 0.5902270585612674
 stars: 27
 unstable: false
-version: 1.3.0
+version: 1.3.1
 watchers: 27
 
 ---

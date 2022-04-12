@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/79316040?v=4
+  avatar: null
   email: zenghp2015@gmail.com
   name: Zero2015
   url: null
@@ -15,7 +15,7 @@ homepage: https://github.com/Zero2015/vuepress-plugin-baidu-tongji
 keywords:
 - vue
 - vuepress
-license: false
+license: null
 maintainers: null
 name: '@zenghp2015/vuepress-plugin-baidu-tongji'
 npm: https://www.npmjs.com/package/%40zenghp2015%2Fvuepress-plugin-baidu-tongji
@@ -26,7 +26,7 @@ publisher:
   url: null
   username: zenghp
 repository: https://github.com/Zero2015/vuepress-plugin-baidu-tongji
-score: 0.5042311890216773
+score: 0.4372885985850577
 stars: 0
 unstable: false
 version: 1.0.3
@@ -34,31 +34,3 @@ watchers: 0
 
 ---
 
-# vuepress 百度统计
-
-> Baitu tongji plugin for vuepress
-
-## Install
-
-```bash
-yarn add -D @zenghp2015/vuepress-plugin-baidu-tongji
-# OR npm install -D @zenghp2015/vuepress-plugin-baidu-tongji
-```
-
-## Usage
-
-```js
-module.exports = {
-  plugins: [
-    '@zenghp2015/vuepress-plugin-baidu-tongji', 
-    { hm: 'xxx'}
-  ]
-}
-```
-
-## Options
-
-### hm
-
-- Type: `string`
-- Default: `undefined`

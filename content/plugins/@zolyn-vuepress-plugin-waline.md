@@ -24,7 +24,7 @@ publisher:
   url: null
   username: zolyn
 repository: https://github.com/Zolyn/vuepress-plugin-waline
-score: 0.48145780196762206
+score: 0.4687072432571193
 stars: 2
 unstable: false
 version: 1.1.1
@@ -32,4 +32,3 @@ watchers: 2
 
 ---
 
-## @zolyn/vuepress-plugin-waline
