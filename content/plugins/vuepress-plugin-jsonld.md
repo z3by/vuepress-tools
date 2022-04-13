@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/7025343?v=4
   email: me@snazzah.com
   name: Snazzah
   url: https://snazzah.com/
@@ -16,7 +16,7 @@ keywords:
 - linkeddata
 - jsonld
 - vuepress
-license: null
+license: MIT License
 maintainers: null
 name: vuepress-plugin-jsonld
 npm: https://www.npmjs.com/package/vuepress-plugin-jsonld
@@ -35,3 +35,33 @@ watchers: 0
 
 ---
 
+# vuepress-plugin-jsonld
+> VuePress plugin for adding JSON-LD to pages
+
+## Installation
+```sh
+yarn add -D vuepress-plugin-jsonld
+# or
+npm install -D vuepress-plugin-jsonld
+```
+
+## Usage
+```js
+// .vuepress/config.js
+module.exports = {
+  plugins: ['jsonld'],
+}
+```
+
+You can add JSON-LD to pages using the `ld` prop in the frontmatter:
+```yaml
+---
+ld:
+  '@type': Organization
+  url: https://example.com
+  logo: https://example.com/logo.png
+  name: VuePress
+---
+```
+
+You can follow the [schema](https://schema.org/) and write it in YAML.
