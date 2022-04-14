@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/8998546?v=4
+  avatar: null
   email: null
   name: Sun Ziping
   url: null
-  username: sunziping2016
+  username: null
 bugs: https://github.com/sunziping2016/oak-tree-house/issues
 category: plugins
 date: '2020-05-25T06:34:08.925Z'
@@ -15,7 +15,7 @@ homepage: https://github.com/sunziping2016/oak-tree-house/tree/master/packages/%
 keywords:
 - vue
 - vuepress
-license: MIT License
+license: null
 maintainers: null
 name: '@oak-tree-house/vuepress-plugin-diagrams'
 npm: https://www.npmjs.com/package/%40oak-tree-house%2Fvuepress-plugin-diagrams
@@ -27,10 +27,10 @@ publisher:
   username: sunziping2016
 repository: https://github.com/sunziping2016/oak-tree-house
 score: 0.38702333012447104
-stars: 13
+stars: 0
 unstable: false
 version: 1.0.1
-watchers: 13
+watchers: 0
 
 ---
 

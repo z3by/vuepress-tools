@@ -1,27 +1,24 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/78192711?v=4
-  email: zhangbowang1998@gmail.com
+  email: mister-hope@outlook.com
   name: Mr.Hope
   url: https://mrhope.site
-  username: mister-hope
+  username: vuepress-theme-hope
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues
 category: plugins
-date: '2021-11-14T16:33:23.154Z'
+date: '2022-04-13T18:39:13.061Z'
 deprecated: false
-description: active-hash plugin for vuepress
+description: Redirect plugin for vuepress
 downloads: null
-homepage: https://github.com/vuepress-theme-hope/vuepress-theme-hope#readme
+homepage: https://vuepress-theme-hope.github.io/v2/redirect/
 keywords:
 - vuepress-plugin
-- vuepress
-- active-hash
-- vuepress-theme-hope
-- mr-hope
+- redirect
 license: MIT License
 maintainers: null
-name: vuepress-plugin-active-hash
-npm: https://www.npmjs.com/package/vuepress-plugin-active-hash
+name: vuepress-plugin-redirect2
+npm: https://www.npmjs.com/package/vuepress-plugin-redirect2
 publisher:
   avatar: null
   email: zhangbowang1998@gmail.com
@@ -29,10 +26,10 @@ publisher:
   url: null
   username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
-score: 0.6661485487989734
+score: 0.5579515273498321
 stars: 478
 unstable: false
-version: 1.21.0
+version: 2.0.0-beta.40
 watchers: 478
 
 ---
