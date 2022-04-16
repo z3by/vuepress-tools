@@ -7,7 +7,7 @@ author:
   username: Okarin1
 bugs: https://github.com/Okarin1/vuepress-theme-reading/issues
 category: themes
-date: '2022-04-13T17:40:10.299Z'
+date: '2022-04-15T15:46:24.297Z'
 deprecated: false
 description: Pure Reading Theme for Vuepress
 downloads: null
@@ -24,10 +24,10 @@ publisher:
   url: null
   username: okarin1
 repository: https://github.com/Okarin1/vuepress-theme-reading
-score: 0.5394342322041072
+score: 0.5163856820602916
 stars: 0
 unstable: false
-version: 1.0.3
+version: 1.1.0
 watchers: 0
 
 ---
@@ -41,17 +41,19 @@ watchers: 0
 
 >A clean and minimalist theme for Vuepress !
 
-![preview](https://s2.loli.net/2022/04/12/RBsjZ2nvgWYXcTh.png)
+![preview](https://s2.loli.net/2022/04/15/853HCKESbQc4euV.png)
 
 ## Write in front
 
-This is a purely for reading theme, does not support code highlighting, in addition the font is preset `cursive`, you can try to preview the [Demo](https://reading.okarin.cn) first before deciding whether to use this theme.
+This is a purely for reading theme, does not support code highlighting, in addition the font is preset `cursive`, you can try to [preview Demo](https://reading.okarin.cn) [(Source)](https://github.com/okarin1/reading-project) first before deciding whether to use this theme.
 
 
 ## Installation
 
-```js
+```shell
  $ npm install vuepress-theme-reading --save
+ or
+ $ yarn add vuepress-theme-reading --dev
 ```
 
 
@@ -59,8 +61,21 @@ This is a purely for reading theme, does not support code highlighting, in addit
 
 If you want to create a new blog using reading. You can follow these steps after setting up the [Vuepress](https://www.vuepress.cn/) environments.
 
+When you successfully run a vuepress docs, you should have template like this :
+```
+.
+├── docs(you named this file)
+│   ├── .vuepress 
+│   │   │  
+│   │   └──  config.js 
+│   │   
+│   └──  README.md
+│
+└── package.json
+```
 
-When you successfully run a vuepress docs, you can modify the theme on `.vuepress/config.js` 
+you can modify the theme on `.vuepress/config.js` 
+
 
 
 ```js
@@ -93,13 +108,20 @@ But to prevent errors, please **provide an empty `README.md` file.**
 
 ## MarkDown
 
-- title 
+- title (Required)
+- date (Optional)
+- author (Optional)
 
-Please provide a title at `.md` files that will be displayed on the front page, as well as in the article header.
+Please provide a `title` at `.md` files that will be displayed on the front page, as well as in the article header,
+the `data` will determine the order in which articles are laid out on the front page,and the `author` will be displayed under the title.
+
+
 
 ```
 ---
 title: This is Title
+date: 2022-02-22
+author: Okarin
 ---
 
 ## H2
