@@ -27,10 +27,10 @@ publisher:
   username: mon_sat
 repository: https://github.com/monsat/vuepress-plugin-use-pages
 score: 0.5088678094294771
-stars: 0
+stars: 1
 unstable: false
 version: 1.0.4
-watchers: 0
+watchers: 1
 
 ---
 
