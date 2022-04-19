@@ -7,7 +7,7 @@ author:
   username: simonzhangs
 bugs: https://github.com/simonzhangs/vuepress-plugin-immersive-music-player/issues
 category: plugins
-date: '2022-04-07T07:20:01.631Z'
+date: '2022-04-18T07:43:04.103Z'
 deprecated: false
 description: "An immersive and personalized vuepress music plugin | \u4E00\u4E2A\u6C89\
   \u6D78\u5F0F\u4E2A\u6027\u5316\u7684vuepress \u97F3\u4E50\u63D2\u4EF6"
@@ -36,10 +36,10 @@ publisher:
   url: null
   username: simonzhangs
 repository: https://github.com/simonzhangs/vuepress-plugin-immersive-music-player
-score: 0.5475147907500391
+score: 0.5225713900331663
 stars: 1
 unstable: false
-version: 1.1.2
+version: 1.1.3
 watchers: 1
 
 ---
