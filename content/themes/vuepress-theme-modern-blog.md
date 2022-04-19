@@ -32,10 +32,10 @@ publisher:
   username: z3bya
 repository: https://github.com/z3by/vuepress-theme-modern-blog
 score: 0.4971366055882394
-stars: 96
+stars: 97
 unstable: false
 version: 2.12.1
-watchers: 96
+watchers: 97
 
 ---
 
