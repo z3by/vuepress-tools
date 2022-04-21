@@ -30,10 +30,10 @@ publisher:
   username: yjl9903
 repository: https://github.com/yjl9903/vuepress-plugin-imagemin
 score: 0.4811066286476181
-stars: 0
+stars: 1
 unstable: true
 version: 0.0.4
-watchers: 0
+watchers: 1
 
 ---
 
