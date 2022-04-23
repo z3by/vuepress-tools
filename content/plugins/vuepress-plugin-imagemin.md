@@ -7,7 +7,7 @@ author:
   username: yjl9903
 bugs: https://github.com/yjl9903/vuepress-plugin-imagemin/issues
 category: plugins
-date: '2022-04-18T08:49:03.715Z'
+date: '2022-04-22T12:55:43.145Z'
 deprecated: false
 description: A VuePress plugin for compressing image assets
 downloads: null
@@ -29,10 +29,10 @@ publisher:
   url: null
   username: yjl9903
 repository: https://github.com/yjl9903/vuepress-plugin-imagemin
-score: 0.4811066286476181
+score: 0.4826865119552451
 stars: 1
 unstable: true
-version: 0.0.4
+version: 0.0.5
 watchers: 1
 
 ---
