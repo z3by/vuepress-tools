@@ -2,12 +2,12 @@
 author:
   avatar: https://avatars.githubusercontent.com/u/11501493?v=4
   email: null
-  name: StEve Young
+  name: StEve YoUng
   url: null
   username: BuptStEve
 bugs: https://github.com/BuptStEve/vuepress-plugin-demo-code/issues
 category: plugins
-date: '2021-06-23T13:14:55.686Z'
+date: '2022-04-23T13:57:04.027Z'
 deprecated: false
 description: "\U0001F4DD Demo and code plugin for vuepress"
 downloads: null
@@ -25,15 +25,15 @@ name: vuepress-plugin-demo-code
 npm: https://www.npmjs.com/package/vuepress-plugin-demo-code
 publisher:
   avatar: null
-  email: yangzhenyu2016@gmail.com
+  email: 2747745470@qq.com
   name: null
   url: null
   username: buptsteve
 repository: https://github.com/BuptStEve/vuepress-plugin-demo-code
-score: 0.615297611644573
+score: 0.6600216946534321
 stars: 115
-unstable: true
-version: 0.6.0
+unstable: false
+version: 1.0.0
 watchers: 115
 
 ---
@@ -41,18 +41,12 @@ watchers: 115
 <h1 align="center">vuepress-plugin-demo-code</h1>
 
 <p align="center">
-    <a href="https://circleci.com/gh/BuptStEve/vuepress-plugin-demo-code/tree/master" target="_blank">
-        <img src="https://img.shields.io/circleci/project/github/BuptStEve/vuepress-plugin-demo-code/master.svg" alt="Build Status">
-    </a>
-    <a href="https://codecov.io/github/BuptStEve/vuepress-plugin-demo-code?branch=master" target="_blank">
-        <img src="https://img.shields.io/codecov/c/github/BuptStEve/vuepress-plugin-demo-code/master.svg" alt="Coverage Status">
-    </a>
-    <a href="https://www.npmjs.com/package/vuepress-plugin-demo-code" target="_blank">
-        <img src="https://badgen.net/npm/dm/vuepress-plugin-demo-code" alt="Downloads per month">
-        <img src="https://img.shields.io/npm/v/vuepress-plugin-demo-code.svg" alt="Version">
-        <img src="https://img.shields.io/npm/v/vuepress-plugin-demo-code/next.svg" alt="Next Version">
-        <img src="https://img.shields.io/npm/l/vuepress-plugin-demo-code.svg" alt="License">
-    </a>
+  <a href="https://www.npmjs.com/package/vuepress-plugin-demo-code" target="_blank">
+    <img src="https://badgen.net/npm/dm/vuepress-plugin-demo-code" alt="Downloads per month">
+    <img src="https://img.shields.io/npm/v/vuepress-plugin-demo-code.svg" alt="Version">
+    <img src="https://img.shields.io/npm/v/vuepress-plugin-demo-code/next.svg" alt="Next Version">
+    <img src="https://img.shields.io/npm/l/vuepress-plugin-demo-code.svg" alt="License">
+  </a>
 </p>
 
 English | <a href="https://buptsteve.github.io/vuepress-plugin-demo-code/zh/">简体中文</a>
@@ -67,9 +61,9 @@ With this plugin, you can both display demo and code via following syntax.
 
 <script>
 export default {
-    methods: {
-        onClick: () => { window.alert(1) },
-    },
+  methods: {
+    onClick: () => { window.alert(1) },
+  },
 }
 </script>
 :::
@@ -97,7 +91,19 @@ export default {
 ```bash
 $ npm i -D vuepress-plugin-demo-code
 # OR
+$ pnpm i -D vuepress-plugin-demo-code
+# OR
 $ yarn add -D vuepress-plugin-demo-code
+```
+
+* If you are using [vuepress 2.x](https://v2.vuepress.vuejs.org/), please install the next version.
+
+```bash
+$ npm i -D vuepress-plugin-demo-code@next
+# OR
+$ pnpm i -D vuepress-plugin-demo-code@next
+# OR
+$ yarn add -D vuepress-plugin-demo-code@next
 ```
 
 ## Usage
@@ -105,7 +111,7 @@ Write vuepress config
 
 ```js
 module.exports = {
-    plugins: ['demo-code'],
+  plugins: ['demo-code'],
 }
 ```
 
@@ -114,38 +120,39 @@ This plugin supports the following configurations.
 
 ```js
 module.exports = {
-    plugins: [
-        ['demo-code', {
-            jsLibs: [
-                // umd
-                'https://unpkg.com/tua-storage/dist/TuaStorage.umd.js',
-            ],
-            cssLibs: [
-                'https://unpkg.com/animate.css@3.7.0/animate.min.css',
-            ],
-            showText: 'show code',
-            hideText: 'hide',
-            styleStr: 'text-decoration: underline;',
-            minHeight: 200,
-            onlineBtns: {
-                codepen: true,
-                jsfiddle: true,
-                codesandbox: true,
-            },
-            jsfiddle: {
-                framework: 'library/pure', // default
-                // framework: 'vue/2.6.11',
-            },
-            codesandbox: {
-                deps: { 'lodash': 'latest' },
-                json: '',
-                query: '',
-                embed: '',
-            },
-            demoCodeMark: 'demo-code',
-            copyOptions: { ... },
-        }]
-    ],
+  plugins: [
+    ['demo-code', {
+      jsLibs: [
+        // umd
+        'https://unpkg.com/tua-storage/dist/TuaStorage.umd.js',
+      ],
+      cssLibs: [
+        'https://unpkg.com/animate.css@3.7.0/animate.min.css',
+      ],
+      vueVersion: '^3',
+      showText: 'show code',
+      hideText: 'hide',
+      styleStr: 'text-decoration: underline;',
+      minHeight: 200,
+      onlineBtns: {
+        codepen: true,
+        jsfiddle: true,
+        codesandbox: true,
+      },
+      jsfiddle: {
+        framework: 'library/pure', // default
+        // framework: 'vue/2.6.11',
+      },
+      codesandbox: {
+        deps: { 'lodash': 'latest' },
+        json: '',
+        query: '',
+        embed: '',
+      },
+      demoCodeMark: 'demo-code',
+      copyOptions: { ... },
+    }]
+  ],
 }
 ```
 
@@ -160,6 +167,12 @@ Js libraries for the demo.
 * Default: `[]`
 
 Css libraries for the demo.
+
+### vueVersion
+* Type: `String` (semantic versioning syntax)
+* Default: `^2.6.14`
+
+The semantic version string of vue. For more information on semantic versioning syntax, see the [npm semver calculator](https://semver.npmjs.com/).
 
 ### showText
 * Type: `String`
