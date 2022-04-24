@@ -25,10 +25,10 @@ publisher:
   username: okarin1
 repository: https://github.com/Okarin1/vuepress-theme-reading
 score: 0.5163856820602916
-stars: 2
+stars: 3
 unstable: false
 version: 1.1.0
-watchers: 2
+watchers: 3
 
 ---
 

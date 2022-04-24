@@ -7,7 +7,7 @@ author:
   username: vuepress-reco
 bugs: https://github.com/recoluan/vuepress-theme-reco-cli/issues
 category: themes
-date: '2021-09-19T17:18:50.727Z'
+date: '2022-04-23T17:54:40.190Z'
 deprecated: false
 description: A cli for vuepress-theme-reco
 downloads: null
@@ -29,10 +29,10 @@ publisher:
   url: null
   username: reco_luan
 repository: https://github.com/recoluan/vuepress-theme-reco
-score: 0.5949371488127131
+score: 0.5197687406291992
 stars: 1519
 unstable: false
-version: 1.0.7
+version: 1.0.8
 watchers: 1519
 
 ---

@@ -7,7 +7,7 @@ author:
   username: pengzhanbo
 bugs: https://github.com/pengzhanbo/vuepress-theme-plume/issues
 category: themes
-date: '2022-04-18T10:19:33.888Z'
+date: '2022-04-23T14:48:51.556Z'
 deprecated: false
 description: A Blog Theme for VuePress 2.0
 downloads: null
@@ -24,10 +24,10 @@ publisher:
   url: null
   username: pengzhanbo
 repository: https://github.com/pengzhanbo/vuepress-theme-plume
-score: 0.4893379825981681
+score: 0.4899829076469856
 stars: 0
 unstable: true
-version: 1.0.0-beta.22
+version: 1.0.0-beta.23
 watchers: 0
 
 ---
