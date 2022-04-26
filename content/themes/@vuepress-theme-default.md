@@ -7,11 +7,11 @@ author:
   username: vuejs
 bugs: https://github.com/vuejs/vuepress/issues
 category: themes
-date: '2021-04-18T06:54:16.924Z'
+date: '2022-01-18T04:23:34.575Z'
 deprecated: false
-description: VuePress theme for official Vue projects
+description: Default theme for VuePress
 downloads: null
-homepage: https://github.com/vuejs/vuepress/blob/master/packages/@vuepress/theme-vue#readme
+homepage: https://github.com/vuejs/vuepress/blob/master/packages/@vuepress/theme-default#readme
 keywords:
 - documentation
 - generator
@@ -19,19 +19,19 @@ keywords:
 - vuepress
 license: MIT License
 maintainers: null
-name: '@yucn/theme-vue'
-npm: https://www.npmjs.com/package/%40yucn%2Ftheme-vue
+name: '@vuepress/theme-default'
+npm: https://www.npmjs.com/package/%40vuepress%2Ftheme-default
 publisher:
   avatar: null
-  email: jmguoyucheng@126.com
+  email: 472590061@qq.com
   name: null
   url: null
-  username: qdyucn
+  username: ulivz
 repository: https://github.com/vuejs/vuepress
-score: 0.1066013783726828
+score: 0.6102995740499224
 stars: 20258
 unstable: false
-version: 1.8.2
+version: 1.9.7
 watchers: 20258
 
 ---
