@@ -30,10 +30,10 @@ publisher:
   username: wensonsmith
 repository: https://github.com/wensonsmith/vuepress-theme-seeker
 score: 0.2612294601324498
-stars: 70
+stars: 71
 unstable: false
 version: 1.0.9
-watchers: 70
+watchers: 71
 
 ---
 

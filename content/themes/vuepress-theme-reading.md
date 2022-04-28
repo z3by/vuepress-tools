@@ -7,7 +7,7 @@ author:
   username: Okarin1
 bugs: https://github.com/Okarin1/vuepress-theme-reading/issues
 category: themes
-date: '2022-04-24T12:56:35.085Z'
+date: '2022-04-27T15:28:27.955Z'
 deprecated: false
 description: Pure Reading Theme for Vuepress
 downloads: null
@@ -24,10 +24,10 @@ publisher:
   url: null
   username: okarin1
 repository: https://github.com/Okarin1/vuepress-theme-reading
-score: 0.5211044799207957
+score: 0.5214922608267047
 stars: 3
 unstable: false
-version: 1.2.0
+version: 1.2.1
 watchers: 3
 
 ---
