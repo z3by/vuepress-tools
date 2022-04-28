@@ -1,13 +1,13 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/8433587?v=4
   email: null
   name: Peter Thaleikis
   url: https://www.peterthaleikis.com
-  username: null
+  username: spekulatius
 bugs: https://github.com/spekulatius/vuepress-plugin-plausible/issues
 category: plugins
-date: '2020-09-09T12:41:21.405Z'
+date: '2022-04-27T15:47:12.814Z'
 deprecated: false
 description: Plausible.io Analytics plugin for VuePress
 downloads: null
@@ -19,7 +19,7 @@ keywords:
 - vuepress-plugin
 - analytics
 - plausible
-license: null
+license: MIT License
 maintainers: null
 name: vuepress-plugin-plausible
 npm: https://www.npmjs.com/package/vuepress-plugin-plausible
@@ -30,11 +30,67 @@ publisher:
   url: null
   username: spekulatius
 repository: https://github.com/spekulatius/vuepress-plugin-plausible
-score: 0.33330061156367163
-stars: 0
+score: 0.49269348485277464
+stars: 2
 unstable: true
-version: 0.0.2
-watchers: 0
+version: 0.0.3
+watchers: 2
 
 ---
 
+# Plausible Analytics Plugin for VuePress
+
+This plugin helps to integrate [Plausible Analytics](https://plausible.io/) in your [VuePress](https://vuepress.vuejs.org/) documentation website. Plausible is a alternative to Google Analytics with a focus on privacy.
+
+There is also a list [privacy-focused tracking solutions](https://github.com/spekulatius/awesome-privacy-friendly-web-analytics).
+
+
+## Install
+
+To install the VuePress plugin, run one of the following commands:
+
+```sh
+npm install vuepress-plugin-plausible
+
+# or
+
+yarn add vuepress-plugin-plausible
+```
+
+
+## Configuration
+
+Add the VuePress plugin in your site or theme config file. The configuration is done as part of the plugin configuration. Your configuration file is usually located under `.vuepress/config.js`. Extend it with this line:
+
+```js
+module.exports = {
+  plugins: {
+    'plausible': { domain: 'your-domain.com' },
+
+    // other plugins
+    // ...
+  }
+}
+```
+
+### Outbound link tracking
+
+Plausible can also [track all outbound links](https://plausible.io/docs/outbound-link-click-tracking). To enable outbound link tracking with this extension, do this instead of the above:
+
+```js
+module.exports = {
+  plugins: {
+    'plausible': { domain: 'your-domain.com', outboundLinkTracking: true },
+
+    // other plugins
+    // ...
+  }
+}
+```
+
+For more details on how to work with VuePress plugins, check out the [official docs](https://vuepress.vuejs.org/plugin/using-a-plugin.html).
+
+
+## License
+
+This package is released under the MIT license by [Peter Thaleikis](https://peterthaleikis.com).

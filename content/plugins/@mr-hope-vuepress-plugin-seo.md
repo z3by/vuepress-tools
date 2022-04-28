@@ -1,24 +1,26 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/78192711?v=4
-  email: mister-hope@outlook.com
+  email: zhangbowang1998@gmail.com
   name: Mr.Hope
   url: https://mrhope.site
-  username: vuepress-theme-hope
+  username: mister-hope
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues
 category: plugins
-date: '2022-03-20T18:47:00.906Z'
+date: '2022-04-27T16:23:27.847Z'
 deprecated: false
-description: Sitemap plugin for vuepress
+description: SEO plugin for vuepress
 downloads: null
-homepage: https://vuepress-theme-hope.github.io/v2/sitemap/
+homepage: https://vuepress-theme-hope.github.io/v1/seo/
 keywords:
 - vuepress-plugin
-- sitemap
+- seo
+- search
+- share
 license: MIT License
 maintainers: null
-name: vuepress-plugin-sitemap2
-npm: https://www.npmjs.com/package/vuepress-plugin-sitemap2
+name: '@mr-hope/vuepress-plugin-seo'
+npm: https://www.npmjs.com/package/%40mr-hope%2Fvuepress-plugin-seo
 publisher:
   avatar: null
   email: zhangbowang1998@gmail.com
@@ -26,10 +28,10 @@ publisher:
   url: null
   username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
-score: 0.684207992330858
+score: 0.7065837965902375
 stars: 502
 unstable: false
-version: 2.0.0-beta.24
+version: 1.28.5
 watchers: 502
 
 ---

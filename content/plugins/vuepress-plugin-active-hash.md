@@ -7,11 +7,11 @@ author:
   username: mister-hope
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues
 category: plugins
-date: '2021-11-14T16:33:23.154Z'
+date: '2022-04-27T16:23:27.676Z'
 deprecated: false
 description: active-hash plugin for vuepress
 downloads: null
-homepage: https://github.com/vuepress-theme-hope/vuepress-theme-hope#readme
+homepage: https://vuepress-theme-hope.github.io/v1/active-hash/
 keywords:
 - vuepress-plugin
 - vuepress
@@ -29,11 +29,11 @@ publisher:
   url: null
   username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
-score: 0.6661485487989734
-stars: 501
+score: 0.6951874965106956
+stars: 502
 unstable: false
-version: 1.21.0
-watchers: 501
+version: 1.28.5
+watchers: 502
 
 ---
 
