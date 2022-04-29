@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/16745751?v=4
+  avatar: null
   email: volodymyr@foxmail.com
   name: pengzhanbo
   url: null
@@ -13,7 +13,7 @@ description: The Plugin for VuePres 2, Support Can-I-Use feature
 downloads: null
 homepage: https://github.com/pengzhanbo/vuepress-theme-plume#readme
 keywords: null
-license: MIT License
+license: null
 maintainers: null
 name: '@vuepress-plume/vuepress-plugin-caniuse'
 npm: https://www.npmjs.com/package/%40vuepress-plume%2Fvuepress-plugin-caniuse
@@ -32,6 +32,3 @@ watchers: 0
 
 ---
 
-## vuepress-theme-plume
-
-开发中
