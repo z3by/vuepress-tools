@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/26866173?v=4
+  avatar: null
   email: null
   name: wzhzzmzzy
   url: null
-  username: SUMSC
+  username: null
 bugs: null
 category: themes
 date: '2019-06-04T13:09:09.378Z'
@@ -16,7 +16,7 @@ keywords:
 - vuepress
 - vue
 - theme
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-theme-sumsc
 npm: https://www.npmjs.com/package/vuepress-theme-sumsc
