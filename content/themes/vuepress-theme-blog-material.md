@@ -7,7 +7,7 @@ author:
   username: lyh543
 bugs: https://github.com/lyh543/vuepress-theme-blog-material/issues
 category: themes
-date: '2022-04-23T07:03:58.588Z'
+date: '2022-05-01T15:09:21.699Z'
 deprecated: false
 description: Material VuePress Blog Theme Powered By Vuetify
 downloads: null
@@ -28,10 +28,10 @@ publisher:
   url: null
   username: lyh543
 repository: https://github.com/lyh543/vuepress-theme-blog-material
-score: 0.5251782914063479
+score: 0.5174330260136302
 stars: 3
 unstable: true
-version: 0.1.1
+version: 0.1.2
 watchers: 3
 
 ---
