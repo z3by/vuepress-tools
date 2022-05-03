@@ -34,7 +34,7 @@ publisher:
   url: null
   username: ntnyq
 repository: https://github.com/ntnyq/vuepress-plugin-social-share
-score: 0.5737840734161498
+score: 0.5572949895268136
 stars: 31
 unstable: false
 version: 1.2.0
@@ -52,6 +52,12 @@ watchers: 31
 :mega: Social sharing plugin for [VuePress](https://vuepress.vuejs.org)
 
 :book: [Live Demo and Docs](https://sns.goyfe.com)
+
+## ⚠️ Note
+
+Looking for VuePress v2 support?
+
+Please checkout branch [next](https://github.com/ntnyq/vuepress-plugin-social-share/tree/next) for detail.
 
 ## Install
 
