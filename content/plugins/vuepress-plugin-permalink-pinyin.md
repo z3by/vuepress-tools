@@ -7,7 +7,7 @@ author:
   username: viko16
 bugs: https://github.com/viko16/vuepress-plugin-permalink-pinyin/issues
 category: plugins
-date: '2019-02-05T07:21:52.986Z'
+date: '2022-05-03T07:03:15.682Z'
 deprecated: false
 description: A VuePress plugin which convert Chinese title to transliterate permalink.
 downloads: null
@@ -27,10 +27,10 @@ publisher:
   url: null
   username: viko16
 repository: https://github.com/viko16/vuepress-plugin-permalink-pinyin
-score: 0.64867559221617
+score: 0.6510632670544887
 stars: 7
 unstable: false
-version: 1.0.0
+version: 1.1.0
 watchers: 7
 
 ---
