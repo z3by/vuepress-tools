@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/16745751?v=4
+  avatar: null
   email: null
   name: pengzhanbo
   url: null
-  username: pengzhanbo
+  username: null
 bugs: https://github.com/pengzhanbo/vuepress-plugin-caniuse/issues
 category: plugins
 date: '2022-04-03T21:06:10.909Z'
@@ -18,7 +18,7 @@ keywords:
 - vuepress-plugin
 - vuepress-plugin-caniuse
 - can I use
-license: false
+license: null
 maintainers: null
 name: '@pengzhanbo/vuepress-plugin-caniuse'
 npm: https://www.npmjs.com/package/%40pengzhanbo%2Fvuepress-plugin-caniuse
