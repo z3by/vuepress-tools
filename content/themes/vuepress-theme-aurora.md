@@ -42,10 +42,10 @@ publisher:
   username: qsyyke
 repository: https://github.com/vuepress-aurora/vuepress-theme-aurora
 score: 0.45486353116862666
-stars: 141
+stars: 142
 unstable: false
 version: 1.13.3
-watchers: 141
+watchers: 142
 
 ---
 
@@ -81,17 +81,14 @@ watchers: 141
 
 ### 安装CLI
 
-- npm
 
-  ```sh
+> 请不要直接拉取该仓库运行，该仓库经常会push新东西进来，运行过程中，可能会报错，请使用按照下面步骤进行主题的安装！
+
+
+```sh
   npm i vuepress-theme-cli -g
-  ```
+```
 
-- yarn
-
-  ```sh
-  yarn global vuepress-theme-cli
-  ```
 
 - [视频教程](https://ooszy.cco.vin/theme-template/%E6%9C%80%E7%BB%88%E7%89%88%E6%9C%AC.mp4)
 
