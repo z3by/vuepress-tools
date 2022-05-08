@@ -7,7 +7,7 @@ author:
   username: ota-meshi
 bugs: https://github.com/ota-meshi/vuepress2-plugin-full-text-search/issues
 category: plugins
-date: '2021-12-23T13:30:50.651Z'
+date: '2022-05-06T01:33:08.494Z'
 deprecated: false
 description: VuePress v2 plugin that adds full-text search box.
 downloads: null
@@ -28,10 +28,10 @@ publisher:
   url: null
   username: ota-meshi
 repository: https://github.com/ota-meshi/vuepress2-plugin-full-text-search
-score: 0.4464518674539948
+score: 0.5954803918938495
 stars: 9
 unstable: true
-version: 0.0.5
+version: 0.1.2
 watchers: 9
 
 ---
