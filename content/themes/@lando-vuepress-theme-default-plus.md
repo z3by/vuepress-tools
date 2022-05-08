@@ -7,7 +7,7 @@ author:
   username: lando
 bugs: https://github.com/lando/vuepress-theme-default-plus/issues/new/choose/
 category: themes
-date: '2022-03-28T14:24:34.960Z'
+date: '2022-05-06T13:14:36.647Z'
 deprecated: false
 description: A VuePress 2 Theme that extends the default theme with some more power.
 downloads: null
@@ -29,10 +29,10 @@ publisher:
   url: null
   username: pirog
 repository: https://github.com/lando/vuepress-theme-default-plus
-score: 0.48894101173545107
+score: 0.5130974368136776
 stars: 1
 unstable: true
-version: 1.0.0-beta.30
+version: 1.0.0-beta.34
 watchers: 1
 
 ---
