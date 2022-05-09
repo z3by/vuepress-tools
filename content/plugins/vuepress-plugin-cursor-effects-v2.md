@@ -70,7 +70,7 @@ npm i vuepress-plugin-cursor-effects-v2 -D
 
 ```javascript
 module.exports = {
-   plugins: ['cursor-effects'],
+   plugins: ['cursor-effects-v2'],
 }
 ```
 
@@ -80,7 +80,7 @@ module.exports = {
 module.exports = {
    plugins: [
       [
-         'cursor-effects',
+         'cursor-effects-v2',
          {
             size: 2, // size of the particle, default: 2
             shape: ['star' | 'circle'], // shape of the particle, default: 'star'

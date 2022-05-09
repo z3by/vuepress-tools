@@ -7,7 +7,7 @@ author:
   username: kouts
 bugs: https://github.com/kouts/vuepress-plugin-vue-example/issues
 category: plugins
-date: '2022-04-21T14:06:38.312Z'
+date: '2022-05-07T11:45:57.608Z'
 deprecated: false
 description: A Vuepress plugin to display Vue components' live examples and source
   code inside documentation
@@ -32,10 +32,10 @@ publisher:
   url: null
   username: kouts
 repository: https://github.com/kouts/vuepress-plugin-vue-example
-score: 0.5911152411777967
+score: 0.5451059649953631
 stars: 3
 unstable: false
-version: 1.1.5
+version: 1.1.6
 watchers: 3
 
 ---
