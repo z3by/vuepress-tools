@@ -31,10 +31,10 @@ publisher:
   username: 80maker
 repository: https://github.com/80maker/vuepress-theme-maker
 score: 0.5499042551921263
-stars: 54
+stars: 55
 unstable: false
 version: 1.2.0
-watchers: 54
+watchers: 55
 
 ---
 
