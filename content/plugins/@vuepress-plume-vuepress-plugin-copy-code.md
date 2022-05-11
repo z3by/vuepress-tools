@@ -7,7 +7,7 @@ author:
   username: pengzhanbo
 bugs: https://github.com/pengzhanbo/vuepress-theme-plume/issues
 category: plugins
-date: '2022-05-06T18:25:11.245Z'
+date: '2022-05-09T12:45:47.405Z'
 deprecated: false
 description: The Plugin for VuePres 2
 downloads: null
@@ -24,10 +24,10 @@ publisher:
   url: null
   username: pengzhanbo
 repository: https://github.com/pengzhanbo/vuepress-theme-plume
-score: 0.4322053522512399
+score: 0.43811828719485224
 stars: 0
 unstable: true
-version: 1.0.0-beta.29
+version: 1.0.0-beta.31
 watchers: 0
 
 ---
