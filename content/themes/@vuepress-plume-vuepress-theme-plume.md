@@ -7,11 +7,11 @@ author:
   username: pengzhanbo
 bugs: https://github.com/pengzhanbo/vuepress-theme-plume/issues
 category: themes
-date: '2022-05-07T10:06:46.816Z'
+date: '2022-05-09T12:45:52.538Z'
 deprecated: false
 description: A Blog Theme for VuePress 2.0
 downloads: null
-homepage: https://github.com/pengzhanbo/vuepress-theme-plume#readme
+homepage: https://pengzhanbo.cn/note/vuepress-theme-plume
 keywords:
 - VuePress
 - Theme
@@ -30,10 +30,10 @@ publisher:
   url: null
   username: pengzhanbo
 repository: https://github.com/pengzhanbo/vuepress-theme-plume
-score: 0.5050839362505474
+score: 0.47465293001219794
 stars: 1
 unstable: true
-version: 1.0.0-beta.30
+version: 1.0.0-beta.31
 watchers: 1
 
 ---
@@ -53,4 +53,4 @@ watchers: 1
 
 这意味着功能尚未完善，在未来有概率发生破坏性更改。
 
-本主题目前出于开发阶段中。
+本主题已完成主要功能的开发，并用于个人博客，也欢迎各位使用，如能给小弟提供您宝贵的建议和意见，不胜感激。
