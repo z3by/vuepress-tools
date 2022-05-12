@@ -30,10 +30,10 @@ publisher:
   username: orekish
 repository: https://github.com/OrekiSH/vuepress-dumi
 score: 0.32521281057596096
-stars: 9
+stars: 10
 unstable: true
 version: 0.3.11
-watchers: 9
+watchers: 10
 
 ---
 
