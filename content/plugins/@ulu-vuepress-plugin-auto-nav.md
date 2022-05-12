@@ -7,7 +7,7 @@ author:
   username: jscherbe
 bugs: https://github.com/Jscherbe/vuepress-plugin-default-theme-auto-nav/issues
 category: plugins
-date: '2022-05-09T02:26:42.905Z'
+date: '2022-05-10T05:37:08.283Z'
 deprecated: false
 description: This plugin fills in the navbar and or sidebar links based on all page's
   paths (default theme)
@@ -30,10 +30,10 @@ publisher:
   url: null
   username: jscherbe
 repository: https://github.com/Jscherbe/vuepress-plugin-default-theme-auto-nav
-score: 0.1769270557477433
+score: 0.45161081389309377
 stars: 0
 unstable: false
-version: 1.0.0
+version: 1.0.1
 watchers: 0
 
 ---

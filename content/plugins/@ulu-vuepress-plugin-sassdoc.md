@@ -7,7 +7,7 @@ author:
   username: jscherbe
 bugs: https://github.com/Jscherbe/vuepress-plugin-sassdoc/issues
 category: plugins
-date: '2022-05-09T03:44:54.925Z'
+date: '2022-05-10T05:26:21.883Z'
 deprecated: false
 description: Creates pages for sassdoc groups in vuepress (as markdown). Supports
   all annotations, custom annotations, groups display name and description, and content
@@ -20,6 +20,8 @@ keywords:
 - vuepress-plugin
 - sass
 - documentation
+- html preview
+- compiled example
 license: MIT License
 maintainers: null
 name: '@ulu/vuepress-plugin-sassdoc'
@@ -31,10 +33,10 @@ publisher:
   url: null
   username: jscherbe
 repository: https://github.com/Jscherbe/vuepress-plugin-sassdoc
-score: 0.5977613583634178
+score: 0.5149419819194577
 stars: 0
 unstable: false
-version: 1.0.1
+version: 1.0.2
 watchers: 0
 
 ---
