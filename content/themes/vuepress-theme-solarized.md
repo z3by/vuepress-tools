@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/25148427?v=4
   email: darktasevski@gmail.com
   name: Darko Tasevski
   url: null
@@ -17,7 +17,7 @@ keywords:
 - generator
 - vue
 - vuepress
-license: null
+license: MIT License
 maintainers: null
 name: vuepress-theme-solarized
 npm: https://www.npmjs.com/package/vuepress-theme-solarized
@@ -29,10 +29,10 @@ publisher:
   username: puritanic
 repository: https://github.com/Puritanic/vuepress-theme-solarized
 score: 0.21564073344710757
-stars: 0
+stars: 5
 unstable: false
 version: 1.1.1
-watchers: 0
+watchers: 5
 
 ---
 
