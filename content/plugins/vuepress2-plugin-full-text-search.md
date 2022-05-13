@@ -29,10 +29,10 @@ publisher:
   username: ota-meshi
 repository: https://github.com/ota-meshi/vuepress2-plugin-full-text-search
 score: 0.5954803918938495
-stars: 9
+stars: 10
 unstable: true
 version: 0.1.2
-watchers: 9
+watchers: 10
 
 ---
 

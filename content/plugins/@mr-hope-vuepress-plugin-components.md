@@ -27,10 +27,10 @@ publisher:
   username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
 score: 0.6703495200813334
-stars: 526
+stars: 529
 unstable: false
 version: 1.28.5
-watchers: 526
+watchers: 529
 
 ---
 
@@ -59,6 +59,8 @@ watchers: 526
 A vuepress theme with tons of features✨ / 一个具有强大功能的 vuepress 主题 ✨
 
 ## [English Docs](https://vuepress-theme-hope.github.io/v2/) / [中文文档](https://vuepress-theme-hope.github.io/v2/zh/)
+
+## [Online Demo / 在线案例](https://stackblitz.com/fork/vuepress-theme-hope)
 
 ## Contact
 

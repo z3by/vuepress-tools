@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/65664118?v=4
+  avatar: null
   email: null
   name: SigureMo
   url: null
-  username: moefyit
+  username: null
 bugs: https://github.com/moefyit/vuepress-plugin-go-top/issues
 category: plugins
 date: '2020-06-07T13:15:53.609Z'
@@ -17,7 +17,7 @@ keywords:
 - plugin
 - cat
 - back-to-top
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-plugin-go-top
 npm: https://www.npmjs.com/package/vuepress-plugin-go-top
@@ -29,10 +29,10 @@ publisher:
   username: sigure_mo
 repository: https://github.com/moefyit/vuepress-plugin-go-top
 score: 0.4630224568489488
-stars: 2
+stars: 0
 unstable: false
 version: 1.0.4
-watchers: 2
+watchers: 0
 
 ---
 

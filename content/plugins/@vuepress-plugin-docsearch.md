@@ -30,10 +30,10 @@ publisher:
   username: meteorlxy
 repository: https://github.com/vuepress/vuepress-next
 score: 0.6410562816106753
-stars: 1128
+stars: 1129
 unstable: false
 version: 2.0.0-alpha.1
-watchers: 1128
+watchers: 1129
 
 ---
 
