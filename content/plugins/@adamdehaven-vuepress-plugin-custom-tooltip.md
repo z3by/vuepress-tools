@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/2229946?v=4
+  avatar: null
   email: adam@dehaven.org
   name: Adam DeHaven
   url: https://www.adamdehaven.com/
@@ -18,7 +18,7 @@ keywords:
 - tooltip
 - component
 - plugin
-license: MIT License
+license: null
 maintainers: null
 name: '@adamdehaven/vuepress-plugin-custom-tooltip'
 npm: https://www.npmjs.com/package/%40adamdehaven%2Fvuepress-plugin-custom-tooltip
@@ -30,10 +30,10 @@ publisher:
   username: adamdehaven
 repository: https://github.com/adamdehaven/vuepress-plugin-custom-tooltip
 score: 0.4657629858644359
-stars: 4
+stars: 0
 unstable: false
 version: 1.4.3
-watchers: 4
+watchers: 0
 
 ---
 

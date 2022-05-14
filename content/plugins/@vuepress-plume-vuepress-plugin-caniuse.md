@@ -7,7 +7,7 @@ author:
   username: pengzhanbo
 bugs: https://github.com/pengzhanbo/vuepress-theme-plume/issues
 category: plugins
-date: '2022-05-10T20:35:56.593Z'
+date: '2022-05-12T14:29:00.846Z'
 deprecated: false
 description: The Plugin for VuePres 2, Support Can-I-Use feature
 downloads: null
@@ -29,10 +29,10 @@ publisher:
   url: null
   username: pengzhanbo
 repository: https://github.com/pengzhanbo/vuepress-theme-plume
-score: 0.4434796290467727
+score: 0.44361182888909256
 stars: 0
 unstable: true
-version: 1.0.0-beta.32
+version: 1.0.0-beta.33
 watchers: 0
 
 ---
