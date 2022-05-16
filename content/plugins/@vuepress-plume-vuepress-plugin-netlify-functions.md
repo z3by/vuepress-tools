@@ -7,7 +7,7 @@ author:
   username: pengzhanbo
 bugs: https://github.com/pengzhanbo/vuepress-theme-plume/issues
 category: plugins
-date: '2022-05-10T20:36:02.351Z'
+date: '2022-05-14T12:33:20.277Z'
 deprecated: false
 description: The Plugin for VuePres 2, Support Netlify Functions
 downloads: null
@@ -30,10 +30,10 @@ publisher:
   url: null
   username: pengzhanbo
 repository: https://github.com/pengzhanbo/vuepress-theme-plume
-score: 0.43997211955249704
+score: 0.44236726339765353
 stars: 0
 unstable: true
-version: 1.0.0-beta.32
+version: 1.0.0-beta.34
 watchers: 0
 
 ---
