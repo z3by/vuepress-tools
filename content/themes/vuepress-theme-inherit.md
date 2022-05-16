@@ -7,7 +7,7 @@ author:
   username: YasinChan
 bugs: https://github.com/YasinChan/vuepress-theme-inherit/issues
 category: themes
-date: '2020-06-09T03:26:12.152Z'
+date: '2022-05-14T12:02:41.348Z'
 deprecated: false
 description: vuepress blog theme
 downloads: null
@@ -24,10 +24,10 @@ publisher:
   url: null
   username: yasinchan
 repository: https://github.com/YasinChan/vuepress-theme-inherit
-score: 0.40866562340507695
+score: 0.34253724171610084
 stars: 5
 unstable: false
-version: 1.0.4
+version: 1.0.6
 watchers: 5
 
 ---
