@@ -7,7 +7,7 @@ author:
   username: ziho
 bugs: https://github.com/LiHowe/vuepress-plugin-mermaid/issues
 category: plugins
-date: '2022-05-13T05:26:12.058Z'
+date: '2022-05-13T09:52:16.682Z'
 deprecated: false
 description: A Mermaid plugin for vuepress-next
 downloads: null
@@ -29,10 +29,10 @@ publisher:
   url: null
   username: ziho
 repository: https://github.com/LiHowe/vuepress-plugin-mermaid
-score: 0.41445405544005653
+score: 0.4591437118112309
 stars: 0
 unstable: true
-version: 0.1.7
+version: 0.1.9
 watchers: 0
 
 ---

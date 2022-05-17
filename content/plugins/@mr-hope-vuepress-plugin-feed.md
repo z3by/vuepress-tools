@@ -7,18 +7,19 @@ author:
   username: mister-hope
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues
 category: plugins
-date: '2022-04-27T16:23:27.892Z'
+date: '2022-05-15T11:42:29.135Z'
 deprecated: false
-description: components plugin for vuepress-theme-hope
+description: Feed plugin for vuepress-theme-hope
 downloads: null
-homepage: https://vuepress-theme-hope.github.io/v1/components/
+homepage: https://vuepress-theme-hope.github.io/v1/feed/
 keywords:
 - vuepress-plugin
-- components
+- vuepress
+- feed
 license: MIT License
 maintainers: null
-name: '@mr-hope/vuepress-plugin-components'
-npm: https://www.npmjs.com/package/%40mr-hope%2Fvuepress-plugin-components
+name: '@mr-hope/vuepress-plugin-feed'
+npm: https://www.npmjs.com/package/%40mr-hope%2Fvuepress-plugin-feed
 publisher:
   avatar: null
   email: zhangbowang1998@gmail.com
@@ -26,10 +27,10 @@ publisher:
   url: null
   username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
-score: 0.6711766122465079
+score: 0.705507690031876
 stars: 531
 unstable: false
-version: 1.28.5
+version: 1.29.0
 watchers: 531
 
 ---

@@ -7,18 +7,20 @@ author:
   username: mister-hope
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues
 category: plugins
-date: '2022-04-27T16:23:27.892Z'
+date: '2022-05-15T11:42:28.962Z'
 deprecated: false
-description: components plugin for vuepress-theme-hope
+description: Copy Code plugin for vuepress
 downloads: null
-homepage: https://vuepress-theme-hope.github.io/v1/components/
+homepage: https://vuepress-theme-hope.github.io/v1/copy-code/
 keywords:
 - vuepress-plugin
-- components
+- vuepress
+- copy-code
+- code-copy
 license: MIT License
 maintainers: null
-name: '@mr-hope/vuepress-plugin-components'
-npm: https://www.npmjs.com/package/%40mr-hope%2Fvuepress-plugin-components
+name: '@mr-hope/vuepress-plugin-copy-code'
+npm: https://www.npmjs.com/package/%40mr-hope%2Fvuepress-plugin-copy-code
 publisher:
   avatar: null
   email: zhangbowang1998@gmail.com
@@ -26,10 +28,10 @@ publisher:
   url: null
   username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
-score: 0.6711766122465079
+score: 0.6964680815531075
 stars: 531
 unstable: false
-version: 1.28.5
+version: 1.29.0
 watchers: 531
 
 ---

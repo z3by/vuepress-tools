@@ -7,7 +7,7 @@ author:
   username: mister-hope
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues
 category: plugins
-date: '2022-04-27T16:23:28.849Z'
+date: '2022-05-15T11:42:30.110Z'
 deprecated: false
 description: A simple Comment plugin for vuepress
 downloads: null
@@ -30,11 +30,11 @@ publisher:
   url: null
   username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
-score: 0.6957713657504896
-stars: 530
+score: 0.6994812164112849
+stars: 531
 unstable: false
-version: 1.28.5
-watchers: 530
+version: 1.29.0
+watchers: 531
 
 ---
 
