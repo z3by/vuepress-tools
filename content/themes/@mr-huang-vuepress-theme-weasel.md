@@ -28,7 +28,7 @@ publisher:
   url: null
   username: sujinw
 repository: https://github.com/cavinHuang/vuepress-theme-weasel
-score: 0.45425902860795964
+score: 0.5144896743807927
 stars: 0
 unstable: true
 version: 1.0.0-beta.1
