@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/35005637?v=4
+  avatar: null
   email: https://github.com/2214962083
   name: yangjinming
   url: null
-  username: '2214962083'
+  username: null
 bugs: https://github.com/2214962083/vue-superman/issues
 category: plugins
 date: '2022-05-11T16:30:57.783Z'
@@ -23,7 +23,7 @@ keywords:
 - vue-superman
 - component
 - utils
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-plugin-sandbox
 npm: https://www.npmjs.com/package/vuepress-plugin-sandbox
@@ -35,13 +35,10 @@ publisher:
   username: guhuatai
 repository: https://github.com/2214962083/vue-superman
 score: 0.49105995556863713
-stars: 4
+stars: 0
 unstable: true
 version: 0.1.5
-watchers: 4
+watchers: 0
 
 ---
 
-# Vue Superman
-
-vue useful lib collection, use vue like a superman
