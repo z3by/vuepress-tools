@@ -27,7 +27,7 @@ publisher:
   url: null
   username: shadowfish07
 repository: https://github.com/shadowfish07/vuepress-theme-recoX
-score: 0.3941044996352555
+score: 0.4983542334733087
 stars: 0
 unstable: false
 version: 1.0.1
