@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/42316353?v=4
+  avatar: null
   email: null
   name: with-rainbow
   url: null
-  username: with-rainbow
+  username: null
 bugs: https://github.com/with-rainbow/vuepress-plugin-enhance/issues
 category: plugins
 date: '2022-03-17T03:29:47.898Z'
@@ -15,7 +15,7 @@ homepage: https://github.com/with-rainbow/vuepress-plugin-enhance#readme
 keywords:
 - vuepress-plugin
 - markdown
-license: false
+license: null
 maintainers: null
 name: '@with-rainbow/vuepress-plugin-enhance'
 npm: https://www.npmjs.com/package/%40with-rainbow%2Fvuepress-plugin-enhance
@@ -33,6 +33,4 @@ version: 0.1.0
 watchers: 0
 
 ---
-
-# Vuepress-plugin-enhance
 

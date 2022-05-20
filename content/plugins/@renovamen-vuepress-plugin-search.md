@@ -25,10 +25,10 @@ publisher:
   username: renovamen
 repository: https://github.com/Renovamen/vuepress-theme-gungnir
 score: 0.5847153680305476
-stars: 211
+stars: 212
 unstable: false
 version: 2.0.0-alpha.4
-watchers: 211
+watchers: 212
 
 ---
 
@@ -76,12 +76,10 @@ TODO:
 
 ## Installation
 
-Currently, the theme is not compatible with VuePress >= 2.0.0-beta.40, please stick to VuePress 2.0.0-beta.39.
+Please make sure you are using the latest version of VuePress (2.0.0-beta.45) and theme Gungnir.
 
 ```bash
-yarn add -D vuepress@2.0.0-beta.39 vuepress-theme-gungnir@next
-# or
-npm i -D vuepress@2.0.0-beta.39 vuepress-theme-gungnir@next
+pnpm install -D vuepress vuepress-theme-gungnir@next
 ```
 
 
