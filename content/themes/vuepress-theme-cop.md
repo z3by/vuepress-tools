@@ -7,7 +7,7 @@ author:
   username: vuepress-reco
 bugs: https://github.com/vuepress-reco/vuepress-theme-reco/issues
 category: themes
-date: '2022-03-30T15:36:06.017Z'
+date: '2022-05-16T17:04:51.189Z'
 deprecated: false
 description: A simple and beautiful vuepress Blog & Doc theme.
 downloads: null
@@ -18,19 +18,19 @@ keywords:
 - theme
 license: MIT License
 maintainers: null
-name: vuepress-theme-reco-hjy
-npm: https://www.npmjs.com/package/vuepress-theme-reco-hjy
+name: vuepress-theme-cop
+npm: https://www.npmjs.com/package/vuepress-theme-cop
 publisher:
   avatar: null
-  email: 2145909595@qq.com
+  email: 1440797327@qq.com
   name: null
   url: null
-  username: cschero101
+  username: lblog
 repository: https://github.com/vuepress-reco/vuepress-theme-reco
-score: 0.20928841698477096
+score: 0.21065427812481416
 stars: 128
 unstable: false
-version: 1.1.1
+version: 1.8.9
 watchers: 128
 
 ---
