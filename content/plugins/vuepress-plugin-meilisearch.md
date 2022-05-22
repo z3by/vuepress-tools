@@ -7,7 +7,7 @@ author:
   username: meilisearch
 bugs: https://github.com/meilisearch/vuepress-plugin-meilisearch/issues
 category: plugins
-date: '2021-11-25T19:25:11.098Z'
+date: '2022-05-19T12:34:53.507Z'
 deprecated: false
 description: Relevant and typo tolerant search bar for your Vuepress
 downloads: null
@@ -24,10 +24,10 @@ publisher:
   url: null
   username: meili-bot
 repository: https://github.com/meilisearch/vuepress-plugin-meilisearch
-score: 0.6340134504651652
+score: 0.6449028439437301
 stars: 46
 unstable: true
-version: 0.11.4
+version: 0.12.2
 watchers: 46
 
 ---

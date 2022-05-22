@@ -12,7 +12,7 @@ deprecated: false
 description: A plugin for adding full-screen and copy button to your code blocks in
   VuePress 2.
 downloads: null
-homepage: https://github.com/Renovamen/vuepress-theme-gungnir#readme
+homepage: https://github.com/Renovamen/vuepress-theme-gungnir/tree/main/packages/plugins/code-enhance
 keywords:
 - vue
 - vuepress
@@ -28,11 +28,11 @@ publisher:
   url: null
   username: renovamen
 repository: https://github.com/Renovamen/vuepress-theme-gungnir
-score: 0.5689206938206971
-stars: 213
+score: 0.5866836735076852
+stars: 215
 unstable: false
 version: 2.0.0-alpha.2
-watchers: 213
+watchers: 215
 
 ---
 

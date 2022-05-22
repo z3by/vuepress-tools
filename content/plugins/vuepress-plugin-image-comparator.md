@@ -7,7 +7,7 @@ author:
   username: alija
 bugs: https://github.com/studyathome-internationally/vuepress-plugins/issues
 category: plugins
-date: '2022-05-07T20:50:22.516Z'
+date: '2022-05-19T10:20:53.736Z'
 deprecated: false
 description: VuePress Plugin for image comparison
 downloads: null
@@ -30,10 +30,10 @@ publisher:
   url: null
   username: alija
 repository: https://github.com/studyathome-internationally/vuepress-plugins
-score: 0.41738759498486644
+score: 0.4750816475304146
 stars: 0
 unstable: true
-version: 0.0.1-alpha.16
+version: 0.0.1-alpha.17
 watchers: 0
 
 ---
