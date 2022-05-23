@@ -2,12 +2,12 @@
 author:
   avatar: https://avatars.githubusercontent.com/u/65664118?v=4
   email: null
-  name: SigureMo
+  name: Nyakku Shigure
   url: null
   username: moefyit
 bugs: https://github.com/moefyit/vuepress-plugin-cursor-effects/issues
 category: plugins
-date: '2021-02-14T18:42:50.948Z'
+date: '2022-05-21T09:54:40.613Z'
 deprecated: false
 description: Add a cute click effect to your mouse in your vuepress!
 downloads: null
@@ -28,10 +28,10 @@ publisher:
   url: null
   username: sigure_mo
 repository: https://github.com/moefyit/vuepress-plugin-cursor-effects
-score: 0.555076467601269
+score: 0.5672671873743813
 stars: 18
 unstable: false
-version: 1.0.2
+version: 1.1.4
 watchers: 18
 
 ---

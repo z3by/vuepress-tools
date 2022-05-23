@@ -1,26 +1,26 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/78192711?v=4
-  email: zhangbowang1998@gmail.com
+  email: mister-hope@outlook.com
   name: Mr.Hope
   url: https://mrhope.site
-  username: mister-hope
+  username: vuepress-theme-hope
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues
 category: plugins
-date: '2022-03-18T04:09:39.380Z'
+date: '2022-05-22T06:30:49.229Z'
 deprecated: false
-description: Add This plugin for vuepress
+description: Components collection plugin for VuePress2
 downloads: null
-homepage: https://vuepress-theme-hope.github.io/v1/add-this/
+homepage: https://vuepress-theme-hope.github.io/v2/components/
 keywords:
-- vuepress-plugin
 - vuepress
-- add-this
-- share
+- vuepress2
+- vuepress-plugin
+- components
 license: MIT License
 maintainers: null
-name: vuepress-plugin-add-this
-npm: https://www.npmjs.com/package/vuepress-plugin-add-this
+name: vuepress-plugin-components
+npm: https://www.npmjs.com/package/vuepress-plugin-components
 publisher:
   avatar: null
   email: zhangbowang1998@gmail.com
@@ -28,11 +28,11 @@ publisher:
   url: null
   username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
-score: 0.6849574891351481
-stars: 538
+score: 0.5436225862257227
+stars: 539
 unstable: false
-version: 1.28.3
-watchers: 538
+version: 2.0.0-beta.69
+watchers: 539
 
 ---
 

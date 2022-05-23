@@ -2,12 +2,12 @@
 author:
   avatar: https://avatars.githubusercontent.com/u/65664118?v=4
   email: null
-  name: SigureMo
+  name: Nyakku Shigure
   url: null
   username: moefyit
 bugs: https://github.com/moefyit/vuepress-plugin-ribbon/issues
 category: plugins
-date: '2021-02-14T13:11:08.650Z'
+date: '2022-05-21T09:54:28.903Z'
 deprecated: false
 description: Add a beautiful ribbon to your vuepress!
 downloads: null
@@ -27,10 +27,10 @@ publisher:
   url: null
   username: sigure_mo
 repository: https://github.com/moefyit/vuepress-plugin-ribbon
-score: 0.5533886672874674
+score: 0.5630730086700737
 stars: 14
 unstable: false
-version: 1.0.4
+version: 1.1.4
 watchers: 14
 
 ---
