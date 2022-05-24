@@ -39,15 +39,14 @@ watchers: 20
 ---
 
 # vuepress-theme-minimalism
-[中文](https://github.com/onnezezt/vuepress-theme-minimalism/blob/master/Zh.md)
 
-![NPM](https://img.shields.io/npm/l/vuepress-theme-minimalism) 
-<a href="https://www.npmjs.com/package/vuepress-theme-minimalism"> <img src="https://img.shields.io/npm/v/vuepress-theme-minimalism" alt=""></a>
-<a href="https://www.npmjs.com/package/vuepress-theme-minimalism"> <img src="https://img.shields.io/npm/dt/vuepress-theme-minimalism" alt=""></a>
+![NPM](https://img.shields.io/npm/l/vuepress-theme-minimalism) <a href="https://www.npmjs.com/package/vuepress-theme-minimalism"> <img src="https://img.shields.io/npm/v/vuepress-theme-minimalism" alt=""></a> <a href="https://www.npmjs.com/package/vuepress-theme-minimalism"> <img src="https://img.shields.io/npm/dt/vuepress-theme-minimalism" alt=""></a>
 
 ## introduction
 
 A minimalist vuepress theme, compatible with hexo YAML front matter syntax.
+
+example：https://github.com/sogud/vuepress-theme-minimalism
 
 preview：https://sogud.github.io
 
@@ -98,7 +97,7 @@ tags:
 
 # vuepress-theme-minimalism
 
-##  introduction
+## introduction
 
 A minimalist vuepress theme, compatible with hexo YAML front matter syntax.
 ```
@@ -111,67 +110,54 @@ New styles folder in .vuepress directory, new palette.styl Configure css variabl
 
 The following color configurations are currently supported.
 
-``` stylus
-$accentColor = #31837c 
-$textColor = #2c3e50 
-$nprogressColor = #399c9c 
+```stylus
+$accentColor = #31837c
+$textColor = #2c3e50
+$nprogressColor = #399c9c
 ```
 
 #### config.js configuration
 
 ```js
 module.exports = {
-  // theme: 'vuepress-theme-minimalism',
-  base: '/',
-  title: '记录',
-  description: 'description...',
+  base: "/",
+  title: "sogud'blog",
+  theme: "vuepress-theme-minimalism",
   themeConfig: {
-    headerText: {
-      //deader text
-      index: 'ホーム',
-      all: '一覧',
-      tags: 'カテゴリー',
-      timeline: 'タイムライン',
-      seacrh: '探す'
-    },
-    //footer text
-    footerText:
-      '©2020 Power by <a href="https://vuepress.vuejs.org">VuePress</a> <a href="https://github.com/onnezezt/vuepress-theme-minimalism">Theme minimalism</a>',
-    homeBackground: {
-      //Home Background Color
-      //Set home page background color, false title is the default color
-      show: true,
-      fileName: '/xxx.jpg' // Background image name, stored in the public directory
-    },
-    PostsListPopover: false, //Whether to display the article content prompt
-
-    darkMode: {
-      //dark mode configuration
-      switch: true, 
-      auto: true, //automatic start
-      on: '18', //Time.
-      off: '6'
-    },
-    vssue: {
-      //评论组件
-      use: false,
-      option: {
-        owner: 'onnezezt',
-        repo: 'onnezezt.github.io',
-        clientId: 'xxxx',
-        clientSecret: 'xxxx' // It is only necessary to use certain platforms
+    nav: [
+      {
+        text: "文档",
+        link: "/list/"
+      },
+      {
+        text: "标签",
+        link: "/tag/"
+      },
+      {
+        text: "Github",
+        link: "https://github.com/sogud"
       }
-    }，
-    disqus: {
-      //use disqus reviews.
-      use: false,
-      option: {
-        name: 'xxx' // Replace PAGE_URL with your page's canonical URL variable
-      }
-    }
+    ]
+    footer: {
+      contact: "联系",
+      links: [
+        {
+          text: "GitHub",
+          link: 'https://github.com/sogud'
+        },
+        {
+          text: "Twitter",
+          link: ""
+        }
+      ]
+    },
+    comment: {
+      service: "disqus",
+      shortname: "1net-1"
+    },
   },
   markdown: {
-    lineNumbers: true
+    // lineNumbers: true
   }
 }
 ```

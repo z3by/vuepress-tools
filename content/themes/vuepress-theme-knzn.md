@@ -7,7 +7,7 @@ author:
   username: zhb333
 bugs: https://github.com/zhb333/vuepress-theme-knzn/issues
 category: themes
-date: '2022-05-21T11:07:18.605Z'
+date: '2022-05-22T16:35:39.421Z'
 deprecated: false
 description: blog theme for vuepress2
 downloads: null
@@ -29,10 +29,10 @@ publisher:
   url: null
   username: zhb333
 repository: https://github.com/zhb333/vuepress-theme-knzn
-score: 0.5065592631078022
+score: 0.5235357094313732
 stars: 1
 unstable: false
-version: 1.0.4
+version: 1.0.6
 watchers: 1
 
 ---

@@ -1,22 +1,25 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/78192711?v=4
-  email: zhangbowang1998@gmail.com
+  email: mister-hope@outlook.com
   name: Mr.Hope
   url: https://mrhope.site
-  username: mister-hope
+  username: vuepress-theme-hope
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues
 category: themes
-date: '2022-05-15T11:42:34.012Z'
+date: '2022-05-23T07:23:23.382Z'
 deprecated: false
-description: A light vuepress theme with tons for features
+description: A light vuepress theme with tons of features
 downloads: null
-homepage: https://vuepress-theme-hope.github.io
+homepage: https://vuepress-theme-hope.github.io/v2/
 keywords:
+- vuepress
+- vuepress2
+- theme
 - vuepress-theme
+- blog
 - vuepress-blog
 - vuepress-theme-blog
-- vuepress
 license: MIT License
 maintainers: null
 name: vuepress-theme-hope
@@ -28,11 +31,11 @@ publisher:
   url: null
   username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
-score: 0.7010073356243416
-stars: 539
+score: 0.6938912613809466
+stars: 544
 unstable: false
-version: 1.29.0
-watchers: 539
+version: 2.0.0-beta.71
+watchers: 544
 
 ---
 
