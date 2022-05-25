@@ -28,7 +28,7 @@ publisher:
   url: null
   username: kai9029
 repository: https://github.com/Kai9026/vuepress-plugin-tabs
-score: 0.33856923698525004
+score: 0.441482670500414
 stars: 0
 unstable: false
 version: 1.0.1

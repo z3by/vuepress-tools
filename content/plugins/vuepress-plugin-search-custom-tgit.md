@@ -28,7 +28,7 @@ publisher:
   url: null
   username: kylezhao
 repository: https://github.com/vuejs/vuepress
-score: 0.17441124152890408
+score: 0.1792685295663744
 stars: 0
 unstable: false
 version: 1.0.6

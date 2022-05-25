@@ -29,7 +29,7 @@ publisher:
   url: null
   username: shigma
 repository: https://github.com/vuepress-contrib/vuepress-plugin-migrate
-score: 0.17794855102510496
+score: 0.29885227976879497
 stars: 0
 unstable: false
 version: 1.0.3

@@ -30,7 +30,7 @@ publisher:
   url: null
   username: alija
 repository: https://github.com/sabicalija/vuepress-plugins
-score: 0.20989263936195363
+score: 0.3001032846224886
 stars: 0
 unstable: true
 version: 0.1.0

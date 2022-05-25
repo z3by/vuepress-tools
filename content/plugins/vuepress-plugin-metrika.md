@@ -30,7 +30,7 @@ publisher:
   url: null
   username: teners
 repository: https://github.com/teners/vuepress-plugin-metrika
-score: 0.4015744909214681
+score: 0.40947803875075506
 stars: 0
 unstable: false
 version: 1.0.3

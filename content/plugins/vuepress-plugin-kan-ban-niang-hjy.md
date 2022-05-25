@@ -27,7 +27,7 @@ publisher:
   url: null
   username: cschero101
 repository: https://github.com/vuepress-reco/vuepress-plugin-kan-ban-niang
-score: 0.20958242500281793
+score: 0.21027313198252295
 stars: 0
 unstable: false
 version: 1.1.2

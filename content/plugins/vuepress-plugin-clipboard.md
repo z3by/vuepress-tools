@@ -30,7 +30,7 @@ publisher:
   url: null
   username: zhengqbbb
 repository: https://github.com/Zhengqbbb/zhengqbbb.github.io/tree/main
-score: 0.5556880553457774
+score: 0.5557205713084692
 stars: 0
 unstable: false
 version: 2.1.0

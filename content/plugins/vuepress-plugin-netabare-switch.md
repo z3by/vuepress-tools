@@ -27,7 +27,7 @@ publisher:
   url: null
   username: mon_sat
 repository: https://github.com/monsat/vuepress-plugin-netabare-switch
-score: 0.5121759237767699
+score: 0.5129623907645549
 stars: 0
 unstable: false
 version: 1.0.0

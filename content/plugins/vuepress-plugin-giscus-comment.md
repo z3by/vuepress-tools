@@ -25,7 +25,7 @@ publisher:
   url: null
   username: presentkim
 repository: https://github.com/PresentKim/vuepress-plugin-giscus-comment
-score: 0.5468317647163602
+score: 0.5436716130593746
 stars: 2
 unstable: false
 version: 2.0.0

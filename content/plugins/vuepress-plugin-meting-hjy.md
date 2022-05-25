@@ -28,7 +28,7 @@ publisher:
   url: null
   username: cschero101
 repository: https://github.com/moefyit/vuepress-plugin-meting
-score: 0.0389400015959426
+score: 0.1576956601889007
 stars: 0
 unstable: true
 version: 0.3.2

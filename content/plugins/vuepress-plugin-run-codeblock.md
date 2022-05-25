@@ -30,7 +30,7 @@ publisher:
   url: null
   username: qinwencheng
 repository: https://github.com/qinwencheng/vuepress-plugin-run-codeblock
-score: 0.5136397640186539
+score: 0.5087533121134064
 stars: 0
 unstable: false
 version: 1.0.5

@@ -27,7 +27,7 @@ publisher:
   url: null
   username: zpj80231
 repository: https://github.com/zpj80231/vuepress-plugin-boxx
-score: 0.22321413487361563
+score: 0.3164279763568628
 stars: 0
 unstable: true
 version: 0.0.7

@@ -29,7 +29,7 @@ publisher:
   url: null
   username: sillevl
 repository: https://github.com/sillevl/vuepress-plugin-browserframe
-score: 0.3410045205345556
+score: 0.3914891378461569
 stars: 0
 unstable: true
 version: 0.1.0

@@ -7,9 +7,10 @@ author:
   username: null
 bugs: https://github.com/bougieL/vuepress-plugin-rss/issues
 category: plugins
-date: '2020-04-13T10:24:03.877Z'
+date: '2022-01-10T07:43:24.178Z'
 deprecated: false
-description: Generate `rss.xml` file with `content:encoded`
+description: Generate `rss.xml` file with `content:encoded` for rss client pretty
+  preview. Reference https://www.bougieblog.cn/rss.xml for example.
 downloads: null
 homepage: https://github.com/bougieL/vuepress-plugin-rss
 keywords:
@@ -28,10 +29,10 @@ publisher:
   url: null
   username: bougie
 repository: https://github.com/bougieL/vuepress-plugin-rss
-score: 0.28815728095016824
+score: 0.38531069169429566
 stars: 0
 unstable: false
-version: 1.0.0
+version: 1.0.1
 watchers: 0
 
 ---

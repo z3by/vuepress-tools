@@ -30,7 +30,7 @@ publisher:
   url: null
   username: webmasterish
 repository: https://github.com/webmasterish/vuepress-plugin-minimal-analytics
-score: 0.42035467384434466
+score: 0.5414164846080225
 stars: 11
 unstable: true
 version: 0.1.4

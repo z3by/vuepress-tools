@@ -26,7 +26,7 @@ publisher:
   url: null
   username: tchiotludo
 repository: https://github.com/tchiotludo/vuepress-plugin-child-toc
-score: 0.39579941844699845
+score: 0.2919818028148877
 stars: 0
 unstable: true
 version: 0.1.2

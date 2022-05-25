@@ -26,7 +26,7 @@ publisher:
   url: null
   username: llq
 repository: https://github.com/llqgit/vuepress-plugin-visit
-score: 0.045913132823378194
+score: 0.14943263247215519
 stars: 0
 unstable: true
 version: 0.1.0

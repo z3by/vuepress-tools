@@ -28,7 +28,7 @@ publisher:
   url: null
   username: shigma
 repository: https://github.com/vuepress/vuepress-plugin-git-log
-score: 0.2546292186855672
+score: 0.3657109123491864
 stars: 0
 unstable: false
 version: 1.0.1

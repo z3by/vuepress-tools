@@ -1,13 +1,13 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/93846129?v=4
+  avatar: null
   email: null
   name: qsyyke
   url: null
-  username: vuepress-aurora
+  username: null
 bugs: null
 category: plugins
-date: '2021-12-22T13:27:12.482Z'
+date: '2022-01-16T08:29:44.837Z'
 deprecated: false
 description: "A vuepress-based animation blog theme, simple, beautiful, multi-color,\
   \ multiple custom functions, providing article poster sharing, talk, photo album,\
@@ -26,7 +26,7 @@ keywords:
 - romantic bubble
 - vuepress
 - vuepress romantic
-license: false
+license: null
 maintainers: null
 name: vuepress-plugin-bubble
 npm: https://www.npmjs.com/package/vuepress-plugin-bubble
@@ -37,10 +37,10 @@ publisher:
   url: null
   username: qsyyke
 repository: https://github.com/vuepress-aurora/vuepress-plugin-bubble
-score: 0.44650044408825457
+score: 0.42442149501567944
 stars: 0
 unstable: false
-version: 1.0.3
+version: 1.0.4
 watchers: 0
 
 ---

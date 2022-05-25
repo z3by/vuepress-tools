@@ -30,7 +30,7 @@ publisher:
   url: null
   username: spekulatius
 repository: https://github.com/spekulatius/vuepress-plugin-umami
-score: 0.3462006672605473
+score: 0.43755313540202895
 stars: 0
 unstable: true
 version: 0.0.4

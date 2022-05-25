@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/35414841?v=4
+  avatar: null
   email: pikasama@qq.com
   name: Zorin
   url: null
@@ -13,7 +13,7 @@ description: null
 downloads: null
 homepage: https://github.com/Zolyn/vuepress-plugin-bbtalk#readme
 keywords: null
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-plugin-bbtalk
 npm: https://www.npmjs.com/package/vuepress-plugin-bbtalk
@@ -24,7 +24,7 @@ publisher:
   url: null
   username: zolyn
 repository: https://github.com/Zolyn/vuepress-plugin-bbtalk
-score: 0.4609649198949972
+score: 0.2955168712550429
 stars: 0
 unstable: true
 version: 1.0.0-alpha.1

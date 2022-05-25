@@ -24,7 +24,7 @@ publisher:
   url: null
   username: xieyx
 repository: https://github.com/xieyx/vuepress-plugin-git-contributor
-score: 0.3353405480644485
+score: 0.43147759304349176
 stars: 0
 unstable: false
 version: 1.1.1

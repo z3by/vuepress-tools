@@ -7,7 +7,7 @@ author:
   username: about-code
 bugs: https://github.com/about-code/vuepress-plugin-jsonld-playground/issues
 category: plugins
-date: '2021-10-24T09:00:08.132Z'
+date: '2022-01-25T21:20:35.588Z'
 deprecated: false
 description: A JSON-LD Playground component for vuepress (v1) and vuejs (v2).
 downloads: null
@@ -31,10 +31,10 @@ publisher:
   url: null
   username: about-code-js
 repository: https://github.com/about-code/vuepress-plugin-jsonld-playground
-score: 0.5160106909218315
+score: 0.49561482058603
 stars: 0
 unstable: false
-version: 1.0.3
+version: 1.1.0
 watchers: 0
 
 ---

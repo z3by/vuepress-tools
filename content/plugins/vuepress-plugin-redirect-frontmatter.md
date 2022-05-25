@@ -29,7 +29,7 @@ publisher:
   url: null
   username: ttskch
 repository: https://github.com/ttskch/vuepress-plugin-redirect-frontmatter
-score: 0.34860606658094
+score: 0.2846907338885969
 stars: 0
 unstable: false
 version: 1.0.0

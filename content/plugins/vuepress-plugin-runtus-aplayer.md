@@ -24,7 +24,7 @@ publisher:
   url: null
   username: runtu_go
 repository: https://github.com/Runtus/vuepress-plugin-runtus-aplayer
-score: 0.5122073388001672
+score: 0.484287772379564
 stars: 2
 unstable: false
 version: 1.0.2

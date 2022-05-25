@@ -1,13 +1,13 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/93846129?v=4
+  avatar: null
   email: null
   name: qsyyke
   url: null
-  username: vuepress-aurora
+  username: null
 bugs: https://github.com/vuepress-aurora/vuepress-plugin-archive/issues
 category: plugins
-date: '2021-12-22T13:26:50.171Z'
+date: '2022-01-16T08:30:16.222Z'
 deprecated: false
 description: "\u4E3AVuepress\u9759\u6001\u7AD9\u70B9\u63D0\u4F9B\u5728\u7EBF\u53D1\
   \u5E03\uFF0C\u7F16\u8F91\u8BF4\u8BF4\u529F\u80FD\uFF0C\u652F\u6301\u56FE\u7247\u4E0A\
@@ -27,7 +27,7 @@ keywords:
 - archive
 - vuepress-plugin-timeline
 - vuepress timeline
-license: false
+license: null
 maintainers: null
 name: vuepress-plugin-archive
 npm: https://www.npmjs.com/package/vuepress-plugin-archive
@@ -38,10 +38,10 @@ publisher:
   url: null
   username: qsyyke
 repository: https://github.com/vuepress-aurora/vuepress-plugin-archive
-score: 0.4756442770669978
+score: 0.4537388916197962
 stars: 0
 unstable: false
-version: 1.1.2
+version: 1.1.3
 watchers: 0
 
 ---

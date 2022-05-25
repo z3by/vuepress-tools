@@ -7,10 +7,10 @@ author:
   username: saltbo
 bugs: https://github.com/saltbo/vuepress-plugin-disqusjs/issues
 category: plugins
-date: '2020-05-20T13:33:48.223Z'
+date: '2022-01-23T06:39:14.158Z'
 deprecated: false
-description: "# Vuepress Plugin Disqusjs \U0001F50C Register a global `<Disqusjs />`\
-  \ component to add to your layouts."
+description: "\U0001F50C Register a global `<DisqusJS />` component to add to your\
+  \ layouts."
 downloads: null
 homepage: https://github.com/saltbo/vuepress-plugin-disqusjs#readme
 keywords: null
@@ -25,10 +25,10 @@ publisher:
   url: null
   username: saltbo
 repository: https://github.com/saltbo/vuepress-plugin-disqusjs
-score: 0.4057382110364127
+score: 0.47554514130387127
 stars: 0
 unstable: false
-version: 1.0.1
+version: 1.0.2
 watchers: 0
 
 ---

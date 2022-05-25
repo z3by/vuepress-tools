@@ -30,7 +30,7 @@ publisher:
   url: null
   username: vxhly
 repository: https://github.com/vxhly/vuepress-plugin-one-click-copy
-score: 0.5596972266146893
+score: 0.5355737714933446
 stars: 9
 unstable: false
 version: 1.0.6

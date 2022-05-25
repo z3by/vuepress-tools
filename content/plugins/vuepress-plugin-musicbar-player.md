@@ -34,7 +34,7 @@ publisher:
   url: null
   username: simonzhangs
 repository: https://github.com/simonzhangs/vuepress-plugin-music-player
-score: 0.5243459170624334
+score: 0.5035570957374689
 stars: 0
 unstable: false
 version: 1.0.4

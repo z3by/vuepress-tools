@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/25076543?v=4
+  avatar: null
   email: null
   name: "\u968F\u7B14\u5DDD\u8FF9 itclancoder \u7AD9\u70B9:http://itclan.cn/"
   url: null
-  username: itclanCode
+  username: null
 bugs: https://github.com/itclanCode/vuepress-plugin-readmore/issues
 category: plugins
 date: '2020-11-23T08:32:12.722Z'
@@ -21,7 +21,7 @@ keywords:
 - plugin
 - "\u9605\u8BFB\u66F4\u591A"
 - "\u6587\u7AE0\u9690\u85CF"
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-plugin-readmore
 npm: https://www.npmjs.com/package/vuepress-plugin-readmore
@@ -32,7 +32,7 @@ publisher:
   url: null
   username: itclan
 repository: https://github.com/itclanCode/vuepress-plugin-readmore
-score: 0.4317253452573811
+score: 0.39033519110449005
 stars: 0
 unstable: true
 version: 0.1.0
@@ -40,4 +40,3 @@ watchers: 0
 
 ---
 
-## vuePress-plugin-readmore 介绍

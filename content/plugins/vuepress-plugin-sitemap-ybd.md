@@ -30,7 +30,7 @@ publisher:
   url: null
   username: ybd0612
 repository: https://github.com/ybd0612/vuepress-plugin-sitemap
-score: 0.5185014058625383
+score: 0.5155874478514947
 stars: 0
 unstable: false
 version: 1.0.6

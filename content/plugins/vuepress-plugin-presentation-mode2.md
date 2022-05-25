@@ -25,7 +25,7 @@ publisher:
   url: null
   username: justforuse
 repository: https://github.com/justforuse/vuepress-plugin-presentation-mode2
-score: 0.5093860266048584
+score: 0.48276323375023494
 stars: 0
 unstable: false
 version: 1.0.3
