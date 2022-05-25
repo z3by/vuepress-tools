@@ -34,7 +34,7 @@ publisher:
   url: null
   username: danktuary
 repository: https://github.com/Danktuary/vuepress-theme-yuu
-score: 0.5113074017975723
+score: 0.4165077614184123
 stars: 72
 unstable: false
 version: 3.1.1

@@ -28,7 +28,7 @@ publisher:
   url: null
   username: songlairui
 repository: https://github.com/vuejs/vuepress
-score: 0.07494941876610799
+score: 0.17807428814424725
 stars: 0
 unstable: false
 version: 1.2.0

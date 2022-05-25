@@ -7,7 +7,7 @@ author:
   username: cosmos
 bugs: https://github.com/cosmos/vuepress-theme-cosmos/issues
 category: themes
-date: '2021-04-12T21:55:58.539Z'
+date: '2022-01-18T08:28:16.861Z'
 deprecated: false
 description: Theme for VuePress static site generator used by Tendermint and Cosmos
   projects.
@@ -31,10 +31,10 @@ publisher:
   url: null
   username: fadeev
 repository: https://github.com/cosmos/vuepress-theme-cosmos
-score: 0.5032867666253854
+score: 0.5174225790078266
 stars: 13
 unstable: false
-version: 1.0.182
+version: 1.0.183
 watchers: 13
 
 ---

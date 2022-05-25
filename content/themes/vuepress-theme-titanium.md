@@ -7,7 +7,7 @@ author:
   username: tidev
 bugs: https://github.com/appcelerator/docs-devkit/issues
 category: themes
-date: '2020-11-10T19:22:07.431Z'
+date: '2022-05-23T15:15:48.043Z'
 deprecated: false
 description: VuePress theme for Titanium projects
 downloads: null
@@ -19,15 +19,15 @@ name: vuepress-theme-titanium
 npm: https://www.npmjs.com/package/vuepress-theme-titanium
 publisher:
   avatar: null
-  email: npmjs@appcelerator.com
+  email: chris@cb1inc.com
   name: null
   url: null
-  username: appcelerator
+  username: cb1kenobi
 repository: https://github.com/appcelerator/docs-devkit
-score: 0.4951298777912364
+score: 0.5055258079672408
 stars: 22
 unstable: false
-version: 4.9.0
+version: 4.9.1
 watchers: 22
 
 ---

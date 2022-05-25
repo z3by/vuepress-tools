@@ -29,7 +29,7 @@ publisher:
   url: null
   username: whu-luojian
 repository: https://github.com/whu-luojian/vuepress-theme-antdesign
-score: 0.3274044881817003
+score: 0.28974575118890933
 stars: 0
 unstable: false
 version: 1.2.1

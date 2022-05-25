@@ -7,7 +7,7 @@ author:
   username: 80maker
 bugs: https://github.com/80maker/vuepress-theme-maker/issues
 category: themes
-date: '2021-04-28T06:04:30.650Z'
+date: '2022-02-19T15:23:35.957Z'
 deprecated: false
 description: "\U0001F409 A flat and clean Blog Theme for VuePress site | \u4E00\u6B3E\
   \u591A\u914D\u7F6E\u3001\u7B80\u7EA6\u98CE\u7684VuePress\u4E3B\u9898."
@@ -30,10 +30,10 @@ publisher:
   url: null
   username: 80maker
 repository: https://github.com/80maker/vuepress-theme-maker
-score: 0.5499042551921263
+score: 0.5418252727225145
 stars: 55
 unstable: false
-version: 1.2.0
+version: 1.2.1
 watchers: 55
 
 ---

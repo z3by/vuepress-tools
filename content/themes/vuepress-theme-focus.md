@@ -25,7 +25,7 @@ publisher:
   url: null
   username: xiangxiao
 repository: https://github.com/ulivz/40-lines-of-vuepress-blog-theme
-score: 0.15528080910648154
+score: 0.2808143947398011
 stars: 0
 unstable: true
 version: 0.1.0-alpha.2

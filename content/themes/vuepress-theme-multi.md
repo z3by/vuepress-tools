@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/13756745?v=4
   email: null
   name: dmate
   url: null
-  username: null
+  username: cfharyadi
 bugs: https://github.com/cfharyadi/vuepress-theme-multi/issues
 category: themes
 date: '2018-05-26T12:54:54.239Z'
@@ -13,7 +13,7 @@ description: null
 downloads: null
 homepage: https://github.com/cfharyadi/vuepress-theme-multi#readme
 keywords: null
-license: null
+license: false
 maintainers: null
 name: vuepress-theme-multi
 npm: https://www.npmjs.com/package/vuepress-theme-multi
@@ -24,7 +24,7 @@ publisher:
   url: null
   username: dmate
 repository: https://github.com/cfharyadi/vuepress-theme-multi
-score: 0.28273503546176004
+score: 0.4017889769420885
 stars: 0
 unstable: false
 version: 1.0.6

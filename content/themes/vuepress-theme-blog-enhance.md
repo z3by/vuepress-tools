@@ -24,7 +24,7 @@ publisher:
   url: null
   username: himself65
 repository: https://github.com/ulivz/vuepress-theme-blog
-score: 0.4055685838793125
+score: 0.4059164883066166
 stars: 190
 unstable: false
 version: 1.3.5

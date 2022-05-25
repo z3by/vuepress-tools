@@ -30,11 +30,11 @@ publisher:
   url: null
   username: wowthemesnet
 repository: https://github.com/wowthemesnet/mediumish-vuepress-blog-theme
-score: 0.6183308749031674
-stars: 92
+score: 0.6306124586839854
+stars: 93
 unstable: false
 version: 1.0.32
-watchers: 92
+watchers: 93
 
 ---
 

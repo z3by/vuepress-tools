@@ -24,7 +24,7 @@ publisher:
   url: null
   username: runtu_go
 repository: https://github.com/Runtus/vuepress-theme-runtu
-score: 0.5127128195147708
+score: 0.5123520647134566
 stars: 0
 unstable: false
 version: 1.0.9

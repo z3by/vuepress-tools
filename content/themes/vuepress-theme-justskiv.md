@@ -7,7 +7,7 @@ author:
   username: JustSkiv
 bugs: https://github.com/JustSkiv/vuepress-theme-justskiv/issues
 category: themes
-date: '2021-07-10T14:06:55.026Z'
+date: '2022-02-18T12:00:40.754Z'
 deprecated: false
 description: A flat and clean Blog Theme for VuePress site
 downloads: null
@@ -29,10 +29,10 @@ publisher:
   url: null
   username: justskiv
 repository: https://github.com/JustSkiv/vuepress-theme-justskiv
-score: 0.4812055609782655
+score: 0.5028981881637643
 stars: 0
-unstable: true
-version: 0.6.5
+unstable: false
+version: 1.0.0
 watchers: 0
 
 ---

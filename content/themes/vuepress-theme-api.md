@@ -29,7 +29,7 @@ publisher:
   url: null
   username: sqrtthree
 repository: https://github.com/sqrthree/vuepress-theme-api
-score: 0.5750558593923832
+score: 0.5707860195283492
 stars: 337
 unstable: false
 version: 1.0.1

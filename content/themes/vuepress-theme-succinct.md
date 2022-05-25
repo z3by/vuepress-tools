@@ -28,7 +28,7 @@ publisher:
   url: null
   username: naiyer
 repository: https://github.com/Microflash/vuepress-theme-succinct
-score: 0.5306935498734675
+score: 0.37526624724002516
 stars: 30
 unstable: false
 version: 1.7.2

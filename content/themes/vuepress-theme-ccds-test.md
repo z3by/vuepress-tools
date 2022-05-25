@@ -13,7 +13,7 @@ description: This is an anime blog theme based on vuepress, the theme is simple,
   versatile, and supports customization, providing multiple components to set the
   theme
 downloads: null
-homepage: https://theme-ccds.cco.vin/
+homepage: https://github.com/qsyyke/vuepress-theme-ccds#readme
 keywords:
 - vuepress-theme
 - vuepress-theme-ccds
@@ -35,7 +35,7 @@ publisher:
   url: null
   username: chuchen
 repository: https://github.com/qsyyke/vuepress-theme-ccds
-score: 0.20900172072984174
+score: 0.17874888795358937
 stars: 0
 unstable: false
 version: 1.2.4

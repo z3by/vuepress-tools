@@ -24,7 +24,7 @@ publisher:
   url: null
   username: wxsm
 repository: https://github.com/wxsms/vuepress-theme-mini
-score: 0.5520188485535433
+score: 0.5601300215465952
 stars: 21
 unstable: false
 version: 3.1.1

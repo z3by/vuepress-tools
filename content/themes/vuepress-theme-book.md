@@ -7,11 +7,11 @@ author:
   username: cyrilf
 bugs: https://github.com/cyrilf/vuepress-theme-book/issues
 category: themes
-date: '2021-08-08T13:12:18.878Z'
+date: '2022-03-18T21:55:55.711Z'
 deprecated: false
 description: A Vuepress theme inspired by gitbook aesthetics
 downloads: null
-homepage: https://github.com/cyrilf/vuepress-theme-book
+homepage: https://vuepress-theme-book.netlify.app/
 keywords:
 - vuepress
 - theme
@@ -28,10 +28,10 @@ publisher:
   url: null
   username: cyrilf
 repository: https://github.com/cyrilf/vuepress-theme-book
-score: 0.4346960704160928
+score: 0.5470652392146793
 stars: 107
 unstable: true
-version: 0.0.6
+version: 0.0.9
 watchers: 107
 
 ---

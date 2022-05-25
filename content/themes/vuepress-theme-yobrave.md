@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/20272484?v=4
   email: null
   name: chinanf-boy
   url: null
-  username: null
+  username: chinanf-boy
 bugs: https://github.com/chinanf-boy/vuepress-theme-yobrave/issues
 category: themes
 date: '2018-07-13T08:46:08.293Z'
@@ -15,7 +15,7 @@ homepage: https://github.com/chinanf-boy/vuepress-theme-yobrave#readme
 keywords:
 - vuepress
 - theme
-license: null
+license: false
 maintainers: null
 name: vuepress-theme-yobrave
 npm: https://www.npmjs.com/package/vuepress-theme-yobrave
@@ -26,11 +26,16 @@ publisher:
   url: null
   username: yobrave1995
 repository: https://github.com/chinanf-boy/vuepress-theme-yobrave
-score: 0.3119707812024312
+score: 0.4302054522556132
 stars: 0
 unstable: false
 version: 1.0.0
 watchers: 0
 
 ---
+
+# vuepress-theme-yobarve 
+
+「 Copy from vuepress-theme-vue theme , but remove abs」
+
 

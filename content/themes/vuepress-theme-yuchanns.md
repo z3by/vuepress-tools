@@ -27,7 +27,7 @@ publisher:
   url: null
   username: yuchanns
 repository: https://github.com/yuchanns/vuepress-theme-yuchanns
-score: 0.47669570099577224
+score: 0.5586562420612788
 stars: 10
 unstable: false
 version: 1.0.0

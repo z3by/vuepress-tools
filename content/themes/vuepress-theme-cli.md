@@ -7,7 +7,7 @@ author:
   username: vuepress-aurora
 bugs: https://github.com/vuepress-aurora/theme-cli/issues
 category: themes
-date: '2021-11-30T04:02:51.503Z'
+date: '2022-03-18T04:47:34.392Z'
 deprecated: false
 description: "\u8FD9\u662F\u4E00\u4E2Avuepress2\u7248\u672C\u7684\u535A\u5BA2\u811A\
   \u624B\u67B6\uFF0C\u4F7F\u7528\u4E0B\u9762\u547D\u4EE4\uFF0C\u4FBF\u53EF\u4EE5\u975E\
@@ -33,10 +33,10 @@ publisher:
   url: null
   username: qsyyke
 repository: https://github.com/vuepress-aurora/theme-cli
-score: 0.5202245716178917
+score: 0.5074083985493029
 stars: 0
 unstable: false
-version: 1.0.4
+version: 1.0.5
 watchers: 0
 
 ---

@@ -28,7 +28,7 @@ publisher:
   url: null
   username: lisniuse
 repository: https://github.com/lisniuse/vuepress-theme-teadocs
-score: 0.2623460280630563
+score: 0.2678470687146841
 stars: 0
 unstable: false
 version: 1.3.9

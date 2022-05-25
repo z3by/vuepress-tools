@@ -28,7 +28,7 @@ publisher:
   url: null
   username: zhaopan
 repository: https://github.com/zhaopande/vuepress-theme-zp
-score: 0.46432855752820534
+score: 0.40902453475501055
 stars: 0
 unstable: true
 version: 0.0.6

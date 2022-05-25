@@ -24,7 +24,7 @@ publisher:
   url: null
   username: phshy0607
 repository: https://github.com/phshy0607/vuepress-theme-light
-score: 0.37931883691961804
+score: 0.4532092059934117
 stars: 0
 unstable: false
 version: 1.0.7

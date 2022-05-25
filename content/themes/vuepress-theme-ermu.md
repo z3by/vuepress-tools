@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/27935613?v=4
   email: xsl0420@126.com
   name: ermu
   url: null
@@ -16,7 +16,7 @@ keywords:
 - vuepress
 - theme
 - blog
-license: null
+license: MIT License
 maintainers: null
 name: vuepress-theme-ermu
 npm: https://www.npmjs.com/package/vuepress-theme-ermu
@@ -27,7 +27,7 @@ publisher:
   url: null
   username: ermu
 repository: https://github.com/ermu0420/vuepress-theme-ermu
-score: 0.31438145294026554
+score: 0.43515848991313866
 stars: 0
 unstable: false
 version: 1.0.4
@@ -35,3 +35,14 @@ watchers: 0
 
 ---
 
+# vuepress-theme-ermu
+
+> theme-ermu for vuepress
+
+## Plugins
+
+The ermu theme has the following plugin built in:
+
+- [@vuepress/plugin-active-header-links](https://github.com/vuejs/vuepress/tree/master/packages/@vuepress/plugin-active-header-links)
+- [@vuepress/plugin-google-analytics](https://github.com/vuejs/vuepress/tree/master/packages/%40vuepress/plugin-google-analytics)
+- [@vuepress/plugin-search](https://github.com/vuejs/vuepress/tree/master/packages/%40vuepress/plugin-search)

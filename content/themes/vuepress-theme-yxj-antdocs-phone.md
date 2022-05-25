@@ -11,7 +11,7 @@ date: '2020-06-19T09:48:17.377Z'
 deprecated: false
 description: An Ant Design style theme for VuePress.
 downloads: null
-homepage: http://antdocs.seeyoz.cn
+homepage: https://github.com/lq782655835/vuepress-theme-antdocs#readme
 keywords:
 - theme
 - vuepress
@@ -30,7 +30,7 @@ publisher:
   url: null
   username: ccj7373
 repository: https://github.com/lq782655835/vuepress-theme-antdocs
-score: 0.446240811047392
+score: 0.4379807679399871
 stars: 1
 unstable: false
 version: 1.0.30

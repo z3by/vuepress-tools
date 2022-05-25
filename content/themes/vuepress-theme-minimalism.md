@@ -7,12 +7,13 @@ author:
   username: sogud
 bugs: https://github.com/sogud/vuepress-theme-minimalism/issues
 category: themes
-date: '2022-05-21T14:42:43.690Z'
+date: '2022-05-23T14:31:45.703Z'
 deprecated: false
 description: theme for vuepress
 downloads: null
 homepage: https://github.com/sogud/vuepress-theme-minimalism#readme
 keywords:
+- vuepress-theme
 - vue
 - vuepress
 - theme
@@ -30,10 +31,10 @@ publisher:
   url: null
   username: sogud
 repository: https://github.com/sogud/vuepress-theme-minimalism
-score: 0.6074332596399423
+score: 0.6077701762478156
 stars: 20
 unstable: false
-version: 1.1.6
+version: 1.1.9
 watchers: 20
 
 ---

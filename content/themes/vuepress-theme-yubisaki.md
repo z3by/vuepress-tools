@@ -27,7 +27,7 @@ publisher:
   url: null
   username: wuwaki
 repository: https://github.com/Bloss/vuepress-theme-yubisaki
-score: 0.37620848085015357
+score: 0.504756024353817
 stars: 199
 unstable: false
 version: 3.1.9

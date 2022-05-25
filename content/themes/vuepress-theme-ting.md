@@ -3,16 +3,16 @@ author:
   avatar: https://avatars.githubusercontent.com/u/29857880?v=4
   email: 924471303@qq.com
   name: chenyating
-  url: https://www.yating.online/
+  url: https://www.yating.world/
   username: chenyating
 bugs: https://github.com/Chenyating/vuepress-theme-ting/issues
 category: themes
-date: '2020-05-13T05:51:34.761Z'
+date: '2022-01-25T02:32:37.020Z'
 deprecated: false
 description: "\u5C0F\u6E05\u65B0\u770B\u677F\u5A18\u4E3B\u9898,small fresh vuepress\
   \ theme vuepress theme Ting"
 downloads: null
-homepage: https://www.yating.online/
+homepage: https://www.yating.world/
 keywords:
 - vuepress
 - vuepressjs
@@ -29,10 +29,10 @@ publisher:
   url: null
   username: chenyating
 repository: https://github.com/Chenyating/vuepress-theme-ting
-score: 0.5001875508062201
+score: 0.5334661726414435
 stars: 114
 unstable: false
-version: 2.0.2
+version: 3.0.1
 watchers: 114
 
 ---

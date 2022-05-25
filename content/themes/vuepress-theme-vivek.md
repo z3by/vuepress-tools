@@ -7,7 +7,7 @@ author:
   username: eddievandeer
 bugs: https://github.com/eddievandeer/vuepress-theme-vivek/issues
 category: themes
-date: '2021-11-24T13:20:46.236Z'
+date: '2022-03-02T08:19:04.315Z'
 deprecated: false
 description: "A simple style vuepress theme. \u4E00\u4E2A\u7B80\u7EA6\u98CE\u683C\u7684\
   vuepress\u4E3B\u9898\u3002"
@@ -31,10 +31,10 @@ publisher:
   url: null
   username: cavalheiro
 repository: https://github.com/eddievandeer/vuepress-theme-vivek
-score: 0.50564495265299
+score: 0.49579989769885735
 stars: 1
 unstable: false
-version: 1.2.0
+version: 1.2.2
 watchers: 1
 
 ---
