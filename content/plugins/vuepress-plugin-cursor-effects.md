@@ -51,7 +51,7 @@ watchers: 18
 -  Document: [moefy-vuepress](https://moefyit.github.io/moefy-vuepress/)
 -  Live demo: [notev](https://nyakku.moe/)
 
-> Want to use it outside of VuePress? Try [moefy-canvas](https://github.com/moefyit/moefy-canvas)!
+> Want to use it outside of VuePress1.x? Try [moefy-canvas](https://github.com/moefyit/moefy-canvas)!
 
 ## Install
 

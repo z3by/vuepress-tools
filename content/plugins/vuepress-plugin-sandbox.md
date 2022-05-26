@@ -7,7 +7,7 @@ author:
   username: '2214962083'
 bugs: https://github.com/2214962083/vue-superman/issues
 category: plugins
-date: '2022-05-19T07:03:03.749Z'
+date: '2022-05-24T15:19:26.323Z'
 deprecated: false
 description: a codesandbox playground for vuepress
 downloads: null
@@ -34,10 +34,10 @@ publisher:
   url: null
   username: guhuatai
 repository: https://github.com/2214962083/vue-superman
-score: 0.551675465729709
+score: 0.5527181800347134
 stars: 4
 unstable: true
-version: 0.1.7
+version: 0.1.9
 watchers: 4
 
 ---
