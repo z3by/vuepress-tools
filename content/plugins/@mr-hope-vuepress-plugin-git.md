@@ -28,10 +28,10 @@ publisher:
   username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
 score: 0.6954080830693712
-stars: 553
+stars: 554
 unstable: false
 version: 1.29.0
-watchers: 553
+watchers: 554
 
 ---
 
@@ -113,12 +113,12 @@ Also V2 has a better performance:🚀
 
 V2 基于 _VuePress2_， 带有 _Vite2_ / _Webpack5_ 和 _Vue3_ 的强大功能。
 
-V2 完全重写，包括：
+V2 完全重写，包括:
 
 - 所有组件都用 _Vue3 中的 Composition API_ 重写
 - 所有样式都迁移到 _Sass_
 
-V2 也有更好的性能：🚀
+V2 也有更好的性能 🚀:
 
 - DevServer 冷启动时间减少 **50%**
 - 构建内存减小 **65%**
