@@ -16,7 +16,7 @@ homepage: https://github.com/FriendlyUser/vuepress-theme-cool#readme
 keywords:
 - vue
 - vuepress
-license: Other
+license: MIT License
 maintainers: null
 name: vuepress-theme-cool
 npm: https://www.npmjs.com/package/vuepress-theme-cool

@@ -30,10 +30,10 @@ publisher:
   username: artiely
 repository: https://github.com/artiely/vuepress-theme-dog
 score: 0.46275032004125816
-stars: 0
+stars: 1
 unstable: true
 version: 1.0.0-beta.38
-watchers: 0
+watchers: 1
 
 ---
 
