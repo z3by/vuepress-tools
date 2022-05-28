@@ -26,11 +26,11 @@ publisher:
   url: null
   username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
-score: 0.6804997566421733
-stars: 554
+score: 0.6808439759644718
+stars: 555
 unstable: false
 version: 2.0.0-beta.40
-watchers: 554
+watchers: 555
 
 ---
 

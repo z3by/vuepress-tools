@@ -27,10 +27,10 @@ publisher:
   username: merlin218
 repository: https://github.com/Merlin218/vuepress-auto-navbar
 score: 0.507139276216889
-stars: 2
+stars: 3
 unstable: false
 version: 1.0.13
-watchers: 2
+watchers: 3
 
 ---
 

@@ -7,9 +7,10 @@ author:
   username: '2214962083'
 bugs: https://github.com/2214962083/vue-superman/issues
 category: plugins
-date: '2022-05-24T15:19:26.323Z'
+date: '2022-05-26T06:04:24.221Z'
 deprecated: false
-description: a codesandbox playground for vuepress
+description: It is a vuepress plugin based on vue-playground, which supports rapid
+  writing of demos of real-time editing, real-time compilation, and real-time preview.
 downloads: null
 homepage: https://github.com/2214962083/vue-superman#readme
 keywords:
@@ -34,11 +35,11 @@ publisher:
   url: null
   username: guhuatai
 repository: https://github.com/2214962083/vue-superman
-score: 0.5527181800347134
-stars: 15
+score: 0.5253772325160156
+stars: 18
 unstable: true
-version: 0.1.9
-watchers: 15
+version: 0.1.10
+watchers: 18
 
 ---
 
