@@ -7,7 +7,7 @@ author:
   username: tsedio
 bugs: https://github.com/tsedio/vuepress-theme-tsed/issues
 category: themes
-date: '2022-01-16T08:39:13.856Z'
+date: '2022-05-27T15:36:17.858Z'
 deprecated: false
 description: Vuepress theme for tsed.io
 downloads: null
@@ -24,10 +24,10 @@ publisher:
   url: null
   username: romakita
 repository: https://github.com/tsedio/vuepress-theme-tsed
-score: 0.6031485249061157
+score: 0.6057591935785281
 stars: 5
 unstable: false
-version: 3.19.5
+version: 3.20.3
 watchers: 5
 
 ---
