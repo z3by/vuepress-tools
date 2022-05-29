@@ -18,7 +18,7 @@ keywords:
 - canvas-nest
 - vuepress-nest
 - nest
-license: MIT License
+license: Other
 maintainers: null
 name: vuepress-plugin-nest
 npm: https://www.npmjs.com/package/vuepress-plugin-nest

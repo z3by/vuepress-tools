@@ -19,7 +19,7 @@ keywords:
 - vuepress-one-click-copy
 - copy
 - one-click-copy
-license: MIT License
+license: Other
 maintainers: null
 name: vuepress-plugin-one-click-copy
 npm: https://www.npmjs.com/package/vuepress-plugin-one-click-copy

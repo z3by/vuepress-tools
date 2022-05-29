@@ -7,7 +7,7 @@ author:
   username: null
 bugs: https://github.com/Zhengqbbb/zhengqbbb.github.io/issues
 category: plugins
-date: '2022-05-22T15:34:03.591Z'
+date: '2022-05-28T06:26:52.748Z'
 deprecated: false
 description: VuePress plugin - China search console
 downloads: null
@@ -32,10 +32,10 @@ publisher:
   url: null
   username: zhengqbbb
 repository: https://github.com/Zhengqbbb/zhengqbbb.github.io/tree/main
-score: 0.5545582872161916
+score: 0.496774449683001
 stars: 0
 unstable: false
-version: 2.1.0
+version: 2.1.1
 watchers: 0
 
 ---

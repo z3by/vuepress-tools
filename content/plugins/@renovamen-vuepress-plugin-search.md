@@ -25,10 +25,10 @@ publisher:
   username: renovamen
 repository: https://github.com/Renovamen/vuepress-theme-gungnir
 score: 0.5870494867500262
-stars: 221
+stars: 222
 unstable: false
 version: 2.0.0-alpha.4
-watchers: 221
+watchers: 222
 
 ---
 
@@ -76,7 +76,7 @@ TODO:
 
 ## Installation
 
-Please make sure you are using the latest version of VuePress (2.0.0-beta.45) and theme Gungnir.
+Please make sure you are using the latest version of VuePress (2.0.0-beta.46) and theme Gungnir.
 
 ```bash
 pnpm install -D vuepress vuepress-theme-gungnir@next
@@ -88,7 +88,7 @@ pnpm install -D vuepress vuepress-theme-gungnir@next
 ## Documentation & Live Demos
 
 - Documentation: [v2-vuepress-theme-gungnir.vercel.app](https://v2-vuepress-theme-gungnir.vercel.app)
-- My blog: [zxh.io](https://zxh.io/)
+- My blog: [blog.zxh.io](https://blog.zxh.io)
 
 
 &nbsp;

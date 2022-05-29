@@ -7,7 +7,7 @@ author:
   username: null
 bugs: https://github.com/zhengqbbb/zhengqbbb.github.io
 category: plugins
-date: '2022-05-22T15:33:55.654Z'
+date: '2022-05-28T06:26:45.718Z'
 deprecated: false
 description: Vuepress2 plugin - code clipboard
 downloads: null
@@ -30,10 +30,10 @@ publisher:
   url: null
   username: zhengqbbb
 repository: https://github.com/Zhengqbbb/zhengqbbb.github.io/tree/main
-score: 0.5557205713084692
+score: 0.4979077730420892
 stars: 0
 unstable: false
-version: 2.1.0
+version: 2.1.1
 watchers: 0
 
 ---

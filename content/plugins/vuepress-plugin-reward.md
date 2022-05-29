@@ -18,7 +18,7 @@ keywords:
 - WeChat
 - Alipay
 - reward
-license: MIT License
+license: Other
 maintainers: null
 name: vuepress-plugin-reward
 npm: https://www.npmjs.com/package/vuepress-plugin-reward
