@@ -40,7 +40,6 @@ watchers: 0
 
 ![下载](https://img.shields.io/npm/dw/vuepress-plugin-easy-sidebar)
 ![协议](https://img.shields.io/github/license/IFreeOvO/vuepress-plugin-easy-sidebar)
-![大小](https://img.shields.io/github/size/IFreeOvO/vuepress-plugin-easy-sidebar/src/index.ts)
 
 ## 介绍（Introduction）
 
