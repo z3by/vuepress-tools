@@ -7,7 +7,7 @@ author:
   username: yanyu-fe
 bugs: https://github.com/yanyu-fe/vuepress-plugins/issues
 category: themes
-date: '2022-05-15T23:48:08.741Z'
+date: '2022-05-31T15:14:29.102Z'
 deprecated: false
 description: Dumi theme of VuePress
 downloads: null
@@ -29,10 +29,10 @@ publisher:
   url: null
   username: aibayanyu
 repository: https://github.com/yanyu-fe/vuepress-plugins
-score: 0.58640339301858
+score: 0.5872766414426488
 stars: 8
 unstable: false
-version: 1.1.2
+version: 1.1.3
 watchers: 8
 
 ---

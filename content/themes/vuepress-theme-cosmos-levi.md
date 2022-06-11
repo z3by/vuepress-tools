@@ -17,7 +17,7 @@ keywords:
 - docs
 - vuepress
 - theme
-license: Apache License 2.0
+license: Other
 maintainers: null
 name: vuepress-theme-cosmos-levi
 npm: https://www.npmjs.com/package/vuepress-theme-cosmos-levi
