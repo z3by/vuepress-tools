@@ -7,7 +7,7 @@ author:
   username: aibayanyu
 bugs: https://github.com/yanyu-fe/vuepress-plugins/issues
 category: plugins
-date: '2022-05-15T23:48:24.655Z'
+date: '2022-05-31T15:14:17.040Z'
 deprecated: false
 description: "vuepress@v2\u4EE3\u7801\u5B9E\u73B0\u4EE3\u7801\u5757demo\u5C55\u793A"
 downloads: null
@@ -25,10 +25,10 @@ publisher:
   url: null
   username: aibayanyu
 repository: https://github.com/yanyu-fe/vuepress-plugins
-score: 0.5735520040242523
+score: 0.5749802150971681
 stars: 8
 unstable: true
-version: 0.1.1
+version: 0.1.2
 watchers: 8
 
 ---

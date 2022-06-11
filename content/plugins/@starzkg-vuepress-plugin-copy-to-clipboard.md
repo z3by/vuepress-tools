@@ -36,6 +36,9 @@ watchers: 1
 
 ---
 
+
+简体中文 | [English](README.en.md)
+
 # vuepress-theme-star
 
 [![github check](https://github.com/vuepress/vuepress-next/workflows/check/badge.svg)](https://github.com/vuepress/vuepress-next/actions?query=workflow%3Acheck)
@@ -52,27 +55,35 @@ watchers: 1
 [![license](https://badgen.net/github/license/vuepress-star/vuepress-theme-star)](https://github.com/vuepress-star/vuepress-theme-star/blob/main/LICENSE)
 [![discord](https://badgen.net/discord/online-members/ptFjefy6H5?icon=discord&label=discord)](https://discord.gg/ptFjefy6H5)
 
-## Status: Beta
+A Vuepress Theme With Tons of Features ✨
+
+## 状态: Beta
 
 For users from VuePress v1, please check out the [migration guide](https://v2.vuepress.vuejs.org/guide/migration.html).
 
 For users who want to follow our progress or contribute to this project, please check out
 the [roadmap](https://github.com/vuepress-star/vuepress-theme-star/discussions/68).
 
-## Example
+![Alt](https://repobeats.axiom.co/api/embed/2827b1222a806940ade242aea985f0008bf8a7de.svg "Repobeats analytics image")
 
-https://vuepress-star/
+## 示例
 
-## Documentation
+https://vuepress-star.github.io/
+
+## 文档
 
 https://v2.vuepress.vuejs.org
 
-https://vuepress-star/docs/
+https://vuepress-star.github.io/docs/
 
-## Contribution
+## 联系
+
+We recommend you to contact using issues and discussions.
+
+## 贡献
 
 See [Contributing Guide](https://github.com/vuepress-star/vuepress-theme-star/blob/main/docs/contributing.md).
 
-## License
+## 许可
 
 [MIT](https://github.com/vuepress-star/vuepress-theme-star/blob/main/LICENSE)

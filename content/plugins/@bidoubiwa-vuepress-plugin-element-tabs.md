@@ -28,10 +28,10 @@ publisher:
   username: bidoubiwa
 repository: https://github.com/bidoubiwa/vuepress-plugin-element-tabs
 score: 0.511600273346017
-stars: 0
+stars: 1
 unstable: true
 version: 0.2.9
-watchers: 0
+watchers: 1
 
 ---
 

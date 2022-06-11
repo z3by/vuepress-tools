@@ -29,10 +29,10 @@ publisher:
   username: xinlei3166
 repository: https://github.com/xinlei3166/vuepress-plugin-demoblock-plus
 score: 0.5171677888446938
-stars: 14
+stars: 16
 unstable: false
 version: 1.5.1
-watchers: 14
+watchers: 16
 
 ---
 
@@ -50,7 +50,10 @@ vuepress-plugin-demoblock-plus 参考了 [Element UI](https://github.com/element
 
 [查看Demo](https://xinlei3166.github.io/vuepress-demo/)
 
-
+## 提示
+由于vuepress最新版修改了插件的使用方式，插件v1.6.0已支持。
+旧版vuepress，插件使用v1.5.1即可。
+待vuepress新版本稳定文档更新后，文档会同步修改。
 
 ## 安装
 

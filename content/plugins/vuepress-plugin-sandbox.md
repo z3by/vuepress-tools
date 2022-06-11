@@ -36,10 +36,10 @@ publisher:
   username: guhuatai
 repository: https://github.com/2214962083/vue-superman
 score: 0.5253772325160156
-stars: 19
+stars: 22
 unstable: true
 version: 0.1.10
-watchers: 19
+watchers: 22
 
 ---
 
@@ -50,7 +50,7 @@ watchers: 19
   <h1>Vue Superman</h1>
   <p>Vue useful lib collection, use vue like a superman, but not only vue.</p>
   <p>
-    <span>English</span>&emsp;|&emsp;<a href="./README_zh-CN.md">简体中文</a>
+    <h3><span>English</span>&emsp;|&emsp;<a href="./README_zh-CN.md">简体中文</a></h3>
   </p>
   <p>
     <img src="https://img.shields.io/github/package-json/v/2214962083/vue-superman" alt="version">
@@ -71,12 +71,12 @@ Although it's called Vue Superman, the library provided is not limited to Vue. I
 
 ## Libs List
 
-| name                                                           | Description                                                                                                                                                |
-| -------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [vue-xrender](./packages/vue-xrender/)                         | A library that allows you to render jsx in vue template or render template string in jsx, free rendering is up to you. Support vue2 and vue3.              |
-| [class-mock](./packages/class-mock/)                           | A mock library that allows you use decorators with classes to generate fake data. Based on faker.js library.                                               |
-| [vue-playground](./packages/vue-playground/)                   | A code editor runner, real-time editing, real-time compilation, real-time preview.                                                                         |
-| [vuepress-plugin-sandbox](./packages/vuepress-plugin-sandbox/) | It is a vuepress plugin based on vue-playground, which supports rapid writing of demos of real-time editing, real-time compilation, and real-time preview. |
+| Name                                                           | Document                                                              | Version                                                                                          | Description                                                                                                                                                |
+| -------------------------------------------------------------- | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [vue-xrender](./packages/vue-xrender/)                         | [link](https://vue-superman.vercel.app/libs/vue-xrender/)             | <img src="https://img.shields.io/npm/v/vue-xrender?style=flat-square" alt="version">             | A library that allows you to render jsx in vue template or render template string in jsx, free rendering is up to you. Support vue2 and vue3.              |
+| [class-mock](./packages/class-mock/)                           | [link](https://vue-superman.vercel.app/libs/class-mock/)              | <img src="https://img.shields.io/npm/v/class-mock?style=flat-square" alt="version">              | A mock library that allows you use decorators with classes to generate fake data. Based on faker.js library.                                               |
+| [vue-playground](./packages/vue-playground/)                   | [link](https://vue-superman.vercel.app/libs/vue-playground/)          | <img src="https://img.shields.io/npm/v/vue-playground?style=flat-square" alt="version">          | A code editor runner, real-time editing, real-time compilation, real-time preview.                                                                         |
+| [vuepress-plugin-sandbox](./packages/vuepress-plugin-sandbox/) | [link](https://vue-superman.vercel.app/libs/vuepress-plugin-sandbox/) | <img src="https://img.shields.io/npm/v/vuepress-plugin-sandbox?style=flat-square" alt="version"> | It is a vuepress plugin based on vue-playground, which supports rapid writing of demos of real-time editing, real-time compilation, and real-time preview. |
 
 ## Contributing
 
