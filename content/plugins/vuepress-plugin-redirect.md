@@ -4,7 +4,7 @@ author:
   email: 1700011071@pku.edu.cn
   name: Shigma
   url: null
-  username: shigma
+  username: vuepress
 bugs: https://github.com/vuepress/vuepress-community/issues
 category: plugins
 date: '2020-09-01T04:24:54.242Z'
@@ -29,7 +29,7 @@ publisher:
   url: null
   username: meteorlxy
 repository: https://github.com/vuepress/vuepress-community
-score: 0.5813744180614486
+score: 0.5719298712288406
 stars: 80
 unstable: false
 version: 1.2.5

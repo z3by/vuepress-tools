@@ -1,13 +1,13 @@
 ---
 author:
   avatar: https://avatars.githubusercontent.com/u/78192711?v=4
-  email: zhangbowang1998@gmail.com
+  email: mister-hope@outlook.com
   name: Mr.Hope
   url: https://mrhope.site
-  username: mister-hope
-bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues
+  username: vuepress-theme-hope
+bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope-v1/issues
 category: plugins
-date: '2022-05-15T11:42:29.595Z'
+date: '2022-06-02T17:42:50.817Z'
 deprecated: false
 description: Markdown enhancement for vuepress
 downloads: null
@@ -37,11 +37,11 @@ publisher:
   url: null
   username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
-score: 0.6789928243936961
-stars: 576
+score: 0.6519336828905629
+stars: 578
 unstable: false
-version: 1.29.0
-watchers: 576
+version: 1.30.0
+watchers: 578
 
 ---
 

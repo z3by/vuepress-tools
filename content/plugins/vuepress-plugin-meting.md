@@ -2,12 +2,12 @@
 author:
   avatar: https://avatars.githubusercontent.com/u/65664118?v=4
   email: null
-  name: SigureMo
+  name: Nyakku Shigure
   url: null
   username: moefyit
 bugs: https://github.com/moefyit/vuepress-plugin-meting/issues
 category: plugins
-date: '2021-08-18T10:24:51.026Z'
+date: '2022-06-05T15:18:40.931Z'
 deprecated: false
 description: A simple plugin connect APlayer, Meting and VuePress
 downloads: null
@@ -28,10 +28,10 @@ publisher:
   url: null
   username: sigure_mo
 repository: https://github.com/moefyit/vuepress-plugin-meting
-score: 0.5438999018694857
+score: 0.5448067316812332
 stars: 26
 unstable: true
-version: 0.3.1
+version: 0.3.2
 watchers: 26
 
 ---

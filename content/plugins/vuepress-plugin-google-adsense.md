@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/25154432?v=4
   email: me@yunyoujun.cn
   name: YunYouJun
   url: null
@@ -17,7 +17,7 @@ keywords:
 - plugin
 - google
 - adsense
-license: null
+license: MIT License
 maintainers: null
 name: vuepress-plugin-google-adsense
 npm: https://www.npmjs.com/package/vuepress-plugin-google-adsense
@@ -29,10 +29,10 @@ publisher:
   username: yunyoujun
 repository: https://github.com/YunYouJun/vuepress-plugin-google-adsense
 score: 0.46810719394537
-stars: 0
+stars: 9
 unstable: true
 version: 0.2.1
-watchers: 0
+watchers: 9
 
 ---
 
