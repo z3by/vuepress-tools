@@ -7,7 +7,7 @@ author:
   username: xugaoyi
 bugs: https://github.com/xugaoyi/vuepress-theme-vdoing/issues
 category: themes
-date: '2022-05-02T04:40:00.910Z'
+date: '2022-06-03T12:41:05.578Z'
 deprecated: false
 description: "Vdoing theme for VuePress. \u4E00\u4E2A\u57FA\u4E8EVuePress\u7684\u77E5\
   \u8BC6\u7BA1\u7406\u517C\u535A\u5BA2\u4E3B\u9898\u3002"
@@ -31,11 +31,11 @@ publisher:
   url: null
   username: evan_xu
 repository: https://github.com/xugaoyi/vuepress-theme-vdoing
-score: 0.6274678949576001
-stars: 2184
+score: 0.6281538221875261
+stars: 2187
 unstable: false
-version: 1.11.3
-watchers: 2184
+version: 1.12.3
+watchers: 2187
 
 ---
 

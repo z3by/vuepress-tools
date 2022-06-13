@@ -7,7 +7,7 @@ author:
   username: studyathome-internationally
 bugs: https://github.com/studyathome-internationally/hub.js/issues
 category: themes
-date: '2021-12-14T16:31:28.732Z'
+date: '2022-06-02T21:12:53.844Z'
 deprecated: false
 description: Vuepress theme for StudyATHome Internationally eLearning Sharing & Virtual
   Project Teams Hub
@@ -25,10 +25,10 @@ publisher:
   url: null
   username: alija
 repository: https://github.com/studyathome-internationally/hub.js
-score: 0.36353205309279246
+score: 0.36618750688655044
 stars: 0
 unstable: false
-version: 1.1.7
+version: 1.3.1
 watchers: 0
 
 ---

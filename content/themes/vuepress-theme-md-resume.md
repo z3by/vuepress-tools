@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/13219417?v=4
+  avatar: null
   email: ko.momo@qq.com
   name: momoko
   url: null
-  username: komomoo
+  username: null
 bugs: https://github.com/wannaxiao/vuepress-theme-resume/issues
 category: themes
 date: '2020-02-12T06:49:28.939Z'
@@ -18,7 +18,7 @@ keywords:
 - markdown
 - bio
 - resume
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-theme-md-resume
 npm: https://www.npmjs.com/package/vuepress-theme-md-resume
@@ -30,10 +30,10 @@ publisher:
   username: mrjzhang
 repository: https://github.com/wannaxiao/vuepress-theme-resume
 score: 0.1503188596376961
-stars: 295
+stars: 0
 unstable: true
 version: 0.1.5
-watchers: 295
+watchers: 0
 
 ---
 
