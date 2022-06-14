@@ -7,7 +7,7 @@ author:
   username: zpfz
 bugs: https://github.com/zpfz/vuepress-theme-antdocs/issues
 category: themes
-date: '2021-06-02T15:09:50.834Z'
+date: '2022-06-08T14:30:46.727Z'
 deprecated: false
 description: An Ant Design style theme for VuePress.
 downloads: null
@@ -25,15 +25,15 @@ name: vuepress-theme-antdocs
 npm: https://www.npmjs.com/package/vuepress-theme-antdocs
 publisher:
   avatar: null
-  email: zpfz@vfxfc.cn
+  email: zpfz520@outlook.com
   name: null
   url: null
   username: seeyoz
 repository: https://github.com/zpfz/vuepress-theme-antdocs
-score: 0.4810629381267143
+score: 0.5329878861306966
 stars: 196
 unstable: false
-version: 1.3.5
+version: 1.4.3
 watchers: 196
 
 ---
