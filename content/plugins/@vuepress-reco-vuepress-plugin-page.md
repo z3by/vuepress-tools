@@ -27,11 +27,11 @@ publisher:
   url: null
   username: reco_luan
 repository: https://github.com/recoluan/vuepress-theme-reco-next
-score: 0.5969658647411729
-stars: 162
+score: 0.5971231324615086
+stars: 164
 unstable: false
 version: 2.0.1-alpha.0
-watchers: 162
+watchers: 164
 
 ---
 
