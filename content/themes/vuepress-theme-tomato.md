@@ -29,10 +29,10 @@ publisher:
   username: destinytaoer
 repository: https://github.com/destinytaoer/vuepress-theme-tomato
 score: 0.48608620355375093
-stars: 3
+stars: 4
 unstable: false
 version: 1.0.1
-watchers: 3
+watchers: 4
 
 ---
 
