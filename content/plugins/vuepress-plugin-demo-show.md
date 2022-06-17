@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/34917927?v=4
+  avatar: null
   email: null
   name: xitice
   url: null
-  username: xitice
+  username: null
 bugs: https://github.com/xitice/vuepress-plugin-demo-show/issues
 category: plugins
 date: '2020-08-03T06:03:04.728Z'
@@ -19,7 +19,7 @@ keywords:
 - vuepress
 - demo
 - block
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-plugin-demo-show
 npm: https://www.npmjs.com/package/vuepress-plugin-demo-show
