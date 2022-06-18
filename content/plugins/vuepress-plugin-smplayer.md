@@ -7,7 +7,7 @@ author:
   username: null
 bugs: https://github.com/u2sb/vuepress-plugin-smplayer/issues
 category: plugins
-date: '2022-04-15T03:52:41.919Z'
+date: '2022-06-13T08:12:22.316Z'
 deprecated: false
 description: A media player plugin for vuepress
 downloads: null
@@ -34,10 +34,10 @@ publisher:
   url: null
   username: monologuechi
 repository: https://github.com/u2sb/vuepress-plugin-smplayer
-score: 0.18294225036106188
+score: 0.18228913741374297
 stars: 0
 unstable: false
-version: 2.0.0-alpha.3
+version: 1.5.3
 watchers: 0
 
 ---
