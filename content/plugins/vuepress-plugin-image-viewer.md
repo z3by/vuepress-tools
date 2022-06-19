@@ -7,7 +7,7 @@ author:
   username: sunnyxujian
 bugs: https://github.com/sunnyxujian/vuepress-plugin-image-viewer/issues
 category: plugins
-date: '2022-05-26T01:46:02.265Z'
+date: '2022-06-14T02:47:11.667Z'
 deprecated: false
 description: image viewer plugin for VuePress
 downloads: null
@@ -29,10 +29,10 @@ publisher:
   url: null
   username: microjan
 repository: https://github.com/sunnyxujian/vuepress-plugin-image-viewer
-score: 0.5231309780095346
+score: 0.5289415948669366
 stars: 7
 unstable: false
-version: 1.1.6
+version: 1.1.7
 watchers: 7
 
 ---

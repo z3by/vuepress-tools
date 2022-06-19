@@ -57,10 +57,20 @@ $ yarn add -D vuepress-plugin-use-pages
 
 Add `vuepress-plugin-use-pages` in your config file.
 
+> Since version 1.0.5 is for VuePress 2.0.0-beta.40 or later.
+> Usage of plugins is changed.
+
 ```ts:docs/.vuepress/config.ts
+import { defineUserConfig } from 'vuepress'
+import { viteBundler } from 'vuepress'
+import { usePagesPlugin } from 'vuepress-plugin-use-pages'
+
+export default defineUserConfig({
+  bundler: viteBundler(),
   plugins: [
-    ['vuepress-plugin-use-pages'],
+    usePagesPlugin(),
   ],
+})
 ```
 
 in your doc file or component.
@@ -98,13 +108,13 @@ export default defineComponent({
 
 ```ts:docs/.vuepress/config.ts
   plugins: [
-    ['vuepress-plugin-use-pages', {
+    usePagesPlugin({
       startsWith: '/articles/',                   // fetch only matched paths
       filter: (page) => page.data.lang === 'ja',  // fetch only filtered pages
       sort: (a, b) => b.data.git.updatedTime - a.data.git.updatedTime
       limit: 30,                                  // maximum cached size
       file: 'articles.js',                        // temp file name
-    }],
+    }),
   ],
 ```
 
@@ -146,9 +156,9 @@ This plugin is usable for multiple times.
 
 ```ts:docs/.vuepress/config.ts
   plugins: [
-    ['vuepress-plugin-use-pages', { startsWith: '/articles/', file: 'articles.js' }],
-    ['vuepress-plugin-use-pages', { startsWith: '/posts/', file: 'posts.js' }],
-    ['vuepress-plugin-use-pages', { startsWith: '/pages/', file: 'pages.js' }],
+    usePagesPlugin({ startsWith: '/articles/', file: 'articles.js' }),
+    usePagesPlugin({ startsWith: '/posts/', file: 'posts.js' }),
+    usePagesPlugin({ startsWith: '/pages/', file: 'pages.js' }),
   ],
 ```
 

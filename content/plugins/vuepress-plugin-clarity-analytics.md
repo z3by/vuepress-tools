@@ -5,31 +5,31 @@ author:
   name: roiding
   url: null
   username: null
-bugs: https://github.com/roiding/plugin-baidu-analytics/issues
+bugs: https://github.com/roiding/plugin-clarity-analytics/issues
 category: plugins
-date: '2022-06-16T07:35:16.307Z'
+date: '2022-06-16T08:53:18.855Z'
 deprecated: false
-description: VuePress plugin - baidu-analytics
+description: VuePress plugin - clarity-analytics
 downloads: null
 homepage: https://github.com/roiding
 keywords:
 - vuepress-plugin
 - vuepress
 - plugin
-- baidu
+- clarity
 - analytics
 license: null
 maintainers: null
-name: vuepress-plugin-baidu-analytics
-npm: https://www.npmjs.com/package/vuepress-plugin-baidu-analytics
+name: vuepress-plugin-clarity-analytics
+npm: https://www.npmjs.com/package/vuepress-plugin-clarity-analytics
 publisher:
   avatar: null
   email: dingran@ran-ding.ga
   name: null
   url: null
   username: roiding
-repository: https://github.com/roiding/plugin-baidu-analytics
-score: 0.4841979318377231
+repository: https://github.com/roiding/plugin-clarity-analytics
+score: 0.48203811321329243
 stars: 0
 unstable: false
 version: 2.0.0-beta.47

@@ -50,7 +50,7 @@ Articles using this plugin toggle showing the NetaBare sentences.
 Styles in components are written by Tailwind CSS.
 Adding [`Windi CSS`](https://windicss.org/) is recommended.
 
-### If you use `vuepress-vite`
+### If you use `vuepress` with Vite
 
 ```bash
 npm install -D windicss vite-plugin-windicss
@@ -58,13 +58,14 @@ npm install -D windicss vite-plugin-windicss
 
 ```ts
 // config.ts
-import { defineUserConfig } from 'vuepress-vite'
-import type { DefaultThemeOptions } from 'vuepress-vite'
-import type { ViteBundlerOptions } from '@vuepress/bundler-vite'
+import { defineUserConfig } from 'vuepress'
+import { viteBundler } from 'vuepress'
+import { defaultTheme } from 'vuepress'
 import WindiCSS from 'vite-plugin-windicss'
+import { netabareSwitchPlugin } from 'vuepress-plugin-netabare-switch'
 
-export default defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
-  bundlerConfig: {
+export default defineUserConfig({
+  bundler: viteBundler({
     viteOptions: {
       plugins: [
         WindiCSS(
@@ -81,7 +82,8 @@ export default defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
         ),
       ],
     },
-  },
+  }),
+  plugins: [netabareSwitchPlugin()],
 })
 ```
 
@@ -99,10 +101,19 @@ $ yarn add -D vuepress-plugin-netabare-switch
 
 Add `vuepress-plugin-netabare-switch` in your config file.
 
+> Since version 1.0.1 is for VuePress 2.0.0-beta.40 or later.
+> Usage of plugins is changed.
+
 ```javascript
-plugins: [
-  ['vuepress-plugin-netabare-switch'], // add
-],
+// config.ts
+import { defineUserConfig } from 'vuepress'
+import { netabareSwitchPlugin } from 'vuepress-plugin-netabare-switch'
+
+export default defineUserConfig({
+  plugins: [
+    netabareSwitchPlugin(), // add
+  ],
+})
 ```
 
 in your article file (`.md`)
@@ -140,7 +151,7 @@ Message that do not contain spoilers is here.
 
 ```javascript
 plugins: [
-  ['vuepress-plugin-netabare-switch', {
+  netabareSwitchPlugin({
     // Prefix of keys for LocalStorage
     // default: 'netabare'
     keyPrefix: 'nb',
@@ -148,7 +159,7 @@ plugins: [
     // Prefix of components name
     // default: 'NetaBare'
     componentPrefix: 'NB', // -> `<NBSwitch/>`
-  }],
+  }),
 ],
 ```
 
