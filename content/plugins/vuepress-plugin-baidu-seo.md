@@ -7,7 +7,7 @@ author:
   username: null
 bugs: https://github.com/rqh656418510/vuepress-plugin-baidu-seo/issues
 category: plugins
-date: '2022-05-17T10:08:41.834Z'
+date: '2022-06-18T15:18:53.848Z'
 deprecated: false
 description: Baidu SEO plugin for vuepress v1.x
 downloads: null
@@ -29,10 +29,10 @@ publisher:
   url: null
   username: rqh656418510
 repository: https://github.com/rqh656418510/vuepress-plugin-baidu-seo
-score: 0.4816728748322572
+score: 0.4812745315052043
 stars: 0
 unstable: true
-version: 0.0.1
+version: 0.0.2
 watchers: 0
 
 ---

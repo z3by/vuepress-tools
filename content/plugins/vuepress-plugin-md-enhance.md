@@ -38,10 +38,10 @@ publisher:
   username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
 score: 0.6521753551089389
-stars: 588
+stars: 589
 unstable: false
 version: 1.30.0
-watchers: 588
+watchers: 589
 
 ---
 
