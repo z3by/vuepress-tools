@@ -5,9 +5,9 @@ author:
   name: rqh656418510
   url: null
   username: null
-bugs: https://github.com/rqh656418510/vuepress-plugin-readmore-popular-next/issues
+bugs: https://github.com/rqh656418510/vuepress-plugin-readmore-popular/issues
 category: plugins
-date: '2022-06-20T02:31:48.871Z'
+date: '2022-06-20T01:10:44.905Z'
 deprecated: false
 description: "\u4E3A VuePress \u535A\u5BA2\u7684\u6BCF\u4E00\u7BC7\u6587\u7AE0\u90FD\
   \u81EA\u52A8\u6DFB\u52A0\u9605\u8BFB\u66F4\u591A\u7684\u6548\u679C\uFF0C\u5173\u6CE8\
@@ -15,11 +15,11 @@ description: "\u4E3A VuePress \u535A\u5BA2\u7684\u6BCF\u4E00\u7BC7\u6587\u7AE0\u
   \u800C\u5C06\u535A\u5BA2\u6D41\u91CF\u5F15\u6D41\u5230\u5FAE\u4FE1\u516C\u4F17\u53F7\
   \uFF0C\u8FBE\u5230\u6DA8\u7C89\u4E1D\u6570\u7684\u76EE\u7684\u3002"
 downloads: null
-homepage: https://github.com/rqh656418510/vuepress-plugin-readmore-popular-next#readme
+homepage: https://github.com/rqh656418510/vuepress-plugin-readmore-popular#readme
 keywords:
-- vuepress-plugin-readmore-popular-next
+- vuepress-plugin-readmore-popular
 - vuepress-plugin-readmore
-- vuepress2
+- vuepress-plugin
 - openwrite
 - readmore
 - "\u516C\u4F17\u53F7\u5F15\u6D41"
@@ -27,19 +27,19 @@ keywords:
 - "\u6587\u7AE0\u9690\u85CF"
 license: null
 maintainers: null
-name: vuepress-plugin-readmore-popular-next
-npm: https://www.npmjs.com/package/vuepress-plugin-readmore-popular-next
+name: vuepress-plugin-readmore-popular
+npm: https://www.npmjs.com/package/vuepress-plugin-readmore-popular
 publisher:
   avatar: null
   email: 656418510@qq.com
   name: null
   url: null
   username: rqh656418510
-repository: https://github.com/rqh656418510/vuepress-plugin-readmore-popular-next
-score: 0.516602999384705
+repository: https://github.com/rqh656418510/vuepress-plugin-readmore-popular
+score: 0.49295517343285106
 stars: 0
-unstable: false
-version: 2.0.0-beta.48.5
+unstable: true
+version: 0.0.10
 watchers: 0
 
 ---

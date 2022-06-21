@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/85858775?v=4
+  avatar: null
   email: pengchengou@gmail.com
   name: vxhly
   url: null
@@ -23,7 +23,7 @@ keywords:
 - baidu
 - "\u767E\u5EA6"
 - "\u81EA\u52A8\u63A8\u9001"
-license: Other
+license: null
 maintainers: null
 name: '@vuepress-denaro/vuepress-plugin-baidu-autopush'
 npm: https://www.npmjs.com/package/%40vuepress-denaro%2Fvuepress-plugin-baidu-autopush
@@ -35,10 +35,10 @@ publisher:
   username: vxhly
 repository: https://github.com/denaro-org/vuepress-theme-denaro
 score: 0.5117482769586659
-stars: 3
+stars: 0
 unstable: false
 version: 1.0.2-alpha.0
-watchers: 3
+watchers: 0
 
 ---
 
