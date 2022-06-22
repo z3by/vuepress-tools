@@ -30,10 +30,10 @@ publisher:
   username: aibayanyu
 repository: https://github.com/yanyu-fe/vuepress-plugins
 score: 0.5872766414426488
-stars: 8
+stars: 9
 unstable: false
 version: 1.1.3
-watchers: 8
+watchers: 9
 
 ---
 
