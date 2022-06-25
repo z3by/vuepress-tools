@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/17965996?v=4
   email: null
   name: talltotal
   url: null
-  username: null
+  username: talltotal
 bugs: https://github.com/talltotal/vuepress-plugin-editor/issues
 category: plugins
 date: '2021-06-02T03:17:21.550Z'
@@ -18,7 +18,7 @@ keywords:
 - vue
 - vuepress
 - vuepress-plugin
-license: null
+license: false
 maintainers: null
 name: '@talltotal/vuepress-plugin-editor'
 npm: https://www.npmjs.com/package/%40talltotal%2Fvuepress-plugin-editor
