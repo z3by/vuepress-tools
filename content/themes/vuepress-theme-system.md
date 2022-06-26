@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/156539?v=4
+  avatar: null
   email: null
   name: "Fran\xE7ois Romain"
   url: null
-  username: francoisromain
+  username: null
 bugs: https://github.com/francoisromain/vuepress-theme-system/issues
 category: themes
 date: '2021-01-08T15:55:06.607Z'
@@ -16,7 +16,7 @@ keywords:
 - vuepress
 - theme
 - system.css
-license: false
+license: null
 maintainers: null
 name: vuepress-theme-system
 npm: https://www.npmjs.com/package/vuepress-theme-system
