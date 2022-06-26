@@ -36,10 +36,10 @@ publisher:
   username: guhuatai
 repository: https://github.com/2214962083/vue-superman
 score: 0.5253772325160156
-stars: 26
+stars: 27
 unstable: true
 version: 0.1.10
-watchers: 26
+watchers: 27
 
 ---
 
