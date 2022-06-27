@@ -37,10 +37,10 @@ publisher:
   username: simonzhangs
 repository: https://github.com/simonzhangs/vuepress-plugin-immersive-music-player
 score: 0.5207561576159168
-stars: 1
+stars: 2
 unstable: false
 version: 1.2.4
-watchers: 1
+watchers: 2
 
 ---
 

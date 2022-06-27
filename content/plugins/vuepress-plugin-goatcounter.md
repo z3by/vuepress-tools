@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/49332985?v=4
+  avatar: null
   email: srcrszhu@gmail.com
   name: srcrs
   url: null
-  username: asksowhat
+  username: null
 bugs: https://github.com/srcrs/vuepress-plugin-goatcounter/issues
 category: plugins
 date: '2020-06-30T09:32:18.032Z'
@@ -17,7 +17,7 @@ keywords:
 - generator
 - vue
 - vuepress
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-plugin-goatcounter
 npm: https://www.npmjs.com/package/vuepress-plugin-goatcounter
@@ -29,10 +29,10 @@ publisher:
   username: srcrs
 repository: https://github.com/srcrs/vuepress-plugin-goatcounter
 score: 0.4567378927127081
-stars: 2
+stars: 0
 unstable: false
 version: 1.0.5
-watchers: 2
+watchers: 0
 
 ---
 
