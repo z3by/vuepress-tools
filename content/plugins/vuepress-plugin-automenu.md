@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/23348287?v=4
   email: null
   name: itgou
   url: null
-  username: null
+  username: itgou
 bugs: https://github.com/itgou/vuepress-plugin-automenu/issues
 category: plugins
 date: '2022-02-17T12:51:16.887Z'
@@ -13,7 +13,7 @@ description: '``` vuepress automenu docs ```'
 downloads: null
 homepage: https://github.com/itgou/vuepress-plugin-automenu
 keywords: null
-license: null
+license: false
 maintainers: null
 name: vuepress-plugin-automenu
 npm: https://www.npmjs.com/package/vuepress-plugin-automenu
@@ -32,3 +32,8 @@ watchers: 0
 
 ---
 
+# 自动生成 vuepress 的顶部目录和左侧目录
+
+```
+vuepress automenu docs
+```
