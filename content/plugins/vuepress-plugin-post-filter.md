@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/41458459?v=4
   email: null
   name: null
   url: null
-  username: null
+  username: yzx9
 bugs: https://github.com/nsznsznjsz/vuepress-plugin-post-filter/issues/new
 category: plugins
 date: '2021-02-10T02:29:12.426Z'
@@ -17,7 +17,7 @@ keywords:
 - vuepress
 - plugin
 - filter
-license: null
+license: MIT License
 maintainers: null
 name: vuepress-plugin-post-filter
 npm: https://www.npmjs.com/package/vuepress-plugin-post-filter
@@ -36,3 +36,54 @@ watchers: 0
 
 ---
 
+# Vuepress-plugin-post-filter
+
+> Post filter plugin for vuepress-next
+
+## Usage
+
+```bash
+npm install vuepress-plugin-post-filter
+# OR
+yarn add vuepress-plugin-post-filter
+```
+
+```js
+// .vueprss/config.ts
+export default {
+  plugins: ["vuepress-plugin-post-filter"]
+}
+```
+
+Set frontmatter in your draft:
+
+```yaml
+---
+draft: true
+# OR
+published: false
+---
+```
+
+Now, your draft will not publish when building.
+
+
+## Config
+
+```js
+// .vueprss/config.ts
+export default {
+  plugins: [
+    [
+      "vuepress-plugin-post-filter",
+      {
+        frontmatter: {
+          draft: true,
+          published: false
+        },
+        prodOnly: true,
+      }
+    ]
+  ]
+}
+```
