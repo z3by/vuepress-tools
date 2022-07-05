@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/30975538?v=4
   email: null
   name: zhaopan
   url: null
-  username: null
+  username: zhaopan-pan
 bugs: https://github.com/zhaopande/vuepress-theme-zp/issues
 category: themes
 date: '2021-09-05T14:53:17.024Z'
@@ -17,7 +17,7 @@ keywords:
 - vue
 - vuepress
 - generator
-license: null
+license: false
 maintainers: null
 name: vuepress-theme-zp
 npm: https://www.npmjs.com/package/vuepress-theme-zp
