@@ -73,6 +73,21 @@ module.exports = {
 }
 ```
 
+## Self hosted url
+
+If you are self hosting Plausible, you can use this option
+
+```js
+module.exports = {
+  plugins: {
+    'plausible': { domain: 'your-domain.com', 'selfHostedUrl': 'your-self-hosted-domain-url' },
+
+    // other plugins
+    // ...
+  }
+}
+```
+
 ### Outbound link tracking
 
 Plausible can also [track all outbound links](https://plausible.io/docs/outbound-link-click-tracking). To enable outbound link tracking with this extension, do this instead of the above:
