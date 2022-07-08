@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/93666053?v=4
   email: null
   name: seepine
   url: null
-  username: null
+  username: seepine
 bugs: https://github.com/seepine/vuepress2-plugin-demo-block/issues
 category: plugins
 date: '2022-01-31T09:04:10.478Z'
@@ -21,7 +21,7 @@ keywords:
 - vuepress2
 - demo
 - block
-license: null
+license: false
 maintainers: null
 name: vuepress2-plugin-demo-block
 npm: https://www.npmjs.com/package/vuepress2-plugin-demo-block
@@ -33,10 +33,10 @@ publisher:
   username: seepine
 repository: https://github.com/seepine/vuepress2-plugin-demo-block
 score: 0.514125174326981
-stars: 0
+stars: 1
 unstable: false
 version: 1.0.3
-watchers: 0
+watchers: 1
 
 ---
 
