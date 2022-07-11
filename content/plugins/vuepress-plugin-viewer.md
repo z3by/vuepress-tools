@@ -30,10 +30,10 @@ publisher:
   username: godbmw
 repository: https://github.com/dongyuanxin/vuepress-plugin-viewer
 score: 0.5384013076378378
-stars: 0
+stars: 1
 unstable: false
 version: 1.0.0
-watchers: 0
+watchers: 1
 
 ---
 
