@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/1549175?v=4
   email: null
   name: Shinichiro MORI
   url: null
-  username: null
+  username: smori1983
 bugs: https://github.com/smori1983/vuepress-plugin-keyboard-event-debug/issues
 category: plugins
 date: '2022-01-07T16:00:56.349Z'
@@ -15,7 +15,7 @@ homepage: https://github.com/smori1983/vuepress-plugin-keyboard-event-debug
 keywords:
 - vuepress
 - vuepress-plugin
-license: null
+license: MIT License
 maintainers: null
 name: vuepress-plugin-keyboard-event-debug
 npm: https://www.npmjs.com/package/vuepress-plugin-keyboard-event-debug
