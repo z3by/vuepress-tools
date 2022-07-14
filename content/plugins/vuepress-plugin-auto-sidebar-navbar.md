@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/20652985?v=4
   email: null
   name: ouyangdan
   url: null
-  username: null
+  username: iamouyangdan
 bugs: https://github.com/iamouyangdan/vuepress-plugin/issues
 category: plugins
 date: '2022-05-17T03:31:13.286Z'
@@ -19,7 +19,7 @@ keywords:
 - plugin
 - sidebar
 - navbar
-license: null
+license: MIT License
 maintainers: null
 name: vuepress-plugin-auto-sidebar-navbar
 npm: https://www.npmjs.com/package/vuepress-plugin-auto-sidebar-navbar
@@ -38,3 +38,10 @@ watchers: 0
 
 ---
 
+# vuepress-plugin
+
+## 介绍（Introduction）
+
+这是本人为 [vuepress v2](https://v2.vuepress.vuejs.org/zh/guide/) 扩展功能的插件。具体用法请进入对应的插件查看README.md。
+
+`plugins`目录下的插件皆已发布npm，可自行下载体验 :)。
