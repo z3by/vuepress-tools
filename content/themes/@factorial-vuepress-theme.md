@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/11006857?v=4
   email: null
   name: null
   url: null
-  username: null
+  username: factorial-io
 bugs: https://github.com/factorial-io/vuepress-theme/issues
 category: themes
 date: '2019-09-27T12:43:51.506Z'
@@ -13,7 +13,7 @@ description: '> Vuepress theme with the factorial colors'
 downloads: null
 homepage: https://github.com/factorial-io/vuepress-theme#readme
 keywords: null
-license: null
+license: false
 maintainers: null
 name: '@factorial/vuepress-theme'
 npm: https://www.npmjs.com/package/%40factorial%2Fvuepress-theme
@@ -32,3 +32,22 @@ watchers: 0
 
 ---
 
+# Factorial vuepress theme
+
+> Vuepress theme with the factorial colors
+
+## Installation
+
+```
+$ yarn add @factorial/vuepress-theme@1.0.0-alpha.1 --dev
+```
+
+## Usage
+
+Add the following to `docs/.vuepress/config.js`.
+
+```
+module.exports = {
+  theme: require.resolve("@factorial/vuepress-theme")
+};
+```
