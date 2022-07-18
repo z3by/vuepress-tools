@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/6128107?v=4
+  avatar: null
   email: null
   name: Evan You
   url: null
-  username: vuejs
+  username: null
 bugs: https://github.com/vuejs/vuepress/issues
 category: themes
 date: '2021-04-18T03:46:38.465Z'
@@ -17,7 +17,7 @@ keywords:
 - generator
 - vue
 - vuepress
-license: MIT License
+license: null
 maintainers: null
 name: yucn-theme-vue
 npm: https://www.npmjs.com/package/yucn-theme-vue
@@ -29,10 +29,10 @@ publisher:
   username: qdyucn
 repository: https://github.com/vuejs/vuepress
 score: 0.1780341914594473
-stars: 20569
+stars: 0
 unstable: false
 version: 1.9.2
-watchers: 20569
+watchers: 0
 
 ---
 
