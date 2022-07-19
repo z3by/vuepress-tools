@@ -28,16 +28,14 @@ publisher:
   username: reco_luan
 repository: https://github.com/recoluan/vuepress-theme-reco-next
 score: 0.5971231324615086
-stars: 190
+stars: 191
 unstable: false
 version: 2.0.1-alpha.0
-watchers: 190
+watchers: 191
 
 ---
 
 > reco 主题 1.0 的代码仓库已经迁移至 [vuepress-theme-reco-1.x](https://github.com/vuepress-reco/vuepress-theme-reco-1.x)
-
-# vuepress-theme-reco-next
 
 🔥 The 2.x of vuepress-theme-reco.
 
