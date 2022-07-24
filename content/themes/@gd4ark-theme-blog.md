@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/48539483?v=4
   email: chl814@foxmail.com
   name: ulivz
   url: null
-  username: null
+  username: vuepress
 bugs: https://github.com/ulivz/vuepress-theme-blog/issues
 category: themes
 date: '2021-07-16T09:59:24.430Z'
@@ -13,7 +13,7 @@ description: Default blog theme for VuePress
 downloads: null
 homepage: https://github.com/ulivz/vuepress-theme-blog#readme
 keywords: null
-license: null
+license: MIT License
 maintainers: null
 name: '@gd4ark/theme-blog'
 npm: https://www.npmjs.com/package/%40gd4ark%2Ftheme-blog
@@ -25,10 +25,10 @@ publisher:
   username: gd4ark
 repository: https://github.com/ulivz/vuepress-theme-blog
 score: 0.18859789273681993
-stars: 0
+stars: 190
 unstable: false
 version: 2.3.3
-watchers: 0
+watchers: 190
 
 ---
 
