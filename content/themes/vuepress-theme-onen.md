@@ -28,10 +28,10 @@ publisher:
   username: vincent-hy
 repository: https://github.com/Veminem/vuepress-theme-oneN
 score: 0.3546303591043429
-stars: 53
+stars: 52
 unstable: false
 version: 1.1.3-beta
-watchers: 53
+watchers: 52
 
 ---
 
