@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/6310131?v=4
   email: 782655835@qq.com
   name: springleo
   url: null
-  username: null
+  username: lq782655835
 bugs: https://github.com/lq782655835/vuepress-theme-vuesax/issues
 category: themes
 date: '2020-04-14T12:57:17.103Z'
@@ -13,7 +13,7 @@ description: vuepress theme for vuesax
 downloads: null
 homepage: https://github.com/lq782655835/vuepress-theme-vuesax#readme
 keywords: null
-license: null
+license: false
 maintainers: null
 name: vuepress-theme-vuesax
 npm: https://www.npmjs.com/package/vuepress-theme-vuesax
@@ -25,10 +25,10 @@ publisher:
   username: springleo
 repository: https://github.com/lq782655835/vuepress-theme-vuesax
 score: 0.33186805943255804
-stars: 0
+stars: 3
 unstable: false
 version: 1.0.0
-watchers: 0
+watchers: 3
 
 ---
 
