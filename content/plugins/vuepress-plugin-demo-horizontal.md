@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/34917927?v=4
   email: null
   name: xitice
   url: null
-  username: null
+  username: xitice
 bugs: https://github.com/xitice/vuepress-plugin-demo-horizontal/issues
 category: plugins
 date: '2020-08-03T01:11:50.690Z'
@@ -19,7 +19,7 @@ keywords:
 - vuepress
 - demo
 - block
-license: null
+license: MIT License
 maintainers: null
 name: vuepress-plugin-demo-horizontal
 npm: https://www.npmjs.com/package/vuepress-plugin-demo-horizontal
