@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/48539483?v=4
+  avatar: null
   email: chl814@foxmail.com
   name: ULIVZ
   url: null
-  username: vuepress
+  username: null
 bugs: https://github.com/ulivz/vuepress-plugin-blog/issues
 category: plugins
 date: '2021-01-17T13:04:36.544Z'
@@ -13,7 +13,7 @@ description: Offical blog plugin for VuePress
 downloads: null
 homepage: https://github.com/ulivz/vuepress-plugin-blog#readme
 keywords: null
-license: MIT License
+license: null
 maintainers: null
 name: '@vuepress/plugin-blog'
 npm: https://www.npmjs.com/package/%40vuepress%2Fplugin-blog
@@ -25,10 +25,10 @@ publisher:
   username: newsbielt703
 repository: https://github.com/ulivz/vuepress-plugin-blog
 score: 0.4301040671413685
-stars: 172
+stars: 0
 unstable: false
 version: 1.9.4
-watchers: 172
+watchers: 0
 
 ---
 
