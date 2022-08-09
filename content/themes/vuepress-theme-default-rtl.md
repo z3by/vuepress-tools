@@ -33,10 +33,10 @@ publisher:
   username: alizadeh118
 repository: https://github.com/alizadeh118/vuepress-theme-default-rtl
 score: 0.41950898209547005
-stars: 9
+stars: 10
 unstable: false
 version: 1.0.2
-watchers: 9
+watchers: 10
 
 ---
 
