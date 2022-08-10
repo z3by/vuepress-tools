@@ -31,10 +31,10 @@ publisher:
   username: ouyangdan
 repository: https://github.com/iamouyangdan/vuepress-plugin
 score: 0.517850808527693
-stars: 0
+stars: 1
 unstable: false
 version: 1.0.9
-watchers: 0
+watchers: 1
 
 ---
 
