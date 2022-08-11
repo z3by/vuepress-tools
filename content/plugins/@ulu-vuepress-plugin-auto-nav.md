@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/3100992?v=4
+  avatar: null
   email: jscherbe@gmail.com
   name: Joseph Scherben
   url: null
@@ -19,7 +19,7 @@ keywords:
 - sidebar
 - navbar
 - dynamic links
-license: MIT License
+license: null
 maintainers: null
 name: '@ulu/vuepress-plugin-auto-nav'
 npm: https://www.npmjs.com/package/%40ulu%2Fvuepress-plugin-auto-nav
