@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/5085501?v=4
+  avatar: null
   email: null
   name: rqh656418510
   url: null
-  username: rqh656418510
+  username: null
 bugs: https://github.com/rqh656418510/vuepress-plugin-baidu-seo-next/issues
 category: plugins
 date: '2022-06-20T02:34:22.013Z'
@@ -19,7 +19,7 @@ keywords:
 - baidu
 - tongji
 - seo
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-plugin-baidu-seo-next
 npm: https://www.npmjs.com/package/vuepress-plugin-baidu-seo-next
@@ -38,43 +38,3 @@ watchers: 0
 
 ---
 
-# vuepress-plugin-baidu-seo-next
-
-> Baidu SEO plugin for vuepress v2.x
-
-## Install
-
-``` sh
-npm install -D vuepress-plugin-baidu-seo-next
-```
-
-## Usage
-
-``` js
-const { baiduSeoPlugin } = require('vuepress-plugin-baidu-seo-next')
-
-module.exports = {
-  plugins: [
-    baiduSeoPlugin({
-      hm: 'xxxxxxxx',
-      ignoreLocal: true
-    })
-  ]
-}
-```
-
-## Options
-
-### Baidu Tongji
-
-#### hm
-
-- Type: `String`
-- Default: `undefined`
-- Description: the code of baidu tongji
-
-#### ignoreLocal
-
-- Type: `Boolean`
-- Default: `false`
-- Description: ignore `127.0.0.1` and `localhost` access for baidu tongji
