@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/30490814?v=4
+  avatar: null
   email: null
   name: zhoudaxia5683@163.com
   url: null
-  username: wukd
+  username: null
 bugs: https://github.com/wukd/vuepress-dumi/issues
 category: themes
 date: '2022-06-12T15:04:55.786Z'
@@ -15,7 +15,7 @@ homepage: https://github.com/wukd/vuepress-dumi#readme
 keywords:
 - vuepress-theme
 - dumi
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-theme-dumi2
 npm: https://www.npmjs.com/package/vuepress-theme-dumi2

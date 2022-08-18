@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/49757965?v=4
+  avatar: null
   email: null
   name: Feng L.H.
   url: null
-  username: zpfz
+  username: null
 bugs: https://github.com/zpfz/vuepress-theme-antdocs/issues
 category: themes
 date: '2020-07-03T04:28:50.636Z'
@@ -19,7 +19,7 @@ keywords:
 - antd
 - antdocs
 - ant-design
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-theme-antdocs-scss
 npm: https://www.npmjs.com/package/vuepress-theme-antdocs-scss
@@ -31,10 +31,10 @@ publisher:
   username: wenfangcao
 repository: https://github.com/zpfz/vuepress-theme-antdocs
 score: 0.1500572226069477
-stars: 204
+stars: 0
 unstable: true
 version: 0.0.4
-watchers: 204
+watchers: 0
 
 ---
 

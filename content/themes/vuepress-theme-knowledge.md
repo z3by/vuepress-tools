@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/43396646?v=4
+  avatar: null
   email: null
   name: ame
   url: null
-  username: aimeiyijia
+  username: null
 bugs: https://github.com/aimeiyijia/vuepress-theme-knowledge/issues
 category: themes
 date: '2022-01-26T07:20:14.455Z'
@@ -20,7 +20,7 @@ keywords:
 - generator
 - theme
 - blog
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-theme-knowledge
 npm: https://www.npmjs.com/package/vuepress-theme-knowledge
