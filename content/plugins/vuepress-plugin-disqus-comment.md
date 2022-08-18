@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/38957202?v=4
   email: newsbielt703@gmail.com
   name: Billyyyyy3320
   url: null
@@ -17,7 +17,7 @@ keywords:
 - disqus
 - plugin
 - vuepress
-license: null
+license: MIT License
 maintainers: null
 name: vuepress-plugin-disqus-comment
 npm: https://www.npmjs.com/package/vuepress-plugin-disqus-comment

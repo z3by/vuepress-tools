@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/42290260?v=4
   email: scrisqiu@hotmail.com
   name: Roderick Qiu
   url: http://github.com/RoderickQiu
@@ -27,7 +27,7 @@ keywords:
 - generator
 - scris
 - RoderickQiu
-license: null
+license: MIT License
 maintainers: null
 name: vuepress-plugin-internal-link
 npm: https://www.npmjs.com/package/vuepress-plugin-internal-link
@@ -39,10 +39,10 @@ publisher:
   username: r-q
 repository: https://github.com/RoderickQiu/vuepress-plugin-internal-link
 score: 0.4263324339290322
-stars: 0
+stars: 5
 unstable: true
 version: 0.2.0
-watchers: 0
+watchers: 5
 
 ---
 

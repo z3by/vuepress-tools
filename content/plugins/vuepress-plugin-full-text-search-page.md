@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/16508807?v=4
   email: null
   name: Yosuke Ota
   url: null
-  username: null
+  username: ota-meshi
 bugs: https://github.com/ota-meshi/vuepress2-plugin-full-text-search/issues
 category: plugins
 date: '2022-05-15T06:05:42.617Z'
@@ -18,7 +18,7 @@ keywords:
 - vuepress-plugin
 - full-text-search
 - vuepress-next
-license: null
+license: MIT License
 maintainers: null
 name: vuepress-plugin-full-text-search-page
 npm: https://www.npmjs.com/package/vuepress-plugin-full-text-search-page
@@ -30,10 +30,10 @@ publisher:
   username: moudev
 repository: https://github.com/ota-meshi/vuepress2-plugin-full-text-search
 score: 0.1596377870234294
-stars: 0
+stars: 16
 unstable: true
 version: 0.1.6
-watchers: 0
+watchers: 16
 
 ---
 

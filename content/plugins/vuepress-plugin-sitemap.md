@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/36023898?v=4
   email: ekoeryanto@gmail.com
   name: Eko Eryanto
   url: null
@@ -19,7 +19,7 @@ keywords:
 - vuepress-plugin
 - sitemap
 - generator
-license: null
+license: MIT License
 maintainers: null
 name: vuepress-plugin-sitemap
 npm: https://www.npmjs.com/package/vuepress-plugin-sitemap
@@ -31,10 +31,10 @@ publisher:
   username: ekoeryanto
 repository: https://github.com/ekoeryanto/vuepress-plugin-sitemap
 score: 0.38062209823069737
-stars: 0
+stars: 90
 unstable: false
 version: 2.3.1
-watchers: 0
+watchers: 90
 
 ---
 
