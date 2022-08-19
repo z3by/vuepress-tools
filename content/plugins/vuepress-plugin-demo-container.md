@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/27751088?v=4
+  avatar: null
   email: null
   name: JianhuiChen
   url: null
-  username: calebman
+  username: null
 bugs: https://github.com/calebman/vuepress-plugin-demo-container/issues
 category: plugins
 date: '2020-08-19T01:22:56.923Z'
@@ -19,7 +19,7 @@ keywords:
 - vuepress
 - demo
 - block
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-plugin-demo-container
 npm: https://www.npmjs.com/package/vuepress-plugin-demo-container
@@ -31,10 +31,10 @@ publisher:
   username: chenjianhui0428
 repository: https://github.com/calebman/vuepress-plugin-demo-container
 score: 0.33023069453808185
-stars: 102
+stars: 0
 unstable: true
 version: 0.2.0
-watchers: 102
+watchers: 0
 
 ---
 

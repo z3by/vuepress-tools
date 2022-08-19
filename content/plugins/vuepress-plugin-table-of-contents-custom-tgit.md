@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/48539483?v=4
+  avatar: null
   email: keyu98@qq.com
   name: keyu
   url: null
@@ -17,7 +17,7 @@ keywords:
 - plugin
 - table-of-contents
 - toc
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-plugin-table-of-contents-custom-tgit
 npm: https://www.npmjs.com/package/vuepress-plugin-table-of-contents-custom-tgit

@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/54167020?v=4
+  avatar: null
   email: recoluan@outlook.com
   name: reco_luan
   url: null
@@ -17,7 +17,7 @@ keywords:
 - vuepress-theme-reco
 - extract-code
 - vuepress
-license: MIT License
+license: null
 maintainers: null
 name: '@vuepress-reco/vuepress-plugin-extract-code'
 npm: https://www.npmjs.com/package/%40vuepress-reco%2Fvuepress-plugin-extract-code
@@ -29,10 +29,10 @@ publisher:
   username: reco_luan
 repository: https://github.com/vuepress-reco/vuepress-plugin-extract-code
 score: 0.35832077716246924
-stars: 15
+stars: 0
 unstable: false
 version: 1.0.4
-watchers: 15
+watchers: 0
 
 ---
 

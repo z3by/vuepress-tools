@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/7115690?v=4
+  avatar: null
   email: purocean@gmail.com
   name: purocean
   url: null
-  username: purocean
+  username: null
 bugs: https://github.com/purocean/vuepress-plugin-html-applet/issues
 category: plugins
 date: '2022-04-09T10:02:15.167Z'
@@ -16,7 +16,7 @@ keywords:
 - vuepress
 - vuepress-plugin
 - iframe
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-plugin-html-applet
 npm: https://www.npmjs.com/package/vuepress-plugin-html-applet
@@ -28,59 +28,10 @@ publisher:
   username: purocean
 repository: https://github.com/purocean/vuepress-plugin-html-applet
 score: 0.36848086383137657
-stars: 1
+stars: 0
 unstable: true
 version: 0.0.4
-watchers: 1
+watchers: 0
 
 ---
 
-# Vuepress HTML Applet Plugin
-
-Embed HTML Applet iframe to your Vuepress article.
-
-## Installation
-
-```shell
-yarn add vuepress-plugin-html-applet -D
-# or
-npm i vuepress-plugin-html-applet -D
-```
-
-## Usage
-
-Add the following to your `config.js`:
-
-```js
-module.exports = {
-  plugins: [
-    'html-applet',
-    // or
-    // ['html-applet', { useSrcdoc: true }],
-  ]
-}
-```
-
-Write html code in markdown like this:
-
-The first line of the HTML code block needs to contain the string `--applet--`.
-
-~~~markdown
-```html
-<!-- --applet-- -->
-
-<div>
-  <h1>Hello World</h1>
-  <p>This is a simple applet.</p>
-</div>
-```
-~~~
-
-## Options
-
-- `useSrcdoc`: whether to use `srcdoc` attribute instead of `src`. Default is `false`.
-- `showCode`: whether to show the HTML code block. Default is `false`.
-
-## Example Page
-
-https://blog-purocean.vercel.app/css-quirks/

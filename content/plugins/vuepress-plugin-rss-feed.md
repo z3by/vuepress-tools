@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/36102904?v=4
+  avatar: null
   email: bougie.liu@qq.com
   name: Bougie
   url: https://www.bougieblog.cn
-  username: bougieL
+  username: null
 bugs: https://github.com/bougieL/vuepress-plugin-rss/issues
 category: plugins
 date: '2022-01-10T07:43:24.178Z'
@@ -18,7 +18,7 @@ keywords:
 - plugin
 - rss
 - feed
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-plugin-rss-feed
 npm: https://www.npmjs.com/package/vuepress-plugin-rss-feed
@@ -30,10 +30,10 @@ publisher:
   username: bougie
 repository: https://github.com/bougieL/vuepress-plugin-rss
 score: 0.38531069169429566
-stars: 1
+stars: 0
 unstable: false
 version: 1.0.1
-watchers: 1
+watchers: 0
 
 ---
 
