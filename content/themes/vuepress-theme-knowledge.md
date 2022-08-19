@@ -39,5 +39,3 @@ watchers: 0
 
 ---
 
-# vuepress-theme-knowledge
-博客主题
