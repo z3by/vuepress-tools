@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/54167020?v=4
   email: recoluan@outlook.com
   name: reco_luan
   url: null
@@ -16,7 +16,7 @@ keywords:
 - vuepress-theme-reco
 - screenfull
 - vuepress
-license: null
+license: MIT License
 maintainers: null
 name: '@vuepress-reco/vuepress-plugin-screenfull'
 npm: https://www.npmjs.com/package/%40vuepress-reco%2Fvuepress-plugin-screenfull
@@ -28,10 +28,10 @@ publisher:
   username: reco_luan
 repository: https://github.com/vuepress-reco/vuepress-plugin-screenfull
 score: 0.4837118399272069
-stars: 0
+stars: 2
 unstable: false
 version: 1.0.1
-watchers: 0
+watchers: 2
 
 ---
 

@@ -25,10 +25,10 @@ publisher:
   username: renovamen
 repository: https://github.com/Renovamen/vuepress-theme-gungnir
 score: 0.5877220598089985
-stars: 254
+stars: 255
 unstable: false
 version: 2.0.0-alpha.4
-watchers: 254
+watchers: 255
 
 ---
 
@@ -76,7 +76,7 @@ TODO:
 
 ## Installation
 
-Please make sure you are using the latest version of VuePress (2.0.0-beta.48) and theme Gungnir.
+Please make sure you are using the latest version of VuePress (2.0.0-beta.49) and theme Gungnir.
 
 ```bash
 pnpm install -D vuepress vuepress-theme-gungnir@next
@@ -115,7 +115,7 @@ This repository also contains the following plugins:
 - With the power of [VuePress 2](https://v2.vuepress.vuejs.org/), [Vue 3](https://v3.vuejs.org/), [Vite](https://vitejs.dev/) and [Webpack 5](https://webpack.js.org/), written using [Composition API](https://v3.vuejs.org/guide/composition-api-introduction.html), of course
 - Stylus -> SCSS
 - Drop external fonts to increase load speed
-- Built-in comments system: move from [Vssue](https://github.com/meteorlxy/vssue) (isn't compatable with Vue 3 as for now) to [Giscus](https://github.com/giscus/giscus)
+- Built-in comments system: move from [Vssue](https://github.com/meteorlxy/vssue) (doesn't support VuePress 2 yet) to [Giscus](https://github.com/giscus/giscus)
 
 
 &nbsp;
