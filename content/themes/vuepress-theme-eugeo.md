@@ -4,7 +4,7 @@ author:
   email: null
   name: coolyang
   url: null
-  username: yyyang1996
+  username: yyyanghj
 bugs: https://github.com/Coolyang1996/vuepress-theme-eugeo/issues
 category: themes
 date: '2019-04-20T08:46:36.155Z'
