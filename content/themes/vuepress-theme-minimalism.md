@@ -32,10 +32,10 @@ publisher:
   username: sogud
 repository: https://github.com/sogud/vuepress-theme-minimalism
 score: 0.6077701762478156
-stars: 20
+stars: 19
 unstable: false
 version: 1.1.9
-watchers: 20
+watchers: 19
 
 ---
 
