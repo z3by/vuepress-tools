@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/43390827?v=4
   email: null
   name: null
   url: null
-  username: null
+  username: QYueWang
 bugs: https://github.com/QYueWang/vuepress-plugin-flexsearch-pro/issues
 category: plugins
 date: '2021-02-01T14:54:40.939Z'
@@ -18,7 +18,7 @@ keywords:
 - search
 - vuepress-plugin
 - vuepress
-license: null
+license: MIT License
 maintainers: null
 name: vuepress-plugin-flexsearch-pro
 npm: https://www.npmjs.com/package/vuepress-plugin-flexsearch-pro
@@ -30,10 +30,10 @@ publisher:
   username: qiuyw
 repository: https://github.com/QYueWang/vuepress-plugin-flexsearch-pro
 score: 0.5017745501898841
-stars: 0
+stars: 5
 unstable: false
 version: 1.0.3
-watchers: 0
+watchers: 5
 
 ---
 
