@@ -28,10 +28,10 @@ publisher:
   username: petedavisdev
 repository: https://github.com/petedavisdev/vuepress-theme-base
 score: 0.3866538371985242
-stars: 3
+stars: 2
 unstable: true
 version: 0.5.5
-watchers: 3
+watchers: 2
 
 ---
 
