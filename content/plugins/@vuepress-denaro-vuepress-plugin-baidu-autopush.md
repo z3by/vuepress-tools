@@ -70,6 +70,12 @@ watchers: 3
 
 链接：[@vuepress-denaro/vuepress-plugin-dynamic-title](https://github.com/denaro-org/vuepress-theme-denaro/tree/main/packages/%40vuepress-denaro/plugin-dynamic-title)
 
+## plugin-flowchart
+
+> :tada: Rapid flowchart development plugin for vuepress.vuepress 的快速流程图开发插件.
+
+链接：[@vuepress-denaro/vuepress-plugin-flowchart](https://github.com/denaro-org/vuepress-theme-denaro/tree/main/packages/%40vuepress-denaro/plugin-flowchart)
+
 ## plugin-moefy-canvas
 
 > :tada: Decorate your web pages with lovely canvas animations.用可可爱爱的 canvas 动效装饰你的网页.

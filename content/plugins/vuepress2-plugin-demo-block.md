@@ -33,10 +33,10 @@ publisher:
   username: seepine
 repository: https://github.com/seepine/vuepress2-plugin-demo-block
 score: 0.514125174326981
-stars: 2
+stars: 3
 unstable: false
 version: 1.0.3
-watchers: 2
+watchers: 3
 
 ---
 
