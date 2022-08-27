@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/2795323?v=4
+  avatar: null
   email: gray@tacck.net
   name: Kihara, Takuya
   url: https://www.tacck.net/
@@ -16,7 +16,7 @@ keywords:
 - vuepress
 - vuepress-plugin
 - sidebar
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-plugin-sidebar
 npm: https://www.npmjs.com/package/vuepress-plugin-sidebar
@@ -28,10 +28,10 @@ publisher:
   username: tacck
 repository: https://github.com/tacck/vuepress-plugin-sidebar
 score: 0.44421958504654946
-stars: 5
+stars: 0
 unstable: true
 version: 0.2.1
-watchers: 5
+watchers: 0
 
 ---
 
