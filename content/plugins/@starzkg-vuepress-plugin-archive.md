@@ -60,6 +60,10 @@ vuepress-theme-star:
 
 为了构建功能完备的个人网站 ✨
 
+## star 用户数量 / 时间变化图
+
+[![Stargazers over time](https://starchart.cc/vuepress-star/vuepress-theme-star.svg)](https://starchart.cc/vuepress-star/vuepress-theme-star)
+
 ## 状态: Beta
 
 对于 VuePress v1 的用户，请查看 [迁移指南](https://v2.vuepress.vuejs.org/guide/migration.html) 。

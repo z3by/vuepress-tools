@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/35414841?v=4
   email: zorin1477@gmail.com
   name: Zorin
   url: null
-  username: null
+  username: Zolyn
 bugs: https://github.com/Zolyn/vuepress-plugin-typescript/issues
 category: plugins
 date: '2021-06-06T06:51:06.224Z'
@@ -13,7 +13,7 @@ description: A fork of vuepress-plugin-typescript
 downloads: null
 homepage: https://github.com/Zolyn/vuepress-plugin-typescript#readme
 keywords: null
-license: null
+license: MIT License
 maintainers: null
 name: '@zolyn/vuepress-plugin-typescript'
 npm: https://www.npmjs.com/package/%40zolyn%2Fvuepress-plugin-typescript
@@ -25,10 +25,12 @@ publisher:
   username: zolyn
 repository: https://github.com/Zolyn/vuepress-plugin-typescript
 score: 0.44385961873658797
-stars: 0
+stars: 1
 unstable: false
 version: 1.0.3
-watchers: 0
+watchers: 1
 
 ---
 
+# vuepress-plugin-typescript
+A fork of [vuepress-plugin-typescript](https://github.com/vuepress/vuepress-community/tree/main/packages/vuepress-plugin-typescript)
