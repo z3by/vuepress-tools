@@ -29,10 +29,10 @@ publisher:
   username: alphawq
 repository: https://github.com/alphawq/vuepress-plugin-posts-encrypt
 score: 0.5784732763582252
-stars: 21
+stars: 22
 unstable: true
 version: 0.0.6
-watchers: 21
+watchers: 22
 
 ---
 
