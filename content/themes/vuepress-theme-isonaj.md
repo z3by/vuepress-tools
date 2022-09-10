@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/10228573?v=4
+  avatar: null
   email: isonaj@gmail.com
   name: Anthony Ison
   url: null
@@ -13,7 +13,7 @@ description: Casper-like Theme for VuePress
 downloads: null
 homepage: https://github.com/isonaj/vuepress-theme-isonaj#readme
 keywords: null
-license: false
+license: null
 maintainers: null
 name: vuepress-theme-isonaj
 npm: https://www.npmjs.com/package/vuepress-theme-isonaj
