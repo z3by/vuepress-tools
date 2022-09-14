@@ -4,7 +4,7 @@ author:
   email: null
   name: cchao
   url: null
-  username: '2020807070'
+  username: cchao123
 bugs: https://github.com/2020807070/vuepress-theme-sky/issues
 category: themes
 date: '2019-05-16T02:56:55.636Z'
