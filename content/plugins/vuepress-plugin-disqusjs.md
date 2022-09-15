@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/17308208?v=4
+  avatar: null
   email: saltbo@foxmail.com
   name: saltbo
   url: null
@@ -14,7 +14,7 @@ description: "\U0001F50C Register a global `<DisqusJS />` component to add to yo
 downloads: null
 homepage: https://github.com/saltbo/vuepress-plugin-disqusjs#readme
 keywords: null
-license: false
+license: null
 maintainers: null
 name: vuepress-plugin-disqusjs
 npm: https://www.npmjs.com/package/vuepress-plugin-disqusjs

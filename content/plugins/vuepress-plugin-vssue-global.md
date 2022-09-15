@@ -29,10 +29,10 @@ publisher:
   username: monologuechi
 repository: https://github.com/u2sb/vuepress-plugin-vssue-global
 score: 0.4894413867869486
-stars: 2
+stars: 3
 unstable: true
 version: 0.0.3
-watchers: 2
+watchers: 3
 
 ---
 
