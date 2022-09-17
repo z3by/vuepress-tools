@@ -48,8 +48,8 @@ Run NPM scripts in this exact order.
 
     1. `yarn run git:add-new`
     2. `yarn run git:commit`
-    3. `yarn run npm:version-0.0.x` (or one of the others)
-    4. `yarn run npm:publish-push`
+    3. `yarn run yarn:version-0.0.x` (or one of the others)
+    4. `yarn run yarn:publish-push`
 
 ### Link Local
 
