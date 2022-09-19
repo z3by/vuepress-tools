@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/629055?v=4
   email: kevincobain2000@gmail.com
   name: kevincobain2000
   url: null
@@ -16,7 +16,7 @@ keywords:
 - vuepress
 - vuepress-theme
 - monokai-theme
-license: null
+license: MIT License
 maintainers: null
 name: vuepress-theme-monokai
 npm: https://www.npmjs.com/package/vuepress-theme-monokai
@@ -28,10 +28,37 @@ publisher:
   username: kevincobain2000
 repository: https://github.com/kevincobain2000/vuepress-theme-monokai
 score: 0.45897849792748113
-stars: 0
+stars: 1
 unstable: false
 version: 1.0.0
-watchers: 0
+watchers: 1
 
 ---
 
+# vuepress-theme-monokai
+
+- Demo: 
+
+## Installation
+
+> Note: Work For VuePress 1.x
+
+```shell
+$ npm install vuepress-theme-monokai --save-dev
+# or
+$ yarn add vuepress-theme-monokai --dev
+```
+
+## Usage
+
+Modify your `.vuepress/config.js` and provide the `theme` option.
+
+```js
+module.exports = {
+  theme: 'monokai',
+}
+```
+
+## License
+
+[MIT License](https://opensource.org/licenses/MIT) [kevincobain2000](https://github.com/kevincobain2000)
