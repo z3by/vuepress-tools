@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/8417241?v=4
+  avatar: null
   email: null
   name: renzhsh
   url: null
-  username: renzhsh
+  username: null
 bugs: https://github.com/renzhsh/vuepress-code-components/issues
 category: plugins
 date: '2021-06-14T07:17:09.861Z'
@@ -17,7 +17,7 @@ keywords:
 - vuepress
 - vuepress-plugin
 - markdown
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-plugin-code-components
 npm: https://www.npmjs.com/package/vuepress-plugin-code-components
@@ -36,13 +36,3 @@ watchers: 0
 
 ---
 
-# vuepress-code-components
-
-[Document](https://thinking.renzhansheng.cn/devops/markdown/#fiddle)
-
-
-
-## install
-```
-npm install vuepress-plugin-code-components
-```

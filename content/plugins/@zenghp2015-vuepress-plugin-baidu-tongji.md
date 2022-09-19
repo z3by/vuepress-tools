@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/79316040?v=4
+  avatar: null
   email: zenghp2015@gmail.com
   name: Zero2015
   url: null
@@ -15,7 +15,7 @@ homepage: https://github.com/Zero2015/vuepress-plugin-baidu-tongji
 keywords:
 - vue
 - vuepress
-license: false
+license: null
 maintainers: null
 name: '@zenghp2015/vuepress-plugin-baidu-tongji'
 npm: https://www.npmjs.com/package/%40zenghp2015%2Fvuepress-plugin-baidu-tongji
