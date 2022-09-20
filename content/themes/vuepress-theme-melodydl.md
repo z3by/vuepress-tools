@@ -28,10 +28,10 @@ publisher:
   username: topyou
 repository: https://github.com/youdeliang/vuepress-theme-melodydl
 score: 0.42226925499112844
-stars: 30
+stars: 31
 unstable: false
 version: 1.1.2
-watchers: 30
+watchers: 31
 
 ---
 

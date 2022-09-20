@@ -25,10 +25,10 @@ publisher:
   username: renhj
 repository: https://github.com/JackRay-C/vuepress-theme-note
 score: 0.3601512901363114
-stars: 7
+stars: 6
 unstable: false
 version: 1.1.3
-watchers: 7
+watchers: 6
 
 ---
 
