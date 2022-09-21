@@ -20,7 +20,7 @@
     "@nuxtjs/sitemap": "^2.4.0",
     "core-js": "^3.19.3",
     "nuxt": "^2.15.8",
-    "vuetify": "^2.6.1"
+    "vuetify": "^2.6.10"
   },
   "devDependencies": {
     "@babel/eslint-parser": "^7.14.7",
