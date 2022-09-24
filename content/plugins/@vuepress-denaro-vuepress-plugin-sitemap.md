@@ -32,10 +32,10 @@ publisher:
   username: vxhly
 repository: https://github.com/denaro-org/vuepress-theme-denaro
 score: 0.5086506420283015
-stars: 4
+stars: 3
 unstable: false
 version: 1.0.2-alpha.1
-watchers: 4
+watchers: 3
 
 ---
 
