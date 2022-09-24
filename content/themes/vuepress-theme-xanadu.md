@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/7350513?v=4
+  avatar: null
   email: null
   name: Evan You
   url: null
-  username: JohnsenZhou
+  username: null
 bugs: https://github.com/JohnsenZhou/Xanadu/issues
 category: themes
 date: '2020-03-05T15:38:09.302Z'
@@ -17,7 +17,7 @@ keywords:
 - generator
 - vue
 - vuepress
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-theme-xanadu
 npm: https://www.npmjs.com/package/vuepress-theme-xanadu
@@ -36,10 +36,3 @@ watchers: 0
 
 ---
 
-# XANADU
-
-The road of a front-end development.
-
-Together with me.
-
-Fighting!

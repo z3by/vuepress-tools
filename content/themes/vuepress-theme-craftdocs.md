@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/1022868?v=4
+  avatar: null
   email: brandon@pixelandtonic.com
   name: brandonkelly
   url: null
@@ -13,7 +13,7 @@ description: vuepress-theme
 downloads: null
 homepage: https://github.com/pixelandtonic/vuepress-theme-craftdocs#readme
 keywords: null
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-theme-craftdocs
 npm: https://www.npmjs.com/package/vuepress-theme-craftdocs
@@ -25,10 +25,10 @@ publisher:
   username: mattstein
 repository: https://github.com/pixelandtonic/vuepress-theme-craftdocs
 score: 0.3517136003033282
-stars: 107
+stars: 0
 unstable: false
 version: 2.0.9
-watchers: 107
+watchers: 0
 
 ---
 
