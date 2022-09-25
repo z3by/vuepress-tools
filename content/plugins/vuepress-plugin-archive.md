@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/93846129?v=4
+  avatar: null
   email: null
   name: qsyyke
   url: null
-  username: vuepress-aurora
+  username: null
 bugs: https://github.com/vuepress-aurora/vuepress-plugin-archive/issues
 category: plugins
 date: '2022-01-16T08:30:16.222Z'
@@ -27,7 +27,7 @@ keywords:
 - archive
 - vuepress-plugin-timeline
 - vuepress timeline
-license: false
+license: null
 maintainers: null
 name: vuepress-plugin-archive
 npm: https://www.npmjs.com/package/vuepress-plugin-archive
@@ -39,10 +39,10 @@ publisher:
   username: qsyyke
 repository: https://github.com/vuepress-aurora/vuepress-plugin-archive
 score: 0.4537388916197962
-stars: 1
+stars: 0
 unstable: false
 version: 1.1.3
-watchers: 1
+watchers: 0
 
 ---
 
