@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/8385448?v=4
   email: null
   name: HighCWu
   url: null
-  username: null
+  username: HighCWu
 bugs: https://github.com/HighCWu/vuepress-plugin-dynamic-page/issues
 category: plugins
 date: '2020-04-06T09:47:29.041Z'
@@ -13,7 +13,7 @@ description: make your static vuepress site dynamic
 downloads: null
 homepage: https://github.com/HighCWu/vuepress-plugin-dynamic-page#readme
 keywords: null
-license: null
+license: MIT License
 maintainers: null
 name: vuepress-plugin-dynamic-page
 npm: https://www.npmjs.com/package/vuepress-plugin-dynamic-page
