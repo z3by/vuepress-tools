@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/13505593?v=4
+  avatar: null
   email: null
   name: jinhang
   url: null
-  username: jinhang87
+  username: null
 bugs: https://github.com/jinhang87/vuepress-plugin-cnzz/issues
 category: plugins
 date: '2021-11-02T16:49:40.988Z'
@@ -18,7 +18,7 @@ keywords:
 - plugin
 - cnzz
 - analytics
-license: MIT License
+license: null
 maintainers: null
 name: '@jinhang/vuepress-plugin-cnzz'
 npm: https://www.npmjs.com/package/%40jinhang%2Fvuepress-plugin-cnzz
@@ -37,5 +37,3 @@ watchers: 0
 
 ---
 
-# vuepress-plugin-cnzz
-A VuePress(2.x) plugin to use cnzz easily.
