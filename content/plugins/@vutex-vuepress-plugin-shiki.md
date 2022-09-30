@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/17541209?v=4
   email: aster@vers.site
   name: Aster
   url: null
-  username: null
+  username: oovm
 bugs: https://github.com/GalAster/vuepress-plugin-shiki/issues
 category: plugins
 date: '2020-08-09T10:26:39.354Z'
@@ -16,7 +16,7 @@ keywords:
 - shiki
 - syntax-highlighter
 - highlighter
-license: null
+license: false
 maintainers: null
 name: '@vutex/vuepress-plugin-shiki'
 npm: https://www.npmjs.com/package/%40vutex%2Fvuepress-plugin-shiki
