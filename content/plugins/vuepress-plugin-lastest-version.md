@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/5666807?v=4
   email: null
   name: D.Yang
   url: null
-  username: null
+  username: yangyang0507
 bugs: https://github.com/yangyang0507/vuepress-plugin-lastest-version/issues
 category: plugins
 date: '2021-08-04T02:50:10.544Z'
@@ -20,7 +20,7 @@ keywords:
 - artifact
 - version
 - artifact-version
-license: null
+license: MIT License
 maintainers: null
 name: vuepress-plugin-lastest-version
 npm: https://www.npmjs.com/package/vuepress-plugin-lastest-version
