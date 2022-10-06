@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/1981996?v=4
   email: leo@getpop.org
   name: Leo
   url: null
@@ -16,7 +16,7 @@ keywords:
 - vuepress
 - plausible
 - analytics
-license: null
+license: MIT License
 maintainers: null
 name: vuepress-plugin-plausible-analytics
 npm: https://www.npmjs.com/package/vuepress-plugin-plausible-analytics
@@ -28,10 +28,10 @@ publisher:
   username: leoloso
 repository: https://github.com/leoloso/vuepress-plugin-plausible-analytics
 score: 0.43001168657561945
-stars: 0
+stars: 3
 unstable: true
 version: 0.2.1
-watchers: 0
+watchers: 3
 
 ---
 
