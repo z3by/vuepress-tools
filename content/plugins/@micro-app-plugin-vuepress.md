@@ -31,10 +31,10 @@ publisher:
   username: zyao89
 repository: https://github.com/MicroAppJS/plugin-vuepress
 score: 0.6195853606378515
-stars: 0
+stars: 1
 unstable: true
 version: 0.3.14
-watchers: 0
+watchers: 1
 
 ---
 

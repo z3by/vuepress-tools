@@ -62,19 +62,7 @@ $ pnpm add vuepress-plugin-iconify -D
 
 > See [Official Docs](https://v2.vuepress.vuejs.org/guide/plugin.html#plugin) about how to use a plugin in VuePress.
 
-For `.vuepress/config.js`:
-
 ```js
-const { iconifyPlugin } = require(`vuepress-plugin-iconify`)
-
-module.exports = {
-  plugins: [iconifyPlugin()],
-}
-```
-
-For `.vuepress/config.ts`:
-
-```ts
 import { defineUserConfig } from '@vuepress/cli'
 import { iconifyPlugin } from 'vuepress-plugin-iconify'
 
