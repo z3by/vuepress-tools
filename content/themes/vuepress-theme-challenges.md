@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/5863590?v=4
   email: null
   name: Nico De Witte
   url: null
-  username: null
+  username: BioBoost
 bugs: https://github.com/BioBoost/vuepress-theme-challenges/issues
 category: themes
 date: '2020-02-03T16:49:05.429Z'
@@ -17,7 +17,7 @@ keywords:
 - programming
 - challenges
 - vives
-license: null
+license: false
 maintainers: null
 name: vuepress-theme-challenges
 npm: https://www.npmjs.com/package/vuepress-theme-challenges
