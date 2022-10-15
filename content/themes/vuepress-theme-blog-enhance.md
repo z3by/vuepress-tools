@@ -25,10 +25,10 @@ publisher:
   username: himself65
 repository: https://github.com/ulivz/vuepress-theme-blog
 score: 0.4059164883066166
-stars: 196
+stars: 195
 unstable: false
 version: 1.3.5
-watchers: 196
+watchers: 195
 
 ---
 
