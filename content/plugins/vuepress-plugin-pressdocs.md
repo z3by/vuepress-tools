@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/237165?v=4
   email: efrane@meanderingsoul.com
   name: eFrane
   url: null
-  username: null
+  username: eFrane
 bugs: https://github.com/eFrane/pressdocs/issues
 category: plugins
 date: '2021-02-01T16:19:02.595Z'
@@ -13,7 +13,7 @@ description: A Vuepress Plugin for Code Documentation
 downloads: null
 homepage: https://github.com/eFrane/pressdocs#readme
 keywords: null
-license: null
+license: MIT License
 maintainers: null
 name: vuepress-plugin-pressdocs
 npm: https://www.npmjs.com/package/vuepress-plugin-pressdocs
@@ -32,3 +32,10 @@ watchers: 0
 
 ---
 
+# Pressdocs
+
+> Code Documentation inside VuePress
+
+This is still very much a pre-release of the pre-release but: here goes nothing.
+
+For now, see [the plugin's README](./packages/vuepress-plugin-pressdocs/README.md) for details.

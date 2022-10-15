@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/20102582?v=4
   email: ybd0612@qq.com
   name: Ybond
   url: null
@@ -19,7 +19,7 @@ keywords:
 - vuepress-plugin
 - sitemap
 - generator
-license: null
+license: MIT License
 maintainers: null
 name: vuepress-plugin-sitemap-ybd
 npm: https://www.npmjs.com/package/vuepress-plugin-sitemap-ybd
@@ -37,4 +37,16 @@ version: 1.0.6
 watchers: 0
 
 ---
+
+# vuepress-plugin-sitemap-ybd
+
+update for vuepress-plugin-sitemap
+
+## Install
+
+* NPM
+
+  ```sh
+  npm install vuepress-plugin-sitemap-ybd
+  ```
 
