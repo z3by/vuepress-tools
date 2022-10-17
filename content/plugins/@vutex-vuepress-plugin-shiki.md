@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/17541209?v=4
   email: aster@vers.site
   name: Aster
   url: null
-  username: null
+  username: oovm
 bugs: https://github.com/GalAster/vuepress-plugin-shiki/issues
 category: plugins
 date: '2020-08-09T10:26:39.354Z'
@@ -16,7 +16,7 @@ keywords:
 - shiki
 - syntax-highlighter
 - highlighter
-license: null
+license: false
 maintainers: null
 name: '@vutex/vuepress-plugin-shiki'
 npm: https://www.npmjs.com/package/%40vutex%2Fvuepress-plugin-shiki
@@ -35,3 +35,14 @@ watchers: 0
 
 ---
 
+# Git Time Travel
+
+将 git 的提交平均分布到一段时间内
+
+## PowerShell Version
+
+```sh
+git reset Head~20 -i # 开启交互式变基
+# 然后把 pick 全部替换成 edit 并关闭 editor
+# 直接执行 time-travel.ps1 即可
+```
