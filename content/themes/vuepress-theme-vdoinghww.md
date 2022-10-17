@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/5212214?v=4
+  avatar: null
   email: null
   name: gaoyi
   url: Evan
-  username: xugaoyi
+  username: null
 bugs: https://github.com/xugaoyi/vuepress-theme-vdoing/issues
 category: themes
 date: '2021-02-07T00:35:10.181Z'
@@ -15,7 +15,7 @@ downloads: null
 homepage: https://github.com/xugaoyi/vuepress-theme-vdoing#readme
 keywords:
 - runyuanj
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-theme-vdoinghww
 npm: https://www.npmjs.com/package/vuepress-theme-vdoinghww
@@ -27,10 +27,10 @@ publisher:
   username: runyuanj
 repository: https://github.com/xugaoyi/vuepress-theme-vdoing
 score: 0.17815396810321868
-stars: 2643
+stars: 0
 unstable: false
 version: 1.1.0
-watchers: 2643
+watchers: 0
 
 ---
 
