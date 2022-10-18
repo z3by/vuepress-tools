@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/15811268?v=4
+  avatar: null
   email: scope.wu@gmail.com
   name: scope.wu
   url: null
-  username: scopewu
+  username: null
 bugs: https://github.com/scopewu/vuepress/issues
 category: plugins
 date: '2019-06-16T13:45:32.024Z'
@@ -18,7 +18,7 @@ keywords:
 - generator
 - google gtag
 - gtag
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-plugin-google-gtag
 npm: https://www.npmjs.com/package/vuepress-plugin-google-gtag
@@ -30,12 +30,10 @@ publisher:
   username: scopewu
 repository: https://github.com/scopewu/vuepress
 score: 0.45908878045779167
-stars: 1
+stars: 0
 unstable: false
 version: 1.0.1
-watchers: 1
+watchers: 0
 
 ---
 
-# vuepress
-The theme and plugin for vuepress.

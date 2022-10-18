@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/64388301?v=4
+  avatar: null
   email: null
   name: wangjia_1919@163.com
   url: null
-  username: nine-theme
+  username: null
 bugs: https://github.com/nine-theme/vuepress-plugin-pagation/issues
 category: plugins
 date: '2020-08-13T01:38:10.133Z'
@@ -15,7 +15,7 @@ homepage: https://github.com/nine-theme/vuepress-plugin-pagation#readme
 keywords:
 - vuepress
 - pagation
-license: MIT License
+license: null
 maintainers: null
 name: '@nines/vuepress-plugin-pagation'
 npm: https://www.npmjs.com/package/%40nines%2Fvuepress-plugin-pagation
