@@ -29,10 +29,10 @@ publisher:
   username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
 score: 0.6893679435024975
-stars: 775
+stars: 776
 unstable: false
 version: 2.0.0-beta.24
-watchers: 775
+watchers: 776
 
 ---
 
@@ -66,8 +66,6 @@ watchers: 775
 
 A vuepress theme with tons of features✨
 
-![Status](https://repobeats.axiom.co/api/embed/1164cd0962fe9e8ce7fd3785cb28c79adecf8a26.svg)
-
 ## [English Docs](https://vuepress-theme-hope.github.io/v2/)
 
 ## [Online Demo](https://stackblitz.com/fork/vuepress-theme-hope)
@@ -100,3 +98,13 @@ Also V2 has a better performance:🚀
 - Build time reduced by **30%**
 - Output Size reduced by **25%**
 - Webpage performance up to **70%**
+
+## Project Status
+
+![Status](https://repobeats.axiom.co/api/embed/1164cd0962fe9e8ce7fd3785cb28c79adecf8a26.svg)
+
+## Contributors
+
+Thanks to all the contributors!
+
+[![contributors](https://contrib.rocks/image?repo=vuepress-theme-hope/vuepress-theme-hope)](https://github.com/vuepress-theme-hope/vuepress-theme-hope/graphs/contributors)
