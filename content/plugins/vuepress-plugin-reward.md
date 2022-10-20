@@ -30,10 +30,10 @@ publisher:
   username: vxhly
 repository: https://github.com/vxhly/vuepress-plugin-reward
 score: 0.48531325574434386
-stars: 1
+stars: 2
 unstable: false
 version: 1.0.2
-watchers: 1
+watchers: 2
 
 ---
 
