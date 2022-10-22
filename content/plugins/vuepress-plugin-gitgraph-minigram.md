@@ -28,10 +28,10 @@ publisher:
   username: smori1983
 repository: https://github.com/smori1983/vuepress-plugin-gitgraph-minigram
 score: 0.4793350137021566
-stars: 0
+stars: 1
 unstable: true
 version: 0.2.1
-watchers: 0
+watchers: 1
 
 ---
 
