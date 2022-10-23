@@ -56,7 +56,7 @@ vuepress-theme-star:
 
 [![github check](https://github.com/vuepress-star/vuepress-theme-star/workflows/check/badge.svg)](https://github.com/vuepress-star/vuepress-theme-star/actions?query=workflow%3Acheck)
 [![github docs](https://github.com/vuepress-star/vuepress-theme-star/workflows/docs/badge.svg)](https://github.com/vuepress-star/vuepress-theme-star/actions?query=workflow%3Adocs)
-[![npm](https://badgen.net/npm/v/@starzkg/vuepress-theme-star/beta)](https://www.npmjs.com/package/@starzkg/vuepress-theme-star)
+[![npm](https://badgen.net/npm/v/@starzkg/vuepress-theme-star/next)](https://www.npmjs.com/package/@starzkg/vuepress-theme-star)
 [![coverage](https://coveralls.io/repos/github/vuepress-star/vuepress-theme-star/badge.svg?branch=main)](https://coveralls.io/github/vuepress-star/vuepress-theme-star?branch=main)
 [![license](https://badgen.net/github/license/vuepress-star/vuepress-theme-star)](https://github.com/vuepress-star/vuepress-theme-star/blob/main/LICENSE)
 [![discord](https://badgen.net/discord/online-members/ptFjefy6H5?icon=discord&label=discord)](https://discord.gg/ptFjefy6H5)

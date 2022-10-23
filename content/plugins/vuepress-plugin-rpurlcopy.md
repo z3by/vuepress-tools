@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/20827947?v=4
+  avatar: null
   email: null
   name: wk
   url: null
-  username: weekdawn
+  username: null
 bugs: https://github.com/weekdawn/vuepress-plugin-rpurlcopy/issues
 category: plugins
 date: '2022-03-26T07:50:52.968Z'
@@ -18,7 +18,7 @@ keywords:
 - url'
 - sidebar
 - navlinks
-license: false
+license: null
 maintainers: null
 name: vuepress-plugin-rpurlcopy
 npm: https://www.npmjs.com/package/vuepress-plugin-rpurlcopy
@@ -36,48 +36,4 @@ version: 1.0.1
 watchers: 0
 
 ---
-
-# vuepress-plugin-rpurl
-
-## install
-```bash
-npm install vuepress-plugin-rpurlcopy -D
-```
-
-## Use
-### Default
-```js
-// .vuepress/config.js
-// or
-// .vuepress/theme/index.js
-
-module.exports = {
-  plugins: ['rpurl']
-}
-```
-
-The Default configuration is for vuepress-plugin-autobar, it clean the cumbersome parameter.
-
-Default Rule: `[[/nav[\.\-_]*\d*[\.\-_]*/gi, ''], [/\d+[\.\-_]*/gi, '']]`
-
-* before use:
-`/nav.10.js/10-core/mian-xiang-dui-xiang/mian-xiang-dui-xiang.html`
-
-* after use:
-`/js/core/mian-xiang-dui-xiang/mian-xiang-dui-xiang.html`
-
-### Customize
-You can customize your replace rules. Example:
-
-```js
-// .vuepress/config.js
-// or
-// .vuepress/theme/index.js
-
-module.exports = {
-  plugins: ['rpurl', [/regex/i, 'new world']]
-  // or multiple rules
-  // plugins: ['rpurl', [[/regex1/, 'world'], [/regex2/gi, 'world2']]]
-}
-```
 
