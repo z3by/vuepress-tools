@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/30252550?v=4
   email: admin@bajins.com
   name: Bajins
   url: https://github.com/bajins
-  username: null
+  username: bajins
 bugs: https://github.com/bajins/vuepress-plugin-flexsearch-plus/issues
 category: plugins
 date: '2021-07-09T03:01:38.666Z'
@@ -19,7 +19,7 @@ keywords:
 - search
 - vuepress-plugin
 - vuepress
-license: null
+license: MIT License
 maintainers: null
 name: vuepress-plugin-flexsearch-plus
 npm: https://www.npmjs.com/package/vuepress-plugin-flexsearch-plus
