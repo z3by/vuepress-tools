@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/58034399?v=4
+  avatar: null
   email: null
   name: Stan Ye
   url: null
-  username: shuaijs
+  username: null
 bugs: https://github.com/shuaijs/vuepress-plugin-baidu-autopush/issues
 category: plugins
 date: '2019-12-06T03:13:28.598Z'
@@ -17,7 +17,7 @@ keywords:
 - vue
 - vuepress
 - baidu-autopush
-license: MIT License
+license: null
 maintainers: null
 name: '@shuaijs/vuepress-plugin-baidu-autopush'
 npm: https://www.npmjs.com/package/%40shuaijs%2Fvuepress-plugin-baidu-autopush
