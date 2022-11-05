@@ -38,6 +38,8 @@ watchers: 18
 
 # vuepress-plugin-demoblock-plus
 
+> 这是2.x版本的文档，已经采用TypeScript重写，如果使用1.x版本请看[v1文档](v1.md)。
+
 ## 简介
 
 vuepress-plugin-demoblock-plus 是一个基于 Vuepress 2.x 的插件，它可以帮助你在编写文档的时候增加 Vue 示例，它的诞生初衷是为了降低编写组件文档时增加一些相关示例的难度。
@@ -51,15 +53,15 @@ vuepress-plugin-demoblock-plus 参考了 [Element UI](https://github.com/element
 [查看Demo](https://xinlei3166.github.io/vuepress-demo/)
 
 ## 提示
-由于vuepress最新版修改了插件的使用方式，插件v1.6.0已支持。
-旧版vuepress，插件使用v1.5.1即可。
-待vuepress新版本稳定文档更新后，文档会同步修改。
+由于vuepress版本不稳定，目前锁定版本为2.0.0-beta.51。
+待vuepress新版本稳定文档更新后，文档和插件会同步修改。
 
 ## 安装
 
 ```bash
 npm install -D vuepress-plugin-demoblock-plus
 yarn add -D vuepress-plugin-demoblock-plus
+pnpm add -D vuepress-plugin-demoblock-plus
 ```
 
 
@@ -68,10 +70,10 @@ yarn add -D vuepress-plugin-demoblock-plus
 
 .vuepress/config.js文件中使用插件
 
+import { demoblockPlugin } from 'vuepress-plugin-demoblock-plus'
+
 ```js
-plugins: [
-	['vuepress-plugin-demoblock-plus']
-]
+plugins: [demoblockPlugin()]
 ```
 
 
@@ -79,21 +81,25 @@ plugins: [
 markdown 中的vue代码包含的style内容，会被组合成一个style统一处理，如果需要使用css预处理器，需要提前指定并且手动安装使用的css预处理器。
 
 ```js
-plugins: [
-  ['vuepress-plugin-demoblock-plus', {
-    cssPreprocessor: 'less'
-  }]
-]
+plugins: [demoblockPlugin({ cssPreprocessor: 'less' })]
 ```
 
+自定义style tag name
 
+```js
+plugins: [
+  demoblockPlugin({
+    customStyleTagName: 'style lang="less"' // style标签会解析为<style lang="less"><style>
+  })
+]
+```
 
 markdown 中的vue代码被编译为了 vue 函数组件，需要把 import 转换为 require，这里可附加一些其他的转换。 
 vue已经内置做了转换，例如 `import { ref } from 'vue'` 会被转换为 `const { ref } = Vue`。 
 这里编码风格使用的是单引号，如果你使用的是双引号，需自行处理(详见[#21](https://github.com/xinlei3166/vitepress-theme-demoblock/issues/21))。
 ```js
 plugins: [
-  ['vuepress-plugin-demoblock-plus', {
+  demoblockPlugin({
     scriptImports: ["import * as ElementPlus from 'element-plus'"],
     scriptReplaces: [
       { searchValue: /const ({ defineComponent as _defineComponent }) = Vue/g,
@@ -103,11 +109,27 @@ plugins: [
         replaceValue: (s, s1) => `const ${s1} = ElementPlus`
       }
     ]
-  }]
+  })
 ]
 ```
 
+多style和多script支持
 
+为了把markdown中的代码渲染为组件，内部已经使用了script和style。如果想在md文件中使用script可以使用script setup，参考下面例子：
+```markdown
+## 多style和多script支持
+code snippet ...
+
+<style>
+body {
+color: red;
+}
+</style>
+
+<script setup lang="ts">
+console.log('script')
+</script>
+```
 
 多语言支持(默认是中文)
 
@@ -127,9 +149,7 @@ const locales = {
   }
 }
 
-plugins: [
-	['vuepress-plugin-demoblock-plus', { locales }]
-]
+plugins: [demoblockPlugin({ locales })]
 ```
 
 
@@ -144,9 +164,9 @@ themeConfig: { darkMode: true }
 
 ```js
 plugins: [
-  ['vuepress-plugin-demoblock-plus', {
+  demoblockPlugin({
     theme: 'github-light',
-  }]
+  })
 ]
 ```
 
@@ -188,9 +208,9 @@ html.dark {
 通过配置 customClass 类名称，自定义demoblock样式
 ```js
 plugins: [
-  ['vuepress-plugin-demoblock-plus', {
+  demoblockPlugin({
     customClass: 'demoblcok-custom',
-  }]
+  })
 ]
 ```
 
