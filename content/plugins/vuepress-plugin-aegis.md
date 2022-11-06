@@ -29,10 +29,10 @@ publisher:
   username: aquariuslt
 repository: https://github.com/aquariuslt/vuepress-plugin-aegis
 score: 0.6068083430283869
-stars: 1
+stars: 2
 unstable: false
 version: 1.0.2
-watchers: 1
+watchers: 2
 
 ---
 
