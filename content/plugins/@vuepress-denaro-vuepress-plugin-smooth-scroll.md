@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/85858775?v=4
+  avatar: null
   email: pengchengou@gmail.com
   name: vxhly
   url: null
@@ -20,7 +20,7 @@ keywords:
 - denaro
 - smooth-scroll
 - "\u5E73\u6ED1\u6EDA\u52A8"
-license: Other
+license: null
 maintainers: null
 name: '@vuepress-denaro/vuepress-plugin-smooth-scroll'
 npm: https://www.npmjs.com/package/%40vuepress-denaro%2Fvuepress-plugin-smooth-scroll
@@ -32,10 +32,10 @@ publisher:
   username: vxhly
 repository: https://github.com/denaro-org/vuepress-theme-denaro
 score: 0.5104264256325926
-stars: 3
+stars: 0
 unstable: false
 version: 1.0.2-alpha.2
-watchers: 3
+watchers: 0
 
 ---
 
