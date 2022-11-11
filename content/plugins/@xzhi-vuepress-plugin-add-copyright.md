@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/25785330?v=4
+  avatar: null
   email: null
   name: Xzhi
   url: null
-  username: GitHub-Xzhi
+  username: null
 bugs: https://github.com/GitHub-Xzhi/vuepress-plugin-add-copyright/issues
 category: plugins
 date: '2021-05-06T17:28:24.661Z'
@@ -23,7 +23,7 @@ keywords:
 - "\u6DFB\u52A0\u7248\u6743"
 - "\u81EA\u5B9A\u4E49\u7248\u6743"
 - "\u81EA\u5B9A\u4E49\u590D\u5236\u884C\u4E3A"
-license: MIT License
+license: null
 maintainers: null
 name: '@xzhi/vuepress-plugin-add-copyright'
 npm: https://www.npmjs.com/package/%40xzhi%2Fvuepress-plugin-add-copyright

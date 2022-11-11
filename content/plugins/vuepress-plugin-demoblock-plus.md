@@ -38,7 +38,7 @@ watchers: 18
 
 # vuepress-plugin-demoblock-plus
 
-> 这是2.x版本的文档，已经采用TypeScript重写，如果使用1.x版本请看[v1文档](v1.md)。
+> 这是2.x版本的文档，已经采用TypeScript和ESM规范重写，如果使用1.x版本请看[v1文档](v1.md)。
 
 ## 简介
 
@@ -209,7 +209,7 @@ html.dark {
 ```js
 plugins: [
   demoblockPlugin({
-    customClass: 'demoblcok-custom',
+    customClass: 'demoblock-custom',
   })
 ]
 ```
