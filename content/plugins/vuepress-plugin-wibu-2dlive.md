@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/71591953?v=4
   email: null
   name: "Minh Th\u1EAFng"
   url: null
-  username: null
+  username: thangved
 bugs: https://github.com/thangved/wibu-2dlive/issues
 category: plugins
 date: '2021-09-21T12:28:02.406Z'
@@ -15,7 +15,7 @@ homepage: https://github.com/thangved/wibu-2dlive
 keywords:
 - wibu2dlive
 - vuepress@next
-license: null
+license: MIT License
 maintainers: null
 name: vuepress-plugin-wibu-2dlive
 npm: https://www.npmjs.com/package/vuepress-plugin-wibu-2dlive
@@ -27,10 +27,56 @@ publisher:
   username: thangved
 repository: https://github.com/thangved/wibu-2dlive
 score: 0.4575995472911399
-stars: 0
+stars: 2
 unstable: false
 version: 1.1.14
-watchers: 0
+watchers: 2
 
 ---
 
+# vuepress-plugin-wibu-2dlive
+
+![v](https://badgen.net/npm/v/vuepress-plugin-wibu-2dlive)
+![License](https://badgen.net/github/license/thangved/wibu-2dlive)
+![publish size](https://badgen.net/packagephobia/publish/vuepress-plugin-wibu-2dlive)
+[![Node.js CI](https://github.com/thangved/wibu-2dlive/actions/workflows/node.js.yml/badge.svg)](https://github.com/thangved/wibu-2dlive/actions/workflows/node.js.yml)
+![dd](https://badgen.net/npm/dd/vuepress-plugin-wibu-2dlive)
+![dw](https://badgen.net/npm/dw/vuepress-plugin-wibu-2dlive)
+![dy](https://badgen.net/npm/dy/vuepress-plugin-wibu-2dlive)
+![dt](https://badgen.net/npm/dt/vuepress-plugin-wibu-2dlive)
+
+## Install
+
+```sh
+npm install vuepress-plugin-wibu-2dlive
+```
+
+or
+
+```sh
+yarn add vuepress-plugin-wibu-2dlive
+```
+
+## Usage
+
+> In `.vuepress/config.js`
+
+```javascript
+...
+module.exports = {
+    ...
+    plugins: [
+        ...
+        'vuepress-plugin-wibu-2dlive'
+        ...
+    ]
+    ...
+}
+...
+```
+
+## Donation
+
+<a href='https://www.paypal.com/paypalme/minhthangpay'>
+    <img title='paypal' width='30px' src='assets/paypal-3384015_1280.png'/>
+</a>

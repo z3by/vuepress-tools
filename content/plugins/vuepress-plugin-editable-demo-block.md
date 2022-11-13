@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/20736207?v=4
   email: null
   name: Clfeng
   url: null
-  username: null
+  username: clfeng
 bugs: https://github.com/clfeng/vuepress-editable-demo-block/issues
 category: plugins
 date: '2021-10-31T09:56:18.140Z'
@@ -19,7 +19,7 @@ keywords:
 - vuepress
 - editable-demo-code
 - documentation
-license: null
+license: MIT License
 maintainers: null
 name: vuepress-plugin-editable-demo-block
 npm: https://www.npmjs.com/package/vuepress-plugin-editable-demo-block
@@ -31,10 +31,97 @@ publisher:
   username: clfeng
 repository: https://github.com/clfeng/vuepress-editable-demo-block
 score: 0.48424893344458775
-stars: 0
+stars: 6
 unstable: true
 version: 0.1.2
-watchers: 0
+watchers: 6
 
 ---
+
+# vuepress-plugin-editable-demo-block
+The plugin is used to help you add vue examples when writing a document. 
+Using this plugin, your users can easily modify your examples.
+With the editable functions your user can understand your example better.
+
+## Feature
+- display code and examples
+- real-time rendering
+- only support vue
+
+![examples](./examples.gif)
+
+
+### Install
+```
+// npm 
+npm i vuepress-plugin-editable-demo-block
+
+// yarn 
+yarn add vuepress-plugin-editable-demo-block
+```
+
+### Usage 
+```
+// docs/.vuepress/config.js
+module.exports = {
+  plugins: [
+    require('vuepress-plugin-editable-demo-block'),
+  ],
+}
+```
+
+### custome editable-demo-block component's behavior
+```
+// docs/.vuepress/enhanceApp.js
+export default ({
+  Vue, 
+}) => {
+  Vue.prototype.$editableDemoBlockCfg = {
+    runSuccessTip: function () { // render suncess tip function
+      console.log('run success');
+    },
+    runFailTip: function () { // // render fail tip function
+      this.$message.error('run fail');
+    },
+    copySuccessTip: () => {
+      console.log('copy success');
+    },
+    hideText: 'hide code', // tip text when code is hide
+    showText: 'show code', // tip text when code is show
+  }
+}
+```
+
+### Start
+Write the following code in the Markdown file:
+
+```
+::: demo 
+\``` <= delete start backslash
+<template>
+  <div class="examples-button">
+    <p>{{ explain }}</p>
+  </div>
+</template>
+
+<script>
+export default {
+  data () {
+    return {
+      explain: 'display button component'
+    }
+  }
+}
+</script>
+\``` <= delete start backslash
+:::
+
+```
+
+![demo_code](demo_code.png)
+
+### run examples
+`yarn install`
+
+`cd examples && yarn install && yarn dev`
 
