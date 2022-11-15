@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/58034399?v=4
   email: null
   name: Stan Ye
   url: null
-  username: null
+  username: shuaijs
 bugs: https://github.com/stanyejs/vuepress-plugin-gitalk/issues
 category: plugins
 date: '2019-11-23T09:27:04.829Z'
@@ -17,7 +17,7 @@ keywords:
 - vue
 - vuepress
 - gitalk
-license: null
+license: MIT License
 maintainers: null
 name: '@shuaijs/vuepress-plugin-gitalk'
 npm: https://www.npmjs.com/package/%40shuaijs%2Fvuepress-plugin-gitalk
