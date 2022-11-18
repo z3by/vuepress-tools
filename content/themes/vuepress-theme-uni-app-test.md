@@ -63,6 +63,13 @@ module.exports = {
   theme: 'vuepress-theme-uni-app-test',
   themeConfig: {
     // Please head documentation to see the available options.
+  },
+  // add alias
+  chainWebpack(config, isServer) {
+    config.resolve.alias.set(
+      '@theme-config',
+      path.resolve(process.cwd(), 'docs/.vuepress/config')
+    )
   }
 }
 ```
