@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/4708070?v=4
+  avatar: null
   email: thomas@venturini.codes
   name: Thomas Venturini
   url: null
@@ -18,7 +18,7 @@ keywords:
 - plugin
 - zengarden
 - blog
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-plugin-zengarden-pagination
 npm: https://www.npmjs.com/package/vuepress-plugin-zengarden-pagination
