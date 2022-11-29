@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/56751617?v=4
   email: wyw.s@foxmail.com
   name: wywei
   url: null
@@ -17,7 +17,7 @@ keywords:
 - copy
 - images
 - copy-images
-license: null
+license: false
 maintainers: null
 name: vuepress-plugin-copy-images
 npm: https://www.npmjs.com/package/vuepress-plugin-copy-images
@@ -29,10 +29,10 @@ publisher:
   username: wywei
 repository: https://github.com/wyw-s/vuepress-plugin-copy-images
 score: 0.453751911088371
-stars: 0
+stars: 1
 unstable: false
 version: 1.1.0
-watchers: 0
+watchers: 1
 
 ---
 
