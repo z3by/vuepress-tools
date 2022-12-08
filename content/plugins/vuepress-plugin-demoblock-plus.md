@@ -56,6 +56,9 @@ vuepress-plugin-demoblock-plus 参考了 [Element UI](https://github.com/element
 由于vuepress版本不稳定，目前锁定版本为2.0.0-beta.51。
 待vuepress新版本稳定文档更新后，文档和插件会同步修改。
 
+在vue@3.2.45版本下setup语法报错，锁定vue版本为3.2.44。
+
+
 ## 安装
 
 ```bash
