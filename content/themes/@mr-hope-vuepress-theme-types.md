@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/78192711?v=4
+  avatar: null
   email: mister-hope@outlook.com
   name: Mr.Hope
   url: https://mrhope.site
-  username: vuepress-theme-hope
+  username: null
 bugs: https://github.com/vuepress-theme-hope/vuepress-theme-hope-v1/issues
 category: themes
 date: '2022-06-02T17:43:24.819Z'
@@ -18,7 +18,7 @@ keywords:
 - vuepress
 - vuepress-theme-hope
 - mr-hope
-license: MIT License
+license: null
 maintainers: null
 name: '@mr-hope/vuepress-theme-types'
 npm: https://www.npmjs.com/package/%40mr-hope%2Fvuepress-theme-types
@@ -30,10 +30,10 @@ publisher:
   username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
 score: 0.18482880008143043
-stars: 877
+stars: 0
 unstable: false
 version: 1.30.0
-watchers: 877
+watchers: 0
 
 ---
 
