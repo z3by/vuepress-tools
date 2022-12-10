@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/10918415?v=4
   email: blank0129@gmail.com
   name: Tr-blank
   url: null
@@ -16,7 +16,7 @@ keywords:
 - blog
 - theme
 - vuepress
-license: null
+license: false
 maintainers: null
 name: vuepress-theme-trskillblog
 npm: https://www.npmjs.com/package/vuepress-theme-trskillblog
