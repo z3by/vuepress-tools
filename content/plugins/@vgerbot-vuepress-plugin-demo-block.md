@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/6279882?v=4
   email: null
   name: xiguaxigua,y1j2x34
   url: null
-  username: null
+  username: y1j2x34
 bugs: https://github.com/y1j2x34/vuepress-plugin-demo-block/issues
 category: plugins
 date: '2020-09-25T06:23:27.647Z'
@@ -15,7 +15,7 @@ homepage: https://github.com/y1j2x34/vuepress-plugin-demo-block#readme
 keywords:
 - vuepress-plugin
 - demo-block
-license: null
+license: MIT License
 maintainers: null
 name: '@vgerbot/vuepress-plugin-demo-block'
 npm: https://www.npmjs.com/package/%40vgerbot%2Fvuepress-plugin-demo-block
