@@ -26,10 +26,10 @@ publisher:
   username: shiki-deploys
 repository: https://github.com/shikijs/twoslash
 score: 0.633586168691885
-stars: 727
+stars: 728
 unstable: false
 version: 1.0.35
-watchers: 727
+watchers: 728
 
 ---
 
