@@ -30,10 +30,10 @@ publisher:
   username: whu-luojian
 repository: https://github.com/whu-luojian/vuepress-theme-antdesign
 score: 0.28974575118890933
-stars: 3
+stars: 4
 unstable: false
 version: 1.2.1
-watchers: 3
+watchers: 4
 
 ---
 
