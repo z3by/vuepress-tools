@@ -4,7 +4,7 @@ author:
   email: null
   name: null
   url: null
-  username: kimmy214
+  username: kw214
 bugs: https://github.com/upcwangying/vuepress-plugin-aplayer/issues
 category: plugins
 date: '2020-02-25T07:24:50.610Z'
