@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/45031678?v=4
+  avatar: null
   email: null
   name: huaiyugong
   url: null
-  username: JialuGong
+  username: null
 bugs: https://github.com/JialuGong/vuepress-plugin-progressive-image-loader/issues
 category: plugins
 date: '2021-05-24T09:11:41.641Z'
@@ -15,7 +15,7 @@ homepage: https://github.com/JialuGong/vuepress-plugin-progressive-image-loader#
 keywords:
 - vuepress
 - progressive-image
-license: false
+license: null
 maintainers: null
 name: vuepress-plugin-progressive-image-loader
 npm: https://www.npmjs.com/package/vuepress-plugin-progressive-image-loader
@@ -27,10 +27,10 @@ publisher:
   username: huaiyugong
 repository: https://github.com/JialuGong/vuepress-plugin-progressive-image-loader
 score: 0.5085444315809078
-stars: 2
+stars: 0
 unstable: true
 version: 0.0.7
-watchers: 2
+watchers: 0
 
 ---
 
