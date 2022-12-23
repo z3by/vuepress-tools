@@ -36,7 +36,7 @@ watchers: 28
 ---
 
 # vuepress-plugin-awesome-musicplayer
-一款基于vuepress1.x插件的音乐播放器，打破以往博客音乐播放方式，让用户有更佳的沉浸式体验，[点击预览](https://daodaolee.cn/music/first_old_new_love.html)。
+一款基于vuepress1.x插件的音乐播放器，打破以往博客音乐播放方式，让用户有更佳的沉浸式体验。
 ## 说明
 该插件参考了[vue-netease-music](https://github.com/sl1673495/vue-netease-music)，把Mac端的网易云播放器界面的部分功能做成了vuepress插件，让用户在vuepress里也有同样的音乐体验，接口来自 [保罗API](https://api.paugram.com/help/netease)。
 ## 安装
