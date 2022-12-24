@@ -33,10 +33,10 @@ publisher:
   username: kouts
 repository: https://github.com/kouts/vuepress-plugin-vue-example
 score: 0.5975909362397476
-stars: 3
+stars: 4
 unstable: false
 version: 1.1.6
-watchers: 3
+watchers: 4
 
 ---
 

@@ -30,10 +30,10 @@ publisher:
   username: octref
 repository: https://github.com/octref/shiki
 score: 0.6373112800361818
-stars: 4183
+stars: 4194
 unstable: true
 version: 0.10.1
-watchers: 4183
+watchers: 4194
 
 ---
 
@@ -107,7 +107,6 @@ And after that you can (and should) check out the reference docs for deeper dive
 
 - [Themes](./docs/themes.md)
 - [Languages](./docs/languages.md)
-- [Plugins](./docs/plugins.md)
 - [SVG Renderer](./packages/renderer-svg/README.md)
 - [vuepress-plugin-shiki](./packages/vuepress-plugin/README.md)
 
@@ -129,6 +128,7 @@ and return a `Highlighter` object.
 The default locations where the files are loaded from depend on the environment:
 
 - In Node.js:
+
   - Languages are loaded from `node_modules/shiki/languages`. Similarly, the themes are loaded from `node_modules/shiki/themes`.
   - The Oniguruma WebAssembly file is loaded from the `node_modules/vscode-oniguruma/release/onig.wasm`.
 
@@ -154,7 +154,7 @@ const highlighter = await getHighlighter({
 })
 ```
 
-> This async code is 
+> This async code is
 
 Load the highlighter with a default theme and a list of languages:
 
@@ -184,12 +184,12 @@ Load the highlighter with multiple themes, and a list of languages:
 // The first theme in the list will be the default theme.
 
 const highlighter = await getHighlighter({
-  themes: ['github-light', 'nord'], 
+  themes: ['github-light', 'nord'],
   langs: ['javascript', 'python']
 })
 ```
 
-Load the highlighter with multiple themes, a list of languages, and override the default paths for the languages and themes: 
+Load the highlighter with multiple themes, a list of languages, and override the default paths for the languages and themes:
 
 ```js
 const highlighter = await getHighlighter({
@@ -352,7 +352,7 @@ import { getHighlighter } from 'shiki'
 const highlighter = await getHighlighter({
   theme: 'nord',
   langs: ['javascript', 'python'],
-  patsh: {
+  paths: {
     wasm: 'your/path/' // If you use `setCDN`, this path will be relative to the CDN root.
   }
 })
@@ -365,7 +365,7 @@ import { getHighlighter, setWasm } from 'shiki'
 
 // It is recommended to use a Response object. Oniguruma will then use WebAssembly.instantiateStreaming(), which
 // means it can start parsing the file while it's still downloading.
-const wasmResponse = new Response(await fetch('/your/path/onig.wasm'))
+const wasmResponse = await fetch('/your/path/onig.wasm')
 setWasm(wasmResponse)
 
 const highlighter = await getHighlighter({
@@ -447,7 +447,7 @@ If you want to use Shiki in a browser multiple times on the same page, you shoul
 
 Common scenarios are to use the Observable pattern, or to use a singleton pattern.
 
-In both cases you've to ensure that the `Highlighter` instance is only created once, and that it is bootstrapped asynchronously before calling any of the exposed functions. 
+In both cases you've to ensure that the `Highlighter` instance is only created once, and that it is bootstrapped asynchronously before calling any of the exposed functions.
 
 ## Seen
 
