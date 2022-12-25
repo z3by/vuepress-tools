@@ -42,10 +42,10 @@ publisher:
   username: qsyyke
 repository: https://github.com/vuepress-aurora/vuepress-theme-aurora
 score: 0.5718532858796384
-stars: 217
+stars: 216
 unstable: false
 version: 1.13.3
-watchers: 217
+watchers: 216
 
 ---
 
