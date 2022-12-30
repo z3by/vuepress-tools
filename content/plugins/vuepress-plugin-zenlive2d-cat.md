@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/44715859?v=4
   email: null
   name: Zenfection
   url: null
-  username: null
+  username: Zenfection
 bugs: https://github.com/zenfection/vuepress-plugin-zenlive2d-cat/issues
 category: plugins
 date: '2021-09-01T12:30:42.514Z'
@@ -16,7 +16,7 @@ keywords:
 - zenlive2d
 - vuepress@next
 - live2d-cat-model
-license: null
+license: MIT License
 maintainers: null
 name: vuepress-plugin-zenlive2d-cat
 npm: https://www.npmjs.com/package/vuepress-plugin-zenlive2d-cat
