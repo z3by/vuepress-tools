@@ -28,39 +28,59 @@ publisher:
   username: reco_luan
 repository: https://github.com/recoluan/vuepress-theme-reco-next
 score: 0.5971231324615086
-stars: 264
+stars: 265
 unstable: false
 version: 2.0.1-alpha.0
-watchers: 264
+watchers: 265
 
 ---
 
-> reco 主题 1.0 的代码仓库已经迁移至 [vuepress-theme-reco-1.x](https://github.com/vuepress-reco/vuepress-theme-reco-1.x)
+<p align="center">
+  <a href="http://v2.vuepress-reco.recoluan.com/en/" target="_blank" rel="noopener noreferrer">
+    <img width="200" src="https://user-images.githubusercontent.com/18067907/211360896-daee923a-8b60-4025-9858-172c186d2549.png" alt="logo" />
+  </a>
+</p>
+<br/>
+<p align="center">
+  <img alt="GitHub license" src="https://img.shields.io/github/license/vuepress-reco/vuepress-theme-reco?style=flat-square&logo=github&color=616ae5">
+  <img alt="GitHub stars" src="https://img.shields.io/github/stars/vuepress-reco/vuepress-theme-reco?style=flat-square&logo=github&color=616ae5">
+  <img alt="GitHub forks" src="https://img.shields.io/github/forks/vuepress-reco/vuepress-theme-reco?style=flat-square&logo=github&color=616ae5">
+  <img alt="Npm downloads" src="https://img.shields.io/npm/dt/vuepress-theme-reco?style=flat-square&logo=npm&color=616ae5">
+  <img alt="GitHub package.json version (subfolder of monorepo)" src="https://img.shields.io/github/package-json/v/vuepress-reco/vuepress-theme-reco?filename=packages%2Fvuepress-theme-reco%2Fpackage.json&style=flat-square&color=616ae5&logo=npm">
+  <img alt="Npm version" src="https://img.shields.io/badge/tailwindcss-3.1.6-616ae5?style=flat-square&logo=tailwindcss"/>
+</p>
 
-🔥 The 2.x of vuepress-theme-reco.
+<br/>
+
+## 🔥 vuepress-theme-reco
+
+> This is reco theme 2.0, and the 1.0 repository has been migrated to [vuepress-theme-reco-1.x](https://github.com/vuepress-reco/vuepress-theme-reco-1.x)
+
+<br/>
 
 In the past, theme `reco` has been supported by many friends, I am very honored, it changed my life, and I also made a lot of friends. But I don't think it is professional and flexible, and sometimes some advanced features require certain professionalism. I know that this is not easy for some Non-FE professional friends.
 
-I hope the theme can be more out of the box, open and flexible, and inherit "simple" concept, give back to all friends. Come and tell me what you want it to be!
+Some functions of `reco@2.x` refer to the default theme of `vuepress@2.x`, but it is no longer magically changed on the default theme like `0.x` and `1.x`. This is a new set of solutions, such as The style adopts the `tailwindCSS` scheme, and the page extension capability is realized through the plugin `@vuepress-reco/vuepress-plugin-page`.
 
-## 简介
+At the same time, you must rely on this document to configure your project. You cannot compare it with the official default theme document, because only a small amount of configuration overlaps with the official default theme document.
 
-reco 主题 2.0，依赖 `@vuepress-reco/vuepress-plugin-page` 为主题主题扩展的页面，同时可以为特定页面注入分类、标签和分页的相关数据，并依赖其他插件默认为主题扩展一些必要功能。
+**Please move [Demo](https://www.recoluan.com/) and [Docs](http://v2.vuepress-reco.recoluan.com/) to play!**
 
+<br/>
 
-## 快速开始
+## Quick Start
 
 **npx**
 
 ```bash
-# 初始化，并选择 2.x
+# Init，and choose 2.x
 npx @vuepress-reco/theme-cli init
 ```
 
 **npm**
 
 ```bash
-# 初始化，并选择 2.x
+# Init，and choose 2.x
 npm install @vuepress-reco/theme-cli@1.0.7 -g
 theme-cli init
 ```
@@ -68,28 +88,34 @@ theme-cli init
 **yarn**
 
 ```bash
-# 初始化，并选择 2.x
+# Init，and choose 2.x
 yarn global add @vuepress-reco/theme-cli@1.0.7
 theme-cli init
 ```
 
-## 预览
+<br/>
 
-<img width="800" alt="light_home" src="https://user-images.githubusercontent.com/18067907/134000239-dd38dde8-5e5b-48e8-93e8-1d44ddfa66ec.png">
+## Preview
 
-<img width="800" alt="dark_home" src="https://user-images.githubusercontent.com/18067907/134000265-bf21536a-11f8-466b-8dd6-e3841a6d3b17.png">
+<img width="800" alt="home_dark" src="https://user-images.githubusercontent.com/18067907/211355760-6919c0d3-bddb-45a2-99b9-77c6f9380cf3.png">
 
-<img width="800" alt="light_category" src="https://user-images.githubusercontent.com/18067907/134000281-723f3a16-ec8b-4051-aff0-cc0f74843ec3.png">
+<br/>
 
-<img width="800" alt="dark_page" src="https://user-images.githubusercontent.com/18067907/134000306-253052af-a986-4af6-88a6-0259369d9dd3.png">
+<img width="800" alt="doc_dark" src="https://user-images.githubusercontent.com/18067907/211355788-7f6790d1-f183-4b2c-976f-b77c837736f2.png">
 
-<img width="800" alt="light_page" src="https://user-images.githubusercontent.com/18067907/134000356-031678db-5449-4656-8b1f-cb2de72135f7.png">
+<br/>
 
-<img width="800" alt="dark_category" src="https://user-images.githubusercontent.com/18067907/134000365-a24344c3-05ed-4bbb-abae-41653be9c4c0.png">
+<img width="800" alt="home_light" src="https://user-images.githubusercontent.com/18067907/211355806-4f1e325d-637d-4a33-8c32-1f6f4f00df29.png">
 
-## alpha 版本待办事项
+<br/>
 
-### 功能
+<img width="800" alt="doc_light" src="https://user-images.githubusercontent.com/18067907/211355824-c0dc3611-b0f0-47c8-9c06-58167fc8cbd6.png">
+
+<br/>
+
+## Alpha Todo List
+
+### Functions
 
 - [x] 自定义首页功能
 - [x] nprogress 插件
@@ -106,14 +132,16 @@ theme-cli init
 - [ ] ~~增加 icon 功能~~
 - [ ] ~~提供自定义任意页面的 API~~
 
-### 优化
+### Optimizations
 
 - [x] 完善文档
 - [x] 侧边栏样式优化
 - [x] 去除 scss，采用 css + postcss 方案
 - [ ] ~~PWA 样式优化~~
 
-## beta 版本待办事项
+<br/>
+
+## Beta Todo List
 
 - [x] 增加 icon 功能
 - [x] 整站加密
@@ -123,3 +151,17 @@ theme-cli init
 - [ ] comment 插件增强
 - [ ] 增加图片适配暗色模式的配置
 - [ ] 对指定文件夹进行功能支持，比如 series、docs、blogs
+
+<br/>
+
+## Contributors
+
+<a style="display: block;margin-top: 10px" href="https://github.com/vuepress-reco/vuepress-theme-reco/graphs/contributors" target="_black">
+  <img 
+    alt="vuepress-theme-reco" 
+    src="https://img.shields.io/github/contributors/vuepress-reco/vuepress-theme-reco?style=for-the-badge&logo=github&label=vuepress-theme-reco&color=616ae5" />
+</a>
+
+<br />
+
+**P.S. Thanks to the two beauties for their contributions to the theme logo: Zoey and 冰冰.**
