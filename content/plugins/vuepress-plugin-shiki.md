@@ -30,10 +30,10 @@ publisher:
   username: octref
 repository: https://github.com/octref/shiki
 score: 0.6373112800361818
-stars: 4306
+stars: 4314
 unstable: true
 version: 0.10.1
-watchers: 4306
+watchers: 4314
 
 ---
 
@@ -331,6 +331,8 @@ Shiki makes use of [VS Code Oniguruma](https://github.com/microsoft/vscode-onigu
 For Node.js environments the WASM file is automatically loaded, for browser environments you can specify how to load the WASM file.
 
 > If used, `setWASM` must be invoked before `getHighlighter` is called.
+
+> If you make use of a reverse proxy like [nginx](https://www.nginx.com/) or [traefik](https://traefik.io/traefik/) you may have to specify in its configuration the MIME type for wasm files.
 
 Use the default loader: (applies to Node.js and browser environments)
 
