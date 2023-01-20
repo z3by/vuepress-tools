@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/4539223?v=4
   email: m2de@outlook.com
   name: Marco Mark
   url: null
@@ -16,7 +16,7 @@ keywords:
 - vuepress
 - plugin
 - markdown
-license: null
+license: false
 maintainers: null
 name: '@silvanite/vuepress-plugin-markdown-classes'
 npm: https://www.npmjs.com/package/%40silvanite%2Fvuepress-plugin-markdown-classes
@@ -28,10 +28,10 @@ publisher:
   username: m2de
 repository: https://github.com/silvanite/vuepress-plugin-markdown-classes
 score: 0.47070654741147944
-stars: 0
+stars: 4
 unstable: false
 version: 1.0.2
-watchers: 0
+watchers: 4
 
 ---
 

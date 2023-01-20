@@ -30,10 +30,10 @@ publisher:
   username: octref
 repository: https://github.com/octref/shiki
 score: 0.6373112800361818
-stars: 4355
+stars: 4389
 unstable: true
 version: 0.10.1
-watchers: 4355
+watchers: 4389
 
 ---
 
@@ -250,7 +250,7 @@ if (!highlighter.getLoadedLanguages().includes(language)) {
     // Languages are specified by their id, they can also have aliases (i. e. "js" and "javascript")
     return bundle.id === language || bundle.aliases?.includes(language);
   });
-  if (bundles.length > 0)) {
+  if (bundles.length > 0) {
     await highlighter.loadLanguage(language)
   } else {
     // Do some error handling or default to another language or...
