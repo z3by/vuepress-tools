@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/64388301?v=4
+  avatar: null
   email: null
   name: wangjia_1919@163.com
   url: null
-  username: nine-theme
+  username: null
 bugs: https://github.com/NineSwordsMonster/vuepress-plugin-screenfull/issues
 category: themes
 date: '2020-09-23T07:47:20.556Z'
@@ -15,7 +15,7 @@ homepage: https://github.com/NineSwordsMonster/vuepress-plugin-screenfull#readme
 keywords:
 - screenfull
 - vuepress
-license: MIT License
+license: null
 maintainers: null
 name: '@nine-theme/vuepress-plugin-screenfull'
 npm: https://www.npmjs.com/package/%40nine-theme%2Fvuepress-plugin-screenfull
