@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/4539223?v=4
   email: m2de@outlook.com
   name: Marco Mark
   url: null
@@ -17,7 +17,7 @@ keywords:
 - plugin
 - tailwind
 - css
-license: null
+license: false
 maintainers: null
 name: '@silvanite/vuepress-plugin-tailwind'
 npm: https://www.npmjs.com/package/%40silvanite%2Fvuepress-plugin-tailwind
@@ -29,10 +29,10 @@ publisher:
   username: m2de
 repository: https://github.com/silvanite/vuepress-plugin-tailwind
 score: 0.4603673533610526
-stars: 0
+stars: 19
 unstable: false
 version: 1.3.0
-watchers: 0
+watchers: 19
 
 ---
 
