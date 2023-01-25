@@ -31,10 +31,10 @@ publisher:
   username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
 score: 0.6756577333346729
-stars: 945
+stars: 949
 unstable: false
 version: 2.0.0-beta.24
-watchers: 945
+watchers: 949
 
 ---
 
@@ -57,7 +57,7 @@ watchers: 945
 
 <!-- markdownlint-restore -->
 
-[![Version](https://img.shields.io/npm/v/vuepress-theme-hope/next.svg?style=flat-square&logo=npm) ![Downloads](https://img.shields.io/npm/dm/vuepress-theme-hope.svg?style=flat-square&logo=npm) ![Total downloads](https://img.shields.io/npm/dt/vuepress-theme-hope?style=flat-square&logo=npm) ![Size](https://img.shields.io/bundlephobia/min/vuepress-theme-hope?style=flat-square&logo=npm)](https://www.npmjs.com/package/vuepress-theme-hope)
+[![Version](https://img.shields.io/npm/v/vuepress-theme-hope.svg?style=flat-square&logo=npm) ![Downloads](https://img.shields.io/npm/dm/vuepress-theme-hope.svg?style=flat-square&logo=npm) ![Total downloads](https://img.shields.io/npm/dt/vuepress-theme-hope?style=flat-square&logo=npm) ![Size](https://img.shields.io/bundlephobia/min/vuepress-theme-hope?style=flat-square&logo=npm)](https://www.npmjs.com/package/vuepress-theme-hope)
 
 [![open collective](https://opencollective.com/vuepress-theme-hope/tiers/badge.svg)](https://opencollective.com/vuepress-theme-hope)
 
