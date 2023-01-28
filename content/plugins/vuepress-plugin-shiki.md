@@ -30,10 +30,10 @@ publisher:
   username: octref
 repository: https://github.com/octref/shiki
 score: 0.6373112800361818
-stars: 4478
+stars: 4487
 unstable: true
 version: 0.10.1
-watchers: 4478
+watchers: 4487
 
 ---
 
@@ -404,7 +404,7 @@ If you want to render the tokens into a code yourself, Shiki exposes two key met
 - `renderToHTML` takes an array of tokens and returns an HTML string that represents the provided code.
 
 ```js
-import { getHighlighter } from 'shiki'
+import shiki, { getHighlighter } from 'shiki'
 
 const highlighter = await getHighlighter({
   theme: 'nord',
@@ -418,7 +418,7 @@ const code = `console.log("Here is your code.");`
 const tokens = highlighter.codeToThemedTokens(code, 'javascript')
 
 // This will return an HTML string that represents the provided code.
-const html = highlighter.renderToHTML(tokens)
+const html = shiki.renderToHTML(tokens)
 ```
 
 Alternatively you can add to `renderToHTML` the desired element shape for `pre`, `code`, `line (span)`, and `token (span)`, and override the theme colors for background and foreground.
@@ -426,7 +426,7 @@ Alternatively you can add to `renderToHTML` the desired element shape for `pre`,
 For more about that, or to build your own renderer, check out the implementation in [shiki](./packages/shiki/src/renderer.ts).
 
 ```js
-const html = highlighter.renderToHTML(tokens, {
+const html = shiki.renderToHTML(tokens, {
   fg: highlighter.getForegroundColor('nord'), // Set a specific foreground color.
   bg: highlighter.getBackgroundColor('nord'), // Set a specific background color.
   // Specified elements override the default elements.
