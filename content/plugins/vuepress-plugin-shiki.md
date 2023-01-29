@@ -30,10 +30,19 @@ publisher:
   username: octref
 repository: https://github.com/octref/shiki
 score: 0.6373112800361818
-stars: 4487
+stars: 4491
 unstable: true
 version: 0.10.1
-watchers: 4487
+watchers: 4491
+
+---
+
+We are working towards 1.0, which means:
+
+- 0.13.0 will be the last minor version
+- No new features, only minor bug fixes
+- Work will happen in `dev` branch
+- If you want to help, or ask for features, comment in [#424](https://github.com/shikijs/shiki/issues/424)
 
 ---
 
