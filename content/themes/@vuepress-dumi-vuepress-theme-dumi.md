@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/16408157?v=4
   email: orekish@163.com
   name: OrekiSH
   url: null
@@ -18,7 +18,7 @@ keywords:
 - theme
 - documentation
 - dumi
-license: null
+license: MIT License
 maintainers: null
 name: '@vuepress-dumi/vuepress-theme-dumi'
 npm: https://www.npmjs.com/package/%40vuepress-dumi%2Fvuepress-theme-dumi
@@ -30,10 +30,10 @@ publisher:
   username: orekish
 repository: https://github.com/OrekiSH/vuepress-dumi
 score: 0.32521281057596096
-stars: 0
+stars: 10
 unstable: true
 version: 0.3.11
-watchers: 0
+watchers: 10
 
 ---
 
