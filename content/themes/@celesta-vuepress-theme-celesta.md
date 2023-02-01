@@ -28,10 +28,10 @@ publisher:
   username: nsznsznjsz
 repository: https://github.com/nsznsznjsz/blog
 score: 0.5162852320480927
-stars: 2
+stars: 3
 unstable: true
 version: 0.5.0
-watchers: 2
+watchers: 3
 
 ---
 
