@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/67640197?v=4
   email: null
   name: Il Harper
   url: null
-  username: null
+  username: vbox-moe
 bugs: https://github.com/vbox-moe/vuepress-plugin-vbox/issues
 category: plugins
 date: '2020-07-08T07:03:57.655Z'
@@ -16,7 +16,7 @@ keywords:
 - vuepress
 - vbox
 - plugin
-license: null
+license: false
 maintainers: null
 name: vuepress-plugin-vbox
 npm: https://www.npmjs.com/package/vuepress-plugin-vbox
@@ -28,10 +28,10 @@ publisher:
   username: afanyiyu
 repository: https://github.com/vbox-moe/vuepress-plugin-vbox
 score: 0.3975494424175926
-stars: 0
+stars: 1
 unstable: true
 version: 0.2.1
-watchers: 0
+watchers: 1
 
 ---
 
