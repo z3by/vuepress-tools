@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/93846129?v=4
+  avatar: null
   email: null
   name: qsyyke
   url: null
-  username: vuepress-aurora
+  username: null
 bugs: null
 category: plugins
 date: '2022-01-16T08:29:44.837Z'
@@ -26,7 +26,7 @@ keywords:
 - romantic bubble
 - vuepress
 - vuepress romantic
-license: false
+license: null
 maintainers: null
 name: vuepress-plugin-bubble
 npm: https://www.npmjs.com/package/vuepress-plugin-bubble
