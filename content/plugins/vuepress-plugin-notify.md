@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/31888710?v=4
   email: null
   name: "\u524D\u7AEF\u6709\u9053"
   url: null
-  username: null
+  username: qqlcx5
 bugs: https://github.com/qqlcx5/vuepress-plugin-notify/issues
 category: plugins
 date: '2021-05-23T12:33:59.365Z'
@@ -17,7 +17,7 @@ keywords:
 - notify
 - "\u901A\u77E5\u5F39\u51FA\u6846"
 - vuepress-plugin-notify
-license: null
+license: false
 maintainers: null
 name: vuepress-plugin-notify
 npm: https://www.npmjs.com/package/vuepress-plugin-notify
