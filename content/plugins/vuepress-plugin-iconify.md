@@ -67,13 +67,15 @@ import { defineUserConfig } from 'vuepress'
 import { iconifyPlugin } from 'vuepress-plugin-iconify'
 
 export default defineUserConfig({
-  plugins: [iconifyPlugin()],
+  plugins: [
+    iconifyPlugin(),
+  ],
 })
 ```
 
 Then, you can use the `VpIcon` component in your docs:
 
-```markdown
+```html
 <vp-icon icon="vscode-icons:file-type-vue" width="50px" />
 
 <vp-icon icon="vscode-icons:file-type-vue" width="50px" vFlip />
