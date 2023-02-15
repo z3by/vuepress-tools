@@ -30,10 +30,10 @@ publisher:
   username: pengzhanbo
 repository: https://github.com/pengzhanbo/vuepress-theme-plume
 score: 0.5039656222491855
-stars: 8
+stars: 9
 unstable: true
 version: 1.0.0-beta.36
-watchers: 8
+watchers: 9
 
 ---
 
@@ -58,15 +58,15 @@ yarn add vuepress@next @vuepress-plume/vuepress-theme-plume
 
 ``` ts
 import { defineUserConfig } from 'vuepress'
-import { themePlume } from '@vuepress-plume/vuepress-theme-plume'
+import { plumeTheme } from '@vuepress-plume/vuepress-theme-plume'
 export default defineUserConfig({
-  theme: themePlume({
+  theme: plumeTheme({
     // theme config
   })
 })
 ```
 
-### `themePlume(options)`
+### `plumeTheme(options)`
 
 __options__ : `PlumeThemeOptions`
 
@@ -75,11 +75,22 @@ __options__ : `PlumeThemeOptions`
 ## 案例
 
 - [我的个人博客](https://pengzhanbo.cn/)
+
+### 效果图
+
+![](/docs/preview-home.png)
+
+![](/docs/preview-blog.png)
+
+![](/docs/preview-note.png)
   
 
 ## 内置插件
 
 - [plugin-caniuse](https://github.com/pengzhanbo/vuepress-theme-plume/tree/main/packages/plugin-caniuse) 在文档中使用 caniuse 提供的 web feature support list
+- [plugin-auto-frontmatter](https://github.com/pengzhanbo/vuepress-theme-plume/tree/main/packages/plugin-auto-frontmatter) 在 md 文件中根据匹配规则自动生成 frontmatter
+- [plugin-notes-data](https://github.com/pengzhanbo/vuepress-theme-plume/tree/main/packages/plugin-notes-data) 根据规则，将 md文件归类为 note，并生成 sidebar
+- [plugin-blog-data](https://github.com/pengzhanbo/vuepress-theme-plume/tree/main/packages/plugin-blog-data) 根据规则，将md文件归类为 blog post，并生成 post list
 - [vuepress-plugin-mdEnhance](https://vuepress-theme-hope.github.io/v2/md-enhance/zh/) 增强markdown功能插件
 - [vuepress-plugin-comment](https://vuepress-theme-hope.github.io/v2/comment/zh/) 文章评论插件，支持 "giscus" | "twikoo" | "waline"
 - [vuepress-plugin-copy-code](https://github.com/pengzhanbo/vuepress-theme-plume/tree/main/packages/plugin-copy-code) 文章内代码块复制插件
@@ -99,5 +110,3 @@ __options__ : `PlumeThemeOptions`
 本主题基于 `VuePress2` ，仍处于 Beta 阶段。
 
 这意味着功能尚未完善，在未来有概率发生破坏性更改。
-
-本主题已完成主要功能的开发，并用于个人博客，也欢迎各位使用，如能给小弟提供您宝贵的建议和意见，不胜感激。
