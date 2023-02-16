@@ -30,10 +30,10 @@ publisher:
   username: shigma
 repository: https://github.com/vuepress/vuepress-plugin-mathjax
 score: 0.48673095857061144
-stars: 32
+stars: 33
 unstable: false
 version: 1.2.8
-watchers: 32
+watchers: 33
 
 ---
 
