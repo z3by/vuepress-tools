@@ -28,10 +28,10 @@ publisher:
   username: yuchanns
 repository: https://github.com/yuchanns/vuepress-theme-yuchanns
 score: 0.5586562420612788
-stars: 10
+stars: 9
 unstable: false
 version: 1.0.0
-watchers: 10
+watchers: 9
 
 ---
 
