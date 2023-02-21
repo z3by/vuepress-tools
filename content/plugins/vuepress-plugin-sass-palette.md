@@ -28,10 +28,10 @@ publisher:
   username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
 score: 0.6871030273938918
-stars: 1004
+stars: 1005
 unstable: false
 version: 2.0.0-alpha.33
-watchers: 1004
+watchers: 1005
 
 ---
 
@@ -68,6 +68,14 @@ A VuePress theme with tons of features✨
 ## [English Docs](https://theme-hope.vuejs.press/)
 
 ## [Online Demo](https://stackblitz.com/fork/vuepress-theme-hope)
+
+## Special Sponsor
+
+<!-- markdownlint-disable MD033 -->
+
+[![Grey Software](https://vuepress-theme-hope.github.io/grey-software.svg)](https://grey.software/)
+
+<!-- markdownlint-restore -->
 
 ## Contact
 
