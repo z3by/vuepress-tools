@@ -4,7 +4,7 @@ author:
   email: imsqrtthree@gmail.com
   name: sqrtthree
   url: null
-  username: sqrthree
+  username: linhe0x0
 bugs: https://github.com/sqrthree/vuepress-theme-api/issues
 category: themes
 date: '2021-06-11T05:11:58.309Z'

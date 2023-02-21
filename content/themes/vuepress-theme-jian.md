@@ -4,7 +4,7 @@ author:
   email: imsqrtthree@gmail.com
   name: sqrtthree
   url: null
-  username: sqrthree
+  username: linhe0x0
 bugs: https://github.com/sqrthree/vuepress-theme-jian/issues
 category: themes
 date: '2020-02-27T15:39:26.672Z'
