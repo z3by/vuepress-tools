@@ -53,11 +53,13 @@ watchers: 30
 
 :book: [Online demo and Docs](https://social-share.ntnyq.com)
 
+If you are upgrading this plugin to v2, See [Migration guide from v1](https://social-share.ntnyq.com/guide/#migration-from-v1).
+
 ## ⚠️ Note
 
 Still using VuePress v1?
 
-Please Checkout branch [main](https://github.com/ntnyq/vuepress-plugin-social-share/tree/main) for detail
+Please Checkout branch [main](https://github.com/ntnyq/vuepress-plugin-social-share/tree/main) for detail.
 
 ## Install
 
