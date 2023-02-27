@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/6525873?v=4
   email: null
   name: Andreas Martin
   url: null
-  username: null
+  username: about-code
 bugs: https://github.com/about-code/vuepress-plugin-jsonld-playground/issues
 category: plugins
 date: '2022-01-25T21:20:35.588Z'
@@ -20,7 +20,7 @@ keywords:
 - playground
 - vue
 - component
-license: null
+license: MIT License
 maintainers: null
 name: vuepress-plugin-jsonld-playground
 npm: https://www.npmjs.com/package/vuepress-plugin-jsonld-playground
