@@ -28,10 +28,10 @@ publisher:
   username: wangyi7099
 repository: https://github.com/YvesCoding/vuepress-theme-vuepress
 score: 0.4242935301304664
-stars: 1
+stars: 3
 unstable: true
 version: 0.0.44
-watchers: 1
+watchers: 3
 
 ---
 
