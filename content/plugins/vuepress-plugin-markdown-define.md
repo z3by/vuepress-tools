@@ -28,10 +28,10 @@ publisher:
   username: justforuse
 repository: https://github.com/justforuse/vuepress-plugin-markdown-define
 score: 0.5124280859404462
-stars: 0
+stars: 1
 unstable: false
 version: 1.0.3
-watchers: 0
+watchers: 1
 
 ---
 

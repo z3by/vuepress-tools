@@ -4,7 +4,7 @@ author:
   email: null
   name: qsyyke
   url: null
-  username: vuepress-aurora
+  username: blog-aurora
 bugs: https://github.com/vuepress-aurora/vuepress-plugin-coze/issues
 category: plugins
 date: '2022-02-24T14:09:32.573Z'
