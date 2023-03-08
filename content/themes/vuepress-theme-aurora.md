@@ -4,7 +4,7 @@ author:
   email: null
   name: qsyyke
   url: null
-  username: vuepress-aurora
+  username: blog-aurora
 bugs: https://github.com/vuepress-aurora/vuepress-theme-aurora/issues
 category: themes
 date: '2022-05-02T10:52:44.411Z'
