@@ -110,6 +110,13 @@ It means that the publc path will be different acccording to the NEV you set, an
 - Type: `string`
 - Description: Control how many seconds the page will be redirected, defaults to `3`.
 
+### enableHistoryRedirect
+
+- Type: `boolean`
+- Description: Enable redirects when navigation is based on History API, defaults to `false`.
+
+Single Page Applications (SPA) typically only utilise one index file that is accessible by web browsers: usually index.html. Navigation in the application is then commonly handled using JavaScript with the help of the [HTML5 History API](http://www.w3.org/html/wg/drafts/html/master/single-page.html#the-history-interface), in VuePress we leverage [vue-router](https://v2.vuejs.org/v2/guide/routing.html) under the hood.
+
 ## TODO
 
 - Support directory redirects.
