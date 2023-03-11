@@ -42,10 +42,10 @@ publisher:
   username: qsyyke
 repository: https://github.com/vuepress-aurora/vuepress-theme-aurora
 score: 0.5718532858796384
-stars: 229
+stars: 228
 unstable: false
 version: 1.13.3
-watchers: 229
+watchers: 228
 
 ---
 
@@ -57,7 +57,7 @@ watchers: 229
 
 - [后台](https://admin.xcye.xyz/login?redirect=/dashboard/analysis)
 
-  演示账号：用户名: demo 密码:Aurora2023@*
+  演示账号：用户名: demoAurora 密码:Aurora2023@*
 
   
 

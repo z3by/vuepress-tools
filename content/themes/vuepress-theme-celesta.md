@@ -28,10 +28,10 @@ publisher:
   username: nsznsznjsz
 repository: https://github.com/nsznsznjsz/vuepress-theme-celesta
 score: 0.38280775597724565
-stars: 0
+stars: 1
 unstable: true
 version: 0.1.0
-watchers: 0
+watchers: 1
 
 ---
 
