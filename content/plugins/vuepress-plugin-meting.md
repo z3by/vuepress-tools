@@ -29,10 +29,10 @@ publisher:
   username: sigure_mo
 repository: https://github.com/moefyit/vuepress-plugin-meting
 score: 0.5448067316812332
-stars: 28
+stars: 29
 unstable: true
 version: 0.3.2
-watchers: 28
+watchers: 29
 
 ---
 
