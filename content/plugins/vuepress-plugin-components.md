@@ -29,10 +29,10 @@ publisher:
   username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
 score: 0.6736482248012161
-stars: 1055
+stars: 1057
 unstable: false
 version: 2.0.0-beta.69
-watchers: 1055
+watchers: 1057
 
 ---
 
@@ -104,3 +104,7 @@ Also V2 has a better performance:🚀
 Thanks to all the contributors!
 
 [![contributors](https://contrib.rocks/image?repo=vuepress-theme-hope/vuepress-theme-hope)](https://github.com/vuepress-theme-hope/vuepress-theme-hope/graphs/contributors)
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/vuepress-theme-hope/vuepress-theme-hope.svg)](https://starchart.cc/vuepress-theme-hope/vuepress-theme-hope)
