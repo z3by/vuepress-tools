@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/41458459?v=4
+  avatar: null
   email: yuan.zx@outlook.com
   name: Celeste
   url: null
-  username: yzx9
+  username: null
 bugs: https://github.com/nsznsznjsz/vuepress-theme-celesta/issues
 category: themes
 date: '2021-02-05T14:47:58.893Z'
@@ -16,7 +16,7 @@ keywords:
 - blog
 - vuepress
 - vuepress-theme
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-theme-celesta
 npm: https://www.npmjs.com/package/vuepress-theme-celesta
@@ -28,13 +28,10 @@ publisher:
   username: nsznsznjsz
 repository: https://github.com/nsznsznjsz/vuepress-theme-celesta
 score: 0.38280775597724565
-stars: 1
+stars: 0
 unstable: true
 version: 0.1.0
-watchers: 1
+watchers: 0
 
 ---
 
-# vuepress-theme-celesta
-
-Blog theme for vuepress, see [My blog](https://github.com/nsznsznjsz/blog/).
