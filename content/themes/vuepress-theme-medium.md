@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/36268825?v=4
   email: zoaby.am@gmail.com
   name: Ahmad Mostafa
   url: https://ahmadmostafa.com
@@ -20,7 +20,7 @@ keywords:
 - vue
 - vuepress-theme-blog
 - vuepress-theme-medium
-license: null
+license: MIT License
 maintainers: null
 name: vuepress-theme-medium
 npm: https://www.npmjs.com/package/vuepress-theme-medium
@@ -32,10 +32,36 @@ publisher:
   username: z3bya
 repository: https://github.com/z3by/vuepress-theme-medium
 score: 0.32629697055821166
-stars: 0
+stars: 18
 unstable: true
 version: 0.1.0
-watchers: 0
+watchers: 18
 
 ---
 
+# vuepress-theme-medium
+
+[![NPM version](https://badgen.net/npm/v/vuepress-theme-medium)](https://npmjs.com/package/vuepress-theme-medium) [![NPM downloads](https://badgen.net/npm/dt/vuepress-theme-medium)](https://npmjs.com/package/vuepress-theme-medium)
+
+## Sites
+
+- [Live Example](https://vuepress-theme-medium.z3by.com/)
+
+## Install
+
+```bash
+yarn add vuepress-theme-medium -D
+# OR npm install vuepress-theme-medium -D
+```
+
+## Usage
+
+```js
+// .vuepress/config.js
+module.exports = {
+  theme: 'medium',
+  themeConfig: {
+    // Please keep looking down to see the available options.
+  }
+}
+```
