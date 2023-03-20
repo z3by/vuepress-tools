@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/54167020?v=4
   email: recoluan@outlook.com
   name: reco_luan
   url: null
@@ -16,7 +16,7 @@ keywords:
 - vuepress-theme-reco
 - rss
 - vuepress
-license: null
+license: MIT License
 maintainers: null
 name: '@vuepress-reco/vuepress-plugin-rss'
 npm: https://www.npmjs.com/package/%40vuepress-reco%2Fvuepress-plugin-rss
@@ -28,10 +28,10 @@ publisher:
   username: reco_luan
 repository: https://github.com/vuepress-reco/vuepress-plugin-rss
 score: 0.47602605588101476
-stars: 0
+stars: 2
 unstable: false
 version: 1.0.2
-watchers: 0
+watchers: 2
 
 ---
 
