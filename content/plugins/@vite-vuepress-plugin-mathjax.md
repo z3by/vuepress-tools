@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/36895023?v=4
   email: null
   name: vitelabs
   url: null
-  username: null
+  username: vitelabs
 bugs: https://github.com/vitelabs/vuepress-plugin-mathjax/issues
 category: plugins
 date: '2021-02-10T03:53:29.330Z'
@@ -18,7 +18,7 @@ keywords:
 - plugin
 - vue
 - vite
-license: null
+license: false
 maintainers: null
 name: '@vite/vuepress-plugin-mathjax'
 npm: https://www.npmjs.com/package/%40vite%2Fvuepress-plugin-mathjax
@@ -30,10 +30,10 @@ publisher:
   username: soliury
 repository: https://github.com/vitelabs/vuepress-plugin-mathjax
 score: 0.46049940132335376
-stars: 0
+stars: 5
 unstable: false
 version: 1.1.0
-watchers: 0
+watchers: 5
 
 ---
 

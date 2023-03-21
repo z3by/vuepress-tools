@@ -28,10 +28,10 @@ publisher:
   username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
 score: 0.6871030273938918
-stars: 1065
+stars: 1074
 unstable: false
 version: 2.0.0-alpha.33
-watchers: 1065
+watchers: 1074
 
 ---
 
@@ -44,7 +44,7 @@ watchers: 1065
 
 <h4 align="center">
 
-[中文简介](README-zh.md) | [Russian README](README-ru.md)
+[中文简介](README-zh.md) | [Russian README](https://github.com/vuepress-theme-hope/theme-ru-docs)
 
 </h4>
 
