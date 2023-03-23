@@ -30,10 +30,10 @@ publisher:
   username: microjan
 repository: https://github.com/sunnyxujian/vuepress-plugin-image-viewer
 score: 0.5289415948669366
-stars: 7
+stars: 8
 unstable: false
 version: 1.1.7
-watchers: 7
+watchers: 8
 
 ---
 
