@@ -42,7 +42,7 @@ watchers: 5
 
 ![demo](./demo.jpg)
 
-预览 | Demo：<https://OxygenNotIncluded.theme.YuePlus.ink/>
+预览 | Demo：<https://oxygen-not-included.Theme.VuePress.Yue.zone/>
 
 ## 快速上手 | Getting Start
 
