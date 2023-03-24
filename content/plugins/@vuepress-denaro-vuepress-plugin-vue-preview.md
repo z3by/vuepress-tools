@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/85858775?v=4
+  avatar: null
   email: pengchengou@gmail.com
   name: vxhly
   url: null
@@ -20,7 +20,7 @@ keywords:
 - denaro
 - vue-preview
 - "vue \u7EC4\u4EF6\u9884\u89C8"
-license: Other
+license: null
 maintainers: null
 name: '@vuepress-denaro/vuepress-plugin-vue-preview'
 npm: https://www.npmjs.com/package/%40vuepress-denaro%2Fvuepress-plugin-vue-preview
@@ -32,10 +32,10 @@ publisher:
   username: vxhly
 repository: https://github.com/denaro-org/vuepress-theme-denaro
 score: 0.5116716124022431
-stars: 3
+stars: 0
 unstable: false
 version: 1.0.2-alpha.0
-watchers: 3
+watchers: 0
 
 ---
 
