@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/65664118?v=4
   email: null
   name: SigureMo
   url: null
-  username: null
+  username: moefyit
 bugs: https://github.com/moefyit/vuepress-plugin-dynamic-title/issues
 category: plugins
 date: '2020-05-21T20:44:15.486Z'
@@ -16,7 +16,7 @@ keywords:
 - vuepress
 - plugin
 - title
-license: null
+license: MIT License
 maintainers: null
 name: vuepress-plugin-dynamic-title
 npm: https://www.npmjs.com/package/vuepress-plugin-dynamic-title
@@ -28,10 +28,10 @@ publisher:
   username: sigure_mo
 repository: https://github.com/moefyit/vuepress-plugin-dynamic-title
 score: 0.5029123131038203
-stars: 0
+stars: 8
 unstable: false
 version: 1.0.0
-watchers: 0
+watchers: 8
 
 ---
 
