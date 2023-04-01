@@ -26,10 +26,10 @@ publisher:
   username: lzwdot
 repository: https://github.com/lzwdot/vuepress-plugin-to-wordpress
 score: 0.555335387287681
-stars: 0
+stars: 1
 unstable: true
 version: 1.0.0-beta.14
-watchers: 0
+watchers: 1
 
 ---
 
