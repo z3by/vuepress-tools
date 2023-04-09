@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/25066570?v=4
+  avatar: null
   email: jinyao.ma@outlook.com
   name: jinyaoMa
   url: null
@@ -17,7 +17,7 @@ keywords:
 - vuepress
 - vuepress-theme
 - mustom
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-theme-mustom
 npm: https://www.npmjs.com/package/vuepress-theme-mustom
@@ -29,10 +29,10 @@ publisher:
   username: ma-jinyao
 repository: https://github.com/jinyaoMa/vuepress-theme-mustom
 score: 0.34687811421227055
-stars: 26
+stars: 0
 unstable: false
 version: 1.1.1-20200901.1245.1
-watchers: 26
+watchers: 0
 
 ---
 
