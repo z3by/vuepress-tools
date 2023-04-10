@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/19198355?v=4
   email: null
   name: Artiely
   url: null
-  username: null
+  username: artiely
 bugs: https://github.com/artiely/vuepress-theme-koala/issues
 category: themes
 date: '2019-03-28T01:42:55.660Z'
@@ -19,7 +19,7 @@ keywords:
 - generator
 - theme
 - vuepress-theme
-license: null
+license: MIT License
 maintainers: null
 name: vuepress-theme-koala
 npm: https://www.npmjs.com/package/vuepress-theme-koala
@@ -31,10 +31,10 @@ publisher:
   username: artiely
 repository: https://github.com/artiely/vuepress-theme-koala
 score: 0.2448233804713642
-stars: 0
+stars: 4
 unstable: true
 version: 1.0.0-alpha.44.3
-watchers: 0
+watchers: 4
 
 ---
 
