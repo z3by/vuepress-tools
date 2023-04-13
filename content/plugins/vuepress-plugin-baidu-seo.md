@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/5085501?v=4
+  avatar: null
   email: null
   name: rqh656418510
   url: null
-  username: rqh656418510
+  username: null
 bugs: https://github.com/rqh656418510/vuepress-plugin-baidu-seo/issues
 category: plugins
 date: '2022-06-20T02:55:28.754Z'
@@ -18,7 +18,7 @@ keywords:
 - baidu
 - tongji
 - seo
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-plugin-baidu-seo
 npm: https://www.npmjs.com/package/vuepress-plugin-baidu-seo
