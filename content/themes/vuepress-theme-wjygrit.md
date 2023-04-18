@@ -31,10 +31,10 @@ publisher:
   username: wjygrit
 repository: https://github.com/GRITWJY/WJYGRIT-BLOG
 score: 0.49823642836614834
-stars: 1
+stars: 2
 unstable: false
 version: 1.1.10
-watchers: 1
+watchers: 2
 
 ---
 

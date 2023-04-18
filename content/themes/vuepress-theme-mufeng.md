@@ -28,10 +28,10 @@ publisher:
   username: zhangximufeng
 repository: https://github.com/zhangximufeng/vuepress-theme-mufeng
 score: 0.4516380423287344
-stars: 15
+stars: 14
 unstable: false
 version: 2.4.5
-watchers: 15
+watchers: 14
 
 ---
 
