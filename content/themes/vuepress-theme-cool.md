@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/13860264?v=4
   email: davidli012345@gmail.com
   name: FriendlyUser
   url: null
@@ -16,7 +16,7 @@ homepage: https://github.com/FriendlyUser/vuepress-theme-cool#readme
 keywords:
 - vue
 - vuepress
-license: null
+license: MIT License
 maintainers: null
 name: vuepress-theme-cool
 npm: https://www.npmjs.com/package/vuepress-theme-cool
@@ -28,10 +28,10 @@ publisher:
   username: grandfleet
 repository: https://github.com/FriendlyUser/vuepress-theme-cool
 score: 0.3672773932004789
-stars: 0
+stars: 58
 unstable: false
 version: 1.3.1
-watchers: 0
+watchers: 58
 
 ---
 

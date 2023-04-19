@@ -31,10 +31,10 @@ publisher:
   username: yue_plus
 repository: https://github.com/Yue-plus/vuepress-theme-oxygen-not-included
 score: 0.4588456655735239
-stars: 5
+stars: 6
 unstable: true
 version: 0.3.3
-watchers: 5
+watchers: 6
 
 ---
 

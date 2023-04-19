@@ -25,10 +25,10 @@ publisher:
   username: cb1kenobi
 repository: https://github.com/appcelerator/docs-devkit
 score: 0.5055258079672408
-stars: 23
+stars: 24
 unstable: false
 version: 4.9.1
-watchers: 23
+watchers: 24
 
 ---
 
