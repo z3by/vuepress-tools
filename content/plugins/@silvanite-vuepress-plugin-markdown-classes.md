@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/4539223?v=4
+  avatar: null
   email: m2de@outlook.com
   name: Marco Mark
   url: null
@@ -16,7 +16,7 @@ keywords:
 - vuepress
 - plugin
 - markdown
-license: false
+license: null
 maintainers: null
 name: '@silvanite/vuepress-plugin-markdown-classes'
 npm: https://www.npmjs.com/package/%40silvanite%2Fvuepress-plugin-markdown-classes
@@ -28,71 +28,10 @@ publisher:
   username: m2de
 repository: https://github.com/silvanite/vuepress-plugin-markdown-classes
 score: 0.47070654741147944
-stars: 4
+stars: 0
 unstable: false
 version: 1.0.2
-watchers: 4
+watchers: 0
 
 ---
 
-# VuePress Plugin to add unique class names to markdown generated html
-
-Additional information about this Plugin can be found at [https://www.marcomark.net/code/vuepress/markdown-classes.html](https://www.marcomark.net/code/vuepress/markdown-classes.html)
-
-## Example
-
-```html
-<p class="md-paragraph_open">Vuepress</p>
-```
-
-## Installation
-
-```sh
-npm i @silvanite/vuepress-plugin-markdown-classes
-```
-
-Load the plugin inside your `config.js` or in your theme's `index.js`
-
-```js
-module.exports = {
-    ...
-    "plugins": [
-        "@silvanite/markdown-classes"
-    ]
-}
-```
-
-## Configuration options
-
-You can overwrite the default configuration if required
-
-```js
-module.exports = {
-    ...
-    "plugins": [
-        ["@silvanite/markdown-classes", {
-            "prefix": "md",
-            "rules": [
-                'blockquote_open',
-                'bullet_list_open',
-                'code_block',
-                'hardbreak',
-                'heading_open',
-                'hr',
-                'html_block',
-                'html_inline',
-                'image',
-                'link_open',
-                'ordered_list_open',
-                'paragraph_open',
-                'softbreak',
-                'table_open',
-            ]
-        }]
-    ]
-}
-```
-
-## Support
-
-If you experience any problems with this VuePress Plugin please open a new issue or get in touch on Twitter [@m2de_io](https://twitter.com/m2de_io). Or just look me up anyway, I'd love to hear from you.
