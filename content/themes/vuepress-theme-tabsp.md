@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/55568111?v=4
   email: tabsp@qq.com
   name: tabsp
   url: https://tabsp.com/
@@ -13,7 +13,7 @@ description: '![NPM](https://img.shields.io/npm/l/vuepress-theme-tabsp) ![npm](h
 downloads: null
 homepage: https://github.com/tabsp/vuepress-theme-tabsp#readme
 keywords: null
-license: null
+license: MIT License
 maintainers: null
 name: vuepress-theme-tabsp
 npm: https://www.npmjs.com/package/vuepress-theme-tabsp
