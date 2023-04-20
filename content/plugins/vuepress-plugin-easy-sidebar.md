@@ -29,10 +29,10 @@ publisher:
   username: yiq
 repository: https://github.com/IFreeOvO/vuepress-plugin-easy-sidebar
 score: 0.5195013425232273
-stars: 1
+stars: 2
 unstable: false
 version: 1.0.0
-watchers: 1
+watchers: 2
 
 ---
 
