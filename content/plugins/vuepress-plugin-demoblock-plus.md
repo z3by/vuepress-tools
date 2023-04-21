@@ -29,10 +29,10 @@ publisher:
   username: xinlei3166
 repository: https://github.com/xinlei3166/vuepress-plugin-demoblock-plus
 score: 0.5171677888446938
-stars: 21
+stars: 22
 unstable: false
 version: 1.5.1
-watchers: 21
+watchers: 22
 
 ---
 
