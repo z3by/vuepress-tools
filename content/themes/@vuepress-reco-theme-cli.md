@@ -30,14 +30,16 @@ publisher:
   username: reco_luan
 repository: https://github.com/recoluan/vuepress-theme-reco
 score: 0.5197687406291992
-stars: 1626
+stars: 1625
 unstable: false
 version: 1.0.8
-watchers: 1626
+watchers: 1625
 
 ---
 
 <p align="center"><a href="https://vuejs.org" target="_blank" rel="noopener noreferrer"><img width="150" src="https://i.loli.net/2020/01/13/TPKA1wp6s4ufSm2.png" alt="Vue logo"></a></p>
+
+<h4 align="center">This is the repo for vuepress-theme-reco 1. For vuepress-theme-reco 2, go to <a href="https://github.com/vuepress-reco/vuepress-theme-reco" target="_blank">here</a>.</h4>
 
 ## Introduce
 
