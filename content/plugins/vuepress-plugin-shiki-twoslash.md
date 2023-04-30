@@ -26,10 +26,10 @@ publisher:
   username: shiki-deploys
 repository: https://github.com/shikijs/twoslash
 score: 0.633586168691885
-stars: 800
+stars: 804
 unstable: false
 version: 1.0.35
-watchers: 800
+watchers: 804
 
 ---
 
@@ -82,3 +82,8 @@ Then see the contributing [for advice](./CONTRIBUTING.md) and the vision file fo
 
 - [`shiki-twoslash`](packages/shiki-twoslash) - Provides all the building blocks for above
 - [`twoslash-cli`](packages/twoslash-cli) - A CLI for converting md/ts/tsx/js/jsx files to HTML
+
+
+###### Deploys
+
+Run: `pnpm deploy`.
