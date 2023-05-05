@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/11868477?v=4
+  avatar: null
   email: null
   name: justforuse
   url: null
-  username: justforuse
+  username: null
 bugs: https://github.com/justforuse/vuepress-plugin-presentation-mode2/issues
 category: plugins
 date: '2021-12-10T02:50:35.975Z'
@@ -14,7 +14,7 @@ downloads: null
 homepage: https://github.com/justforuse/vuepress-plugin-presentation-mode2#readme
 keywords:
 - vuepress-plugin
-license: false
+license: null
 maintainers: null
 name: vuepress-plugin-presentation-mode2
 npm: https://www.npmjs.com/package/vuepress-plugin-presentation-mode2
