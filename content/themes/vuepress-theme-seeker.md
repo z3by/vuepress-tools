@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/2544185?v=4
+  avatar: null
   email: null
   name: WensonSmith
   url: null
-  username: wensonsmith
+  username: null
 bugs: https://github.com/wensonsmith/vuepress-theme-seeker/issues
 category: themes
 date: '2020-03-16T08:09:57.341Z'
@@ -18,7 +18,7 @@ keywords:
 - vuepress
 - blog
 - simple
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-theme-seeker
 npm: https://www.npmjs.com/package/vuepress-theme-seeker
@@ -30,10 +30,10 @@ publisher:
   username: wensonsmith
 repository: https://github.com/wensonsmith/vuepress-theme-seeker
 score: 0.3474410698552845
-stars: 75
+stars: 0
 unstable: false
 version: 1.0.9
-watchers: 75
+watchers: 0
 
 ---
 
