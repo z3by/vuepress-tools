@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/12245095?v=4
+  avatar: null
   email: null
   name: linjhon
   url: null
-  username: linjhon
+  username: null
 bugs: https://github.com/linjhon/vuepress-plugin-svn/issues
 category: plugins
 date: '2021-05-17T09:04:21.149Z'
@@ -17,7 +17,7 @@ keywords:
 - vuepress
 - plugin
 - svn
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-plugin-svn
 npm: https://www.npmjs.com/package/vuepress-plugin-svn
@@ -29,10 +29,10 @@ publisher:
   username: linjhon
 repository: https://github.com/linjhon/vuepress-plugin-svn
 score: 0.4567814328354708
-stars: 1
+stars: 0
 unstable: true
 version: 0.1.2
-watchers: 1
+watchers: 0
 
 ---
 
