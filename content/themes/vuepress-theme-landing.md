@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/46349544?v=4
+  avatar: null
   email: null
   name: focuxin
   url: null
-  username: ion1ze
+  username: null
 bugs: https://github.com/focuxin/vuepress-theme-landing/issues
 category: themes
 date: '2021-12-16T11:41:57.691Z'
@@ -16,7 +16,7 @@ keywords:
 - documentation
 - vuepress
 - landing
-license: false
+license: null
 maintainers: null
 name: vuepress-theme-landing
 npm: https://www.npmjs.com/package/vuepress-theme-landing
@@ -35,6 +35,3 @@ watchers: 0
 
 ---
 
-# vuepress-theme-landing
-
-> theme-landing for VuePress
