@@ -32,3 +32,26 @@ watchers: 4
 
 ---
 
+### Hi there 👋
+
+- 🌱 I’m studying for my master's degree on SHU
+- 🤔 I’m currently learning English
+- ⚡ Fun fact: Rendering in Computer Graphic
+
+[![Celeste's github stats](https://github-readme-stats-yzx9.vercel.app/api/?username=yzx9&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Celeste's most used languages](https://github-readme-stats-yzx9.vercel.app/api/top-langs/?username=yzx9&layout=compact&exclude_repo=yzx9.github.io)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
+**yzx9/yzx9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
