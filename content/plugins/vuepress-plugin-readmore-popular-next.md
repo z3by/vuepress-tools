@@ -52,11 +52,11 @@ watchers: 3
 [![dm-image]][npm-url]
 [![dt-image]][npm-url]
 
-> VuePress v2.x 微信公众号引流插件，将免费的公众号引流工具整合到博客中，用户扫码关注公众号后才可以解锁文章，从而将博客流量引流到公众号，达到涨粉丝数的目的。
+> VuePress 2 微信公众号引流插件，将免费的公众号引流工具整合到博客中，用户扫码关注公众号后才可以解锁文章，从而将博客流量引流到公众号，达到涨粉丝数的目的。
 
 ## 文档
 
-- [官方中文文档](https://docs.techgrow.cn/v2/wechat/vuepress2/)
+- [官方中文文档](https://docs.techgrow.cn/v2/wechat/tutorial/vuepress2/)
 
 ## 特色功能
 
@@ -137,7 +137,7 @@ module.exports = {
       excludes: { strExp: [], regExp: [] },
       // 是否反转 URL 排除规则的配置，即只有符合排除规则的文章才会添加引流工具
       reverse: false,
-      // 文章内容的预览高度
+      // 文章内容的预览高度(例如 300)
       height: 'auto',
       // 文章解锁后凭证的有效天数
       expires: 365,
@@ -259,15 +259,16 @@ module.exports = {
 
 ## 常见问题
 
-- [VuePress v2.x 引流问题](https://docs.techgrow.cn/v2/wechat/vuepress2/#常见问题)
+- [VuePress 2 引流问题](https://docs.techgrow.cn/v2/wechat/tutorial/vuepress2/#常见问题)
 
 ## 周边生态
 
 - [Hexo 引流插件](https://github.com/rqh656418510/hexo-readmore)
-- [VuePress v1.x 引流插件](https://github.com/rqh656418510/vuepress-plugin-readmore-popular)
+- [VuePress 1 引流插件](https://github.com/rqh656418510/vuepress-plugin-readmore-popular)
 
 ## 开发计划
 
+- [ ] 支持开放 API
 - [ ] 支持博客的 UV、PV 统计
 - [ ] 在博客的后台管理界面中，支持博客浏览量的图表分析
 
