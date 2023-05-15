@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/54167020?v=4
   email: null
   name: reco_luan
   url: null
-  username: null
+  username: vuepress-reco
 bugs: https://github.com/vuepress-reco/vuepress-theme-reco/issues
 category: themes
 date: '2019-11-13T03:42:47.506Z'
@@ -16,7 +16,7 @@ keywords:
 - vuepress
 - vue
 - theme
-license: null
+license: MIT License
 maintainers: null
 name: vuepress-theme-fake
 npm: https://www.npmjs.com/package/vuepress-theme-fake
@@ -28,10 +28,10 @@ publisher:
   username: hu1024151886
 repository: https://github.com/vuepress-reco/vuepress-theme-reco
 score: 0.2082423732259309
-stars: 0
+stars: 326
 unstable: false
 version: 1.0.9-alpha.9
-watchers: 0
+watchers: 326
 
 ---
 
