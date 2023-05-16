@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/23313167?v=4
   email: qw13131wang@gmail.com
   name: tolking
   url: null
@@ -18,7 +18,7 @@ keywords:
 - reading-progress
 - reading
 - progress
-license: null
+license: MIT License
 maintainers: null
 name: vuepress-plugin-reading-progress
 npm: https://www.npmjs.com/package/vuepress-plugin-reading-progress
@@ -30,10 +30,10 @@ publisher:
   username: tolking
 repository: https://github.com/tolking/vuepress-plugin-reading-progress
 score: 0.4778646952071611
-stars: 0
+stars: 27
 unstable: false
 version: 1.0.10
-watchers: 0
+watchers: 27
 
 ---
 
