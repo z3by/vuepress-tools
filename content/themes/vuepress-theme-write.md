@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/73059627?v=4
   email: 18366276315@163.com
   name: zh-lx
   url: null
@@ -14,7 +14,7 @@ description: A theme of vuepress2, which can help you focus on writing through s
 downloads: null
 homepage: https://github.com/zh-lx/vuepress-theme-writing#readme
 keywords: null
-license: null
+license: false
 maintainers: null
 name: vuepress-theme-write
 npm: https://www.npmjs.com/package/vuepress-theme-write
