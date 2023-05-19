@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/6128107?v=4
+  avatar: null
   email: chl814@foxmail.com
   name: ULIVZ
   url: null
-  username: vuejs
+  username: null
 bugs: https://github.com/vuejs/vuepress/issues
 category: themes
 date: '2018-11-12T02:33:27.202Z'
@@ -17,7 +17,7 @@ keywords:
 - vue
 - vuepress
 - generator
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-theme-egoist
 npm: https://www.npmjs.com/package/vuepress-theme-egoist
@@ -29,10 +29,10 @@ publisher:
   username: ulivz
 repository: https://github.com/vuejs/vuepress
 score: 0.17909381628771387
-stars: 21528
+stars: 0
 unstable: false
 version: 1.4.2
-watchers: 21528
+watchers: 0
 
 ---
 
