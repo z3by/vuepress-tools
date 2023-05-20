@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/5085501?v=4
   email: null
   name: rqh656418510
   url: null
-  username: null
+  username: rqh656418510
 bugs: https://github.com/rqh656418510/vuepress-plugin-readmore-popular/issues
 category: plugins
 date: '2022-06-20T01:10:44.905Z'
@@ -25,7 +25,7 @@ keywords:
 - "\u516C\u4F17\u53F7\u5F15\u6D41"
 - "\u9605\u8BFB\u66F4\u591A"
 - "\u6587\u7AE0\u9690\u85CF"
-license: null
+license: MIT License
 maintainers: null
 name: vuepress-plugin-readmore-popular
 npm: https://www.npmjs.com/package/vuepress-plugin-readmore-popular
@@ -37,10 +37,10 @@ publisher:
   username: rqh656418510
 repository: https://github.com/rqh656418510/vuepress-plugin-readmore-popular
 score: 0.49295517343285106
-stars: 0
+stars: 4
 unstable: true
 version: 0.0.10
-watchers: 0
+watchers: 4
 
 ---
 
