@@ -91,7 +91,7 @@ watchers: 3
 
 ## 安装插件
 
-> 值得一提的是，以引流插件版本号 `2.0.0-beta.61.x` 举例，其中的 `2.0.0-beta.61` 代表该引流插件所兼容的 VuePress 版本，而 `x` 则代表引流插件自身的修订版本号。若 VuePress 与引流插件的版本不兼容，很可能会导致编译出错或者引流插件无法生效。
+> 值得一提的是，以引流插件版本号 `2.0.0-beta.62.x` 举例，其中的 `2.0.0-beta.62` 代表该引流插件所兼容的 VuePress 版本，而 `x` 则代表引流插件自身的修订版本号。若 VuePress 与引流插件的版本不兼容，很可能会导致编译出错或者引流插件无法生效。
 
 - 查看插件所有的版本信息
 
@@ -107,7 +107,7 @@ $ npm view vuepress-plugin-readmore-popular-next versions
 $ npm install -D vuepress-plugin-readmore-popular-next
 
 # 安装指定版本（推荐）
-$ npm install -D vuepress-plugin-readmore-popular-next@2.0.0-beta.61.2
+$ npm install -D vuepress-plugin-readmore-popular-next@2.0.0-beta.62.1
 ```
 
 ## 配置 VuePress
