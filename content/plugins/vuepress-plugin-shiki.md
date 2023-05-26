@@ -30,10 +30,10 @@ publisher:
   username: octref
 repository: https://github.com/octref/shiki
 score: 0.6373112800361818
-stars: 5400
+stars: 5402
 unstable: true
 version: 0.10.1
-watchers: 5400
+watchers: 5402
 
 ---
 
@@ -101,7 +101,8 @@ If you don't have a Node.js project, or if you just want to use the build in the
 <script>
   shiki
     .getHighlighter({
-      theme: 'nord'
+      theme: 'nord',
+      langs: ['js'],
     })
     .then(highlighter => {
       const code = highlighter.codeToHtml(`console.log('shiki');`, { lang: 'js' })

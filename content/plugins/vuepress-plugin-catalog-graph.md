@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/27280733?v=4
+  avatar: null
   email: ludanxer@icloud.com
   name: ludanxer
   url: null
@@ -17,7 +17,7 @@ keywords:
 - catalog
 - network-graph
 - d3-force
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-plugin-catalog-graph
 npm: https://www.npmjs.com/package/vuepress-plugin-catalog-graph
@@ -29,10 +29,10 @@ publisher:
   username: ludanxer
 repository: https://github.com/ludanxer/catalog-graph
 score: 0.4706000847594261
-stars: 6
+stars: 0
 unstable: true
 version: 0.2.8
-watchers: 6
+watchers: 0
 
 ---
 
