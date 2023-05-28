@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/1251825?v=4
+  avatar: null
   email: me@ycmjason.com
   name: Jason Yu
   url: null
@@ -13,7 +13,7 @@ description: WIP
 downloads: null
 homepage: https://github.com/ycmjason/vuepress-theme-blog#readme
 keywords: null
-license: false
+license: null
 maintainers: null
 name: vuepress-theme-blog
 npm: https://www.npmjs.com/package/vuepress-theme-blog
@@ -32,4 +32,3 @@ watchers: 0
 
 ---
 
-WIP
