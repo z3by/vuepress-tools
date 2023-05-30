@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/22654945?v=4
   email: null
   name: Yasinchan
   url: null
-  username: null
+  username: YasinChan
 bugs: https://github.com/YasinChan/vuepress-theme-inherit/issues
 category: themes
 date: '2022-05-14T12:02:41.348Z'
@@ -13,7 +13,7 @@ description: vuepress blog theme
 downloads: null
 homepage: https://github.com/YasinChan/vuepress-theme-inherit#readme
 keywords: null
-license: null
+license: false
 maintainers: null
 name: vuepress-theme-inherit
 npm: https://www.npmjs.com/package/vuepress-theme-inherit
@@ -25,10 +25,10 @@ publisher:
   username: yasinchan
 repository: https://github.com/YasinChan/vuepress-theme-inherit
 score: 0.3442564846122903
-stars: 0
+stars: 5
 unstable: false
 version: 1.0.6
-watchers: 0
+watchers: 5
 
 ---
 
