@@ -25,10 +25,10 @@ publisher:
   username: meili-bot
 repository: https://github.com/meilisearch/vuepress-plugin-meilisearch
 score: 0.6448262011900783
-stars: 59
+stars: 60
 unstable: true
 version: 0.12.2
-watchers: 59
+watchers: 60
 
 ---
 
@@ -40,11 +40,11 @@ watchers: 59
 
 <h4 align="center">
   <a href="https://github.com/meilisearch/meilisearch">Meilisearch</a> |
-  <a href="https://docs.meilisearch.com">Documentation</a> |
+  <a href="https://www.meilisearch.com/docs">Documentation</a> |
   <a href="https://discord.meilisearch.com">Discord</a> |
   <a href="https://roadmap.meilisearch.com/tabs/1-under-consideration">Roadmap</a> |
   <a href="https://www.meilisearch.com">Website</a> |
-  <a href="https://docs.meilisearch.com/faq">FAQ</a>
+  <a href="https://www.meilisearch.com/docs/faq">FAQ</a>
 </h4>
 
 <p align="center">
