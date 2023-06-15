@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/39176876?v=4
+  avatar: null
   email: 940150483@qq.com
   name: ltf
   url: null
@@ -17,7 +17,7 @@ keywords:
 - vuepress
 - theme
 - material design
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-theme-daily-record
 npm: https://www.npmjs.com/package/vuepress-theme-daily-record
