@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/5937330?v=4
   email: i@linquan.name
   name: LinQuan
   url: null
@@ -17,7 +17,7 @@ keywords:
 - vue
 - vuepress
 - generator
-license: null
+license: false
 maintainers: null
 name: vuepress-plugin-baidu-tongji
 npm: https://www.npmjs.com/package/vuepress-plugin-baidu-tongji
