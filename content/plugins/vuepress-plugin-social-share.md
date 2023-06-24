@@ -64,9 +64,15 @@ Please Checkout branch [main](https://github.com/ntnyq/vuepress-plugin-social-sh
 ## Install
 
 ```bash
-$ npm install vuepress-plugin-social-share@next -D
-# OR
-$ yarn add vuepress-plugin-social-share@next -D
+npm install vuepress-plugin-social-share@next -D
+```
+
+```bash
+yarn add vuepress-plugin-social-share@next -D
+```
+
+```bash
+pnpm add vuepress-plugin-social-share@next -D
 ```
 
 ## Usage
