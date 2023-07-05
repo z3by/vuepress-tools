@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/28993145?v=4
   email: null
   name: Nyakku Shigure
   url: null
-  username: null
+  username: licc12
 bugs: https://github.com/licc12/vuepress-plugin-dynamic-title-v2/issues
 category: plugins
 date: '2022-05-08T06:05:23.926Z'
@@ -16,7 +16,7 @@ keywords:
 - vuepress
 - plugin
 - title
-license: null
+license: MIT License
 maintainers: null
 name: vuepress-plugin-dynamic-title-v2
 npm: https://www.npmjs.com/package/vuepress-plugin-dynamic-title-v2
@@ -28,10 +28,10 @@ publisher:
   username: tianyake
 repository: https://github.com/licc12/vuepress-plugin-dynamic-title-v2
 score: 0.49224134515003937
-stars: 0
+stars: 1
 unstable: false
 version: 1.0.2
-watchers: 0
+watchers: 1
 
 ---
 
