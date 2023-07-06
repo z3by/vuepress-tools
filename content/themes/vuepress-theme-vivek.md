@@ -32,10 +32,10 @@ publisher:
   username: cavalheiro
 repository: https://github.com/eddievandeer/vuepress-theme-vivek
 score: 0.49579989769885735
-stars: 1
+stars: 2
 unstable: false
 version: 1.2.2
-watchers: 1
+watchers: 2
 
 ---
 
