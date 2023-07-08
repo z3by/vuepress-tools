@@ -25,10 +25,10 @@ publisher:
   username: meili-bot
 repository: https://github.com/meilisearch/vuepress-plugin-meilisearch
 score: 0.6448262011900783
-stars: 61
+stars: 62
 unstable: true
 version: 0.12.2
-watchers: 61
+watchers: 62
 
 ---
 
@@ -40,6 +40,7 @@ watchers: 61
 
 <h4 align="center">
   <a href="https://github.com/meilisearch/meilisearch">Meilisearch</a> |
+  <a href="https://www.meilisearch.com/pricing?utm_campaign=oss&utm_source=integration&utm_medium=vuepress-plugin-meilisearch">Meilisearch Cloud</a> |
   <a href="https://www.meilisearch.com/docs">Documentation</a> |
   <a href="https://discord.meilisearch.com">Discord</a> |
   <a href="https://roadmap.meilisearch.com/tabs/1-under-consideration">Roadmap</a> |
@@ -64,6 +65,7 @@ If you don't use VuePress for your documentation, but you still need a search ba
 
 ## Table of Contents <!-- omit in toc -->
 
+- [⚡ Supercharge your Meilisearch experience](#-supercharge-your-meilisearch-experience)
 - [Usage](#usage)
   - [Before using the plugin](#before-using-the-plugin)
   - [Installation](#installation)
@@ -72,6 +74,10 @@ If you don't use VuePress for your documentation, but you still need a search ba
 - [Compatibility with Meilisearch](#compatibility-with-meilisearch)
 - [Development Workflow and Contributing](#development-workflow-and-contributing)
 - [Related Repositories](#related-repositories)
+
+## ⚡ Supercharge your Meilisearch experience
+
+Say goodbye to server deployment and manual updates with [Meilisearch Cloud](https://www.meilisearch.com/pricing?utm_campaign=oss&utm_source=integration&utm_medium=vuepress-plugin-meilisearch). No credit card required.
 
 ## Usage
 
