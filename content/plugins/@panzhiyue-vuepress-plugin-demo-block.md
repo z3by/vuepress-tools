@@ -28,10 +28,10 @@ publisher:
   username: panzhiyue
 repository: https://github.com/panzhiyue/vuepress-theme-knowledge
 score: 0.5018260338908067
-stars: 0
+stars: 1
 unstable: true
 version: 1.0.0-beta.3
-watchers: 0
+watchers: 1
 
 ---
 
