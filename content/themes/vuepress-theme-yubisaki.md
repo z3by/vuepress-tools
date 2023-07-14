@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/43475371?v=4
+  avatar: null
   email: stickmyc@163.com
   name: "\u5B50\u8083"
   url: null
@@ -16,7 +16,7 @@ keywords:
 - vuepress
 - theme
 - vuepress-theme
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-theme-yubisaki
 npm: https://www.npmjs.com/package/vuepress-theme-yubisaki
@@ -28,10 +28,10 @@ publisher:
   username: wuwaki
 repository: https://github.com/Bloss/vuepress-theme-yubisaki
 score: 0.504756024353817
-stars: 197
+stars: 0
 unstable: false
 version: 3.1.9
-watchers: 197
+watchers: 0
 
 ---
 
