@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/8433587?v=4
   email: null
   name: Peter Thaleikis
   url: null
-  username: null
+  username: spekulatius
 bugs: https://github.com/spekulatius/vuepress-plugin-web-monetization/issues
 category: plugins
 date: '2020-06-12T10:28:45.920Z'
@@ -18,7 +18,7 @@ keywords:
 - plugin
 - monetization
 - web-monetization
-license: null
+license: MIT License
 maintainers: null
 name: vuepress-plugin-web-monetization
 npm: https://www.npmjs.com/package/vuepress-plugin-web-monetization
@@ -30,10 +30,10 @@ publisher:
   username: spekulatius
 repository: https://github.com/spekulatius/vuepress-plugin-web-monetization
 score: 0.4602263876255699
-stars: 0
+stars: 13
 unstable: true
 version: 0.0.2
-watchers: 0
+watchers: 13
 
 ---
 
