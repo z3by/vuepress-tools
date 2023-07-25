@@ -41,8 +41,6 @@ watchers: 0
 
 VuePress theme.
 
-[Preview](https://h69.github.io)
-
 [![npm package](https://nodei.co/npm/vuepress-theme-x.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/vuepress-theme-x)
 
 ## Installing
