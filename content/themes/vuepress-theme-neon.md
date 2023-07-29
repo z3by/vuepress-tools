@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/21187224?v=4
   email: summer19941126@gmail.com
   name: summer1874
   url: null
@@ -15,7 +15,7 @@ homepage: https://github.com/summer1874/vuepress-theme-neon
 keywords:
 - vuepress
 - theme
-license: null
+license: MIT License
 maintainers: null
 name: vuepress-theme-neon
 npm: https://www.npmjs.com/package/vuepress-theme-neon
