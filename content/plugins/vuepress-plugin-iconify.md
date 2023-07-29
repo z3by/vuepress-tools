@@ -50,12 +50,16 @@ watchers: 0
 
 ## Install
 
-```shell
-$ npm install vuepress-plugin-iconify -D
-# or
-$ yarn add vuepress-plugin-iconify -D
-# or
-$ pnpm add vuepress-plugin-iconify -D
+```bash
+npm install vuepress-plugin-iconify -D
+```
+
+```bash
+yarn add vuepress-plugin-iconify -D
+```
+
+```bash
+pnpm add vuepress-plugin-iconify -D
 ```
 
 ## Usage
@@ -67,26 +71,46 @@ import { defineUserConfig } from 'vuepress'
 import { iconifyPlugin } from 'vuepress-plugin-iconify'
 
 export default defineUserConfig({
-  plugins: [
-    iconifyPlugin(),
-  ],
+  plugins: [iconifyPlugin()],
 })
 ```
 
 Then, you can use the `VpIcon` component in your docs:
 
 ```html
-<vp-icon icon="vscode-icons:file-type-vue" width="50px" />
+<vp-icon
+  icon="vscode-icons:file-type-vue"
+  width="50px"
+/>
 
-<vp-icon icon="vscode-icons:file-type-vue" width="50px" vFlip />
+<vp-icon
+  icon="vscode-icons:file-type-vue"
+  width="50px"
+  vFlip
+/>
 
-<vp-icon icon="vscode-icons:file-type-flutter" width="50px" hFlip />
+<vp-icon
+  icon="vscode-icons:file-type-flutter"
+  width="50px"
+  hFlip
+/>
 
-<vp-icon icon="fa:github" width="50px" color="#9944a8" />
+<vp-icon
+  icon="fa:github"
+  width="50px"
+  color="#9944a8"
+/>
 
-<vp-icon icon="fa:apple" width="50px" rotate="90deg" />
+<vp-icon
+  icon="fa:apple"
+  width="50px"
+  rotate="90deg"
+/>
 
-<vp-icon :icon="{ body: '<path fill=\'green\' d=\'M1393 1215q-39 125-123 250q-129 196-257 196q-49 0-140-32q-86-32-151-32q-61 0-142 33q-81 34-132 34q-152 0-301-259Q0 1144 0 902q0-228 113-374q113-144 284-144q72 0 177 30q104 30 138 30q45 0 143-34q102-34 173-34q119 0 213 65q52 36 104 100q-79 67-114 118q-65 94-65 207q0 124 69 223t158 126zM1017 42q0 61-29 136q-30 75-93 138q-54 54-108 72q-37 11-104 17q3-149 78-257Q835 41 1011 0q1 3 2.5 11t2.5 11q0 4 .5 10t.5 10z\'></path>', width: 1664, height: 1664 }" width="50px" />
+<vp-icon
+  :icon="{ body: '<path fill=\'green\' d=\'M1393 1215q-39 125-123 250q-129 196-257 196q-49 0-140-32q-86-32-151-32q-61 0-142 33q-81 34-132 34q-152 0-301-259Q0 1144 0 902q0-228 113-374q113-144 284-144q72 0 177 30q104 30 138 30q45 0 143-34q102-34 173-34q119 0 213 65q52 36 104 100q-79 67-114 118q-65 94-65 207q0 124 69 223t158 126zM1017 42q0 61-29 136q-30 75-93 138q-54 54-108 72q-37 11-104 17q3-149 78-257Q835 41 1011 0q1 3 2.5 11t2.5 11q0 4 .5 10t.5 10z\'></path>', width: 1664, height: 1664 }"
+  width="50px"
+/>
 ```
 
 ## Prior Art

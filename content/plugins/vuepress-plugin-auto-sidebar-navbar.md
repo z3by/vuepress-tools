@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/20652985?v=4
+  avatar: null
   email: null
   name: ouyangdan
   url: null
-  username: iamouyangdan
+  username: null
 bugs: https://github.com/iamouyangdan/vuepress-plugin/issues
 category: plugins
 date: '2022-05-17T03:31:13.286Z'
@@ -19,7 +19,7 @@ keywords:
 - plugin
 - sidebar
 - navbar
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-plugin-auto-sidebar-navbar
 npm: https://www.npmjs.com/package/vuepress-plugin-auto-sidebar-navbar
@@ -31,10 +31,10 @@ publisher:
   username: ouyangdan
 repository: https://github.com/iamouyangdan/vuepress-plugin
 score: 0.517850808527693
-stars: 2
+stars: 0
 unstable: false
 version: 1.0.9
-watchers: 2
+watchers: 0
 
 ---
 
