@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/14368755?v=4
+  avatar: null
   email: null
   name: hxdyj
   url: null
-  username: hxdyj
+  username: null
 bugs: https://github.com/hxdyj/vuepress-plugin-code-style-recommend/issues
 category: plugins
 date: '2021-12-29T04:07:55.224Z'
@@ -14,7 +14,7 @@ downloads: null
 homepage: https://github.com/hxdyj/vuepress-plugin-code-style-recommend#readme
 keywords:
 - vuepress-plugin-code-style-recommend
-license: false
+license: null
 maintainers: null
 name: vuepress-plugin-code-style-recommend
 npm: https://www.npmjs.com/package/vuepress-plugin-code-style-recommend
