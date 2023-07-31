@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/85858775?v=4
   email: pengchengou@gmail.com
   name: vxhly
   url: null
@@ -22,7 +22,7 @@ keywords:
 - dynamic
 - "\u52A8\u6001"
 - "\u6807\u9898"
-license: null
+license: Other
 maintainers: null
 name: '@vuepress-denaro/vuepress-plugin-dynamic-title'
 npm: https://www.npmjs.com/package/%40vuepress-denaro%2Fvuepress-plugin-dynamic-title
@@ -34,10 +34,10 @@ publisher:
   username: vxhly
 repository: https://github.com/denaro-org/vuepress-theme-denaro
 score: 0.5117103446390923
-stars: 0
+stars: 3
 unstable: false
 version: 1.0.2-alpha.0
-watchers: 0
+watchers: 3
 
 ---
 
