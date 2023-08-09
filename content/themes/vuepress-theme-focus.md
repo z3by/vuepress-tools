@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/23133919?v=4
+  avatar: null
   email: chl814@foxmail.com
   name: ULIVZ
   url: null
-  username: ulivz
+  username: null
 bugs: https://github.com/ulivz/40-lines-of-vuepress-blog-theme/issues
 category: themes
 date: '2019-07-17T08:35:22.808Z'
@@ -14,7 +14,7 @@ description: A VuePress Blog Theme implemented with [70-lines-of-vuepress-blog-t
 downloads: null
 homepage: https://github.com/ulivz/40-lines-of-vuepress-blog-theme#readme
 keywords: null
-license: false
+license: null
 maintainers: null
 name: vuepress-theme-focus
 npm: https://www.npmjs.com/package/vuepress-theme-focus
@@ -26,10 +26,10 @@ publisher:
   username: xiangxiao
 repository: https://github.com/ulivz/40-lines-of-vuepress-blog-theme
 score: 0.2808143947398011
-stars: 41
+stars: 0
 unstable: true
 version: 0.1.0-alpha.2
-watchers: 41
+watchers: 0
 
 ---
 
