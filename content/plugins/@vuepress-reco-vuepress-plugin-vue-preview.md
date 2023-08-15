@@ -27,10 +27,10 @@ publisher:
   username: reco_luan
 repository: https://github.com/recoluan/vuepress-theme-reco-next
 score: 0.6244214049533316
-stars: 386
+stars: 388
 unstable: false
 version: 2.0.1-alpha.27
-watchers: 386
+watchers: 388
 
 ---
 
@@ -154,10 +154,10 @@ theme-cli init
 - [x] 整站加密
 - [ ] 提供 tailwind 自定义 config 入口（后续官方所有风格和插件均采用 css + taiwindcss 方案）
 - [ ] PWA 样式优化
-- [ ] algolia 搜索样式优化
-- [ ] comment 插件增强
+- [x] algolia 搜索样式优化
+- [x] comment 插件增强
 - [ ] 增加图片适配暗色模式的配置
-- [ ] 对指定文件夹进行功能支持，比如 series、docs、blogs
+- [x] 对指定文件夹进行功能支持，比如 series、docs、blogs
 
 <br/>
 

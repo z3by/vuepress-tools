@@ -28,10 +28,10 @@ publisher:
   username: sigure_mo
 repository: https://github.com/moefyit/vuepress-plugin-ribbon
 score: 0.563017188575462
-stars: 14
+stars: 13
 unstable: false
 version: 1.1.4
-watchers: 14
+watchers: 13
 
 ---
 
