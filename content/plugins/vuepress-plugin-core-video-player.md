@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/46474644?v=4
   email: null
   name: shiguanghai
   url: null
-  username: null
+  username: shiguanghai
 bugs: https://github.com/shiguanghai/vuepress-plugin-core-video-player/issues
 category: plugins
 date: '2021-02-02T08:05:11.953Z'
@@ -16,7 +16,7 @@ keywords:
 - vuepress
 - plugin
 - video
-license: null
+license: false
 maintainers: null
 name: vuepress-plugin-core-video-player
 npm: https://www.npmjs.com/package/vuepress-plugin-core-video-player
@@ -28,10 +28,10 @@ publisher:
   username: shiguanghai
 repository: https://github.com/shiguanghai/vuepress-plugin-core-video-player
 score: 0.46431859803548836
-stars: 0
+stars: 4
 unstable: false
 version: 1.1.0
-watchers: 0
+watchers: 4
 
 ---
 
