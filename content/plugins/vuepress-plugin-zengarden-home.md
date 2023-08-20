@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/4708070?v=4
   email: thomas@venturini.codes
   name: Thomas Venturini
   url: null
@@ -17,7 +17,7 @@ keywords:
 - vuepress
 - plugin
 - zengarden
-license: null
+license: MIT License
 maintainers: null
 name: vuepress-plugin-zengarden-home
 npm: https://www.npmjs.com/package/vuepress-plugin-zengarden-home
