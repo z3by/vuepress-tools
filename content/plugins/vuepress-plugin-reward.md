@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/17906558?v=4
   email: pengchengou@gmail.com
   name: vxhly
   url: null
@@ -18,7 +18,7 @@ keywords:
 - WeChat
 - Alipay
 - reward
-license: null
+license: Other
 maintainers: null
 name: vuepress-plugin-reward
 npm: https://www.npmjs.com/package/vuepress-plugin-reward
@@ -30,10 +30,10 @@ publisher:
   username: vxhly
 repository: https://github.com/vxhly/vuepress-plugin-reward
 score: 0.48531325574434386
-stars: 0
+stars: 1
 unstable: false
 version: 1.0.2
-watchers: 0
+watchers: 1
 
 ---
 
