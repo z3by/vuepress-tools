@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/30484534?v=4
   email: null
   name: panzhiyue
   url: null
-  username: null
+  username: panzhiyue
 bugs: https://github.com/panzhiyue/vuepress-theme-knowledge/issues
 category: plugins
 date: '2022-06-14T02:41:44.885Z'
@@ -16,7 +16,7 @@ keywords:
 - vuepress-plugin
 - vuepress
 - plugin
-license: null
+license: false
 maintainers: null
 name: '@panzhiyue/vuepress-plugin-demo-block'
 npm: https://www.npmjs.com/package/%40panzhiyue%2Fvuepress-plugin-demo-block
@@ -28,10 +28,10 @@ publisher:
   username: panzhiyue
 repository: https://github.com/panzhiyue/vuepress-theme-knowledge
 score: 0.5018260338908067
-stars: 0
+stars: 1
 unstable: true
 version: 1.0.0-beta.3
-watchers: 0
+watchers: 1
 
 ---
 
