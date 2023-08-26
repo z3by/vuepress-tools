@@ -25,10 +25,10 @@ publisher:
   username: '2020807070'
 repository: https://github.com/2020807070/vuepress-theme-sky
 score: 0.46591624620695027
-stars: 29
+stars: 28
 unstable: false
 version: 1.0.3
-watchers: 29
+watchers: 28
 
 ---
 
