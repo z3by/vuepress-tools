@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/5212214?v=4
   email: 894072666@qq.com
   name: Evan Xu
   url: null
@@ -21,7 +21,7 @@ keywords:
 - Enhanced
 - thirdparty
 - search
-license: null
+license: MIT License
 maintainers: null
 name: vuepress-plugin-thirdparty-search
 npm: https://www.npmjs.com/package/vuepress-plugin-thirdparty-search
@@ -33,10 +33,10 @@ publisher:
   username: evan_xu
 repository: https://github.com/xugaoyi/vuepress-plugin-thirdparty-search
 score: 0.4700358807556578
-stars: 0
+stars: 3
 unstable: false
 version: 1.0.2
-watchers: 0
+watchers: 3
 
 ---
 
