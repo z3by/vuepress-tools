@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/8151143?v=4
+  avatar: null
   email: null
   name: Vittorio Minacori
   url: null
-  username: vittominacori
+  username: null
 bugs: https://github.com/vittominacori/vuepress-plugin-facebook-pixel/issues
 category: plugins
 date: '2020-12-10T20:27:48.556Z'
@@ -17,7 +17,7 @@ keywords:
 - pixel
 - vue
 - vuepress
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-plugin-facebook-pixel
 npm: https://www.npmjs.com/package/vuepress-plugin-facebook-pixel
@@ -29,10 +29,10 @@ publisher:
   username: vittominacori
 repository: https://github.com/vittominacori/vuepress-plugin-facebook-pixel
 score: 0.4829912794846074
-stars: 1
+stars: 0
 unstable: false
 version: 1.0.0
-watchers: 1
+watchers: 0
 
 ---
 
