@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/37999218?v=4
   email: null
   name: Jabin
   url: null
-  username: null
+  username: JabinPeng
 bugs: https://github.com/JabinPeng/pengBlog/issues
 category: themes
 date: '2022-06-15T09:31:37.596Z'
@@ -16,7 +16,7 @@ keywords:
 - vuepress
 - vue
 - theme
-license: null
+license: false
 maintainers: null
 name: vuepress-theme-jabinblog
 npm: https://www.npmjs.com/package/vuepress-theme-jabinblog
@@ -28,10 +28,10 @@ publisher:
   username: jabin_l
 repository: https://github.com/JabinPeng/pengBlog
 score: 0.1797407248725787
-stars: 0
+stars: 93
 unstable: true
 version: 0.0.1
-watchers: 0
+watchers: 93
 
 ---
 
