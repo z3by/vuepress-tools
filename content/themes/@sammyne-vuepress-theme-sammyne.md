@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/16666661?v=4
   email: null
   name: sammyne
   url: null
-  username: null
+  username: sammyne
 bugs: https://github.com/sammyne/vuepress-theme-sammyne/issues
 category: themes
 date: '2019-07-13T09:28:43.265Z'
@@ -16,7 +16,7 @@ keywords:
 - vuepress
 - theme
 - vue
-license: null
+license: ISC License
 maintainers: null
 name: '@sammyne/vuepress-theme-sammyne'
 npm: https://www.npmjs.com/package/%40sammyne%2Fvuepress-theme-sammyne
@@ -28,10 +28,10 @@ publisher:
   username: sammyne
 repository: https://github.com/sammyne/vuepress-theme-sammyne
 score: 0.31129281208774273
-stars: 0
+stars: 1
 unstable: true
 version: 0.0.7
-watchers: 0
+watchers: 1
 
 ---
 
