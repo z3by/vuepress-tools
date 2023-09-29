@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/106938?v=4
   email: chris@wwaves.co
   name: Chris Waring
   url: https://wwaves.co/
@@ -15,7 +15,7 @@ homepage: https://github.com/cwaring/vuepress-plugin-chunkload-redirect#readme
 keywords:
 - vuepress
 - vuepress-plugin
-license: null
+license: MIT License
 maintainers: null
 name: vuepress-plugin-chunkload-redirect
 npm: https://www.npmjs.com/package/vuepress-plugin-chunkload-redirect
@@ -27,10 +27,10 @@ publisher:
   username: cwaring
 repository: https://github.com/cwaring/vuepress-plugin-chunkload-redirect
 score: 0.4618407870243904
-stars: 0
+stars: 2
 unstable: false
 version: 1.0.3
-watchers: 0
+watchers: 2
 
 ---
 
