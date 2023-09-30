@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/62365720?v=4
+  avatar: null
   email: null
   name: roiding
   url: null
-  username: roiding
+  username: null
 bugs: https://github.com/roiding/plugin-baidu-analytics/issues
 category: plugins
 date: '2022-06-16T07:35:16.307Z'
@@ -18,7 +18,7 @@ keywords:
 - plugin
 - baidu
 - analytics
-license: false
+license: null
 maintainers: null
 name: vuepress-plugin-baidu-analytics
 npm: https://www.npmjs.com/package/vuepress-plugin-baidu-analytics
