@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/66351566?v=4
   email: null
   name: MonoLogueChi
   url: null
-  username: null
+  username: u2sb
 bugs: https://github.com/u2sb/vuepress-plugin-vssue-global/issues
 category: plugins
 date: '2022-06-17T02:11:18.634Z'
@@ -17,7 +17,7 @@ keywords:
 - Vuepress-plugin
 - Vssue
 - Comments
-license: null
+license: Apache License 2.0
 maintainers: null
 name: vuepress-plugin-vssue-global
 npm: https://www.npmjs.com/package/vuepress-plugin-vssue-global
@@ -29,10 +29,10 @@ publisher:
   username: monologuechi
 repository: https://github.com/u2sb/vuepress-plugin-vssue-global
 score: 0.4894413867869486
-stars: 0
+stars: 4
 unstable: true
 version: 0.0.3
-watchers: 0
+watchers: 4
 
 ---
 
