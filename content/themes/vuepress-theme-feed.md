@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/19400528?v=4
+  avatar: null
   email: null
   name: null
   url: null
-  username: xieyx
+  username: null
 bugs: https://github.com/xieyx/vuepress-theme-feed/issues
 category: themes
 date: '2020-05-27T12:05:28.348Z'
@@ -13,7 +13,7 @@ description: theme feed for vuepress
 downloads: null
 homepage: https://github.com/xieyx/vuepress-theme-feed#readme
 keywords: null
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-theme-feed
 npm: https://www.npmjs.com/package/vuepress-theme-feed
@@ -25,10 +25,10 @@ publisher:
   username: xieyx
 repository: https://github.com/xieyx/vuepress-theme-feed
 score: 0.33893518843493464
-stars: 2
+stars: 0
 unstable: false
 version: 1.2.3
-watchers: 2
+watchers: 0
 
 ---
 
