@@ -60,14 +60,13 @@ npm install -D vuepress-plugin-google-adsense2
 ## Usage
 
 ```js
+import googleAdSensePlugin from 'vuepress-plugin-google-adsense2';
+
 module.exports = {
   plugins: [
-    [
-      'vuepress-plugin-google-adsense2',
-      {
-        id: 'ca-pub-xxxxxxx',
-      },
-    ],
+    googleAdSensePlugin({
+      id: 'ca-pub-xxxxxxx',
+    }),
   ],
 };
 ```
