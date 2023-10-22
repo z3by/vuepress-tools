@@ -90,7 +90,7 @@ watchers: 4
 
 ## plugin-permalink-pinyin
 
-> :tada: A VuePress plugin which convert Chinese title to transliterate permalink.一个 VuePress 插件，将中文标题转换为音译永久链接.
+> :tada: A VuePress plugin which convert Chinese title to transliterate permalink.一个 VuePress 插件, 将中文标题转换为音译永久链接.
 
 链接：[@vuepress-denaro/vuepress-plugin-permalink-pinyin](https://github.com/denaro-org/vuepress-theme-denaro/tree/main/ecosystem/plugin-permalink-pinyin)
 
