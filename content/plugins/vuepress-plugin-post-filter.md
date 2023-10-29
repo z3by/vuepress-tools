@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/41458459?v=4
   email: null
   name: null
   url: null
-  username: null
+  username: yzx9
 bugs: https://github.com/nsznsznjsz/vuepress-plugin-post-filter/issues/new
 category: plugins
 date: '2021-02-10T02:29:12.426Z'
@@ -17,7 +17,7 @@ keywords:
 - vuepress
 - plugin
 - filter
-license: null
+license: MIT License
 maintainers: null
 name: vuepress-plugin-post-filter
 npm: https://www.npmjs.com/package/vuepress-plugin-post-filter
@@ -29,10 +29,10 @@ publisher:
   username: nsznsznjsz
 repository: https://github.com/nsznsznjsz/vuepress-plugin-post-filter
 score: 0.4558340822741779
-stars: 0
+stars: 1
 unstable: false
 version: 1.0.2
-watchers: 0
+watchers: 1
 
 ---
 
