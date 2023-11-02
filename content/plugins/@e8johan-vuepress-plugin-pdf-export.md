@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/1732851?v=4
   email: null
   name: null
   url: null
-  username: null
+  username: e8johan
 bugs: https://github.com/e8johan/vuepress-plugin-pdf-export/issues
 category: plugins
 date: '2022-05-20T15:48:22.487Z'
@@ -13,7 +13,7 @@ description: Vuepress plugin for exporting site as PDF
 downloads: null
 homepage: https://github.com/e8johan/vuepress-plugin-pdf-export#readme
 keywords: null
-license: null
+license: MIT License
 maintainers: null
 name: '@e8johan/vuepress-plugin-pdf-export'
 npm: https://www.npmjs.com/package/%40e8johan%2Fvuepress-plugin-pdf-export
