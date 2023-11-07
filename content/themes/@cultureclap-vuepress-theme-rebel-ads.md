@@ -37,6 +37,3 @@ watchers: 0
 
 ---
 
-# @cultureclap/vuepress-theme-vue-ads
-
-> Modificaiton of the theme-vue for VuePress
