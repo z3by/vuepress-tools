@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/2225278?v=4
   email: ahmader@gmail.com
   name: ahmader
   url: null
@@ -13,7 +13,7 @@ description: null
 downloads: null
 homepage: https://github.com/ahmader/vuepress-theme#readme
 keywords: null
-license: null
+license: false
 maintainers: null
 name: ahmader-vuepress-theme
 npm: https://www.npmjs.com/package/ahmader-vuepress-theme
