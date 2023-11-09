@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/47847334?v=4
   email: kybetter@163.com
   name: zhaoliang
   url: null
@@ -13,7 +13,7 @@ description: null
 downloads: null
 homepage: https://github.com/xiyun-international/vuepress-theme-xydocs#readme
 keywords: null
-license: null
+license: false
 maintainers: null
 name: '@xiyun/vuepress-theme-xydocs'
 npm: https://www.npmjs.com/package/%40xiyun%2Fvuepress-theme-xydocs
