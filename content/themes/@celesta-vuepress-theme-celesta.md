@@ -37,12 +37,12 @@ watchers: 4
 
 ### Hi there 👋
 
-- 🌱 I’m studying for my master's degree on SHU
-- 🤔 I’m currently learning English
-- ⚡ Fun fact: Rendering in Computer Graphic
+- 🔭 I’m currently pursuing my master's degree at [SHU](https://www.shu.edu.cn/) and [GDIIST](https://www.gdiist.cn/en/)
+- 🌱 I’m actively working on improving my English language skills.
+- ⚡ Fun fact: Software Engineering and Computational Neuroscience
 
-[![Celeste's github stats](https://github-readme-stats-yzx9.vercel.app/api/?username=yzx9&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Celeste's most used languages](https://github-readme-stats-yzx9.vercel.app/api/top-langs/?username=yzx9&layout=compact&exclude_repo=yzx9.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![yzx9's github stats](https://github-readme-stats-yzx9.vercel.app/api/?username=yzx9&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![yzx9's most used languages](https://github-readme-stats-yzx9.vercel.app/api/top-langs/?username=yzx9&layout=compact&exclude_repo=yzx9.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **yzx9/yzx9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
