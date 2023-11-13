@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/6310131?v=4
+  avatar: null
   email: null
   name: springleo
   url: null
-  username: lq782655835
+  username: null
 bugs: https://github.com/lq782655835/vuepress-plugin-demo-block/issues
 category: plugins
 date: '2020-04-14T07:26:08.461Z'
@@ -15,7 +15,7 @@ homepage: https://github.com/lq782655835/vuepress-plugin-demo-block#readme
 keywords:
 - vuepress-plugin
 - demo-block
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-plugin-leo-demo-block
 npm: https://www.npmjs.com/package/vuepress-plugin-leo-demo-block
@@ -27,10 +27,10 @@ publisher:
   username: springleo
 repository: https://github.com/lq782655835/vuepress-plugin-demo-block
 score: 0.46373743904034026
-stars: 5
+stars: 0
 unstable: true
 version: 0.1.1
-watchers: 5
+watchers: 0
 
 ---
 
