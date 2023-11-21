@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/4708070?v=4
   email: thomas@venturini.codes
   name: Thomas Venturini
   url: null
@@ -17,7 +17,7 @@ keywords:
 - vuepress-plugin
 - tags
 - zengarden
-license: null
+license: MIT License
 maintainers: null
 name: vuepress-plugin-zengarden-tags
 npm: https://www.npmjs.com/package/vuepress-plugin-zengarden-tags
@@ -29,10 +29,10 @@ publisher:
   username: tjventurini
 repository: https://github.com/tjventurini/vuepress-plugin-zengarden-tags
 score: 0.4545228514528819
-stars: 0
+stars: 1
 unstable: false
 version: 1.0.0
-watchers: 0
+watchers: 1
 
 ---
 
