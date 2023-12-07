@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/106084243?v=4
+  avatar: https://avatars.githubusercontent.com/u/151899654?v=4
   email: genemators@gmail.com
   name: Genemator
   url: null
