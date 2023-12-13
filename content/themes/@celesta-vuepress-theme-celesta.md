@@ -41,6 +41,8 @@ watchers: 4
 - 🌱 I’m actively working on improving my English language skills.
 - ⚡ Fun fact: Software Engineering and Computational Neuroscience
 
+\[[GitHub](https://github.com/yzx9)\]\[[Blog](https://yzx9.github.io/)\]
+
 [![yzx9's github stats](https://github-readme-stats-yzx9.vercel.app/api/?username=yzx9&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 [![yzx9's most used languages](https://github-readme-stats-yzx9.vercel.app/api/top-langs/?username=yzx9&layout=compact&exclude_repo=yzx9.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
