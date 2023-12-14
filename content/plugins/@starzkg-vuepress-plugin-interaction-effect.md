@@ -31,10 +31,10 @@ publisher:
   username: starzkg
 repository: https://github.com/vuepress/vuepress-next
 score: 0.6132218109218953
-stars: 1982
+stars: 1984
 unstable: true
 version: 1.0.0-beta.13
-watchers: 1982
+watchers: 1984
 
 ---
 
@@ -46,13 +46,13 @@ watchers: 1982
 [![license](https://badgen.net/github/license/vuepress/vuepress-next)](https://github.com/vuepress/vuepress-next/blob/main/LICENSE)
 [![discord](https://badgen.net/discord/online-members/ptFjefy6H5?icon=discord&label=discord)](https://discord.gg/ptFjefy6H5)
 
-## Status: Release Candidate
-
-For users from VuePress v1, please check out the [migration guide](https://v2.vuepress.vuejs.org/guide/migration.html).
+Status: Release Candidate
 
 ## Documentation
 
 https://v2.vuepress.vuejs.org
+
+For users from VuePress v1, please check out the [migration guide](https://v2.vuepress.vuejs.org/guide/migration.html).
 
 ## Contribution
 
