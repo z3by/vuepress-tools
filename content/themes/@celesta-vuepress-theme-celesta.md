@@ -44,7 +44,7 @@ watchers: 4
 \[[GitHub](https://github.com/yzx9)\]\[[Blog](https://yzx9.github.io/)\]
 
 [![yzx9's github stats](https://github-readme-stats-yzx9.vercel.app/api/?username=yzx9&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-[![yzx9's most used languages](https://github-readme-stats-yzx9.vercel.app/api/top-langs/?username=yzx9&layout=compact&exclude_repo=yzx9.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![yzx9's most used languages](https://github-readme-stats-yzx9.vercel.app/api/top-langs/?username=yzx9&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **yzx9/yzx9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
