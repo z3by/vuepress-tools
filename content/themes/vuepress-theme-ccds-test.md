@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/93846129?v=4
+  avatar: null
   email: null
   name: qsyyke
   url: null
-  username: blog-aurora
+  username: null
 bugs: https://github.com/qsyyke/vuepress-theme-ccds/issues
 category: themes
 date: '2021-09-13T00:47:05.033Z'
@@ -24,7 +24,7 @@ keywords:
 - vuepress
 - blog
 - theme
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-theme-ccds-test
 npm: https://www.npmjs.com/package/vuepress-theme-ccds-test
@@ -36,10 +36,10 @@ publisher:
   username: chuchen
 repository: https://github.com/qsyyke/vuepress-theme-ccds
 score: 0.17874888795358937
-stars: 295
+stars: 0
 unstable: false
 version: 1.2.4
-watchers: 295
+watchers: 0
 
 ---
 
