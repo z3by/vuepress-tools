@@ -55,6 +55,10 @@ watchers: 13
 ## Install
 
 ``` sh
+npm install vuepress@next vuepress-theme-plume
+# or
+pnpm add vuepress@next vuepress-theme-plume
+# or
 yarn add vuepress@next vuepress-theme-plume
 ```
 
@@ -63,6 +67,7 @@ yarn add vuepress@next vuepress-theme-plume
 ``` ts
 import { defineUserConfig } from 'vuepress'
 import { plumeTheme } from 'vuepress-theme-plume'
+
 export default defineUserConfig({
   theme: plumeTheme({
     // theme config
@@ -82,11 +87,13 @@ __options__ : `PlumeThemeOptions`
 
 ### 效果图
 
-![](/docs/preview-home.png)
+![](/docs/preview-home.png?a=1)
 
-![](/docs/preview-blog.png)
+![](/docs/preview-blog.png?a=1)
 
-![](/docs/preview-note.png)
+![](/docs/preview-post.png?a=1)
+
+![](/docs/preview-note.png?a=1)
   
 
 ## 内置插件
@@ -111,6 +118,6 @@ __options__ : `PlumeThemeOptions`
 - [vuepress-plugin-netlify-functions](https://github.com/pengzhanbo/vuepress-theme-plume/tree/main/plugins/plugin-netlify-functions) 当站点部署在 netlify 时，希望使用 netlify functions 可选择此插件提供支持
 ### 注意
 
-本主题基于 `VuePress2` ，仍处于 Beta 阶段。
+本主题基于 `vuepress 2` ，处于 RC 阶段。
 
-这意味着功能尚未完善，在未来有概率发生破坏性更改。
+这意味着功能已趋于稳定，但在未来仍有小概率发生破坏性更改。
