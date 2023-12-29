@@ -13,7 +13,7 @@ description: KaTex support for vuepress
 downloads: null
 homepage: https://github.com/nsznsznjsz/blog#readme
 keywords: null
-license: MIT License
+license: Other
 maintainers: null
 name: '@celesta/vuepress-plugin-math'
 npm: https://www.npmjs.com/package/%40celesta%2Fvuepress-plugin-math

@@ -13,7 +13,7 @@ description: '> TODO: description'
 downloads: null
 homepage: https://github.com/nsznsznjsz/blog#readme
 keywords: null
-license: MIT License
+license: Other
 maintainers: null
 name: '@celesta/vuepress-plugin-celesta'
 npm: https://www.npmjs.com/package/%40celesta%2Fvuepress-plugin-celesta
