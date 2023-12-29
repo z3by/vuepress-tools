@@ -16,7 +16,7 @@ keywords:
 - blog
 - vuepress
 - vuepress-theme
-license: MIT License
+license: Other
 maintainers: null
 name: '@celesta/vuepress-theme-celesta'
 npm: https://www.npmjs.com/package/%40celesta%2Fvuepress-theme-celesta
