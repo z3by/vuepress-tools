@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/49772593?v=4
+  avatar: null
   email: glitterma@gmail.com
   name: glitzma
   url: null
-  username: glitzma
+  username: null
 bugs: https://github.com/glitzma/vuepress-theme-glitzma/issues
 category: themes
 date: '2021-12-01T21:21:07.227Z'
@@ -16,7 +16,7 @@ keywords:
 - vuepress
 - theme
 - vue
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-theme-glitzma
 npm: https://www.npmjs.com/package/vuepress-theme-glitzma
@@ -28,10 +28,10 @@ publisher:
   username: glittering
 repository: https://github.com/glitzma/vuepress-theme-glitzma
 score: 0.3225828946494702
-stars: 3
+stars: 0
 unstable: false
 version: 1.0.1
-watchers: 3
+watchers: 0
 
 ---
 

@@ -28,16 +28,16 @@ publisher:
   username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
 score: 0.6546137155045746
-stars: 1667
+stars: 1669
 unstable: false
 version: 1.30.0
-watchers: 1667
+watchers: 1669
 
 ---
 
 <!-- markdownlint-disable -->
 <p align="center">
-  <img width="240" src="https://theme-hope.vuejs.press/logo.svg" style="text-align: center;">
+  <img width="240" src="https://theme-hope-assets.vuejs.press/logo.svg" style="text-align: center;">
 </p>
 <h1 align="center">vuepress-theme-hope</h1>
 <h4 align="center">A VuePress theme with tons of features✨</h4>
