@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/7794717?v=4
   email: npm@heimbu.ch
   name: Alexander Heimbuch
   url: null
@@ -13,7 +13,7 @@ description: Vuepress documentation theme based on Milligram
 downloads: null
 homepage: https://github.com/alexander-heimbuch/vuepress-theme-millidocs#readme
 keywords: null
-license: null
+license: false
 maintainers: null
 name: vuepress-theme-millidocs
 npm: https://www.npmjs.com/package/vuepress-theme-millidocs
