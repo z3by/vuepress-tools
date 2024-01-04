@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/20736207?v=4
+  avatar: null
   email: null
   name: Clfeng
   url: null
-  username: clfeng
+  username: null
 bugs: https://github.com/clfeng/vuepress-editable-demo-block/issues
 category: plugins
 date: '2021-10-31T09:56:18.140Z'
@@ -19,7 +19,7 @@ keywords:
 - vuepress
 - editable-demo-code
 - documentation
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-plugin-editable-demo-block
 npm: https://www.npmjs.com/package/vuepress-plugin-editable-demo-block
@@ -31,10 +31,10 @@ publisher:
   username: clfeng
 repository: https://github.com/clfeng/vuepress-editable-demo-block
 score: 0.48424893344458775
-stars: 8
+stars: 0
 unstable: true
 version: 0.1.2
-watchers: 8
+watchers: 0
 
 ---
 
