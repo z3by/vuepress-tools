@@ -39,11 +39,11 @@ watchers: 14
 
 一个简约的 vuepress 主题。
 
-开箱即用，仅需少量配置即可使用。
+开箱即用，仅需少量配置即可使用，让您更专注于 内容的创作。
 
 [![npm version](https://img.shields.io/npm/v/vuepress-theme-plume?color=32A9C3&labelColor=1B3C4A&label=npm)](https://www.npmjs.com/package/vuepress-theme-plume)
 [![npm beta download](https://img.shields.io/npm/dt/@vuepress-plume/vuepress-theme-plume?color=32A9C3&labelColor=1B3C4A&label=beta%20downloads)](https://www.npmjs.com/package/vuepress-theme-plume)
-[![npm download](https://img.shields.io/npm/dy/vuepress-theme-plume?color=32A9C3&labelColor=1B3C4A&label=downloads)](https://www.npmjs.com/package/vuepress-theme-plume)
+[![npm download](https://img.shields.io/npm/dm/vuepress-theme-plume?color=32A9C3&labelColor=1B3C4A&label=downloads)](https://www.npmjs.com/package/vuepress-theme-plume)
 ![GitHub License](https://img.shields.io/github/license/pengzhanbo/vuepress-theme-plume?color=32A9C3&labelColor=1B3C4A)
 
 ### [查看文档](https://pengzhanbo.cn/note/vuepress-theme-plume)
@@ -53,7 +53,7 @@ watchers: 14
 ``` sh
 npm install vuepress@next vuepress-theme-plume
 # or
-pnpm add vuepress@next vuepress-theme-plume
+pnpm add vuepress@next vuepress-theme-plume vue @vuepress/client
 # or
 yarn add vuepress@next vuepress-theme-plume
 ```
@@ -65,8 +65,9 @@ import { defineUserConfig } from 'vuepress'
 import { plumeTheme } from 'vuepress-theme-plume'
 
 export default defineUserConfig({
+  // vuepress config...
   theme: plumeTheme({
-    // theme config
+    // theme config...
   })
 })
 ```
