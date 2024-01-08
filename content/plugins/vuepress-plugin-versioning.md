@@ -29,10 +29,10 @@ publisher:
   username: appcelerator
 repository: https://github.com/appcelerator/docs-devkit
 score: 0.6299804426677511
-stars: 24
+stars: 25
 unstable: false
 version: 4.10.2
-watchers: 24
+watchers: 25
 
 ---
 
