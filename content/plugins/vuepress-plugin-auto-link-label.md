@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/1549175?v=4
   email: null
   name: Shinichiro MORI
   url: null
-  username: null
+  username: smori1983
 bugs: https://github.com/smori1983/vuepress-plugin-auto-link-label/issues
 category: plugins
 date: '2022-01-29T04:04:47.598Z'
@@ -16,7 +16,7 @@ keywords:
 - vuepress
 - vuepress-plugin
 - markdown-it
-license: null
+license: MIT License
 maintainers: null
 name: vuepress-plugin-auto-link-label
 npm: https://www.npmjs.com/package/vuepress-plugin-auto-link-label
