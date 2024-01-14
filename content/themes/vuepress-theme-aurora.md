@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/93846129?v=4
+  avatar: https://avatars.githubusercontent.com/u/69463896?v=4
   email: null
   name: qsyyke
   url: null
-  username: blog-aurora
+  username: xcyeye
 bugs: https://github.com/vuepress-aurora/vuepress-theme-aurora/issues
 category: themes
 date: '2022-05-02T10:52:44.411Z'
