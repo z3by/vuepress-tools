@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/20652985?v=4
+  avatar: null
   email: null
   name: ouyangdan
   url: null
-  username: iamouyangdan
+  username: null
 bugs: https://github.com/iamouyangdan/vuepress-plugin/issues
 category: plugins
 date: '2022-05-17T04:15:42.120Z'
@@ -20,7 +20,7 @@ keywords:
 - markdown
 - checkbox
 - tasklist
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-plugin-markdown-checkbox
 npm: https://www.npmjs.com/package/vuepress-plugin-markdown-checkbox
@@ -32,17 +32,10 @@ publisher:
   username: ouyangdan
 repository: https://github.com/iamouyangdan/vuepress-plugin
 score: 0.5176495897673955
-stars: 2
+stars: 0
 unstable: false
 version: 1.0.8
-watchers: 2
+watchers: 0
 
 ---
 
-# vuepress-plugin
-
-## 介绍（Introduction）
-
-这是本人为 [vuepress v2](https://v2.vuepress.vuejs.org/zh/guide/) 扩展功能的插件。具体用法请进入对应的插件查看README.md。
-
-`plugins`目录下的插件皆已发布npm，可自行下载体验 :)。
