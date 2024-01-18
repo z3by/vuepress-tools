@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/6128107?v=4
+  avatar: null
   email: null
   name: Evan You
   url: null
-  username: vuejs
+  username: null
 bugs: https://github.com/vuejs/vuepress/issues
 category: themes
 date: '2020-09-09T06:59:12.325Z'
@@ -17,7 +17,7 @@ keywords:
 - generator
 - vue
 - vuepress
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-theme-docmirror
 npm: https://www.npmjs.com/package/vuepress-theme-docmirror
@@ -29,10 +29,10 @@ publisher:
   username: greper
 repository: https://github.com/vuejs/vuepress
 score: 0.1788566834627237
-stars: 22163
+stars: 0
 unstable: false
 version: 1.5.4
-watchers: 22163
+watchers: 0
 
 ---
 
