@@ -30,10 +30,10 @@ publisher:
   username: shuaxin
 repository: https://github.com/SHUAXINDIARY/vuepress-theme-stella
 score: 0.597553674245862
-stars: 10
+stars: 11
 unstable: false
 version: 1.0.10
-watchers: 10
+watchers: 11
 
 ---
 
