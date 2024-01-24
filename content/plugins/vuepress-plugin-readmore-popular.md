@@ -37,10 +37,10 @@ publisher:
   username: rqh656418510
 repository: https://github.com/rqh656418510/vuepress-plugin-readmore-popular
 score: 0.49295517343285106
-stars: 4
+stars: 5
 unstable: true
 version: 0.0.10
-watchers: 4
+watchers: 5
 
 ---
 
