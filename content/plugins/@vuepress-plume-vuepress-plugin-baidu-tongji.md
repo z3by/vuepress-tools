@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/16745751?v=4
   email: volodymyr@foxmail.com
   name: pengzhanbo
   url: null
@@ -13,7 +13,7 @@ description: The Plugin for VuePres 2
 downloads: null
 homepage: https://github.com/pengzhanbo/vuepress-theme-plume#readme
 keywords: null
-license: null
+license: MIT License
 maintainers: null
 name: '@vuepress-plume/vuepress-plugin-baidu-tongji'
 npm: https://www.npmjs.com/package/%40vuepress-plume%2Fvuepress-plugin-baidu-tongji
@@ -25,10 +25,10 @@ publisher:
   username: pengzhanbo
 repository: https://github.com/pengzhanbo/vuepress-theme-plume
 score: 0.5026308707651894
-stars: 0
+stars: 14
 unstable: true
 version: 1.0.0-beta.36
-watchers: 0
+watchers: 14
 
 ---
 
