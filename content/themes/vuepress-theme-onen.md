@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/43326199?v=4
+  avatar: null
   email: null
   name: Vincent Hy
   url: null
-  username: Wiensss
+  username: null
 bugs: https://github.com/Veminem/vuepress-theme-oneN/issues
 category: themes
 date: '2019-10-18T19:22:58.594Z'
@@ -16,7 +16,7 @@ keywords:
 - vue
 - vuepress
 - vuepress-theme
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-theme-onen
 npm: https://www.npmjs.com/package/vuepress-theme-onen
@@ -28,10 +28,10 @@ publisher:
   username: vincent-hy
 repository: https://github.com/Veminem/vuepress-theme-oneN
 score: 0.3546303591043429
-stars: 52
+stars: 0
 unstable: false
 version: 1.1.3-beta
-watchers: 52
+watchers: 0
 
 ---
 
