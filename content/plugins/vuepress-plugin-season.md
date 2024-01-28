@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/49934348?v=4
   email: null
   name: hahaxiaowai
   url: null
-  username: null
+  username: hahaxiaowai
 bugs: https://github.com/hahaxiaowai/vuepress-plugin-season/issues
 category: plugins
 date: '2021-12-14T07:03:52.997Z'
@@ -14,7 +14,7 @@ downloads: null
 homepage: https://github.com/hahaxiaowai/vuepress-plugin-season#readme
 keywords:
 - vuepress
-license: null
+license: false
 maintainers: null
 name: vuepress-plugin-season
 npm: https://www.npmjs.com/package/vuepress-plugin-season
