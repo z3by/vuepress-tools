@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/1093590?v=4
+  avatar: null
   email: rashfael@isobeef.org
   name: rashfael
   url: null
@@ -13,7 +13,7 @@ description: null
 downloads: null
 homepage: https://github.com/rashfael/daumenkino#readme
 keywords: null
-license: false
+license: null
 maintainers: null
 name: vuepress-theme-daumenkino
 npm: https://www.npmjs.com/package/vuepress-theme-daumenkino
@@ -25,10 +25,10 @@ publisher:
   username: rash
 repository: https://github.com/rashfael/daumenkino
 score: 0.2788501526188258
-stars: 10
+stars: 0
 unstable: true
 version: 0.4.1
-watchers: 10
+watchers: 0
 
 ---
 
