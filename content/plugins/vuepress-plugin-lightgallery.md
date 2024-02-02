@@ -29,10 +29,10 @@ publisher:
   username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
 score: 0.6830913756104904
-stars: 1727
+stars: 1729
 unstable: false
 version: 2.0.0-alpha.33
-watchers: 1727
+watchers: 1729
 
 ---
 
@@ -80,7 +80,7 @@ We recommend you to contact using [issues](https://github.com/vuepress-theme-hop
 
 ## Details
 
-V2 is coming come together with [_VuePress2_](https://vuejs.press), with the power of [_Vite4_](https://vitejs.dev) / [_Webpack5_](https://webpack.js.org) and [_Vue3_](https://vuejs.org).
+V2 is based on [_VuePress2_](https://vuejs.press), with the power of [_Vite5_](https://vitejs.dev) / [_Webpack5_](https://webpack.js.org) using [_Vue3_](https://vuejs.org) to provide powerful features.
 
 V2 is a full rewrite including:
 
@@ -89,11 +89,11 @@ V2 is a full rewrite including:
 
 Also V2 has a better performance:🚀
 
-- DevServer cold start time reduced by **50%**
+- DevServer cold start time reduced by **70%**
 - Build memory usage reduced by **65%**
-- Build time reduced by **30%**
-- Output Size reduced by **25%**
-- Webpage performance up to **70%**
+- Build time reduced by **75%**
+- Output Size reduced by **45%**
+- Webpage performance up to **60%**
 
 ## Project Status
 

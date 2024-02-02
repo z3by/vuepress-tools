@@ -30,10 +30,10 @@ publisher:
   username: octref
 repository: https://github.com/octref/shiki
 score: 0.6373112800361818
-stars: 6667
+stars: 6688
 unstable: true
 version: 0.10.1
-watchers: 6667
+watchers: 6688
 
 ---
 
@@ -49,7 +49,7 @@ A beautiful syntax highlighter based on TextMate grammars, accurate and powerful
 
 [📚 **Documentation**](https://shiki.style)
 
-> [!IMPORTANT]
+> [!NOTE]
 > You are viewing the **v1 branch** of Shiki, which is a major rewrite and still in beta. If you are looking for the v0.x code, check the [v0.x branch](https://github.com/shikijs/shiki/tree/v0).
 
 ## License
