@@ -37,6 +37,10 @@ watchers: 14
 
 ## vuepress-theme-plume
 
+<p align="center">
+<img src="/docs/plume.svg" width="200px" />
+</p>
+
 一个简约的，干净的，容易上手的 vuepress 主题，适用于博客和文档。
 
 开箱即用，仅需少量配置即可使用，让您更专注于 内容的创作，更好的表达你的想法，形成你的知识笔记。
@@ -123,7 +127,7 @@ __options__ : `PlumeThemeOptions`
 
 **blog page**
 
-![](/docs/preview-blog.jpeg?t=0)
+![](/docs/preview-blog.jpeg?t=1)
 
 **post page**
 
