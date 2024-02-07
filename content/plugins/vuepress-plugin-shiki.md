@@ -30,10 +30,10 @@ publisher:
   username: octref
 repository: https://github.com/octref/shiki
 score: 0.6373112800361818
-stars: 6719
+stars: 6731
 unstable: true
 version: 0.10.1
-watchers: 6719
+watchers: 6731
 
 ---
 
@@ -45,12 +45,12 @@ watchers: 6719
 [![NPM downloads](https://img.shields.io/npm/dm/shiki?color=32A9C3&labelColor=1B3C4A&label=downloads)](https://www.npmjs.com/package/shiki)
 [![Codecov](https://img.shields.io/codecov/c/github/shikijs/shiki?token=1uJYfXgZG3&style=flat&labelColor=1B3C4A&color=32A9C3&precision=1)](https://app.codecov.io/gh/shikijs/shiki/tree)
 
-A beautiful syntax highlighter based on TextMate grammars, accurate and powerful.
+A beautiful syntax highlighter based on TextMate grammar, accurate and powerful.
 
 [📚 **Documentation**](https://shiki.style)
 
 > [!NOTE]
-> You are viewing the **v1 branch** of Shiki, which is a major rewrite and still in beta. If you are looking for the v0.x code, check the [v0.x branch](https://github.com/shikijs/shiki/tree/v0).
+> You are viewing the **v1 branch** of Shiki, which is a major rewrite and still in beta. [Migration Guide](https://shiki.style/guide/migrate#migrate-from-v0-14). If you are looking for the v0.x code, check the [v0.x branch](https://github.com/shikijs/shiki/tree/v0).
 
 ## License
 
