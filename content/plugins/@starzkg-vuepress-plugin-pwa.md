@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/96685951?v=4
+  avatar: null
   email: shentuzhigang@shentuzhigang.cn
   name: Starzkg
   url: https://shentuzhigang.cn
-  username: vuepress-star
+  username: null
 bugs: https://github.com/shentuzhigang/vuepress-theme-star/issues
 category: plugins
 date: '2021-12-25T17:58:23.078Z'
@@ -18,7 +18,7 @@ keywords:
 - web app
 - workbox
 - service worker
-license: MIT License
+license: null
 maintainers: null
 name: '@starzkg/vuepress-plugin-pwa'
 npm: https://www.npmjs.com/package/%40starzkg%2Fvuepress-plugin-pwa
@@ -30,10 +30,10 @@ publisher:
   username: starzkg
 repository: https://github.com/shentuzhigang/vuepress-theme-star
 score: 0.48493669585183274
-stars: 1
+stars: 0
 unstable: true
 version: 1.0.0-beta.24
-watchers: 1
+watchers: 0
 
 ---
 
