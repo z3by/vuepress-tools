@@ -36,3 +36,5 @@ watchers: 0
 
 ---
 
+# vuepress-theme-lovely
+a lovely vuepress theme
