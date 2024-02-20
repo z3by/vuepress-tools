@@ -26,12 +26,18 @@ publisher:
   username: shiki-deploys
 repository: https://github.com/shikijs/twoslash
 score: 0.633586168691885
-stars: 942
+stars: 943
 unstable: false
 version: 1.0.35
-watchers: 942
+watchers: 943
 
 ---
+
+> [!NOTE]
+> Twoslash has been moved to the new repository [twoslashes/twoslash](https://github.com/twoslashes/twoslash) with some refactoring and improvements. The Shiki v1.0 integration is now [in Shiki's monorepo](https://shiki.style/packages/twoslash) as a transformer, which means Twoslash will now work everywhere Shiki is supported. We will make Shiki supports more high-level tools so Twoslash could later inherit that.
+>
+> This repository is for Shiki v0.x integration with Twoslash. As we port more integrations to the new format, this repo will fade out gradually.
+
 
 <center><img src="./misc/repo-icon.png" /></center>
 
