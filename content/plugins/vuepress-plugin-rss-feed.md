@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/36102904?v=4
   email: bougie.liu@qq.com
   name: Bougie
   url: https://www.bougieblog.cn
-  username: null
+  username: bougieL
 bugs: https://github.com/bougieL/vuepress-plugin-rss/issues
 category: plugins
 date: '2022-01-10T07:43:24.178Z'
@@ -18,7 +18,7 @@ keywords:
 - plugin
 - rss
 - feed
-license: null
+license: MIT License
 maintainers: null
 name: vuepress-plugin-rss-feed
 npm: https://www.npmjs.com/package/vuepress-plugin-rss-feed
@@ -30,10 +30,43 @@ publisher:
   username: bougie
 repository: https://github.com/bougieL/vuepress-plugin-rss
 score: 0.38531069169429566
-stars: 0
+stars: 3
 unstable: false
 version: 1.0.1
-watchers: 0
+watchers: 3
 
 ---
 
+# vuepress-plugin-rss-feed
+
+Generate `rss.xml` file with `content:encoded` for rss client pretty preview. Reference [rss.xml](./rss.xml) for example.
+
+## Usage
+
+```bash
+npm i vuepress-plugin-rss-feed -D
+```
+
+Add plugin to your `.vuepress/config.js`
+
+```js
+module.exports = {
+  plugins: [
+    // other plugins
+    [
+      'rss-feed',
+      {
+        username: 'Bougie',
+        hostname: 'https://www.bougieblog.cn',
+        selector: '.content__post', // extract content to content:encoded
+        count: 10,
+        filter: (page) => /^blog/.test(page.relativePath),
+      },
+    ],
+  ],
+}
+```
+
+## License
+
+[MIT](./LICENSE)

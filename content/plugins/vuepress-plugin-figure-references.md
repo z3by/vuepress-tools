@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/54356406?v=4
   email: sabic.alija@gmail.com
   name: Alija Sabic
   url: null
@@ -18,7 +18,7 @@ keywords:
 - markdown
 - figure
 - reference
-license: null
+license: GNU General Public License v3.0
 maintainers: null
 name: vuepress-plugin-figure-references
 npm: https://www.npmjs.com/package/vuepress-plugin-figure-references
@@ -37,3 +37,4 @@ watchers: 0
 
 ---
 
+# vuepress-plugins

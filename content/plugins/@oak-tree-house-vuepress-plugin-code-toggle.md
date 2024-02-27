@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/8998546?v=4
   email: null
   name: Sun Ziping
   url: null
-  username: null
+  username: sunziping2016
 bugs: https://github.com/sunziping2016/oak-tree-house/issues
 category: plugins
 date: '2020-03-14T16:00:40.463Z'
@@ -15,7 +15,7 @@ homepage: https://github.com/sunziping2016/oak-tree-house/tree/master/packages/%
 keywords:
 - vue
 - vuepress
-license: null
+license: MIT License
 maintainers: null
 name: '@oak-tree-house/vuepress-plugin-code-toggle'
 npm: https://www.npmjs.com/package/%40oak-tree-house%2Fvuepress-plugin-code-toggle
@@ -27,10 +27,27 @@ publisher:
   username: sunziping2016
 repository: https://github.com/sunziping2016/oak-tree-house
 score: 0.38769180953041765
-stars: 0
+stars: 13
 unstable: false
 version: 1.0.0
-watchers: 0
+watchers: 13
 
 ---
 
+# Oak Tree house
+
+[![Build Status](https://travis-ci.com/sunziping2016/oak-tree-house.svg?branch=master)](https://travis-ci.com/sunziping2016/oak-tree-house)
+
+****
+This is my newer personal homepage. See <https://szp15.com/> .
+
+## To Build It
+
+```bash
+git clone git@github.com:sunziping2016/oak-tree-house.git
+cd oak-tree-house
+yarn
+yarn build
+```
+
+Then the blog is generated into `site/.vuepress/dist`.

@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/71742460?v=4
   email: liayng.ok@outlook.com
   name: leo
   url: null
-  username: null
+  username: leo94666
 bugs: https://github.com/leo94666/leo94666.github.io/issues
 category: plugins
 date: '2021-04-14T03:41:37.198Z'
@@ -13,7 +13,7 @@ description: '> TODO: description'
 downloads: null
 homepage: https://github.com/leo94666/leo94666.github.io#readme
 keywords: null
-license: null
+license: false
 maintainers: null
 name: '@leo9466/vuepress-plugin-back-to-top'
 npm: https://www.npmjs.com/package/%40leo9466%2Fvuepress-plugin-back-to-top

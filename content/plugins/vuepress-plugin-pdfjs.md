@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/628385?v=4
   email: chris@rebzmedia.com
   name: Chris Johnson
   url: null
@@ -18,7 +18,7 @@ keywords:
 - pdf
 - pdfjs
 - reference
-license: null
+license: GNU General Public License v3.0
 maintainers: null
 name: vuepress-plugin-pdfjs
 npm: https://www.npmjs.com/package/vuepress-plugin-pdfjs
@@ -30,10 +30,16 @@ publisher:
   username: rebz
 repository: https://github.com/rebz/vuepress-plugin-pdfjs
 score: 0.41280501072049275
-stars: 0
+stars: 3
 unstable: true
 version: 0.0.1-beta.2
-watchers: 0
+watchers: 3
 
 ---
 
+# rebz/vuepress-plugin-pdfjs
+
+> PDF Viewer Plugin for VuePress using Mozilla's PDFJS
+
+#### Installation 
+`npm i vuepress-plugin-pdfjs --save`

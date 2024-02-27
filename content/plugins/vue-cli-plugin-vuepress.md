@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/11334289?v=4
   email: dgpgdev@gmail.com
   name: Gauthier de Girodon Pralong
   url: null
@@ -17,7 +17,7 @@ keywords:
 - vue
 - generator
 - plugin
-license: null
+license: MIT License
 maintainers: null
 name: vue-cli-plugin-vuepress
 npm: https://www.npmjs.com/package/vue-cli-plugin-vuepress
@@ -29,10 +29,17 @@ publisher:
   username: kronwald
 repository: https://github.com/dgpgdev/vue-cli-plugin-vuepress
 score: 0.3145430371782979
-stars: 0
+stars: 24
 unstable: true
 version: 0.1.1
-watchers: 0
+watchers: 24
 
 ---
 
+# vue-cli-plugin-vuepress
+
+
+[documentation](https://dgpgdev.github.io/vue-cli-plugin-vuepress/)
+
+
+[vuepress website](https://vuepress.vuejs.org)

@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/24950299?v=4
   email: null
   name: mr-huang
   url: null
-  username: null
+  username: CavinHuang
 bugs: https://github.com/cavinHuang/vuepress-theme-weasel/issues
 category: plugins
 date: '2022-05-18T09:56:04.301Z'
@@ -17,7 +17,7 @@ keywords:
 - weasel
 - vuepress plugin
 - vuepress
-license: null
+license: false
 maintainers: null
 name: '@mr-huang/vuepress-plugin-sitemap'
 npm: https://www.npmjs.com/package/%40mr-huang%2Fvuepress-plugin-sitemap

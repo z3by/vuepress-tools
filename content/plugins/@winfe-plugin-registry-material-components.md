@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/83055655?v=4
   email: null
   name: null
   url: null
-  username: null
+  username: cool-fe
 bugs: https://github.com/cool-fe/winex-cli/issues
 category: plugins
 date: '2021-11-26T07:39:19.255Z'
@@ -17,7 +17,7 @@ keywords:
 - vuepress
 - material
 - plugin
-license: null
+license: false
 maintainers: null
 name: '@winfe/plugin-registry-material-components'
 npm: https://www.npmjs.com/package/%40winfe%2Fplugin-registry-material-components
@@ -29,10 +29,10 @@ publisher:
   username: dsx_gao
 repository: https://github.com/cool-fe/winex-cli
 score: 0.1804615206042139
-stars: 0
+stars: 3
 unstable: false
 version: 1.0.6
-watchers: 0
+watchers: 3
 
 ---
 

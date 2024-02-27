@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/25003088?v=4
   email: null
   name: laughing
   url: null
-  username: null
+  username: v-laughing
 bugs: https://github.com/v-laughing/vuepress-plugin-bgfire/issues
 category: plugins
 date: '2021-05-04T11:05:31.787Z'
@@ -16,7 +16,7 @@ keywords:
 - vuepress
 - background
 - color
-license: null
+license: false
 maintainers: null
 name: vuepress-plugin-bgfire
 npm: https://www.npmjs.com/package/vuepress-plugin-bgfire
@@ -35,3 +35,4 @@ watchers: 0
 
 ---
 
+# vuepress-plugin-bgfire

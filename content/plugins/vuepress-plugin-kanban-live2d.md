@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/93028958?v=4
   email: 1278441339@qq.com
   name: ccy
   url: null
@@ -14,7 +14,7 @@ downloads: null
 homepage: https://github.com/FrancisSaber/vuepress-plugin-kanban-live2d#readme
 keywords:
 - vuepress-plugin
-license: null
+license: false
 maintainers: null
 name: vuepress-plugin-kanban-live2d
 npm: https://www.npmjs.com/package/vuepress-plugin-kanban-live2d

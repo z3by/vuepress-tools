@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/30315743?v=4
   email: geniuslim27@gmail.com
   name: limdongjin
   url: null
@@ -17,7 +17,7 @@ keywords:
 - vue
 - vuepress
 - sidebar
-license: null
+license: MIT License
 maintainers: null
 name: '@limdongjin/vuepress-plugin-sidebar-on-off'
 npm: https://www.npmjs.com/package/%40limdongjin%2Fvuepress-plugin-sidebar-on-off
@@ -29,10 +29,29 @@ publisher:
   username: limdongjin
 repository: https://github.com/limdongjin/vuepress-plugin-sidebar-on-off
 score: 0.3074565767163967
-stars: 0
+stars: 1
 unstable: true
 version: 1.0.0-alpha.32
-watchers: 0
+watchers: 1
 
 ---
 
+# @limdongjin/vuepress-plugin-sidebar-on-off
+
+plugin-sidebar-on-off for vuepress
+
+https://www.npmjs.com/package/@limdongjin/vuepress-plugin-sidebar-on-off
+
+## Install
+
+```bash
+yarn add -D @limdongjin/vuepress-plugin-sidebar-on-off
+```
+
+## Usage
+
+```js
+module.exports = {
+  plugins: ['@limdongjin/vuepress-plugin-sidebar-on-off']
+}
+```

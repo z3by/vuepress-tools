@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/38957202?v=4
   email: newsbielt703@gmail.com
   name: Billyyyyy3320
   url: null
@@ -17,7 +17,7 @@ keywords:
 - disqus
 - plugin
 - vuepress
-license: null
+license: MIT License
 maintainers: null
 name: vuepress-plugin-disqus-comment
 npm: https://www.npmjs.com/package/vuepress-plugin-disqus-comment
@@ -36,3 +36,39 @@ watchers: 0
 
 ---
 
+# THIS PROJECT HAS BEEN FULLY INTEGRATED INTO [vuepress-plugin-disqus](https://github.com/lorisleiva/vuepress-plugin-disqus)
+
+---
+---
+# vuepress-plugin-disqus-comment
+
+[![NPM version](https://img.shields.io/npm/v/vuepress-plugin-disqus-comment)](https://www.npmjs.com/package/vuepress-plugin-disqus-comment)
+
+VuePress plugin for Disqus. Based on [vue-disqus](https://github.com/ktquez/vue-disqus).
+
+## Install
+
+```bash
+yarn add vuepress-plugin-disqus-comment -D
+# OR npm install vuepress-plugin-disqus-comment -D
+```
+
+## Usage
+
+```javascript
+// .vuepress/config.js
+module.exports = {
+  plugins: [
+    "vuepress-plugin-disqus-comment",
+    {
+      /* options */
+    }
+  ]
+};
+```
+
+Check out the full [documentation](https://vuepress-plugin-disqus.netlify.com/).
+
+## License
+
+MIT © [Billyyyyy3320](https://github.com/newsbielt703)

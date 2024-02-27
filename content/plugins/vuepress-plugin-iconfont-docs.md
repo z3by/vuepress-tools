@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/20984527?v=4
   email: null
   name: busyrat
   url: null
-  username: null
+  username: busyrat
 bugs: https://github.com/busyrat/blog/issues
 category: plugins
 date: '2019-08-20T07:19:01.095Z'
@@ -17,7 +17,7 @@ keywords:
 - vuepress-plugin
 - iconfont
 - docs
-license: null
+license: false
 maintainers: null
 name: vuepress-plugin-iconfont-docs
 npm: https://www.npmjs.com/package/vuepress-plugin-iconfont-docs
@@ -36,3 +36,12 @@ watchers: 0
 
 ---
 
+# Blog
+
+找回写代码的乐趣
+
+![Github Actions](https://github.com/busyrat/blog/workflows/Deploy%20gh-pages/badge.svg)
+
+[github page](https://busyrat.github.io/blog/)
+
+[vuepress 1.x](https://v1.vuepress.vuejs.org/zh/guide/global-computed.html#site)

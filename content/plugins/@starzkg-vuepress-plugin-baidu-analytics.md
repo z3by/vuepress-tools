@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/62365720?v=4
   email: shentuzhigang@shentuzhigang.cn
   name: Starzkg
   url: https://shentuzhigang.cn
-  username: null
+  username: roiding
 bugs: https://github.com/roiding/plugin-baidu-analytics/issues
 category: plugins
 date: '2021-11-16T09:35:08.330Z'
@@ -18,7 +18,7 @@ keywords:
 - plugin
 - baidu
 - analytics
-license: null
+license: false
 maintainers: null
 name: '@starzkg/vuepress-plugin-baidu-analytics'
 npm: https://www.npmjs.com/package/%40starzkg%2Fvuepress-plugin-baidu-analytics
