@@ -43,14 +43,25 @@ watchers: 16
 
 [![npm version](https://img.shields.io/npm/v/vuepress-theme-plume?color=32A9C3&labelColor=1B3C4A&label=npm)](https://www.npmjs.com/package/vuepress-theme-plume)
 [![npm download](https://img.shields.io/npm/dy/vuepress-theme-plume?color=32A9C3&labelColor=1B3C4A&label=downloads)](https://www.npmjs.com/package/vuepress-theme-plume)
+![](https://img.shields.io/npm/dependency-version/vuepress-theme-plume/peer/vuepress?color=32A9C3&labelColor=1B3C4A)
 ![GitHub License](https://img.shields.io/github/license/pengzhanbo/vuepress-theme-plume?color=32A9C3&labelColor=1B3C4A)
-<!-- [![npm beta download](https://img.shields.io/npm/dt/@vuepress-plume/vuepress-theme-plume?color=32A9C3&labelColor=1B3C4A&label=beta%20downloads)](https://www.npmjs.com/package/vuepress-theme-plume) -->
 
 一个简约的，干净的，容易上手的 vuepress 主题，适用于博客和文档。
 
 开箱即用，仅需少量配置即可使用，让您更专注于 内容的创作，更好的表达你的想法，形成你的知识笔记。
 
 内置了丰富的强大的功能，旨在让内容更具有表现力。
+
+## Features
+
+- 💻 响应式布局，适配不同的屏幕尺寸
+- 📖 博客 & 文档
+- 🔗 自动生成文章永久链接
+- ⚖ 支持多语言
+- 🔑 支持 全站加密、部分加密
+- 👀 支持 搜索、文章评论
+- 👨‍💻‍ 支持 浅色/深色 主题 （包括代码高亮）
+- 📠 markdown 增强，支持 代码块分组、提示容器、任务列表、数学公式、代码演示 等
 
 ### [查看文档](https://pengzhanbo.cn/note/vuepress-theme-plume)
 
@@ -82,7 +93,7 @@ export default defineUserConfig({
 
 __options__ : `PlumeThemeOptions`
 
-[查看 options 详细说明](https://pengzhanbo.cn/note/vuepress-theme-plume/theme-config/)
+[查看 options 详细说明](https://pengzhanbo.cn/vuepress-theme-plume/theme-config/)
 
 ## 案例
 
