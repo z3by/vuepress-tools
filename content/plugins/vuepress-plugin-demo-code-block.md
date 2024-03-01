@@ -73,7 +73,7 @@ export default defineUserConfig({
   plugins: [
     [
       demoBlock({
-        componentsDir: path.resolve(__dirname, './../examples'), // 组件目录路径, Component directory path
+        componentsDir: new URL(import.meta.url, './../examples'), // 组件目录路径, Component directory path
         githubEditLinkPath: 'https://github.com/weiquanju/v-el-table-doc/edit/main/docs/examples/', // github编辑地址路径, the path of github edit link 
       })
     ]
