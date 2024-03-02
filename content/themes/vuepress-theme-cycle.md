@@ -28,10 +28,10 @@ publisher:
   username: dr.cycle
 repository: https://github.com/leCapsimRy/vuepress-theme-cycle
 score: 0.444346122738807
-stars: 10
+stars: 11
 unstable: true
 version: 0.7.11
-watchers: 10
+watchers: 11
 
 ---
 
