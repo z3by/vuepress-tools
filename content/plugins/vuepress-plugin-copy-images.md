@@ -29,10 +29,10 @@ publisher:
   username: wywei
 repository: https://github.com/wyw-s/vuepress-plugin-copy-images
 score: 0.453751911088371
-stars: 1
+stars: 2
 unstable: false
 version: 1.1.0
-watchers: 1
+watchers: 2
 
 ---
 
