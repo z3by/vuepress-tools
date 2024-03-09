@@ -33,7 +33,7 @@ watchers: 18
 ---
 
 <p align="center">
-<img src="/docs/plume.svg" width="200px" />
+<img src="/preview/plume.svg" width="200px" />
 </p>
 
 <h2 align="center">vuepress-theme-plume</h2>
@@ -60,7 +60,7 @@ watchers: 18
 - 👨‍💻‍ 支持 浅色/深色 主题 （包括代码高亮）
 - 📠 markdown 增强，支持 代码块分组、提示容器、任务列表、数学公式、代码演示 等
 
-### [查看文档](https://pengzhanbo.cn/note/vuepress-theme-plume)
+### [查看文档](https://plume.pengzhanbo.cn)
 
 ## Install
 
@@ -96,27 +96,6 @@ __options__ : `PlumeThemeOptions`
 
 - [我的个人博客](https://pengzhanbo.cn/)
 
-## 内置插件
-
-- [plugin-shikiji](https://github.com/pengzhanbo/vuepress-theme-plume/tree/main/plugins/plugin-shikiji) 使用 [`shikiji`](https://shikiji.netlify.app/) 来为 Markdown 代码块启用代码高亮。
-- [plugin-caniuse](https://github.com/pengzhanbo/vuepress-theme-plume/tree/main/plugins/plugin-caniuse) 在文档中使用 caniuse 提供的 web feature support list
-- [plugin-auto-frontmatter](https://github.com/pengzhanbo/vuepress-theme-plume/tree/main/plugins/plugin-auto-frontmatter) 在 md 文件中根据匹配规则自动生成 frontmatter
-- [plugin-notes-data](https://github.com/pengzhanbo/vuepress-theme-plume/tree/main/plugins/plugin-notes-data) 根据规则，将 md文件归类为 note，并生成 sidebar
-- [plugin-blog-data](https://github.com/pengzhanbo/vuepress-theme-plume/tree/main/plugins/plugin-blog-data) 根据规则，将md文件归类为 blog post，并生成 post list
-- [vuepress-plugin-mdEnhance](https://vuepress-theme-hope.github.io/v2/md-enhance/zh/) 增强markdown功能插件
-- [vuepress-plugin-comment](https://vuepress-theme-hope.github.io/v2/comment/zh/) 文章评论插件，支持 "giscus" | "twikoo" | "waline"
-- [vuepress-plugin-copy-code](https://github.com/pengzhanbo/vuepress-theme-plume/tree/main/packages/plugin-copy-code) 文章内代码块复制插件
-- [vuepress-plugin-medium-zoom](https://v2.vuepress.vuejs.org/zh/reference/plugin/medium-zoom.html) 图片预览插件
-- [vuepress-plugin-search](https://v2.vuepress.vuejs.org/zh/reference/plugin/search.html) 内容搜索插件
-- [vuepress-plugin-docsearch](https://v2.vuepress.vuejs.org/zh/reference/plugin/docsearch.html) Algolia docsearch 内容搜索插件
-- [vuepress-plugin-palette](https://v2.vuepress.vuejs.org/zh/reference/plugin/palette.html) 主题调色板插件
-- [vuepress-plugin-seo](https://vuepress-theme-hope.github.io/v2/seo/zh/) seo 插件
-- [vuepress-plugin-sitemap](https://vuepress-theme-hope.github.io/v2/sitemap/zh/) 生成sitemap 插件
-
-## 非内置插件
-
-- [vuepress-plugin-netlify-functions](https://github.com/pengzhanbo/vuepress-theme-plume/tree/main/plugins/plugin-netlify-functions) 当站点部署在 netlify 时，希望使用 netlify functions 可选择此插件提供支持
-
 ### 注意
 
 本主题基于 `vuepress 2` ，处于 RC 阶段。
@@ -131,16 +110,16 @@ __options__ : `PlumeThemeOptions`
 
 **home page**
 
-![](/docs/preview-home.jpeg)
+![](/preview/preview-home.jpeg)
 
 **blog page**
 
-![](/docs/preview-blog.jpeg?t=1)
+![](/preview/preview-blog.jpeg?t=1)
 
 **post page**
 
-![](/docs/preview-post.jpeg)
+![](/preview/preview-post.jpeg)
 
 **note page**
 
-![](/docs/preview-note.jpeg)
+![](/preview/preview-note.jpeg)
