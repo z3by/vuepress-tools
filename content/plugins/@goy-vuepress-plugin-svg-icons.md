@@ -75,9 +75,7 @@ import { defineUserConfig } from 'vuepress'
 import { svgIconPlugin } from '@goy/vuepress-plugin-svg-icons'
 
 export default defineUserConfig({
-  plugins: [
-    svgIconPlugin(),
-  ],
+  plugins: [svgIconPlugin()],
 })
 ```
 
