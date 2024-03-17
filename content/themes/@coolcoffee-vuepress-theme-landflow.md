@@ -29,10 +29,10 @@ publisher:
   username: coolcoffee
 repository: https://github.com/vuepress/vuepress-next
 score: 0.12795584842631974
-stars: 2041
+stars: 2044
 unstable: false
 version: 2.0.0-beta.25-1
-watchers: 2041
+watchers: 2044
 
 ---
 
