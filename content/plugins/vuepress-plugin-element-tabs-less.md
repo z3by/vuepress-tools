@@ -39,6 +39,7 @@ watchers: 0
 
 <a href="https://www.npmjs.com/package/vuepress-plugin-element-tabs-less"><img src="https://img.shields.io/npm/v/vuepress-plugin-element-tabs-less.svg" alt="Version"></a>
 <a href="https://www.npmjs.com/package/vuepress-plugin-element-tabs-less"><img src="https://img.shields.io/npm/l/vuepress-plugin-element-tabs-less.svg" alt="License"></a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Ftortorse%2Fvuepress-plugin-tabs-less?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftortorse%2Fvuepress-plugin-tabs-less.svg?type=shield"/></a>
 <img src="https://img.shields.io/badge/thanks-element-brightgreen.svg"/>
 <img src="https://img.shields.io/badge/thanks-vuepress--plugin--tabs-brightgreen"/>
 
@@ -116,3 +117,5 @@ __markdown content__
 ### License
 
 [MIT](./LICENSE)
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftortorse%2Fvuepress-plugin-tabs-less.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftortorse%2Fvuepress-plugin-tabs-less?ref=badge_large)
