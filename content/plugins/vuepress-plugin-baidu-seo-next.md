@@ -62,7 +62,7 @@ $ npm view vuepress-plugin-baidu-seo-next versions
 $ npm install -D vuepress-plugin-baidu-seo-next
 
 # # 安装指定版本（推荐）
-$ npm install -D vuepress-plugin-baidu-seo-next@2.0.0-rc.8.1
+$ npm install -D vuepress-plugin-baidu-seo-next@2.0.0-rc.8.2
 ```
 
 ### 配置插件
