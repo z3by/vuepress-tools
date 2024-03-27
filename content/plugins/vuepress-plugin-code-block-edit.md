@@ -30,10 +30,10 @@ publisher:
   username: wangziweng7890
 repository: https://github.com/wangziweng7890/vuepress-plugin-code-block-edit
 score: 0.4641576991496725
-stars: 1
+stars: 0
 unstable: true
 version: 0.1.2
-watchers: 1
+watchers: 0
 
 ---
 
