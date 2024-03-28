@@ -30,10 +30,10 @@ publisher:
   username: seeyoz
 repository: https://github.com/zpfz/vuepress-plugin-graysite
 score: 0.4315014657135102
-stars: 10
+stars: 11
 unstable: true
 version: 0.1.0
-watchers: 10
+watchers: 11
 
 ---
 
