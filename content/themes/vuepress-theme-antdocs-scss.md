@@ -31,10 +31,10 @@ publisher:
   username: wenfangcao
 repository: https://github.com/zpfz/vuepress-theme-antdocs
 score: 0.1500572226069477
-stars: 216
+stars: 215
 unstable: true
 version: 0.0.4
-watchers: 216
+watchers: 215
 
 ---
 
