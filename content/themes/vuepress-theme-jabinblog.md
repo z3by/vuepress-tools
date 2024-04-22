@@ -28,10 +28,10 @@ publisher:
   username: jabin_l
 repository: https://github.com/JabinPeng/pengBlog
 score: 0.1797407248725787
-stars: 105
+stars: 106
 unstable: true
 version: 0.0.1
-watchers: 105
+watchers: 106
 
 ---
 
