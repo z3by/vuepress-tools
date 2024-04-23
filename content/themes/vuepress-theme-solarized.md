@@ -29,10 +29,10 @@ publisher:
   username: puritanic
 repository: https://github.com/Puritanic/vuepress-theme-solarized
 score: 0.3001961415226101
-stars: 5
+stars: 4
 unstable: false
 version: 1.1.1
-watchers: 5
+watchers: 4
 
 ---
 
