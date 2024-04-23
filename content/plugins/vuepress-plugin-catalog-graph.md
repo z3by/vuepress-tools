@@ -29,10 +29,10 @@ publisher:
   username: ludanxer
 repository: https://github.com/ludanxer/catalog-graph
 score: 0.4706000847594261
-stars: 6
+stars: 5
 unstable: true
 version: 0.2.8
-watchers: 6
+watchers: 5
 
 ---
 

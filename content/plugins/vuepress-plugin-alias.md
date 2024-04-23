@@ -30,10 +30,10 @@ publisher:
   username: vaniyokk
 repository: https://github.com/vaniyokk/vuepress-plugin-alias
 score: 0.435128089592831
-stars: 6
+stars: 5
 unstable: true
 version: 1.0.0-beta
-watchers: 6
+watchers: 5
 
 ---
 
