@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/11680870?v=4
+  avatar: https://avatars.githubusercontent.com/u/168372190?v=4
   email: null
   name: Thomas Grey
   url: null
-  username: tgreyuk
+  username: typedoc-plugin-markdown
 bugs: https://github.com/tgreyuk/typedoc-plugin-markdown/issues
 category: plugins
 date: '2022-02-04T23:11:40.408Z'
