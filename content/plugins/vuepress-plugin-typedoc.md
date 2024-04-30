@@ -4,7 +4,7 @@ author:
   email: null
   name: Thomas Grey
   url: null
-  username: typedoc-plugin-markdown
+  username: typedoc2md
 bugs: https://github.com/tgreyuk/typedoc-plugin-markdown/issues
 category: plugins
 date: '2022-02-04T23:11:40.408Z'
@@ -31,10 +31,10 @@ publisher:
   username: tgreyuk
 repository: https://github.com/tgreyuk/typedoc-plugin-markdown
 score: 0.6419863110249573
-stars: 652
+stars: 653
 unstable: true
 version: 0.10.3
-watchers: 652
+watchers: 653
 
 ---
 
