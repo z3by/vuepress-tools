@@ -29,10 +29,10 @@ publisher:
   username: kylezhao
 repository: https://github.com/vuejs/vuepress
 score: 0.1792685295663744
-stars: 22358
+stars: 22362
 unstable: false
 version: 1.0.6
-watchers: 22358
+watchers: 22362
 
 ---
 
