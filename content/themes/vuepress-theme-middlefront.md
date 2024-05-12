@@ -32,10 +32,10 @@ publisher:
   username: anwh
 repository: https://github.com/xugaoyi/vuepress-theme-vdoing
 score: 0.17802507145792953
-stars: 4230
+stars: 4231
 unstable: false
 version: 1.0.2
-watchers: 4230
+watchers: 4231
 
 ---
 
