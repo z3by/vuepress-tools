@@ -125,7 +125,7 @@ module.exports = {
       'vuepress-plugin-mygitalk', {
         // 是否启用(关闭请设置为false)(default: true)
         enable: true,
-        // 是否开启首页评论(default: true)
+        // 是否开启首页评论(default: true)。是否为首页是通过frontmatter中名为home的配置项来识别的，而非路由
         home: true,
         // Gitalk配置
         gitalk: {
