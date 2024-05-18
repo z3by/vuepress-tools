@@ -29,10 +29,10 @@ publisher:
   username: qas612820704
 repository: https://github.com/vuejs/vuepress
 score: 0.06170698706479107
-stars: 22368
+stars: 22371
 unstable: false
 version: 1.2.1
-watchers: 22368
+watchers: 22371
 
 ---
 
