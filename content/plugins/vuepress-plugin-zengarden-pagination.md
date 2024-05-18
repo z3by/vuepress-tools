@@ -30,10 +30,10 @@ publisher:
   username: tjventurini
 repository: https://github.com/tjventurini/vuepress-plugin-zengarden-pagination
 score: 0.4530567866767906
-stars: 0
+stars: 1
 unstable: false
 version: 1.0.0
-watchers: 0
+watchers: 1
 
 ---
 

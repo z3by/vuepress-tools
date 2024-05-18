@@ -29,10 +29,10 @@ publisher:
   username: tjventurini
 repository: https://github.com/tjventurini/vuepress-plugin-zengarden-posts
 score: 0.4509271113107041
-stars: 0
+stars: 1
 unstable: false
 version: 1.0.0
-watchers: 0
+watchers: 1
 
 ---
 
