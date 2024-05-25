@@ -38,7 +38,7 @@ watchers: 7
 
 [![NPM version](https://badgen.net/npm/v/vuepress-plugin-global-toc)](https://npmjs.com/package/vuepress-plugin-global-toc) [![NPM downloads](https://badgen.net/npm/dm/vuepress-plugin-global-toc)](https://npmjs.com/package/vuepress-plugin-global-toc)
 
-> This plugin requires VuePress >= **1.0.0**.
+> This plugin requires VuePress >= **1.0.0**. VuePress 2 is not supported
 
 ## Features
 

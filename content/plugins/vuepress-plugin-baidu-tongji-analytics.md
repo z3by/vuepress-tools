@@ -31,10 +31,10 @@ publisher:
   username: zhuqiang
 repository: https://github.com/zq99299/vuepress-plugin
 score: 0.5482160002599727
-stars: 12
+stars: 13
 unstable: false
 version: 1.0.2
-watchers: 12
+watchers: 13
 
 ---
 
