@@ -28,10 +28,10 @@ publisher:
   username: michaelolof
 repository: https://github.com/cwaring/vuepress-plugin-ipfs
 score: 0.3404064141591403
-stars: 13
+stars: 14
 unstable: false
 version: 1.0.3
-watchers: 13
+watchers: 14
 
 ---
 
