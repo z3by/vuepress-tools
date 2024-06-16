@@ -30,10 +30,10 @@ publisher:
   username: xunzhaotech
 repository: https://github.com/vuejs/vuepress
 score: 0.1489594099636329
-stars: 22410
+stars: 22411
 unstable: true
 version: 0.0.1
-watchers: 22410
+watchers: 22411
 
 ---
 
