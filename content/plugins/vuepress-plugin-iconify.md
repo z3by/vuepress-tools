@@ -104,7 +104,7 @@ Then, you can use the `VpIcon` component in your docs:
 <vp-icon
   icon="fa:apple"
   width="50px"
-  rotate="90deg"
+  :rotate="90"
 />
 
 <vp-icon
