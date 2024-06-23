@@ -31,10 +31,10 @@ publisher:
   username: tgreyuk
 repository: https://github.com/tgreyuk/typedoc-plugin-markdown
 score: 0.6419863110249573
-stars: 683
+stars: 685
 unstable: true
 version: 0.10.3
-watchers: 683
+watchers: 685
 
 ---
 
@@ -58,13 +58,13 @@ This project is a collection of packages designed for generate TypeScript API do
 
 Please see [typedoc-plugin-markdown.org](https://typedoc-plugin-markdown.org).
 
-## Examples
-
-Please see the [examples repository](https://github.com/typedoc2md/typedoc-plugin-markdown-examples).
-
 ## Contributing
 
 If you would like to contribute towards this project please read the [contributing guide](./CONTRIBUTING.md).
+
+## Examples
+
+Please see the [examples repository](https://github.com/typedoc2md/typedoc-plugin-markdown-examples).
 
 ## License
 
