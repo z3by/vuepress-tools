@@ -25,10 +25,10 @@ publisher:
   username: lblog
 repository: https://github.com/QiShaoXuan/vuepress-plugin-cat
 score: 0.06026038908107664
-stars: 179
+stars: 178
 unstable: false
 version: 1.0.9
-watchers: 179
+watchers: 178
 
 ---
 
