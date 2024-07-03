@@ -37,9 +37,9 @@ watchers: 4
 
 ### Hi there 👋
 
-- 🔭 I’m currently pursuing my master's degree at [SHU](https://www.shu.edu.cn/) and [GDIIST](https://www.gdiist.cn/en/)
+- 🔭 I’m currently pursuing my master's degree at [GDIIST](https://www.gdiist.cn/en/) and [BHU](https://www.bnu.edu.cn/).
+- ⚡ Fun fact: Computational Neuroscience and Software Engineering.
 - 🌱 I’m actively working on improving my English language skills.
-- ⚡ Fun fact: Software Engineering and Computational Neuroscience
 
 \[[GitHub](https://github.com/yzx9)\]\[[Blog](https://yzx9.github.io/)\]
 
