@@ -28,10 +28,10 @@ publisher:
   username: cunzaizhuyi
 repository: https://github.com/xinlei3166/vuepress-plugin-demoblock-plus
 score: 0.1894778586750976
-stars: 28
+stars: 29
 unstable: false
 version: 1.0.6
-watchers: 28
+watchers: 29
 
 ---
 
