@@ -37,7 +37,7 @@ watchers: 4
 
 ### Hi there 👋
 
-- 🔭 I’m currently pursuing my master's degree at [GDIIST](https://www.gdiist.cn/en/) and [BHU](https://www.bnu.edu.cn/).
+- 🔭 I’m currently pursuing my PhD's degree at [GDIIST](https://www.gdiist.cn/en/) and [BHU](https://www.bnu.edu.cn/).
 - ⚡ Fun fact: Computational Neuroscience and Software Engineering.
 - 🌱 I’m actively working on improving my English language skills.
 
