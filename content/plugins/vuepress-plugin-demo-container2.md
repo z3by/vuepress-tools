@@ -31,10 +31,10 @@ publisher:
   username: py419569317
 repository: https://github.com/calebman/vuepress-plugin-demo-container
 score: 0.14915255609810665
-stars: 118
+stars: 119
 unstable: true
 version: 0.1.1
-watchers: 118
+watchers: 119
 
 ---
 
