@@ -28,10 +28,10 @@ publisher:
   username: starzkg
 repository: https://github.com/Mister-Hope/vuepress-theme-hope
 score: 0.1498945009601146
-stars: 1992
+stars: 1994
 unstable: true
 version: 1.0.0-beta.14
-watchers: 1992
+watchers: 1994
 
 ---
 
