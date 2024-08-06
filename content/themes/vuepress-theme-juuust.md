@@ -4,7 +4,7 @@ author:
   email: null
   name: leadream
   url: null
-  username: leadream
+  username: hallee9000
 bugs: https://github.com/leadream/vuepress-theme-juuust/issues
 category: themes
 date: '2019-09-03T08:02:59.912Z'
