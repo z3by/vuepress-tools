@@ -29,10 +29,10 @@ publisher:
   username: hl1223
 repository: https://github.com/vuejs/vuepress
 score: 0.14895250473421395
-stars: 22454
+stars: 22456
 unstable: true
 version: 1.0.0-alpha.30
-watchers: 22454
+watchers: 22456
 
 ---
 
