@@ -28,10 +28,10 @@ publisher:
   username: meteorlxy
 repository: https://github.com/vuepress/vuepress-next
 score: 0.6710477121660403
-stars: 2252
+stars: 2255
 unstable: false
 version: 2.0.0-alpha.1
-watchers: 2252
+watchers: 2255
 
 ---
 
@@ -48,9 +48,9 @@ Status: Release Candidate
 
 ## Documentation
 
-https://v2.vuepress.vuejs.org
+https://vuepress.vuejs.org
 
-For users from VuePress v1, please check out the [migration guide](https://v2.vuepress.vuejs.org/guide/migration.html).
+For users from VuePress v1, please check out the [migration guide](https://vuepress.vuejs.org/guide/migration.html).
 
 ## Contribution
 

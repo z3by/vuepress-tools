@@ -29,10 +29,10 @@ publisher:
   username: starzkg
 repository: https://github.com/vuepress/vuepress-next
 score: 0.5956441230359775
-stars: 2252
+stars: 2255
 unstable: true
 version: 1.0.0-beta.11
-watchers: 2252
+watchers: 2255
 
 ---
 
@@ -49,9 +49,9 @@ Status: Release Candidate
 
 ## Documentation
 
-https://v2.vuepress.vuejs.org
+https://vuepress.vuejs.org
 
-For users from VuePress v1, please check out the [migration guide](https://v2.vuepress.vuejs.org/guide/migration.html).
+For users from VuePress v1, please check out the [migration guide](https://vuepress.vuejs.org/guide/migration.html).
 
 ## Contribution
 
