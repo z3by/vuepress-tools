@@ -30,10 +30,10 @@ publisher:
   username: pengzhanbo
 repository: https://github.com/pengzhanbo/vuepress-theme-plume
 score: 0.5039656222491855
-stars: 91
+stars: 92
 unstable: true
 version: 1.0.0-beta.36
-watchers: 91
+watchers: 92
 
 ---
 
