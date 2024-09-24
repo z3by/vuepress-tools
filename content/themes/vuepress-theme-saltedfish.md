@@ -29,10 +29,10 @@ publisher:
   username: saltedfish964
 repository: https://github.com/saltedfish964/vuepress-theme-saltedfish
 score: 0.5152600007951156
-stars: 2
+stars: 1
 unstable: false
 version: 1.0.13
-watchers: 2
+watchers: 1
 
 ---
 
