@@ -32,10 +32,10 @@ publisher:
   username: john60676
 repository: https://github.com/John60676/vuepress-plugin-google-adsense2
 score: 0.4867786688549197
-stars: 7
+stars: 8
 unstable: false
 version: 1.0.2
-watchers: 7
+watchers: 8
 
 ---
 
