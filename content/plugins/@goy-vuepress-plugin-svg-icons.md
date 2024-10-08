@@ -71,8 +71,8 @@ pnpm add @goy/vuepress-plugin-svg-icons -D
 ## Usage
 
 ```js
-import { defineUserConfig } from 'vuepress'
 import { svgIconPlugin } from '@goy/vuepress-plugin-svg-icons'
+import { defineUserConfig } from 'vuepress'
 
 export default defineUserConfig({
   plugins: [svgIconPlugin()],
