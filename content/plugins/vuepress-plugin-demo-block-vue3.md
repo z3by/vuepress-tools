@@ -33,10 +33,10 @@ publisher:
   username: seepine
 repository: https://github.com/seepine/vuepress-plugin-demo-block-vue3
 score: 0.5144783856175253
-stars: 8
+stars: 7
 unstable: false
 version: 1.0.3
-watchers: 8
+watchers: 7
 
 ---
 
