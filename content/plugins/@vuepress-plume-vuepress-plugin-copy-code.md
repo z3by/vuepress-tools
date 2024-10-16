@@ -25,10 +25,10 @@ publisher:
   username: pengzhanbo
 repository: https://github.com/pengzhanbo/vuepress-theme-plume
 score: 0.49937295244701085
-stars: 107
+stars: 108
 unstable: true
 version: 1.0.0-beta.36
-watchers: 107
+watchers: 108
 
 ---
 
@@ -76,6 +76,8 @@ watchers: 107
 
 ## [使用文档](https://theme-plume.vuejs.press)
 
+QQ 交流群：[792882761](https://qm.qq.com/q/O3HNy4rxYc)
+
 ## 案例
 
 - [我的个人博客](https://pengzhanbo.cn/)
@@ -93,6 +95,8 @@ watchers: 107
 ## 贡献者
 
 感谢所有的贡献者！
+
+![GitHub contributors](https://img.shields.io/github/contributors/pengzhanbo/vuepress-theme-plume?color=32A9C3&labelColor=1B3C4A&logo=contributorcovenant)
 
 [![contributors](https://contrib.rocks/image?repo=pengzhanbo/vuepress-theme-plume)](https://github.com/pengzhanbo/vuepress-theme-plume/graphs/contributors)
 
