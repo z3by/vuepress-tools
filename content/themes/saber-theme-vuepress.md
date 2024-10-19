@@ -34,10 +34,10 @@ publisher:
   username: askcreative
 repository: https://github.com/askcreative/saber-theme-vuepress
 score: 0.4490540953815937
-stars: 5
+stars: 6
 unstable: false
 version: 1.0.6
-watchers: 5
+watchers: 6
 
 ---
 
