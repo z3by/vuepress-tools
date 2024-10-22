@@ -45,11 +45,11 @@ watchers: 6
 
 ## 安装
 
-- 在文件`package.json`中的`devDependencies`下加入`"vuepress-plugin-boxx": "0.0.7"`：
+- 在文件`package.json`中的`devDependencies`下加入`"vuepress-plugin-boxx": "1.0.0"`：
 
 ```json
 "devDependencies": {
-    "vuepress-plugin-boxx": "0.0.7"
+    "vuepress-plugin-boxx": "1.0.0"
 }
 ```
 
