@@ -30,10 +30,10 @@ publisher:
   username: vxhly
 repository: https://github.com/vxhly/vuepress-plugin-nest
 score: 0.4954279342059135
-stars: 5
+stars: 6
 unstable: false
 version: 1.0.2
-watchers: 5
+watchers: 6
 
 ---
 
