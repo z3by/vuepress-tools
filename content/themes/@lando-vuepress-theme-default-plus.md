@@ -30,10 +30,10 @@ publisher:
   username: pirog
 repository: https://github.com/lando/vuepress-theme-default-plus
 score: 0.5130974368136776
-stars: 8
+stars: 9
 unstable: true
 version: 1.0.0-beta.34
-watchers: 8
+watchers: 9
 
 ---
 
