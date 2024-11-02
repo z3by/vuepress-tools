@@ -33,10 +33,10 @@ publisher:
   username: dodo4513
 repository: https://github.com/ktquez/vuepress-theme-ktquez
 score: 0.14968665750758378
-stars: 327
+stars: 328
 unstable: true
 version: 0.2.19
-watchers: 327
+watchers: 328
 
 ---
 
