@@ -25,10 +25,10 @@ publisher:
   username: fychinesepjj
 repository: https://github.com/ulivz/vuepress-plugin-yuque
 score: 0.4234133050045503
-stars: 302
+stars: 303
 unstable: true
 version: 0.6.1
-watchers: 302
+watchers: 303
 
 ---
 

@@ -29,10 +29,10 @@ publisher:
   username: ocular-d
 repository: https://github.com/ocular-d/vuepress-plugin-anchor-toc
 score: 0.4328141899576259
-stars: 2
+stars: 3
 unstable: true
 version: 0.0.3
-watchers: 2
+watchers: 3
 
 ---
 
