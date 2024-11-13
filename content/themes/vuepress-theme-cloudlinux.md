@@ -25,10 +25,10 @@ publisher:
   username: npm
 repository: https://github.com/npm/security-holder
 score: 0.118419785288133
-stars: 157
+stars: 158
 unstable: true
 version: 0.0.1-security.5
-watchers: 157
+watchers: 158
 
 ---
 
