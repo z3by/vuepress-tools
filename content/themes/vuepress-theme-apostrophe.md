@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/12648958?v=4
+  avatar: https://avatars.githubusercontent.com/u/34460043?v=4
   email: null
   name: Apostrophe Technologies
   url: null
-  username: apostrophecms
+  username: apostrophecms-legacy
 bugs: https://github.com/apostrophecms/vuepress-theme-apostrophe/issues
 category: themes
 date: '2021-11-30T15:27:11.500Z'
