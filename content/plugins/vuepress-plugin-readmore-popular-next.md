@@ -65,7 +65,7 @@ watchers: 10
 - [x] 支持查询用户解锁文章的历史记录
 - [x] 支持自定义或者动态计算文章内容的预览高度
 - [x] 支持自定义 CSS 样式，轻松适配不同风格的博客
-- [x] 支持开放 API，灵活接入第三方私有化部署的应用服务
+- [x] 支持开放 API，灵活接入第三方私有化部署的系统服务
 
 ## 注册博客
 
@@ -175,7 +175,7 @@ module.exports = {
 | waitDomMills | Number          | 否   | `1000`                                               | -    |
 | random       | Number          | 否   | `1.0`                                                | -    |
 
-`selector` 参数的作用是指定 JS 选择器来获取文章的主体内容，若 VuePress 使用了第三方主题，则一般需要根据第三方主题来配置该参数，否则可能会导致引流工具无法生效。其中 VuePress 不同主题的配置示例如下：
+`selector` 参数的作用是指定 JS 选择器来获取文章的主体内容，若 VuePress 使用了第三方主题，则通常需要根据第三方主题来配置该参数，否则可能会导致引流工具无法生效。其中 VuePress 不同主题的配置示例如下（特别注意，随着主题的迭代开发，以下配置可能会过时失效，请根据最新的主题代码来配置）：
 
 | 主题                                                                                              | 插件配置                                | 备注         |
 | ------------------------------------------------------------------------------------------------- | --------------------------------------- | ------------ |
@@ -227,14 +227,13 @@ module.exports = {
 
 - 根据 URL 正则表达式，关闭符合规则的所有文章的引流功能
 
-
 ``` js
 module.exports = {
   plugins: [
-    readmorePlugin({
-      // 排除 URL 不以 `/fontend` 开头的文章
-      excludes: { regExp: ['^(?!\/fontend).*'] },
-    })
+    ['vuepress-plugin-readmore-popular', {
+      // 排除 URL 不以 `/php` 开头的文章
+      excludes: { regExp: ['^(?!\/php).*'] },
+    }]
   ]
 }
 ```
@@ -255,6 +254,10 @@ module.exports = {
 - 文章 URL 一旦满足 `strExp` 规则，则不会再匹配 `regExp` 规则
 - 如果希望符合 URL 排除规则的文章才添加引流工具，则可以使用 `reverse : true` 配置参数实现
 
+## 开放 API 支持
+
+若不希望依赖 TechGrow 官方提供的系统服务，可以选择使用开放 API 的方式，让引流插件直接使用私有化部署的后端系统服务，详细教程请阅读[官方文档](https://docs.techgrow.cn/v2/wechat/openapi/api/)。
+
 ## 自定义样式
 
 插件默认使用了定义在 [vuepress2.css](https://qiniu.techgrow.cn/readmore/dist/vuepress2.css) 的 CSS 样式，你可以使用以下两种方式自定义自己的样式：
@@ -264,9 +267,12 @@ module.exports = {
 
 > 提示：为了方便日后维护，强烈建议使用第二种方式来添加自定义样式
 
-## 开放 API
+## 已兼容主题
 
-若不希望依赖 TechGrow 官方提供的系统服务，可以选择使用开放 API 的方式，让引流插件直接使用私有化部署的后端应用服务，详细教程请阅读[官方文档](https://docs.techgrow.cn/v2/wechat/openapi/api/)。
+| 主题                    | GitHub 仓库                                                                                                                                  |
+| ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| @vuepress/theme-default | [https://github.com/vuepress/ecosystem/tree/main/themes/theme-default](https://github.com/vuepress/ecosystem/tree/main/themes/theme-default) |
+| vuepress-theme-hope     | [https://github.com/vuepress-theme-hope/vuepress-theme-hope](https://github.com/vuepress-theme-hope/vuepress-theme-hope)                     |
 
 ## 常见问题
 
