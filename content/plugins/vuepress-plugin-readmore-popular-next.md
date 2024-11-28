@@ -60,12 +60,14 @@ watchers: 10
 
 ## 特色功能
 
-- [x] 支持随机为博客添加引流功能
-- [x] 支持关闭某篇文章的引流功能
-- [x] 支持查询用户解锁文章的历史记录
-- [x] 支持自定义或者动态计算文章内容的预览高度
-- [x] 支持自定义 CSS 样式，轻松适配不同风格的博客
-- [x] 支持开放 API，灵活接入第三方私有化部署的系统服务
+- 兼容主流的 VuePress 主题
+- 支持随机为博客添加引流功能
+- 支持关闭某篇文章的引流功能
+- 支持微信公众号验证码解锁文章
+- 支持查询用户解锁文章的历史记录
+- 支持自定义或者动态计算文章内容的预览高度
+- 支持自定义 CSS 样式，轻松适配不同风格的博客
+- 支持开放 API，灵活接入第三方私有化部署的系统服务
 
 ## 注册博客
 
@@ -282,12 +284,9 @@ module.exports = {
 
 - [Hexo 引流插件](https://github.com/rqh656418510/hexo-readmore)
 - [VuePress v1 引流插件](https://github.com/rqh656418510/vuepress-plugin-readmore-popular)
-- [基于开放引流 API 的 Java 后端项目](https://github.com/rqh656418510/techgrow-openapi-java)
-
-## 开发计划
-
-- [ ] 支持博客的 UV、PV 统计
-- [ ] 在博客的后台管理界面中，支持博客浏览量的图表分析
+- [VuePress v2 引流插件](https://github.com/rqh656418510/vuepress-plugin-readmore-popular-next)
+- [基于开放 API 的 Java 后端引流项目](https://github.com/rqh656418510/techgrow-openapi-java)
+- [TechGrow 公众号引流工具的整合案例](https://github.com/rqh656418510/techgrow-blog-demo)
 
 ## 官方微信群
 
