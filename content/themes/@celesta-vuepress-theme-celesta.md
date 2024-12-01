@@ -35,16 +35,27 @@ watchers: 4
 
 ---
 
-### Hi there 👋
+## Hi! I'm Zexin 👋
 
-- 🔭 I’m currently pursuing my PhD's degree at [GDIIST](https://www.gdiist.cn/en/) and [BHU](https://www.bnu.edu.cn/).
+- 🔭 I’m currently pursuing my PhD's degree.
 - ⚡ Fun fact: Computational Neuroscience and Software Engineering.
-- 🌱 I’m actively working on improving my English language skills.
 
 \[[GitHub](https://github.com/yzx9)\]\[[Blog](https://yzx9.github.io/)\]
 
-[![yzx9's github stats](https://github-readme-stats-yzx9.vercel.app/api/?username=yzx9&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-[![yzx9's most used languages](https://github-readme-stats-yzx9.vercel.app/api/top-langs/?username=yzx9&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats-yzx9.vercel.app/api?username=yzx9&show_icons=true&theme=dark"
+  />
+  <source
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    srcset="https://github-readme-stats-yzx9.vercel.app/api?username=yzx9&show_icons=true&theme=default"
+  />
+  <img 
+    alt="Zexin's github stats"
+    src="https://github-readme-stats-yzx9.vercel.app/api?username=yzx9&show_icons=true"
+  />
+</picture>
 
 <!--
 **yzx9/yzx9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
