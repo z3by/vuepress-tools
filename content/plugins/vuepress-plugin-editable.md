@@ -138,21 +138,12 @@ _This is italic text_
 | name          | description          | default                |
 | ------------- | -------------------- | ---------------------- |
 | appDomain     |                      | `https://bot.veaba.me` |
-| getContentAPI |                      | `/api/content/get`     |
-| updateAPI     |                      | `/api/content/update`  |
-| redirectAPI   |                      | `/api/redirect/github` |
+| getContentAPI |                      | `/api/github/content/get`     |
+| updateAPI     |                      | `/api/github/content/update`  |
+| redirectAPI   |                      | `/api/github/auth/user` |
 | clientId      | Github APP client id | {clientId}             |
 |               |                      |                        |
 
 ## Reference
 
 - [First draft](https://github.com/vuejs/docs-next-zh-cn/discussions/377#discussioncomment-298623)
-
-## contributors
-
-
-### test1
-![veaba.svg](https://raw.githubusercontent.com/veaba/contributors/main/repos/veaba/contributors.svg)
-
-### test2
-![veaba.svg](https://raw.githubusercontent.com/veaba/contributors/main/repos/veaba/vuepress-plugin-editable.svg)
