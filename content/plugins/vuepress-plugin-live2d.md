@@ -27,10 +27,10 @@ publisher:
   username: yanjun0501
 repository: https://github.com/yanjun0501/vuepress-plugin-live2d
 score: 0.3727230778995135
-stars: 19
+stars: 20
 unstable: true
 version: 0.0.7
-watchers: 19
+watchers: 20
 
 ---
 
