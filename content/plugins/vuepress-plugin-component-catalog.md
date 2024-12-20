@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/16383815?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/16383815?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUyNjAsIm5iZiI6MTczNDY1NDA2MCwicGF0aCI6Ii91LzE2MzgzODE1In0.wGlaYUi0fN70NfqBkudUkbjJZwjWWAZmwHnpqZYHNLA&v=4
   email: make.app.ts@gmail.com
   name: mya-ake
   url: null

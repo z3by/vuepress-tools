@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/2761281?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/2761281?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUyMDAsIm5iZiI6MTczNDY1NDAwMCwicGF0aCI6Ii91LzI3NjEyODEifQ.vQqYonyF5zLirjOHTyompzPnQc19nwkOr-MFbfm97XQ&v=4
   email: brandon.liles@gmail.com
   name: Brandon Liles
   url: null

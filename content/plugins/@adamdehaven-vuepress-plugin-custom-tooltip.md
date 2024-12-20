@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/2229946?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/2229946?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU2ODAsIm5iZiI6MTczNDY1NDQ4MCwicGF0aCI6Ii91LzIyMjk5NDYifQ.7lJMdcokFS-M0tF647XibMqI3pHBqxWTSvkXrRUVIwg&v=4
   email: adam@dehaven.org
   name: Adam DeHaven
   url: https://www.adamdehaven.com/

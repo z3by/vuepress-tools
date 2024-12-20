@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/31773900?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/31773900?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU1NjAsIm5iZiI6MTczNDY1NDM2MCwicGF0aCI6Ii91LzMxNzczOTAwIn0.TtGkuWAli-lpM8ylQayUIOHd9GDz69ClNwJBU2B0S3c&v=4
   email: null
   name: Pan
   url: null

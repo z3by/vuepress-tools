@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/8433587?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/8433587?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU4MDAsIm5iZiI6MTczNDY1NDYwMCwicGF0aCI6Ii91Lzg0MzM1ODcifQ.Kp7dY4lBq2H4YzFzUN7JNGD2Szmiw3ztdTLaudXG7Q8&v=4
   email: null
   name: Peter Thaleikis
   url: https://www.releasecandidate.dev

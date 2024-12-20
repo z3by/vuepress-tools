@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/38153905?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/38153905?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU2MjAsIm5iZiI6MTczNDY1NDQyMCwicGF0aCI6Ii91LzM4MTUzOTA1In0.YKl2QwLNZqclisuj3xHAWE-QQNDJIUuO3Xx5Ino58ZM&v=4
   email: null
   name: superbiger
   url: null

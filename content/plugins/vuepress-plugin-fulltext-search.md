@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/5142323?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/5142323?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU2ODAsIm5iZiI6MTczNDY1NDQ4MCwicGF0aCI6Ii91LzUxNDIzMjMifQ.BB_T8S4yIpaiTFaO_kj-ktCUUGyR2btCSVCOOjaA1q8&v=4
   email: leonid.buneev@tirecheck.com
   name: Leonid Buneev
   url: null

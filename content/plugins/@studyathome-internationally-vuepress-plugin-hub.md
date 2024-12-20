@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/54356406?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/54356406?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU0NDAsIm5iZiI6MTczNDY1NDI0MCwicGF0aCI6Ii91LzU0MzU2NDA2In0.zwiM9x34GOZmaaYA2NA1Xfx_D7_AIkj65giIWw0oQJk&v=4
   email: sabic@technikum-wien.at
   name: Alija Sabic
   url: null

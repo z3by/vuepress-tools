@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/42113132?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/42113132?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU1MDAsIm5iZiI6MTczNDY1NDMwMCwicGF0aCI6Ii91LzQyMTEzMTMyIn0.3pkBqEe9fO1rsGFatyRhjQJGABzjpRLNwmtPw9OR3ck&v=4
   email: null
   name: Simple Analytics
   url: null

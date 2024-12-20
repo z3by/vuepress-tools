@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/64388301?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/64388301?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUzMjAsIm5iZiI6MTczNDY1NDEyMCwicGF0aCI6Ii91LzY0Mzg4MzAxIn0.Wq_yzDcwsI83wwAD-F8RFxu3Kf6eiiyCFlf9VMt8Fx0&v=4
   email: null
   name: NineSwordsMonster
   url: null

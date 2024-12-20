@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/45031678?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/45031678?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU3NDAsIm5iZiI6MTczNDY1NDU0MCwicGF0aCI6Ii91LzQ1MDMxNjc4In0.xFbY1G5eE3xJ7wdWy25WRKpLGdT2SNf86F4RiMNPx2s&v=4
   email: null
   name: huaiyugong
   url: null

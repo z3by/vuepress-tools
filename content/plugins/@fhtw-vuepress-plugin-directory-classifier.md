@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/13609768?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/13609768?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU5ODAsIm5iZiI6MTczNDY1NDc4MCwicGF0aCI6Ii91LzEzNjA5NzY4In0.nSoOWR5jCxHLdRZ_J8GHQKoPBERxwAhOshkDcU08m28&v=4
   email: sabic.alija@gmail.com
   name: Alija Sabic
   url: null

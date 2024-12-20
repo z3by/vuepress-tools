@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/3642397?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/3642397?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU4MDAsIm5iZiI6MTczNDY1NDYwMCwicGF0aCI6Ii91LzM2NDIzOTcifQ.oOc8gsFpVUbiCMQ3YRatL00_ShpedM-EYo1sOXaC0YM&v=4
   email: null
   name: Loris Leiva
   url: null

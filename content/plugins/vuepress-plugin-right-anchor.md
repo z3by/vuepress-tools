@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/49433924?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/49433924?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUwODAsIm5iZiI6MTczNDY1Mzg4MCwicGF0aCI6Ii91LzQ5NDMzOTI0In0.G3MYIC3scN3H4wEUuA4SlKgNZTHLM3azfm57GnVNpeA&v=4
   email: null
   name: xuek
   url: null

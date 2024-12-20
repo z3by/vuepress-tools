@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/31839?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/31839?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU0NDAsIm5iZiI6MTczNDY1NDI0MCwicGF0aCI6Ii91LzMxODM5In0.FzEHJeMU98KPc5HOOZLmSBvc5v7D6awC91rtSwOJ94U&v=4
   email: null
   name: Gergo Torcsvari
   url: null

@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/12078744?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/12078744?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU5MjAsIm5iZiI6MTczNDY1NDcyMCwicGF0aCI6Ii91LzEyMDc4NzQ0In0.6Pe_Wy4PYRzUKiFflmCp1e2u8R5V-jCgXEdQWsGR9ps&v=4
   email: my.t.gnq+dev@gmail.com
   name: GNQG
   url: null

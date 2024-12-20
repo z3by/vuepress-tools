@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/8137136?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/8137136?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU3NDAsIm5iZiI6MTczNDY1NDU0MCwicGF0aCI6Ii91LzgxMzcxMzYifQ.3OS9FRUuQ1RH11QmXiexEGyg0_G1fE7rzxBXNSS7Vyk&v=4
   email: null
   name: Junjie.xyz
   url: null

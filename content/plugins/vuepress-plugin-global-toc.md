@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/566536?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/566536?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU2ODAsIm5iZiI6MTczNDY1NDQ4MCwicGF0aCI6Ii91LzU2NjUzNiJ9.FK0-7_7O8L9bKKO3ERbj8mX3DgyoZU0fhsu6G5yBGm0&v=4
   email: null
   name: Sylvain Pollet-Villard
   url: null

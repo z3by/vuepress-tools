@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/12521383?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/12521383?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU4MDAsIm5iZiI6MTczNDY1NDYwMCwicGF0aCI6Ii91LzEyNTIxMzgzIn0.x0Ky3g-cBgJeVB_k_C2aUIfJNA-iL2YH9MG6d8LpjwY&v=4
   email: null
   name: mizuka.wu@outlook.com
   url: null

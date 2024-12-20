@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/72927208?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/72927208?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU2MjAsIm5iZiI6MTczNDY1NDQyMCwicGF0aCI6Ii91LzcyOTI3MjA4In0.aSyCavmC0KIL7VvIKRR7TwA8hZM_bDuk3XEbKAzyve4&v=4
   email: null
   name: alexliu518@gmail.com
   url: null

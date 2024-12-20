@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/85532421?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/85532421?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUzMjAsIm5iZiI6MTczNDY1NDEyMCwicGF0aCI6Ii91Lzg1NTMyNDIxIn0.fK2c0stmPdSSJmytuwFFO0c5N60k1LkB_P_0MrCbwq4&v=4
   email: info@greenimp.co.uk
   name: GreenImp Media
   url: http://greenimp.co.uk

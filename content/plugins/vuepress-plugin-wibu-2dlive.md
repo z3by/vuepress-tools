@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/71591953?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/71591953?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUwODAsIm5iZiI6MTczNDY1Mzg4MCwicGF0aCI6Ii91LzcxNTkxOTUzIn0.hvzEv1kiHBVI_yG832ofJRXWaKtGf5k1UOkr4Zd-6BU&v=4
   email: null
   name: "Minh Th\u1EAFng"
   url: null

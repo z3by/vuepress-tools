@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/15069983?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/15069983?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU5ODAsIm5iZiI6MTczNDY1NDc4MCwicGF0aCI6Ii91LzE1MDY5OTgzIn0.feFJcs0RAhXKeFTjuTY0eQ7gbM9ZzZySxeVVwYtF430&v=4
   email: omerbuyukcelik@gmail.com
   name: "\xD6mer B\xFCy\xFCk\xE7elik"
   url: null

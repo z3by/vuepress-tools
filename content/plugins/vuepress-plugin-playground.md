@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/8180197?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/8180197?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU1NjAsIm5iZiI6MTczNDY1NDM2MCwicGF0aCI6Ii91LzgxODAxOTcifQ.WE6Nft_mhy7S3xscaADOomP2W1ldTgE1MIOH8tElk8Q&v=4
   email: angusfu1126@qq.com
   name: wemlion
   url: null

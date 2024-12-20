@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/55663384?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/55663384?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU1NjAsIm5iZiI6MTczNDY1NDM2MCwicGF0aCI6Ii91LzU1NjYzMzg0In0.UAK7AlqgSSR7Dd8kvoYbGbfWJ46-EyOrr6ptYQRg-os&v=4
   email: caleb@getnacelle.com
   name: Caleb Bodtorf
   url: null

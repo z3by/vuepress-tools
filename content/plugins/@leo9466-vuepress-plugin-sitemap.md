@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/71742460?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/71742460?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUzMjAsIm5iZiI6MTczNDY1NDEyMCwicGF0aCI6Ii91LzcxNzQyNDYwIn0.nUEa_15rVRsSPnfaAgSNZqOBwgH_w2BcCpiEWtmh9CY&v=4
   email: liyang.ok@outlook.com
   name: leo
   url: null

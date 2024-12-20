@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/34507012?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/34507012?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUxNDAsIm5iZiI6MTczNDY1Mzk0MCwicGF0aCI6Ii91LzM0NTA3MDEyIn0.t1YH84Lf2RD5dDD6Aw10EGEZTMXfkIi4-5GY_3EntYM&v=4
   email: sanbaofeng@baijiahulian.com
   name: sanbaofeng
   url: null

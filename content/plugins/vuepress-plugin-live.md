@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/29342568?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/29342568?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU0NDAsIm5iZiI6MTczNDY1NDI0MCwicGF0aCI6Ii91LzI5MzQyNTY4In0.xVmvN8L5Yf5Z650H6ztpEdhB9XE_jCqnRx52mgDeaak&v=4
   email: null
   name: ledouxb@gmail.com
   url: null

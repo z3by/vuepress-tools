@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/48642166?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/48642166?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU2ODAsIm5iZiI6MTczNDY1NDQ4MCwicGF0aCI6Ii91LzQ4NjQyMTY2In0.I-F_t8TWbLQ2yUPyQovX_gf-c-ZUwO9cLFLoS1X4aac&v=4
   email: hi@yue.dev
   name: Justin Wang
   url: null

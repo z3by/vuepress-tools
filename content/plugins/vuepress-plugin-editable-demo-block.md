@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/20736207?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/20736207?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU0NDAsIm5iZiI6MTczNDY1NDI0MCwicGF0aCI6Ii91LzIwNzM2MjA3In0.YHhBYsZVGyfa1sv_zSujjygCySgriqywF6KU_Je6amo&v=4
   email: null
   name: Clfeng
   url: null

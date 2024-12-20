@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/48539483?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/48539483?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU0NDAsIm5iZiI6MTczNDY1NDI0MCwicGF0aCI6Ii91LzQ4NTM5NDgzIn0.r_tcTs738acRKT804yB_MCkAjWRVj2UUD3Ae6c21Upc&v=4
   email: null
   name: Starzkg
   url: null
@@ -29,10 +29,10 @@ publisher:
   username: starzkg
 repository: https://github.com/vuepress/vuepress-next
 score: 0.5956441230359775
-stars: 2388
+stars: 2390
 unstable: true
 version: 1.0.0-beta.11
-watchers: 2388
+watchers: 2390
 
 ---
 

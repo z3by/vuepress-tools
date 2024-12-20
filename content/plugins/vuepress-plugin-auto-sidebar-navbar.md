@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/20652985?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/20652985?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUzMjAsIm5iZiI6MTczNDY1NDEyMCwicGF0aCI6Ii91LzIwNjUyOTg1In0.LFF8di-vA4vFsjkeijwAyPTZj8GatJaYJIFtiouOd-Q&v=4
   email: null
   name: ouyangdan
   url: null

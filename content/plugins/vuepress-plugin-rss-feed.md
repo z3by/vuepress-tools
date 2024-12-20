@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/36102904?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/36102904?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU4MDAsIm5iZiI6MTczNDY1NDYwMCwicGF0aCI6Ii91LzM2MTAyOTA0In0.ZwVDSaewPNwAom33jseT7vpVcoNIobNsiIHQxzNb_X0&v=4
   email: bougie.liu@qq.com
   name: Bougie
   url: https://www.bougieblog.cn

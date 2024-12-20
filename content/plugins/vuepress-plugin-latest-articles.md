@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/41458459?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/41458459?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUxNDAsIm5iZiI6MTczNDY1Mzk0MCwicGF0aCI6Ii91LzQxNDU4NDU5In0.qPkMk5PHwLxk-aTNlfMFFsJ21IcG3BdZSKDKNCIDVPc&v=4
   email: yuan.zx@outlook.com
   name: Celeste
   url: null

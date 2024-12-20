@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/168372190?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/168372190?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU2ODAsIm5iZiI6MTczNDY1NDQ4MCwicGF0aCI6Ii91LzE2ODM3MjE5MCJ9.vpwN8gZEXntBUA1pqGf-UvwHhEyiuv4w4iIVEcSaXoQ&v=4
   email: null
   name: Thomas Grey
   url: null

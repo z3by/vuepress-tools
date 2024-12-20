@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/3678770?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/3678770?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU4NjAsIm5iZiI6MTczNDY1NDY2MCwicGF0aCI6Ii91LzM2Nzg3NzAifQ.MaTyhqXzqPjJ7IMD9TmtzPDCumxl7UNB0Cb-iK8tGRs&v=4
   email: christopher@padarom.xyz
   name: "Christopher M\xFChl"
   url: https://padarom.xyz

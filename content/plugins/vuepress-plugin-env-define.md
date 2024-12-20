@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/23009039?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/23009039?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUyNjAsIm5iZiI6MTczNDY1NDA2MCwicGF0aCI6Ii91LzIzMDA5MDM5In0.1PGE2R7_axg3sU1LpTR9n8deYhMYQVhJ2YYotFGl-OI&v=4
   email: null
   name: AnHyun
   url: null

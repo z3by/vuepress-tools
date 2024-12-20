@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/979071?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/979071?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU5ODAsIm5iZiI6MTczNDY1NDc4MCwicGF0aCI6Ii91Lzk3OTA3MSJ9.V66AZfqVmQ0Lcbm6P_kMzgQG9-P28-ChKP7IzY7qYOs&v=4
   email: info@sillevl.be
   name: Sille Van Landschoot
   url: null

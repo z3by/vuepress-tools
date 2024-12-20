@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/93028958?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/93028958?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU4NjAsIm5iZiI6MTczNDY1NDY2MCwicGF0aCI6Ii91LzkzMDI4OTU4In0.4Ro5iM4ltwL8-oHdtR9D-eO5v15otmgrchHhfHhD6-A&v=4
   email: 1278441339@qq.com
   name: ccy
   url: null

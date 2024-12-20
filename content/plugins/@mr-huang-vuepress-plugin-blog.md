@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/24950299?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/24950299?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU0NDAsIm5iZiI6MTczNDY1NDI0MCwicGF0aCI6Ii91LzI0OTUwMjk5In0.VI7Iw0ldYifxR5FhhKjHTuiw99ar5YPbakyNnBkFsaw&v=4
   email: null
   name: mr-huang
   url: null

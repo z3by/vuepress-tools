@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/48052588?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/48052588?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU4MDAsIm5iZiI6MTczNDY1NDYwMCwicGF0aCI6Ii91LzQ4MDUyNTg4In0.nz0afqdTaBxiJSxOvYEuuyPn0AZ2xBH24tOJ5nz2CqE&v=4
   email: null
   name: wangziweng7890
   url: null

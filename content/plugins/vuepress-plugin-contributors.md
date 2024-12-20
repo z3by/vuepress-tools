@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/10135110?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/10135110?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUzODAsIm5iZiI6MTczNDY1NDE4MCwicGF0aCI6Ii91LzEwMTM1MTEwIn0.N-DulgaUOc0aUdzorjTT8U8GahRR7EFoJMeHFO5LIAU&v=4
   email: andy@5ff.de
   name: Andreas Fischer
   url: null

@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/15627750?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/15627750?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU1NjAsIm5iZiI6MTczNDY1NDM2MCwicGF0aCI6Ii91LzE1NjI3NzUwIn0.zxKjxX-0y2-JpfamVXUAUneLh2eRFogc5-MnZkt4kqM&v=4
   email: p.skordilakis@gmail.com
   name: Panagiotis Skordilakis
   url: null

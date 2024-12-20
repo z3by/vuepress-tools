@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/20399793?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/20399793?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTQ5NjAsIm5iZiI6MTczNDY1Mzc2MCwicGF0aCI6Ii91LzIwMzk5NzkzIn0.9w6OlxrUbjXK_xI3ilM7X24gCu-m06AbMqCnctkVNwg&v=4
   email: alphawq@foxmail.com
   name: Aphasia
   url: https://github.com/alphawq

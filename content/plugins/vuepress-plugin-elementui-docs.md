@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/20984527?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/20984527?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU2ODAsIm5iZiI6MTczNDY1NDQ4MCwicGF0aCI6Ii91LzIwOTg0NTI3In0.BaMmSgeN--df1eHcq_dO8k6Pt7__wJePnL24ECFFfF8&v=4
   email: null
   name: busyrat
   url: null

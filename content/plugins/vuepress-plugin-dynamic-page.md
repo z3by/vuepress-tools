@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/8385448?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/8385448?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUyNjAsIm5iZiI6MTczNDY1NDA2MCwicGF0aCI6Ii91LzgzODU0NDgifQ.cxLRo2Rc1e8eZVCiwrtxeS7xdko5Wrko223ZgdPL3zE&v=4
   email: null
   name: HighCWu
   url: null

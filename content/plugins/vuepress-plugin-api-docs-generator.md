@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/2489210?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/2489210?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUzODAsIm5iZiI6MTczNDY1NDE4MCwicGF0aCI6Ii91LzI0ODkyMTAifQ.BXJXoq0XqKk8fw7SOu9jm3iCPL1Y_EI_gB4WQn0z_vo&v=4
   email: null
   name: evaera
   url: null

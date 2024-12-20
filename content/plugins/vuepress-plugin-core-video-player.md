@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/46474644?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/46474644?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU1NjAsIm5iZiI6MTczNDY1NDM2MCwicGF0aCI6Ii91LzQ2NDc0NjQ0In0.NwDOIq2-felRGCx0wpB3cbwfQmUlL1uQy7bSZoJ8ysE&v=4
   email: null
   name: shiguanghai
   url: null

@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/54683357?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/54683357?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUwODAsIm5iZiI6MTczNDY1Mzg4MCwicGF0aCI6Ii91LzU0NjgzMzU3In0.Wh_T2sPZ51EQ3ewzCQKD0wnG-gmNLusL5zjx-9h0ZZc&v=4
   email: zyao89@gmail.com
   name: Zyao89
   url: null

@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/14368755?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/14368755?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU2MjAsIm5iZiI6MTczNDY1NDQyMCwicGF0aCI6Ii91LzE0MzY4NzU1In0.EfsAu_c7XgQ7OK1LFXC_AvnGTzCaISDSP5xBhJVkLsE&v=4
   email: null
   name: hxdyj
   url: null

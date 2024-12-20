@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/30686223?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/30686223?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUyNjAsIm5iZiI6MTczNDY1NDA2MCwicGF0aCI6Ii91LzMwNjg2MjIzIn0.H9TOBCzaLzPRnd5aPUoXgqNgVjZDUFr-hbE_vqzk-qw&v=4
   email: howe.personal@gmail.com
   name: LiHowe
   url: null

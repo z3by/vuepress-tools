@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/24877853?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/24877853?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU3NDAsIm5iZiI6MTczNDY1NDU0MCwicGF0aCI6Ii91LzI0ODc3ODUzIn0.miKXy3QG90Uhtq-53jjajR6gHnkSCEAy0bZp5rt-_nE&v=4
   email: null
   name: xujian
   url: null

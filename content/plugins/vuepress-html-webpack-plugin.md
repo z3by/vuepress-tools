@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/4113649?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/4113649?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU3NDAsIm5iZiI6MTczNDY1NDU0MCwicGF0aCI6Ii91LzQxMTM2NDkifQ.cn4Spg_n87CYitthSIe7qfsg4cjobWFE-juz86J_CJ4&v=4
   email: charles.blaxland@gmail.com
   name: Charles Blaxland
   url: https://github.com/ampedandwired

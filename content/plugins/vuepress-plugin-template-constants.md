@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/33735047?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/33735047?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU0NDAsIm5iZiI6MTczNDY1NDI0MCwicGF0aCI6Ii91LzMzNzM1MDQ3In0.bv-J4KmEwQib6GCSuFz61pEfafvwKEamQdBja7srKS4&v=4
   email: null
   name: Justin Kimbrell
   url: null

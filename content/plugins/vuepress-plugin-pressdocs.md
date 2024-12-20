@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/237165?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/237165?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUzODAsIm5iZiI6MTczNDY1NDE4MCwicGF0aCI6Ii91LzIzNzE2NSJ9.jtID_UVZZlIt9wDcNQvR6F-1FQjeQnaVebAIh4eOQoQ&v=4
   email: efrane@meanderingsoul.com
   name: eFrane
   url: null

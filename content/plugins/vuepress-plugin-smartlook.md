@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/35178455?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/35178455?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUxNDAsIm5iZiI6MTczNDY1Mzk0MCwicGF0aCI6Ii91LzM1MTc4NDU1In0.uXK3kJJGgN6iwzbPbjVlgTbFb6xypJtKDTfHWL-fiV4&v=4
   email: milan@sulc.dev
   name: f3l1x
   url: https://f3l1x.io

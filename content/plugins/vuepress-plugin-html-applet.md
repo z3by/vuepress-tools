@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/7115690?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/7115690?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUzODAsIm5iZiI6MTczNDY1NDE4MCwicGF0aCI6Ii91LzcxMTU2OTAifQ._WlR5d1nVTjZ-p3fOu8kGOo2gKJZDbTFADM4m9fTZyw&v=4
   email: purocean@gmail.com
   name: purocean
   url: null

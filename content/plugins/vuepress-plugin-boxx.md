@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/48777072?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/48777072?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUxNDAsIm5iZiI6MTczNDY1Mzk0MCwicGF0aCI6Ii91LzQ4Nzc3MDcyIn0.9WiC2n-4y6RdqoqjSCzxBe2haWAwwPoVofWNByxKpeI&v=4
   email: zpj80231@163.com
   name: zpj80231
   url: null

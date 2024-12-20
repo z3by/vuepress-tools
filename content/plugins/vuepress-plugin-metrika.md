@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/4928316?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/4928316?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUwODAsIm5iZiI6MTczNDY1Mzg4MCwicGF0aCI6Ii91LzQ5MjgzMTYifQ.yUU0gbiwFZYgSlc9jpz9PkQw5umd_PmVShrM_RnxRwE&v=4
   email: hi@teners.me
   name: Sergey Sokolov
   url: null

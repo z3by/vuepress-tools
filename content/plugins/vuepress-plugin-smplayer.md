@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/66351566?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/66351566?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU1MDAsIm5iZiI6MTczNDY1NDMwMCwicGF0aCI6Ii91LzY2MzUxNTY2In0.xRxV4wEvhi27Qtx3Tjt7FV8Wm7k6AzNuB0NPDbB9Vf8&v=4
   email: null
   name: MonoLogueChi
   url: null

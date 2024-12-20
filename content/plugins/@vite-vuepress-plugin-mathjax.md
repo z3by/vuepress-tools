@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/36895023?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/36895023?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU2ODAsIm5iZiI6MTczNDY1NDQ4MCwicGF0aCI6Ii91LzM2ODk1MDIzIn0.aRHL1-_JucYGJgJvLs-5ymbNpyFtwtF5U5uzyG8TyBc&v=4
   email: null
   name: vitelabs
   url: null

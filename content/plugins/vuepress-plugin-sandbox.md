@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/35005637?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/35005637?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU1NjAsIm5iZiI6MTczNDY1NDM2MCwicGF0aCI6Ii91LzM1MDA1NjM3In0.AgSQWq_uWrOOXTVGT8OEPRtN1DQSleGJzW0gDw8T-8E&v=4
   email: https://github.com/2214962083
   name: yangjinming
   url: null

@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/23710354?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/23710354?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUxNDAsIm5iZiI6MTczNDY1Mzk0MCwicGF0aCI6Ii91LzIzNzEwMzU0In0.2ZU0WzauIKuZHaGo-Ebo4eBn8yfWZtdW_4NWXOkw02E&v=4
   email: null
   name: daodaolee
   url: null

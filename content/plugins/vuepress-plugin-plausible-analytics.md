@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/1981996?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/1981996?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU1NjAsIm5iZiI6MTczNDY1NDM2MCwicGF0aCI6Ii91LzE5ODE5OTYifQ.wazmkufAagQNhYO2bkfYyau0xe6szWDNI94nLwxkhKQ&v=4
   email: leo@getpop.org
   name: Leo
   url: null

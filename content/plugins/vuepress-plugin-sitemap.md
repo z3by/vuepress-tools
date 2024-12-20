@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/36023898?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/36023898?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU4MDAsIm5iZiI6MTczNDY1NDYwMCwicGF0aCI6Ii91LzM2MDIzODk4In0.93CfotdmQT5lf3xxv8D5nPgudCQM0ykQmmT7FLRU_EU&v=4
   email: ekoeryanto@gmail.com
   name: Eko Eryanto
   url: null
