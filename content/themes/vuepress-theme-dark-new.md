@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/12853597?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/12853597?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU3NDAsIm5iZiI6MTczNDY1NDU0MCwicGF0aCI6Ii91LzEyODUzNTk3In0.UbJf5vCSLqYO6QMUEeNVjs7xu7mhSxVl1-7Xff4-4XE&v=4
   email: david@hmnd.io
   name: David Roizenman
   url: null

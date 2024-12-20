@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/31116803?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/31116803?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU0NDAsIm5iZiI6MTczNDY1NDI0MCwicGF0aCI6Ii91LzMxMTE2ODAzIn0.YzVaq5VFZQRmMI_gK_23vTKOKKdXeVEM0KUTl0bnvLU&v=4
   email: null
   name: Cyan
   url: null

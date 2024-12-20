@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/30490814?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/30490814?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUzODAsIm5iZiI6MTczNDY1NDE4MCwicGF0aCI6Ii91LzMwNDkwODE0In0.kliWjjl2KxLvBnzhMcPTx2a4sQotH_YnMWNSVzfvqvU&v=4
   email: wukd@live.com
   name: Stephen Woo
   url: null

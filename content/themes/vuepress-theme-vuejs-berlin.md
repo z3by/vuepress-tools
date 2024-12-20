@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/45715831?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/45715831?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU2ODAsIm5iZiI6MTczNDY1NDQ4MCwicGF0aCI6Ii91LzQ1NzE1ODMxIn0.cQiQuCw_2uk_-NAGbAtalzevcwyfCDzDawiv2wCchds&v=4
   email: n@koehr.in
   name: koehr
   url: null

@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/16745751?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/16745751?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU2ODAsIm5iZiI6MTczNDY1NDQ4MCwicGF0aCI6Ii91LzE2NzQ1NzUxIn0._AjD-cz_EZPoN3imc6UxT68rT8oVJLlXEt6KO-E3PgM&v=4
   email: volodymyr@foxmail.com
   name: pengzhanbo
   url: null
@@ -31,10 +31,10 @@ publisher:
   username: pengzhanbo
 repository: https://github.com/pengzhanbo/vuepress-theme-plume
 score: 0.5345670141542532
-stars: 151
+stars: 152
 unstable: true
 version: 1.0.0-beta.36
-watchers: 151
+watchers: 152
 
 ---
 

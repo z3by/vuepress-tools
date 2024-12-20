@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/12009244?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/12009244?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU2MjAsIm5iZiI6MTczNDY1NDQyMCwicGF0aCI6Ii91LzEyMDA5MjQ0In0.qih1kWR3kHIGVc6hsg23I_dJATwjP7zJPH3Gjl10Kvg&v=4
   email: null
   name: ldy
   url: null

@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/43326199?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/43326199?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUyMDAsIm5iZiI6MTczNDY1NDAwMCwicGF0aCI6Ii91LzQzMzI2MTk5In0.WWOpImIhhCAulAqZKfkG1l-eiK4S9AejZX-B6MB-s_Y&v=4
   email: null
   name: Vincent Hy
   url: null

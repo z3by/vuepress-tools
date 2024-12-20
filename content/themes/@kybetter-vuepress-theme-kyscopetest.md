@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/12093502?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/12093502?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUyMDAsIm5iZiI6MTczNDY1NDAwMCwicGF0aCI6Ii91LzEyMDkzNTAyIn0.fa5n9z4tLUm6-H-nQizxzNgZAkQG03YmRTcUdW3okTE&v=4
   email: kybetter@163.com
   name: zhaoliang
   url: null

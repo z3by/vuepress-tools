@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/37999218?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/37999218?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU2ODAsIm5iZiI6MTczNDY1NDQ4MCwicGF0aCI6Ii91LzM3OTk5MjE4In0.ZIrmWKWecbcc9_E9IJXNkyOO2JJq7k4g-PwyiAD-8TM&v=4
   email: null
   name: Jabin
   url: null

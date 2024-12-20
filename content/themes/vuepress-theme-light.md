@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/17166940?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/17166940?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU3NDAsIm5iZiI6MTczNDY1NDU0MCwicGF0aCI6Ii91LzE3MTY2OTQwIn0.Wrg-PaZiqM0rhySIwyKCFWRNz_yB3jX_f9tPf4SRTxE&v=4
   email: phshy0607@outlook.com
   name: Hao Peng
   url: null

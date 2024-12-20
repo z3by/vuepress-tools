@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/18214609?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/18214609?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU1MDAsIm5iZiI6MTczNDY1NDMwMCwicGF0aCI6Ii91LzE4MjE0NjA5In0.KuOgje0FOsm9rU4LJ7N9CHckouxP5XqnAaivMs5PGdo&v=4
   email: https://github.com/konnga
   name: konnga
   url: null

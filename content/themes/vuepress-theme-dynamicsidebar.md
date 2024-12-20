@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/25088094?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/25088094?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUwODAsIm5iZiI6MTczNDY1Mzg4MCwicGF0aCI6Ii91LzI1MDg4MDk0In0.6zI2ieJTHMsmXOSIuY7AuJxUuXcFwjQliaIfwdoS9iY&v=4
   email: maxcharleswolf@gmail.com
   name: Max Wolf
   url: null

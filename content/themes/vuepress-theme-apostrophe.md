@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/34460043?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/34460043?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUzMjAsIm5iZiI6MTczNDY1NDEyMCwicGF0aCI6Ii91LzM0NDYwMDQzIn0.odvlT17XtrLbUa9UJD-fCT-R64a414r7tVvhZkm7plM&v=4
   email: null
   name: Apostrophe Technologies
   url: null

@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/48038769?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/48038769?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU2ODAsIm5iZiI6MTczNDY1NDQ4MCwicGF0aCI6Ii91LzQ4MDM4NzY5In0.Sh9TBNJcEqVZb1AsBLJVAl6y6P82SzFH8SiYH-N1uZs&v=4
   email: null
   name: Runtus
   url: null

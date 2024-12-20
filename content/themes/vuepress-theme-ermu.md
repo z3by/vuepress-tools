@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/27935613?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/27935613?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUyMDAsIm5iZiI6MTczNDY1NDAwMCwicGF0aCI6Ii91LzI3OTM1NjEzIn0.SaVCjT1VoUb3wWbzMMW9UGfmUK3UwFgKASPW5ZqWetQ&v=4
   email: xsl0420@126.com
   name: ermu
   url: null

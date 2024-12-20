@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/25794554?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/25794554?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU4MDAsIm5iZiI6MTczNDY1NDYwMCwicGF0aCI6Ii91LzI1Nzk0NTU0In0.4SDX-VQCiB4mgIsGXqD-TZPVtK-9z6tA_ZbujqOVoJY&v=4
   email: null
   name: funnycoderstar
   url: null

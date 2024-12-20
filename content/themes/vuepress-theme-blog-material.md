@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/15522311?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/15522311?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUzODAsIm5iZiI6MTczNDY1NDE4MCwicGF0aCI6Ii91LzE1NTIyMzExIn0.Q4ySroReMsu56xTEwhfwRolFg4mMOldHmlRzow9qSQw&v=4
   email: lyh543@outlook.com
   name: lyh543
   url: https://github.com/lyh543

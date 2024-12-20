@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/9658016?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/9658016?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUzMjAsIm5iZiI6MTczNDY1NDEyMCwicGF0aCI6Ii91Lzk2NTgwMTYifQ.jo0N0tw4GKuLgoEoKuFMUJF75BlHoPNyIvvBg5OE6hA&v=4
   email: null
   name: Qrac
   url: https://qrac.jp

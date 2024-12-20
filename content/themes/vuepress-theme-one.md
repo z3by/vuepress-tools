@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/6712767?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/6712767?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU3NDAsIm5iZiI6MTczNDY1NDU0MCwicGF0aCI6Ii91LzY3MTI3NjcifQ.ATf5rdKNhEyi8UQzbAEZap7MwFCLK9V4UUof3X1mnKM&v=4
   email: hwenleung@gmail.com
   name: hwen
   url: null

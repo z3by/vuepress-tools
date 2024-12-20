@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/44290508?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/44290508?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU3NDAsIm5iZiI6MTczNDY1NDU0MCwicGF0aCI6Ii91LzQ0MjkwNTA4In0.q4D7xea4FxNq73yCZFQiDOM_E-33yKejMZDWF_IIsJk&v=4
   email: mitscherlich36@gmail.com
   name: Mitscherlich
   url: null

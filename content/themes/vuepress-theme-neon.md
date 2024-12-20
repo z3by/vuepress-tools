@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/21187224?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/21187224?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUyMDAsIm5iZiI6MTczNDY1NDAwMCwicGF0aCI6Ii91LzIxMTg3MjI0In0.YBvcFodPdcJlwWJFkzMBlfzU4MMXvLpayTR_KB8rAac&v=4
   email: summer19941126@gmail.com
   name: summer1874
   url: null

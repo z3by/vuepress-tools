@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/1278794?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/1278794?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUyMDAsIm5iZiI6MTczNDY1NDAwMCwicGF0aCI6Ii91LzEyNzg3OTQifQ.7-uqePGrthke4FcM--D8V5qgXK0UP78LwF_d0_T1TSw&v=4
   email: hello@stefancosma.xyz
   name: Stefan Cosma
   url: null

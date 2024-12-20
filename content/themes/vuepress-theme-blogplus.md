@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/26371161?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/26371161?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU1MDAsIm5iZiI6MTczNDY1NDMwMCwicGF0aCI6Ii91LzI2MzcxMTYxIn0.hdUce2uFmV6qynFObVOv0J306wpgmv6R_RGkZmjEFmw&v=4
   email: null
   name: alexads@foxmail.com>
   url: null

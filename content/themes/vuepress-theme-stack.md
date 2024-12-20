@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/49359773?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/49359773?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUwMjAsIm5iZiI6MTczNDY1MzgyMCwicGF0aCI6Ii91LzQ5MzU5NzczIn0.KaPCNFdTr1Z8QyvHFazmW9ZWvfnfKHQUAvftjkdIHqw&v=4
   email: the_alex_mark@mail.ru
   name: "\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440 \u041C\u0430\u043A\
     \u0430\u0440\u043E\u0432"

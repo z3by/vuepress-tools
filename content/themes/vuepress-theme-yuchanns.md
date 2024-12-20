@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/25029451?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/25029451?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU2ODAsIm5iZiI6MTczNDY1NDQ4MCwicGF0aCI6Ii91LzI1MDI5NDUxIn0.v4UB41htA31jBJuezVflKd9UTnorI2-FPREm8EByPSk&v=4
   email: airamusume@gmail.com
   name: yuchanns
   url: null

@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/8622362?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/8622362?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU1MDAsIm5iZiI6MTczNDY1NDMwMCwicGF0aCI6Ii91Lzg2MjIzNjIifQ.WHOQV7IwTOGJvoGYWAtswwu4UI3DbsBhrnrHJwpA6gU&v=4
   email: imsqrtthree@gmail.com
   name: sqrtthree
   url: null

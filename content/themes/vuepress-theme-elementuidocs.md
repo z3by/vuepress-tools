@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/52195988?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/52195988?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU2MjAsIm5iZiI6MTczNDY1NDQyMCwicGF0aCI6Ii91LzUyMTk1OTg4In0._bRg5oRJY2y-FSenSuLF32qU_4_RIzISSdumkgikhWw&v=4
   email: null
   name: Du Fajun
   url: null

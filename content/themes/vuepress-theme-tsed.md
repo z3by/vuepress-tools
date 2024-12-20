@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/34125411?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/34125411?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTQ5NjAsIm5iZiI6MTczNDY1Mzc2MCwicGF0aCI6Ii91LzM0MTI1NDExIn0.H019PKTIlgP9Dx1ijyAJ23zj15LF7prZVExp67-T0ck&v=4
   email: null
   name: Romain Lenzotti
   url: null

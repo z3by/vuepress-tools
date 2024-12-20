@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/43475371?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/43475371?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUzODAsIm5iZiI6MTczNDY1NDE4MCwicGF0aCI6Ii91LzQzNDc1MzcxIn0.q4UHHsXggdqpwob4NUgwuE1VXXSi7Pbd3Pw7Leh2Rv8&v=4
   email: stickmyc@163.com
   name: "\u5B50\u8083"
   url: null

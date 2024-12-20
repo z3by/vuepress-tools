@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/20272484?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/20272484?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUzMjAsIm5iZiI6MTczNDY1NDEyMCwicGF0aCI6Ii91LzIwMjcyNDg0In0.ghiPLIbJuZWVyn8-1Lta0vwnqvEfJmwcHmg9hZT2ezE&v=4
   email: null
   name: chinanf-boy
   url: null

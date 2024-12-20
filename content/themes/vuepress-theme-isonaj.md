@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/10228573?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/10228573?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUyMDAsIm5iZiI6MTczNDY1NDAwMCwicGF0aCI6Ii91LzEwMjI4NTczIn0.wz5K_YPGaCm2L9fpMMy1IYeZ7zvOvXiyGkpS8BZzKHc&v=4
   email: isonaj@gmail.com
   name: Anthony Ison
   url: null

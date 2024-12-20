@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/57286975?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/57286975?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTQ5NjAsIm5iZiI6MTczNDY1Mzc2MCwicGF0aCI6Ii91LzU3Mjg2OTc1In0.ELPmtRmMJLf-pBJ60haPfoEmUB42da5ady3vBNtr0fg&v=4
   email: null
   name: cavalheiro
   url: null

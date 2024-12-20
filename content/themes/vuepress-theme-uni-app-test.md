@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/33573212?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/33573212?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU2MjAsIm5iZiI6MTczNDY1NDQyMCwicGF0aCI6Ii91LzMzNTczMjEyIn0.ilI1Bo11538K5w7i0yjvEDzZT74L3CB1porKhqlzMdQ&v=4
   email: null
   name: lxh
   url: null

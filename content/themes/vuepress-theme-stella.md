@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/32100575?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/32100575?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU1NjAsIm5iZiI6MTczNDY1NDM2MCwicGF0aCI6Ii91LzMyMTAwNTc1In0.ZnWtnluGet-yjEyJHbcgzfdiJjSNhFTue3yj3MgHZzw&v=4
   email: shuaxinjs@qq.com
   name: SHUAXINDIARY
   url: https://blog.shuaxindiary.cn/

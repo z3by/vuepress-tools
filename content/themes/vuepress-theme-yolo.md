@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/58064072?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/58064072?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUzODAsIm5iZiI6MTczNDY1NDE4MCwicGF0aCI6Ii91LzU4MDY0MDcyIn0.7IjkJKjHUhsKG4bvYjF2Jiit_hYQSiVBR3_oMXc8ATs&v=4
   email: null
   name: dshu
   url: null

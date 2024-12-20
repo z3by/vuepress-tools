@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/2796198?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/2796198?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUzODAsIm5iZiI6MTczNDY1NDE4MCwicGF0aCI6Ii91LzI3OTYxOTgifQ.EUY375V6sgpOywWvoHBJDoaoDciK3pSyiRUXXI13ADw&v=4
   email: m@ake.kr
   name: mAKEkr
   url: null

@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/55568111?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/55568111?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUwODAsIm5iZiI6MTczNDY1Mzg4MCwicGF0aCI6Ii91LzU1NTY4MTExIn0.XX1GZbF_mjnAzw7sgDObd-znJmJvP_rjigFDWUWG6fg&v=4
   email: tabsp@qq.com
   name: tabsp
   url: https://tabsp.com/

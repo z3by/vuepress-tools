@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/2500247?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/2500247?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUzMjAsIm5iZiI6MTczNDY1NDEyMCwicGF0aCI6Ii91LzI1MDAyNDcifQ._qbDJ1VLGkZVs2XPnGeaUaf8mrQrIV9Nqqu0J0C2EN8&v=4
   email: Gerhut@GMail.com
   name: George Cheng
   url: null

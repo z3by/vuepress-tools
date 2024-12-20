@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/49757965?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/49757965?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU2ODAsIm5iZiI6MTczNDY1NDQ4MCwicGF0aCI6Ii91LzQ5NzU3OTY1In0.K7JpAyrX1VIqOyx11F8ItKXTD2j2Luh1QhMVRx-Cz60&v=4
   email: null
   name: Feng L.H.
   url: null

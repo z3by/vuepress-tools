@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/35592403?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/35592403?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU4MDAsIm5iZiI6MTczNDY1NDYwMCwicGF0aCI6Ii91LzM1NTkyNDAzIn0.tXGePtI7n636cIEmfzfqfoP3wOrnQqKJEm36P9DL-RY&v=4
   email: 1962421071@qq.com
   name: zhhlwd
   url: null

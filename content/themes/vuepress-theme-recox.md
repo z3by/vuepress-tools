@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/38303418?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/38303418?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUwMjAsIm5iZiI6MTczNDY1MzgyMCwicGF0aCI6Ii91LzM4MzAzNDE4In0.6a5lp65Acg1yvCWrH_fWPTaxk4PcxeVv30dcJ-VsfH4&v=4
   email: null
   name: shadowfish07
   url: null

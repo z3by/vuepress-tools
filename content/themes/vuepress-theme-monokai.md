@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/629055?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/629055?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU1NjAsIm5iZiI6MTczNDY1NDM2MCwicGF0aCI6Ii91LzYyOTA1NSJ9.H8aAVO30HtLJDOwx3Q1eSKzjNh6izBz5SeMTzUV3zzc&v=4
   email: kevincobain2000@gmail.com
   name: kevincobain2000
   url: null

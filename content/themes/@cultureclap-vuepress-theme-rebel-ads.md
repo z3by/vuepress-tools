@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/49349349?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/49349349?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUyNjAsIm5iZiI6MTczNDY1NDA2MCwicGF0aCI6Ii91LzQ5MzQ5MzQ5In0.CPKCgUJ_OJxX0w-4LtH1DO8UeEyaDDiXmAceJ8msFjo&v=4
   email: null
   name: Culture Clap
   url: null

@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/25994733?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/25994733?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU1NjAsIm5iZiI6MTczNDY1NDM2MCwicGF0aCI6Ii91LzI1OTk0NzMzIn0.74FK6ZxqlX_8QMdD_6_e71Eimle8BHnZxt6oq3rkAjs&v=4
   email: dong550293874@163.com
   name: liulixin
   url: null

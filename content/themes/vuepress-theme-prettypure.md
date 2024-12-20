@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/4105970?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/4105970?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU2MjAsIm5iZiI6MTczNDY1NDQyMCwicGF0aCI6Ii91LzQxMDU5NzAifQ.cbUe0nP2J4Q2wOB14iVLdKVdMm4o4cqPCCXblOj6SSU&v=4
   email: null
   name: HK Chen
   url: null

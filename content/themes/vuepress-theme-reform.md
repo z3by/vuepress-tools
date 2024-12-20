@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/24218764?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/24218764?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU1NjAsIm5iZiI6MTczNDY1NDM2MCwicGF0aCI6Ii91LzI0MjE4NzY0In0.nm7xIinbVw8DCmt2UuoECXqV2Mi0t7NeDIlVJukyApo&v=4
   email: null
   name: JSShou
   url: null

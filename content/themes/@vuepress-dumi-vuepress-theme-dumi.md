@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/16408157?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/16408157?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUwMjAsIm5iZiI6MTczNDY1MzgyMCwicGF0aCI6Ii91LzE2NDA4MTU3In0.ggAeSCIP0wFxYIpV2gJmP57rmHUVpUURh89jdmvhGiA&v=4
   email: orekish@163.com
   name: OrekiSH
   url: null

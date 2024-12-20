@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/77988340?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/77988340?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTQ5MDAsIm5iZiI6MTczNDY1MzcwMCwicGF0aCI6Ii91Lzc3OTg4MzQwIn0.izBepuO-No54w6YYvxsppwcTvXz6TwzOD1PfqsPam8s&v=4
   email: null
   name: "J\xE9r\xE9my LAMBERT"
   url: System-Glitch

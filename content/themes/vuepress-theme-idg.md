@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/14358159?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/14358159?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUxNDAsIm5iZiI6MTczNDY1Mzk0MCwicGF0aCI6Ii91LzE0MzU4MTU5In0.RVy5ZpfFhDbx1B5lrd4VGZXy2kJk4iybVpI2DZ0PpXA&v=4
   email: evildoer_laura@hotmail.com
   name: evildoerX
   url: null

@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/20850932?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/20850932?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU1MDAsIm5iZiI6MTczNDY1NDMwMCwicGF0aCI6Ii91LzIwODUwOTMyIn0.-lzvq4oIrTOtlP5l2YNs-tdfwLZAlV9UMTKYbtUj6KY&v=4
   email: null
   name: zhangximufeng
   url: null

@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/16255180?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/16255180?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUzODAsIm5iZiI6MTczNDY1NDE4MCwicGF0aCI6Ii91LzE2MjU1MTgwIn0.gSDpcLDfTuJuaSeoEDa9sOpK4DM4RHZFVtUsOjBr-2E&v=4
   email: olivier.parent@arteveldehs.be
   name: Olivier Parent
   url: null

@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/1093590?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/1093590?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU4MDAsIm5iZiI6MTczNDY1NDYwMCwicGF0aCI6Ii91LzEwOTM1OTAifQ.S7qxkxuhkrUrINccgJP5vCf3x3xUl0rDx5Wav-ylBBY&v=4
   email: rashfael@isobeef.org
   name: rashfael
   url: null

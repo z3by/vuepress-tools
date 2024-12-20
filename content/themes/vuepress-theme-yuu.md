@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/13043871?v=4
+  avatar: https://private-avatars.githubusercontent.com/u/13043871?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU1NjAsIm5iZiI6MTczNDY1NDM2MCwicGF0aCI6Ii91LzEzMDQzODcxIn0.NLp8ygP4_9mLlIeBE-5uY_g2uu82lbzxhhFx7xS6rfM&v=4
   email: sanc.pw@gmail.com
   name: Sanctuary
   url: null
