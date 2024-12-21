@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/33423008?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU4MDAsIm5iZiI6MTczNDY1NDYwMCwicGF0aCI6Ii91LzMzNDIzMDA4In0.lK28VF3r3saNG5fwoIUGtm3K0cfa9sXC6cG1DFlxAQc&v=4
+  avatar: https://avatars.githubusercontent.com/u/33423008?v=4
   email: 1700011071@pku.edu.cn
   name: Shigma
   url: null

@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/2064609?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUxNDAsIm5iZiI6MTczNDY1Mzk0MCwicGF0aCI6Ii91LzIwNjQ2MDkifQ.sDxD5baGmfWSe2-iTHeGRKTw4c7wxEASEOQRy5yMmhA&v=4
+  avatar: https://avatars.githubusercontent.com/u/2064609?v=4
   email: null
   name: Ludovic Dehon
   url: null

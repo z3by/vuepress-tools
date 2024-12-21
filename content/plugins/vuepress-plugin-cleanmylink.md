@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/13283837?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU1NjAsIm5iZiI6MTczNDY1NDM2MCwicGF0aCI6Ii91LzEzMjgzODM3In0.pbEy5QEyaH62w0ODgU5XpYvbAuOTsLsIumYD9WqLXUw&v=4
+  avatar: https://avatars.githubusercontent.com/u/13283837?v=4
   email: null
   name: Bestony
   url: null

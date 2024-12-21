@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/16508807?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUzODAsIm5iZiI6MTczNDY1NDE4MCwicGF0aCI6Ii91LzE2NTA4ODA3In0.UWkn9JXJgT_I5wT48Uvsmw7CuOju3qUfjWa9wSYWyPc&v=4
+  avatar: https://avatars.githubusercontent.com/u/16508807?v=4
   email: null
   name: Yosuke Ota
   url: null

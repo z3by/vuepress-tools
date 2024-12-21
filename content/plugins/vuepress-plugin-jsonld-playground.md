@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/6525873?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUzODAsIm5iZiI6MTczNDY1NDE4MCwicGF0aCI6Ii91LzY1MjU4NzMifQ.xoCjUSF9_HVR5QVeUqTWYBJmzLYEtlT0uxhKHhvpnd8&v=4
+  avatar: https://avatars.githubusercontent.com/u/6525873?v=4
   email: null
   name: Andreas Martin
   url: null

@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/8151143?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUwMjAsIm5iZiI6MTczNDY1MzgyMCwicGF0aCI6Ii91LzgxNTExNDMifQ.sF2wJq__6uT6Hoqj6PWV0BZmIz_NE2EJ5f-wJScCCdY&v=4
+  avatar: https://avatars.githubusercontent.com/u/8151143?v=4
   email: null
   name: Vittorio Minacori
   url: null

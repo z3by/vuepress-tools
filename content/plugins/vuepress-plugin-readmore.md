@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/25076543?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU5ODAsIm5iZiI6MTczNDY1NDc4MCwicGF0aCI6Ii91LzI1MDc2NTQzIn0.L3j__d6L0ds7FBWxc09FpqMte2xaGtnkrKeyPDyHJb0&v=4
+  avatar: https://avatars.githubusercontent.com/u/25076543?v=4
   email: null
   name: "\u968F\u7B14\u5DDD\u8FF9 itclancoder \u7AD9\u70B9:http://itclan.cn/"
   url: null

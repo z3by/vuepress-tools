@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/29174209?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU5MjAsIm5iZiI6MTczNDY1NDcyMCwicGF0aCI6Ii91LzI5MTc0MjA5In0.XLRokxEzq37ceRqUh7X1ptlosfzpnJelp6gCoxgXeeQ&v=4
+  avatar: https://avatars.githubusercontent.com/u/29174209?v=4
   email: null
   name: SangND
   url: null

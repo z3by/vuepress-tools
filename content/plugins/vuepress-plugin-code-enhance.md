@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/29454156?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTQ5MDAsIm5iZiI6MTczNDY1MzcwMCwicGF0aCI6Ii91LzI5NDU0MTU2In0.goCjol8TcVxHVmU62ec-kWBlr2F5y1PzYJ9kMjIWH0A&v=4
+  avatar: https://avatars.githubusercontent.com/u/29454156?v=4
   email: renovamenzxh@gmail.com
   name: Renovamen
   url: null

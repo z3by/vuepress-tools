@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/19297757?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUyNjAsIm5iZiI6MTczNDY1NDA2MCwicGF0aCI6Ii91LzE5Mjk3NzU3In0.humNWtfUEQ8WWJcSQwWLOrXIWjhhs3zq4Q8RF7bs4RY&v=4
+  avatar: https://avatars.githubusercontent.com/u/19297757?v=4
   email: 1098626505@qq.com
   name: zhangchaojie
   url: null

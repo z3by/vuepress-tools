@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/24647774?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU3NDAsIm5iZiI6MTczNDY1NDU0MCwicGF0aCI6Ii91LzI0NjQ3Nzc0In0.w0iVmgZszV2-WM9emHg7Qx-KM5tMyFCItRSZCPyugjk&v=4
+  avatar: https://avatars.githubusercontent.com/u/24647774?v=4
   email: null
   name: Tsz Lam
   url: null

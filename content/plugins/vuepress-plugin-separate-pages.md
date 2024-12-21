@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/4111136?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUxNDAsIm5iZiI6MTczNDY1Mzk0MCwicGF0aCI6Ii91LzQxMTExMzYifQ.9lI1oSOsulGv6FnP_1kVkLcRtWTKuyLaGuCqB4vHXaU&v=4
+  avatar: https://avatars.githubusercontent.com/u/4111136?v=4
   email: null
   name: Azamat Sarsenbayev
   url: null

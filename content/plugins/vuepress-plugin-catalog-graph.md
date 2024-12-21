@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/27280733?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUxNDAsIm5iZiI6MTczNDY1Mzk0MCwicGF0aCI6Ii91LzI3MjgwNzMzIn0.Nj5vZhc_ZVKwdzhay4FhKwAQ_eCMFGSdJME6hZl-nlA&v=4
+  avatar: https://avatars.githubusercontent.com/u/27280733?v=4
   email: ludanxer@icloud.com
   name: ludanxer
   url: null

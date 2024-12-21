@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/11334289?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU1NjAsIm5iZiI6MTczNDY1NDM2MCwicGF0aCI6Ii91LzExMzM0Mjg5In0.V3ejgy0qpbwnR8Vzj-0gA7lhslZIO-kPL87OAHE9Ie4&v=4
+  avatar: https://avatars.githubusercontent.com/u/11334289?v=4
   email: dgpgdev@gmail.com
   name: Gauthier de Girodon Pralong
   url: null

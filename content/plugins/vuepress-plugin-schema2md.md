@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/58433797?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU2MjAsIm5iZiI6MTczNDY1NDQyMCwicGF0aCI6Ii91LzU4NDMzNzk3In0.pxbsW2JQo_1JuX1oetgE8C3VURhKegLeZEomacdkpCQ&v=4
+  avatar: https://avatars.githubusercontent.com/u/58433797?v=4
   email: chl814@foxmail.com
   name: ulivz
   url: null

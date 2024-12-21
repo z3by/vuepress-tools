@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/4708070?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUxNDAsIm5iZiI6MTczNDY1Mzk0MCwicGF0aCI6Ii91LzQ3MDgwNzAifQ.woXwN_4Oj5F-FE4L_MjzZuskUFSYdwUhpZS_yiEYNLA&v=4
+  avatar: https://avatars.githubusercontent.com/u/4708070?v=4
   email: thomas@venturini.codes
   name: Thomas Venturini
   url: null

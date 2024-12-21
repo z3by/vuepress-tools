@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/34917927?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU0NDAsIm5iZiI6MTczNDY1NDI0MCwicGF0aCI6Ii91LzM0OTE3OTI3In0.7205bSojxDHmajTD6CLHXExBOg4uYzAIYCD2-gSYou0&v=4
+  avatar: https://avatars.githubusercontent.com/u/34917927?v=4
   email: null
   name: xitice
   url: null

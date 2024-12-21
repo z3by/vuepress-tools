@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/890963?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU1NjAsIm5iZiI6MTczNDY1NDM2MCwicGF0aCI6Ii91Lzg5MDk2MyJ9.ClD6b8jaz2MmtvW9RbRRkoz4fhXUXDj4wjRJx9UAgUQ&v=4
+  avatar: https://avatars.githubusercontent.com/u/890963?v=4
   email: me@dovy.io
   name: Dovy
   url: null

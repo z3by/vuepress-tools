@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/56751617?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU0NDAsIm5iZiI6MTczNDY1NDI0MCwicGF0aCI6Ii91LzU2NzUxNjE3In0.g8P7wNVB5V7C_HGrtnKg0pxoLU3ZOMly8jYzybbVV-Q&v=4
+  avatar: https://avatars.githubusercontent.com/u/56751617?v=4
   email: wyw.s@foxmail.com
   name: wywei
   url: null

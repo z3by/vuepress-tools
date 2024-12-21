@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/12245095?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU2ODAsIm5iZiI6MTczNDY1NDQ4MCwicGF0aCI6Ii91LzEyMjQ1MDk1In0.RqWGiDBJuDwB-WI1XrBz-HuZLpnfL5JHnkEU2qHdZD8&v=4
+  avatar: https://avatars.githubusercontent.com/u/12245095?v=4
   email: null
   name: linjhon
   url: null

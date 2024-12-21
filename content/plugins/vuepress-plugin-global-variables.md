@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/26066123?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU4MDAsIm5iZiI6MTczNDY1NDYwMCwicGF0aCI6Ii91LzI2MDY2MTIzIn0.6QFs7QIQ1fqs0oGLTbO0waTW9aKHC23sREWtXw_bGNw&v=4
+  avatar: https://avatars.githubusercontent.com/u/26066123?v=4
   email: null
   name: "Artur M\u0119dryga\u0142"
   url: null

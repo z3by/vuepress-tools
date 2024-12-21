@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/6118824?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUxNDAsIm5iZiI6MTczNDY1Mzk0MCwicGF0aCI6Ii91LzYxMTg4MjQifQ.GRFWMgkd2cfWgBz7sO-Hz6QHIzuzWa12rGLMkIv9mvM&v=4
+  avatar: https://avatars.githubusercontent.com/u/6118824?v=4
   email: null
   name: xiaoluoboding
   url: null

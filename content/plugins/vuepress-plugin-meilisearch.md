@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/43250847?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUzMjAsIm5iZiI6MTczNDY1NDEyMCwicGF0aCI6Ii91LzQzMjUwODQ3In0.4BAd8jp_GlPTuJ8cqw0Y6uJJ6A7scauC4U0uzOU7yYY&v=4
+  avatar: https://avatars.githubusercontent.com/u/43250847?v=4
   email: clementine@meilisearch.com
   name: "Cl\xE9mentine Urquizar"
   url: null

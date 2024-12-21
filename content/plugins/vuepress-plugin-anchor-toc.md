@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/51355349?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU3NDAsIm5iZiI6MTczNDY1NDU0MCwicGF0aCI6Ii91LzUxMzU1MzQ5In0.K0HJxL_WjuOxwK1_u_LSwK2oulv9IQZMxaOTWIiY7yk&v=4
+  avatar: https://avatars.githubusercontent.com/u/51355349?v=4
   email: sven@ocular-d.tech
   name: ocular-d
   url: https://ocular-d.tech

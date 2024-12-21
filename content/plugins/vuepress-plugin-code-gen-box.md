@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/16357724?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUxNDAsIm5iZiI6MTczNDY1Mzk0MCwicGF0aCI6Ii91LzE2MzU3NzI0In0.m0o5jJ1ttpRvH26shrV2T_npsodKSwiSoO3p0xOPxoE&v=4
+  avatar: https://avatars.githubusercontent.com/u/16357724?v=4
   email: null
   name: falstack
   url: null

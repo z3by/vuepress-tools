@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/49332985?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU1NjAsIm5iZiI6MTczNDY1NDM2MCwicGF0aCI6Ii91LzQ5MzMyOTg1In0.rFZk87XMt7nxdtlbSRzsxEzDN7FD6muef_xuq3Kj8Uc&v=4
+  avatar: https://avatars.githubusercontent.com/u/49332985?v=4
   email: srcrszhu@gmail.com
   name: srcrs
   url: null

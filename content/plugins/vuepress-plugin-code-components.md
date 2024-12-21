@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/8417241?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU0NDAsIm5iZiI6MTczNDY1NDI0MCwicGF0aCI6Ii91Lzg0MTcyNDEifQ.XNq-vzivlVjfE08-soSFAMkj609DO_yJE9qCZEXI2d8&v=4
+  avatar: https://avatars.githubusercontent.com/u/8417241?v=4
   email: null
   name: renzhsh
   url: null

@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/27122409?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUzODAsIm5iZiI6MTczNDY1NDE4MCwicGF0aCI6Ii91LzI3MTIyNDA5In0.LS9FcmryhPmPzX2Mktequghl74IIYc-fm6AisJRPvd8&v=4
+  avatar: https://avatars.githubusercontent.com/u/27122409?v=4
   email: 864299347@qq.com
   name: shanyuhai123
   url: null

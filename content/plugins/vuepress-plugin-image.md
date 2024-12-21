@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/12029165?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUyMDAsIm5iZiI6MTczNDY1NDAwMCwicGF0aCI6Ii91LzEyMDI5MTY1In0.EA33I0peN4J0D3jikTOG8tYsQRtK4aouglUjk115_Lg&v=4
+  avatar: https://avatars.githubusercontent.com/u/12029165?v=4
   email: null
   name: tangxiaomi
   url: null

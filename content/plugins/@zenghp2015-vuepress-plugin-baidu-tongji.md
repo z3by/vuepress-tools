@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/79316040?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUzMjAsIm5iZiI6MTczNDY1NDEyMCwicGF0aCI6Ii91Lzc5MzE2MDQwIn0.zxGoVGWv4oqLtFDDi-yycePyEQTIsuf2MnQ54h2OPzY&v=4
+  avatar: https://avatars.githubusercontent.com/u/79316040?v=4
   email: zenghp2015@gmail.com
   name: Zero2015
   url: null

@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/25240064?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU1MDAsIm5iZiI6MTczNDY1NDMwMCwicGF0aCI6Ii91LzI1MjQwMDY0In0.GwYqIxpGfXt8D2tcArird_nAaV7p_7UODLdOVTgoXyA&v=4
+  avatar: https://avatars.githubusercontent.com/u/25240064?v=4
   email: 2434387555@qq.com
   name: JoeyBling
   url: https://zhousiwei.gitee.io

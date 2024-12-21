@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/8642?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUxNDAsIm5iZiI6MTczNDY1Mzk0MCwicGF0aCI6Ii91Lzg2NDIifQ.M4JNxkc3w-H8ipApbxvc8YKgAbhTuAoYMS1NK-zNsJw&v=4
+  avatar: https://avatars.githubusercontent.com/u/8642?v=4
   email: awwaiid@thelackthereof.org
   name: Brock Wilcox
   url: null

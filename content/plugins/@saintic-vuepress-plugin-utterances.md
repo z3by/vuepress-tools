@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/10270930?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUyNjAsIm5iZiI6MTczNDY1NDA2MCwicGF0aCI6Ii91LzEwMjcwOTMwIn0.hVkEgg3YtXv6bO8d75h-sKgn05XrnxFUe3KicwnD54M&v=4
+  avatar: https://avatars.githubusercontent.com/u/10270930?v=4
   email: me@tcw.im
   name: staugur
   url: null

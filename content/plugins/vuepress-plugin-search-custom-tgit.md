@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/6128107?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTYwNDAsIm5iZiI6MTczNDY1NDg0MCwicGF0aCI6Ii91LzYxMjgxMDcifQ.mFA0qQIgZiGShoVIUO3ZZTSuHoCL6buk_vGphf393_8&v=4
+  avatar: https://avatars.githubusercontent.com/u/6128107?v=4
   email: keyu98@qq.com
   name: keyu
   url: null
@@ -29,10 +29,10 @@ publisher:
   username: kylezhao
 repository: https://github.com/vuejs/vuepress
 score: 0.1792685295663744
-stars: 22619
+stars: 22617
 unstable: false
 version: 1.0.6
-watchers: 22619
+watchers: 22617
 
 ---
 

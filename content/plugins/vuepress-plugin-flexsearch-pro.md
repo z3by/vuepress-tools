@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/43390827?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU4MDAsIm5iZiI6MTczNDY1NDYwMCwicGF0aCI6Ii91LzQzMzkwODI3In0.Ib4MkoytkEKpDjnrgf-XhW06QFL2kstOsyr-Lj5AQ_A&v=4
+  avatar: https://avatars.githubusercontent.com/u/43390827?v=4
   email: null
   name: null
   url: null

@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/5064777?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU0NDAsIm5iZiI6MTczNDY1NDI0MCwicGF0aCI6Ii91LzUwNjQ3NzcifQ.CvlJz52mwgNvPWaKpjwcj5OYpSeAH8ZgzpVJce2rDQI&v=4
+  avatar: https://avatars.githubusercontent.com/u/5064777?v=4
   email: 16viko@gmail.com
   name: viko16
   url: null

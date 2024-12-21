@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/12797966?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUyMDAsIm5iZiI6MTczNDY1NDAwMCwicGF0aCI6Ii91LzEyNzk3OTY2In0.aHKAA0_biQySalXmoS0chXdGub3x1x58HaOcEFL2NrI&v=4
+  avatar: https://avatars.githubusercontent.com/u/12797966?v=4
   email: a495008890@live.com
   name: gezihuzi
   url: null

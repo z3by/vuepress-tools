@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/85702?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUyMDAsIm5iZiI6MTczNDY1NDAwMCwicGF0aCI6Ii91Lzg1NzAyIn0.1bJggp6aZW9oS5RKXZURPurEN746VT5enEf3qcTEAkA&v=4
+  avatar: https://avatars.githubusercontent.com/u/85702?v=4
   email: null
   name: monsat
   url: null

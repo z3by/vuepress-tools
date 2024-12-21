@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/8063914?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU2MjAsIm5iZiI6MTczNDY1NDQyMCwicGF0aCI6Ii91LzgwNjM5MTQifQ.2RHsIgQUtaqn9umU8cdt-01UacZHXbdTcPDdnWDRhV8&v=4
+  avatar: https://avatars.githubusercontent.com/u/8063914?v=4
   email: null
   name: llqgit
   url: null

@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/15191056?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUyNjAsIm5iZiI6MTczNDY1NDA2MCwicGF0aCI6Ii91LzE1MTkxMDU2In0.wdzIR1se-dV0wWBsAXtDLXDGGpoRub_YMTpiYv2EMWQ&v=4
+  avatar: https://avatars.githubusercontent.com/u/15191056?v=4
   email: null
   name: jardenliu
   url: null

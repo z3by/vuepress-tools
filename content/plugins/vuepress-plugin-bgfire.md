@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/25003088?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU5MjAsIm5iZiI6MTczNDY1NDcyMCwicGF0aCI6Ii91LzI1MDAzMDg4In0.g88xQb02k6ugEMKd5kNmz8r-V4jWXcYqILiRVNCzahk&v=4
+  avatar: https://avatars.githubusercontent.com/u/25003088?v=4
   email: null
   name: laughing
   url: null

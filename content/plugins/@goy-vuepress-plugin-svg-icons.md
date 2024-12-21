@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/22659150?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUwODAsIm5iZiI6MTczNDY1Mzg4MCwicGF0aCI6Ii91LzIyNjU5MTUwIn0.lDb0VuSBH9_1slQSGFu62ScOaOl5agfsH96DMRWJLD0&v=4
+  avatar: https://avatars.githubusercontent.com/u/22659150?v=4
   email: ntnyq13@gmail.com
   name: ntnyq
   url: null

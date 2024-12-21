@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/7467891?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU5MjAsIm5iZiI6MTczNDY1NDcyMCwicGF0aCI6Ii91Lzc0Njc4OTEifQ.9BxdZEqs2Oca8yTO8p86CiJqjOiCpyq56cUWC_fDKjo&v=4
+  avatar: https://avatars.githubusercontent.com/u/7467891?v=4
   email: me@diogotc.com
   name: Diogo Correia
   url: null

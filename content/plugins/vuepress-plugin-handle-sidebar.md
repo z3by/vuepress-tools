@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/52391595?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUyNjAsIm5iZiI6MTczNDY1NDA2MCwicGF0aCI6Ii91LzUyMzkxNTk1In0.yL1dmD-Rm0mK-0J8Lq4U9mYotIrZKDD52u_fev-HYTw&v=4
+  avatar: https://avatars.githubusercontent.com/u/52391595?v=4
   email: 984584014@qq.com
   name: LiuYang
   url: https://github.com/web-liuyang

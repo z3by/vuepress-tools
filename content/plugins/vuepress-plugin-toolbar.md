@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/11927113?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUxNDAsIm5iZiI6MTczNDY1Mzk0MCwicGF0aCI6Ii91LzExOTI3MTEzIn0.XeA3fm0ba-7pF2qnYGT3srkA6JnmOsihhDrbX3vX-4g&v=4
+  avatar: https://avatars.githubusercontent.com/u/11927113?v=4
   email: 99299684@qq.com
   name: mrcode
   url: null

@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/67640197?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU5MjAsIm5iZiI6MTczNDY1NDcyMCwicGF0aCI6Ii91LzY3NjQwMTk3In0.ff5HOCCwQtiKL0RmIqxQdeuaV03nW-Uol28ky7JsMvI&v=4
+  avatar: https://avatars.githubusercontent.com/u/67640197?v=4
   email: null
   name: Il Harper
   url: null

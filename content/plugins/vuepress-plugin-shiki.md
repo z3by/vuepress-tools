@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/69196822?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU2MjAsIm5iZiI6MTczNDY1NDQyMCwicGF0aCI6Ii91LzY5MTk2ODIyIn0.vAvpbfMtg1xf5B-FMktHMMuAWshCMpLT4KPW2jmGbsc&v=4
+  avatar: https://avatars.githubusercontent.com/u/69196822?v=4
   email: octref@gmail.com
   name: Pine Wu
   url: null
@@ -30,10 +30,10 @@ publisher:
   username: octref
 repository: https://github.com/octref/shiki
 score: 0.6373112800361818
-stars: 10515
+stars: 10520
 unstable: true
 version: 0.10.1
-watchers: 10515
+watchers: 10520
 
 ---
 

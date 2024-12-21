@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/30315743?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUxNDAsIm5iZiI6MTczNDY1Mzk0MCwicGF0aCI6Ii91LzMwMzE1NzQzIn0.VKuoaI1G0RnRPSEs40jeWoZcq-iSwEgmBEPB5K0P0j4&v=4
+  avatar: https://avatars.githubusercontent.com/u/30315743?v=4
   email: geniuslim27@gmail.com
   name: limdongjin
   url: null

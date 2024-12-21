@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/17541209?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU1MDAsIm5iZiI6MTczNDY1NDMwMCwicGF0aCI6Ii91LzE3NTQxMjA5In0.JY8n2W7lysVHkAt5ccHQYoA4htE7bJmiPEh-jAvcHIk&v=4
+  avatar: https://avatars.githubusercontent.com/u/17541209?v=4
   email: aster@vers.site
   name: Aster
   url: null

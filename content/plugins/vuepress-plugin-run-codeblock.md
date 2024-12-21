@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/24841685?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUzODAsIm5iZiI6MTczNDY1NDE4MCwicGF0aCI6Ii91LzI0ODQxNjg1In0.YWyWpgYTG6Eez405E9nnhTZcEPBkmeuQQF-M352mmA8&v=4
+  avatar: https://avatars.githubusercontent.com/u/24841685?v=4
   email: qinwencheng719@gmail.com
   name: qinwencheng
   url: null

@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/21354589?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUyNjAsIm5iZiI6MTczNDY1NDA2MCwicGF0aCI6Ii91LzIxMzU0NTg5In0.c4mPRCW59JZxgkTMxrYGt1F_fBUdXrrOCR8E-4MiuL8&v=4
+  avatar: https://avatars.githubusercontent.com/u/21354589?v=4
   email: null
   name: wangyonghao
   url: null

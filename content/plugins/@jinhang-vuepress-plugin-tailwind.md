@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/13505593?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUyMDAsIm5iZiI6MTczNDY1NDAwMCwicGF0aCI6Ii91LzEzNTA1NTkzIn0.tNG7_sUfzE_zA6CRC-0cSy9q_TFR5ZrfR_lhaxk8_wc&v=4
+  avatar: https://avatars.githubusercontent.com/u/13505593?v=4
   email: jinhang87@163.com
   name: jinhang
   url: https://github.com/jinhang87

@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/1561347?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU2MjAsIm5iZiI6MTczNDY1NDQyMCwicGF0aCI6Ii91LzE1NjEzNDcifQ.RoVfSb4MGowK_znRtP8zXlQ-QbzMQA8NUBREqPXuGG0&v=4
+  avatar: https://avatars.githubusercontent.com/u/1561347?v=4
   email: luiz.vinicius73@gmail.com
   name: Vinicius Reis
   url: null

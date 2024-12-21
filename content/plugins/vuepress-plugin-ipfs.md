@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/106938?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU5ODAsIm5iZiI6MTczNDY1NDc4MCwicGF0aCI6Ii91LzEwNjkzOCJ9.uwZo-JRLyegCKOypl4bY-FRJyAjlzuhLZMkmGuD7TW8&v=4
+  avatar: https://avatars.githubusercontent.com/u/106938?v=4
   email: null
   name: '@cwaring'
   url: null

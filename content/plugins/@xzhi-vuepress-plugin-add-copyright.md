@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/25785330?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU0NDAsIm5iZiI6MTczNDY1NDI0MCwicGF0aCI6Ii91LzI1Nzg1MzMwIn0.cqCGWz7muIYZ_buq8GeNpb8nWNwYrAmq96gHQ_fLKlQ&v=4
+  avatar: https://avatars.githubusercontent.com/u/25785330?v=4
   email: null
   name: Xzhi
   url: null

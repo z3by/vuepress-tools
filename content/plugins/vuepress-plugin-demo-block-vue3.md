@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/93666053?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU4NjAsIm5iZiI6MTczNDY1NDY2MCwicGF0aCI6Ii91LzkzNjY2MDUzIn0.ly4mOwIoVpnyuwTJYUi-J9g4lbG8Y__PK4WWYCp649Q&v=4
+  avatar: https://avatars.githubusercontent.com/u/93666053?v=4
   email: null
   name: seepine
   url: null

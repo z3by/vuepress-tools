@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/1062448?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU5MjAsIm5iZiI6MTczNDY1NDcyMCwicGF0aCI6Ii91LzEwNjI0NDgifQ.Xf96dvTDFh0t_3ISuSqiTQUOYEl91F3pwTPtynM8mi4&v=4
+  avatar: https://avatars.githubusercontent.com/u/1062448?v=4
   email: null
   name: wubaiqing
   url: null

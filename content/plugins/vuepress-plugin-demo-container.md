@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/27751088?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUyMDAsIm5iZiI6MTczNDY1NDAwMCwicGF0aCI6Ii91LzI3NzUxMDg4In0.1rE12R0aR_S3vO60FXu29D68jqEOaynKjk0B6RtjADQ&v=4
+  avatar: https://avatars.githubusercontent.com/u/27751088?v=4
   email: null
   name: JianhuiChen
   url: null

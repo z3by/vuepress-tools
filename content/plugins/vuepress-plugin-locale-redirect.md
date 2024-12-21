@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/2627625?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUyMDAsIm5iZiI6MTczNDY1NDAwMCwicGF0aCI6Ii91LzI2Mjc2MjUifQ.Xe2ZhAuJURYwfTOq1s_lFOQMVkZUyYv4Ssf4N3-BS2Y&v=4
+  avatar: https://avatars.githubusercontent.com/u/2627625?v=4
   email: null
   name: Sloaix
   url: null

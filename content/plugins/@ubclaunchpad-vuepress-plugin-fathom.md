@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/12406312?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU2MjAsIm5iZiI6MTczNDY1NDQyMCwicGF0aCI6Ii91LzEyNDA2MzEyIn0.BjJFtMhmiv1wuMGNCRbw9m7FBM79lF2hyqhQmaeIgNo&v=4
+  avatar: https://avatars.githubusercontent.com/u/12406312?v=4
   email: null
   name: UBC Launch Pad
   url: null

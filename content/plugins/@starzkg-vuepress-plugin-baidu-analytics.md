@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/62365720?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTYwNDAsIm5iZiI6MTczNDY1NDg0MCwicGF0aCI6Ii91LzYyMzY1NzIwIn0.BJl8sN58vPDCZ7vTJdY2a-brdOt5Z4pQYwIUC9q_kvE&v=4
+  avatar: https://avatars.githubusercontent.com/u/62365720?v=4
   email: shentuzhigang@shentuzhigang.cn
   name: Starzkg
   url: https://shentuzhigang.cn

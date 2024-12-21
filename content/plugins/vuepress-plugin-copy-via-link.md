@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/5326684?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU2ODAsIm5iZiI6MTczNDY1NDQ4MCwicGF0aCI6Ii91LzUzMjY2ODQifQ.AXD-KNuEcJUdIiVHcsQQwp1DZKt1NuC4OotYTVIKCIY&v=4
+  avatar: https://avatars.githubusercontent.com/u/5326684?v=4
   email: i@sylingd.com
   name: ShuangYa
   url: null

@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/43605758?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU1NjAsIm5iZiI6MTczNDY1NDM2MCwicGF0aCI6Ii91LzQzNjA1NzU4In0.VVdk9Wd9G-SKcQmk8CbWhrWL-i7ne_TGW8Vxznj4lkE&v=4
+  avatar: https://avatars.githubusercontent.com/u/43605758?v=4
   email: yuan1241900094@gmail.com
   name: yokefellow
   url: null

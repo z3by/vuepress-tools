@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/1497060?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUzODAsIm5iZiI6MTczNDY1NDE4MCwicGF0aCI6Ii91LzE0OTcwNjAifQ.ykXomAbsOYgLMLLrX6AxDo8uB0aLaJvLc3ZpHl8rxX4&v=4
+  avatar: https://avatars.githubusercontent.com/u/1497060?v=4
   email: null
   name: "\xD6z\xFCm Eldo\u011Fan @ozum"
   url: null

@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/26431026?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUzMjAsIm5iZiI6MTczNDY1NDEyMCwicGF0aCI6Ii91LzI2NDMxMDI2In0.9wx2cOJZ2zhPUEQpnD_Bpp8wUHf-a3o4qvyx2yWbVNw&v=4
+  avatar: https://avatars.githubusercontent.com/u/26431026?v=4
   email: 2490445193@qq.com
   name: PentaTea
   url: null

@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/23148342?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUzODAsIm5iZiI6MTczNDY1NDE4MCwicGF0aCI6Ii91LzIzMTQ4MzQyIn0.hmGGT0HaYe7Mx4iy-lK1FLobCJ_XES2NnLwFavlUAWU&v=4
+  avatar: https://avatars.githubusercontent.com/u/23148342?v=4
   email: stwangcq@163.com
   name: wst
   url: null

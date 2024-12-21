@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/49934348?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU2MjAsIm5iZiI6MTczNDY1NDQyMCwicGF0aCI6Ii91LzQ5OTM0MzQ4In0.b-um_rYNi9URcepaoOR-BBXLAibfm_srLbI5pUHA7P4&v=4
+  avatar: https://avatars.githubusercontent.com/u/49934348?v=4
   email: null
   name: hahaxiaowai
   url: null

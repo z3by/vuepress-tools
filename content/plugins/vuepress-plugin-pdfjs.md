@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/628385?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUwODAsIm5iZiI6MTczNDY1Mzg4MCwicGF0aCI6Ii91LzYyODM4NSJ9.D65VXiEJ5n0RiCiRE14WD6p7mLjiMCn3vR1jlr0I7o4&v=4
+  avatar: https://avatars.githubusercontent.com/u/628385?v=4
   email: chris@rebzmedia.com
   name: Chris Johnson
   url: null

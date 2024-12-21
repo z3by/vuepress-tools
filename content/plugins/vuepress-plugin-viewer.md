@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/26399528?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUwMjAsIm5iZiI6MTczNDY1MzgyMCwicGF0aCI6Ii91LzI2Mzk5NTI4In0.FydaUDm8TLBYlZYxUoSsliICC6pmVIm047hTbq4Qz7w&v=4
+  avatar: https://avatars.githubusercontent.com/u/26399528?v=4
   email: null
   name: dongyuanxin
   url: null

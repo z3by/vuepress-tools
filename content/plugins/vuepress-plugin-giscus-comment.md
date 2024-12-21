@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/13284800?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU1NjAsIm5iZiI6MTczNDY1NDM2MCwicGF0aCI6Ii91LzEzMjg0ODAwIn0.juIx1ZWL__Le1J1kvPv5hldrs04VuWahldP_Q5L7qoo&v=4
+  avatar: https://avatars.githubusercontent.com/u/13284800?v=4
   email: debe3721@gmail.com
   name: PresentKim
   url: null

@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/6147452?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU1NjAsIm5iZiI6MTczNDY1NDM2MCwicGF0aCI6Ii91LzYxNDc0NTIifQ.Byd7xnZdYekPrUiQ3LKww61NdVaUnqcEcHegrGa8AEY&v=4
+  avatar: https://avatars.githubusercontent.com/u/6147452?v=4
   email: null
   name: Axway Appcelerator
   url: null

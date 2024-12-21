@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/16360246?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU2MjAsIm5iZiI6MTczNDY1NDQyMCwicGF0aCI6Ii91LzE2MzYwMjQ2In0.r4HhFnVSCeknscZvjRudfH0RyVZEw8cxof043w58RwA&v=4
+  avatar: https://avatars.githubusercontent.com/u/16360246?v=4
   email: akccakccwww@gmail.com
   name: Rex Tsou
   url: null

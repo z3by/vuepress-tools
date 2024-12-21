@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/6554061?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTQ5MDAsIm5iZiI6MTczNDY1MzcwMCwicGF0aCI6Ii91LzY1NTQwNjEifQ.mqIJ1meV5DTg3PCCNBLf6hFFp11KWLxOf-Yh1Ps5KtA&v=4
+  avatar: https://avatars.githubusercontent.com/u/6554061?v=4
   email: superaquariuslt@gmail.com
   name: aquariuslt
   url: null

@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/36268825?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUwODAsIm5iZiI6MTczNDY1Mzg4MCwicGF0aCI6Ii91LzM2MjY4ODI1In0.WBZD3VEtX7HgedhL4RPeV-YxLuHx80gYP6mbCcMqB6E&v=4
+  avatar: https://avatars.githubusercontent.com/u/36268825?v=4
   email: zoaby.am@gmail.com
   name: Ahmad Mostafa
   url: https://github.com/z3by

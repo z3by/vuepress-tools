@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/69196822?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU2MjAsIm5iZiI6MTczNDY1NDQyMCwicGF0aCI6Ii91LzY5MTk2ODIyIn0.vAvpbfMtg1xf5B-FMktHMMuAWshCMpLT4KPW2jmGbsc&v=4
+  avatar: https://avatars.githubusercontent.com/u/69196822?v=4
   email: null
   name: Orta Therox
   url: null

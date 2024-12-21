@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/2795323?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUwODAsIm5iZiI6MTczNDY1Mzg4MCwicGF0aCI6Ii91LzI3OTUzMjMifQ.vnWM1Q16rZKYED07IGWfM-C6VRXvQOAy3GUbqYLqodQ&v=4
+  avatar: https://avatars.githubusercontent.com/u/2795323?v=4
   email: gray@tacck.net
   name: Kihara, Takuya
   url: https://www.tacck.net/

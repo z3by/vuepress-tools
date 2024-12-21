@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/17308208?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU4NjAsIm5iZiI6MTczNDY1NDY2MCwicGF0aCI6Ii91LzE3MzA4MjA4In0.cPEGHjTHllUM0_jeE7V5Qc6oBFPuXuRdzMB9Q8uMycs&v=4
+  avatar: https://avatars.githubusercontent.com/u/17308208?v=4
   email: saltbo@foxmail.com
   name: saltbo
   url: null

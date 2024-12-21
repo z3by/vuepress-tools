@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/32730471?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUxNDAsIm5iZiI6MTczNDY1Mzk0MCwicGF0aCI6Ii91LzMyNzMwNDcxIn0.Ixz5U1L3cCdffy4sfvS7puas7O47--wOw5ro1G9YdnY&v=4
+  avatar: https://avatars.githubusercontent.com/u/32730471?v=4
   email: null
   name: wtlong
   url: null

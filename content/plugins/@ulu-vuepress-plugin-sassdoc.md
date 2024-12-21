@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/3100992?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUyNjAsIm5iZiI6MTczNDY1NDA2MCwicGF0aCI6Ii91LzMxMDA5OTIifQ.gRHAe2Xfz_PSXXNUgS9cV53ttL0NNi8YnEfXlE8FNYU&v=4
+  avatar: https://avatars.githubusercontent.com/u/3100992?v=4
   email: jscherbe@gmail.com
   name: Joseph Scherben
   url: null

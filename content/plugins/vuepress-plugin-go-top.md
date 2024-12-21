@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/65664118?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU2ODAsIm5iZiI6MTczNDY1NDQ4MCwicGF0aCI6Ii91LzY1NjY0MTE4In0.9LNsmSiOaCtWIP_WDhKHgxE2aXFtoPGw7aRZRp8I2BI&v=4
+  avatar: https://avatars.githubusercontent.com/u/65664118?v=4
   email: null
   name: SigureMo
   url: null

@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/30567891?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUzMjAsIm5iZiI6MTczNDY1NDEyMCwicGF0aCI6Ii91LzMwNTY3ODkxIn0.X5tXnjz86FTRzBJcp9H9_26frwYhd1VwDU9m6YY6qwI&v=4
+  avatar: https://avatars.githubusercontent.com/u/30567891?v=4
   email: zoaby.am@gmail.com
   name: z3by
   url: null

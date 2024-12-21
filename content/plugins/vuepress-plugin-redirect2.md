@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/78192711?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU1NjAsIm5iZiI6MTczNDY1NDM2MCwicGF0aCI6Ii91Lzc4MTkyNzExIn0.ZeTLzjhIaXuZ-Q3YGsUako0ufutdSR9rzD7Oog0xmtY&v=4
+  avatar: https://avatars.githubusercontent.com/u/78192711?v=4
   email: mister-hope@outlook.com
   name: Mr.Hope
   url: https://mrhope.site
@@ -27,10 +27,10 @@ publisher:
   username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
 score: 0.6811068711217353
-stars: 2180
+stars: 2182
 unstable: false
 version: 2.0.0-beta.40
-watchers: 2180
+watchers: 2182
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/39508895?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU3NDAsIm5iZiI6MTczNDY1NDU0MCwicGF0aCI6Ii91LzM5NTA4ODk1In0.-uYg325ejRTsKVBVpeuQY9dj2fpQLUwREmgUVbORhk0&v=4
+  avatar: https://avatars.githubusercontent.com/u/39508895?v=4
   email: null
   name: boses
   url: null

@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/53175244?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU4NjAsIm5iZiI6MTczNDY1NDY2MCwicGF0aCI6Ii91LzUzMTc1MjQ0In0.ARzG20BurTKheS7CgXa6pnIuzNNQT-nG-be2qTEMijM&v=4
+  avatar: https://avatars.githubusercontent.com/u/53175244?v=4
   email: kotvberloge@gmail.com
   name: Dima Boger
   url: null
