@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/5863590?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU4MDAsIm5iZiI6MTczNDY1NDYwMCwicGF0aCI6Ii91LzU4NjM1OTAifQ._BXZeLNtNOP-NBlHTNhNHNVtXHHhjur1fQbZ0qDVr-o&v=4
+  avatar: https://avatars.githubusercontent.com/u/5863590?v=4
   email: null
   name: Nico De Witte
   url: null

@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/39176876?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUyNjAsIm5iZiI6MTczNDY1NDA2MCwicGF0aCI6Ii91LzM5MTc2ODc2In0.PejR_NBOWPzU-kBz_IdaHLHTf_3lbMvRDKID8aB4Uw0&v=4
+  avatar: https://avatars.githubusercontent.com/u/39176876?v=4
   email: 940150483@qq.com
   name: ltf
   url: null

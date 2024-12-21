@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/25066570?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU4MDAsIm5iZiI6MTczNDY1NDYwMCwicGF0aCI6Ii91LzI1MDY2NTcwIn0.DTGs-bhxgZvvpEJFycILpIdBLKZ9gwJH1auD6hsgNrw&v=4
+  avatar: https://avatars.githubusercontent.com/u/25066570?v=4
   email: jinyao.ma@outlook.com
   name: jinyaoMa
   url: null

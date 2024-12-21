@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/5051300?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUyMDAsIm5iZiI6MTczNDY1NDAwMCwicGF0aCI6Ii91LzUwNTEzMDAifQ.E_E9amyDsbvcwnQJ1Nw6Marw88nQ3Xey5yRb8Lah1Zc&v=4
+  avatar: https://avatars.githubusercontent.com/u/5051300?v=4
   email: null
   name: rikumi
   url: null

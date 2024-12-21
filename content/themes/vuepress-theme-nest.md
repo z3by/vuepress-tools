@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/65864058?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTQ5NjAsIm5iZiI6MTczNDY1Mzc2MCwicGF0aCI6Ii91LzY1ODY0MDU4In0.D-uOGeGkfHZtOpO-nOwwtRDYMMPFTGD6byjzjw8J4Ug&v=4
+  avatar: https://avatars.githubusercontent.com/u/65864058?v=4
   email: null
   name: Marton Lederer
   url: null

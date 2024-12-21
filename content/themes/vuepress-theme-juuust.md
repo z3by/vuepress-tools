@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/12868055?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUwMjAsIm5iZiI6MTczNDY1MzgyMCwicGF0aCI6Ii91LzEyODY4MDU1In0.wZPfoHFribvjI-B4hPOwpd5Md50LjnDZGmWbfh67Mn0&v=4
+  avatar: https://avatars.githubusercontent.com/u/12868055?v=4
   email: null
   name: leadream
   url: null

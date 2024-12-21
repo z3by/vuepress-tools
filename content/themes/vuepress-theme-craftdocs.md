@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/1022868?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU2MjAsIm5iZiI6MTczNDY1NDQyMCwicGF0aCI6Ii91LzEwMjI4NjgifQ.UIY7sYaWCAV-1y1mYwLqEkgKPbdH0smpRtpDT_hxehk&v=4
+  avatar: https://avatars.githubusercontent.com/u/1022868?v=4
   email: brandon@pixelandtonic.com
   name: brandonkelly
   url: null

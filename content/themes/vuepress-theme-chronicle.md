@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/69201983?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUwMjAsIm5iZiI6MTczNDY1MzgyMCwicGF0aCI6Ii91LzY5MjAxOTgzIn0.OlAfMyj2Xd7uqE-HV_uNXvYWYivCzzEyYs5AolLA8u8&v=4
+  avatar: https://avatars.githubusercontent.com/u/69201983?v=4
   email: null
   name: daylily
   url: null

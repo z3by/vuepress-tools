@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/18347659?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUzMjAsIm5iZiI6MTczNDY1NDEyMCwicGF0aCI6Ii91LzE4MzQ3NjU5In0.tkVHC6EKNkgqqXLtek-GPF8SuVRNID5HqRPJEjKofn8&v=4
+  avatar: https://avatars.githubusercontent.com/u/18347659?v=4
   email: null
   name: peyton
   url: null

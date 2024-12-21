@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/8637758?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU2MjAsIm5iZiI6MTczNDY1NDQyMCwicGF0aCI6Ii91Lzg2Mzc3NTgifQ.FJ_B-dg3s1L-9-w9IxSulZC5Zb5lP2OkTCEWB-QLDPQ&v=4
+  avatar: https://avatars.githubusercontent.com/u/8637758?v=4
   email: myjxinyuan@gmail.com
   name: maoyuanjun
   url: null

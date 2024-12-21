@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/20733943?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUwODAsIm5iZiI6MTczNDY1Mzg4MCwicGF0aCI6Ii91LzIwNzMzOTQzIn0.G7WUBIa9W8iNZLuQH0Wlx6gItTy213-gw69DG_BDr3o&v=4
+  avatar: https://avatars.githubusercontent.com/u/20733943?v=4
   email: null
   name: whu-luojian
   url: null

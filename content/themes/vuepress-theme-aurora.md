@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/69463896?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU1NjAsIm5iZiI6MTczNDY1NDM2MCwicGF0aCI6Ii91LzY5NDYzODk2In0.LeWD9Bt_Tr-TT4X87VMM4L4nhylI0pYVc0UMA4saAJg&v=4
+  avatar: https://avatars.githubusercontent.com/u/69463896?v=4
   email: null
   name: qsyyke
   url: null

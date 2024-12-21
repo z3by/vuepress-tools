@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/8146876?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUxNDAsIm5iZiI6MTczNDY1Mzk0MCwicGF0aCI6Ii91LzgxNDY4NzYifQ.KSN257HsYA_adevqtDDfZXzvDUawkBZamm_nQJzk4Bs&v=4
+  avatar: https://avatars.githubusercontent.com/u/8146876?v=4
   email: kawarimidoll+git@gmail.com
   name: kawarimidoll
   url: null

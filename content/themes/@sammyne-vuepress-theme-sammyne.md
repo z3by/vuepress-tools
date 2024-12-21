@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/16666661?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUxNDAsIm5iZiI6MTczNDY1Mzk0MCwicGF0aCI6Ii91LzE2NjY2NjYxIn0.g_4tgBl_XEQ37xFxuhkvtaoI7x80hQSYq8OFkMxHTmA&v=4
+  avatar: https://avatars.githubusercontent.com/u/16666661?v=4
   email: null
   name: sammyne
   url: null

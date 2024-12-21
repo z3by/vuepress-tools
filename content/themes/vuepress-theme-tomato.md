@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/27852774?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUwODAsIm5iZiI6MTczNDY1Mzg4MCwicGF0aCI6Ii91LzI3ODUyNzc0In0.bjfMXTz41DhrF7E4I1aoh4GnsjlYD6FyLsMgvsEL-7I&v=4
+  avatar: https://avatars.githubusercontent.com/u/27852774?v=4
   email: null
   name: destiny
   url: null

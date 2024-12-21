@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/6310131?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU2ODAsIm5iZiI6MTczNDY1NDQ4MCwicGF0aCI6Ii91LzYzMTAxMzEifQ.6QOMsexOWA-QDXC8ur1t_HQxbZ0ZATnbv-Ea4IBEJ3E&v=4
+  avatar: https://avatars.githubusercontent.com/u/6310131?v=4
   email: 782655835@qq.com
   name: springleo
   url: null

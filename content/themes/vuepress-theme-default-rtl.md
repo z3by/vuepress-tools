@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/13087224?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUyMDAsIm5iZiI6MTczNDY1NDAwMCwicGF0aCI6Ii91LzEzMDg3MjI0In0.gsF3Ta5KWGgyy54Hz5VQgkJm9adgk7veR4uSuPNZN_A&v=4
+  avatar: https://avatars.githubusercontent.com/u/13087224?v=4
   email: alizadeh118@gmail.com
   name: Hassan Alizadeh
   url: https://alizadeh118.ir/

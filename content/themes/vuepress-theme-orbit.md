@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/1489465?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTQ5MDAsIm5iZiI6MTczNDY1MzcwMCwicGF0aCI6Ii91LzE0ODk0NjUifQ.2r2J-NgRBfmINam2EneXR_l6JFWRolrEIXqIz3_8jpY&v=4
+  avatar: https://avatars.githubusercontent.com/u/1489465?v=4
   email: photoadrian@outlook.com
   name: Adrian Hall
   url: null

@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/17905150?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUxNDAsIm5iZiI6MTczNDY1Mzk0MCwicGF0aCI6Ii91LzE3OTA1MTUwIn0.PeiiPFEUqBw9iFNNrz0WTn9CeqL8Pl6AgJBK1losrwU&v=4
+  avatar: https://avatars.githubusercontent.com/u/17905150?v=4
   email: ikangxu@outlook.com
   name: IKangxu
   url: null

@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/12842804?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUwODAsIm5iZiI6MTczNDY1Mzg4MCwicGF0aCI6Ii91LzEyODQyODA0In0.MgrhEIUwJxSMxpdZ5sztsemVtBl9hix1sfWRHpJ8tNA&v=4
+  avatar: https://avatars.githubusercontent.com/u/12842804?v=4
   email: imwarn@163.com
   name: Warn
   url: null

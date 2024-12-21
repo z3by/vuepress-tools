@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/73457150?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUwMjAsIm5iZiI6MTczNDY1MzgyMCwicGF0aCI6Ii91LzczNDU3MTUwIn0.XA-FQwWUPnwtYT7Ib3upI5oc6QdaYj6xUV17IfyLu5k&v=4
+  avatar: https://avatars.githubusercontent.com/u/73457150?v=4
   email: ktquez@gmail.com
   name: Alan Ktquez
   url: https://ktquez.com/

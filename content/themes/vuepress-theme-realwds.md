@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/38198082?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTQ5MDAsIm5iZiI6MTczNDY1MzcwMCwicGF0aCI6Ii91LzM4MTk4MDgyIn0.cX5jYRy8aLOvx3-c-HHcI5g8VfeJ6Klq5_wtls53PEU&v=4
+  avatar: https://avatars.githubusercontent.com/u/38198082?v=4
   email: null
   name: Alejandro
   url: null

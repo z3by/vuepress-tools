@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/22654945?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU4MDAsIm5iZiI6MTczNDY1NDYwMCwicGF0aCI6Ii91LzIyNjU0OTQ1In0.12cqJFglNx2NFevN8OO8Vp8BVF58dyekpWIxp5vPnpM&v=4
+  avatar: https://avatars.githubusercontent.com/u/22654945?v=4
   email: null
   name: Yasinchan
   url: null

@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/73059627?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU0NDAsIm5iZiI6MTczNDY1NDI0MCwicGF0aCI6Ii91LzczMDU5NjI3In0.NbcEnHyI7WPkXH6eqUd6MPLp8P1Cl_BtI3JeKfuYjLE&v=4
+  avatar: https://avatars.githubusercontent.com/u/73059627?v=4
   email: 18366276315@163.com
   name: zh-lx
   url: null

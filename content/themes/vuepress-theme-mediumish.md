@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/5597992?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUzMjAsIm5iZiI6MTczNDY1NDEyMCwicGF0aCI6Ii91LzU1OTc5OTIifQ.AJMT5GhdJUIUrVmgcy1QypswqbFnYa4kVNG5RZsKhmA&v=4
+  avatar: https://avatars.githubusercontent.com/u/5597992?v=4
   email: wowthemesnet@gmail.com
   name: sal
   url: null

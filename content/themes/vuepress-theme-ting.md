@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/29857880?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU1MDAsIm5iZiI6MTczNDY1NDMwMCwicGF0aCI6Ii91LzI5ODU3ODgwIn0.E2hiKGqFNsbblev7YQNBTRHl7jkJWJmVpiQ31aot4aI&v=4
+  avatar: https://avatars.githubusercontent.com/u/29857880?v=4
   email: 924471303@qq.com
   name: chenyating
   url: https://www.yating.world/

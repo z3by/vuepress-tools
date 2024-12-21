@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/149564?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUyMDAsIm5iZiI6MTczNDY1NDAwMCwicGF0aCI6Ii91LzE0OTU2NCJ9.LXdEtACC-UVc5shDxHEuVWq5py_26pTFa0yLUb1kySs&v=4
+  avatar: https://avatars.githubusercontent.com/u/149564?v=4
   email: null
   name: Tookit
   url: Michael Wang

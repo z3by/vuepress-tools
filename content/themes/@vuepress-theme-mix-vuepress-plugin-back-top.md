@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/29831211?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU1MDAsIm5iZiI6MTczNDY1NDMwMCwicGF0aCI6Ii91LzI5ODMxMjExIn0.Y9XBXHlooX7IxNsvziexKYbDn6Uj3uqUMyF1RxpUkSA&v=4
+  avatar: https://avatars.githubusercontent.com/u/29831211?v=4
   email: gavinliu0606@gmail.com
   name: Gavin Liu
   url: https://gavinliu.me

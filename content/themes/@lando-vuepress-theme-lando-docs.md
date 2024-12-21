@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/31605584?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTQ5MDAsIm5iZiI6MTczNDY1MzcwMCwicGF0aCI6Ii91LzMxNjA1NTg0In0.SLxljaosU-3Pj_KstADkNPvw0SWUGz_b24IbNjRYkPI&v=4
+  avatar: https://avatars.githubusercontent.com/u/31605584?v=4
   email: null
   name: John Ouellet @labboy0276
   url: null

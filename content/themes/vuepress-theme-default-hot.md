@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/6128107?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUxNDAsIm5iZiI6MTczNDY1Mzk0MCwicGF0aCI6Ii91LzYxMjgxMDcifQ.nZBNpFS_DSOat_hceEiI1aJRZTHTDElHwXsJY0E7C0w&v=4
+  avatar: https://avatars.githubusercontent.com/u/6128107?v=4
   email: null
   name: Evan You
   url: null
@@ -29,10 +29,10 @@ publisher:
   username: songlairui
 repository: https://github.com/vuejs/vuepress
 score: 0.17807428814424725
-stars: 22619
+stars: 22617
 unstable: false
 version: 1.2.0
-watchers: 22619
+watchers: 22617
 
 ---
 

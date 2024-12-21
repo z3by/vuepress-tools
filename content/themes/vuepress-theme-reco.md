@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/54167020?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU3NDAsIm5iZiI6MTczNDY1NDU0MCwicGF0aCI6Ii91LzU0MTY3MDIwIn0.WNotwAKJMZxA5tUdRb3tNUkuS8NzlmKt2o7DjvJ4FNE&v=4
+  avatar: https://avatars.githubusercontent.com/u/54167020?v=4
   email: null
   name: reco_luan
   url: null
@@ -28,10 +28,10 @@ publisher:
   username: reco_luan
 repository: https://github.com/vuepress-reco/vuepress-theme-reco
 score: 0.6215789754274565
-stars: 603
+stars: 606
 unstable: false
 version: 1.6.13
-watchers: 603
+watchers: 606
 
 ---
 

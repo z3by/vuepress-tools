@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/13219417?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU0NDAsIm5iZiI6MTczNDY1NDI0MCwicGF0aCI6Ii91LzEzMjE5NDE3In0.0pcrZQSevGcies2yS6OryLDqmrlxwfuffzWbXBEXRVs&v=4
+  avatar: https://avatars.githubusercontent.com/u/13219417?v=4
   email: ko.momo@qq.com
   name: momoko
   url: null
@@ -30,10 +30,10 @@ publisher:
   username: mrjzhang
 repository: https://github.com/wannaxiao/vuepress-theme-resume
 score: 0.1503188596376961
-stars: 433
+stars: 435
 unstable: true
 version: 0.1.5
-watchers: 433
+watchers: 435
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/8409100?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU1MDAsIm5iZiI6MTczNDY1NDMwMCwicGF0aCI6Ii91Lzg0MDkxMDAifQ.i_bOxxlHfix0Zix4g_awlGHNZiKp3oN-iuyLwbGShmw&v=4
+  avatar: https://avatars.githubusercontent.com/u/8409100?v=4
   email: null
   name: Shawn Xu
   url: null

@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/35213792?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU1NjAsIm5iZiI6MTczNDY1NDM2MCwicGF0aCI6Ii91LzM1MjEzNzkyIn0.vw7v7OmFXMR12rjmY9JB35kBFSiLuHOI2lU1YGO_IjE&v=4
+  avatar: https://avatars.githubusercontent.com/u/35213792?v=4
   email: null
   name: cperezcapote
   url: null

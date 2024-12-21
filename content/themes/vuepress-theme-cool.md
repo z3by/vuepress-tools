@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/13860264?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU3NDAsIm5iZiI6MTczNDY1NDU0MCwicGF0aCI6Ii91LzEzODYwMjY0In0.WlW3vMJoRoxLNDSB9vRIaeWTQW7-6CJTT1W8AKNx-y0&v=4
+  avatar: https://avatars.githubusercontent.com/u/13860264?v=4
   email: davidli012345@gmail.com
   name: FriendlyUser
   url: null

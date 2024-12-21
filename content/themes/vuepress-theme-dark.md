@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/920747?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU1NjAsIm5iZiI6MTczNDY1NDM2MCwicGF0aCI6Ii91LzkyMDc0NyJ9.9yiUuBBTlCqy8ERqCBTYtMhw7_m2ifX5_r-Ofj2tnPQ&v=4
+  avatar: https://avatars.githubusercontent.com/u/920747?v=4
   email: npm@coded.pl
   name: Damian Stasik
   url: null

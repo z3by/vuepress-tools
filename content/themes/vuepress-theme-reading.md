@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/82562407?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUwMjAsIm5iZiI6MTczNDY1MzgyMCwicGF0aCI6Ii91LzgyNTYyNDA3In0.jIz15F39IcDzjEw_gW0ZWh4MXSsBCjEF3FlUL8eT_LY&v=4
+  avatar: https://avatars.githubusercontent.com/u/82562407?v=4
   email: Okarin1024@gmail.com
   name: Okarin1
   url: null

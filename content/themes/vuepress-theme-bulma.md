@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/5706431?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU1NjAsIm5iZiI6MTczNDY1NDM2MCwicGF0aCI6Ii91LzU3MDY0MzEifQ.IhB9Zxw4pFD8k7TMdNZffdqAjc96dbIVXkR6Hx9En0k&v=4
+  avatar: https://avatars.githubusercontent.com/u/5706431?v=4
   email: null
   name: nakorndev
   url: null

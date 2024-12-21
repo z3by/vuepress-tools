@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/24643401?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUzODAsIm5iZiI6MTczNDY1NDE4MCwicGF0aCI6Ii91LzI0NjQzNDAxIn0.Y9rFROdBAYGW8DrE8qXR1788LQoFkluZPXxNEtpMUxg&v=4
+  avatar: https://avatars.githubusercontent.com/u/24643401?v=4
   email: null
   name: cchao
   url: null

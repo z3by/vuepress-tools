@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/3523840?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUyMDAsIm5iZiI6MTczNDY1NDAwMCwicGF0aCI6Ii91LzM1MjM4NDAifQ.84v_DE5emld-naBDcrYy-n5Ws011R9jxA2_Uu7J4we8&v=4
+  avatar: https://avatars.githubusercontent.com/u/3523840?v=4
   email: null
   name: mark.stacey@aphelion.bi>
   url: null

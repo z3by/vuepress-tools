@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/30975538?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUyMDAsIm5iZiI6MTczNDY1NDAwMCwicGF0aCI6Ii91LzMwOTc1NTM4In0.xIA1j3R4_JYOAAdHf62vnXIGdbheNu9YN0_6oJ9sbJc&v=4
+  avatar: https://avatars.githubusercontent.com/u/30975538?v=4
   email: null
   name: zhaopan
   url: null

@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/52976082?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU3NDAsIm5iZiI6MTczNDY1NDU0MCwicGF0aCI6Ii91LzUyOTc2MDgyIn0.TRjgH0WeT2bmZPTN-EozV5Mq6jQySgAgdAQeP7hqI08&v=4
+  avatar: https://avatars.githubusercontent.com/u/52976082?v=4
   email: null
   name: PunkLee
   url: null

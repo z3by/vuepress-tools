@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/26021844?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUwODAsIm5iZiI6MTczNDY1Mzg4MCwicGF0aCI6Ii91LzI2MDIxODQ0In0.RqDXwViPpyxmdWZ-kMLr8o44fviJMGVBSF4m07l1PBY&v=4
+  avatar: https://avatars.githubusercontent.com/u/26021844?v=4
   email: null
   name: Hvnobug
   url: null

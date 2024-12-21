@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/23313167?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUxNDAsIm5iZiI6MTczNDY1Mzk0MCwicGF0aCI6Ii91LzIzMzEzMTY3In0.qauevGgm5bTWkLiru0m4WV2osu5j-6vbL5p_hy3Uj00&v=4
+  avatar: https://avatars.githubusercontent.com/u/23313167?v=4
   email: qw13131wang@gmail.com
   name: tolking
   url: null

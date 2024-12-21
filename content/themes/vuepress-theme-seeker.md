@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/2544185?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU2MjAsIm5iZiI6MTczNDY1NDQyMCwicGF0aCI6Ii91LzI1NDQxODUifQ.1UwPcOMWpr5h0sP8ZvoiXI17iQLBo50OAyB1E_InOQM&v=4
+  avatar: https://avatars.githubusercontent.com/u/2544185?v=4
   email: null
   name: WensonSmith
   url: null

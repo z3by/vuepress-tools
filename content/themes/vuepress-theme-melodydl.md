@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/46002903?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUyMDAsIm5iZiI6MTczNDY1NDAwMCwicGF0aCI6Ii91LzQ2MDAyOTAzIn0.v_STL3bMEk3FYhd72ILIpOzfynSRD0xSewASLPWkkWo&v=4
+  avatar: https://avatars.githubusercontent.com/u/46002903?v=4
   email: null
   name: youdeliang
   url: null

@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/87758778?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU0NDAsIm5iZiI6MTczNDY1NDI0MCwicGF0aCI6Ii91Lzg3NzU4Nzc4In0.LXaXdz5U4hSzN1oyYNUkSUr86jSE1z2rxbLBI1X7mPI&v=4
+  avatar: https://avatars.githubusercontent.com/u/87758778?v=4
   email: null
   name: aibayanyu
   url: null

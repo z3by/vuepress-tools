@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/6262853?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUzMjAsIm5iZiI6MTczNDY1NDEyMCwicGF0aCI6Ii91LzYyNjI4NTMifQ.VbG58HUIWDKhV5_ZwGkIT9qFSxy0PRBwhGyIJl6fL6g&v=4
+  avatar: https://avatars.githubusercontent.com/u/6262853?v=4
   email: marsak@live.cn
   name: Dr.Cycle
   url: null

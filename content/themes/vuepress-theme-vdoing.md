@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/5212214?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTU3NDAsIm5iZiI6MTczNDY1NDU0MCwicGF0aCI6Ii91LzUyMTIyMTQifQ.opzqXB1_vUQCpmcUsBhBDDm4dDjXgPOV91drT_BU8c4&v=4
+  avatar: https://avatars.githubusercontent.com/u/5212214?v=4
   email: null
   name: gaoyi
   url: Evan
@@ -32,10 +32,10 @@ publisher:
   username: evan_xu
 repository: https://github.com/xugaoyi/vuepress-theme-vdoing
 score: 0.6281538221875261
-stars: 4597
+stars: 4599
 unstable: false
 version: 1.12.3
-watchers: 4597
+watchers: 4599
 
 ---
 

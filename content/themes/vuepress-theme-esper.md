@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/710763?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUwMjAsIm5iZiI6MTczNDY1MzgyMCwicGF0aCI6Ii91LzcxMDc2MyJ9.j1gxFNV6JREisf_gVDEW9cuULMMWEVpmKDuiHDkOgGw&v=4
+  avatar: https://avatars.githubusercontent.com/u/710763?v=4
   email: marcosilva.poa.br@gmail.com
   name: Marco Almeida
   url: null

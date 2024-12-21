@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://private-avatars.githubusercontent.com/u/75064158?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTUzMjAsIm5iZiI6MTczNDY1NDEyMCwicGF0aCI6Ii91Lzc1MDY0MTU4In0.ud1hChbilXOhdhU_7rLklU4dz4R8N12ek9sPOTawLhg&v=4
+  avatar: https://avatars.githubusercontent.com/u/75064158?v=4
   email: cmgddd@126.com
   name: 80maker
   url: null
