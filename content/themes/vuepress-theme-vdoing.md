@@ -32,10 +32,10 @@ publisher:
   username: evan_xu
 repository: https://github.com/xugaoyi/vuepress-theme-vdoing
 score: 0.6281538221875261
-stars: 4621
+stars: 4623
 unstable: false
 version: 1.12.3
-watchers: 4621
+watchers: 4623
 
 ---
 
