@@ -51,7 +51,7 @@ watchers: 34
 
 :mega: Social sharing plugin for [VuePress](https://v2.vuepress.vuejs.org)
 
-:book: [Online demo and Docs](https://social-share.ntnyq.com)
+:book: [Online docs and examples](https://social-share.ntnyq.com)
 
 If you are upgrading this plugin to v2, See [Migration guide from v1](https://social-share.ntnyq.com/guide/#migration-from-v1).
 
@@ -63,15 +63,15 @@ Please Checkout branch [main](https://github.com/ntnyq/vuepress-plugin-social-sh
 
 ## Install
 
-```bash
+```shell
 npm install vuepress-plugin-social-share@next -D
 ```
 
-```bash
+```shell
 yarn add vuepress-plugin-social-share@next -D
 ```
 
-```bash
+```shell
 pnpm add vuepress-plugin-social-share@next -D
 ```
 
