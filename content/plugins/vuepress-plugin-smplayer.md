@@ -35,10 +35,10 @@ publisher:
   username: monologuechi
 repository: https://github.com/u2sb/vuepress-plugin-smplayer
 score: 0.18228913741374297
-stars: 15
+stars: 16
 unstable: false
 version: 1.5.3
-watchers: 15
+watchers: 16
 
 ---
 

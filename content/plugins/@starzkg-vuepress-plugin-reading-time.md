@@ -28,10 +28,10 @@ publisher:
   username: starzkg
 repository: https://github.com/Mister-Hope/vuepress-theme-hope
 score: 0.1498945009601146
-stars: 2212
+stars: 2214
 unstable: true
 version: 1.0.0-beta.14
-watchers: 2212
+watchers: 2214
 
 ---
 
@@ -68,10 +68,6 @@ A VuePress theme with tons of features✨
 ## [English Docs](https://theme-hope.vuejs.press/)
 
 ## [Online Demo](https://stackblitz.com/fork/vuepress-theme-hope)
-
-## Special Sponsor
-
-[![Grey Software](https://vuepress-theme-hope.github.io/grey-software.svg)](https://grey.software/)
 
 ## Contact
 
