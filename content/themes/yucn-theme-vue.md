@@ -29,10 +29,10 @@ publisher:
   username: qdyucn
 repository: https://github.com/vuejs/vuepress
 score: 0.1780341914594473
-stars: 22642
+stars: 22640
 unstable: false
 version: 1.9.2
-watchers: 22642
+watchers: 22640
 
 ---
 
