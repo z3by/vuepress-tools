@@ -28,10 +28,10 @@ publisher:
   username: greenimp
 repository: https://github.com/dice-roller/vuepress-plugin
 score: 0.3583240560253957
-stars: 0
+stars: 1
 unstable: true
 version: 0.1.10
-watchers: 0
+watchers: 1
 
 ---
 
