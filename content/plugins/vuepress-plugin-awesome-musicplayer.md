@@ -28,10 +28,10 @@ publisher:
   username: daodaolee
 repository: https://github.com/daodaolee/vuepress-plugin-awesome-musicplayer
 score: 0.51086208289435
-stars: 32
+stars: 31
 unstable: false
 version: 1.2.1
-watchers: 32
+watchers: 31
 
 ---
 
