@@ -47,8 +47,8 @@ watchers: 13
    <a href="https://github.com/moefyit/vuepress-plugin-ribbon/blob/main/LICENSE" target="_blank"><img alt="GitHub license" src="https://img.shields.io/github/license/moefyit/vuepress-plugin-ribbon?style=flat-square"></a>
 </p>
 
--  Document: [moefy-vuepress](https://moefyit.github.io/moefy-vuepress/)
--  Live demo: [notev](https://nyakku.moe/)
+- Document: [moefy-vuepress](https://moefyit.github.io/moefy-vuepress/)
+- Live demo: [notev](https://nyakku.moe/)
 
 > Want to use it outside of VuePress1.x? Try [moefy-canvas](https://github.com/moefyit/moefy-canvas)!
 
@@ -87,6 +87,6 @@ module.exports = {
 
 ## Thanks
 
--  [vuepress-plugin-nest](https://github.com/vxhly/vuepress-plugin-nest)
--  [canvas-nest.js](https://github.com/hustcc/canvas-nest.js)
--  [ribbon.js](https://github.com/hustcc/ribbon.js)
+- [vuepress-plugin-nest](https://github.com/vxhly/vuepress-plugin-nest)
+- [canvas-nest.js](https://github.com/hustcc/canvas-nest.js)
+- [ribbon.js](https://github.com/hustcc/ribbon.js)
