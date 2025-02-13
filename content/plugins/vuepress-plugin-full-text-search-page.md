@@ -30,10 +30,10 @@ publisher:
   username: moudev
 repository: https://github.com/ota-meshi/vuepress2-plugin-full-text-search
 score: 0.1596377870234294
-stars: 34
+stars: 35
 unstable: true
 version: 0.1.6
-watchers: 34
+watchers: 35
 
 ---
 
