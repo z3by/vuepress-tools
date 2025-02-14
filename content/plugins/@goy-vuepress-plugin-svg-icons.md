@@ -95,7 +95,7 @@ Just enjoy it! :blush:
 <vp-icon color="#3eaf7c" name="vue" size="4em"/>
 ```
 
-[Custom options detail](https://vp-icon.ntnyq.com/guide)
+[Custom options detail](https://vp-icon.ntnyq.com/guide/#options)
 
 ## License
 
