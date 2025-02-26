@@ -77,7 +77,7 @@ pnpm add vuepress-plugin-social-share@next -D
 
 ## Usage
 
-```js
+```ts
 import { defineUserConfig } from 'vuepress'
 import { socialSharePlugin } from 'vuepress-plugin-social-share'
 
@@ -88,7 +88,7 @@ export default defineUserConfig({
 
 :mag: [Custom options detail](https://social-share.ntnyq.com/guide/#options)
 
-## Prior Art
+## Credits
 
 Deeply thank to [vue-social-sharing](https://github.com/nicolasbeauvais/vue-social-sharing) for the component api source code.
 
