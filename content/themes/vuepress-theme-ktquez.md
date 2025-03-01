@@ -33,10 +33,10 @@ publisher:
   username: ktquez
 repository: https://github.com/ktquez/vuepress-theme-ktquez
 score: 0.33394595828232937
-stars: 328
+stars: 327
 unstable: true
 version: 0.2.18
-watchers: 328
+watchers: 327
 
 ---
 
