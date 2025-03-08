@@ -50,15 +50,15 @@ watchers: 0
 
 ## Install
 
-```bash
+```shell
 npm install vuepress-plugin-iconify -D
 ```
 
-```bash
+```shell
 yarn add vuepress-plugin-iconify -D
 ```
 
-```bash
+```shell
 pnpm add vuepress-plugin-iconify -D
 ```
 
@@ -66,7 +66,7 @@ pnpm add vuepress-plugin-iconify -D
 
 > See [Official Docs](https://v2.vuepress.vuejs.org/guide/plugin.html#plugin) about how to use a plugin in VuePress.
 
-```js
+```ts
 import { defineUserConfig } from 'vuepress'
 import { iconifyPlugin } from 'vuepress-plugin-iconify'
 
