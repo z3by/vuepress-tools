@@ -4,7 +4,7 @@ author:
   email: null
   name: linjhon
   url: null
-  username: linjhon
+  username: joseplin0
 bugs: https://github.com/linjhon/vuepress-plugin-svn/issues
 category: plugins
 date: '2021-05-17T09:04:21.149Z'
