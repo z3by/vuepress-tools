@@ -29,10 +29,10 @@ publisher:
   username: vmihailenco
 repository: https://github.com/vuepress/vuepress-next
 score: 0.180008619575756
-stars: 2490
+stars: 2493
 unstable: false
 version: 2.0.0-beta.38.1
-watchers: 2490
+watchers: 2493
 
 ---
 
