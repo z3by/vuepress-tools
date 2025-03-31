@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/35178455?v=4
+  avatar: https://avatars.githubusercontent.com/u/22681157?v=4
   email: milan@sulc.dev
   name: f3l1x
   url: https://f3l1x.io
-  username: f00b4r
+  username: contributte
 bugs: https://github.com/webkitty/vuepress-plugin-smartlook/issues
 category: plugins
 date: '2020-03-23T12:25:40.858Z'
