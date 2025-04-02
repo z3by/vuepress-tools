@@ -30,10 +30,10 @@ publisher:
   username: pragdave
 repository: https://github.com/vuepress/vuepress-next
 score: 0.17857743938807544
-stars: 2496
+stars: 2497
 unstable: false
 version: 1.0.0
-watchers: 2496
+watchers: 2497
 
 ---
 
