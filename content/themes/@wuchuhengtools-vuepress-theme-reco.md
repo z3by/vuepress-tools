@@ -28,10 +28,10 @@ publisher:
   username: wuchuheng
 repository: https://github.com/vuepress-reco/vuepress-theme-reco
 score: 0.1358722778817047
-stars: 629
+stars: 631
 unstable: false
 version: 1.6.7
-watchers: 629
+watchers: 631
 
 ---
 
