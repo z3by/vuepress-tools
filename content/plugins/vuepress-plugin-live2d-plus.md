@@ -29,10 +29,10 @@ publisher:
   username: xinlei3166
 repository: https://github.com/xinlei3166/vuepress-plugin-live2d-plus
 score: 0.269494360891093
-stars: 4
+stars: 3
 unstable: true
 version: 0.1.0
-watchers: 4
+watchers: 3
 
 ---
 
