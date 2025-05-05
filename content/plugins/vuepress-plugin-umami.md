@@ -31,10 +31,10 @@ publisher:
   username: spekulatius
 repository: https://github.com/spekulatius/vuepress-plugin-umami
 score: 0.43755313540202895
-stars: 6
+stars: 7
 unstable: true
 version: 0.0.4
-watchers: 6
+watchers: 7
 
 ---
 
