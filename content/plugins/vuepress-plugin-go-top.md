@@ -48,8 +48,8 @@ watchers: 2
    <a href="https://github.com/moefyit/vuepress-plugin-go-top/blob/main/LICENSE" target="_blank"><img alt="GitHub license" src="https://img.shields.io/github/license/moefyit/vuepress-plugin-go-top?style=flat-square"></a>
 </p>
 
--  Document: [moefy-vuepress](https://moefyit.github.io/moefy-vuepress/)
--  Live demo: [notev](https://nyakku.moe/)
+- Document: [moefy-vuepress](https://moefyit.github.io/moefy-vuepress/)
+- Live demo: [notev](https://nyakku.moe/)
 
 ## Install
 
@@ -79,5 +79,5 @@ $MQMobile ?= 768px
 
 ## Thanks
 
--  [GoTop](https://github.com/MisakaTAT/GoTop)
--  [@vuepress/plugin-back-to-top](https://github.com/vuejs/vuepress/blob/master/packages/%40vuepress/plugin-back-to-top/BackToTop.vue)
+- [GoTop](https://github.com/MisakaTAT/GoTop)
+- [@vuepress/plugin-back-to-top](https://github.com/vuejs/vuepress/blob/master/packages/%40vuepress/plugin-back-to-top/BackToTop.vue)

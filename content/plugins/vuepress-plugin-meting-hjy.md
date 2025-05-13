@@ -48,8 +48,8 @@ watchers: 34
    <a href="https://github.com/moefyit/vuepress-plugin-meting/blob/main/LICENSE" target="_blank"><img alt="GitHub license" src="https://img.shields.io/github/license/moefyit/vuepress-plugin-meting?style=flat-square"></a>
 </p>
 
--  Document: [moefy-vuepress](https://moefyit.github.io/moefy-vuepress/)
--  Live demo: [notev](https://nyakku.moe/)
+- Document: [moefy-vuepress](https://moefyit.github.io/moefy-vuepress/)
+- Live demo: [notev](https://nyakku.moe/)
 
 <Meting server="netease"
         type="playlist"
@@ -83,8 +83,8 @@ module.exports = {
 
 使用该插件后将自动注册 `<Meting/>` 组件与 `<APlayer/>` 组件，你可以在任意位置使用它们
 
--  `<Meting/>` 组件支持 `meting` Options 和 `aplayer` Options，其中 `aplayer` 的 `audio` 选项将自动通过 metingApi 获取，如果想要额外添加 `audio` 的话，可以通过 `additionalAudios` 选项实现
--  `<APlayer/>` 组件支持 `aplayer` Options，当然，你需要自行提供 `audio` 音乐源
+- `<Meting/>` 组件支持 `meting` Options 和 `aplayer` Options，其中 `aplayer` 的 `audio` 选项将自动通过 metingApi 获取，如果想要额外添加 `audio` 的话，可以通过 `additionalAudios` 选项实现
+- `<APlayer/>` 组件支持 `aplayer` Options，当然，你需要自行提供 `audio` 音乐源
 
 `config.js` 中的 `meting` 选项、`aplayer` 选项和 `mobile` 选项是全局 UI 组件的配置项，当 `meting` 选项被配置后，将自动注册一个全局 UI 组件 `<Meting/>`（吸底模式），这三个配置项不影响其他组件的配置项
 
@@ -100,30 +100,30 @@ Options 分为 `metingApi`、`meting`、`aplayer`、`mobile`、`defaultCover` �
 
 `Meting` 相关选项
 
--  server
+- server
 
-   -  类型：`string`
-   -  默认值： `undefined`
-   -  描述：MetingApi 中的 `server` 参数，即音乐平台
-   -  可选值： `"netease" | "tencent" | "kuwo" | "kugou" | "baidu"`
+   - 类型：`string`
+   - 默认值： `undefined`
+   - 描述：MetingApi 中的 `server` 参数，即音乐平台
+   - 可选值： `"netease" | "tencent" | "kuwo" | "kugou" | "baidu"`
 
--  type
+- type
 
-   -  类型：`string`
-   -  默认值： `undefined`
-   -  描述：MetingApi 中的 `type` 参数，即资源类型（播放列表、单曲、专辑等）
-   -  可选值： `"song" | "album" | "artist" | "playlist"`
+   - 类型：`string`
+   - 默认值： `undefined`
+   - 描述：MetingApi 中的 `type` 参数，即资源类型（播放列表、单曲、专辑等）
+   - 可选值： `"song" | "album" | "artist" | "playlist"`
 
--  mid
+- mid
 
-   -  类型：`string`
-   -  默认值： `undefined`
-   -  描述：MetingApi 中的 `id` 参数，即资源 ID
+   - 类型：`string`
+   - 默认值： `undefined`
+   - 描述：MetingApi 中的 `id` 参数，即资源 ID
 
--  auto
-   -  类型：`string`
-   -  默认值：`""`
-   -  描述：资源 `url`，填写后可通过资源 `url` 自动解析资源平台、类型、ID，上述三个选项将被覆盖（本参数仅支持 `netease`、`tencent`、`xiami` 三平台）
+- auto
+   - 类型：`string`
+   - 默认值：`""`
+   - 描述：资源 `url`，填写后可通过资源 `url` 自动解析资源平台、类型、ID，上述三个选项将被覆盖（本参数仅支持 `netease`、`tencent`、`xiami` 三平台）
 
 该 Option 可分别填写 `server`、`type`、`mid`
 
@@ -147,110 +147,110 @@ meting: {
 
 > 详情见 ~~[vue-aplayer 文档（当前无法访问）](https://aplayer.moefe.org/docs/options/)~~ [vue-aplayer 文档 GitHub 页面](https://github.com/MoePlayer/vue-aplayer/blob/dev/docs/options/README.md)
 
--  fixed
+- fixed
 
-   -  类型：`boolean`
-   -  默认值： `false`
-   -  描述：是否开启吸底模式
+   - 类型：`boolean`
+   - 默认值： `false`
+   - 描述：是否开启吸底模式
 
--  mini
+- mini
 
-   -  类型：`boolean`
-   -  默认值： `false`
-   -  描述：是否开启迷你模式
+   - 类型：`boolean`
+   - 默认值： `false`
+   - 描述：是否开启迷你模式
 
--  autoplay
+- autoplay
 
-   -  类型：`boolean`
-   -  默认值： `false`
-   -  描述：是否开启自动播放
+   - 类型：`boolean`
+   - 默认值： `false`
+   - 描述：是否开启自动播放
 
--  theme
+- theme
 
-   -  类型： `string`
-   -  默认值： `#b7daff`
-   -  描述：设置播放器默认主题颜色
+   - 类型： `string`
+   - 默认值： `#b7daff`
+   - 描述：设置播放器默认主题颜色
 
--  loop
+- loop
 
-   -  类型：`APlayer.LoopMode`
-   -  默认值： `all`
-   -  描述：设置播放器的初始循环模式
-   -  可选值：`'all' | 'one' | 'none'`
+   - 类型：`APlayer.LoopMode`
+   - 默认值： `all`
+   - 描述：设置播放器的初始循环模式
+   - 可选值：`'all' | 'one' | 'none'`
 
--  order
+- order
 
-   -  类型：`APlayer.OrderMode`
-   -  默认值： `list`
-   -  描述：设置播放器的初始顺序模式
-   -  可选值： `'list' | 'random'`
+   - 类型：`APlayer.OrderMode`
+   - 默认值： `list`
+   - 描述：设置播放器的初始顺序模式
+   - 可选值： `'list' | 'random'`
 
--  preload
+- preload
 
-   -  类型：`APlayer.Preload`
-   -  默认值： `auto`
-   -  描述：设置音频的预加载模式
-   -  可选值：`'none' | 'metadata' | 'auto'`
+   - 类型：`APlayer.Preload`
+   - 默认值： `auto`
+   - 描述：设置音频的预加载模式
+   - 可选值：`'none' | 'metadata' | 'auto'`
 
--  volume
+- volume
 
-   -  类型：`number`
-   -  默认值： `0.7`
-   -  描述：设置播放器的音量
+   - 类型：`number`
+   - 默认值： `0.7`
+   - 描述：设置播放器的音量
 
--  additionalAudios
+- additionalAudios
 
-   -  类型：`Array<APlayer.Audio>`
-   -  默认值：`[]`
-   -  描述：除 Meting 解析的 audio 外额外添加的 audio
+   - 类型：`Array<APlayer.Audio>`
+   - 默认值：`[]`
+   - 描述：除 Meting 解析的 audio 外额外添加的 audio
       > 详情见 [vue-aplayer 文档的 audio 选项](https://github.com/MoePlayer/vue-aplayer/blob/dev/docs/options/README.md#audio-)，另外，作为 `<APlayer />` 组件使用的时候仍应该使用 audio 选项。
 
--  customAudioType（见 [vue-aplayer 文档](https://github.com/MoePlayer/vue-aplayer/blob/dev/docs/options/README.md#customaudiotype-)）
+- customAudioType（见 [vue-aplayer 文档](https://github.com/MoePlayer/vue-aplayer/blob/dev/docs/options/README.md#customaudiotype-)）
 
--  mutex
+- mutex
 
-   -  类型：`boolean`
-   -  默认值： `true`
-   -  描述：是否开启互斥模式
+   - 类型：`boolean`
+   - 默认值： `true`
+   - 描述：是否开启互斥模式
 
--  lrcType
+- lrcType
 
-   -  类型：`APlayer.LrcType?`
-   -  默认值： `0`
-   -  描述：设置 lrc 歌词解析模式
-   -  可选值： `3 | 1 | 0`（`0`：禁用 lrc 歌词，`1`：lrc 格式的字符串，`3`：lrc 文件 url）
+   - 类型：`APlayer.LrcType?`
+   - 默认值： `0`
+   - 描述：设置 lrc 歌词解析模式
+   - 可选值： `3 | 1 | 0`（`0`：禁用 lrc 歌词，`1`：lrc 格式的字符串，`3`：lrc 文件 url）
 
--  listFolded
+- listFolded
 
-   -  类型：`boolean`
-   -  默认值： `false`
-   -  描述：是否折叠播放列表
+   - 类型：`boolean`
+   - 默认值： `false`
+   - 描述：是否折叠播放列表
 
--  listMaxHeight
+- listMaxHeight
 
-   -  类型：`number`
-   -  默认值： `250`
-   -  描述：设置播放列表最大高度，单位为像素
+   - 类型：`number`
+   - 默认值： `250`
+   - 描述：设置播放列表最大高度，单位为像素
 
--  storageName
-   -  类型：`string`
-   -  默认值： `vuepress-plugin-meting`
-   -  描述：设置存储播放器设置的 `localStorage` key
+- storageName
+   - 类型：`string`
+   - 默认值： `vuepress-plugin-meting`
+   - 描述：设置存储播放器设置的 `localStorage` key
 
 ### mobile
 
 用于控制全局吸底播放器在移动设备上的一些特殊选项
 
--  cover
+- cover
 
-   -  类型：`boolean`
-   -  默认值： `true`
-   -  描述：是否显示封面图，如果隐藏的话可以防止播放器遮挡移动设备上的文字内容
+   - 类型：`boolean`
+   - 默认值： `true`
+   - 描述：是否显示封面图，如果隐藏的话可以防止播放器遮挡移动设备上的文字内容
 
--  lrc
-   -  类型：`boolean`
-   -  默认值： `true`
-   -  描述：是否显示歌词
+- lrc
+   - 类型：`boolean`
+   - 默认值： `true`
+   - 描述：是否显示歌词
 
 ### defaultCover
 
@@ -293,7 +293,7 @@ module.exports = {
 
 ## Thanks
 
--  [APlayer](https://github.com/MoePlayer/APlayer)
--  [VueAPlayer](https://github.com/MoePlayer/vue-aplayer)
--  [Meting](https://github.com/metowolf/Meting)
--  [MetingJS](https://github.com/metowolf/MetingJS)
+- [APlayer](https://github.com/MoePlayer/APlayer)
+- [VueAPlayer](https://github.com/MoePlayer/vue-aplayer)
+- [Meting](https://github.com/metowolf/Meting)
+- [MetingJS](https://github.com/metowolf/MetingJS)

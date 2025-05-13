@@ -47,8 +47,8 @@ watchers: 9
    <a href="https://github.com/moefyit/vuepress-plugin-dynamic-title/blob/main/LICENSE" target="_blank"><img alt="GitHub license" src="https://img.shields.io/github/license/moefyit/vuepress-plugin-dynamic-title?style=flat-square"></a>
 </p>
 
--  Document: [moefy-vuepress](https://moefyit.github.io/moefy-vuepress/)
--  Live demo: [notev](https://nyakku.moe/)
+- Document: [moefy-vuepress](https://moefyit.github.io/moefy-vuepress/)
+- Live demo: [notev](https://nyakku.moe/)
 
 ## Install
 
@@ -87,4 +87,4 @@ module.exports = {
 
 ## Thanks
 
--  [hexo-theme-sagiri](https://github.com/DIYgod/diygod.me/blob/master/themes/sagiri/src/title.js)
+- [hexo-theme-sagiri](https://github.com/DIYgod/diygod.me/blob/master/themes/sagiri/src/title.js)
