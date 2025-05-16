@@ -25,10 +25,10 @@ publisher:
   username: felikx
 repository: https://github.com/pixelandtonic/vuepress-theme-craftdocs
 score: 0.1782975672161116
-stars: 107
+stars: 108
 unstable: false
 version: 2.0.2
-watchers: 107
+watchers: 108
 
 ---
 
