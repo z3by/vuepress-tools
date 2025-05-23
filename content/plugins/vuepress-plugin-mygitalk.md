@@ -33,10 +33,10 @@ publisher:
   username: zhousiwei
 repository: https://github.com/JoeyBling/vuepress-plugin-mygitalk
 score: 0.3787035663803511
-stars: 12
+stars: 13
 unstable: false
 version: 1.0.5
-watchers: 12
+watchers: 13
 
 ---
 
