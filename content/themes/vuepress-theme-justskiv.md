@@ -4,7 +4,7 @@ author:
   email: tuzov.n@gmail.com
   name: JustSkiv
   url: null
-  username: JustSkiv
+  username: justskiv
 bugs: https://github.com/JustSkiv/vuepress-theme-justskiv/issues
 category: themes
 date: '2022-02-18T12:00:40.754Z'
