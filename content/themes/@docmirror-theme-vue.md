@@ -29,10 +29,10 @@ publisher:
   username: greper
 repository: https://github.com/vuejs/vuepress
 score: 0.07066652673276805
-stars: 22756
+stars: 22751
 unstable: false
 version: 1.5.3
-watchers: 22756
+watchers: 22751
 
 ---
 
