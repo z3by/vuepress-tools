@@ -56,15 +56,15 @@ If you are looking for VuePress v1 support, please use [@goy/vuepress-plugin-svg
 
 ## Install
 
-```bash
+```shell
 npm i @goy/vuepress-plugin-svg-icons -D
 ```
 
-```bash
+```shell
 yarn add @goy/vuepress-plugin-svg-icons -D
 ```
 
-```bash
+```shell
 pnpm add @goy/vuepress-plugin-svg-icons -D
 ```
 
