@@ -28,10 +28,10 @@ publisher:
   username: cnguu
 repository: https://github.com/cnguu/vuepress-theme-yur
 score: 0.6309027235794508
-stars: 144
+stars: 143
 unstable: false
 version: 3.1.11
-watchers: 144
+watchers: 143
 
 ---
 
