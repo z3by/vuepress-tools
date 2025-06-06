@@ -29,10 +29,10 @@ publisher:
   username: mister-hope
 repository: https://github.com/vuepress-theme-hope/vuepress-theme-hope
 score: 0.6789599710314298
-stars: 2339
+stars: 2338
 unstable: false
 version: 1.30.0
-watchers: 2339
+watchers: 2338
 
 ---
 
@@ -51,7 +51,6 @@ watchers: 2339
 
 [![Author: Mr.Hope](https://img.shields.io/badge/Author-Mr.Hope-blue.svg?style=for-the-badge)](https://mister-hope.com)
 [![License](https://img.shields.io/npm/l/vuepress-theme-hope.svg?style=for-the-badge)](https://github.com/vuepress-theme-hope/vuepress-theme-hope/blob/main/LICENSE)
-[![Open in Visual Studio Code](https://img.shields.io/badge/-open%20in%20vscode-blue?style=for-the-badge&logo=visualstudiocode)](https://open.vscode.dev/vuepress-theme-hope/vuepress-theme-hope)
 
 <!-- markdownlint-restore -->
 
@@ -72,24 +71,24 @@ A VuePress theme with tons of features✨
 
 ## Contact
 
-We recommend you to contact using [issues](https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues) and [discussions](https://github.com/vuepress-theme-hope/vuepress-theme-hope/discussions), but you are welcome to join our [telegram group!](https://t.me/vuepressthemehope).
+We recommend contacting us through [issues](https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues) and [discussions](https://github.com/vuepress-theme-hope/vuepress-theme-hope/discussions), but you are also welcome to join our [Telegram group](https://t.me/vuepressthemehope)!
 
 ## Details
 
-V2 is based on [**VuePress2**](https://vuejs.press), with the power of [**Vite6**](https://vite.dev) / [**Webpack5**](https://webpack.js.org) using [**Vue3**](https://vuejs.org) to provide powerful features.
+V2 is based on [**VuePress2**](https://vuejs.press), with the power of [**Vite6**](https://vite.dev) / [**Webpack5**](https://webpack.js.org) and [**Vue3**](https://vuejs.org) to provide powerful features.
 
-V2 is a full rewrite including:
+V2 is a complete rewrite including:
 
-- All the components are rewritten with **Composition API in Vue3**
-- All the styles are migrated to **Sass**
+- All components are rewritten with **Composition API in Vue3**
+- All styles are migrated to **Sass**
 
-Also V2 has a better performance:🚀
+V2 also has better performance 🚀:
 
 - DevServer cold start time reduced by **70%**
 - Build memory usage reduced by **65%**
 - Build time reduced by **75%**
-- Output Size reduced by **45%**
-- Webpage performance up to **60%**
+- Output size reduced by **45%**
+- Webpage performance improved by **60%**
 
 ## Project Status
 
