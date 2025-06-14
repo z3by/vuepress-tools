@@ -28,10 +28,10 @@ publisher:
   username: wangyanzu
 repository: https://github.com/vuepress-reco/vuepress-theme-reco
 score: 0.2070853936367637
-stars: 639
+stars: 638
 unstable: false
 version: 1.6.6
-watchers: 639
+watchers: 638
 
 ---
 
