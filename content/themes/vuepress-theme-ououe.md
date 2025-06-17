@@ -32,10 +32,10 @@ publisher:
   username: tolking
 repository: https://github.com/tolking/vuepress-theme-ououe
 score: 0.5534438839522795
-stars: 76
+stars: 77
 unstable: false
 version: 1.5.3
-watchers: 76
+watchers: 77
 
 ---
 
