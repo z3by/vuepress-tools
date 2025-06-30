@@ -30,10 +30,10 @@ publisher:
   username: gavinliu0606
 repository: https://github.com/gavinliu6/vuepress-theme-mix
 score: 0.5909860054425466
-stars: 53
+stars: 52
 unstable: false
 version: 1.3.2
-watchers: 53
+watchers: 52
 
 ---
 
