@@ -29,10 +29,10 @@ publisher:
   username: lanlan135
 repository: https://github.com/vuepress/vuepress-next
 score: 0.17930038767983447
-stars: 2615
+stars: 2616
 unstable: false
 version: 2.0.0-beta.32
-watchers: 2615
+watchers: 2616
 
 ---
 
