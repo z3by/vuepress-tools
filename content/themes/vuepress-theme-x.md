@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: null
+  avatar: https://avatars.githubusercontent.com/u/10876646?v=4
   email: null
   name: null
   url: null
-  username: null
+  username: h69
 bugs: null
 category: themes
 date: '2020-12-25T09:26:11.977Z'
@@ -18,7 +18,7 @@ keywords:
 - vuepress-theme
 - x
 - blog
-license: null
+license: MIT License
 maintainers: null
 name: vuepress-theme-x
 npm: https://www.npmjs.com/package/vuepress-theme-x
