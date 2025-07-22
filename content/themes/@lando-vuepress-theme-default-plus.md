@@ -18,7 +18,7 @@ keywords:
 - vuepress2
 - vuepress2-theme
 - vuepress2-plugin
-license: GNU General Public License v3.0
+license: MIT License
 maintainers: null
 name: '@lando/vuepress-theme-default-plus'
 npm: https://www.npmjs.com/package/%40lando%2Fvuepress-theme-default-plus
@@ -99,4 +99,7 @@ Made with [contributors-img](https://contrib.rocks).
 
 ## Other Resources
 
+* [LICENSE](/LICENSE)
+* [TERMS OF USE](https://docs.lando.dev/terms)
+* [PRIVACY POLICY](https://docs.lando.dev/privacy)
 * [Important advice](https://www.youtube.com/watch?v=WA4iX5D9Z64)

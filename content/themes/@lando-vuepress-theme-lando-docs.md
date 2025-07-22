@@ -15,7 +15,7 @@ homepage: https://github.com/lando/vuepress-theme-lando-docs
 keywords:
 - lando
 - vuepress
-license: GNU General Public License v3.0
+license: MIT License
 maintainers: null
 name: '@lando/vuepress-theme-lando-docs'
 npm: https://www.npmjs.com/package/%40lando%2Fvuepress-theme-lando-docs
@@ -96,4 +96,7 @@ Made with [contributors-img](https://contrib.rocks).
 
 ## Other Resources
 
+* [LICENSE](/LICENSE)
+* [TERMS OF USE](https://docs.lando.dev/terms)
+* [PRIVACY POLICY](https://docs.lando.dev/privacy)
 * [Important advice](https://www.youtube.com/watch?v=WA4iX5D9Z64)
