@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/48539483?v=4
+  avatar: null
   email: meteor.lxy@foxmail.com
   name: meteorlxy
   url: null
@@ -17,7 +17,7 @@ keywords:
 - scroll
 - smooth
 - vuepress
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-plugin-smooth-scroll
 npm: https://www.npmjs.com/package/vuepress-plugin-smooth-scroll
@@ -29,10 +29,10 @@ publisher:
   username: meteorlxy
 repository: https://github.com/vuepress/vuepress-community
 score: 0.6082373282557917
-stars: 82
+stars: 0
 unstable: true
 version: 0.0.10
-watchers: 82
+watchers: 0
 
 ---
 
