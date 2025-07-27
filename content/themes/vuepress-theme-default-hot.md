@@ -29,10 +29,10 @@ publisher:
   username: songlairui
 repository: https://github.com/vuejs/vuepress
 score: 0.17807428814424725
-stars: 22795
+stars: 22796
 unstable: false
 version: 1.2.0
-watchers: 22795
+watchers: 22796
 
 ---
 
