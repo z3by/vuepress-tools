@@ -1,6 +1,6 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/48539483?v=4
+  avatar: null
   email: 1700011071@pku.edu.cn
   name: Shigma
   url: null
@@ -19,7 +19,7 @@ keywords:
 - server
 - ssr
 - vuepress
-license: MIT License
+license: null
 maintainers: null
 name: vuepress-plugin-dehydrate
 npm: https://www.npmjs.com/package/vuepress-plugin-dehydrate
@@ -31,10 +31,10 @@ publisher:
   username: meteorlxy
 repository: https://github.com/vuepress/vuepress-community
 score: 0.581997258268985
-stars: 82
+stars: 0
 unstable: false
 version: 1.1.5
-watchers: 82
+watchers: 0
 
 ---
 
