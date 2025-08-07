@@ -28,10 +28,10 @@ publisher:
   username: cschero101
 repository: https://github.com/vuepress-reco/vuepress-theme-reco
 score: 0.20924223072644205
-stars: 645
+stars: 646
 unstable: false
 version: 1.1.1
-watchers: 645
+watchers: 646
 
 ---
 
