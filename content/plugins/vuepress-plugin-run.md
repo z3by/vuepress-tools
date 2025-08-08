@@ -33,10 +33,10 @@ publisher:
   username: zhangchaojie
 repository: https://github.com/dream2023/vuepress-plugin-run
 score: 0.3280453995508523
-stars: 27
+stars: 28
 unstable: false
 version: 1.0.2
-watchers: 27
+watchers: 28
 
 ---
 
