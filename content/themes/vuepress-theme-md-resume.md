@@ -30,10 +30,10 @@ publisher:
   username: mrjzhang
 repository: https://github.com/wannaxiao/vuepress-theme-resume
 score: 0.1503188596376961
-stars: 462
+stars: 464
 unstable: true
 version: 0.1.5
-watchers: 462
+watchers: 464
 
 ---
 
