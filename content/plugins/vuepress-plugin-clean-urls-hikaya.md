@@ -29,10 +29,10 @@ publisher:
   username: tanas
 repository: https://github.com/vuepress/vuepress-community
 score: 0.17838770556577116
-stars: 82
+stars: 81
 unstable: false
 version: 1.1.2
-watchers: 82
+watchers: 81
 
 ---
 
