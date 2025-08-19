@@ -1,10 +1,10 @@
 ---
 author:
-  avatar: https://avatars.githubusercontent.com/u/20984527?v=4
+  avatar: null
   email: null
   name: busyrat
   url: null
-  username: busyrat
+  username: null
 bugs: https://github.com/busyrat/vuepress-plugins/issues
 category: plugins
 date: '2019-08-22T07:56:46.124Z'
@@ -16,7 +16,7 @@ homepage: https://github.com/busyrat/vuepress-plugins#readme
 keywords:
 - vuepress
 - vuepress-plugin
-license: false
+license: null
 maintainers: null
 name: vuepress-plugin-elementui-docs
 npm: https://www.npmjs.com/package/vuepress-plugin-elementui-docs
@@ -28,10 +28,10 @@ publisher:
   username: mcmagni
 repository: https://github.com/busyrat/vuepress-plugins
 score: 0.34283774952584134
-stars: 14
+stars: 0
 unstable: false
 version: 1.0.20
-watchers: 14
+watchers: 0
 
 ---
 

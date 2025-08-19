@@ -101,21 +101,18 @@ Options 分为 `metingApi`、`meting`、`aplayer`、`mobile`、`defaultCover` �
 `Meting` 相关选项
 
 - server
-
    - 类型：`string`
    - 默认值： `undefined`
    - 描述：MetingApi 中的 `server` 参数，即音乐平台
    - 可选值： `"netease" | "tencent" | "kuwo" | "kugou" | "baidu"`
 
 - type
-
    - 类型：`string`
    - 默认值： `undefined`
    - 描述：MetingApi 中的 `type` 参数，即资源类型（播放列表、单曲、专辑等）
    - 可选值： `"song" | "album" | "artist" | "playlist"`
 
 - mid
-
    - 类型：`string`
    - 默认值： `undefined`
    - 描述：MetingApi 中的 `id` 参数，即资源 ID
@@ -148,58 +145,49 @@ meting: {
 > 详情见 ~~[vue-aplayer 文档（当前无法访问）](https://aplayer.moefe.org/docs/options/)~~ [vue-aplayer 文档 GitHub 页面](https://github.com/MoePlayer/vue-aplayer/blob/dev/docs/options/README.md)
 
 - fixed
-
    - 类型：`boolean`
    - 默认值： `false`
    - 描述：是否开启吸底模式
 
 - mini
-
    - 类型：`boolean`
    - 默认值： `false`
    - 描述：是否开启迷你模式
 
 - autoplay
-
    - 类型：`boolean`
    - 默认值： `false`
    - 描述：是否开启自动播放
 
 - theme
-
    - 类型： `string`
    - 默认值： `#b7daff`
    - 描述：设置播放器默认主题颜色
 
 - loop
-
    - 类型：`APlayer.LoopMode`
    - 默认值： `all`
    - 描述：设置播放器的初始循环模式
    - 可选值：`'all' | 'one' | 'none'`
 
 - order
-
    - 类型：`APlayer.OrderMode`
    - 默认值： `list`
    - 描述：设置播放器的初始顺序模式
    - 可选值： `'list' | 'random'`
 
 - preload
-
    - 类型：`APlayer.Preload`
    - 默认值： `auto`
    - 描述：设置音频的预加载模式
    - 可选值：`'none' | 'metadata' | 'auto'`
 
 - volume
-
    - 类型：`number`
    - 默认值： `0.7`
    - 描述：设置播放器的音量
 
 - additionalAudios
-
    - 类型：`Array<APlayer.Audio>`
    - 默认值：`[]`
    - 描述：除 Meting 解析的 audio 外额外添加的 audio
@@ -208,26 +196,22 @@ meting: {
 - customAudioType（见 [vue-aplayer 文档](https://github.com/MoePlayer/vue-aplayer/blob/dev/docs/options/README.md#customaudiotype-)）
 
 - mutex
-
    - 类型：`boolean`
    - 默认值： `true`
    - 描述：是否开启互斥模式
 
 - lrcType
-
    - 类型：`APlayer.LrcType?`
    - 默认值： `0`
    - 描述：设置 lrc 歌词解析模式
    - 可选值： `3 | 1 | 0`（`0`：禁用 lrc 歌词，`1`：lrc 格式的字符串，`3`：lrc 文件 url）
 
 - listFolded
-
    - 类型：`boolean`
    - 默认值： `false`
    - 描述：是否折叠播放列表
 
 - listMaxHeight
-
    - 类型：`number`
    - 默认值： `250`
    - 描述：设置播放列表最大高度，单位为像素
@@ -242,7 +226,6 @@ meting: {
 用于控制全局吸底播放器在移动设备上的一些特殊选项
 
 - cover
-
    - 类型：`boolean`
    - 默认值： `true`
    - 描述：是否显示封面图，如果隐藏的话可以防止播放器遮挡移动设备上的文字内容
