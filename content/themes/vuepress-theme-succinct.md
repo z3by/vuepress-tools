@@ -29,10 +29,10 @@ publisher:
   username: naiyer
 repository: https://github.com/Microflash/vuepress-theme-succinct
 score: 0.37526624724002516
-stars: 30
+stars: 29
 unstable: false
 version: 1.7.2
-watchers: 30
+watchers: 29
 
 ---
 
