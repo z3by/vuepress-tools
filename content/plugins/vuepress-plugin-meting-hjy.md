@@ -29,10 +29,10 @@ publisher:
   username: cschero101
 repository: https://github.com/moefyit/vuepress-plugin-meting
 score: 0.1576956601889007
-stars: 34
+stars: 35
 unstable: true
 version: 0.3.2
-watchers: 34
+watchers: 35
 
 ---
 

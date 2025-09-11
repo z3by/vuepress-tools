@@ -30,10 +30,10 @@ publisher:
   username: qiuyw
 repository: https://github.com/QYueWang/vuepress-plugin-flexsearch-pro
 score: 0.5017745501898841
-stars: 13
+stars: 14
 unstable: false
 version: 1.0.3
-watchers: 13
+watchers: 14
 
 ---
 
