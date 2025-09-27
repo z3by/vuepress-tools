@@ -27,10 +27,10 @@ publisher:
   username: runyuanj
 repository: https://github.com/xugaoyi/vuepress-theme-vdoing
 score: 0.17812400519937538
-stars: 4831
+stars: 4832
 unstable: false
 version: 1.1.0
-watchers: 4831
+watchers: 4832
 
 ---
 
