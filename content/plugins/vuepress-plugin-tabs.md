@@ -28,10 +28,10 @@ publisher:
   username: pskordilakis
 repository: https://github.com/pskordilakis/vuepress-plugin-tabs
 score: 0.4270188544651823
-stars: 59
+stars: 60
 unstable: true
 version: 0.3.0
-watchers: 59
+watchers: 60
 
 ---
 

@@ -32,10 +32,10 @@ publisher:
   username: dlsound
 repository: https://github.com/cjSound/vuepress-plugin-demo-container-vue3
 score: 0.5895092582475896
-stars: 15
+stars: 16
 unstable: false
 version: 1.0.0
-watchers: 15
+watchers: 16
 
 ---
 
