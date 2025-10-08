@@ -25,10 +25,10 @@ publisher:
   username: pengzhanbo
 repository: https://github.com/pengzhanbo/vuepress-theme-plume
 score: 0.49937295244701085
-stars: 352
+stars: 353
 unstable: true
 version: 1.0.0-beta.36
-watchers: 352
+watchers: 353
 
 ---
 
@@ -57,7 +57,7 @@ watchers: 352
 中文 | <a href="/readme.en-US.md">English</a>
 </p>
 
-一个简约的，干净的，容易上手的 vuepress 主题，适用于博客和文档。
+一个简约的，干净的，容易上手的 vuepress 主题，适用于博客、专栏 和 文档。
 
 开箱即用，仅需少量配置即可使用，让您更专注于 内容的创作，更好的表达你的想法，形成你的知识笔记。
 
@@ -66,7 +66,7 @@ watchers: 352
 ## 特性
 
 - 💻 响应式布局，适配不同的屏幕尺寸
-- 📖 博客 & 文档
+- 📖 集合：通过集合，可同时实现 博客、专栏、 产品文档、技术文档、知识库等
 - 🔗 自动生成文章永久链接
 - ⚖  支持多语言
 - 👀 支持 搜索、文章评论
