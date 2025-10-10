@@ -31,10 +31,10 @@ publisher:
   username: wowthemesnet
 repository: https://github.com/wowthemesnet/mediumish-vuepress-blog-theme
 score: 0.6306124586839854
-stars: 113
+stars: 114
 unstable: false
 version: 1.0.32
-watchers: 113
+watchers: 114
 
 ---
 
