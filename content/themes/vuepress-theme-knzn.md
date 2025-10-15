@@ -30,10 +30,10 @@ publisher:
   username: zhb333
 repository: https://github.com/zhb333/vuepress-theme-knzn
 score: 0.5235357094313732
-stars: 13
+stars: 12
 unstable: false
 version: 1.0.6
-watchers: 13
+watchers: 12
 
 ---
 
